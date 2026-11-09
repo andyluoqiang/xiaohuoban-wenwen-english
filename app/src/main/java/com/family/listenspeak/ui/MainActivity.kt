@@ -64,12 +64,17 @@ class MainActivity : AppCompatActivity() {
     private var curLevel = "l1"
     private var stage = 0            // 0=词卡批(选图) 1=句子批(跟读)；批量学习阶段切换
 
-    // ===== 课程制（2026-11-09）：每课 10 词 + 随机课 =====
+    // ===== 课程制（每课 10 词）两轮制：第1遍听音选图（选对图上叠词），第2遍乱序听音选词（选对图显词下） =====
     private data class LessonDef(val id: String, val idx: Int, val title: String,
                                   val cards: List<CardDef>, val cam: Boolean = false)
     private var curLesson: LessonDef? = null
-    private var wordStep = 0         // 词卡双步：0=听音选图 1=听音选词 2=图词揭示
-    private var wordOptions: List<String> = emptyList()   // 词选步选项
+    private var round = 0                       // 词课：0=图轮 1=词轮；句课恒 0
+    private var round2Items: List<SessionEngine.QueueItem> = emptyList()   // 词轮队列（乱序）
+    private var wordImgSlot: FrameLayout? = null // 词轮：选对后图片显示区（在文字下面）
+    private var wordOptions: List<String> = emptyList()   // 词轮选项
+
+    private fun curQueue(): List<SessionEngine.QueueItem> =
+        if (round == 1 && round2Items.isNotEmpty()) round2Items else items
 
     private val recorder = PcmRecorder()
     private val handler = Handler(Looper.getMainLooper())
@@ -263,7 +268,7 @@ class MainActivity : AppCompatActivity() {
         startSession(cards)
     }
 
-    /** 会话启动：词卡带图选项（图选步）；句子卡走跟读 */
+    /** 会话启动：词课两轮（图轮→乱序词轮）；句课一轮跟读 */
     private fun startSession(cards: List<CardDef>) {
         backAction = { showDifficultyMap() }
         stage = if (currentBand <= 2) 0 else 1
@@ -273,7 +278,7 @@ class MainActivity : AppCompatActivity() {
             val opts = if (c.type in LISTEN_TYPES) emptyList() else buildOpts(c, pool, want)
             SessionEngine.QueueItem(c, false, opts)
         }.filter { it.optionsShuffled.isNotEmpty() || it.card.type in LISTEN_TYPES }
-        idx = 0; stars = 0; wordStep = 0
+        idx = 0; stars = 0; round = 0
         renderSession()
     }
 
@@ -299,113 +304,97 @@ class MainActivity : AppCompatActivity() {
         return (listOf(correct) + distractors).shuffled()
     }
 
-    // =============== 会话渲染 ===============
+    // =============== 会话渲染（两轮制） ===============
     private fun renderSession() {
-        wordStep = 0          // 新卡：从图选步开始
         attempt = 0
-        renderCurrent()
-    }
-
-    /** 当前卡渲染（wordStep 切换时调用，不重置步态）—— 双步原地叠加：不切页 */
-    private fun renderCurrent() {
-        val cur = items.getOrNull(idx)
+        val queue = curQueue()
+        val cur = queue.getOrNull(idx)
         if (cur == null) { onBatchEnd(); return }
         busy = false
+        wordImgSlot = null
         val root = vBox().apply { setBackgroundColor(bg()) }
         root.addView(sessionTop(cur))
-        if (cur.optionsShuffled.isEmpty()) {
-            // 句子卡：用 ScrollView 包裹，避免文字/内容被屏幕裁切
+        if (stage == 1 || cur.optionsShuffled.isEmpty()) {
+            // 句子课：一轮跟读（逐词可点 + 跟读评分）
             val sc = ScrollView(this).apply { setBackgroundColor(bg()); isFillViewport = true }
             sc.addView(listenCard(cur))
             root.addView(sc, lp(mpBar(), 0).also { it.weight = 1f })
             root.addView(listenBottom())
-        } else if (wordStep == 0) {
-            // 听音选图步（图选对后：单词原位叠加在图片上，进入词选提示）
+        } else if (round == 0) {
+            // 第 1 遍：🎧 听音选图（选对 → 单词叠加在图上）
             root.addView(optionGrid(cur), lp(mpBar(), 0).also { it.weight = 1f })
             root.addView(choiceBottom())
-        } else if (wordStep == 1) {
-            // 词选步（图选已完成）：上半保留已选对的图（带单词叠加），下半出词选按钮
-            val half = vBox()
-            val imgPath = cur.card.image?.takeIf { it.startsWith("img/") }
-            val frame = FrameLayout(this)
-            if (imgPath != null) {
-                val iv = ImageView(this).apply {
-                    scaleType = ImageView.ScaleType.FIT_CENTER
-                    setPadding(dp(6), dp(6), dp(6), dp(6))
-                }
-                setupImage("content/v1/$imgPath", iv)
-                frame.addView(iv, FrameLayout.LayoutParams(mpBar(), mpBar()))
-            }
-            // 单词叠加条（半透明底）+ 中文小字
-            val overlay = vBox().apply {
-                gravity = Gravity.CENTER
-                background = rounded(Color.argb(210, 255, 255, 255), dp(18))
-                setPadding(dp(14), dp(8), dp(14), dp(8))
-            }
-            overlay.addView(textTv(cur.card.en, 26f, brown()).also { it.gravity = Gravity.CENTER })
-            cur.card.zh?.let { overlay.addView(textTv(it, 13f, hintColor()).also { t -> t.gravity = Gravity.CENTER }) }
-            frame.addView(overlay, FrameLayout.LayoutParams(mpBar(), wrapPx()).also {
-                it.gravity = Gravity.BOTTOM or Gravity.CENTER_HORIZONTAL; it.bottomMargin = dp(10)
-            })
-            half.addView(frame, LinearLayout.LayoutParams(mpBar(), 0, 1f))
-            half.addView(wordGrid(cur), LinearLayout.LayoutParams(mpBar(), 0, 1f))
-            root.addView(half, lp(mpBar(), 0).also { it.weight = 1f })
-            root.addView(choiceBottom())
         } else {
-            // 揭示步（词选对）：上半=图（词+中文叠加完整显示），下半=🔊再听+继续
-            val half = vBox()
-            val imgPath = cur.card.image?.takeIf { it.startsWith("img/") }
-            val frame = FrameLayout(this)
-            if (imgPath != null) {
-                val iv = ImageView(this).apply {
-                    scaleType = ImageView.ScaleType.FIT_CENTER
-                    setPadding(dp(6), dp(6), dp(6), dp(6))
-                }
-                setupImage("content/v1/$imgPath", iv)
-                frame.addView(iv, FrameLayout.LayoutParams(mpBar(), mpBar()))
-            }
-            val overlay = vBox().apply {
-                gravity = Gravity.CENTER
-                background = rounded(Color.WHITE, dp(22))
-                setPadding(dp(22), dp(14), dp(22), dp(14))
-            }
-            overlay.addView(textTv(cur.card.en, 34f, brown()).also { it.gravity = Gravity.CENTER })
-            overlay.addView(textTv(cur.card.zh ?: "", 17f, hintColor()).also { t -> t.gravity = Gravity.CENTER })
-            frame.addView(overlay, FrameLayout.LayoutParams(wrapPx(), wrapPx()).also {
-                it.gravity = Gravity.CENTER
-            })
-            half.addView(frame, LinearLayout.LayoutParams(mpBar(), 0, 1f))
-            val row = hbox().apply { gravity = Gravity.CENTER }
-            val relisten = cartoonBtn("🔊 再听", "🔊", 0xFF4FA3D1.toInt(), Color.WHITE) { playCurrent() }
-            row.addView(relisten, lp(wrapPx(), wrapPx()))
-            val next = cartoonBtn("继续", "🐣", green(), Color.WHITE) { idx++; renderSession() }
-            row.addView(next, lp(wrapPx(), wrapPx()).also { it.leftMargin = dp(10) })
-            half.addView(row, LinearLayout.LayoutParams(mpBar(), wrapPx()).also { it.topMargin = dp(8) })
-            root.addView(half, lp(mpBar(), 0).also { it.weight = 1f })
+            // 第 2 遍：🔤 听音选词（选对 → 图片显示在文字下面）
+            val sc = ScrollView(this).apply { setBackgroundColor(bg()); isFillViewport = true }
+            sc.addView(wordRoundView(cur))
+            root.addView(sc, lp(mpBar(), 0).also { it.weight = 1f })
+            root.addView(choiceBottom())
         }
         setView(root)
         animateIn(root.getChildAt(1))
         handler.postDelayed({ playCurrent() }, 400)
     }
 
-    /** 听音选词步：大单词按钮（卡通胶囊，自适应高度防裁字） */
-    private fun wordGrid(cur: SessionEngine.QueueItem): LinearLayout {
-        val box = vBox().apply { setPadding(dp(12), dp(8), dp(12), dp(8)); gravity = Gravity.CENTER }
-        box.addView(textTv("🔤 再听一次，选出这个单词", 16f, brown()).also { it.gravity = Gravity.CENTER })
+    /** 词轮视图：题干 + 大词按钮（下方预留图片显示区） */
+    private fun wordRoundView(cur: SessionEngine.QueueItem): LinearLayout {
+        val box = vBox().apply { setPadding(dp(12), dp(12), dp(12), dp(8)) }
+        box.addView(textTv("🔤 第2遍 · 听一听，选出这个单词", 16f, brown()).also { it.gravity = Gravity.CENTER })
+        wordOptions = buildWordOptions(cur.card)
         wordOptions.forEachIndexed { i, w ->
             val btn = cartoonBtn(w, "", pastel[i % 4], Color.WHITE) { }
             btn.setOnClickListener { onWordChoice(btn, w) }
             btn.textSize = 24f
             box.addView(btn, lp(mpBar(), wrapPx()).also { it.topMargin = dp(8) })
         }
+        // 图片显示区（选对后填充，在文字按钮下面）
+        val slot = FrameLayout(this).apply {
+            background = rounded(Color.WHITE, dp(20))
+            setPadding(dp(6), dp(6), dp(6), dp(6))
+        }
+        wordImgSlot = slot
+        box.addView(slot, LinearLayout.LayoutParams(mpBar(), wrapPx()).also { it.topMargin = dp(10) })
         return box
     }
 
-    /** 会话顶栏：✕ + (进度) 中文 + ★ */
+    /** 词轮选对：图片 + 中文显示在单词按钮区域下面（原位填充 slot） */
+    private fun showImageUnderWords(cur: SessionEngine.QueueItem) {
+        val slot = wordImgSlot ?: return
+        val imgPath = cur.card.image?.takeIf { it.startsWith("img/") }
+        val iv = ImageView(this).apply {
+            scaleType = ImageView.ScaleType.FIT_CENTER
+            adjustViewBounds = true
+            setPadding(dp(4), dp(4), dp(4), dp(4))
+        }
+        if (imgPath != null) setupImage("content/v1/$imgPath", iv)
+        slot.addView(iv, FrameLayout.LayoutParams(mpBar(), dp(180)))
+        cur.card.zh?.let { slot.addView(textTv(it, 14f, hintColor()).also { t ->
+            t.gravity = Gravity.CENTER }, FrameLayout.LayoutParams(mpBar(), wrapPx()).also {
+            it.gravity = Gravity.BOTTOM or Gravity.CENTER_HORIZONTAL; it.bottomMargin = dp(6) }) }
+    }
+
+    /** 继续：图轮完 → 进入乱序词轮；词轮完 → 完成页 */
+    private fun advanceCard() {
+        idx++
+        if (idx < curQueue().size) { renderSession(); return }
+        if (stage == 0 && round == 0 && currentBand <= 2) {
+            // 图轮完成 → 词轮（乱序）
+            round = 1
+            round2Items = items.shuffled()
+            idx = 0
+            renderSession()
+        } else showDone()
+    }
+
     private fun sessionTop(cur: SessionEngine.QueueItem): LinearLayout {
         val bar = hbox().apply { setPadding(dp(14), dp(18), dp(14), dp(6)) }
         bar.addView(circleBtn("✕") { showDifficultyMap() })
-        bar.addView(textTv("(${idx + 1}/${items.size}) ${cur.card.zh ?: ""}", 17f, brown()),
+        val tag = when {
+            stage == 1 -> ""
+            round == 0 -> "🎧 第1遍 · 看图 "
+            else -> "🔤 第2遍 · 认词 "
+        }
+        bar.addView(textTv("$tag(${idx + 1}/${curQueue().size}) ${cur.card.zh ?: ""}", 16f, brown()),
             LinearLayout.LayoutParams(0, wrapPx()).also { it.weight = 1f; it.leftMargin = dp(8) })
         bar.addView(textTv("★ $stars", 22f, gold()))
         return bar
@@ -504,11 +493,10 @@ class MainActivity : AppCompatActivity() {
         // 两按钮统一全宽自适应高度：不裁字（固定高度在系统字体缩放下会裁内容）
         val replay = cartoonBtn("再听一次", "🔊", yellow(), brown()) { playCurrent() }
         b.addView(replay, lp(mpBar(), wrapPx()).also { it.topMargin = dp(6) })
-        // 答对后才出现「继续」按钮（INVISIBLE 保持占位不跳动）
+        // 答对后才出现「继续」按钮（INVISIBLE 保持占位不跳动）：图轮完→乱序词轮；词轮完→完成
         nextBtn = cartoonBtn("继续", "🐣", green(), Color.WHITE) {
             nextBtn?.visibility = View.INVISIBLE
-            idx++
-            renderSession()
+            advanceCard()
         }.apply { visibility = View.INVISIBLE }
         b.addView(nextBtn!!, lp(mpBar(), wrapPx()).also { it.topMargin = dp(8) })
         return b
@@ -590,34 +578,29 @@ class MainActivity : AppCompatActivity() {
         else app.tts.speak(display, false)
     }
 
-    // =============== 判定（动画 + 音效） ===============
+    // =============== 判定（两轮：图轮/词轮 各自首答得星） ===============
     private fun onChoice(cell: View, picked: String) {
-        val cur = items[idx]
+        val cur = curQueue()[idx]
         if (busy) return
         busy = true
         lifecycleScope.launch {
             val r = app.sessionEngine.judge(childId, cur, picked, ++attempt)
             if (r.correct) {
-                // 图选对：单词【原位叠加】在被选图片上（不切页），随后下方进入词选步
-                SoundFx.soft()
+                // 图轮选对：单词【叠加在图上】+ 出继续（不再切入词选，词选在第二轮乱序重来）
+                stars += r.stars
+                SoundFx.correct()
+                hint(if (r.stars > 0) "太棒了！+${r.stars}★" else "不错哦～")
                 cheer(cell)
                 showWordOnCell(cell, cur.card.en, cur.card.zh)
-                handler.postDelayed({
-                    wordOptions = buildWordOptions(cur.card)
-                    wordStep = 1
-                    attempt = 0
-                    renderCurrent()   // 重新渲染：上半=已选图（带词）/ 下半=词选按钮
-                }, 900)
+                nextBtn?.visibility = View.VISIBLE
             } else if (r.teachMode) {
-                // 连错2次：示范态，播正确读音帮助小朋友，但【不推进】，必须答对才过关
                 hint("听仔细，再对它才过关哦～")
-                SoundFx.wrong()   // 第二次错误与第一次一致的错误音
+                SoundFx.wrong()
                 wiggle(cell)
                 playCurrent()
                 handler.postDelayed({ playCurrent() }, 1200)
                 handler.postDelayed({ busy = false }, 500)
             } else {
-                // 答错：不推进，停在当前题，重放读音，直到选对
                 hint("再试一次，选对才能过关哦～")
                 SoundFx.wrong()
                 wiggle(cell)
@@ -627,9 +610,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /** 词选判定：对→记星，弹卡显示词+图+中文（原位），出继续；错→不推进 */
+    /** 词轮判定：对→记星，图片+中文【显示在单词下面】（原位填充），出继续；错→不推进 */
     private fun onWordChoice(cell: View, picked: String) {
-        val cur = items[idx]
+        val cur = curQueue()[idx]
         if (busy) return
         busy = true
         lifecycleScope.launch {
@@ -639,8 +622,9 @@ class MainActivity : AppCompatActivity() {
                 stars += r.stars
                 SoundFx.correct()
                 hint(if (r.stars > 0) "太棒了！+${r.stars}★" else "不错哦～")
-                wordStep = 2
-                renderCurrent()
+                cheer(cell)
+                showImageUnderWords(cur)
+                nextBtn?.visibility = View.VISIBLE
             } else {
                 val r = app.sessionEngine.judge(childId, cur, picked, ++attempt)
                 if (r.teachMode) {
@@ -700,7 +684,7 @@ class MainActivity : AppCompatActivity() {
         val pcm = recorder.stop()
         lastRecPcm = pcm
         recButton?.text = "🎤 跟读"
-        val cur = items.getOrNull(idx) ?: return
+        val cur = curQueue().getOrNull(idx) ?: return
         if (!recorder.hasVoice(pcm)) { recResult?.text = "没听到，再读一次"; return }
         lifecycleScope.launch {
             val res = app.scorer.score(cur.card.en, pcm)
@@ -788,7 +772,7 @@ class MainActivity : AppCompatActivity() {
 
     // =============== 播放 ===============
     private fun playCurrent() {
-        val c = items.getOrNull(idx)?.card ?: return
+        val c = curQueue().getOrNull(idx)?.card ?: return
         lifecycleScope.launch { app.player.play("content/v1/${c.audio}", fallbackText = c.en, slow = false) }
     }
 
