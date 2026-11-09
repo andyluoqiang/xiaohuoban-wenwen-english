@@ -318,42 +318,42 @@
   "w": "giraffe",
   "zh": "长颈鹿",
   "pos": "n",
-  "img": "ai-giraffe.jpg",
+  "img": "img/ai-giraffe.jpg",
   "aud": "audio/all/400_giraffe.mp3"
  },
  "hippo": {
   "w": "hippo",
   "zh": "河马",
   "pos": "n",
-  "img": "cam-hippo.jpg",
+  "img": "img/cam-hippo.jpg",
   "aud": "audio/all/401_hippo.mp3"
  },
  "crocodile": {
   "w": "crocodile",
   "zh": "鳄鱼",
   "pos": "n",
-  "img": "cam-crocodile.jpg",
+  "img": "img/cam-crocodile.jpg",
   "aud": "audio/all/402_crocodile.mp3"
  },
  "lizard": {
   "w": "lizard",
   "zh": "蜥蜴",
   "pos": "n",
-  "img": "cam-lizard.jpg",
+  "img": "img/cam-lizard.jpg",
   "aud": "audio/all/403_lizard.mp3"
  },
  "parrot": {
   "w": "parrot",
   "zh": "鹦鹉",
   "pos": "n",
-  "img": "ai-parrot.jpg",
+  "img": "img/ai-parrot.jpg",
   "aud": "audio/all/404_parrot.mp3"
  },
  "kangaroo": {
   "w": "kangaroo",
   "zh": "袋鼠",
   "pos": "n",
-  "img": "ai-kangaroo.jpg",
+  "img": "img/ai-kangaroo.jpg",
   "aud": "audio/all/405_kangaroo.mp3"
  },
  "polar": {
@@ -367,105 +367,105 @@
   "w": "penguin",
   "zh": "企鹅",
   "pos": "n",
-  "img": "ai-penguin.jpg",
+  "img": "img/ai-penguin.jpg",
   "aud": "audio/all/407_penguin.mp3"
  },
  "whale": {
   "w": "whale",
   "zh": "鲸鱼",
   "pos": "n",
-  "img": "cam-whale.jpg",
+  "img": "img/cam-whale.jpg",
   "aud": "audio/all/408_whale.mp3"
  },
  "shark": {
   "w": "shark",
   "zh": "鲨鱼",
   "pos": "n",
-  "img": "cam-shark.jpg",
+  "img": "img/cam-shark.jpg",
   "aud": "audio/all/409_shark.mp3"
  },
  "dolphin": {
   "w": "dolphin",
   "zh": "海豚",
   "pos": "n",
-  "img": "cam-dolphin.jpg",
+  "img": "img/cam-dolphin.jpg",
   "aud": "audio/all/410_dolphin.mp3"
  },
  "jellyfish": {
   "w": "jellyfish",
   "zh": "水母",
   "pos": "n",
-  "img": "ai-jellyfish.jpg",
+  "img": "img/ai-jellyfish.jpg",
   "aud": "audio/all/411_jellyfish.mp3"
  },
  "snail": {
   "w": "snail",
   "zh": "蜗牛",
   "pos": "n",
-  "img": "ai-snail.jpg",
+  "img": "img/ai-snail.jpg",
   "aud": "audio/all/412_snail.mp3"
  },
  "bee": {
   "w": "bee",
   "zh": "蜜蜂",
   "pos": "n",
-  "img": "ai-bee.jpg",
+  "img": "img/ai-bee.jpg",
   "aud": "audio/all/413_bee.mp3"
  },
  "bat": {
   "w": "bat",
   "zh": "蝙蝠",
   "pos": "n",
-  "img": "ai-bat.jpg",
+  "img": "img/ai-bat.jpg",
   "aud": "audio/all/414_bat.mp3"
  },
  "fly": {
   "w": "fly",
   "zh": "飞",
   "pos": "n",
-  "img": "ai-fly.jpg",
+  "img": "img/ai-fly.jpg",
   "aud": "audio/all/415_fly.mp3"
  },
  "chicken": {
   "w": "chicken",
   "zh": "鸡肉",
   "pos": "n",
-  "img": "cam-chicken.jpg",
+  "img": "img/cam-chicken.jpg",
   "aud": "audio/all/416_chicken.mp3"
  },
  "goat": {
   "w": "goat",
   "zh": "山羊",
   "pos": "n",
-  "img": "cam-goat.jpg",
+  "img": "img/cam-goat.jpg",
   "aud": "audio/all/417_goat.mp3"
  },
  "donkey": {
   "w": "donkey",
   "zh": "驴",
   "pos": "n",
-  "img": "ai-donkey.jpg",
+  "img": "img/ai-donkey.jpg",
   "aud": "audio/all/418_donkey.mp3"
  },
  "fish": {
   "w": "fish",
   "zh": "鱼",
   "pos": "n",
-  "img": "cam-fish.jpg",
+  "img": "img/cam-fish.jpg",
   "aud": "audio/all/419_fish.mp3"
  },
  "spider": {
   "w": "spider",
   "zh": "蜘蛛",
   "pos": "n",
-  "img": "cam-spider.jpg",
+  "img": "img/cam-spider.jpg",
   "aud": "audio/all/420_spider.mp3"
  },
  "cage": {
   "w": "cage",
   "zh": "笼子",
   "pos": "n",
-  "img": "ai-cage.jpg",
+  "img": "img/ai-cage.jpg",
   "aud": "audio/all/421_cage.mp3"
  },
  "at": {

@@ -28,7 +28,8 @@ data class UnitDef(
     val id: String,
     val band: Int,
     val title: String,
-    val cards: List<CardDef>
+    val cards: List<CardDef>,
+    val newFirst: Boolean? = null       // 剑桥新单元：批次优先学（家长验证 + 增量内容先见）
 )
 
 data class CardDef(

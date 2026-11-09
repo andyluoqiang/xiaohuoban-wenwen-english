@@ -147,6 +147,11 @@ class MainActivity : AppCompatActivity() {
         val col = vBox().apply { setPadding(dp(24), dp(40), dp(24), dp(64)) }   // 底部留安全区，防文字被导航条裁切
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
+        // 版本指纹：装对/装错一眼可辨（剑桥改版一起标识）
+        col.addView(TextView(this).apply {
+            text = "v0.2.3 · 剑桥岛版"
+            textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
+        })
         LEVELS.forEach { lv ->
             col.addView(levelRow(lv) { showThemePicker(lv.key) }, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
         }
@@ -286,10 +291,14 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /** 词卡批：该档位未学(首答未过)的词卡/短语卡，取一批 ≤CHOICE_BATCH，混插到期复习卡 */
+    /** 词卡批：该档位未学(首答未过)的词卡/短语卡，取一批 ≤CHOICE_BATCH，混插到期复习卡。
+     *  newFirst 单元（剑桥新内容）排最前：打开主题立刻见到新词 */
     private suspend fun buildChoiceBatch(): List<SessionEngine.QueueItem> {
-        val prefix = "$curTheme-l$currentBand-"
-        val choice = app.content.unitCards.filterKeys { it.startsWith(prefix) }.values.flatten()
+        val units = app.content.themes[curTheme]?.units
+            ?.filter { it.band == currentBand }
+            ?.sortedWith(compareByDescending { it.newFirst == true })
+            ?: emptyList()
+        val choice = units.flatMap { it.cards }
             .filter { it.type !in LISTEN_TYPES && it.image != null }
         val passed = app.db.attemptDao().passedCardIds(childId).toSet()
         val unpassed = choice.filter { it.id !in passed }
