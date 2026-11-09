@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 固定 Light 主题：儿童应用不跟随系统深色模式 -->
+    <style name="Theme.LS" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_green_dark</item>
+        <item name="colorAccent">@color/accent_coral</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="android:windowBackground">@color/bg_warm</item>
+        <item name="android:statusBarColor">@color/primary_green</item>
+    </style>
+</resources>

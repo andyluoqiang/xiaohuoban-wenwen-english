@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">稳稳学英语</string>
+    <string name="btn_listen_again">再听一次</string>
+    <string name="btn_record">跟我读</string>
+    <string name="btn_next">下一题</string>
+    <string name="btn_retry">再试一次</string>
+    <string name="hint_prepare">准备好了吗？</string>
+    <string name="recording_hint">我在听你说～</string>
+    <string name="eval_later">已录好，稍后评</string>
+    <string name="session_done_today">今天到这啦！</string>
+    <string name="star_gained">+%d★</string>
+    <string name="choose_child">谁在学习呀？</string>
+    <string name="add_child">添加小朋友</string>
+    <string name="theme_body">身体与动作</string>
+    <string name="mic_permission_tip">需要麦克风才能跟读练习，请允许哦</string>
+    <string name="no_key_tip">评测密钥未配置，请检查 local.properties</string>
+</resources>

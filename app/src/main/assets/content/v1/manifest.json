@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-05",
+  "voice": "edge-tts Aria",
+  "themes": [
+    {
+      "id": "body",
+      "nameZh": "身体与动作",
+      "order": 1,
+      "bandRange": [
+        1,
+        6
+      ],
+      "units": 12,
+      "cards": 67
+    },
+    {
+      "id": "food",
+      "nameZh": "食物与饮品",
+      "order": 2,
+      "bandRange": [
+        1,
+        6
+      ],
+      "units": 12,
+      "cards": 67
+    },
+    {
+      "id": "play",
+      "nameZh": "运动与游戏",
+      "order": 3,
+      "bandRange": [
+        1,
+        6
+      ],
+      "units": 12,
+      "cards": 67
+    },
+    {
+      "id": "animals",
+      "nameZh": "动物与宠物",
+      "order": 4,
+      "bandRange": [
+        1,
+        6
+      ],
+      "units": 12,
+      "cards": 67
+    }
+  ]
+}

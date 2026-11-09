@@ -1,0 +1,694 @@
+{
+  "theme": "body",
+  "nameZh": "身体与动作",
+  "order": 1,
+  "units": [
+    {
+      "id": "body-l1-u0",
+      "band": 1,
+      "title": "Stop!",
+      "cards": [
+        {
+          "id": "body-l1-u0-c1",
+          "type": "chant",
+          "en": "Nose, nose, touch your nose! Toes, toes, tap your toes!",
+          "audio": "audio/all/00_nose-nose-touch-your-nose-toes-toes-tap-.mp3",
+          "slow": "audio/all/00_nose-nose-touch-your-nose-toes-toes-tap-.mp3",
+          "image": null,
+          "zh": "主题儿歌"
+        },
+        {
+          "id": "body-l1-u0-c2",
+          "type": "func",
+          "en": "Stop!",
+          "audio": "audio/all/01_stop.mp3",
+          "slow": "audio/all/01_stop.mp3",
+          "image": "img/stop.jpg",
+          "zh": "停"
+        },
+        {
+          "id": "body-l1-u0-c3",
+          "type": "func",
+          "en": "Go!",
+          "audio": "audio/all/02_go.mp3",
+          "slow": "audio/all/02_go.mp3",
+          "image": "img/go.jpg",
+          "zh": "走"
+        },
+        {
+          "id": "body-l1-u0-c4",
+          "type": "func",
+          "en": "Look!",
+          "audio": "audio/all/03_look.mp3",
+          "slow": "audio/all/03_look.mp3",
+          "image": "img/look.jpg",
+          "zh": "看"
+        },
+        {
+          "id": "body-l1-u0-c5",
+          "type": "func",
+          "en": "Wash wash!",
+          "audio": "audio/all/04_wash-wash.mp3",
+          "slow": "audio/all/04_wash-wash.mp3",
+          "image": null,
+          "zh": "洗洗"
+        }
+      ]
+    },
+    {
+      "id": "body-l1-u1",
+      "band": 1,
+      "title": "Head",
+      "cards": [
+        {
+          "id": "body-l1-u1-c1",
+          "type": "word",
+          "en": "Head",
+          "audio": "audio/all/05_head.mp3",
+          "slow": "audio/all/05_head.mp3",
+          "image": "img/head.jpg",
+          "zh": "头"
+        },
+        {
+          "id": "body-l1-u1-c2",
+          "type": "word",
+          "en": "Hair",
+          "audio": "audio/all/06_hair.mp3",
+          "slow": "audio/all/06_hair.mp3",
+          "image": "img/hair.jpg",
+          "zh": "头发"
+        },
+        {
+          "id": "body-l1-u1-c3",
+          "type": "word",
+          "en": "Eye",
+          "audio": "audio/all/07_eye.mp3",
+          "slow": "audio/all/07_eye.mp3",
+          "image": "img/eye.jpg",
+          "zh": "眼睛"
+        },
+        {
+          "id": "body-l1-u1-c4",
+          "type": "word",
+          "en": "Ear",
+          "audio": "audio/all/08_ear.mp3",
+          "slow": "audio/all/08_ear.mp3",
+          "image": "img/ear.jpg",
+          "zh": "耳朵"
+        },
+        {
+          "id": "body-l1-u1-c5",
+          "type": "word",
+          "en": "Nose",
+          "audio": "audio/all/09_nose.mp3",
+          "slow": "audio/all/09_nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "鼻子"
+        },
+        {
+          "id": "body-l1-u1-c6",
+          "type": "word",
+          "en": "Mouth",
+          "audio": "audio/all/10_mouth.mp3",
+          "slow": "audio/all/10_mouth.mp3",
+          "image": "img/mouth.jpg",
+          "zh": "嘴巴"
+        }
+      ]
+    },
+    {
+      "id": "body-l1-u2",
+      "band": 1,
+      "title": "Tooth",
+      "cards": [
+        {
+          "id": "body-l1-u2-c1",
+          "type": "word",
+          "en": "Tooth",
+          "audio": "audio/all/11_tooth.mp3",
+          "slow": "audio/all/11_tooth.mp3",
+          "image": "img/tooth.jpg",
+          "zh": "牙齿"
+        },
+        {
+          "id": "body-l1-u2-c2",
+          "type": "word",
+          "en": "Hand",
+          "audio": "audio/all/12_hand.mp3",
+          "slow": "audio/all/12_hand.mp3",
+          "image": "img/hand.jpg",
+          "zh": "手"
+        },
+        {
+          "id": "body-l1-u2-c3",
+          "type": "word",
+          "en": "Arm",
+          "audio": "audio/all/13_arm.mp3",
+          "slow": "audio/all/13_arm.mp3",
+          "image": "img/arm.jpg",
+          "zh": "手臂"
+        },
+        {
+          "id": "body-l1-u2-c4",
+          "type": "word",
+          "en": "Leg",
+          "audio": "audio/all/14_leg.mp3",
+          "slow": "audio/all/14_leg.mp3",
+          "image": "img/leg.jpg",
+          "zh": "腿"
+        },
+        {
+          "id": "body-l1-u2-c5",
+          "type": "word",
+          "en": "Foot",
+          "audio": "audio/all/15_foot.mp3",
+          "slow": "audio/all/15_foot.mp3",
+          "image": "img/foot.jpg",
+          "zh": "脚"
+        },
+        {
+          "id": "body-l1-u2-c6",
+          "type": "word",
+          "en": "Face",
+          "audio": "audio/all/16_face.mp3",
+          "slow": "audio/all/16_face.mp3",
+          "image": "img/face.jpg",
+          "zh": "脸"
+        }
+      ]
+    },
+    {
+      "id": "body-l2-u1",
+      "band": 2,
+      "title": "Shoulder",
+      "cards": [
+        {
+          "id": "body-l2-u1-c1",
+          "type": "word",
+          "en": "Shoulder",
+          "audio": "audio/all/17_shoulder.mp3",
+          "slow": "audio/all/17_shoulder.mp3",
+          "image": "img/shoulder.jpg",
+          "zh": "肩"
+        },
+        {
+          "id": "body-l2-u1-c2",
+          "type": "word",
+          "en": "Knee",
+          "audio": "audio/all/18_knee.mp3",
+          "slow": "audio/all/18_knee.mp3",
+          "image": "img/knee.jpg",
+          "zh": "膝盖"
+        },
+        {
+          "id": "body-l2-u1-c3",
+          "type": "word",
+          "en": "Finger",
+          "audio": "audio/all/19_finger.mp3",
+          "slow": "audio/all/19_finger.mp3",
+          "image": "img/finger.jpg",
+          "zh": "手指"
+        },
+        {
+          "id": "body-l2-u1-c4",
+          "type": "word",
+          "en": "Toe",
+          "audio": "audio/all/20_toe.mp3",
+          "slow": "audio/all/20_toe.mp3",
+          "image": "img/toe.jpg",
+          "zh": "脚趾"
+        },
+        {
+          "id": "body-l2-u1-c5",
+          "type": "word",
+          "en": "Tummy",
+          "audio": "audio/all/21_tummy.mp3",
+          "slow": "audio/all/21_tummy.mp3",
+          "image": "img/tummy.jpg",
+          "zh": "肚子"
+        },
+        {
+          "id": "body-l2-u1-c6",
+          "type": "word",
+          "en": "Back",
+          "audio": "audio/all/22_back.mp3",
+          "slow": "audio/all/22_back.mp3",
+          "image": "img/back.jpg",
+          "zh": "背"
+        },
+        {
+          "id": "body-l2-u1-c7",
+          "type": "word",
+          "en": "Neck",
+          "audio": "audio/all/23_neck.mp3",
+          "slow": "audio/all/23_neck.mp3",
+          "image": "img/neck.jpg",
+          "zh": "脖子"
+        },
+        {
+          "id": "body-l2-u1-c8",
+          "type": "word",
+          "en": "Smile",
+          "audio": "audio/all/24_smile.mp3",
+          "slow": "audio/all/24_smile.mp3",
+          "image": "img/smile.jpg",
+          "zh": "微笑"
+        }
+      ]
+    },
+    {
+      "id": "body-l2-u2",
+      "band": 2,
+      "title": "Touch",
+      "cards": [
+        {
+          "id": "body-l2-u2-c1",
+          "type": "func",
+          "en": "Touch",
+          "audio": "audio/all/25_touch.mp3",
+          "slow": "audio/all/25_touch.mp3",
+          "image": "img/touch.jpg",
+          "zh": "触摸"
+        },
+        {
+          "id": "body-l2-u2-c2",
+          "type": "func",
+          "en": "Point",
+          "audio": "audio/all/26_point.mp3",
+          "slow": "audio/all/26_point.mp3",
+          "image": "img/point.jpg",
+          "zh": "指"
+        },
+        {
+          "id": "body-l2-u2-c3",
+          "type": "func",
+          "en": "Clap",
+          "audio": "audio/all/27_clap.mp3",
+          "slow": "audio/all/27_clap.mp3",
+          "image": "img/clap.jpg",
+          "zh": "拍手"
+        },
+        {
+          "id": "body-l2-u2-c4",
+          "type": "func",
+          "en": "Jump",
+          "audio": "audio/all/28_jump.mp3",
+          "slow": "audio/all/28_jump.mp3",
+          "image": "img/jump.jpg",
+          "zh": "跳"
+        },
+        {
+          "id": "body-l2-u2-c5",
+          "type": "func",
+          "en": "Run",
+          "audio": "audio/all/29_run.mp3",
+          "slow": "audio/all/29_run.mp3",
+          "image": "img/run.jpg",
+          "zh": "跑"
+        },
+        {
+          "id": "body-l2-u2-c6",
+          "type": "func",
+          "en": "Walk",
+          "audio": "audio/all/30_walk.mp3",
+          "slow": "audio/all/30_walk.mp3",
+          "image": "img/walk.jpg",
+          "zh": "走"
+        },
+        {
+          "id": "body-l2-u2-c7",
+          "type": "func",
+          "en": "Wash",
+          "audio": "audio/all/31_wash.mp3",
+          "slow": "audio/all/31_wash.mp3",
+          "image": "img/wash.jpg",
+          "zh": "洗"
+        },
+        {
+          "id": "body-l2-u2-c8",
+          "type": "func",
+          "en": "Brush",
+          "audio": "audio/all/32_brush.mp3",
+          "slow": "audio/all/32_brush.mp3",
+          "image": "img/brush.jpg",
+          "zh": "刷"
+        }
+      ]
+    },
+    {
+      "id": "body-l2-u3",
+      "band": 2,
+      "title": "Two eyes",
+      "cards": [
+        {
+          "id": "body-l2-u3-c1",
+          "type": "phrase",
+          "en": "Two eyes",
+          "audio": "audio/all/33_two-eyes.mp3",
+          "slow": "audio/all/33_two-eyes.mp3",
+          "image": "img/two-eyes.jpg",
+          "zh": "两只眼睛"
+        },
+        {
+          "id": "body-l2-u3-c2",
+          "type": "phrase",
+          "en": "One nose",
+          "audio": "audio/all/34_one-nose.mp3",
+          "slow": "audio/all/34_one-nose.mp3",
+          "image": "img/one-nose.jpg",
+          "zh": "一个鼻子"
+        },
+        {
+          "id": "body-l2-u3-c3",
+          "type": "phrase",
+          "en": "Red mouth",
+          "audio": "audio/all/35_red-mouth.mp3",
+          "slow": "audio/all/35_red-mouth.mp3",
+          "image": "img/red-mouth.jpg",
+          "zh": "红红的嘴"
+        }
+      ]
+    },
+    {
+      "id": "body-l3-u1",
+      "band": 3,
+      "title": "Touch your nose.",
+      "cards": [
+        {
+          "id": "body-l3-u1-c1",
+          "type": "sentence",
+          "en": "Touch your nose.",
+          "audio": "audio/all/36_touch-your-nose.mp3",
+          "slow": "audio/all/36_touch-your-nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "摸你的鼻子"
+        },
+        {
+          "id": "body-l3-u1-c2",
+          "type": "sentence",
+          "en": "Clap your hands.",
+          "audio": "audio/all/37_clap-your-hands.mp3",
+          "slow": "audio/all/37_clap-your-hands.mp3",
+          "image": "img/hand.jpg",
+          "zh": "拍手"
+        },
+        {
+          "id": "body-l3-u1-c3",
+          "type": "sentence",
+          "en": "I can jump!",
+          "audio": "audio/all/38_i-can-jump.mp3",
+          "slow": "audio/all/38_i-can-jump.mp3",
+          "image": "img/jump.jpg",
+          "zh": "我会跳"
+        },
+        {
+          "id": "body-l3-u1-c4",
+          "type": "sentence",
+          "en": "Wash your hands.",
+          "audio": "audio/all/39_wash-your-hands.mp3",
+          "slow": "audio/all/39_wash-your-hands.mp3",
+          "image": "img/hand.jpg",
+          "zh": "洗手"
+        },
+        {
+          "id": "body-l3-u1-c5",
+          "type": "sentence",
+          "en": "Open your mouth.",
+          "audio": "audio/all/40_open-your-mouth.mp3",
+          "slow": "audio/all/40_open-your-mouth.mp3",
+          "image": "img/mouth.jpg",
+          "zh": "张嘴"
+        },
+        {
+          "id": "body-l3-u1-c6",
+          "type": "sentence",
+          "en": "My foot hurts.",
+          "audio": "audio/all/41_my-foot-hurts.mp3",
+          "slow": "audio/all/41_my-foot-hurts.mp3",
+          "image": "img/foot.jpg",
+          "zh": "脚疼"
+        },
+        {
+          "id": "body-l3-u1-c7",
+          "type": "sentence",
+          "en": "I have two eyes.",
+          "audio": "audio/all/42_i-have-two-eyes.mp3",
+          "slow": "audio/all/42_i-have-two-eyes.mp3",
+          "image": "img/eye.jpg",
+          "zh": "我有两只眼"
+        },
+        {
+          "id": "body-l3-u1-c8",
+          "type": "sentence",
+          "en": "Shake your body!",
+          "audio": "audio/all/43_shake-your-body.mp3",
+          "slow": "audio/all/43_shake-your-body.mp3",
+          "image": "img/head.jpg",
+          "zh": "摇身体"
+        }
+      ]
+    },
+    {
+      "id": "body-l4-u1",
+      "band": 4,
+      "title": "What's this? It's my",
+      "cards": [
+        {
+          "id": "body-l4-u1-c1",
+          "type": "qa",
+          "en": "What's this? It's my nose.",
+          "audio": "audio/all/44_what-s-this-it-s-my-nose.mp3",
+          "slow": "audio/all/44_what-s-this-it-s-my-nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "这是什么?这是我的鼻子"
+        },
+        {
+          "id": "body-l4-u1-c2",
+          "type": "qa",
+          "en": "How many fingers? Ten!",
+          "audio": "audio/all/45_how-many-fingers-ten.mp3",
+          "slow": "audio/all/45_how-many-fingers-ten.mp3",
+          "image": "img/finger.jpg",
+          "zh": "有几根手指?十根!"
+        },
+        {
+          "id": "body-l4-u1-c3",
+          "type": "qa",
+          "en": "What can you do? I can run fast.",
+          "audio": "audio/all/46_what-can-you-do-i-can-run-fast.mp3",
+          "slow": "audio/all/46_what-can-you-do-i-can-run-fast.mp3",
+          "image": "img/run.jpg",
+          "zh": "你会做什么?我能跑得快"
+        },
+        {
+          "id": "body-l4-u1-c4",
+          "type": "qa",
+          "en": "What do you do with your hands? I clap and draw.",
+          "audio": "audio/all/47_what-do-you-do-with-your-hands-i-clap-an.mp3",
+          "slow": "audio/all/47_what-do-you-do-with-your-hands-i-clap-an.mp3",
+          "image": "img/hand.jpg",
+          "zh": "你用小手做什么?我拍手和画画"
+        },
+        {
+          "id": "body-l4-u1-c5",
+          "type": "qa",
+          "en": "Where is your tummy? Here it is!",
+          "audio": "audio/all/48_where-is-your-tummy-here-it-is.mp3",
+          "slow": "audio/all/48_where-is-your-tummy-here-it-is.mp3",
+          "image": "img/tummy.jpg",
+          "zh": "你的肚子在哪?在这里"
+        },
+        {
+          "id": "body-l4-u1-c6",
+          "type": "qa",
+          "en": "Can you clap your hands? Yes!",
+          "audio": "audio/all/49_can-you-clap-your-hands-yes.mp3",
+          "slow": "audio/all/49_can-you-clap-your-hands-yes.mp3",
+          "image": "img/hand.jpg",
+          "zh": "你会拍手吗?会"
+        }
+      ]
+    },
+    {
+      "id": "body-l4-u2",
+      "band": 4,
+      "title": "I see my nose.",
+      "cards": [
+        {
+          "id": "body-l4-u2-c1",
+          "type": "retell",
+          "en": "I see my nose.",
+          "audio": "audio/all/50_i-see-my-nose.mp3",
+          "slow": "audio/all/50_i-see-my-nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "我看见我的鼻子"
+        },
+        {
+          "id": "body-l4-u2-c2",
+          "type": "retell",
+          "en": "I washed my hands today.",
+          "audio": "audio/all/51_i-washed-my-hands-today.mp3",
+          "slow": "audio/all/51_i-washed-my-hands-today.mp3",
+          "image": "img/hand.jpg",
+          "zh": "我今天洗手了"
+        },
+        {
+          "id": "body-l4-u2-c3",
+          "type": "retell",
+          "en": "I have two eyes and one nose.",
+          "audio": "audio/all/52_i-have-two-eyes-and-one-nose.mp3",
+          "slow": "audio/all/52_i-have-two-eyes-and-one-nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "我有两只眼睛一个鼻子"
+        }
+      ]
+    },
+    {
+      "id": "body-l4-u3",
+      "band": 4,
+      "title": "What's this?",
+      "cards": [
+        {
+          "id": "body-l4-u3-c1",
+          "type": "inquire",
+          "en": "What's this?",
+          "audio": "audio/all/53_what-s-this.mp3",
+          "slow": "audio/all/53_what-s-this.mp3",
+          "image": "img/head.jpg",
+          "zh": "这是什么"
+        },
+        {
+          "id": "body-l4-u3-c2",
+          "type": "inquire",
+          "en": "Where is my hand?",
+          "audio": "audio/all/54_where-is-my-hand.mp3",
+          "slow": "audio/all/54_where-is-my-hand.mp3",
+          "image": "img/hand.jpg",
+          "zh": "我的手在哪"
+        },
+        {
+          "id": "body-l4-u3-c3",
+          "type": "inquire",
+          "en": "Can you touch your nose?",
+          "audio": "audio/all/55_can-you-touch-your-nose.mp3",
+          "slow": "audio/all/55_can-you-touch-your-nose.mp3",
+          "image": "img/nose.jpg",
+          "zh": "你能摸摸鼻子吗"
+        }
+      ]
+    },
+    {
+      "id": "body-l5-u1",
+      "band": 5,
+      "title": "What's wrong?",
+      "cards": [
+        {
+          "id": "body-l5-u1-c1",
+          "type": "dialog",
+          "en": "What's wrong?",
+          "audio": "audio/all/56_what-s-wrong.mp3",
+          "slow": "audio/all/56_what-s-wrong.mp3",
+          "image": "img/head.jpg",
+          "zh": "你怎么了"
+        },
+        {
+          "id": "body-l5-u1-c2",
+          "type": "dialog",
+          "en": "My leg hurts.",
+          "audio": "audio/all/57_my-leg-hurts.mp3",
+          "slow": "audio/all/57_my-leg-hurts.mp3",
+          "image": "img/leg.jpg",
+          "zh": "我的腿疼"
+        },
+        {
+          "id": "body-l5-u1-c3",
+          "type": "dialog",
+          "en": "Let me see. Can you walk?",
+          "audio": "audio/all/58_let-me-see-can-you-walk.mp3",
+          "slow": "audio/all/58_let-me-see-can-you-walk.mp3",
+          "image": "img/walk.jpg",
+          "zh": "我看看。你能走吗"
+        },
+        {
+          "id": "body-l5-u1-c4",
+          "type": "dialog",
+          "en": "A little. Ouch!",
+          "audio": "audio/all/59_a-little-ouch.mp3",
+          "slow": "audio/all/59_a-little-ouch.mp3",
+          "image": "img/head.jpg",
+          "zh": "能走一点。哎哟"
+        },
+        {
+          "id": "body-l5-u1-c5",
+          "type": "dialog",
+          "en": "Be careful. Let's put on a band-aid.",
+          "audio": "audio/all/60_be-careful-let-s-put-on-a-band-aid.mp3",
+          "slow": "audio/all/60_be-careful-let-s-put-on-a-band-aid.mp3",
+          "image": "img/hand.jpg",
+          "zh": "小心点。贴个创可贴吧"
+        },
+        {
+          "id": "body-l5-u1-c6",
+          "type": "dialog",
+          "en": "Thank you, Doctor!",
+          "audio": "audio/all/61_thank-you-doctor.mp3",
+          "slow": "audio/all/61_thank-you-doctor.mp3",
+          "image": "img/smile.jpg",
+          "zh": "谢谢医生"
+        }
+      ]
+    },
+    {
+      "id": "body-l6-u1",
+      "band": 6,
+      "title": "I take care of my bo",
+      "cards": [
+        {
+          "id": "body-l6-u1-c1",
+          "type": "story",
+          "en": "I take care of my body.",
+          "audio": "audio/all/62_i-take-care-of-my-body.mp3",
+          "slow": "audio/all/62_i-take-care-of-my-body.mp3",
+          "image": "img/head.jpg",
+          "zh": "我照顾我的身体"
+        },
+        {
+          "id": "body-l6-u1-c2",
+          "type": "story",
+          "en": "I brush my teeth every morning.",
+          "audio": "audio/all/63_i-brush-my-teeth-every-morning.mp3",
+          "slow": "audio/all/63_i-brush-my-teeth-every-morning.mp3",
+          "image": "img/tooth.jpg",
+          "zh": "我每天早上刷牙"
+        },
+        {
+          "id": "body-l6-u1-c3",
+          "type": "story",
+          "en": "I wash my hands before dinner.",
+          "audio": "audio/all/64_i-wash-my-hands-before-dinner.mp3",
+          "slow": "audio/all/64_i-wash-my-hands-before-dinner.mp3",
+          "image": "img/hand.jpg",
+          "zh": "我每天洗手"
+        },
+        {
+          "id": "body-l6-u1-c4",
+          "type": "story",
+          "en": "I jump and run every day.",
+          "audio": "audio/all/65_i-jump-and-run-every-day.mp3",
+          "slow": "audio/all/65_i-jump-and-run-every-day.mp3",
+          "image": "img/jump.jpg",
+          "zh": "我每天又跳又跑"
+        },
+        {
+          "id": "body-l6-u1-c5",
+          "type": "story",
+          "en": "I am strong and healthy!",
+          "audio": "audio/all/66_i-am-strong-and-healthy.mp3",
+          "slow": "audio/all/66_i-am-strong-and-healthy.mp3",
+          "image": "img/head.jpg",
+          "zh": "我强壮又健康"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+// 顶层构建配置 —— 适配本机 JDK8 + Gradle 7.5.1 构建链
+buildscript {
+    ext.kotlin_version = '1.5.31'   // Room2.3+AGP4.2 官方兼容组合（Kotlin1.6 需 Room2.4+）
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        mavenCentral()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 手机（默认 &lt;sw600dp）尺寸档 -->
+    <dimen name="card_grid_spacing">12dp</dimen>
+    <dimen name="card_media_height">140dp</dimen>
+    <dimen name="card_corner">20dp</dimen>
+    <dimen name="btn_main_size">96dp</dimen>
+    <dimen name="text_title">22sp</dimen>
+    <dimen name="text_word">26sp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <!-- 是否平板：手机 false -->
+    <bool name="is_tablet">false</bool>
+    <!-- 听选网格列数：手机 2 -->
+    <integer name="grid_columns">2</integer>
+</resources>

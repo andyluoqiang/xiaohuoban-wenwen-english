@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_warm"
+    android:orientation="vertical">
+
+    <!-- 顶栏：进度 + 星星 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/screen_padding"
+        android:paddingTop="24dp"
+        android:paddingRight="@dimen/screen_padding"
+        android:paddingBottom="8dp">
+
+        <TextView
+            android:id="@+id/tvProgress"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="听一听，点一点"
+            android:textColor="@color/text_brown"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvStars"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="★ 0"
+            android:textColor="@color/star_gold"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- 选项网格容器：行由代码按 2/4 选项动态填充，占满剩余高度 -->
+    <LinearLayout
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="@dimen/screen_padding" />
+
+    <!-- 底栏：重听 + 鼓励提示 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/screen_padding"
+        android:paddingRight="@dimen/screen_padding"
+        android:paddingBottom="20dp">
+
+        <Button
+            android:id="@+id/btnReplay"
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:backgroundTint="@color/accent_yellow"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:text="再听一次"
+            android:textColor="@color/text_brown"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tvHint"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:layout_weight="1"
+            android:text=""
+            android:textColor="@color/text_hint"
+            android:textSize="15sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,2146 @@
+[
+ {
+  "i": 0,
+  "en": "Nose, nose, touch your nose! Toes, toes, tap your toes!",
+  "zh": "主题儿歌",
+  "type": "chant",
+  "unit": "u0",
+  "file": "00_nose-nose-touch-your-nose-toes-toes-tap-.mp3"
+ },
+ {
+  "i": 1,
+  "en": "Stop!",
+  "zh": "停",
+  "type": "func",
+  "unit": "u0",
+  "file": "01_stop.mp3"
+ },
+ {
+  "i": 2,
+  "en": "Go!",
+  "zh": "走",
+  "type": "func",
+  "unit": "u0",
+  "file": "02_go.mp3"
+ },
+ {
+  "i": 3,
+  "en": "Look!",
+  "zh": "看",
+  "type": "func",
+  "unit": "u0",
+  "file": "03_look.mp3"
+ },
+ {
+  "i": 4,
+  "en": "Wash wash!",
+  "zh": "洗洗",
+  "type": "func",
+  "unit": "u0",
+  "file": "04_wash-wash.mp3"
+ },
+ {
+  "i": 5,
+  "en": "Head",
+  "zh": "头",
+  "type": "word",
+  "unit": "u1",
+  "file": "05_head.mp3"
+ },
+ {
+  "i": 6,
+  "en": "Hair",
+  "zh": "头发",
+  "type": "word",
+  "unit": "u1",
+  "file": "06_hair.mp3"
+ },
+ {
+  "i": 7,
+  "en": "Eye",
+  "zh": "眼睛",
+  "type": "word",
+  "unit": "u1",
+  "file": "07_eye.mp3"
+ },
+ {
+  "i": 8,
+  "en": "Ear",
+  "zh": "耳朵",
+  "type": "word",
+  "unit": "u1",
+  "file": "08_ear.mp3"
+ },
+ {
+  "i": 9,
+  "en": "Nose",
+  "zh": "鼻子",
+  "type": "word",
+  "unit": "u1",
+  "file": "09_nose.mp3"
+ },
+ {
+  "i": 10,
+  "en": "Mouth",
+  "zh": "嘴巴",
+  "type": "word",
+  "unit": "u1",
+  "file": "10_mouth.mp3"
+ },
+ {
+  "i": 11,
+  "en": "Tooth",
+  "zh": "牙齿",
+  "type": "word",
+  "unit": "u2",
+  "file": "11_tooth.mp3"
+ },
+ {
+  "i": 12,
+  "en": "Hand",
+  "zh": "手",
+  "type": "word",
+  "unit": "u2",
+  "file": "12_hand.mp3"
+ },
+ {
+  "i": 13,
+  "en": "Arm",
+  "zh": "手臂",
+  "type": "word",
+  "unit": "u2",
+  "file": "13_arm.mp3"
+ },
+ {
+  "i": 14,
+  "en": "Leg",
+  "zh": "腿",
+  "type": "word",
+  "unit": "u2",
+  "file": "14_leg.mp3"
+ },
+ {
+  "i": 15,
+  "en": "Foot",
+  "zh": "脚",
+  "type": "word",
+  "unit": "u2",
+  "file": "15_foot.mp3"
+ },
+ {
+  "i": 16,
+  "en": "Face",
+  "zh": "脸",
+  "type": "word",
+  "unit": "u2",
+  "file": "16_face.mp3"
+ },
+ {
+  "i": 17,
+  "en": "Shoulder",
+  "zh": "肩",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "17_shoulder.mp3"
+ },
+ {
+  "i": 18,
+  "en": "Knee",
+  "zh": "膝盖",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "18_knee.mp3"
+ },
+ {
+  "i": 19,
+  "en": "Finger",
+  "zh": "手指",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "19_finger.mp3"
+ },
+ {
+  "i": 20,
+  "en": "Toe",
+  "zh": "脚趾",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "20_toe.mp3"
+ },
+ {
+  "i": 21,
+  "en": "Tummy",
+  "zh": "肚子",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "21_tummy.mp3"
+ },
+ {
+  "i": 22,
+  "en": "Back",
+  "zh": "背",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "22_back.mp3"
+ },
+ {
+  "i": 23,
+  "en": "Neck",
+  "zh": "脖子",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "23_neck.mp3"
+ },
+ {
+  "i": 24,
+  "en": "Smile",
+  "zh": "微笑",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "24_smile.mp3"
+ },
+ {
+  "i": 25,
+  "en": "Touch",
+  "zh": "触摸",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "25_touch.mp3"
+ },
+ {
+  "i": 26,
+  "en": "Point",
+  "zh": "指",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "26_point.mp3"
+ },
+ {
+  "i": 27,
+  "en": "Clap",
+  "zh": "拍手",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "27_clap.mp3"
+ },
+ {
+  "i": 28,
+  "en": "Jump",
+  "zh": "跳",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "28_jump.mp3"
+ },
+ {
+  "i": 29,
+  "en": "Run",
+  "zh": "跑",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "29_run.mp3"
+ },
+ {
+  "i": 30,
+  "en": "Walk",
+  "zh": "走",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "30_walk.mp3"
+ },
+ {
+  "i": 31,
+  "en": "Wash",
+  "zh": "洗",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "31_wash.mp3"
+ },
+ {
+  "i": 32,
+  "en": "Brush",
+  "zh": "刷",
+  "type": "func",
+  "unit": "l2u2",
+  "file": "32_brush.mp3"
+ },
+ {
+  "i": 33,
+  "en": "Two eyes",
+  "zh": "两只眼睛",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "33_two-eyes.mp3"
+ },
+ {
+  "i": 34,
+  "en": "One nose",
+  "zh": "一个鼻子",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "34_one-nose.mp3"
+ },
+ {
+  "i": 35,
+  "en": "Red mouth",
+  "zh": "红红的嘴",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "35_red-mouth.mp3"
+ },
+ {
+  "i": 36,
+  "en": "Touch your nose.",
+  "zh": "摸你的鼻子",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "36_touch-your-nose.mp3"
+ },
+ {
+  "i": 37,
+  "en": "Clap your hands.",
+  "zh": "拍手",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "37_clap-your-hands.mp3"
+ },
+ {
+  "i": 38,
+  "en": "I can jump!",
+  "zh": "我会跳",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "38_i-can-jump.mp3"
+ },
+ {
+  "i": 39,
+  "en": "Wash your hands.",
+  "zh": "洗手",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "39_wash-your-hands.mp3"
+ },
+ {
+  "i": 40,
+  "en": "Open your mouth.",
+  "zh": "张嘴",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "40_open-your-mouth.mp3"
+ },
+ {
+  "i": 41,
+  "en": "My foot hurts.",
+  "zh": "脚疼",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "41_my-foot-hurts.mp3"
+ },
+ {
+  "i": 42,
+  "en": "I have two eyes.",
+  "zh": "我有两只眼",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "42_i-have-two-eyes.mp3"
+ },
+ {
+  "i": 43,
+  "en": "Shake your body!",
+  "zh": "摇身体",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "43_shake-your-body.mp3"
+ },
+ {
+  "i": 44,
+  "en": "What's this? It's my nose.",
+  "zh": "这是什么?这是我的鼻子",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "44_what-s-this-it-s-my-nose.mp3"
+ },
+ {
+  "i": 45,
+  "en": "How many fingers? Ten!",
+  "zh": "有几根手指?十根!",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "45_how-many-fingers-ten.mp3"
+ },
+ {
+  "i": 46,
+  "en": "What can you do? I can run fast.",
+  "zh": "你会做什么?我能跑得快",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "46_what-can-you-do-i-can-run-fast.mp3"
+ },
+ {
+  "i": 47,
+  "en": "What do you do with your hands? I clap and draw.",
+  "zh": "你用小手做什么?我拍手和画画",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "47_what-do-you-do-with-your-hands-i-clap-an.mp3"
+ },
+ {
+  "i": 48,
+  "en": "Where is your tummy? Here it is!",
+  "zh": "你的肚子在哪?在这里",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "48_where-is-your-tummy-here-it-is.mp3"
+ },
+ {
+  "i": 49,
+  "en": "Can you clap your hands? Yes!",
+  "zh": "你会拍手吗?会",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "49_can-you-clap-your-hands-yes.mp3"
+ },
+ {
+  "i": 50,
+  "en": "I see my nose.",
+  "zh": "我看见我的鼻子",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "50_i-see-my-nose.mp3"
+ },
+ {
+  "i": 51,
+  "en": "I washed my hands today.",
+  "zh": "我今天洗手了",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "51_i-washed-my-hands-today.mp3"
+ },
+ {
+  "i": 52,
+  "en": "I have two eyes and one nose.",
+  "zh": "我有两只眼睛一个鼻子",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "52_i-have-two-eyes-and-one-nose.mp3"
+ },
+ {
+  "i": 53,
+  "en": "What's this?",
+  "zh": "这是什么",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "53_what-s-this.mp3"
+ },
+ {
+  "i": 54,
+  "en": "Where is my hand?",
+  "zh": "我的手在哪",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "54_where-is-my-hand.mp3"
+ },
+ {
+  "i": 55,
+  "en": "Can you touch your nose?",
+  "zh": "你能摸摸鼻子吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "55_can-you-touch-your-nose.mp3"
+ },
+ {
+  "i": 56,
+  "en": "What's wrong?",
+  "zh": "你怎么了",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "56_what-s-wrong.mp3"
+ },
+ {
+  "i": 57,
+  "en": "My leg hurts.",
+  "zh": "我的腿疼",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "57_my-leg-hurts.mp3"
+ },
+ {
+  "i": 58,
+  "en": "Let me see. Can you walk?",
+  "zh": "我看看。你能走吗",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "58_let-me-see-can-you-walk.mp3"
+ },
+ {
+  "i": 59,
+  "en": "A little. Ouch!",
+  "zh": "能走一点。哎哟",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "59_a-little-ouch.mp3"
+ },
+ {
+  "i": 60,
+  "en": "Be careful. Let's put on a band-aid.",
+  "zh": "小心点。贴个创可贴吧",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "60_be-careful-let-s-put-on-a-band-aid.mp3"
+ },
+ {
+  "i": 61,
+  "en": "Thank you, Doctor!",
+  "zh": "谢谢医生",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "61_thank-you-doctor.mp3"
+ },
+ {
+  "i": 62,
+  "en": "I take care of my body.",
+  "zh": "我照顾我的身体",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "62_i-take-care-of-my-body.mp3"
+ },
+ {
+  "i": 63,
+  "en": "I brush my teeth every morning.",
+  "zh": "我每天早上刷牙",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "63_i-brush-my-teeth-every-morning.mp3"
+ },
+ {
+  "i": 64,
+  "en": "I wash my hands before dinner.",
+  "zh": "我每天洗手",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "64_i-wash-my-hands-before-dinner.mp3"
+ },
+ {
+  "i": 65,
+  "en": "I jump and run every day.",
+  "zh": "我每天又跳又跑",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "65_i-jump-and-run-every-day.mp3"
+ },
+ {
+  "i": 66,
+  "en": "I am strong and healthy!",
+  "zh": "我强壮又健康",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "66_i-am-strong-and-healthy.mp3"
+ },
+ {
+  "i": 100,
+  "en": "Apple, apple, yum yum yum! Banana, banana, in my tum-tum-tum!",
+  "zh": "主题儿歌",
+  "type": "chant",
+  "unit": "u0",
+  "file": "100_apple-apple-yum-yum-yum-banana-banana-in.mp3"
+ },
+ {
+  "i": 101,
+  "en": "More!",
+  "zh": "还要",
+  "type": "func",
+  "unit": "u0",
+  "file": "101_more.mp3"
+ },
+ {
+  "i": 102,
+  "en": "All done",
+  "zh": "吃完了",
+  "type": "func",
+  "unit": "u0",
+  "file": "102_all-done.mp3"
+ },
+ {
+  "i": 103,
+  "en": "Please",
+  "zh": "请",
+  "type": "func",
+  "unit": "u0",
+  "file": "103_please.mp3"
+ },
+ {
+  "i": 104,
+  "en": "Yum yum",
+  "zh": "好吃",
+  "type": "func",
+  "unit": "u0",
+  "file": "104_yum-yum.mp3"
+ },
+ {
+  "i": 105,
+  "en": "Apple",
+  "zh": "苹果",
+  "type": "word",
+  "unit": "u1",
+  "file": "105_apple.mp3"
+ },
+ {
+  "i": 106,
+  "en": "Banana",
+  "zh": "香蕉",
+  "type": "word",
+  "unit": "u1",
+  "file": "106_banana.mp3"
+ },
+ {
+  "i": 107,
+  "en": "Egg",
+  "zh": "鸡蛋",
+  "type": "word",
+  "unit": "u1",
+  "file": "107_egg.mp3"
+ },
+ {
+  "i": 108,
+  "en": "Milk",
+  "zh": "牛奶",
+  "type": "word",
+  "unit": "u1",
+  "file": "108_milk.mp3"
+ },
+ {
+  "i": 109,
+  "en": "Rice",
+  "zh": "米饭",
+  "type": "word",
+  "unit": "u1",
+  "file": "109_rice.mp3"
+ },
+ {
+  "i": 110,
+  "en": "Bread",
+  "zh": "面包",
+  "type": "word",
+  "unit": "u1",
+  "file": "110_bread.mp3"
+ },
+ {
+  "i": 111,
+  "en": "Cake",
+  "zh": "蛋糕",
+  "type": "word",
+  "unit": "u2",
+  "file": "111_cake.mp3"
+ },
+ {
+  "i": 112,
+  "en": "Water",
+  "zh": "水",
+  "type": "word",
+  "unit": "u2",
+  "file": "112_water.mp3"
+ },
+ {
+  "i": 113,
+  "en": "Fish",
+  "zh": "鱼",
+  "type": "word",
+  "unit": "u2",
+  "file": "113_fish.mp3"
+ },
+ {
+  "i": 114,
+  "en": "Chicken",
+  "zh": "鸡肉",
+  "type": "word",
+  "unit": "u2",
+  "file": "114_chicken.mp3"
+ },
+ {
+  "i": 115,
+  "en": "Orange",
+  "zh": "橙子",
+  "type": "word",
+  "unit": "u2",
+  "file": "115_orange.mp3"
+ },
+ {
+  "i": 116,
+  "en": "Grape",
+  "zh": "葡萄",
+  "type": "word",
+  "unit": "u2",
+  "file": "116_grape.mp3"
+ },
+ {
+  "i": 117,
+  "en": "Noodles",
+  "zh": "面条",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "117_noodles.mp3"
+ },
+ {
+  "i": 118,
+  "en": "Juice",
+  "zh": "果汁",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "118_juice.mp3"
+ },
+ {
+  "i": 119,
+  "en": "Soup",
+  "zh": "汤",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "119_soup.mp3"
+ },
+ {
+  "i": 120,
+  "en": "Cookie",
+  "zh": "饼干",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "120_cookie.mp3"
+ },
+ {
+  "i": 121,
+  "en": "Pear",
+  "zh": "梨",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "121_pear.mp3"
+ },
+ {
+  "i": 122,
+  "en": "Peach",
+  "zh": "桃子",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "122_peach.mp3"
+ },
+ {
+  "i": 123,
+  "en": "Corn",
+  "zh": "玉米",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "123_corn.mp3"
+ },
+ {
+  "i": 124,
+  "en": "Ice cream",
+  "zh": "冰淇淋",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "124_ice-cream.mp3"
+ },
+ {
+  "i": 125,
+  "en": "Yogurt",
+  "zh": "酸奶",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "125_yogurt.mp3"
+ },
+ {
+  "i": 126,
+  "en": "Dumplings",
+  "zh": "饺子",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "126_dumplings.mp3"
+ },
+ {
+  "i": 127,
+  "en": "Hungry",
+  "zh": "饿",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "127_hungry.mp3"
+ },
+ {
+  "i": 128,
+  "en": "Thirsty",
+  "zh": "渴",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "128_thirsty.mp3"
+ },
+ {
+  "i": 129,
+  "en": "Sweet",
+  "zh": "甜",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "129_sweet.mp3"
+ },
+ {
+  "i": 130,
+  "en": "Yummy",
+  "zh": "好吃",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "130_yummy.mp3"
+ },
+ {
+  "i": 131,
+  "en": "Eat",
+  "zh": "吃",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "131_eat.mp3"
+ },
+ {
+  "i": 132,
+  "en": "Drink",
+  "zh": "喝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "132_drink.mp3"
+ },
+ {
+  "i": 133,
+  "en": "One apple",
+  "zh": "一个苹果",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "133_one-apple.mp3"
+ },
+ {
+  "i": 134,
+  "en": "Two eggs",
+  "zh": "两个鸡蛋",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "134_two-eggs.mp3"
+ },
+ {
+  "i": 135,
+  "en": "Yummy milk",
+  "zh": "好喝的牛奶",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "135_yummy-milk.mp3"
+ },
+ {
+  "i": 136,
+  "en": "I'm hungry!",
+  "zh": "我饿了",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "136_i-m-hungry.mp3"
+ },
+ {
+  "i": 137,
+  "en": "I like apples.",
+  "zh": "我喜欢苹果",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "137_i-like-apples.mp3"
+ },
+ {
+  "i": 138,
+  "en": "Drink some water.",
+  "zh": "喝点水",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "138_drink-some-water.mp3"
+ },
+ {
+  "i": 139,
+  "en": "It's yummy!",
+  "zh": "真好吃",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "139_it-s-yummy.mp3"
+ },
+ {
+  "i": 140,
+  "en": "I want an egg.",
+  "zh": "我想要一个鸡蛋",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "140_i-want-an-egg.mp3"
+ },
+ {
+  "i": 141,
+  "en": "Dinner is ready!",
+  "zh": "晚饭好啦",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "141_dinner-is-ready.mp3"
+ },
+ {
+  "i": 142,
+  "en": "I don't like fish.",
+  "zh": "我不喜欢鱼",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "142_i-don-t-like-fish.mp3"
+ },
+ {
+  "i": 143,
+  "en": "Please give me some milk.",
+  "zh": "请给我点牛奶",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "143_please-give-me-some-milk.mp3"
+ },
+ {
+  "i": 144,
+  "en": "What's your favorite fruit? I like bananas!",
+  "zh": "你喜欢什么水果?我喜欢香蕉",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "144_what-s-your-favorite-fruit-i-like-banana.mp3"
+ },
+ {
+  "i": 145,
+  "en": "What do you want for breakfast? Bread and milk.",
+  "zh": "早餐想吃什么?面包和牛奶",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "145_what-do-you-want-for-breakfast-bread-and.mp3"
+ },
+ {
+  "i": 146,
+  "en": "Would you like some juice? Yes, please!",
+  "zh": "想喝点果汁吗?想",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "146_would-you-like-some-juice-yes-please.mp3"
+ },
+ {
+  "i": 147,
+  "en": "Are you hungry? Yes, very!",
+  "zh": "你饿吗?很饿",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "147_are-you-hungry-yes-very.mp3"
+ },
+ {
+  "i": 148,
+  "en": "What's in the bowl? Some soup.",
+  "zh": "碗里是什么?一些汤",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "148_what-s-in-the-bowl-some-soup.mp3"
+ },
+ {
+  "i": 149,
+  "en": "Do you like ice cream? Yes, I love it!",
+  "zh": "你喜欢冰淇淋吗?超喜欢",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "149_do-you-like-ice-cream-yes-i-love-it.mp3"
+ },
+ {
+  "i": 150,
+  "en": "I ate an egg today.",
+  "zh": "我今天吃了一个鸡蛋",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "150_i-ate-an-egg-today.mp3"
+ },
+ {
+  "i": 151,
+  "en": "I like apples and bananas.",
+  "zh": "我喜欢苹果和香蕉",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "151_i-like-apples-and-bananas.mp3"
+ },
+ {
+  "i": 152,
+  "en": "I drink milk every morning.",
+  "zh": "我每天早上喝牛奶",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "152_i-drink-milk-every-morning.mp3"
+ },
+ {
+  "i": 153,
+  "en": "Can I have some water?",
+  "zh": "能给我点水吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "153_can-i-have-some-water.mp3"
+ },
+ {
+  "i": 154,
+  "en": "What's for dinner?",
+  "zh": "晚饭吃什么",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "154_what-s-for-dinner.mp3"
+ },
+ {
+  "i": 155,
+  "en": "May I have a cookie?",
+  "zh": "我能吃块饼干吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "155_may-i-have-a-cookie.mp3"
+ },
+ {
+  "i": 156,
+  "en": "Can I help you?",
+  "zh": "需要帮忙吗",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "156_can-i-help-you.mp3"
+ },
+ {
+  "i": 157,
+  "en": "I'd like noodles and juice, please.",
+  "zh": "请给我面条和果汁",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "157_i-d-like-noodles-and-juice-please.mp3"
+ },
+ {
+  "i": 158,
+  "en": "Anything else?",
+  "zh": "还要点吗",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "158_anything-else.mp3"
+ },
+ {
+  "i": 159,
+  "en": "An apple, please.",
+  "zh": "请来个苹果",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "159_an-apple-please.mp3"
+ },
+ {
+  "i": 160,
+  "en": "Here you are!",
+  "zh": "给你",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "160_here-you-are.mp3"
+ },
+ {
+  "i": 161,
+  "en": "Thank you! Yummy!",
+  "zh": "谢谢!真好吃",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "161_thank-you-yummy.mp3"
+ },
+ {
+  "i": 162,
+  "en": "I eat breakfast at seven.",
+  "zh": "我七点吃早饭",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "162_i-eat-breakfast-at-seven.mp3"
+ },
+ {
+  "i": 163,
+  "en": "I have bread, eggs and milk.",
+  "zh": "我吃面包鸡蛋喝牛奶",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "163_i-have-bread-eggs-and-milk.mp3"
+ },
+ {
+  "i": 164,
+  "en": "At noon, I eat rice, fish and vegetables.",
+  "zh": "中午我吃米饭鱼和蔬菜",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "164_at-noon-i-eat-rice-fish-and-vegetables.mp3"
+ },
+ {
+  "i": 165,
+  "en": "In the afternoon, I eat a sweet apple.",
+  "zh": "下午我吃一个甜苹果",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "165_in-the-afternoon-i-eat-a-sweet-apple.mp3"
+ },
+ {
+  "i": 166,
+  "en": "Yummy, yummy!",
+  "zh": "真好吃真好吃",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "166_yummy-yummy.mp3"
+ },
+ {
+  "i": 200,
+  "en": "Jump, jump, jump up high! Run, run, run, so fast! Walk, walk, walk and stop! We love to play all day!",
+  "zh": "主题儿歌",
+  "type": "chant",
+  "unit": "u0",
+  "file": "200_jump-jump-jump-up-high-run-run-run-so-fa.mp3"
+ },
+ {
+  "i": 201,
+  "en": "Ready?",
+  "zh": "预备",
+  "type": "func",
+  "unit": "u0",
+  "file": "201_ready.mp3"
+ },
+ {
+  "i": 202,
+  "en": "Faster!",
+  "zh": "快点",
+  "type": "func",
+  "unit": "u0",
+  "file": "202_faster.mp3"
+ },
+ {
+  "i": 203,
+  "en": "Careful!",
+  "zh": "小心",
+  "type": "func",
+  "unit": "u0",
+  "file": "203_careful.mp3"
+ },
+ {
+  "i": 204,
+  "en": "Hooray!",
+  "zh": "好棒",
+  "type": "func",
+  "unit": "u0",
+  "file": "204_hooray.mp3"
+ },
+ {
+  "i": 205,
+  "en": "Jump",
+  "zh": "跳",
+  "type": "word",
+  "unit": "u1",
+  "file": "205_jump.mp3"
+ },
+ {
+  "i": 206,
+  "en": "Run",
+  "zh": "跑",
+  "type": "word",
+  "unit": "u1",
+  "file": "206_run.mp3"
+ },
+ {
+  "i": 207,
+  "en": "Walk",
+  "zh": "走",
+  "type": "word",
+  "unit": "u1",
+  "file": "207_walk.mp3"
+ },
+ {
+  "i": 208,
+  "en": "Hop",
+  "zh": "单脚跳",
+  "type": "word",
+  "unit": "u1",
+  "file": "208_hop.mp3"
+ },
+ {
+  "i": 209,
+  "en": "Dance",
+  "zh": "跳舞",
+  "type": "word",
+  "unit": "u1",
+  "file": "209_dance.mp3"
+ },
+ {
+  "i": 210,
+  "en": "Swim",
+  "zh": "游泳",
+  "type": "word",
+  "unit": "u1",
+  "file": "210_swim.mp3"
+ },
+ {
+  "i": 211,
+  "en": "Ball",
+  "zh": "球",
+  "type": "word",
+  "unit": "u2",
+  "file": "211_ball.mp3"
+ },
+ {
+  "i": 212,
+  "en": "Bike",
+  "zh": "自行车",
+  "type": "word",
+  "unit": "u2",
+  "file": "212_bike.mp3"
+ },
+ {
+  "i": 213,
+  "en": "Kick",
+  "zh": "踢",
+  "type": "word",
+  "unit": "u2",
+  "file": "213_kick.mp3"
+ },
+ {
+  "i": 214,
+  "en": "Throw",
+  "zh": "扔",
+  "type": "word",
+  "unit": "u2",
+  "file": "214_throw.mp3"
+ },
+ {
+  "i": 215,
+  "en": "Catch",
+  "zh": "接住",
+  "type": "word",
+  "unit": "u2",
+  "file": "215_catch.mp3"
+ },
+ {
+  "i": 216,
+  "en": "Climb",
+  "zh": "爬",
+  "type": "word",
+  "unit": "u2",
+  "file": "216_climb.mp3"
+ },
+ {
+  "i": 217,
+  "en": "Kite",
+  "zh": "风筝",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "217_kite.mp3"
+ },
+ {
+  "i": 218,
+  "en": "Rope",
+  "zh": "跳绳",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "218_rope.mp3"
+ },
+ {
+  "i": 219,
+  "en": "Swing",
+  "zh": "秋千",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "219_swing.mp3"
+ },
+ {
+  "i": 220,
+  "en": "Slide",
+  "zh": "滑梯",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "220_slide.mp3"
+ },
+ {
+  "i": 221,
+  "en": "Boat",
+  "zh": "小船",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "221_boat.mp3"
+ },
+ {
+  "i": 222,
+  "en": "Plane",
+  "zh": "纸飞机",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "222_plane.mp3"
+ },
+ {
+  "i": 223,
+  "en": "Balloon",
+  "zh": "气球",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "223_balloon.mp3"
+ },
+ {
+  "i": 224,
+  "en": "Sand",
+  "zh": "沙子",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "224_sand.mp3"
+ },
+ {
+  "i": 225,
+  "en": "Skip",
+  "zh": "蹦跳",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "225_skip.mp3"
+ },
+ {
+  "i": 226,
+  "en": "Spin",
+  "zh": "转圈",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "226_spin.mp3"
+ },
+ {
+  "i": 227,
+  "en": "Stretch",
+  "zh": "伸展",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "227_stretch.mp3"
+ },
+ {
+  "i": 228,
+  "en": "March",
+  "zh": "踏步走",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "228_march.mp3"
+ },
+ {
+  "i": 229,
+  "en": "Tiptoe",
+  "zh": "踮脚走",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "229_tiptoe.mp3"
+ },
+ {
+  "i": 230,
+  "en": "Crawl",
+  "zh": "爬行",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "230_crawl.mp3"
+ },
+ {
+  "i": 231,
+  "en": "Wiggle",
+  "zh": "扭一扭",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "231_wiggle.mp3"
+ },
+ {
+  "i": 232,
+  "en": "Freeze",
+  "zh": "定住",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "232_freeze.mp3"
+ },
+ {
+  "i": 233,
+  "en": "Big jump",
+  "zh": "大跳",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "233_big-jump.mp3"
+ },
+ {
+  "i": 234,
+  "en": "Little hop",
+  "zh": "小跳",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "234_little-hop.mp3"
+ },
+ {
+  "i": 235,
+  "en": "Red balloon",
+  "zh": "红气球",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "235_red-balloon.mp3"
+ },
+ {
+  "i": 236,
+  "en": "Jump high!",
+  "zh": "跳高",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "236_jump-high.mp3"
+ },
+ {
+  "i": 237,
+  "en": "Run fast!",
+  "zh": "快跑",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "237_run-fast.mp3"
+ },
+ {
+  "i": 238,
+  "en": "Walk slowly.",
+  "zh": "慢慢走",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "238_walk-slowly.mp3"
+ },
+ {
+  "i": 239,
+  "en": "Kick the ball.",
+  "zh": "踢球",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "239_kick-the-ball.mp3"
+ },
+ {
+  "i": 240,
+  "en": "Throw the ball.",
+  "zh": "扔球",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "240_throw-the-ball.mp3"
+ },
+ {
+  "i": 241,
+  "en": "Catch it!",
+  "zh": "接住它",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "241_catch-it.mp3"
+ },
+ {
+  "i": 242,
+  "en": "Clap for me!",
+  "zh": "为我拍手",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "242_clap-for-me.mp3"
+ },
+ {
+  "i": 243,
+  "en": "Spin around!",
+  "zh": "转个圈",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "243_spin-around.mp3"
+ },
+ {
+  "i": 244,
+  "en": "Can you jump? Yes, I can!",
+  "zh": "你会跳吗?会",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "244_can-you-jump-yes-i-can.mp3"
+ },
+ {
+  "i": 245,
+  "en": "What's this? It's a ball.",
+  "zh": "这是什么?是球",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "245_what-s-this-it-s-a-ball.mp3"
+ },
+ {
+  "i": 246,
+  "en": "Do you like to run? Yes!",
+  "zh": "你喜欢跑步吗?喜欢",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "246_do-you-like-to-run-yes.mp3"
+ },
+ {
+  "i": 247,
+  "en": "What can you do? I can swim.",
+  "zh": "你会什么?我会游泳",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "247_what-can-you-do-i-can-swim.mp3"
+ },
+ {
+  "i": 248,
+  "en": "Where is the kite? Up in the sky!",
+  "zh": "风筝在哪?在天上",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "248_where-is-the-kite-up-in-the-sky.mp3"
+ },
+ {
+  "i": 249,
+  "en": "Who is fast? I am fast!",
+  "zh": "谁快?我快",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "249_who-is-fast-i-am-fast.mp3"
+ },
+ {
+  "i": 250,
+  "en": "I played ball today.",
+  "zh": "我今天玩了球",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "250_i-played-ball-today.mp3"
+ },
+ {
+  "i": 251,
+  "en": "I can jump very high.",
+  "zh": "我能跳很高",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "251_i-can-jump-very-high.mp3"
+ },
+ {
+  "i": 252,
+  "en": "I ride my bike every day.",
+  "zh": "我每天都骑车",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "252_i-ride-my-bike-every-day.mp3"
+ },
+ {
+  "i": 253,
+  "en": "Can we play ball?",
+  "zh": "我们能玩球吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "253_can-we-play-ball.mp3"
+ },
+ {
+  "i": 254,
+  "en": "Where is my bike?",
+  "zh": "我的自行车在哪",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "254_where-is-my-bike.mp3"
+ },
+ {
+  "i": 255,
+  "en": "May I go outside?",
+  "zh": "我能出去玩吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "255_may-i-go-outside.mp3"
+ },
+ {
+  "i": 256,
+  "en": "Let's go to the park!",
+  "zh": "我们去公园吧",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "256_let-s-go-to-the-park.mp3"
+ },
+ {
+  "i": 257,
+  "en": "Hooray! I love the park!",
+  "zh": "好耶!我爱公园",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "257_hooray-i-love-the-park.mp3"
+ },
+ {
+  "i": 258,
+  "en": "Look! A big kite!",
+  "zh": "看!大风筝",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "258_look-a-big-kite.mp3"
+ },
+ {
+  "i": 259,
+  "en": "Catch the ball, please!",
+  "zh": "请接球",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "259_catch-the-ball-please.mp3"
+ },
+ {
+  "i": 260,
+  "en": "I got it! I got it!",
+  "zh": "接住了!接住了",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "260_i-got-it-i-got-it.mp3"
+ },
+ {
+  "i": 261,
+  "en": "What a fun day!",
+  "zh": "真开心的一天",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "261_what-a-fun-day.mp3"
+ },
+ {
+  "i": 262,
+  "en": "I love to play outside.",
+  "zh": "我爱出去玩",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "262_i-love-to-play-outside.mp3"
+ },
+ {
+  "i": 263,
+  "en": "In the morning, I ride my bike.",
+  "zh": "早上我骑自行车",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "263_in-the-morning-i-ride-my-bike.mp3"
+ },
+ {
+  "i": 264,
+  "en": "At noon, I play ball with Daddy.",
+  "zh": "中午我和爸爸玩球",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "264_at-noon-i-play-ball-with-daddy.mp3"
+ },
+ {
+  "i": 265,
+  "en": "I run and jump in the sun.",
+  "zh": "我在太阳下又跑又跳",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "265_i-run-and-jump-in-the-sun.mp3"
+ },
+ {
+  "i": 266,
+  "en": "Playing makes me strong!",
+  "zh": "运动让我强壮",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "266_playing-makes-me-strong.mp3"
+ },
+ {
+  "i": 300,
+  "en": "Dog says woof, cat says meow! Duck says quack, cow says moo! Animals, animals, we love you!",
+  "zh": "主题儿歌",
+  "type": "chant",
+  "unit": "u0",
+  "file": "300_dog-says-woof-cat-says-meow-duck-says-qu.mp3"
+ },
+ {
+  "i": 301,
+  "en": "Look!",
+  "zh": "看哦",
+  "type": "func",
+  "unit": "u0",
+  "file": "301_look.mp3"
+ },
+ {
+  "i": 302,
+  "en": "Listen!",
+  "zh": "听",
+  "type": "func",
+  "unit": "u0",
+  "file": "302_listen.mp3"
+ },
+ {
+  "i": 303,
+  "en": "Wow!",
+  "zh": "哇",
+  "type": "func",
+  "unit": "u0",
+  "file": "303_wow.mp3"
+ },
+ {
+  "i": 304,
+  "en": "So cute!",
+  "zh": "好可爱",
+  "type": "func",
+  "unit": "u0",
+  "file": "304_so-cute.mp3"
+ },
+ {
+  "i": 305,
+  "en": "Dog",
+  "zh": "小狗",
+  "type": "word",
+  "unit": "u1",
+  "file": "305_dog.mp3"
+ },
+ {
+  "i": 306,
+  "en": "Cat",
+  "zh": "小猫",
+  "type": "word",
+  "unit": "u1",
+  "file": "306_cat.mp3"
+ },
+ {
+  "i": 307,
+  "en": "Bird",
+  "zh": "小鸟",
+  "type": "word",
+  "unit": "u1",
+  "file": "307_bird.mp3"
+ },
+ {
+  "i": 308,
+  "en": "Duck",
+  "zh": "鸭子",
+  "type": "word",
+  "unit": "u1",
+  "file": "308_duck.mp3"
+ },
+ {
+  "i": 309,
+  "en": "Rabbit",
+  "zh": "兔子",
+  "type": "word",
+  "unit": "u1",
+  "file": "309_rabbit.mp3"
+ },
+ {
+  "i": 310,
+  "en": "Bear",
+  "zh": "熊",
+  "type": "word",
+  "unit": "u1",
+  "file": "310_bear.mp3"
+ },
+ {
+  "i": 311,
+  "en": "Lion",
+  "zh": "狮子",
+  "type": "word",
+  "unit": "u2",
+  "file": "311_lion.mp3"
+ },
+ {
+  "i": 312,
+  "en": "Tiger",
+  "zh": "老虎",
+  "type": "word",
+  "unit": "u2",
+  "file": "312_tiger.mp3"
+ },
+ {
+  "i": 313,
+  "en": "Elephant",
+  "zh": "大象",
+  "type": "word",
+  "unit": "u2",
+  "file": "313_elephant.mp3"
+ },
+ {
+  "i": 314,
+  "en": "Monkey",
+  "zh": "猴子",
+  "type": "word",
+  "unit": "u2",
+  "file": "314_monkey.mp3"
+ },
+ {
+  "i": 315,
+  "en": "Panda",
+  "zh": "熊猫",
+  "type": "word",
+  "unit": "u2",
+  "file": "315_panda.mp3"
+ },
+ {
+  "i": 316,
+  "en": "Pig",
+  "zh": "小猪",
+  "type": "word",
+  "unit": "u2",
+  "file": "316_pig.mp3"
+ },
+ {
+  "i": 317,
+  "en": "Horse",
+  "zh": "马",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "317_horse.mp3"
+ },
+ {
+  "i": 318,
+  "en": "Sheep",
+  "zh": "绵羊",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "318_sheep.mp3"
+ },
+ {
+  "i": 319,
+  "en": "Cow",
+  "zh": "奶牛",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "319_cow.mp3"
+ },
+ {
+  "i": 320,
+  "en": "Mouse",
+  "zh": "老鼠",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "320_mouse.mp3"
+ },
+ {
+  "i": 321,
+  "en": "Frog",
+  "zh": "青蛙",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "321_frog.mp3"
+ },
+ {
+  "i": 322,
+  "en": "Turtle",
+  "zh": "乌龟",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "322_turtle.mp3"
+ },
+ {
+  "i": 323,
+  "en": "Snake",
+  "zh": "蛇",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "323_snake.mp3"
+ },
+ {
+  "i": 324,
+  "en": "Zebra",
+  "zh": "斑马",
+  "type": "word",
+  "unit": "l2u1",
+  "file": "324_zebra.mp3"
+ },
+ {
+  "i": 325,
+  "en": "Puppy",
+  "zh": "狗宝宝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "325_puppy.mp3"
+ },
+ {
+  "i": 326,
+  "en": "Kitten",
+  "zh": "猫宝宝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "326_kitten.mp3"
+ },
+ {
+  "i": 327,
+  "en": "Chick",
+  "zh": "小鸡",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "327_chick.mp3"
+ },
+ {
+  "i": 328,
+  "en": "Lamb",
+  "zh": "羊宝宝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "328_lamb.mp3"
+ },
+ {
+  "i": 329,
+  "en": "Piglet",
+  "zh": "猪宝宝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "329_piglet.mp3"
+ },
+ {
+  "i": 330,
+  "en": "Duckling",
+  "zh": "鸭宝宝",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "330_duckling.mp3"
+ },
+ {
+  "i": 331,
+  "en": "Hen",
+  "zh": "母鸡",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "331_hen.mp3"
+ },
+ {
+  "i": 332,
+  "en": "Pet",
+  "zh": "宠物",
+  "type": "word",
+  "unit": "l2u2",
+  "file": "332_pet.mp3"
+ },
+ {
+  "i": 333,
+  "en": "Big elephant",
+  "zh": "大象",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "333_big-elephant.mp3"
+ },
+ {
+  "i": 334,
+  "en": "Little chick",
+  "zh": "小小鸡",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "334_little-chick.mp3"
+ },
+ {
+  "i": 335,
+  "en": "Black cat",
+  "zh": "黑猫",
+  "type": "phrase",
+  "unit": "l2u3",
+  "file": "335_black-cat.mp3"
+ },
+ {
+  "i": 336,
+  "en": "The dog says woof!",
+  "zh": "小狗汪汪叫",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "336_the-dog-says-woof.mp3"
+ },
+ {
+  "i": 337,
+  "en": "The cat says meow!",
+  "zh": "小猫喵喵叫",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "337_the-cat-says-meow.mp3"
+ },
+ {
+  "i": 338,
+  "en": "The duck says quack!",
+  "zh": "鸭子嘎嘎叫",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "338_the-duck-says-quack.mp3"
+ },
+ {
+  "i": 339,
+  "en": "The cow says moo!",
+  "zh": "奶牛哞哞叫",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "339_the-cow-says-moo.mp3"
+ },
+ {
+  "i": 340,
+  "en": "I love my cat.",
+  "zh": "我爱我的小猫",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "340_i-love-my-cat.mp3"
+ },
+ {
+  "i": 341,
+  "en": "Look at the elephant!",
+  "zh": "看大象",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "341_look-at-the-elephant.mp3"
+ },
+ {
+  "i": 342,
+  "en": "The bird can fly!",
+  "zh": "小鸟会飞",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "342_the-bird-can-fly.mp3"
+ },
+ {
+  "i": 343,
+  "en": "Feed the rabbit!",
+  "zh": "喂喂兔子",
+  "type": "sentence",
+  "unit": "l3u1",
+  "file": "343_feed-the-rabbit.mp3"
+ },
+ {
+  "i": 344,
+  "en": "What's this? It's a cat.",
+  "zh": "这是什么?是小猫",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "344_what-s-this-it-s-a-cat.mp3"
+ },
+ {
+  "i": 345,
+  "en": "Do you have a pet? Yes, a dog!",
+  "zh": "你有宠物吗?有小狗",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "345_do-you-have-a-pet-yes-a-dog.mp3"
+ },
+ {
+  "i": 346,
+  "en": "What does the cow say? Moo!",
+  "zh": "奶牛怎么叫?哞",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "346_what-does-the-cow-say-moo.mp3"
+ },
+ {
+  "i": 347,
+  "en": "Who lives in the water? Fish!",
+  "zh": "谁住在水里?鱼",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "347_who-lives-in-the-water-fish.mp3"
+ },
+ {
+  "i": 348,
+  "en": "Can a bird fly? Yes, it can!",
+  "zh": "鸟会飞吗?会",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "348_can-a-bird-fly-yes-it-can.mp3"
+ },
+ {
+  "i": 349,
+  "en": "What color is the cat? Black and white.",
+  "zh": "小猫什么颜色?黑白色",
+  "type": "qa",
+  "unit": "l4u1",
+  "file": "349_what-color-is-the-cat-black-and-white.mp3"
+ },
+ {
+  "i": 350,
+  "en": "I saw a big elephant!",
+  "zh": "我看到了一只大象",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "350_i-saw-a-big-elephant.mp3"
+ },
+ {
+  "i": 351,
+  "en": "The monkeys were so funny.",
+  "zh": "猴子们太有趣了",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "351_the-monkeys-were-so-funny.mp3"
+ },
+ {
+  "i": 352,
+  "en": "I fed the ducks today.",
+  "zh": "我今天喂了鸭子",
+  "type": "retell",
+  "unit": "l4u2",
+  "file": "352_i-fed-the-ducks-today.mp3"
+ },
+ {
+  "i": 353,
+  "en": "Can we go to the zoo?",
+  "zh": "我们能去动物园吗",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "353_can-we-go-to-the-zoo.mp3"
+ },
+ {
+  "i": 354,
+  "en": "Where is the cat?",
+  "zh": "小猫在哪",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "354_where-is-the-cat.mp3"
+ },
+ {
+  "i": 355,
+  "en": "What animal is this?",
+  "zh": "这是什么动物",
+  "type": "inquire",
+  "unit": "l4u3",
+  "file": "355_what-animal-is-this.mp3"
+ },
+ {
+  "i": 356,
+  "en": "Let's go to the zoo!",
+  "zh": "我们去动物园吧",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "356_let-s-go-to-the-zoo.mp3"
+ },
+ {
+  "i": 357,
+  "en": "Wow! A big lion!",
+  "zh": "哇!大狮子",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "357_wow-a-big-lion.mp3"
+ },
+ {
+  "i": 358,
+  "en": "Don't feed the monkey, okay?",
+  "zh": "别喂猴子好吗",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "358_don-t-feed-the-monkey-okay.mp3"
+ },
+ {
+  "i": 359,
+  "en": "Look! The pandas are sleeping.",
+  "zh": "看!熊猫在睡觉",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "359_look-the-pandas-are-sleeping.mp3"
+ },
+ {
+  "i": 360,
+  "en": "I like the elephants best!",
+  "zh": "我最喜欢大象",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "360_i-like-the-elephants-best.mp3"
+ },
+ {
+  "i": 361,
+  "en": "What a fun day at the zoo!",
+  "zh": "在动物园真开心",
+  "type": "dialog",
+  "unit": "l5u1",
+  "file": "361_what-a-fun-day-at-the-zoo.mp3"
+ },
+ {
+  "i": 362,
+  "en": "I love animals.",
+  "zh": "我爱动物",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "362_i-love-animals.mp3"
+ },
+ {
+  "i": 363,
+  "en": "My cat is white and soft.",
+  "zh": "我的猫又白又软",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "363_my-cat-is-white-and-soft.mp3"
+ },
+ {
+  "i": 364,
+  "en": "Every day, I feed my cat.",
+  "zh": "我每天喂我的猫",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "364_every-day-i-feed-my-cat.mp3"
+ },
+ {
+  "i": 365,
+  "en": "She says meow and purrs.",
+  "zh": "她喵喵叫还打呼噜",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "365_she-says-meow-and-purrs.mp3"
+ },
+ {
+  "i": 366,
+  "en": "My cat is my best friend!",
+  "zh": "我的猫是我最好的朋友",
+  "type": "story",
+  "unit": "l6u1",
+  "file": "366_my-cat-is-my-best-friend.mp3"
+ }
+]

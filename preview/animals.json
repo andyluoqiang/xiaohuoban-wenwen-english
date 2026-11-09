@@ -1,0 +1,694 @@
+{
+  "theme": "animals",
+  "nameZh": "动物与宠物",
+  "order": 4,
+  "units": [
+    {
+      "id": "animals-l1-u0",
+      "band": 1,
+      "title": "Look!",
+      "cards": [
+        {
+          "id": "animals-l1-u0-c1",
+          "type": "chant",
+          "en": "Dog says woof, cat says meow! Duck says quack, cow says moo! Animals, animals, we love you!",
+          "audio": "audio/all/300_dog-says-woof-cat-says-meow-duck-says-qu.mp3",
+          "slow": "audio/all/300_dog-says-woof-cat-says-meow-duck-says-qu.mp3",
+          "image": null,
+          "zh": "主题儿歌"
+        },
+        {
+          "id": "animals-l1-u0-c2",
+          "type": "func",
+          "en": "Look!",
+          "audio": "audio/all/301_look.mp3",
+          "slow": "audio/all/301_look.mp3",
+          "image": null,
+          "zh": "看哦"
+        },
+        {
+          "id": "animals-l1-u0-c3",
+          "type": "func",
+          "en": "Listen!",
+          "audio": "audio/all/302_listen.mp3",
+          "slow": "audio/all/302_listen.mp3",
+          "image": null,
+          "zh": "听"
+        },
+        {
+          "id": "animals-l1-u0-c4",
+          "type": "func",
+          "en": "Wow!",
+          "audio": "audio/all/303_wow.mp3",
+          "slow": "audio/all/303_wow.mp3",
+          "image": null,
+          "zh": "哇"
+        },
+        {
+          "id": "animals-l1-u0-c5",
+          "type": "func",
+          "en": "So cute!",
+          "audio": "audio/all/304_so-cute.mp3",
+          "slow": "audio/all/304_so-cute.mp3",
+          "image": null,
+          "zh": "好可爱"
+        }
+      ]
+    },
+    {
+      "id": "animals-l1-u1",
+      "band": 1,
+      "title": "Dog",
+      "cards": [
+        {
+          "id": "animals-l1-u1-c1",
+          "type": "word",
+          "en": "Dog",
+          "audio": "audio/all/305_dog.mp3",
+          "slow": "audio/all/305_dog.mp3",
+          "image": "img/dog.jpg",
+          "zh": "小狗"
+        },
+        {
+          "id": "animals-l1-u1-c2",
+          "type": "word",
+          "en": "Cat",
+          "audio": "audio/all/306_cat.mp3",
+          "slow": "audio/all/306_cat.mp3",
+          "image": "img/cat.jpg",
+          "zh": "小猫"
+        },
+        {
+          "id": "animals-l1-u1-c3",
+          "type": "word",
+          "en": "Bird",
+          "audio": "audio/all/307_bird.mp3",
+          "slow": "audio/all/307_bird.mp3",
+          "image": "img/bird.jpg",
+          "zh": "小鸟"
+        },
+        {
+          "id": "animals-l1-u1-c4",
+          "type": "word",
+          "en": "Duck",
+          "audio": "audio/all/308_duck.mp3",
+          "slow": "audio/all/308_duck.mp3",
+          "image": "img/duck.jpg",
+          "zh": "鸭子"
+        },
+        {
+          "id": "animals-l1-u1-c5",
+          "type": "word",
+          "en": "Rabbit",
+          "audio": "audio/all/309_rabbit.mp3",
+          "slow": "audio/all/309_rabbit.mp3",
+          "image": "img/rabbit.jpg",
+          "zh": "兔子"
+        },
+        {
+          "id": "animals-l1-u1-c6",
+          "type": "word",
+          "en": "Bear",
+          "audio": "audio/all/310_bear.mp3",
+          "slow": "audio/all/310_bear.mp3",
+          "image": "img/bear.jpg",
+          "zh": "熊"
+        }
+      ]
+    },
+    {
+      "id": "animals-l1-u2",
+      "band": 1,
+      "title": "Lion",
+      "cards": [
+        {
+          "id": "animals-l1-u2-c1",
+          "type": "word",
+          "en": "Lion",
+          "audio": "audio/all/311_lion.mp3",
+          "slow": "audio/all/311_lion.mp3",
+          "image": "img/lion.jpg",
+          "zh": "狮子"
+        },
+        {
+          "id": "animals-l1-u2-c2",
+          "type": "word",
+          "en": "Tiger",
+          "audio": "audio/all/312_tiger.mp3",
+          "slow": "audio/all/312_tiger.mp3",
+          "image": "img/tiger.jpg",
+          "zh": "老虎"
+        },
+        {
+          "id": "animals-l1-u2-c3",
+          "type": "word",
+          "en": "Elephant",
+          "audio": "audio/all/313_elephant.mp3",
+          "slow": "audio/all/313_elephant.mp3",
+          "image": "img/elephant.jpg",
+          "zh": "大象"
+        },
+        {
+          "id": "animals-l1-u2-c4",
+          "type": "word",
+          "en": "Monkey",
+          "audio": "audio/all/314_monkey.mp3",
+          "slow": "audio/all/314_monkey.mp3",
+          "image": "img/monkey.jpg",
+          "zh": "猴子"
+        },
+        {
+          "id": "animals-l1-u2-c5",
+          "type": "word",
+          "en": "Panda",
+          "audio": "audio/all/315_panda.mp3",
+          "slow": "audio/all/315_panda.mp3",
+          "image": "img/panda.jpg",
+          "zh": "熊猫"
+        },
+        {
+          "id": "animals-l1-u2-c6",
+          "type": "word",
+          "en": "Pig",
+          "audio": "audio/all/316_pig.mp3",
+          "slow": "audio/all/316_pig.mp3",
+          "image": "img/pig.jpg",
+          "zh": "小猪"
+        }
+      ]
+    },
+    {
+      "id": "animals-l2-u1",
+      "band": 2,
+      "title": "Horse",
+      "cards": [
+        {
+          "id": "animals-l2-u1-c1",
+          "type": "word",
+          "en": "Horse",
+          "audio": "audio/all/317_horse.mp3",
+          "slow": "audio/all/317_horse.mp3",
+          "image": "img/horse.jpg",
+          "zh": "马"
+        },
+        {
+          "id": "animals-l2-u1-c2",
+          "type": "word",
+          "en": "Sheep",
+          "audio": "audio/all/318_sheep.mp3",
+          "slow": "audio/all/318_sheep.mp3",
+          "image": "img/sheep.jpg",
+          "zh": "绵羊"
+        },
+        {
+          "id": "animals-l2-u1-c3",
+          "type": "word",
+          "en": "Cow",
+          "audio": "audio/all/319_cow.mp3",
+          "slow": "audio/all/319_cow.mp3",
+          "image": "img/cow.jpg",
+          "zh": "奶牛"
+        },
+        {
+          "id": "animals-l2-u1-c4",
+          "type": "word",
+          "en": "Mouse",
+          "audio": "audio/all/320_mouse.mp3",
+          "slow": "audio/all/320_mouse.mp3",
+          "image": "img/mouse.jpg",
+          "zh": "老鼠"
+        },
+        {
+          "id": "animals-l2-u1-c5",
+          "type": "word",
+          "en": "Frog",
+          "audio": "audio/all/321_frog.mp3",
+          "slow": "audio/all/321_frog.mp3",
+          "image": "img/frog.jpg",
+          "zh": "青蛙"
+        },
+        {
+          "id": "animals-l2-u1-c6",
+          "type": "word",
+          "en": "Turtle",
+          "audio": "audio/all/322_turtle.mp3",
+          "slow": "audio/all/322_turtle.mp3",
+          "image": "img/turtle.jpg",
+          "zh": "乌龟"
+        },
+        {
+          "id": "animals-l2-u1-c7",
+          "type": "word",
+          "en": "Snake",
+          "audio": "audio/all/323_snake.mp3",
+          "slow": "audio/all/323_snake.mp3",
+          "image": "img/snake.jpg",
+          "zh": "蛇"
+        },
+        {
+          "id": "animals-l2-u1-c8",
+          "type": "word",
+          "en": "Zebra",
+          "audio": "audio/all/324_zebra.mp3",
+          "slow": "audio/all/324_zebra.mp3",
+          "image": "img/zebra.jpg",
+          "zh": "斑马"
+        }
+      ]
+    },
+    {
+      "id": "animals-l2-u2",
+      "band": 2,
+      "title": "Puppy",
+      "cards": [
+        {
+          "id": "animals-l2-u2-c1",
+          "type": "word",
+          "en": "Puppy",
+          "audio": "audio/all/325_puppy.mp3",
+          "slow": "audio/all/325_puppy.mp3",
+          "image": "img/puppy.jpg",
+          "zh": "狗宝宝"
+        },
+        {
+          "id": "animals-l2-u2-c2",
+          "type": "word",
+          "en": "Kitten",
+          "audio": "audio/all/326_kitten.mp3",
+          "slow": "audio/all/326_kitten.mp3",
+          "image": "img/kitten.jpg",
+          "zh": "猫宝宝"
+        },
+        {
+          "id": "animals-l2-u2-c3",
+          "type": "word",
+          "en": "Chick",
+          "audio": "audio/all/327_chick.mp3",
+          "slow": "audio/all/327_chick.mp3",
+          "image": "img/chick.jpg",
+          "zh": "小鸡"
+        },
+        {
+          "id": "animals-l2-u2-c4",
+          "type": "word",
+          "en": "Lamb",
+          "audio": "audio/all/328_lamb.mp3",
+          "slow": "audio/all/328_lamb.mp3",
+          "image": "img/lamb.jpg",
+          "zh": "羊宝宝"
+        },
+        {
+          "id": "animals-l2-u2-c5",
+          "type": "word",
+          "en": "Piglet",
+          "audio": "audio/all/329_piglet.mp3",
+          "slow": "audio/all/329_piglet.mp3",
+          "image": "img/piglet.jpg",
+          "zh": "猪宝宝"
+        },
+        {
+          "id": "animals-l2-u2-c6",
+          "type": "word",
+          "en": "Duckling",
+          "audio": "audio/all/330_duckling.mp3",
+          "slow": "audio/all/330_duckling.mp3",
+          "image": "img/duckling.jpg",
+          "zh": "鸭宝宝"
+        },
+        {
+          "id": "animals-l2-u2-c7",
+          "type": "word",
+          "en": "Hen",
+          "audio": "audio/all/331_hen.mp3",
+          "slow": "audio/all/331_hen.mp3",
+          "image": "img/hen.jpg",
+          "zh": "母鸡"
+        },
+        {
+          "id": "animals-l2-u2-c8",
+          "type": "word",
+          "en": "Pet",
+          "audio": "audio/all/332_pet.mp3",
+          "slow": "audio/all/332_pet.mp3",
+          "image": "img/pet.jpg",
+          "zh": "宠物"
+        }
+      ]
+    },
+    {
+      "id": "animals-l2-u3",
+      "band": 2,
+      "title": "Big elephant",
+      "cards": [
+        {
+          "id": "animals-l2-u3-c1",
+          "type": "phrase",
+          "en": "Big elephant",
+          "audio": "audio/all/333_big-elephant.mp3",
+          "slow": "audio/all/333_big-elephant.mp3",
+          "image": "img/big-elephant.jpg",
+          "zh": "大象"
+        },
+        {
+          "id": "animals-l2-u3-c2",
+          "type": "phrase",
+          "en": "Little chick",
+          "audio": "audio/all/334_little-chick.mp3",
+          "slow": "audio/all/334_little-chick.mp3",
+          "image": "img/little-chick.jpg",
+          "zh": "小小鸡"
+        },
+        {
+          "id": "animals-l2-u3-c3",
+          "type": "phrase",
+          "en": "Black cat",
+          "audio": "audio/all/335_black-cat.mp3",
+          "slow": "audio/all/335_black-cat.mp3",
+          "image": "img/black-cat.jpg",
+          "zh": "黑猫"
+        }
+      ]
+    },
+    {
+      "id": "animals-l3-u1",
+      "band": 3,
+      "title": "The dog says woof!",
+      "cards": [
+        {
+          "id": "animals-l3-u1-c1",
+          "type": "sentence",
+          "en": "The dog says woof!",
+          "audio": "audio/all/336_the-dog-says-woof.mp3",
+          "slow": "audio/all/336_the-dog-says-woof.mp3",
+          "image": "img/dog.jpg",
+          "zh": "小狗汪汪叫"
+        },
+        {
+          "id": "animals-l3-u1-c2",
+          "type": "sentence",
+          "en": "The cat says meow!",
+          "audio": "audio/all/337_the-cat-says-meow.mp3",
+          "slow": "audio/all/337_the-cat-says-meow.mp3",
+          "image": "img/cat.jpg",
+          "zh": "小猫喵喵叫"
+        },
+        {
+          "id": "animals-l3-u1-c3",
+          "type": "sentence",
+          "en": "The duck says quack!",
+          "audio": "audio/all/338_the-duck-says-quack.mp3",
+          "slow": "audio/all/338_the-duck-says-quack.mp3",
+          "image": "img/duck.jpg",
+          "zh": "鸭子嘎嘎叫"
+        },
+        {
+          "id": "animals-l3-u1-c4",
+          "type": "sentence",
+          "en": "The cow says moo!",
+          "audio": "audio/all/339_the-cow-says-moo.mp3",
+          "slow": "audio/all/339_the-cow-says-moo.mp3",
+          "image": "img/cow.jpg",
+          "zh": "奶牛哞哞叫"
+        },
+        {
+          "id": "animals-l3-u1-c5",
+          "type": "sentence",
+          "en": "I love my cat.",
+          "audio": "audio/all/340_i-love-my-cat.mp3",
+          "slow": "audio/all/340_i-love-my-cat.mp3",
+          "image": "img/cat.jpg",
+          "zh": "我爱我的小猫"
+        },
+        {
+          "id": "animals-l3-u1-c6",
+          "type": "sentence",
+          "en": "Look at the elephant!",
+          "audio": "audio/all/341_look-at-the-elephant.mp3",
+          "slow": "audio/all/341_look-at-the-elephant.mp3",
+          "image": "img/elephant.jpg",
+          "zh": "看大象"
+        },
+        {
+          "id": "animals-l3-u1-c7",
+          "type": "sentence",
+          "en": "The bird can fly!",
+          "audio": "audio/all/342_the-bird-can-fly.mp3",
+          "slow": "audio/all/342_the-bird-can-fly.mp3",
+          "image": "img/bird.jpg",
+          "zh": "小鸟会飞"
+        },
+        {
+          "id": "animals-l3-u1-c8",
+          "type": "sentence",
+          "en": "Feed the rabbit!",
+          "audio": "audio/all/343_feed-the-rabbit.mp3",
+          "slow": "audio/all/343_feed-the-rabbit.mp3",
+          "image": "img/rabbit.jpg",
+          "zh": "喂喂兔子"
+        }
+      ]
+    },
+    {
+      "id": "animals-l4-u1",
+      "band": 4,
+      "title": "What's this? It's a ",
+      "cards": [
+        {
+          "id": "animals-l4-u1-c1",
+          "type": "qa",
+          "en": "What's this? It's a cat.",
+          "audio": "audio/all/344_what-s-this-it-s-a-cat.mp3",
+          "slow": "audio/all/344_what-s-this-it-s-a-cat.mp3",
+          "image": "img/cat.jpg",
+          "zh": "这是什么?是小猫"
+        },
+        {
+          "id": "animals-l4-u1-c2",
+          "type": "qa",
+          "en": "Do you have a pet? Yes, a dog!",
+          "audio": "audio/all/345_do-you-have-a-pet-yes-a-dog.mp3",
+          "slow": "audio/all/345_do-you-have-a-pet-yes-a-dog.mp3",
+          "image": "img/dog.jpg",
+          "zh": "你有宠物吗?有小狗"
+        },
+        {
+          "id": "animals-l4-u1-c3",
+          "type": "qa",
+          "en": "What does the cow say? Moo!",
+          "audio": "audio/all/346_what-does-the-cow-say-moo.mp3",
+          "slow": "audio/all/346_what-does-the-cow-say-moo.mp3",
+          "image": "img/cow.jpg",
+          "zh": "奶牛怎么叫?哞"
+        },
+        {
+          "id": "animals-l4-u1-c4",
+          "type": "qa",
+          "en": "Who lives in the water? Fish!",
+          "audio": "audio/all/347_who-lives-in-the-water-fish.mp3",
+          "slow": "audio/all/347_who-lives-in-the-water-fish.mp3",
+          "image": "img/fish-pet.jpg",
+          "zh": "谁住在水里?鱼"
+        },
+        {
+          "id": "animals-l4-u1-c5",
+          "type": "qa",
+          "en": "Can a bird fly? Yes, it can!",
+          "audio": "audio/all/348_can-a-bird-fly-yes-it-can.mp3",
+          "slow": "audio/all/348_can-a-bird-fly-yes-it-can.mp3",
+          "image": "img/bird.jpg",
+          "zh": "鸟会飞吗?会"
+        },
+        {
+          "id": "animals-l4-u1-c6",
+          "type": "qa",
+          "en": "What color is the cat? Black and white.",
+          "audio": "audio/all/349_what-color-is-the-cat-black-and-white.mp3",
+          "slow": "audio/all/349_what-color-is-the-cat-black-and-white.mp3",
+          "image": "img/cat.jpg",
+          "zh": "小猫什么颜色?黑白色"
+        }
+      ]
+    },
+    {
+      "id": "animals-l4-u2",
+      "band": 4,
+      "title": "I saw a big elephant",
+      "cards": [
+        {
+          "id": "animals-l4-u2-c1",
+          "type": "retell",
+          "en": "I saw a big elephant!",
+          "audio": "audio/all/350_i-saw-a-big-elephant.mp3",
+          "slow": "audio/all/350_i-saw-a-big-elephant.mp3",
+          "image": "img/elephant.jpg",
+          "zh": "我看到了一只大象"
+        },
+        {
+          "id": "animals-l4-u2-c2",
+          "type": "retell",
+          "en": "The monkeys were so funny.",
+          "audio": "audio/all/351_the-monkeys-were-so-funny.mp3",
+          "slow": "audio/all/351_the-monkeys-were-so-funny.mp3",
+          "image": "img/monkey.jpg",
+          "zh": "猴子们太有趣了"
+        },
+        {
+          "id": "animals-l4-u2-c3",
+          "type": "retell",
+          "en": "I fed the ducks today.",
+          "audio": "audio/all/352_i-fed-the-ducks-today.mp3",
+          "slow": "audio/all/352_i-fed-the-ducks-today.mp3",
+          "image": "img/duck.jpg",
+          "zh": "我今天喂了鸭子"
+        }
+      ]
+    },
+    {
+      "id": "animals-l4-u3",
+      "band": 4,
+      "title": "Can we go to the zoo",
+      "cards": [
+        {
+          "id": "animals-l4-u3-c1",
+          "type": "inquire",
+          "en": "Can we go to the zoo?",
+          "audio": "audio/all/353_can-we-go-to-the-zoo.mp3",
+          "slow": "audio/all/353_can-we-go-to-the-zoo.mp3",
+          "image": "img/panda.jpg",
+          "zh": "我们能去动物园吗"
+        },
+        {
+          "id": "animals-l4-u3-c2",
+          "type": "inquire",
+          "en": "Where is the cat?",
+          "audio": "audio/all/354_where-is-the-cat.mp3",
+          "slow": "audio/all/354_where-is-the-cat.mp3",
+          "image": "img/cat.jpg",
+          "zh": "小猫在哪"
+        },
+        {
+          "id": "animals-l4-u3-c3",
+          "type": "inquire",
+          "en": "What animal is this?",
+          "audio": "audio/all/355_what-animal-is-this.mp3",
+          "slow": "audio/all/355_what-animal-is-this.mp3",
+          "image": "img/pet.jpg",
+          "zh": "这是什么动物"
+        }
+      ]
+    },
+    {
+      "id": "animals-l5-u1",
+      "band": 5,
+      "title": "Let's go to the zoo!",
+      "cards": [
+        {
+          "id": "animals-l5-u1-c1",
+          "type": "dialog",
+          "en": "Let's go to the zoo!",
+          "audio": "audio/all/356_let-s-go-to-the-zoo.mp3",
+          "slow": "audio/all/356_let-s-go-to-the-zoo.mp3",
+          "image": "img/panda.jpg",
+          "zh": "我们去动物园吧"
+        },
+        {
+          "id": "animals-l5-u1-c2",
+          "type": "dialog",
+          "en": "Wow! A big lion!",
+          "audio": "audio/all/357_wow-a-big-lion.mp3",
+          "slow": "audio/all/357_wow-a-big-lion.mp3",
+          "image": "img/lion.jpg",
+          "zh": "哇!大狮子"
+        },
+        {
+          "id": "animals-l5-u1-c3",
+          "type": "dialog",
+          "en": "Don't feed the monkey, okay?",
+          "audio": "audio/all/358_don-t-feed-the-monkey-okay.mp3",
+          "slow": "audio/all/358_don-t-feed-the-monkey-okay.mp3",
+          "image": "img/monkey.jpg",
+          "zh": "别喂猴子好吗"
+        },
+        {
+          "id": "animals-l5-u1-c4",
+          "type": "dialog",
+          "en": "Look! The pandas are sleeping.",
+          "audio": "audio/all/359_look-the-pandas-are-sleeping.mp3",
+          "slow": "audio/all/359_look-the-pandas-are-sleeping.mp3",
+          "image": "img/panda.jpg",
+          "zh": "看!熊猫在睡觉"
+        },
+        {
+          "id": "animals-l5-u1-c5",
+          "type": "dialog",
+          "en": "I like the elephants best!",
+          "audio": "audio/all/360_i-like-the-elephants-best.mp3",
+          "slow": "audio/all/360_i-like-the-elephants-best.mp3",
+          "image": "img/elephant.jpg",
+          "zh": "我最喜欢大象"
+        },
+        {
+          "id": "animals-l5-u1-c6",
+          "type": "dialog",
+          "en": "What a fun day at the zoo!",
+          "audio": "audio/all/361_what-a-fun-day-at-the-zoo.mp3",
+          "slow": "audio/all/361_what-a-fun-day-at-the-zoo.mp3",
+          "image": "img/panda.jpg",
+          "zh": "在动物园真开心"
+        }
+      ]
+    },
+    {
+      "id": "animals-l6-u1",
+      "band": 6,
+      "title": "I love animals.",
+      "cards": [
+        {
+          "id": "animals-l6-u1-c1",
+          "type": "story",
+          "en": "I love animals.",
+          "audio": "audio/all/362_i-love-animals.mp3",
+          "slow": "audio/all/362_i-love-animals.mp3",
+          "image": "img/pet.jpg",
+          "zh": "我爱动物"
+        },
+        {
+          "id": "animals-l6-u1-c2",
+          "type": "story",
+          "en": "My cat is white and soft.",
+          "audio": "audio/all/363_my-cat-is-white-and-soft.mp3",
+          "slow": "audio/all/363_my-cat-is-white-and-soft.mp3",
+          "image": "img/cat.jpg",
+          "zh": "我的猫又白又软"
+        },
+        {
+          "id": "animals-l6-u1-c3",
+          "type": "story",
+          "en": "Every day, I feed my cat.",
+          "audio": "audio/all/364_every-day-i-feed-my-cat.mp3",
+          "slow": "audio/all/364_every-day-i-feed-my-cat.mp3",
+          "image": "img/cat.jpg",
+          "zh": "我每天喂我的猫"
+        },
+        {
+          "id": "animals-l6-u1-c4",
+          "type": "story",
+          "en": "She says meow and purrs.",
+          "audio": "audio/all/365_she-says-meow-and-purrs.mp3",
+          "slow": "audio/all/365_she-says-meow-and-purrs.mp3",
+          "image": "img/cat.jpg",
+          "zh": "她喵喵叫还打呼噜"
+        },
+        {
+          "id": "animals-l6-u1-c5",
+          "type": "story",
+          "en": "My cat is my best friend!",
+          "audio": "audio/all/366_my-cat-is-my-best-friend.mp3",
+          "slow": "audio/all/366_my-cat-is-my-best-friend.mp3",
+          "image": "img/cat.jpg",
+          "zh": "我的猫是我最好的朋友"
+        }
+      ]
+    }
+  ]
+}

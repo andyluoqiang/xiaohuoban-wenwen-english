@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API29+：禁止系统对未适配应用强制反深色（米色背景被反成深褐的元凶） -->
+    <style name="Theme.LS" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

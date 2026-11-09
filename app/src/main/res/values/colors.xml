@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 儿童友好色板：暖米底 + 薄荷绿主色 + 珊瑚强调（同产品视觉基调） -->
+    <color name="bg_warm">#FFF6EA</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="primary_green">#5BBFA0</color>
+    <color name="primary_green_dark">#3E9D80</color>
+    <color name="accent_coral">#FF8A65</color>
+    <color name="accent_yellow">#FFD166</color>
+    <color name="star_gold">#FFC107</color>
+    <color name="text_brown">#4E342E</color>
+    <color name="text_hint">#A1887F</color>
+    <color name="good_green">#66BB6A</color>
+    <color name="ok_orange">#FFA726</color>
+    <color name="recording_red">#EF5350</color>
+</resources>

@@ -1,0 +1,128 @@
+package com.family.listenspeak.data
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+// ============ 内容模型（assets JSON，运行时只读） ============
+
+data class Manifest(
+    val version: Int,
+    val generatedAt: String,
+    val themes: List<ThemeEntry>
+)
+
+data class ThemeEntry(
+    val id: String,
+    val nameZh: String,
+    val units: Int,
+    val cards: Int
+)
+
+data class ThemeContent(
+    val theme: String,
+    val nameZh: String,
+    val units: List<UnitDef>
+)
+
+data class UnitDef(
+    val id: String,
+    val band: Int,
+    val title: String,
+    val cards: List<CardDef>
+)
+
+data class CardDef(
+    val id: String,
+    val type: String,          // word|func|sentence|qa|retell|inquire|dialog|story|chant
+    val en: String,
+    val zh: String?,
+    val audio: String,
+    val slow: String,
+    val image: String,
+    val distractors: List<String>?
+) {
+    /** 听选选项图（正确图 + 干扰图），顺序待洗牌 */
+    fun options(): List<String> = listOf(image) + (distractors ?: emptyList())
+}
+
+// ============ Room 实体（进度流水，v1 完整 Schema） ============
+
+@Entity
+data class Child(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val name: String,
+    val avatar: String,
+    val birthYear: Int,
+    val bandLevel: Int,
+    val pureListenMode: Boolean = true,
+    val createdAt: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class Progress(
+    @PrimaryKey val key: String,     // "${childId}-${unitId}"
+    val childId: Long,
+    val unitId: String,
+    val cardsPassed: Int,
+    val cardsTotal: Int,
+    val stars: Int,
+    val unlocked: Boolean = false,
+    val updatedAt: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class Attempt(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val childId: Long,
+    val cardId: String,
+    val kind: String,                // LISTEN / SPEAK
+    val firstTryCorrect: Boolean?,
+    val score: Float?,               // 引擎 0-5 分制
+    val stars: Int?,
+    val audioPath: String?,
+    val ts: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class ReviewItem(
+    @PrimaryKey val key: String,     // "${childId}-${cardId}"
+    val childId: Long,
+    val cardId: String,
+    val priority: Int,               // 1中 2高 3最高
+    val intervalStep: Int,           // 0同日 1隔1天 2隔3天 3隔7天 4可出池
+    val nextDueTs: Long,
+    val passDates: String = "",      // 出池验证日期 CSV
+    val wrongCount: Int = 0,
+    val updatedAt: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class EvalQueue(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val childId: Long,
+    val cardId: String,
+    val text: String,
+    val audioPath: String,
+    val status: String = "PENDING",
+    val resultJson: String? = null,
+    val ts: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class Award(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val childId: Long,
+    val stickerId: String,
+    val ts: Long = System.currentTimeMillis()
+)
+
+@Entity
+data class ParentTask(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val childId: Long,
+    val date: String,
+    val themeId: String,
+    val content: String,
+    val done: Boolean = false,
+    val doneTs: Long? = null
+)
