@@ -156,7 +156,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（剑桥改版一起标识）
         col.addView(TextView(this).apply {
-            text = "v0.2.5 · 剑桥岛版"
+            text = "v0.2.6 · 课程树版"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
