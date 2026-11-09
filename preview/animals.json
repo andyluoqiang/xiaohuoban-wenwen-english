@@ -178,6 +178,68 @@
    ]
   },
   {
+   "id": "animals-l1-u3",
+   "band": 1,
+   "title": "Sea friends · 小小朋友",
+   "cards": [
+    {
+     "id": "animals-l1-u3-c1",
+     "type": "word",
+     "en": "Fish",
+     "zh": "鱼",
+     "audio": "audio/all/419_fish.mp3",
+     "slow": "audio/all/419_fish.mp3",
+     "image": "img/cam-fish.jpg"
+    },
+    {
+     "id": "animals-l1-u3-c2",
+     "type": "word",
+     "en": "Chicken",
+     "zh": "鸡",
+     "audio": "audio/all/416_chicken.mp3",
+     "slow": "audio/all/416_chicken.mp3",
+     "image": "img/cam-chicken.jpg"
+    },
+    {
+     "id": "animals-l1-u3-c3",
+     "type": "word",
+     "en": "Bee",
+     "zh": "蜜蜂",
+     "audio": "audio/all/413_bee.mp3",
+     "slow": "audio/all/413_bee.mp3",
+     "image": "img/ai-bee.jpg"
+    },
+    {
+     "id": "animals-l1-u3-c4",
+     "type": "word",
+     "en": "Snail",
+     "zh": "蜗牛",
+     "audio": "audio/all/412_snail.mp3",
+     "slow": "audio/all/412_snail.mp3",
+     "image": "img/ai-snail.jpg"
+    },
+    {
+     "id": "animals-l1-u3-c5",
+     "type": "word",
+     "en": "Penguin",
+     "zh": "企鹅",
+     "audio": "audio/all/407_penguin.mp3",
+     "slow": "audio/all/407_penguin.mp3",
+     "image": "img/ai-penguin.jpg"
+    },
+    {
+     "id": "animals-l1-u3-c6",
+     "type": "word",
+     "en": "Dolphin",
+     "zh": "海豚",
+     "audio": "audio/all/410_dolphin.mp3",
+     "slow": "audio/all/410_dolphin.mp3",
+     "image": "img/cam-dolphin.jpg"
+    }
+   ],
+   "newFirst": true
+  },
+  {
    "id": "animals-l2-u1",
    "band": 2,
    "title": "Horse",

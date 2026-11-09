@@ -15,8 +15,8 @@ android {
         applicationId 'com.family.listenspeak'
         minSdkVersion 24
         targetSdkVersion 30
-        versionCode 6
-        versionName '0.2.4'
+        versionCode 7
+        versionName '0.2.5'
         // 讯飞评测三件套从 local.properties 注入；缺失时为空（App 内提示补填）
         buildConfigField 'String', 'XF_APP_ID', "\"${localProps.getProperty('xf.appid', '')}\""
         buildConfigField 'String', 'XF_API_KEY', "\"${localProps.getProperty('xf.apikey', '')}\""
