@@ -11,14 +11,14 @@
   "zh": "说",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/450_says.mp3"
  },
  "woof": {
   "w": "woof",
   "zh": "汪",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/451_woof.mp3"
  },
  "cat": {
   "w": "cat",
@@ -32,7 +32,7 @@
   "zh": "喵",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/452_meow.mp3"
  },
  "duck": {
   "w": "duck",
@@ -46,7 +46,7 @@
   "zh": "嘎",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/453_quack.mp3"
  },
  "cow": {
   "w": "cow",
@@ -60,70 +60,70 @@
   "zh": "哞",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/454_moo.mp3"
  },
  "animals": {
   "w": "animals",
   "zh": "动物",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/455_animals.mp3"
  },
  "we": {
   "w": "we",
   "zh": "我们",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/456_we.mp3"
  },
  "love": {
   "w": "love",
   "zh": "爱",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/457_love.mp3"
  },
  "you": {
   "w": "you",
   "zh": "你",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/458_you.mp3"
  },
  "look": {
   "w": "look",
   "zh": "看起来",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/459_look.mp3"
  },
  "listen": {
   "w": "listen",
   "zh": "听",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/460_listen.mp3"
  },
  "wow": {
   "w": "wow",
   "zh": "哇",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/461_wow.mp3"
  },
  "so": {
   "w": "so",
   "zh": "这么/那么",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/462_so.mp3"
  },
  "cute": {
   "w": "cute",
   "zh": "可爱",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/463_cute.mp3"
  },
  "bird": {
   "w": "bird",
@@ -298,21 +298,21 @@
   "zh": "大",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/464_big.mp3"
  },
  "little": {
   "w": "little",
   "zh": "小的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/465_little.mp3"
  },
  "black": {
   "w": "black",
   "zh": "黑色",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/466_black.mp3"
  },
  "giraffe": {
   "w": "giraffe",
@@ -361,7 +361,7 @@
   "zh": "北极的",
   "pos": "adj",
   "img": null,
-  "aud": null
+  "aud": "audio/all/467_polar.mp3"
  },
  "penguin": {
   "w": "penguin",
@@ -473,426 +473,426 @@
   "zh": "在…",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/468_at.mp3"
  },
  "the": {
   "w": "the",
   "zh": "这/那",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/469_the.mp3"
  },
  "zoo": {
   "w": "zoo",
   "zh": "动物园",
   "pos": "n",
   "img": null,
-  "aud": null
+  "aud": "audio/all/470_zoo.mp3"
  },
  "a": {
   "w": "a",
   "zh": "一个",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/471_a.mp3"
  },
  "long": {
   "w": "long",
   "zh": "长",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/472_long.mp3"
  },
  "tail": {
   "w": "tail",
   "zh": "尾巴",
   "pos": "n",
   "img": null,
-  "aud": null
+  "aud": "audio/all/473_tail.mp3"
  },
  "my": {
   "w": "my",
   "zh": "我的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/474_my.mp3"
  },
  "favourite": {
   "w": "favourite",
   "zh": "最喜欢的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/475_favourite.mp3"
  },
  "animal": {
   "w": "animal",
   "zh": "动物",
   "pos": "n",
   "img": null,
-  "aud": null
+  "aud": "audio/all/476_animal.mp3"
  },
  "i": {
   "w": "i",
   "zh": "我",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/477_i.mp3"
  },
  "can": {
   "w": "can",
   "zh": "能",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/478_can.mp3"
  },
  "feed": {
   "w": "feed",
   "zh": "喂",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/479_feed.mp3"
  },
  "is": {
   "w": "is",
   "zh": "是",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/480_is.mp3"
  },
  "tall": {
   "w": "tall",
   "zh": "高",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/481_tall.mp3"
  },
  "in": {
   "w": "in",
   "zh": "在…里",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/482_in.mp3"
  },
  "pool": {
   "w": "pool",
   "zh": "水池",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/483_pool.mp3"
  },
  "jump": {
   "w": "jump",
   "zh": "跳",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/484_jump.mp3"
  },
  "far": {
   "w": "far",
   "zh": "远的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/485_far.mp3"
  },
  "what's": {
   "w": "what's",
   "zh": "是什么",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/486_what-s.mp3"
  },
  "this": {
   "w": "this",
   "zh": "这个",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/487_this.mp3"
  },
  "it's": {
   "w": "it's",
   "zh": "它是",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/488_it-s.mp3"
  },
  "do": {
   "w": "do",
   "zh": "做",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/489_do.mp3"
  },
  "have": {
   "w": "have",
   "zh": "吃",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/490_have.mp3"
  },
  "yes": {
   "w": "yes",
   "zh": "是",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/491_yes.mp3"
  },
  "what": {
   "w": "what",
   "zh": "什么",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/492_what.mp3"
  },
  "does": {
   "w": "does",
   "zh": "做(第三人称)",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/493_does.mp3"
  },
  "say": {
   "w": "say",
   "zh": "说",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/494_say.mp3"
  },
  "who": {
   "w": "who",
   "zh": "谁",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/495_who.mp3"
  },
  "lives": {
   "w": "lives",
   "zh": "住",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/496_lives.mp3"
  },
  "water": {
   "w": "water",
   "zh": "水",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/497_water.mp3"
  },
  "it": {
   "w": "it",
   "zh": "它",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/498_it.mp3"
  },
  "color": {
   "w": "color",
   "zh": "颜色",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/499_color.mp3"
  },
  "and": {
   "w": "and",
   "zh": "和",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/500_and.mp3"
  },
  "white": {
   "w": "white",
   "zh": "白色",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/501_white.mp3"
  },
  "saw": {
   "w": "saw",
   "zh": "看到",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/502_saw.mp3"
  },
  "monkeys": {
   "w": "monkeys",
   "zh": "猴子",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/503_monkeys.mp3"
  },
  "were": {
   "w": "were",
   "zh": "是(过去)",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/504_were.mp3"
  },
  "funny": {
   "w": "funny",
   "zh": "好笑",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/505_funny.mp3"
  },
  "fed": {
   "w": "fed",
   "zh": "喂(过去)",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/506_fed.mp3"
  },
  "ducks": {
   "w": "ducks",
   "zh": "鸭子",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/507_ducks.mp3"
  },
  "today": {
   "w": "today",
   "zh": "今天",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/508_today.mp3"
  },
  "go": {
   "w": "go",
   "zh": "去",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/509_go.mp3"
  },
  "to": {
   "w": "to",
   "zh": "到",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/510_to.mp3"
  },
  "where": {
   "w": "where",
   "zh": "哪里",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/511_where.mp3"
  },
  "swim": {
   "w": "swim",
   "zh": "游",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/512_swim.mp3"
  },
  "let's": {
   "w": "let's",
   "zh": "我们(做某事)吧",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/513_let-s.mp3"
  },
  "don't": {
   "w": "don't",
   "zh": "不(do not)",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/514_don-t.mp3"
  },
  "okay": {
   "w": "okay",
   "zh": "好的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/515_okay.mp3"
  },
  "pandas": {
   "w": "pandas",
   "zh": "熊猫",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/516_pandas.mp3"
  },
  "are": {
   "w": "are",
   "zh": "是",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/517_are.mp3"
  },
  "sleeping": {
   "w": "sleeping",
   "zh": "睡觉",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/518_sleeping.mp3"
  },
  "like": {
   "w": "like",
   "zh": "喜欢",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/519_like.mp3"
  },
  "elephants": {
   "w": "elephants",
   "zh": "大象",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/520_elephants.mp3"
  },
  "best": {
   "w": "best",
   "zh": "最好的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/521_best.mp3"
  },
  "fun": {
   "w": "fun",
   "zh": "乐趣",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/522_fun.mp3"
  },
  "day": {
   "w": "day",
   "zh": "天",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/523_day.mp3"
  },
  "soft": {
   "w": "soft",
   "zh": "软软的",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/524_soft.mp3"
  },
  "every": {
   "w": "every",
   "zh": "每个",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/525_every.mp3"
  },
  "she": {
   "w": "she",
   "zh": "她",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/526_she.mp3"
  },
  "purrs": {
   "w": "purrs",
   "zh": "呼噜",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/527_purrs.mp3"
  },
  "friend": {
   "w": "friend",
   "zh": "朋友",
   "pos": null,
   "img": null,
-  "aud": null
+  "aud": "audio/all/528_friend.mp3"
  }
 }

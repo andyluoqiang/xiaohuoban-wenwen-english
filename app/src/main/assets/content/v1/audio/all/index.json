@@ -2414,5 +2414,637 @@
   "type": "qa",
   "unit": "l4u3",
   "file": "433_can-a-penguin-swim-yes-it-can.mp3"
+ },
+ {
+  "i": 450,
+  "en": "says",
+  "zh": "说",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "450_says.mp3"
+ },
+ {
+  "i": 451,
+  "en": "woof",
+  "zh": "汪",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "451_woof.mp3"
+ },
+ {
+  "i": 452,
+  "en": "meow",
+  "zh": "喵",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "452_meow.mp3"
+ },
+ {
+  "i": 453,
+  "en": "quack",
+  "zh": "嘎",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "453_quack.mp3"
+ },
+ {
+  "i": 454,
+  "en": "moo",
+  "zh": "哞",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "454_moo.mp3"
+ },
+ {
+  "i": 455,
+  "en": "animals",
+  "zh": "动物",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "455_animals.mp3"
+ },
+ {
+  "i": 456,
+  "en": "we",
+  "zh": "我们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "456_we.mp3"
+ },
+ {
+  "i": 457,
+  "en": "love",
+  "zh": "爱",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "457_love.mp3"
+ },
+ {
+  "i": 458,
+  "en": "you",
+  "zh": "你",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "458_you.mp3"
+ },
+ {
+  "i": 459,
+  "en": "look",
+  "zh": "看起来",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "459_look.mp3"
+ },
+ {
+  "i": 460,
+  "en": "listen",
+  "zh": "听",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "460_listen.mp3"
+ },
+ {
+  "i": 461,
+  "en": "wow",
+  "zh": "哇",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "461_wow.mp3"
+ },
+ {
+  "i": 462,
+  "en": "so",
+  "zh": "这么/那么",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "462_so.mp3"
+ },
+ {
+  "i": 463,
+  "en": "cute",
+  "zh": "可爱",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "463_cute.mp3"
+ },
+ {
+  "i": 464,
+  "en": "big",
+  "zh": "大",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "464_big.mp3"
+ },
+ {
+  "i": 465,
+  "en": "little",
+  "zh": "小的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "465_little.mp3"
+ },
+ {
+  "i": 466,
+  "en": "black",
+  "zh": "黑色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "466_black.mp3"
+ },
+ {
+  "i": 467,
+  "en": "polar",
+  "zh": "北极的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "467_polar.mp3"
+ },
+ {
+  "i": 468,
+  "en": "at",
+  "zh": "在…",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "468_at.mp3"
+ },
+ {
+  "i": 469,
+  "en": "the",
+  "zh": "这/那",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "469_the.mp3"
+ },
+ {
+  "i": 470,
+  "en": "zoo",
+  "zh": "动物园",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "470_zoo.mp3"
+ },
+ {
+  "i": 471,
+  "en": "a",
+  "zh": "一个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "471_a.mp3"
+ },
+ {
+  "i": 472,
+  "en": "long",
+  "zh": "长",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "472_long.mp3"
+ },
+ {
+  "i": 473,
+  "en": "tail",
+  "zh": "尾巴",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "473_tail.mp3"
+ },
+ {
+  "i": 474,
+  "en": "my",
+  "zh": "我的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "474_my.mp3"
+ },
+ {
+  "i": 475,
+  "en": "favourite",
+  "zh": "最喜欢的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "475_favourite.mp3"
+ },
+ {
+  "i": 476,
+  "en": "animal",
+  "zh": "动物",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "476_animal.mp3"
+ },
+ {
+  "i": 477,
+  "en": "i",
+  "zh": "我",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "477_i.mp3"
+ },
+ {
+  "i": 478,
+  "en": "can",
+  "zh": "能",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "478_can.mp3"
+ },
+ {
+  "i": 479,
+  "en": "feed",
+  "zh": "喂",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "479_feed.mp3"
+ },
+ {
+  "i": 480,
+  "en": "is",
+  "zh": "是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "480_is.mp3"
+ },
+ {
+  "i": 481,
+  "en": "tall",
+  "zh": "高",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "481_tall.mp3"
+ },
+ {
+  "i": 482,
+  "en": "in",
+  "zh": "在…里",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "482_in.mp3"
+ },
+ {
+  "i": 483,
+  "en": "pool",
+  "zh": "水池",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "483_pool.mp3"
+ },
+ {
+  "i": 484,
+  "en": "jump",
+  "zh": "跳",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "484_jump.mp3"
+ },
+ {
+  "i": 485,
+  "en": "far",
+  "zh": "远的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "485_far.mp3"
+ },
+ {
+  "i": 486,
+  "en": "what's",
+  "zh": "是什么",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "486_what-s.mp3"
+ },
+ {
+  "i": 487,
+  "en": "this",
+  "zh": "这个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "487_this.mp3"
+ },
+ {
+  "i": 488,
+  "en": "it's",
+  "zh": "它是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "488_it-s.mp3"
+ },
+ {
+  "i": 489,
+  "en": "do",
+  "zh": "做",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "489_do.mp3"
+ },
+ {
+  "i": 490,
+  "en": "have",
+  "zh": "吃",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "490_have.mp3"
+ },
+ {
+  "i": 491,
+  "en": "yes",
+  "zh": "是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "491_yes.mp3"
+ },
+ {
+  "i": 492,
+  "en": "what",
+  "zh": "什么",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "492_what.mp3"
+ },
+ {
+  "i": 493,
+  "en": "does",
+  "zh": "做(第三人称)",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "493_does.mp3"
+ },
+ {
+  "i": 494,
+  "en": "say",
+  "zh": "说",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "494_say.mp3"
+ },
+ {
+  "i": 495,
+  "en": "who",
+  "zh": "谁",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "495_who.mp3"
+ },
+ {
+  "i": 496,
+  "en": "lives",
+  "zh": "住",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "496_lives.mp3"
+ },
+ {
+  "i": 497,
+  "en": "water",
+  "zh": "水",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "497_water.mp3"
+ },
+ {
+  "i": 498,
+  "en": "it",
+  "zh": "它",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "498_it.mp3"
+ },
+ {
+  "i": 499,
+  "en": "color",
+  "zh": "颜色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "499_color.mp3"
+ },
+ {
+  "i": 500,
+  "en": "and",
+  "zh": "和",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "500_and.mp3"
+ },
+ {
+  "i": 501,
+  "en": "white",
+  "zh": "白色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "501_white.mp3"
+ },
+ {
+  "i": 502,
+  "en": "saw",
+  "zh": "看到",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "502_saw.mp3"
+ },
+ {
+  "i": 503,
+  "en": "monkeys",
+  "zh": "猴子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "503_monkeys.mp3"
+ },
+ {
+  "i": 504,
+  "en": "were",
+  "zh": "是(过去)",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "504_were.mp3"
+ },
+ {
+  "i": 505,
+  "en": "funny",
+  "zh": "好笑",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "505_funny.mp3"
+ },
+ {
+  "i": 506,
+  "en": "fed",
+  "zh": "喂(过去)",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "506_fed.mp3"
+ },
+ {
+  "i": 507,
+  "en": "ducks",
+  "zh": "鸭子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "507_ducks.mp3"
+ },
+ {
+  "i": 508,
+  "en": "today",
+  "zh": "今天",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "508_today.mp3"
+ },
+ {
+  "i": 509,
+  "en": "go",
+  "zh": "去",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "509_go.mp3"
+ },
+ {
+  "i": 510,
+  "en": "to",
+  "zh": "到",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "510_to.mp3"
+ },
+ {
+  "i": 511,
+  "en": "where",
+  "zh": "哪里",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "511_where.mp3"
+ },
+ {
+  "i": 512,
+  "en": "swim",
+  "zh": "游",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "512_swim.mp3"
+ },
+ {
+  "i": 513,
+  "en": "let's",
+  "zh": "我们(做某事)吧",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "513_let-s.mp3"
+ },
+ {
+  "i": 514,
+  "en": "don't",
+  "zh": "不(do not)",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "514_don-t.mp3"
+ },
+ {
+  "i": 515,
+  "en": "okay",
+  "zh": "好的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "515_okay.mp3"
+ },
+ {
+  "i": 516,
+  "en": "pandas",
+  "zh": "熊猫",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "516_pandas.mp3"
+ },
+ {
+  "i": 517,
+  "en": "are",
+  "zh": "是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "517_are.mp3"
+ },
+ {
+  "i": 518,
+  "en": "sleeping",
+  "zh": "睡觉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "518_sleeping.mp3"
+ },
+ {
+  "i": 519,
+  "en": "like",
+  "zh": "喜欢",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "519_like.mp3"
+ },
+ {
+  "i": 520,
+  "en": "elephants",
+  "zh": "大象",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "520_elephants.mp3"
+ },
+ {
+  "i": 521,
+  "en": "best",
+  "zh": "最好的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "521_best.mp3"
+ },
+ {
+  "i": 522,
+  "en": "fun",
+  "zh": "乐趣",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "522_fun.mp3"
+ },
+ {
+  "i": 523,
+  "en": "day",
+  "zh": "天",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "523_day.mp3"
+ },
+ {
+  "i": 524,
+  "en": "soft",
+  "zh": "软软的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "524_soft.mp3"
+ },
+ {
+  "i": 525,
+  "en": "every",
+  "zh": "每个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "525_every.mp3"
+ },
+ {
+  "i": 526,
+  "en": "she",
+  "zh": "她",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "526_she.mp3"
+ },
+ {
+  "i": 527,
+  "en": "purrs",
+  "zh": "呼噜",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "527_purrs.mp3"
+ },
+ {
+  "i": 528,
+  "en": "friend",
+  "zh": "朋友",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "528_friend.mp3"
  }
 ]
