@@ -2,6 +2,7 @@ package com.family.listenspeak.data
 
 import android.content.Context
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.util.concurrent.atomic.AtomicBoolean
@@ -17,6 +18,7 @@ class ContentLoader(private val ctx: Context) {
     val themes = linkedMapOf<String, ThemeContent>()           // id → content
     val cards = linkedMapOf<String, CardDef>()                  // cardId → def
     val unitCards = linkedMapOf<String, MutableList<CardDef>>() // unitId → cards
+    val vocabMap = linkedMapOf<String, VocabDef>()              // 词 → 词条（点词查义）
     private val loaded = AtomicBoolean(false)
 
     val isLoaded: Boolean get() = loaded.get()
@@ -35,11 +37,20 @@ class ContentLoader(private val ctx: Context) {
                 u.cards.forEach { cards[it.id] = it }
             }
         }
+        // 词汇库（点词查义；不存在则忽略）
+        runCatching {
+            val type = object : TypeToken<Map<String, VocabDef>>() {}.type
+            val vj: Map<String, VocabDef> = gson.fromJson(am.open("content/v1/vocab.json").bufferedReader().readText(), type)
+            vocabMap.putAll(vj)
+        }
         loaded.set(true)
     }
 
     fun card(id: String): CardDef? = cards[id]
     fun unit(id: String): List<CardDef> = unitCards[id] ?: emptyList()
+
+    /** 点词查义 */
+    fun vocab(w: String): VocabDef? = vocabMap[w]
 
     /** 主题图片池（听选干扰项补齐用） */
     fun imagePool(themeId: String): List<String> =

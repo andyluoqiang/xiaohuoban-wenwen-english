@@ -36,6 +36,8 @@ interface AttemptDao {
     suspend fun insert(a: Attempt): Long
     @Query("SELECT COUNT(*) FROM Attempt WHERE childId=:childId AND cardId=:cardId AND kind='LISTEN' AND firstTryCorrect=1")
     suspend fun firstTryOkCount(childId: Long, cardId: String): Int
+    @Query("SELECT DISTINCT cardId FROM Attempt WHERE childId=:childId AND kind='LISTEN' AND firstTryCorrect=1")
+    suspend fun passedCardIds(childId: Long): List<String>
 }
 
 @Dao

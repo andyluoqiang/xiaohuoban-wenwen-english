@@ -45,6 +45,15 @@ data class CardDef(
     fun options(): List<String> = listOf(image) + (distractors ?: emptyList())
 }
 
+/** 词汇库词条（点词查义用；w=单词，zh=中文释义，pos=词性，img/aud=可选插图与发音） */
+data class VocabDef(
+    val w: String,
+    val zh: String?,
+    val pos: String?,
+    val img: String?,
+    val aud: String?
+)
+
 // ============ Room 实体（进度流水，v1 完整 Schema） ============
 
 @Entity

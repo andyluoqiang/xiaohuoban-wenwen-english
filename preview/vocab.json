@@ -1,0 +1,898 @@
+{
+ "dog": {
+  "w": "dog",
+  "zh": "小狗",
+  "pos": null,
+  "img": "img/dog.jpg",
+  "aud": "audio/all/305_dog.mp3"
+ },
+ "says": {
+  "w": "says",
+  "zh": "说",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "woof": {
+  "w": "woof",
+  "zh": "汪",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "cat": {
+  "w": "cat",
+  "zh": "小猫",
+  "pos": null,
+  "img": "img/cat.jpg",
+  "aud": "audio/all/306_cat.mp3"
+ },
+ "meow": {
+  "w": "meow",
+  "zh": "喵",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "duck": {
+  "w": "duck",
+  "zh": "鸭子",
+  "pos": null,
+  "img": "img/duck.jpg",
+  "aud": "audio/all/308_duck.mp3"
+ },
+ "quack": {
+  "w": "quack",
+  "zh": "嘎",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "cow": {
+  "w": "cow",
+  "zh": "奶牛",
+  "pos": null,
+  "img": "img/cow.jpg",
+  "aud": "audio/all/319_cow.mp3"
+ },
+ "moo": {
+  "w": "moo",
+  "zh": "哞",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "animals": {
+  "w": "animals",
+  "zh": "动物",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "we": {
+  "w": "we",
+  "zh": "我们",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "love": {
+  "w": "love",
+  "zh": "爱",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "you": {
+  "w": "you",
+  "zh": "你",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "look": {
+  "w": "look",
+  "zh": "看起来",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "listen": {
+  "w": "listen",
+  "zh": "听",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "wow": {
+  "w": "wow",
+  "zh": "哇",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "so": {
+  "w": "so",
+  "zh": "这么/那么",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "cute": {
+  "w": "cute",
+  "zh": "可爱",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "bird": {
+  "w": "bird",
+  "zh": "小鸟",
+  "pos": null,
+  "img": "img/bird.jpg",
+  "aud": "audio/all/307_bird.mp3"
+ },
+ "rabbit": {
+  "w": "rabbit",
+  "zh": "兔子",
+  "pos": null,
+  "img": "img/rabbit.jpg",
+  "aud": "audio/all/309_rabbit.mp3"
+ },
+ "bear": {
+  "w": "bear",
+  "zh": "熊",
+  "pos": null,
+  "img": "img/bear.jpg",
+  "aud": "audio/all/310_bear.mp3"
+ },
+ "lion": {
+  "w": "lion",
+  "zh": "狮子",
+  "pos": null,
+  "img": "img/lion.jpg",
+  "aud": "audio/all/311_lion.mp3"
+ },
+ "tiger": {
+  "w": "tiger",
+  "zh": "老虎",
+  "pos": null,
+  "img": "img/tiger.jpg",
+  "aud": "audio/all/312_tiger.mp3"
+ },
+ "elephant": {
+  "w": "elephant",
+  "zh": "大象",
+  "pos": null,
+  "img": "img/elephant.jpg",
+  "aud": "audio/all/313_elephant.mp3"
+ },
+ "monkey": {
+  "w": "monkey",
+  "zh": "猴子",
+  "pos": null,
+  "img": "img/monkey.jpg",
+  "aud": "audio/all/314_monkey.mp3"
+ },
+ "panda": {
+  "w": "panda",
+  "zh": "熊猫",
+  "pos": null,
+  "img": "img/panda.jpg",
+  "aud": "audio/all/315_panda.mp3"
+ },
+ "pig": {
+  "w": "pig",
+  "zh": "小猪",
+  "pos": null,
+  "img": "img/pig.jpg",
+  "aud": "audio/all/316_pig.mp3"
+ },
+ "horse": {
+  "w": "horse",
+  "zh": "马",
+  "pos": null,
+  "img": "img/horse.jpg",
+  "aud": "audio/all/317_horse.mp3"
+ },
+ "sheep": {
+  "w": "sheep",
+  "zh": "绵羊",
+  "pos": null,
+  "img": "img/sheep.jpg",
+  "aud": "audio/all/318_sheep.mp3"
+ },
+ "mouse": {
+  "w": "mouse",
+  "zh": "老鼠",
+  "pos": null,
+  "img": "img/mouse.jpg",
+  "aud": "audio/all/320_mouse.mp3"
+ },
+ "frog": {
+  "w": "frog",
+  "zh": "青蛙",
+  "pos": null,
+  "img": "img/frog.jpg",
+  "aud": "audio/all/321_frog.mp3"
+ },
+ "turtle": {
+  "w": "turtle",
+  "zh": "乌龟",
+  "pos": null,
+  "img": "img/turtle.jpg",
+  "aud": "audio/all/322_turtle.mp3"
+ },
+ "snake": {
+  "w": "snake",
+  "zh": "蛇",
+  "pos": null,
+  "img": "img/snake.jpg",
+  "aud": "audio/all/323_snake.mp3"
+ },
+ "zebra": {
+  "w": "zebra",
+  "zh": "斑马",
+  "pos": null,
+  "img": "img/zebra.jpg",
+  "aud": "audio/all/324_zebra.mp3"
+ },
+ "puppy": {
+  "w": "puppy",
+  "zh": "狗宝宝",
+  "pos": null,
+  "img": "img/puppy.jpg",
+  "aud": "audio/all/325_puppy.mp3"
+ },
+ "kitten": {
+  "w": "kitten",
+  "zh": "猫宝宝",
+  "pos": null,
+  "img": "img/kitten.jpg",
+  "aud": "audio/all/326_kitten.mp3"
+ },
+ "chick": {
+  "w": "chick",
+  "zh": "小鸡",
+  "pos": null,
+  "img": "img/chick.jpg",
+  "aud": "audio/all/327_chick.mp3"
+ },
+ "lamb": {
+  "w": "lamb",
+  "zh": "羊宝宝",
+  "pos": null,
+  "img": "img/lamb.jpg",
+  "aud": "audio/all/328_lamb.mp3"
+ },
+ "piglet": {
+  "w": "piglet",
+  "zh": "猪宝宝",
+  "pos": null,
+  "img": "img/piglet.jpg",
+  "aud": "audio/all/329_piglet.mp3"
+ },
+ "duckling": {
+  "w": "duckling",
+  "zh": "鸭宝宝",
+  "pos": null,
+  "img": "img/duckling.jpg",
+  "aud": "audio/all/330_duckling.mp3"
+ },
+ "hen": {
+  "w": "hen",
+  "zh": "母鸡",
+  "pos": null,
+  "img": "img/hen.jpg",
+  "aud": "audio/all/331_hen.mp3"
+ },
+ "pet": {
+  "w": "pet",
+  "zh": "宠物",
+  "pos": null,
+  "img": "img/pet.jpg",
+  "aud": "audio/all/332_pet.mp3"
+ },
+ "big": {
+  "w": "big",
+  "zh": "大",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "little": {
+  "w": "little",
+  "zh": "小的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "black": {
+  "w": "black",
+  "zh": "黑色",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "giraffe": {
+  "w": "giraffe",
+  "zh": "长颈鹿",
+  "pos": "n",
+  "img": "ai-giraffe.jpg",
+  "aud": "audio/all/400_giraffe.mp3"
+ },
+ "hippo": {
+  "w": "hippo",
+  "zh": "河马",
+  "pos": "n",
+  "img": "cam-hippo.jpg",
+  "aud": "audio/all/401_hippo.mp3"
+ },
+ "crocodile": {
+  "w": "crocodile",
+  "zh": "鳄鱼",
+  "pos": "n",
+  "img": "cam-crocodile.jpg",
+  "aud": "audio/all/402_crocodile.mp3"
+ },
+ "lizard": {
+  "w": "lizard",
+  "zh": "蜥蜴",
+  "pos": "n",
+  "img": "cam-lizard.jpg",
+  "aud": "audio/all/403_lizard.mp3"
+ },
+ "parrot": {
+  "w": "parrot",
+  "zh": "鹦鹉",
+  "pos": "n",
+  "img": "ai-parrot.jpg",
+  "aud": "audio/all/404_parrot.mp3"
+ },
+ "kangaroo": {
+  "w": "kangaroo",
+  "zh": "袋鼠",
+  "pos": "n",
+  "img": "ai-kangaroo.jpg",
+  "aud": "audio/all/405_kangaroo.mp3"
+ },
+ "polar": {
+  "w": "polar",
+  "zh": "北极的",
+  "pos": "adj",
+  "img": null,
+  "aud": null
+ },
+ "penguin": {
+  "w": "penguin",
+  "zh": "企鹅",
+  "pos": "n",
+  "img": "ai-penguin.jpg",
+  "aud": "audio/all/407_penguin.mp3"
+ },
+ "whale": {
+  "w": "whale",
+  "zh": "鲸鱼",
+  "pos": "n",
+  "img": "cam-whale.jpg",
+  "aud": "audio/all/408_whale.mp3"
+ },
+ "shark": {
+  "w": "shark",
+  "zh": "鲨鱼",
+  "pos": "n",
+  "img": "cam-shark.jpg",
+  "aud": "audio/all/409_shark.mp3"
+ },
+ "dolphin": {
+  "w": "dolphin",
+  "zh": "海豚",
+  "pos": "n",
+  "img": "cam-dolphin.jpg",
+  "aud": "audio/all/410_dolphin.mp3"
+ },
+ "jellyfish": {
+  "w": "jellyfish",
+  "zh": "水母",
+  "pos": "n",
+  "img": "ai-jellyfish.jpg",
+  "aud": "audio/all/411_jellyfish.mp3"
+ },
+ "snail": {
+  "w": "snail",
+  "zh": "蜗牛",
+  "pos": "n",
+  "img": "ai-snail.jpg",
+  "aud": "audio/all/412_snail.mp3"
+ },
+ "bee": {
+  "w": "bee",
+  "zh": "蜜蜂",
+  "pos": "n",
+  "img": "ai-bee.jpg",
+  "aud": "audio/all/413_bee.mp3"
+ },
+ "bat": {
+  "w": "bat",
+  "zh": "蝙蝠",
+  "pos": "n",
+  "img": "ai-bat.jpg",
+  "aud": "audio/all/414_bat.mp3"
+ },
+ "fly": {
+  "w": "fly",
+  "zh": "飞",
+  "pos": "n",
+  "img": "ai-fly.jpg",
+  "aud": "audio/all/415_fly.mp3"
+ },
+ "chicken": {
+  "w": "chicken",
+  "zh": "鸡肉",
+  "pos": "n",
+  "img": "cam-chicken.jpg",
+  "aud": "audio/all/416_chicken.mp3"
+ },
+ "goat": {
+  "w": "goat",
+  "zh": "山羊",
+  "pos": "n",
+  "img": "cam-goat.jpg",
+  "aud": "audio/all/417_goat.mp3"
+ },
+ "donkey": {
+  "w": "donkey",
+  "zh": "驴",
+  "pos": "n",
+  "img": "ai-donkey.jpg",
+  "aud": "audio/all/418_donkey.mp3"
+ },
+ "fish": {
+  "w": "fish",
+  "zh": "鱼",
+  "pos": "n",
+  "img": "cam-fish.jpg",
+  "aud": "audio/all/419_fish.mp3"
+ },
+ "spider": {
+  "w": "spider",
+  "zh": "蜘蛛",
+  "pos": "n",
+  "img": "cam-spider.jpg",
+  "aud": "audio/all/420_spider.mp3"
+ },
+ "cage": {
+  "w": "cage",
+  "zh": "笼子",
+  "pos": "n",
+  "img": "ai-cage.jpg",
+  "aud": "audio/all/421_cage.mp3"
+ },
+ "at": {
+  "w": "at",
+  "zh": "在…",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "the": {
+  "w": "the",
+  "zh": "这/那",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "zoo": {
+  "w": "zoo",
+  "zh": "动物园",
+  "pos": "n",
+  "img": null,
+  "aud": null
+ },
+ "a": {
+  "w": "a",
+  "zh": "一个",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "long": {
+  "w": "long",
+  "zh": "长",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "tail": {
+  "w": "tail",
+  "zh": "尾巴",
+  "pos": "n",
+  "img": null,
+  "aud": null
+ },
+ "my": {
+  "w": "my",
+  "zh": "我的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "favourite": {
+  "w": "favourite",
+  "zh": "最喜欢的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "animal": {
+  "w": "animal",
+  "zh": "动物",
+  "pos": "n",
+  "img": null,
+  "aud": null
+ },
+ "i": {
+  "w": "i",
+  "zh": "我",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "can": {
+  "w": "can",
+  "zh": "能",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "feed": {
+  "w": "feed",
+  "zh": "喂",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "is": {
+  "w": "is",
+  "zh": "是",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "tall": {
+  "w": "tall",
+  "zh": "高",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "in": {
+  "w": "in",
+  "zh": "在…里",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "pool": {
+  "w": "pool",
+  "zh": "水池",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "jump": {
+  "w": "jump",
+  "zh": "跳",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "far": {
+  "w": "far",
+  "zh": "远的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "what's": {
+  "w": "what's",
+  "zh": "是什么",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "this": {
+  "w": "this",
+  "zh": "这个",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "it's": {
+  "w": "it's",
+  "zh": "它是",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "do": {
+  "w": "do",
+  "zh": "做",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "have": {
+  "w": "have",
+  "zh": "吃",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "yes": {
+  "w": "yes",
+  "zh": "是",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "what": {
+  "w": "what",
+  "zh": "什么",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "does": {
+  "w": "does",
+  "zh": "做(第三人称)",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "say": {
+  "w": "say",
+  "zh": "说",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "who": {
+  "w": "who",
+  "zh": "谁",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "lives": {
+  "w": "lives",
+  "zh": "住",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "water": {
+  "w": "water",
+  "zh": "水",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "it": {
+  "w": "it",
+  "zh": "它",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "color": {
+  "w": "color",
+  "zh": "颜色",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "and": {
+  "w": "and",
+  "zh": "和",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "white": {
+  "w": "white",
+  "zh": "白色",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "saw": {
+  "w": "saw",
+  "zh": "看到",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "monkeys": {
+  "w": "monkeys",
+  "zh": "猴子",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "were": {
+  "w": "were",
+  "zh": "是(过去)",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "funny": {
+  "w": "funny",
+  "zh": "好笑",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "fed": {
+  "w": "fed",
+  "zh": "喂(过去)",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "ducks": {
+  "w": "ducks",
+  "zh": "鸭子",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "today": {
+  "w": "today",
+  "zh": "今天",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "go": {
+  "w": "go",
+  "zh": "去",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "to": {
+  "w": "to",
+  "zh": "到",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "where": {
+  "w": "where",
+  "zh": "哪里",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "swim": {
+  "w": "swim",
+  "zh": "游",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "let's": {
+  "w": "let's",
+  "zh": "我们(做某事)吧",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "don't": {
+  "w": "don't",
+  "zh": "不(do not)",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "okay": {
+  "w": "okay",
+  "zh": "好的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "pandas": {
+  "w": "pandas",
+  "zh": "熊猫",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "are": {
+  "w": "are",
+  "zh": "是",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "sleeping": {
+  "w": "sleeping",
+  "zh": "睡觉",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "like": {
+  "w": "like",
+  "zh": "喜欢",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "elephants": {
+  "w": "elephants",
+  "zh": "大象",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "best": {
+  "w": "best",
+  "zh": "最好的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "fun": {
+  "w": "fun",
+  "zh": "乐趣",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "day": {
+  "w": "day",
+  "zh": "天",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "soft": {
+  "w": "soft",
+  "zh": "软软的",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "every": {
+  "w": "every",
+  "zh": "每个",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "she": {
+  "w": "she",
+  "zh": "她",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "purrs": {
+  "w": "purrs",
+  "zh": "呼噜",
+  "pos": null,
+  "img": null,
+  "aud": null
+ },
+ "friend": {
+  "w": "friend",
+  "zh": "朋友",
+  "pos": null,
+  "img": null,
+  "aud": null
+ }
+}

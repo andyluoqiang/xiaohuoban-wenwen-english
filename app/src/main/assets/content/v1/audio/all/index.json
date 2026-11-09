@@ -2142,5 +2142,277 @@
   "type": "story",
   "unit": "l6u1",
   "file": "366_my-cat-is-my-best-friend.mp3"
+ },
+ {
+  "i": 400,
+  "en": "Giraffe",
+  "zh": "长颈鹿",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "400_giraffe.mp3"
+ },
+ {
+  "i": 401,
+  "en": "Hippo",
+  "zh": "河马",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "401_hippo.mp3"
+ },
+ {
+  "i": 402,
+  "en": "Crocodile",
+  "zh": "鳄鱼",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "402_crocodile.mp3"
+ },
+ {
+  "i": 403,
+  "en": "Lizard",
+  "zh": "蜥蜴",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "403_lizard.mp3"
+ },
+ {
+  "i": 404,
+  "en": "Parrot",
+  "zh": "鹦鹉",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "404_parrot.mp3"
+ },
+ {
+  "i": 405,
+  "en": "Kangaroo",
+  "zh": "袋鼠",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "405_kangaroo.mp3"
+ },
+ {
+  "i": 406,
+  "en": "Polar bear",
+  "zh": "北极熊",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "406_polar-bear.mp3"
+ },
+ {
+  "i": 407,
+  "en": "Penguin",
+  "zh": "企鹅",
+  "type": "word",
+  "unit": "l2u4",
+  "file": "407_penguin.mp3"
+ },
+ {
+  "i": 408,
+  "en": "Whale",
+  "zh": "鲸鱼",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "408_whale.mp3"
+ },
+ {
+  "i": 409,
+  "en": "Shark",
+  "zh": "鲨鱼",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "409_shark.mp3"
+ },
+ {
+  "i": 410,
+  "en": "Dolphin",
+  "zh": "海豚",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "410_dolphin.mp3"
+ },
+ {
+  "i": 411,
+  "en": "Jellyfish",
+  "zh": "水母",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "411_jellyfish.mp3"
+ },
+ {
+  "i": 412,
+  "en": "Snail",
+  "zh": "蜗牛",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "412_snail.mp3"
+ },
+ {
+  "i": 413,
+  "en": "Bee",
+  "zh": "蜜蜂",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "413_bee.mp3"
+ },
+ {
+  "i": 414,
+  "en": "Bat",
+  "zh": "蝙蝠",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "414_bat.mp3"
+ },
+ {
+  "i": 415,
+  "en": "Fly",
+  "zh": "苍蝇",
+  "type": "word",
+  "unit": "l2u5",
+  "file": "415_fly.mp3"
+ },
+ {
+  "i": 416,
+  "en": "Chicken",
+  "zh": "鸡",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "416_chicken.mp3"
+ },
+ {
+  "i": 417,
+  "en": "Goat",
+  "zh": "山羊",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "417_goat.mp3"
+ },
+ {
+  "i": 418,
+  "en": "Donkey",
+  "zh": "驴",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "418_donkey.mp3"
+ },
+ {
+  "i": 419,
+  "en": "Fish",
+  "zh": "鱼",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "419_fish.mp3"
+ },
+ {
+  "i": 420,
+  "en": "Spider",
+  "zh": "蜘蛛",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "420_spider.mp3"
+ },
+ {
+  "i": 421,
+  "en": "Cage",
+  "zh": "笼子",
+  "type": "word",
+  "unit": "l2u6",
+  "file": "421_cage.mp3"
+ },
+ {
+  "i": 422,
+  "en": "At the zoo",
+  "zh": "在动物园",
+  "type": "phrase",
+  "unit": "l2u7",
+  "file": "422_at-the-zoo.mp3"
+ },
+ {
+  "i": 423,
+  "en": "A long tail",
+  "zh": "一条长尾巴",
+  "type": "phrase",
+  "unit": "l2u7",
+  "file": "423_a-long-tail.mp3"
+ },
+ {
+  "i": 424,
+  "en": "My favourite animal",
+  "zh": "我最喜欢的动物",
+  "type": "phrase",
+  "unit": "l2u7",
+  "file": "424_my-favourite-animal.mp3"
+ },
+ {
+  "i": 425,
+  "en": "The giraffe is tall!",
+  "zh": "长颈鹿好高呀",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "425_the-giraffe-is-tall.mp3"
+ },
+ {
+  "i": 426,
+  "en": "The hippo is in the pool.",
+  "zh": "河马在水池里",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "426_the-hippo-is-in-the-pool.mp3"
+ },
+ {
+  "i": 427,
+  "en": "The spider is little.",
+  "zh": "蜘蛛小小的",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "427_the-spider-is-little.mp3"
+ },
+ {
+  "i": 428,
+  "en": "The dolphin can jump!",
+  "zh": "海豚会跳跃",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "428_the-dolphin-can-jump.mp3"
+ },
+ {
+  "i": 429,
+  "en": "The kangaroo can jump far!",
+  "zh": "袋鼠跳得很远",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "429_the-kangaroo-can-jump-far.mp3"
+ },
+ {
+  "i": 430,
+  "en": "Look at the penguin!",
+  "zh": "看企鹅",
+  "type": "sentence",
+  "unit": "l3u2",
+  "file": "430_look-at-the-penguin.mp3"
+ },
+ {
+  "i": 431,
+  "en": "Who lives in water? A whale.",
+  "zh": "谁住在水里?鲸鱼",
+  "type": "qa",
+  "unit": "l4u3",
+  "file": "431_who-lives-in-water-a-whale.mp3"
+ },
+ {
+  "i": 432,
+  "en": "What is in the cage? A parrot.",
+  "zh": "笼子里有什么?鹦鹉",
+  "type": "qa",
+  "unit": "l4u3",
+  "file": "432_what-is-in-the-cage-a-parrot.mp3"
+ },
+ {
+  "i": 433,
+  "en": "Can a penguin swim? Yes, it can.",
+  "zh": "企鹅会游泳吗?会",
+  "type": "qa",
+  "unit": "l4u3",
+  "file": "433_can-a-penguin-swim-yes-it-can.mp3"
  }
 ]
