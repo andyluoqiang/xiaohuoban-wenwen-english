@@ -1,0 +1,95 @@
+{
+ "theme": "toys",
+ "nameZh": "玩具世界",
+ "order": 8,
+ "units": [
+  {
+   "id": "toys-l1-u1",
+   "band": 1,
+   "title": "Toys · 玩具",
+   "cards": [
+    {
+     "id": "toys-l1-u1-c1",
+     "type": "word",
+     "en": "Ball",
+     "audio": "audio/all/586_ball.mp3",
+     "slow": "audio/all/586_ball.mp3",
+     "image": "img/ai-ball.jpg",
+     "zh": "球"
+    },
+    {
+     "id": "toys-l1-u1-c2",
+     "type": "word",
+     "en": "Balloon",
+     "audio": "audio/all/587_balloon.mp3",
+     "slow": "audio/all/587_balloon.mp3",
+     "image": "img/cam-balloon.jpg",
+     "zh": "气球"
+    },
+    {
+     "id": "toys-l1-u1-c3",
+     "type": "word",
+     "en": "Kite",
+     "audio": "audio/all/588_kite.mp3",
+     "slow": "audio/all/588_kite.mp3",
+     "image": "img/cam-kite.jpg",
+     "zh": "风筝"
+    },
+    {
+     "id": "toys-l1-u1-c4",
+     "type": "word",
+     "en": "Doll",
+     "audio": "audio/all/589_doll.mp3",
+     "slow": "audio/all/589_doll.mp3",
+     "image": "img/ai-doll.jpg",
+     "zh": "娃娃"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "toys-l1-u2",
+   "band": 1,
+   "title": "More toys · 更多玩具",
+   "cards": [
+    {
+     "id": "toys-l1-u2-c1",
+     "type": "word",
+     "en": "Robot",
+     "audio": "audio/all/590_robot.mp3",
+     "slow": "audio/all/590_robot.mp3",
+     "image": "img/cam-robot.jpg",
+     "zh": "机器人"
+    },
+    {
+     "id": "toys-l1-u2-c2",
+     "type": "word",
+     "en": "Monster",
+     "audio": "audio/all/591_monster.mp3",
+     "slow": "audio/all/591_monster.mp3",
+     "image": "img/ai-monster.jpg",
+     "zh": "怪兽"
+    },
+    {
+     "id": "toys-l1-u2-c3",
+     "type": "word",
+     "en": "Alien",
+     "audio": "audio/all/592_alien.mp3",
+     "slow": "audio/all/592_alien.mp3",
+     "image": "img/cam-alien.jpg",
+     "zh": "外星人"
+    },
+    {
+     "id": "toys-l1-u2-c4",
+     "type": "word",
+     "en": "Toy",
+     "audio": "audio/all/593_toy.mp3",
+     "slow": "audio/all/593_toy.mp3",
+     "image": "img/ai-toy.jpg",
+     "zh": "玩具"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

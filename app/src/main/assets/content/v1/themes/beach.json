@@ -1,0 +1,95 @@
+{
+ "theme": "beach",
+ "nameZh": "海滩玩耍",
+ "order": 10,
+ "units": [
+  {
+   "id": "beach-l1-u1",
+   "band": 1,
+   "title": "At the beach · 在海边",
+   "cards": [
+    {
+     "id": "beach-l1-u1-c1",
+     "type": "word",
+     "en": "Sun",
+     "audio": "audio/all/604_sun.mp3",
+     "slow": "audio/all/604_sun.mp3",
+     "image": "img/cam-sun.jpg",
+     "zh": "太阳"
+    },
+    {
+     "id": "beach-l1-u1-c2",
+     "type": "word",
+     "en": "Sea",
+     "audio": "audio/all/605_sea.mp3",
+     "slow": "audio/all/605_sea.mp3",
+     "image": "img/ai-sea.jpg",
+     "zh": "大海"
+    },
+    {
+     "id": "beach-l1-u1-c3",
+     "type": "word",
+     "en": "Sand",
+     "audio": "audio/all/606_sand.mp3",
+     "slow": "audio/all/606_sand.mp3",
+     "image": "img/cam-sand.jpg",
+     "zh": "沙子"
+    },
+    {
+     "id": "beach-l1-u1-c4",
+     "type": "word",
+     "en": "Shell",
+     "audio": "audio/all/607_shell.mp3",
+     "slow": "audio/all/607_shell.mp3",
+     "image": "img/cam-shell.jpg",
+     "zh": "贝壳"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "beach-l1-u2",
+   "band": 1,
+   "title": "More at the beach · 海边更多",
+   "cards": [
+    {
+     "id": "beach-l1-u2-c1",
+     "type": "word",
+     "en": "Camera",
+     "audio": "audio/all/608_camera.mp3",
+     "slow": "audio/all/608_camera.mp3",
+     "image": "img/cam-camera.jpg",
+     "zh": "相机"
+    },
+    {
+     "id": "beach-l1-u2-c2",
+     "type": "word",
+     "en": "Swim",
+     "audio": "audio/all/609_swim.mp3",
+     "slow": "audio/all/609_swim.mp3",
+     "image": "img/ai-swim.jpg",
+     "zh": "游泳"
+    },
+    {
+     "id": "beach-l1-u2-c3",
+     "type": "word",
+     "en": "Fish",
+     "audio": "audio/all/610_fish.mp3",
+     "slow": "audio/all/610_fish.mp3",
+     "image": "img/cam-beach-fish.jpg",
+     "zh": "鱼"
+    },
+    {
+     "id": "beach-l1-u2-c4",
+     "type": "word",
+     "en": "Water",
+     "audio": "audio/all/611_water.mp3",
+     "slow": "audio/all/611_water.mp3",
+     "image": "img/cam-water.jpg",
+     "zh": "水"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

@@ -105,7 +105,13 @@ class MainActivity : AppCompatActivity() {
         "body" to ThemeMeta("🧒", "身体与动作"),
         "food" to ThemeMeta("🍎", "食物与饮品"),
         "play" to ThemeMeta("⚽", "运动与游戏"),
-        "animals" to ThemeMeta("🐶", "动物与宠物")
+        "animals" to ThemeMeta("🐶", "动物与宠物"),
+        "clothes" to ThemeMeta("👕", "衣服与配饰"),
+        "home" to ThemeMeta("🏠", "在家里"),
+        "school" to ThemeMeta("🏫", "在学校"),
+        "toys" to ThemeMeta("🧸", "玩具世界"),
+        "transport" to ThemeMeta("🚌", "交通工具"),
+        "beach" to ThemeMeta("🏖️", "海滩玩耍")
     )
 
     private data class Level(val key: String, val short: String, val color: Int, val name: String, val desc: String)

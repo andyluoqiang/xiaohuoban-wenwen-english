@@ -1,0 +1,131 @@
+{
+ "theme": "home",
+ "nameZh": "在家里",
+ "order": 6,
+ "units": [
+  {
+   "id": "home-l1-u1",
+   "band": 1,
+   "title": "At home · 在家里",
+   "cards": [
+    {
+     "id": "home-l1-u1-c1",
+     "type": "word",
+     "en": "Bed",
+     "audio": "audio/all/562_bed.mp3",
+     "slow": "audio/all/562_bed.mp3",
+     "image": "img/cam-bed.jpg",
+     "zh": "床"
+    },
+    {
+     "id": "home-l1-u1-c2",
+     "type": "word",
+     "en": "Chair",
+     "audio": "audio/all/563_chair.mp3",
+     "slow": "audio/all/563_chair.mp3",
+     "image": "img/ai-chair.jpg",
+     "zh": "椅子"
+    },
+    {
+     "id": "home-l1-u1-c3",
+     "type": "word",
+     "en": "Clock",
+     "audio": "audio/all/564_clock.mp3",
+     "slow": "audio/all/564_clock.mp3",
+     "image": "img/ai-clock.jpg",
+     "zh": "钟"
+    },
+    {
+     "id": "home-l1-u1-c4",
+     "type": "word",
+     "en": "Door",
+     "audio": "audio/all/565_door.mp3",
+     "slow": "audio/all/565_door.mp3",
+     "image": "img/ai-door.jpg",
+     "zh": "门"
+    },
+    {
+     "id": "home-l1-u1-c5",
+     "type": "word",
+     "en": "Lamp",
+     "audio": "audio/all/566_lamp.mp3",
+     "slow": "audio/all/566_lamp.mp3",
+     "image": "img/ai-lamp.jpg",
+     "zh": "台灯"
+    },
+    {
+     "id": "home-l1-u1-c6",
+     "type": "word",
+     "en": "Mirror",
+     "audio": "audio/all/567_mirror.mp3",
+     "slow": "audio/all/567_mirror.mp3",
+     "image": "img/ai-mirror.jpg",
+     "zh": "镜子"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "home-l1-u2",
+   "band": 1,
+   "title": "More at home · 更多家居",
+   "cards": [
+    {
+     "id": "home-l1-u2-c1",
+     "type": "word",
+     "en": "Sofa",
+     "audio": "audio/all/568_sofa.mp3",
+     "slow": "audio/all/568_sofa.mp3",
+     "image": "img/ai-sofa.jpg",
+     "zh": "沙发"
+    },
+    {
+     "id": "home-l1-u2-c2",
+     "type": "word",
+     "en": "Table",
+     "audio": "audio/all/569_table.mp3",
+     "slow": "audio/all/569_table.mp3",
+     "image": "img/ai-table.jpg",
+     "zh": "桌子"
+    },
+    {
+     "id": "home-l1-u2-c3",
+     "type": "word",
+     "en": "Window",
+     "audio": "audio/all/570_window.mp3",
+     "slow": "audio/all/570_window.mp3",
+     "image": "img/ai-window.jpg",
+     "zh": "窗户"
+    },
+    {
+     "id": "home-l1-u2-c4",
+     "type": "word",
+     "en": "Kitchen",
+     "audio": "audio/all/571_kitchen.mp3",
+     "slow": "audio/all/571_kitchen.mp3",
+     "image": "img/cam-kitchen.jpg",
+     "zh": "厨房"
+    },
+    {
+     "id": "home-l1-u2-c5",
+     "type": "word",
+     "en": "Garden",
+     "audio": "audio/all/572_garden.mp3",
+     "slow": "audio/all/572_garden.mp3",
+     "image": "img/ai-garden.jpg",
+     "zh": "花园"
+    },
+    {
+     "id": "home-l1-u2-c6",
+     "type": "word",
+     "en": "Bath",
+     "audio": "audio/all/573_bath.mp3",
+     "slow": "audio/all/573_bath.mp3",
+     "image": "img/ai-bath.jpg",
+     "zh": "浴缸"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

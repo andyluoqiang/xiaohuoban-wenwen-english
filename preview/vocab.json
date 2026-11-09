@@ -675,7 +675,7 @@
   "w": "water",
   "zh": "水",
   "pos": null,
-  "img": null,
+  "img": "img/cam-water.jpg",
   "aud": "audio/all/497_water.mp3"
  },
  "it": {
@@ -780,7 +780,7 @@
   "w": "swim",
   "zh": "游",
   "pos": null,
-  "img": null,
+  "img": "img/ai-swim.jpg",
   "aud": "audio/all/512_swim.mp3"
  },
  "let's": {
@@ -894,5 +894,411 @@
   "pos": null,
   "img": null,
   "aud": "audio/all/528_friend.mp3"
+ },
+ "dress": {
+  "w": "dress",
+  "zh": "连衣裙",
+  "pos": null,
+  "img": "img/cam-dress.jpg",
+  "aud": "audio/all/550_dress.mp3"
+ },
+ "skirt": {
+  "w": "skirt",
+  "zh": "短裙",
+  "pos": null,
+  "img": "img/cam-skirt.jpg",
+  "aud": "audio/all/551_skirt.mp3"
+ },
+ "shirt": {
+  "w": "shirt",
+  "zh": "衬衫",
+  "pos": null,
+  "img": "img/ai-shirt.jpg",
+  "aud": "audio/all/552_shirt.mp3"
+ },
+ "jacket": {
+  "w": "jacket",
+  "zh": "夹克",
+  "pos": null,
+  "img": "img/ai-jacket.jpg",
+  "aud": "audio/all/553_jacket.mp3"
+ },
+ "shoe": {
+  "w": "shoe",
+  "zh": "鞋",
+  "pos": null,
+  "img": "img/ai-shoe.jpg",
+  "aud": "audio/all/554_shoe.mp3"
+ },
+ "sock": {
+  "w": "sock",
+  "zh": "袜子",
+  "pos": null,
+  "img": "img/cam-sock.jpg",
+  "aud": "audio/all/555_sock.mp3"
+ },
+ "hat": {
+  "w": "hat",
+  "zh": "帽子",
+  "pos": null,
+  "img": "img/cam-hat.jpg",
+  "aud": "audio/all/556_hat.mp3"
+ },
+ "glasses": {
+  "w": "glasses",
+  "zh": "眼镜",
+  "pos": null,
+  "img": "img/ai-glasses.jpg",
+  "aud": "audio/all/557_glasses.mp3"
+ },
+ "handbag": {
+  "w": "handbag",
+  "zh": "手提包",
+  "pos": null,
+  "img": "img/cam-handbag.jpg",
+  "aud": "audio/all/558_handbag.mp3"
+ },
+ "trousers": {
+  "w": "trousers",
+  "zh": "长裤",
+  "pos": null,
+  "img": "img/cam-trousers.jpg",
+  "aud": "audio/all/559_trousers.mp3"
+ },
+ "jeans": {
+  "w": "jeans",
+  "zh": "牛仔裤",
+  "pos": null,
+  "img": "img/ai-jeans.jpg",
+  "aud": "audio/all/560_jeans.mp3"
+ },
+ "watch": {
+  "w": "watch",
+  "zh": "手表",
+  "pos": null,
+  "img": "img/cam-watch.jpg",
+  "aud": "audio/all/561_watch.mp3"
+ },
+ "bed": {
+  "w": "bed",
+  "zh": "床",
+  "pos": null,
+  "img": "img/cam-bed.jpg",
+  "aud": "audio/all/562_bed.mp3"
+ },
+ "chair": {
+  "w": "chair",
+  "zh": "椅子",
+  "pos": null,
+  "img": "img/ai-chair.jpg",
+  "aud": "audio/all/563_chair.mp3"
+ },
+ "clock": {
+  "w": "clock",
+  "zh": "钟",
+  "pos": null,
+  "img": "img/ai-clock.jpg",
+  "aud": "audio/all/564_clock.mp3"
+ },
+ "door": {
+  "w": "door",
+  "zh": "门",
+  "pos": null,
+  "img": "img/ai-door.jpg",
+  "aud": "audio/all/565_door.mp3"
+ },
+ "lamp": {
+  "w": "lamp",
+  "zh": "台灯",
+  "pos": null,
+  "img": "img/ai-lamp.jpg",
+  "aud": "audio/all/566_lamp.mp3"
+ },
+ "mirror": {
+  "w": "mirror",
+  "zh": "镜子",
+  "pos": null,
+  "img": "img/ai-mirror.jpg",
+  "aud": "audio/all/567_mirror.mp3"
+ },
+ "sofa": {
+  "w": "sofa",
+  "zh": "沙发",
+  "pos": null,
+  "img": "img/ai-sofa.jpg",
+  "aud": "audio/all/568_sofa.mp3"
+ },
+ "table": {
+  "w": "table",
+  "zh": "桌子",
+  "pos": null,
+  "img": "img/ai-table.jpg",
+  "aud": "audio/all/569_table.mp3"
+ },
+ "window": {
+  "w": "window",
+  "zh": "窗户",
+  "pos": null,
+  "img": "img/ai-window.jpg",
+  "aud": "audio/all/570_window.mp3"
+ },
+ "kitchen": {
+  "w": "kitchen",
+  "zh": "厨房",
+  "pos": null,
+  "img": "img/cam-kitchen.jpg",
+  "aud": "audio/all/571_kitchen.mp3"
+ },
+ "garden": {
+  "w": "garden",
+  "zh": "花园",
+  "pos": null,
+  "img": "img/ai-garden.jpg",
+  "aud": "audio/all/572_garden.mp3"
+ },
+ "bath": {
+  "w": "bath",
+  "zh": "浴缸",
+  "pos": null,
+  "img": "img/ai-bath.jpg",
+  "aud": "audio/all/573_bath.mp3"
+ },
+ "book": {
+  "w": "book",
+  "zh": "书",
+  "pos": null,
+  "img": "img/ai-book.jpg",
+  "aud": "audio/all/574_book.mp3"
+ },
+ "pen": {
+  "w": "pen",
+  "zh": "钢笔",
+  "pos": null,
+  "img": "img/cam-pen.jpg",
+  "aud": "audio/all/575_pen.mp3"
+ },
+ "pencil": {
+  "w": "pencil",
+  "zh": "铅笔",
+  "pos": null,
+  "img": "img/ai-pencil.jpg",
+  "aud": "audio/all/576_pencil.mp3"
+ },
+ "ruler": {
+  "w": "ruler",
+  "zh": "尺子",
+  "pos": null,
+  "img": "img/cam-ruler.jpg",
+  "aud": "audio/all/577_ruler.mp3"
+ },
+ "eraser": {
+  "w": "eraser",
+  "zh": "橡皮",
+  "pos": null,
+  "img": "img/ai-eraser.jpg",
+  "aud": "audio/all/578_eraser.mp3"
+ },
+ "desk": {
+  "w": "desk",
+  "zh": "课桌",
+  "pos": null,
+  "img": "img/ai-desk.jpg",
+  "aud": "audio/all/579_desk.mp3"
+ },
+ "board": {
+  "w": "board",
+  "zh": "黑板",
+  "pos": null,
+  "img": "img/ai-board.jpg",
+  "aud": "audio/all/580_board.mp3"
+ },
+ "teacher": {
+  "w": "teacher",
+  "zh": "老师",
+  "pos": null,
+  "img": "img/ai-teacher.jpg",
+  "aud": "audio/all/581_teacher.mp3"
+ },
+ "computer": {
+  "w": "computer",
+  "zh": "电脑",
+  "pos": null,
+  "img": "img/ai-computer.jpg",
+  "aud": "audio/all/582_computer.mp3"
+ },
+ "keyboard": {
+  "w": "keyboard",
+  "zh": "键盘",
+  "pos": null,
+  "img": "img/ai-keyboard.jpg",
+  "aud": "audio/all/584_keyboard.mp3"
+ },
+ "music": {
+  "w": "music",
+  "zh": "音乐",
+  "pos": null,
+  "img": "img/cam-music.jpg",
+  "aud": "audio/all/585_music.mp3"
+ },
+ "ball": {
+  "w": "ball",
+  "zh": "球",
+  "pos": null,
+  "img": "img/ai-ball.jpg",
+  "aud": "audio/all/586_ball.mp3"
+ },
+ "balloon": {
+  "w": "balloon",
+  "zh": "气球",
+  "pos": null,
+  "img": "img/cam-balloon.jpg",
+  "aud": "audio/all/587_balloon.mp3"
+ },
+ "kite": {
+  "w": "kite",
+  "zh": "风筝",
+  "pos": null,
+  "img": "img/cam-kite.jpg",
+  "aud": "audio/all/588_kite.mp3"
+ },
+ "doll": {
+  "w": "doll",
+  "zh": "娃娃",
+  "pos": null,
+  "img": "img/ai-doll.jpg",
+  "aud": "audio/all/589_doll.mp3"
+ },
+ "robot": {
+  "w": "robot",
+  "zh": "机器人",
+  "pos": null,
+  "img": "img/cam-robot.jpg",
+  "aud": "audio/all/590_robot.mp3"
+ },
+ "monster": {
+  "w": "monster",
+  "zh": "怪兽",
+  "pos": null,
+  "img": "img/ai-monster.jpg",
+  "aud": "audio/all/591_monster.mp3"
+ },
+ "alien": {
+  "w": "alien",
+  "zh": "外星人",
+  "pos": null,
+  "img": "img/cam-alien.jpg",
+  "aud": "audio/all/592_alien.mp3"
+ },
+ "toy": {
+  "w": "toy",
+  "zh": "玩具",
+  "pos": null,
+  "img": "img/ai-toy.jpg",
+  "aud": "audio/all/593_toy.mp3"
+ },
+ "bus": {
+  "w": "bus",
+  "zh": "公共汽车",
+  "pos": null,
+  "img": "img/cam-bus.jpg",
+  "aud": "audio/all/594_bus.mp3"
+ },
+ "car": {
+  "w": "car",
+  "zh": "小汽车",
+  "pos": null,
+  "img": "img/cam-car.jpg",
+  "aud": "audio/all/595_car.mp3"
+ },
+ "train": {
+  "w": "train",
+  "zh": "火车",
+  "pos": null,
+  "img": "img/ai-train.jpg",
+  "aud": "audio/all/596_train.mp3"
+ },
+ "plane": {
+  "w": "plane",
+  "zh": "飞机",
+  "pos": null,
+  "img": "img/cam-plane.jpg",
+  "aud": "audio/all/597_plane.mp3"
+ },
+ "boat": {
+  "w": "boat",
+  "zh": "小船",
+  "pos": null,
+  "img": "img/cam-boat.jpg",
+  "aud": "audio/all/598_boat.mp3"
+ },
+ "bike": {
+  "w": "bike",
+  "zh": "自行车",
+  "pos": null,
+  "img": "img/cam-bike.jpg",
+  "aud": "audio/all/599_bike.mp3"
+ },
+ "helicopter": {
+  "w": "helicopter",
+  "zh": "直升机",
+  "pos": null,
+  "img": "img/cam-helicopter.jpg",
+  "aud": "audio/all/600_helicopter.mp3"
+ },
+ "motorbike": {
+  "w": "motorbike",
+  "zh": "摩托车",
+  "pos": null,
+  "img": "img/cam-motorbike.jpg",
+  "aud": "audio/all/601_motorbike.mp3"
+ },
+ "lorry": {
+  "w": "lorry",
+  "zh": "卡车",
+  "pos": null,
+  "img": "img/cam-lorry.jpg",
+  "aud": "audio/all/602_lorry.mp3"
+ },
+ "park": {
+  "w": "park",
+  "zh": "公园",
+  "pos": null,
+  "img": "img/cam-park.jpg",
+  "aud": "audio/all/603_park.mp3"
+ },
+ "sun": {
+  "w": "sun",
+  "zh": "太阳",
+  "pos": null,
+  "img": "img/cam-sun.jpg",
+  "aud": "audio/all/604_sun.mp3"
+ },
+ "sea": {
+  "w": "sea",
+  "zh": "大海",
+  "pos": null,
+  "img": "img/ai-sea.jpg",
+  "aud": "audio/all/605_sea.mp3"
+ },
+ "sand": {
+  "w": "sand",
+  "zh": "沙子",
+  "pos": null,
+  "img": "img/cam-sand.jpg",
+  "aud": "audio/all/606_sand.mp3"
+ },
+ "shell": {
+  "w": "shell",
+  "zh": "贝壳",
+  "pos": null,
+  "img": "img/cam-shell.jpg",
+  "aud": "audio/all/607_shell.mp3"
+ },
+ "camera": {
+  "w": "camera",
+  "zh": "相机",
+  "pos": null,
+  "img": "img/cam-camera.jpg",
+  "aud": "audio/all/608_camera.mp3"
  }
 }

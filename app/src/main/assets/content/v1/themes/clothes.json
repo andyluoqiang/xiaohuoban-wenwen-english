@@ -1,0 +1,131 @@
+{
+ "theme": "clothes",
+ "nameZh": "衣服与配饰",
+ "order": 5,
+ "units": [
+  {
+   "id": "clothes-l1-u1",
+   "band": 1,
+   "title": "Clothes · 衣服",
+   "cards": [
+    {
+     "id": "clothes-l1-u1-c1",
+     "type": "word",
+     "en": "Dress",
+     "audio": "audio/all/550_dress.mp3",
+     "slow": "audio/all/550_dress.mp3",
+     "image": "img/cam-dress.jpg",
+     "zh": "连衣裙"
+    },
+    {
+     "id": "clothes-l1-u1-c2",
+     "type": "word",
+     "en": "Skirt",
+     "audio": "audio/all/551_skirt.mp3",
+     "slow": "audio/all/551_skirt.mp3",
+     "image": "img/cam-skirt.jpg",
+     "zh": "短裙"
+    },
+    {
+     "id": "clothes-l1-u1-c3",
+     "type": "word",
+     "en": "Shirt",
+     "audio": "audio/all/552_shirt.mp3",
+     "slow": "audio/all/552_shirt.mp3",
+     "image": "img/ai-shirt.jpg",
+     "zh": "衬衫"
+    },
+    {
+     "id": "clothes-l1-u1-c4",
+     "type": "word",
+     "en": "Jacket",
+     "audio": "audio/all/553_jacket.mp3",
+     "slow": "audio/all/553_jacket.mp3",
+     "image": "img/ai-jacket.jpg",
+     "zh": "夹克"
+    },
+    {
+     "id": "clothes-l1-u1-c5",
+     "type": "word",
+     "en": "Shoe",
+     "audio": "audio/all/554_shoe.mp3",
+     "slow": "audio/all/554_shoe.mp3",
+     "image": "img/ai-shoe.jpg",
+     "zh": "鞋"
+    },
+    {
+     "id": "clothes-l1-u1-c6",
+     "type": "word",
+     "en": "Sock",
+     "audio": "audio/all/555_sock.mp3",
+     "slow": "audio/all/555_sock.mp3",
+     "image": "img/cam-sock.jpg",
+     "zh": "袜子"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "clothes-l1-u2",
+   "band": 1,
+   "title": "More clothes · 更多衣物",
+   "cards": [
+    {
+     "id": "clothes-l1-u2-c1",
+     "type": "word",
+     "en": "Hat",
+     "audio": "audio/all/556_hat.mp3",
+     "slow": "audio/all/556_hat.mp3",
+     "image": "img/cam-hat.jpg",
+     "zh": "帽子"
+    },
+    {
+     "id": "clothes-l1-u2-c2",
+     "type": "word",
+     "en": "Glasses",
+     "audio": "audio/all/557_glasses.mp3",
+     "slow": "audio/all/557_glasses.mp3",
+     "image": "img/ai-glasses.jpg",
+     "zh": "眼镜"
+    },
+    {
+     "id": "clothes-l1-u2-c3",
+     "type": "word",
+     "en": "Handbag",
+     "audio": "audio/all/558_handbag.mp3",
+     "slow": "audio/all/558_handbag.mp3",
+     "image": "img/cam-handbag.jpg",
+     "zh": "手提包"
+    },
+    {
+     "id": "clothes-l1-u2-c4",
+     "type": "word",
+     "en": "Trousers",
+     "audio": "audio/all/559_trousers.mp3",
+     "slow": "audio/all/559_trousers.mp3",
+     "image": "img/cam-trousers.jpg",
+     "zh": "长裤"
+    },
+    {
+     "id": "clothes-l1-u2-c5",
+     "type": "word",
+     "en": "Jeans",
+     "audio": "audio/all/560_jeans.mp3",
+     "slow": "audio/all/560_jeans.mp3",
+     "image": "img/ai-jeans.jpg",
+     "zh": "牛仔裤"
+    },
+    {
+     "id": "clothes-l1-u2-c6",
+     "type": "word",
+     "en": "Watch",
+     "audio": "audio/all/561_watch.mp3",
+     "slow": "audio/all/561_watch.mp3",
+     "image": "img/cam-watch.jpg",
+     "zh": "手表"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

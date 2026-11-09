@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>稳稳学英语 · 剑桥岛验证器 v2（课程树+双步学习）</title>
+<title>稳稳学英语 · 剑桥岛验证器 v3（10主题·6新主题扩充）</title>
 <style>
   :root { --bg:#FFF6EA; --brown:#4E342E; --hint:#A1887F; --green:#5BBFA0; --greend:#3E9D80; --bad:#C62828; --blue:#4FA3D1; }
   * { box-sizing:border-box; }
@@ -41,8 +41,8 @@
 </style>
 </head>
 <body>
-<h1>🧪 稳稳学英语 · 剑桥岛验证器 v2 <span id="verdict">数据加载中…</span></h1>
-<div class="muted">v2 检查范围：①数据完整性 ②课程树（4主题×6档位，每课10词分课）③L1/L2 双步学习（听音选图→听音选词→图词揭示）④随机课 ⑤点词查义。数据源与 App assets 同源</div>
+<h1>🧪 稳稳学英语 · 剑桥岛验证器 v3 <span id="verdict">数据加载中…</span></h1>
+<div class="muted">v3 检查范围：①数据完整性 ②课程树（10主题×6档位，每课10词分课）③L1/L2 双步学习（听音选图→听音选词→图词揭示）④随机课 ⑤点词查义 ⑥<b>6 个新主题扩充</b>（clothes/home/school/toys/transport/beach，每主题至少 1 课、62 词图音释义齐全）。数据源与 App assets 同源</div>
 
 <h2>① 数据完整性（自动 12 项 + 课程树新增项）</h2>
 <div class="panel" id="p1">检查中…</div>
@@ -55,6 +55,12 @@
   <button class="btn sel" data-t="animals" onclick="pickT('animals',this)">🐶 animals L1</button>
   <button class="btn" data-t="animals-l2" onclick="pickT('animals-l2',this)">🐶 animals L2</button>
   <button class="btn" data-t="animals-l3" onclick="pickT('animals-l3',this)">🐶 animals L3</button>
+  <button class="btn" data-t="clothes" onclick="pickT('clothes',this)">👕 clothes L1 🆕</button>
+  <button class="btn" data-t="home" onclick="pickT('home',this)">🏠 home L1 🆕</button>
+  <button class="btn" data-t="school" onclick="pickT('school',this)">🏫 school L1 🆕</button>
+  <button class="btn" data-t="toys" onclick="pickT('toys',this)">🧸 toys L1 🆕</button>
+  <button class="btn" data-t="transport" onclick="pickT('transport',this)">🚌 transport L1 🆕</button>
+  <button class="btn" data-t="beach" onclick="pickT('beach',this)">🏖️ beach L1 🆕</button>
   <button class="btn" onclick="resetProgress()">清空完成记录</button>
 </div>
 <div id="lessons"></div>
@@ -63,6 +69,8 @@
 <div>
   <button class="btn" onclick="simPick(1)">学 animals L1 第1课</button>
   <button class="btn" onclick="simPick(2)">学 animals L2 第1课</button>
+  <button class="btn" onclick="simOpen('clothes',1,0)">👕 学 clothes L1 第1课</button>
+  <button class="btn" onclick="simOpen('beach',1,0)">🏖️ 学 beach L1 第1课</button>
   <button class="btn" onclick="simAuto()">⚡ 自动跑完当前课（含错误路径）</button>
 </div>
 <div class="stepbox" id="sim"></div>
@@ -84,14 +92,16 @@
 <script>
 const LISTEN_TYPES = ['sentence','qa','retell','inquire','dialog','story'];
 const LS = 'cam_passed_v2';
-const THEMES_FILES = { body:'body.json', food:'food.json', play:'play.json', animals:'animals.json' };
+const THEMES_FILES = { body:'body.json', food:'food.json', play:'play.json', animals:'animals.json',
+  clothes:'clothes.json', home:'home.json', school:'school.json', toys:'toys.json', transport:'transport.json', beach:'beach.json' };
+const NEW6 = ['clothes','home','school','toys','transport','beach'];
 let THEMES = {}, vocab, index;
 
 (async () => {
   const loads = Object.entries(THEMES_FILES).map(async ([k,f]) => { THEMES[k] = await fetch(f).then(r=>r.json()); });
   await Promise.all([...loads,
     fetch('vocab.json').then(r=>r.json()).then(v => vocab = v),
-    fetch('audio/all/index.json').then(r=>r.json()).then(i => index = i)]);
+    fetch('audio/all/index.json').then(r=>r.ok?r.json():[]).then(i => index = i||[]).catch(()=>index=[])]);
   runChecks();
   renderLessons('animals', 1);
   renderSentences();
@@ -126,7 +136,7 @@ async function runChecks() {
   await Promise.all(imgs.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?imgOk++:imgBad.push(p); } catch { imgBad.push(p); } }));
   add(`全主题图片可访问（${imgs.length} 张）`, imgBad.length===0, imgBad.join(','));
   const noAud = Object.entries(vocab).filter(([w,e])=>!e.aud).map(([w])=>w);
-  add('vocab 128 词全部带真人配音', Object.keys(vocab).length===128 && noAud.length===0, noAud.join(','));
+  add(`vocab 全词库（${Object.keys(vocab).length} 词）全部带真人配音`, noAud.length===0, noAud.join(','));
   const vaud = [...new Set(Object.values(vocab).map(e=>e.aud))];
   let vOk=0; const vBad=[];
   await Promise.all(vaud.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?vOk++:vBad.push(p); } catch { vBad.push(p); } }));
@@ -134,6 +144,40 @@ async function runChecks() {
   add('索引含新卡音频 34 条(400-433) + vocab 79 条(450-528)',
       index.filter(e=>e.i>=400&&e.i<450).length===34 && index.filter(e=>e.i>=450).length===79,
       `400s=${index.filter(e=>e.i>=400&&e.i<450).length} 450s=${index.filter(e=>e.i>=450).length}`);
+
+  // ===== ⑥ 6 个新主题扩充检查 =====
+  const new6Cards = NEW6.flatMap(t=>THEMES[t].units.flatMap(u=>u.cards));
+  const n6w = new6Cards.length;
+  add('6 新主题 JSON 齐全（clothes/home/school/toys/transport/beach）',
+      NEW6.every(t=>THEMES[t] && THEMES[t].units.length>0),
+      NEW6.map(t=>`${t}:${THEMES[t]?THEMES[t].units.length:0}单元`).join(' '));
+  add(`6 新主题共 ${n6w} 词卡（12+12+12+8+10+8=62）`, n6w===62, String(n6w));
+  const noImg = new6Cards.filter(c=>!c.image || !c.image.startsWith('img/')).map(c=>c.id);
+  const noZh  = new6Cards.filter(c=>!c.zh).map(c=>c.id);
+  const noAud6= new6Cards.filter(c=>!c.audio || !c.audio.startsWith('audio/all/')).map(c=>c.id);
+  add('新主题 62 卡：图带 img/ 前缀 + 中文释义 + 真人音频路径齐全',
+      noImg.length===0 && noZh.length===0 && noAud6.length===0,
+      [noImg.join(','),noZh.join(','),noAud6.join(',')].filter(Boolean).join(' | '));
+  const n6imgs = [...new Set(new6Cards.map(c=>c.image))];
+  let i6ok=0; const i6bad=[];
+  await Promise.all(n6imgs.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?i6ok++:i6bad.push(p); } catch { i6bad.push(p); } }));
+  add(`新主题 62 张图片可访问（cam-剑桥原图31 + ai-生成31）`, i6bad.length===0 && n6imgs.length===62, i6bad.join(','));
+  const n6auds = [...new Set(new6Cards.map(c=>c.audio))];
+  let a6ok=0; const a6bad=[];
+  await Promise.all(n6auds.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?a6ok++:a6bad.push(p); } catch { a6bad.push(p); } }));
+  add(`新主题 62 条音频可访问（Aria 550-611）`, a6bad.length===0 && n6auds.length===62, a6bad.join(','));
+  const n6words = new6Cards.map(c=>c.en.toLowerCase());
+  const notInVocab = n6words.filter(w=>!vocab[w]);
+  add('新主题 62 词全部收录点词查义词库', notInVocab.length===0, notInVocab.join(','));
+  const noLesson = NEW6.filter(t=>lessonsFor(t,1).length < 1);
+  const lessonDetail = NEW6.map(t=>`${t}:${lessonsFor(t,1).length}课`).join(' ');
+  add('★ 每个新主题至少 1 节课（L1 档）', noLesson.length===0, lessonDetail);
+  const n6l1 = NEW6.map(t=>lessonsFor(t,1)).flat();
+  const n6cam = n6l1.filter(l=>l.cam).length;
+  add('新主题 L1 课程均带 🎓剑桥徽章', n6cam===n6l1.length, `徽章课 ${n6cam}/${n6l1.length}`);
+  const n6TotalCards = NEW6.reduce((s,t)=>s+lessonsFor(t,1).reduce((x,l)=>x+l.cards.length,0),0);
+  add('新主题 L1 课卡总数 = 62（无遗漏无重复）', n6TotalCards===62 && new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size===62,
+      `课卡 ${n6TotalCards} / 去重 ${new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size}`);
 
   // ===== 课程树检查（独立统计自洽校验，不硬编码预期） =====
   let treeOK = true, treeDetail = '';
@@ -153,7 +197,7 @@ async function runChecks() {
     }
   }
   const totalLessons = Object.keys(THEMES).reduce((s,t)=>{ for(let b=1;b<=6;b++) s+=lessonsFor(t,b).length; return s; }, 0);
-  add(`课程树划分自洽（4主题×6档位 = ${totalLessons} 课，每课≤10）`, treeOK, treeDetail || 'lessonsFor 分组与独立统计一致');
+  add(`课程树划分自洽（${Object.keys(THEMES).length}主题×6档位 = ${totalLessons} 课，每课≤10）`, treeOK, treeDetail || 'lessonsFor 分组与独立统计一致');
   const camLessons = lessonsFor('animals', 2).filter(l => l.cam);
   const camCards = [...new Set(camLessons.flatMap(l=>l.cards.map(c=>c.id)))].filter(id=>/l2-u[4-7]/.test(id));
   const allCamNew = THEMES.animals.units.filter(u=>u.newFirst).flatMap(u=>u.cards).filter(c=>/l2-u[4-7]/.test(c.id));
@@ -165,7 +209,7 @@ async function runChecks() {
   // ===== 两轮制状态机模拟 =====
   const simResults = simulateAllLessons();
   add(`两轮制状态机模拟 ${simResults.total} 课全通过（图轮选对叠词→乱序词轮选对图显词下）`,
-      simResults.fails.length===0, simResults.fails.slice(0,5).join(';') || '覆盖4主题全部课');
+      simResults.fails.length===0, simResults.fails.slice(0,5).join(';') || `覆盖${Object.keys(THEMES).length}主题全部课`);
   const shuffleOK = simulateShuffle();
   add('词轮乱序性 ×20（与图轮顺序不同、元素相同）', shuffleOK.ok, shuffleOK.detail);
   const rand = simulateRandom(20);

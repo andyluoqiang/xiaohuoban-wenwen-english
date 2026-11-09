@@ -1,0 +1,113 @@
+{
+ "theme": "transport",
+ "nameZh": "交通工具",
+ "order": 9,
+ "units": [
+  {
+   "id": "transport-l1-u1",
+   "band": 1,
+   "title": "Transport · 交通工具",
+   "cards": [
+    {
+     "id": "transport-l1-u1-c1",
+     "type": "word",
+     "en": "Bus",
+     "audio": "audio/all/594_bus.mp3",
+     "slow": "audio/all/594_bus.mp3",
+     "image": "img/cam-bus.jpg",
+     "zh": "公共汽车"
+    },
+    {
+     "id": "transport-l1-u1-c2",
+     "type": "word",
+     "en": "Car",
+     "audio": "audio/all/595_car.mp3",
+     "slow": "audio/all/595_car.mp3",
+     "image": "img/cam-car.jpg",
+     "zh": "小汽车"
+    },
+    {
+     "id": "transport-l1-u1-c3",
+     "type": "word",
+     "en": "Train",
+     "audio": "audio/all/596_train.mp3",
+     "slow": "audio/all/596_train.mp3",
+     "image": "img/ai-train.jpg",
+     "zh": "火车"
+    },
+    {
+     "id": "transport-l1-u1-c4",
+     "type": "word",
+     "en": "Plane",
+     "audio": "audio/all/597_plane.mp3",
+     "slow": "audio/all/597_plane.mp3",
+     "image": "img/cam-plane.jpg",
+     "zh": "飞机"
+    },
+    {
+     "id": "transport-l1-u1-c5",
+     "type": "word",
+     "en": "Boat",
+     "audio": "audio/all/598_boat.mp3",
+     "slow": "audio/all/598_boat.mp3",
+     "image": "img/cam-boat.jpg",
+     "zh": "小船"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "transport-l1-u2",
+   "band": 1,
+   "title": "More transport · 更多出行工具",
+   "cards": [
+    {
+     "id": "transport-l1-u2-c1",
+     "type": "word",
+     "en": "Bike",
+     "audio": "audio/all/599_bike.mp3",
+     "slow": "audio/all/599_bike.mp3",
+     "image": "img/cam-bike.jpg",
+     "zh": "自行车"
+    },
+    {
+     "id": "transport-l1-u2-c2",
+     "type": "word",
+     "en": "Helicopter",
+     "audio": "audio/all/600_helicopter.mp3",
+     "slow": "audio/all/600_helicopter.mp3",
+     "image": "img/cam-helicopter.jpg",
+     "zh": "直升机"
+    },
+    {
+     "id": "transport-l1-u2-c3",
+     "type": "word",
+     "en": "Motorbike",
+     "audio": "audio/all/601_motorbike.mp3",
+     "slow": "audio/all/601_motorbike.mp3",
+     "image": "img/cam-motorbike.jpg",
+     "zh": "摩托车"
+    },
+    {
+     "id": "transport-l1-u2-c4",
+     "type": "word",
+     "en": "Lorry",
+     "audio": "audio/all/602_lorry.mp3",
+     "slow": "audio/all/602_lorry.mp3",
+     "image": "img/cam-lorry.jpg",
+     "zh": "卡车"
+    },
+    {
+     "id": "transport-l1-u2-c5",
+     "type": "word",
+     "en": "Park",
+     "audio": "audio/all/603_park.mp3",
+     "slow": "audio/all/603_park.mp3",
+     "image": "img/cam-park.jpg",
+     "zh": "公园"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

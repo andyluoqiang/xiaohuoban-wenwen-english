@@ -3046,5 +3046,413 @@
   "type": "vocab",
   "unit": "vocab",
   "file": "528_friend.mp3"
+ },
+ {
+  "i": 550,
+  "en": "dress",
+  "zh": "连衣裙",
+  "type": "word",
+  "unit": "clothes",
+  "file": "550_dress.mp3"
+ },
+ {
+  "i": 551,
+  "en": "skirt",
+  "zh": "短裙",
+  "type": "word",
+  "unit": "clothes",
+  "file": "551_skirt.mp3"
+ },
+ {
+  "i": 552,
+  "en": "shirt",
+  "zh": "衬衫",
+  "type": "word",
+  "unit": "clothes",
+  "file": "552_shirt.mp3"
+ },
+ {
+  "i": 553,
+  "en": "jacket",
+  "zh": "夹克",
+  "type": "word",
+  "unit": "clothes",
+  "file": "553_jacket.mp3"
+ },
+ {
+  "i": 554,
+  "en": "shoe",
+  "zh": "鞋",
+  "type": "word",
+  "unit": "clothes",
+  "file": "554_shoe.mp3"
+ },
+ {
+  "i": 555,
+  "en": "sock",
+  "zh": "袜子",
+  "type": "word",
+  "unit": "clothes",
+  "file": "555_sock.mp3"
+ },
+ {
+  "i": 556,
+  "en": "hat",
+  "zh": "帽子",
+  "type": "word",
+  "unit": "clothes",
+  "file": "556_hat.mp3"
+ },
+ {
+  "i": 557,
+  "en": "glasses",
+  "zh": "眼镜",
+  "type": "word",
+  "unit": "clothes",
+  "file": "557_glasses.mp3"
+ },
+ {
+  "i": 558,
+  "en": "handbag",
+  "zh": "手提包",
+  "type": "word",
+  "unit": "clothes",
+  "file": "558_handbag.mp3"
+ },
+ {
+  "i": 559,
+  "en": "trousers",
+  "zh": "长裤",
+  "type": "word",
+  "unit": "clothes",
+  "file": "559_trousers.mp3"
+ },
+ {
+  "i": 560,
+  "en": "jeans",
+  "zh": "牛仔裤",
+  "type": "word",
+  "unit": "clothes",
+  "file": "560_jeans.mp3"
+ },
+ {
+  "i": 561,
+  "en": "watch",
+  "zh": "手表",
+  "type": "word",
+  "unit": "clothes",
+  "file": "561_watch.mp3"
+ },
+ {
+  "i": 562,
+  "en": "bed",
+  "zh": "床",
+  "type": "word",
+  "unit": "home",
+  "file": "562_bed.mp3"
+ },
+ {
+  "i": 563,
+  "en": "chair",
+  "zh": "椅子",
+  "type": "word",
+  "unit": "home",
+  "file": "563_chair.mp3"
+ },
+ {
+  "i": 564,
+  "en": "clock",
+  "zh": "钟",
+  "type": "word",
+  "unit": "home",
+  "file": "564_clock.mp3"
+ },
+ {
+  "i": 565,
+  "en": "door",
+  "zh": "门",
+  "type": "word",
+  "unit": "home",
+  "file": "565_door.mp3"
+ },
+ {
+  "i": 566,
+  "en": "lamp",
+  "zh": "台灯",
+  "type": "word",
+  "unit": "home",
+  "file": "566_lamp.mp3"
+ },
+ {
+  "i": 567,
+  "en": "mirror",
+  "zh": "镜子",
+  "type": "word",
+  "unit": "home",
+  "file": "567_mirror.mp3"
+ },
+ {
+  "i": 568,
+  "en": "sofa",
+  "zh": "沙发",
+  "type": "word",
+  "unit": "home",
+  "file": "568_sofa.mp3"
+ },
+ {
+  "i": 569,
+  "en": "table",
+  "zh": "桌子",
+  "type": "word",
+  "unit": "home",
+  "file": "569_table.mp3"
+ },
+ {
+  "i": 570,
+  "en": "window",
+  "zh": "窗户",
+  "type": "word",
+  "unit": "home",
+  "file": "570_window.mp3"
+ },
+ {
+  "i": 571,
+  "en": "kitchen",
+  "zh": "厨房",
+  "type": "word",
+  "unit": "home",
+  "file": "571_kitchen.mp3"
+ },
+ {
+  "i": 572,
+  "en": "garden",
+  "zh": "花园",
+  "type": "word",
+  "unit": "home",
+  "file": "572_garden.mp3"
+ },
+ {
+  "i": 573,
+  "en": "bath",
+  "zh": "浴缸",
+  "type": "word",
+  "unit": "home",
+  "file": "573_bath.mp3"
+ },
+ {
+  "i": 574,
+  "en": "book",
+  "zh": "书",
+  "type": "word",
+  "unit": "school",
+  "file": "574_book.mp3"
+ },
+ {
+  "i": 575,
+  "en": "pen",
+  "zh": "钢笔",
+  "type": "word",
+  "unit": "school",
+  "file": "575_pen.mp3"
+ },
+ {
+  "i": 576,
+  "en": "pencil",
+  "zh": "铅笔",
+  "type": "word",
+  "unit": "school",
+  "file": "576_pencil.mp3"
+ },
+ {
+  "i": 577,
+  "en": "ruler",
+  "zh": "尺子",
+  "type": "word",
+  "unit": "school",
+  "file": "577_ruler.mp3"
+ },
+ {
+  "i": 578,
+  "en": "eraser",
+  "zh": "橡皮",
+  "type": "word",
+  "unit": "school",
+  "file": "578_eraser.mp3"
+ },
+ {
+  "i": 579,
+  "en": "desk",
+  "zh": "课桌",
+  "type": "word",
+  "unit": "school",
+  "file": "579_desk.mp3"
+ },
+ {
+  "i": 580,
+  "en": "board",
+  "zh": "黑板",
+  "type": "word",
+  "unit": "school",
+  "file": "580_board.mp3"
+ },
+ {
+  "i": 581,
+  "en": "teacher",
+  "zh": "老师",
+  "type": "word",
+  "unit": "school",
+  "file": "581_teacher.mp3"
+ },
+ {
+  "i": 582,
+  "en": "computer",
+  "zh": "电脑",
+  "type": "word",
+  "unit": "school",
+  "file": "582_computer.mp3"
+ },
+ {
+  "i": 584,
+  "en": "keyboard",
+  "zh": "键盘",
+  "type": "word",
+  "unit": "school",
+  "file": "584_keyboard.mp3"
+ },
+ {
+  "i": 585,
+  "en": "music",
+  "zh": "音乐",
+  "type": "word",
+  "unit": "school",
+  "file": "585_music.mp3"
+ },
+ {
+  "i": 589,
+  "en": "doll",
+  "zh": "娃娃",
+  "type": "word",
+  "unit": "toys",
+  "file": "589_doll.mp3"
+ },
+ {
+  "i": 590,
+  "en": "robot",
+  "zh": "机器人",
+  "type": "word",
+  "unit": "toys",
+  "file": "590_robot.mp3"
+ },
+ {
+  "i": 591,
+  "en": "monster",
+  "zh": "怪兽",
+  "type": "word",
+  "unit": "toys",
+  "file": "591_monster.mp3"
+ },
+ {
+  "i": 592,
+  "en": "alien",
+  "zh": "外星人",
+  "type": "word",
+  "unit": "toys",
+  "file": "592_alien.mp3"
+ },
+ {
+  "i": 593,
+  "en": "toy",
+  "zh": "玩具",
+  "type": "word",
+  "unit": "toys",
+  "file": "593_toy.mp3"
+ },
+ {
+  "i": 594,
+  "en": "bus",
+  "zh": "公共汽车",
+  "type": "word",
+  "unit": "transport",
+  "file": "594_bus.mp3"
+ },
+ {
+  "i": 595,
+  "en": "car",
+  "zh": "小汽车",
+  "type": "word",
+  "unit": "transport",
+  "file": "595_car.mp3"
+ },
+ {
+  "i": 596,
+  "en": "train",
+  "zh": "火车",
+  "type": "word",
+  "unit": "transport",
+  "file": "596_train.mp3"
+ },
+ {
+  "i": 600,
+  "en": "helicopter",
+  "zh": "直升机",
+  "type": "word",
+  "unit": "transport",
+  "file": "600_helicopter.mp3"
+ },
+ {
+  "i": 601,
+  "en": "motorbike",
+  "zh": "摩托车",
+  "type": "word",
+  "unit": "transport",
+  "file": "601_motorbike.mp3"
+ },
+ {
+  "i": 602,
+  "en": "lorry",
+  "zh": "卡车",
+  "type": "word",
+  "unit": "transport",
+  "file": "602_lorry.mp3"
+ },
+ {
+  "i": 603,
+  "en": "park",
+  "zh": "公园",
+  "type": "word",
+  "unit": "transport",
+  "file": "603_park.mp3"
+ },
+ {
+  "i": 604,
+  "en": "sun",
+  "zh": "太阳",
+  "type": "word",
+  "unit": "beach",
+  "file": "604_sun.mp3"
+ },
+ {
+  "i": 605,
+  "en": "sea",
+  "zh": "大海",
+  "type": "word",
+  "unit": "beach",
+  "file": "605_sea.mp3"
+ },
+ {
+  "i": 607,
+  "en": "shell",
+  "zh": "贝壳",
+  "type": "word",
+  "unit": "beach",
+  "file": "607_shell.mp3"
+ },
+ {
+  "i": 608,
+  "en": "camera",
+  "zh": "相机",
+  "type": "word",
+  "unit": "beach",
+  "file": "608_camera.mp3"
  }
 ]

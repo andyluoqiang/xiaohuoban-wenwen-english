@@ -1,0 +1,131 @@
+{
+ "theme": "school",
+ "nameZh": "在学校",
+ "order": 7,
+ "units": [
+  {
+   "id": "school-l1-u1",
+   "band": 1,
+   "title": "At school · 在学校",
+   "cards": [
+    {
+     "id": "school-l1-u1-c1",
+     "type": "word",
+     "en": "Book",
+     "audio": "audio/all/574_book.mp3",
+     "slow": "audio/all/574_book.mp3",
+     "image": "img/ai-book.jpg",
+     "zh": "书"
+    },
+    {
+     "id": "school-l1-u1-c2",
+     "type": "word",
+     "en": "Pen",
+     "audio": "audio/all/575_pen.mp3",
+     "slow": "audio/all/575_pen.mp3",
+     "image": "img/cam-pen.jpg",
+     "zh": "钢笔"
+    },
+    {
+     "id": "school-l1-u1-c3",
+     "type": "word",
+     "en": "Pencil",
+     "audio": "audio/all/576_pencil.mp3",
+     "slow": "audio/all/576_pencil.mp3",
+     "image": "img/ai-pencil.jpg",
+     "zh": "铅笔"
+    },
+    {
+     "id": "school-l1-u1-c4",
+     "type": "word",
+     "en": "Ruler",
+     "audio": "audio/all/577_ruler.mp3",
+     "slow": "audio/all/577_ruler.mp3",
+     "image": "img/cam-ruler.jpg",
+     "zh": "尺子"
+    },
+    {
+     "id": "school-l1-u1-c5",
+     "type": "word",
+     "en": "Eraser",
+     "audio": "audio/all/578_eraser.mp3",
+     "slow": "audio/all/578_eraser.mp3",
+     "image": "img/ai-eraser.jpg",
+     "zh": "橡皮"
+    },
+    {
+     "id": "school-l1-u1-c6",
+     "type": "word",
+     "en": "Desk",
+     "audio": "audio/all/579_desk.mp3",
+     "slow": "audio/all/579_desk.mp3",
+     "image": "img/ai-desk.jpg",
+     "zh": "课桌"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "school-l1-u2",
+   "band": 1,
+   "title": "More at school · 更多学习用品",
+   "cards": [
+    {
+     "id": "school-l1-u2-c1",
+     "type": "word",
+     "en": "Board",
+     "audio": "audio/all/580_board.mp3",
+     "slow": "audio/all/580_board.mp3",
+     "image": "img/ai-board.jpg",
+     "zh": "黑板"
+    },
+    {
+     "id": "school-l1-u2-c2",
+     "type": "word",
+     "en": "Teacher",
+     "audio": "audio/all/581_teacher.mp3",
+     "slow": "audio/all/581_teacher.mp3",
+     "image": "img/ai-teacher.jpg",
+     "zh": "老师"
+    },
+    {
+     "id": "school-l1-u2-c3",
+     "type": "word",
+     "en": "Computer",
+     "audio": "audio/all/582_computer.mp3",
+     "slow": "audio/all/582_computer.mp3",
+     "image": "img/ai-computer.jpg",
+     "zh": "电脑"
+    },
+    {
+     "id": "school-l1-u2-c4",
+     "type": "word",
+     "en": "Mouse",
+     "audio": "audio/all/583_mouse.mp3",
+     "slow": "audio/all/583_mouse.mp3",
+     "image": "img/ai-mouse.jpg",
+     "zh": "鼠标"
+    },
+    {
+     "id": "school-l1-u2-c5",
+     "type": "word",
+     "en": "Keyboard",
+     "audio": "audio/all/584_keyboard.mp3",
+     "slow": "audio/all/584_keyboard.mp3",
+     "image": "img/ai-keyboard.jpg",
+     "zh": "键盘"
+    },
+    {
+     "id": "school-l1-u2-c6",
+     "type": "word",
+     "en": "Music",
+     "audio": "audio/all/585_music.mp3",
+     "slow": "audio/all/585_music.mp3",
+     "image": "img/cam-music.jpg",
+     "zh": "音乐"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

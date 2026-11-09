@@ -46,6 +46,72 @@
    ],
    "units": 19,
    "cards": 107
+  },
+  {
+   "id": "clothes",
+   "nameZh": "衣服与配饰",
+   "order": 5,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 12
+  },
+  {
+   "id": "home",
+   "nameZh": "在家里",
+   "order": 6,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 12
+  },
+  {
+   "id": "school",
+   "nameZh": "在学校",
+   "order": 7,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 12
+  },
+  {
+   "id": "toys",
+   "nameZh": "玩具世界",
+   "order": 8,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 8
+  },
+  {
+   "id": "transport",
+   "nameZh": "交通工具",
+   "order": 9,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 10
+  },
+  {
+   "id": "beach",
+   "nameZh": "海滩玩耍",
+   "order": 10,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 8
   }
  ]
 }
