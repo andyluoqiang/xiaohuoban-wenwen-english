@@ -277,7 +277,7 @@ function imgOpts(c) {
   return [c.image, ...dis].sort(()=>Math.random()-.5);
 }
 function wordOpts(c) {
-  const pool = THEMES[sim.t].units.filter(u=>u.band===sim.b).flatMap(u=>u.cards).filter(x=>!LISTEN_TYPES.includes(x.type)).map(x=>x.en);
+  const pool = THEMES[sim.t].units.filter(u=>u.band===sim.b).flatMap(u=>u.cards).filter(x=>x.type==='word'||x.type==='phrase').map(x=>x.en);
   const want = sim.b<=1?2:4;
   const dis = pool.filter(w=>w!==c.en).sort(()=>Math.random()-.5).slice(0,want-1);
   return [c.en, ...dis].sort(()=>Math.random()-.5);
@@ -291,7 +291,6 @@ function renderStep() {
     box.innerHTML = `<div style="font-size:36px">🎉</div><b style="font-size:20px">这课学完啦！</b>
       <div class="stat">⭐ ${sim.stars} 星 · ${sim.lesson.cards.length} 个内容</div>`;
     stat.textContent = '';
-    // 完成记录（固定课）
     if (!sim.lesson.id.includes('random')) {
       const s = passedSet(); sim.lesson.cards.forEach(c=>s.add(c.id));
       localStorage.setItem(LS, JSON.stringify([...s]));
@@ -302,40 +301,59 @@ function renderStep() {
   const c = sim.lesson.cards[sim.i];
   const head = `<div class="muted">(${sim.i+1}/${sim.lesson.cards.length}) 第${sim.lesson.idx}课 · ${sim.lesson.cards[sim.i].zh||''} · ⭐${sim.stars}</div>`;
   if (LISTEN_TYPES.includes(c.type)) {
-    // 句子卡（L3+）：跟读式 一步过
     box.innerHTML = head + `<div class="chip" style="font-size:22px" onclick="simNext()">${c.en}</div>
       <div class="muted">${c.zh||''}</div><button class="btn" onclick="simNext()">下一句 →</button>`;
-    stat.textContent = 'L3+ 句子卡：听+跟读（App 内为逐词可点+跟读）';
+    stat.textContent = 'L3+ 句子卡：听+跟读（App 内逐词可点+跟读）';
     return;
   }
   if (sim.step === 0) {
+    // 图选步：选对后★原地叠加词在图上（模拟同屏）；未选时只有图
     const opts = imgOpts(c);
     box.innerHTML = head + `<b>🎧 第一步：听音，选出图片</b><br>` +
-      opts.map(o=>`<span class="opt-img" onclick="simPickImg('${o}')"><img src="${o}"><span class="muted">${o.includes('cam-')?'剑桥':'AI'}</span></span>`).join('');
-    stat.textContent = '步骤 1/3 · 图选（点击正确图进入词选）';
+      opts.map(o=>`<span class="opt-img" data-o="${o}" onclick="simPickImg(this,'${o}')"><img src="${o}"><span class="muted">${o.includes('cam-')?'剑桥':'AI'}</span><span class="img-word" style="display:none;font-size:22px;font-weight:900;color:#4E342E;background:rgba(255,255,255,.92);border-radius:10px;padding:2px 12px"></span></span>`).join('');
+    stat.textContent = '步骤 1/3 · 图选（选对→词【叠加】在图上→词选）；与图分离版不同：不切页';
   } else if (sim.step === 1) {
+    // 词选步：上半叠加层 = 已选图+词；下半词选按钮
     const opts = wordOpts(c);
     box.innerHTML = head + `<b>🔤 第二步：再听一次，选出单词</b><br>` +
-      opts.map((o,i)=>`<span class="opt-word" style="background:${['#FF9E80','#80DEEA','#B39DDB','#AED581'][i%4]}" onclick="simPickWord(this,'${o.replace(/'/g,"\\'")}')">${o}</span>`).join('');
-    stat.textContent = '步骤 2/3 · 词选（答对进入揭示；答错原地重试）';
+      opts.map((o,i)=>`<span class="opt-word" style="background:${['#FF9E80','#80DEEA','#B39DDB','#AED581'][i%4]}" onclick="simPickWord(this,'${o.replace(/'/g,"\\'")}')">${o}</span>`).join('') +
+      `<div class="reveal-inline" style="margin-top:8px;display:none"><img src="${c.image}" style="width:170px;height:170px"><div class="en">${c.en}</div><div class="zh">${c.zh||''}</div></div>`;
+    stat.textContent = '步骤 2/3 · 词选（选对→图+词同屏揭示）；答错不推进';
   } else {
     box.innerHTML = head + `<div class="reveal"><img src="${c.image}"><div class="en">${c.en}</div><div class="zh">${c.zh||''}</div>
-      <button class="btn purple">🔊 再听一次</button>&nbsp;<button class="btn" onclick="simNext()">继续 🐣</button></div>`;
-    stat.textContent = '步骤 3/3 · 图词揭示（音-形-义闭环）';
+      <button class="btn purple" onclick="event.stopPropagation(); new Audio('audio/all/${(index.find(e=>e.en.toLowerCase()===c.en.toLowerCase())||{}).file||''}').play()">🔊 再听</button>&nbsp;<button class="btn" onclick="simNext()">继续 🐣</button></div>`;
+    stat.textContent = '步骤 3/3 · 图词同屏（App 内为同页叠加，出继续）';
   }
 }
-function simPickImg(o) {
+function simPickImg(el, o) {
   const c = sim.lesson.cards[sim.i];
-  if (o === c.image) { sim.step = 1; renderStep(); }
-  else { document.getElementById('simStat').innerHTML = '<span class="bad">✗ 答错：不推进，重听（App 内同款错误流）</span>'; }
+  if (o === c.image) {
+    // 选对：单词【原地叠加】在图上（半透明白条），800ms 后进入词选
+    const w = el.querySelector('.img-word');
+    w.textContent = c.en + ' · ' + (c.zh||'');
+    w.style.display = 'inline-block';
+    el.style.outline = '4px solid #5BBFA0';
+    const hit = index.find(e=>e.en.toLowerCase()===c.en.toLowerCase());
+    if (hit) new Audio('audio/all/'+hit.file).play().catch(()=>{});
+    document.getElementById('simStat').textContent = '✓ 图选对：词已叠加图上（App 同款 900ms 后进词选）';
+    setTimeout(() => { sim.step = 1; renderStep(); }, 900);
+  } else {
+    el.style.outline = '4px solid #C62828';
+    document.getElementById('simStat').innerHTML = '<span class="bad">✗ 答错：不推进，重听</span>';
+  }
 }
 function simPickWord(el, o) {
   const c = sim.lesson.cards[sim.i];
   if (o === c.en) {
-    sim.step = 2; sim.stars++; renderStep();
-    // 播真人音频
+    // 选对：下半区【原地展开】图+词揭示（同屏，不切页）
+    sim.step = 2; sim.stars++;
+    const rv = document.querySelector('.reveal-inline');
+    if (rv) { rv.style.display = 'inline-block'; }
+    el.style.outline = '4px solid #5BBFA0';
     const hit = index.find(e=>e.en.toLowerCase()===c.en.toLowerCase());
     if (hit) new Audio('audio/all/'+hit.file).play().catch(()=>{});
+    document.getElementById('simStat').textContent = '✓ 词选对：图+词同屏显示，+1⭐（App 内为原位叠加）';
+    setTimeout(() => { renderStep(); }, 900);
   } else {
     el.style.filter = 'grayscale(1)';
     document.getElementById('simStat').innerHTML = '<span class="bad">✗ 答错：不推进，重听</span>';
@@ -343,17 +361,25 @@ function simPickWord(el, o) {
 }
 function simNext() { sim.i++; sim.step = 0; renderStep(); }
 
+function simPickImgOld(o) {}  // 兼容占位（防旧引用）
 function simAuto() {
   if (!sim) simOpen('animals', 1, 0);
   let guard = 0;
   const tick = setInterval(() => {
-    if (sim.i >= sim.lesson.cards.length || guard++ > 200) { clearInterval(tick); return; }
+    if (sim.i >= sim.lesson.cards.length || guard++ > 300) { clearInterval(tick); return; }
     const c = sim.lesson.cards[sim.i];
     if (LISTEN_TYPES.includes(c.type)) { simNext(); return; }
-    if (sim.step === 0) simPickImg(c.image);
-    else if (sim.step === 1) simPickWord(document.querySelector('.opt-word'), c.en);
-    else simNext();
-  }, 160);
+    if (sim.step === 0) {
+      // 直接把正确图对应元素传入（跳过 900ms 动画）
+      const el = [...document.querySelectorAll('.opt-img')].find(x => x.dataset.o === c.image);
+      if (el) { const w = el.querySelector('.img-word'); w.textContent = c.en; w.style.display='inline-block'; }
+      sim.step = 1; renderStep();
+    } else if (sim.step === 1) {
+      const el = [...document.querySelectorAll('.opt-word')].find(x => x.textContent === c.en);
+      if (el) simPickWord(el, c.en);
+      else { sim.step = 2; renderStep(); }
+    } else simNext();
+  }, 120);
 }
 
 // ===== ⑤ 点词查义 =====
