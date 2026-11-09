@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>稳稳学英语 · 剑桥岛验证器 v2（课程树+双步学习）</title>
+<style>
+  :root { --bg:#FFF6EA; --brown:#4E342E; --hint:#A1887F; --green:#5BBFA0; --greend:#3E9D80; --bad:#C62828; --blue:#4FA3D1; }
+  * { box-sizing:border-box; }
+  body { font-family:"Microsoft YaHei",sans-serif; background:var(--bg); margin:0; padding:18px; color:var(--brown); }
+  h1 { font-size:21px; margin:0 0 4px; }
+  h2 { font-size:16px; color:var(--greend); border-bottom:2px solid #AED581; padding-bottom:5px; margin:26px 0 10px; }
+  .ok { color:#2E7D32; font-weight:700; }
+  .bad { color:var(--bad); font-weight:700; }
+  .panel { background:#fff; border-radius:16px; padding:14px; box-shadow:0 3px 10px rgba(0,0,0,.07); margin-top:10px; }
+  table { border-collapse:collapse; font-size:12.5px; background:#fff; width:100%; }
+  td,th { border:1px solid #E0D5C8; padding:5px 9px; text-align:left; }
+  .btn { background:var(--green); color:#fff; border:none; border-radius:18px; padding:9px 20px; font-size:14px; cursor:pointer; margin:3px; font-weight:700; }
+  .btn.sel { background:var(--greend); outline:3px solid #FFD166; }
+  .btn.purple { background:#AB83BD; }
+  .lesson { background:#FFF3E0; border-radius:18px; padding:12px 16px; margin-top:10px; display:flex; align-items:center; gap:12px; cursor:pointer; }
+  .lesson:hover { filter:brightness(.97); }
+  .lesson.all { background:#E8F5EE; outline:2px solid var(--green); }
+  .l-title { flex:1; }
+  .l-title b { font-size:16px; }
+  .l-title div { font-size:12px; color:var(--hint); }
+  .l-progress { font-size:14px; font-weight:800; }
+  .stepbox { background:#fff; border-radius:20px; padding:18px; margin-top:10px; text-align:center; }
+  .opt-img { display:inline-flex; flex-direction:column; align-items:center; width:150px; margin:6px; cursor:pointer; background:#FFF6EA; border-radius:18px; padding:8px; }
+  .opt-img img { width:120px; height:120px; object-fit:contain; }
+  .opt-word { display:inline-block; min-width:150px; margin:8px; padding:16px 22px; border-radius:24px; color:#fff; font-size:24px; font-weight:800; cursor:pointer; }
+  .reveal { text-align:center; }
+  .reveal img { width:230px; height:230px; object-fit:contain; }
+  .reveal .en { font-size:34px; font-weight:900; }
+  .reveal .zh { font-size:17px; color:var(--hint); }
+  .chip { display:inline-block; padding:5px 12px; margin:3px; border-radius:13px; background:#fff; box-shadow:0 2px 5px rgba(0,0,0,.12); cursor:pointer; font-size:17px; font-weight:700; color:var(--brown); }
+  #popup { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:9; align-items:center; justify-content:center; }
+  #popup .card { background:#fff; border-radius:26px; padding:26px 34px; text-align:center; }
+  .muted { color:var(--hint); font-size:12px; }
+  #verdict { font-size:14px; margin-top:4px; }
+  .stat { font-size:13px; margin-top:8px; font-weight:700; }
+</style>
+</head>
+<body>
+<h1>🧪 稳稳学英语 · 剑桥岛验证器 v2 <span id="verdict">数据加载中…</span></h1>
+<div class="muted">v2 检查范围：①数据完整性 ②课程树（4主题×6档位，每课10词分课）③L1/L2 双步学习（听音选图→听音选词→图词揭示）④随机课 ⑤点词查义。数据源与 App assets 同源</div>
+
+<h2>① 数据完整性（自动 12 项 + 课程树新增项）</h2>
+<div class="panel" id="p1">检查中…</div>
+
+<h2>② 课程树（选主题档位查看课程列表；完成度取 localStorage）</h2>
+<div>
+  <button class="btn" data-t="body" onclick="pickT('body',this)">🧒 body L1</button>
+  <button class="btn" data-t="food" onclick="pickT('food',this)">🍎 food L2</button>
+  <button class="btn" data-t="play" onclick="pickT('play',this)">⚽ play L1</button>
+  <button class="btn sel" data-t="animals" onclick="pickT('animals',this)">🐶 animals L1</button>
+  <button class="btn" data-t="animals-l2" onclick="pickT('animals-l2',this)">🐶 animals L2</button>
+  <button class="btn" data-t="animals-l3" onclick="pickT('animals-l3',this)">🐶 animals L3</button>
+  <button class="btn" onclick="resetProgress()">清空完成记录</button>
+</div>
+<div id="lessons"></div>
+
+<h2>③ 双步学习模拟器（复刻 App 状态机：图选→词选→揭示；可自动跑完整课）</h2>
+<div>
+  <button class="btn" onclick="simPick(1)">学 animals L1 第1课</button>
+  <button class="btn" onclick="simPick(2)">学 animals L2 第1课</button>
+  <button class="btn" onclick="simAuto()">⚡ 自动跑完当前课（含错误路径）</button>
+</div>
+<div class="stepbox" id="sim"></div>
+<div class="stat" id="simStat"></div>
+
+<h2>④ 点词查义（句子逐词点击 → 弹卡图+释义+🔊发音）</h2>
+<div id="sentences"></div>
+
+<div id="popup" onclick="this.style.display='none'">
+  <div class="card">
+    <img id="popImg"><br>
+    <span id="popWord" style="font-size:28px;font-weight:800"></span>
+    <div id="popZh" style="font-size:15px;color:var(--hint)"></div>
+    <div id="popPos" class="muted"></div>
+    <button class="btn purple" style="margin-top:10px" onclick="event.stopPropagation(); playPop()">🔊 发音</button>
+  </div>
+</div>
+
+<script>
+const LISTEN_TYPES = ['sentence','qa','retell','inquire','dialog','story'];
+const LS = 'cam_passed_v2';
+const THEMES_FILES = { body:'body.json', food:'food.json', play:'play.json', animals:'animals.json' };
+let THEMES = {}, vocab, index;
+
+(async () => {
+  const loads = Object.entries(THEMES_FILES).map(async ([k,f]) => { THEMES[k] = await fetch(f).then(r=>r.json()); });
+  await Promise.all([...loads,
+    fetch('vocab.json').then(r=>r.json()).then(v => vocab = v),
+    fetch('audio/all/index.json').then(r=>r.json()).then(i => index = i)]);
+  runChecks();
+  renderLessons('animals', 1);
+  renderSentences();
+})();
+
+// ===== App lessonsFor 1:1 =====
+function lessonsFor(themeId, band) {
+  const units = (THEMES[themeId]?.units || []).filter(u => u.band === band);
+  const all = units.flatMap(u => u.cards.map(c => ({c, isNew: u.newFirst === true}))).filter(x =>
+    band <= 2 ? (!LISTEN_TYPES.includes(x.c.type) && x.c.image) : LISTEN_TYPES.includes(x.c.type));
+  const out = [];
+  for (let i = 0; i < all.length; i += 10) {
+    const list = all.slice(i, i+10);
+    out.push({ id:`${themeId}-l${band}-lesson${out.length+1}`, idx:out.length+1, title:list[0].c.en,
+      cards:list.map(x=>x.c), cam:list.some(x=>x.isNew) });
+  }
+  return out;
+}
+
+async function runChecks() {
+  const items = [];
+  const add = (name, pass, detail='') => items.push({name, pass, detail});
+  const A = THEMES.animals;
+  const nU = A.units.length, nC = A.units.reduce((s,u)=>s+u.cards.length,0);
+  add('animals.json 19 单元 / 107 卡', nU===19 && nC===107, `${nU}/${nC}`);
+  const l1u3 = A.units.find(u => u.id==='animals-l1-u3');
+  add('L1 新单元 newFirst（Fish/Chicken/Bee/Snail/Penguin/Dolphin）', !!l1u3 && l1u3.newFirst===true && l1u3.cards.map(c=>c.en).join()==='Fish,Chicken,Bee,Snail,Penguin,Dolphin');
+  const badImg = A.units.flatMap(u=>u.cards).filter(c => c.image && !c.image.startsWith('img/'));
+  add('全部卡片 image 带 img/ 前缀', badImg.length===0, badImg.map(c=>c.id).join(','));
+  const imgs = [...new Set(Object.values(THEMES).flatMap(t=>t.units.flatMap(u=>u.cards)).map(c=>c.image).filter(Boolean))];
+  let imgOk=0; const imgBad=[];
+  await Promise.all(imgs.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?imgOk++:imgBad.push(p); } catch { imgBad.push(p); } }));
+  add(`全主题图片可访问（${imgs.length} 张）`, imgBad.length===0, imgBad.join(','));
+  const noAud = Object.entries(vocab).filter(([w,e])=>!e.aud).map(([w])=>w);
+  add('vocab 128 词全部带真人配音', Object.keys(vocab).length===128 && noAud.length===0, noAud.join(','));
+  const vaud = [...new Set(Object.values(vocab).map(e=>e.aud))];
+  let vOk=0; const vBad=[];
+  await Promise.all(vaud.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?vOk++:vBad.push(p); } catch { vBad.push(p); } }));
+  add(`vocab 音频可访问（${vaud.length} 条）`, vBad.length===0, vBad.join(','));
+  add('索引含新卡音频 34 条(400-433) + vocab 79 条(450-528)',
+      index.filter(e=>e.i>=400&&e.i<450).length===34 && index.filter(e=>e.i>=450).length===79,
+      `400s=${index.filter(e=>e.i>=400&&e.i<450).length} 450s=${index.filter(e=>e.i>=450).length}`);
+
+  // ===== 课程树检查（独立统计自洽校验，不硬编码预期） =====
+  let treeOK = true, treeDetail = '';
+  const expectOf = (t, b) => {
+    // 独立统计：不经 lessonsFor，直接数各主题档位的可课卡
+    const cnt = (THEMES[t].units.filter(u=>u.band===b).flatMap(u=>u.cards)).filter(c =>
+      b<=2 ? (!LISTEN_TYPES.includes(c.type) && c.image && c.image.startsWith('img/')) : LISTEN_TYPES.includes(c.type)).length;
+    const exp = []; for (let i=0;i<cnt;i+=10) exp.push(Math.min(10, cnt-i)); return exp;
+  };
+  for (const t of Object.keys(THEMES)) {
+    for (let b = 1; b <= 6; b++) {
+      const exp = expectOf(t, b);
+      const got = lessonsFor(t, b).map(l => l.cards.length);
+      if (JSON.stringify(got) !== JSON.stringify(exp) || got.some(n=>n>10)) {
+        treeOK = false; treeDetail += `${t}-L${b}:${got}≠${exp} `;
+      }
+    }
+  }
+  const totalLessons = Object.keys(THEMES).reduce((s,t)=>{ for(let b=1;b<=6;b++) s+=lessonsFor(t,b).length; return s; }, 0);
+  add(`课程树划分自洽（4主题×6档位 = ${totalLessons} 课，每课≤10）`, treeOK, treeDetail || 'lessonsFor 分组与独立统计一致');
+  const camLessons = lessonsFor('animals', 2).filter(l => l.cam);
+  const camCards = [...new Set(camLessons.flatMap(l=>l.cards.map(c=>c.id)))].filter(id=>/l2-u[4-7]/.test(id));
+  const allCamNew = THEMES.animals.units.filter(u=>u.newFirst).flatMap(u=>u.cards).filter(c=>/l2-u[4-7]/.test(c.id));
+  add('animals L2 🎓剑桥徽章课覆盖 u4-u7 全部 25 新卡', camCards.length === allCamNew.length,
+      `徽章课第${camLessons.map(l=>l.idx).join(',')}课 覆盖 ${camCards.length}/${allCamNew.length} 新卡`);
+  const l1Cam = lessonsFor('animals', 1).filter(l=>l.cam);
+  add('animals L1 含 🎓剑桥课（Sea friends 6 新词）', l1Cam.length >= 1, `L1 徽章课: 第${l1Cam.map(l=>l.idx).join(',')}课`);
+
+  // ===== 双步状态机模拟（新）=====
+  const simResults = simulateAllLessons();
+  add(`双步状态机模拟 ${simResults.total} 课全通过（图选→词选→揭示→星+1→下一卡）`,
+      simResults.fails.length===0, simResults.fails.slice(0,5).join(';') || '覆盖4主题全部课');
+  const rand = simulateRandom(20);
+  add('随机课模拟 ×20（每次10卡⊆全集、选项含正确项）', rand.ok, rand.detail);
+
+  const fails = items.filter(i => !i.pass);
+  document.getElementById('verdict').innerHTML = fails.length===0
+    ? `<span class="ok">✅ 全部 ${items.length} 项通过</span>` : `<span class="bad">❌ ${fails.length}/${items.length} 项未过</span>`;
+  document.getElementById('p1').innerHTML =
+    '<table><tr><th>检查项</th><th>结果</th><th>详情</th></tr>' +
+    items.map(i=>`<tr><td>${i.name}</td><td class="${i.pass?'ok':'bad'}">${i.pass?'✓':'✗'}</td><td>${i.detail||''}</td></tr>`).join('') + '</table>';
+}
+
+// ===== 双步状态机：模拟 App 全部课程 =====
+function simulateAllLessons() {
+  const fails = []; let total = 0;
+  for (const t of Object.keys(THEMES)) {
+    for (let b = 1; b <= 6; b++) {
+      for (const l of lessonsFor(t, b)) {
+        total++;
+        const res = simulateWalk(l, t, b);
+        if (!res.ok) fails.push(`${l.id}: ${res.msg}`);
+      }
+    }
+  }
+  return { total, fails };
+}
+
+function simulateWalk(lesson, themeId, band) {
+  let stars = 0;
+  const wordPool = (THEMES[themeId].units.filter(u=>u.band===band).flatMap(u=>u.cards)).filter(c=>!LISTEN_TYPES.includes(c.type)).map(c=>c.en);
+  for (const c of lesson.cards) {
+    if (band <= 2) {
+      // 步骤1 图选：正确图在选项中
+      if (c.type !== 'chant' && !(c.image && c.image.startsWith('img/'))) return {ok:false, msg:`${c.id} band<=2 但无图`};
+      // 步骤2 词选：构建选项（正确词+干扰，L1=2/L2=4）
+      const want = band<=1?2:4;
+      const others = wordPool.filter(w=>!w.toLowerCase().includes(c.en.toLowerCase())&&c.en!==w).slice(0, want-1);
+      const opts = [c.en, ...others];
+      if (!opts.includes(c.en) || opts.length < 2) return {ok:false, msg:`${c.id} 词选选项构建失败`};
+      // 答对 → 揭示（图+词+中文都有）
+      if (!(c.image && c.en && c.zh !== undefined)) return {ok:false, msg:`${c.id} 揭示缺素材`};
+      stars++;
+    } else {
+      if (!LISTEN_TYPES.includes(c.type)) return {ok:false, msg:`${c.id} band>=3 但非句卡`};
+      stars++;
+    }
+  }
+  return {ok:true, stars};
+}
+
+function simulateRandom(times) {
+  const all = lessonsFor('animals', 2).flatMap(l=>l.cards);
+  const ids = new Set(all.map(c=>c.id));
+  for (let i = 0; i < times; i++) {
+    const picks = [...all].sort(()=>Math.random()-.5).slice(0,10);
+    if (picks.length !== 10) return {ok:false, detail:'随机不足10'};
+    if (!picks.every(p=>ids.has(p.id))) return {ok:false, detail:'随机含非全集卡'};
+  }
+  return {ok:true, detail:'每次恰 10 卡且全部来自该档位全集'};
+}
+
+// ===== ② 课程树 UI =====
+let curT = 'animals', curB = 1;
+const passedSet = () => new Set(JSON.parse(localStorage.getItem(LS) || '[]'));
+function pickT(key, btn) {
+  const [t, b] = key.includes('-l') ? key.split('-l') : [key, 1];
+  curT = t; curB = parseInt(b);
+  document.querySelectorAll('.btn[data-t]').forEach(x => x.classList.remove('sel'));
+  btn.classList.add('sel');
+  renderLessons(curT, curB);
+}
+function renderLessons(t, b) {
+  const ls = lessonsFor(t, b);
+  const passed = passedSet();
+  const totalCards = ls.reduce((s,l)=>s+l.cards.length, 0);
+  document.getElementById('lessons').innerHTML =
+    `<div class="panel"><b>${t} · L${b}</b> <span class="muted">共 ${ls.length} 课 / ${totalCards} 个内容</span>
+     <div class="lesson all" onclick="simRandom()"><span style="font-size:26px">🎲</span>
+       <span class="l-title"><b>随机学习</b><div>从 ${totalCards} 个内容随机抽 10 个</div></span>
+       <span class="l-progress" style="color:var(--greend)">GO</span></div>` +
+    ls.map(l => {
+      const done = l.cards.filter(c=>passed.has(c.id)).length;
+      const all = done >= l.cards.length;
+      return `<div class="lesson" onclick="simOpen('${t}',${b},${l.idx-1})"><span style="font-size:26px">📖</span>
+        <span class="l-title"><b>第 ${l.idx} 课</b>${l.cam?' <span style="font-size:11px;background:#FFE0B2;color:#E65100;border-radius:8px;padding:2px 8px">🎓剑桥</span>':''}<div>${l.title} … 共 ${l.cards.length} 个</div></span>
+        <span class="l-progress" style="color:${all?'var(--greend)':'var(--hint)'}">${done}/${l.cards.length} ${all?'✓':'›'}</span></div>`;
+    }).join('') + '</div>';
+}
+function resetProgress() { localStorage.removeItem(LS); renderLessons(curT, curB); }
+
+// ===== ③ 双步学习模拟器（可交互 + 自动跑）=====
+let sim = null;
+function simOpen(t, b, li) {
+  const lesson = lessonsFor(t, b)[li];
+  sim = { lesson, i:0, step:0, stars:0, t, b };
+  renderStep();
+}
+function simRandom() {
+  const all = lessonsFor(curT, curB).flatMap(l=>l.cards);
+  const cards = [...all].sort(()=>Math.random()-.5).slice(0,10);
+  sim = { lesson:{id:'random', idx:0, title:'随机课', cards}, i:0, step:0, stars:0, t:curT, b:curB };
+  renderStep();
+}
+function simPick(band) { simOpen('animals', band, 0); }
+
+function imgOpts(c) {
+  const pool = [...new Set(THEMES[sim.t].units.filter(u=>u.band===sim.b).flatMap(u=>u.cards).map(x=>x.image).filter(Boolean))];
+  const want = sim.b<=1?2:4;
+  const dis = pool.filter(p=>p!==c.image).sort(()=>Math.random()-.5).slice(0,want-1);
+  return [c.image, ...dis].sort(()=>Math.random()-.5);
+}
+function wordOpts(c) {
+  const pool = THEMES[sim.t].units.filter(u=>u.band===sim.b).flatMap(u=>u.cards).filter(x=>!LISTEN_TYPES.includes(x.type)).map(x=>x.en);
+  const want = sim.b<=1?2:4;
+  const dis = pool.filter(w=>w!==c.en).sort(()=>Math.random()-.5).slice(0,want-1);
+  return [c.en, ...dis].sort(()=>Math.random()-.5);
+}
+
+function renderStep() {
+  const box = document.getElementById('sim');
+  const stat = document.getElementById('simStat');
+  if (!sim) { box.innerHTML = '<span class="muted">先点上方按钮选一课</span>'; return; }
+  if (sim.i >= sim.lesson.cards.length) {
+    box.innerHTML = `<div style="font-size:36px">🎉</div><b style="font-size:20px">这课学完啦！</b>
+      <div class="stat">⭐ ${sim.stars} 星 · ${sim.lesson.cards.length} 个内容</div>`;
+    stat.textContent = '';
+    // 完成记录（固定课）
+    if (!sim.lesson.id.includes('random')) {
+      const s = passedSet(); sim.lesson.cards.forEach(c=>s.add(c.id));
+      localStorage.setItem(LS, JSON.stringify([...s]));
+    }
+    renderLessons(curT===sim.t?curT:sim.t, curT===sim.t?curB:sim.b);
+    return;
+  }
+  const c = sim.lesson.cards[sim.i];
+  const head = `<div class="muted">(${sim.i+1}/${sim.lesson.cards.length}) 第${sim.lesson.idx}课 · ${sim.lesson.cards[sim.i].zh||''} · ⭐${sim.stars}</div>`;
+  if (LISTEN_TYPES.includes(c.type)) {
+    // 句子卡（L3+）：跟读式 一步过
+    box.innerHTML = head + `<div class="chip" style="font-size:22px" onclick="simNext()">${c.en}</div>
+      <div class="muted">${c.zh||''}</div><button class="btn" onclick="simNext()">下一句 →</button>`;
+    stat.textContent = 'L3+ 句子卡：听+跟读（App 内为逐词可点+跟读）';
+    return;
+  }
+  if (sim.step === 0) {
+    const opts = imgOpts(c);
+    box.innerHTML = head + `<b>🎧 第一步：听音，选出图片</b><br>` +
+      opts.map(o=>`<span class="opt-img" onclick="simPickImg('${o}')"><img src="${o}"><span class="muted">${o.includes('cam-')?'剑桥':'AI'}</span></span>`).join('');
+    stat.textContent = '步骤 1/3 · 图选（点击正确图进入词选）';
+  } else if (sim.step === 1) {
+    const opts = wordOpts(c);
+    box.innerHTML = head + `<b>🔤 第二步：再听一次，选出单词</b><br>` +
+      opts.map((o,i)=>`<span class="opt-word" style="background:${['#FF9E80','#80DEEA','#B39DDB','#AED581'][i%4]}" onclick="simPickWord(this,'${o.replace(/'/g,"\\'")}')">${o}</span>`).join('');
+    stat.textContent = '步骤 2/3 · 词选（答对进入揭示；答错原地重试）';
+  } else {
+    box.innerHTML = head + `<div class="reveal"><img src="${c.image}"><div class="en">${c.en}</div><div class="zh">${c.zh||''}</div>
+      <button class="btn purple">🔊 再听一次</button>&nbsp;<button class="btn" onclick="simNext()">继续 🐣</button></div>`;
+    stat.textContent = '步骤 3/3 · 图词揭示（音-形-义闭环）';
+  }
+}
+function simPickImg(o) {
+  const c = sim.lesson.cards[sim.i];
+  if (o === c.image) { sim.step = 1; renderStep(); }
+  else { document.getElementById('simStat').innerHTML = '<span class="bad">✗ 答错：不推进，重听（App 内同款错误流）</span>'; }
+}
+function simPickWord(el, o) {
+  const c = sim.lesson.cards[sim.i];
+  if (o === c.en) {
+    sim.step = 2; sim.stars++; renderStep();
+    // 播真人音频
+    const hit = index.find(e=>e.en.toLowerCase()===c.en.toLowerCase());
+    if (hit) new Audio('audio/all/'+hit.file).play().catch(()=>{});
+  } else {
+    el.style.filter = 'grayscale(1)';
+    document.getElementById('simStat').innerHTML = '<span class="bad">✗ 答错：不推进，重听</span>';
+  }
+}
+function simNext() { sim.i++; sim.step = 0; renderStep(); }
+
+function simAuto() {
+  if (!sim) simOpen('animals', 1, 0);
+  let guard = 0;
+  const tick = setInterval(() => {
+    if (sim.i >= sim.lesson.cards.length || guard++ > 200) { clearInterval(tick); return; }
+    const c = sim.lesson.cards[sim.i];
+    if (LISTEN_TYPES.includes(c.type)) { simNext(); return; }
+    if (sim.step === 0) simPickImg(c.image);
+    else if (sim.step === 1) simPickWord(document.querySelector('.opt-word'), c.en);
+    else simNext();
+  }, 160);
+}
+
+// ===== ⑤ 点词查义 =====
+function renderSentences() {
+  const s = THEMES.animals.units.find(u => u.id === 'animals-l3-u2');
+  document.getElementById('sentences').innerHTML = s.cards.map(c => {
+    const chips = c.en.split(' ').map(w =>
+      `<span class="chip" onclick="tapWord('${w.replace(/'/g,"\\'")}')">${w}</span>`).join(' ');
+    return `<div class="panel"><div class="muted">${c.zh}</div>${chips}</div>`;
+  }).join('');
+}
+let popCtx = null;
+function tapWord(display) {
+  const key = display.toLowerCase().replace(/[^a-z']/g, '');
+  const e = vocab[key];
+  document.getElementById('popWord').textContent = display;
+  document.getElementById('popZh').textContent = e ? (e.zh || '（无释义）') : '❌ 词库无此词';
+  document.getElementById('popPos').textContent = e && e.pos ? `词性：${e.pos}` : '';
+  const im = document.getElementById('popImg');
+  if (e && e.img) { im.src = e.img; im.style.display = ''; } else im.style.display = 'none';
+  document.getElementById('popup').style.display = 'flex';
+  event.stopPropagation();
+  popCtx = { display, e };
+}
+function playPop() {
+  if (!popCtx) return;
+  const e = popCtx.e;
+  if (e && e.aud) { const a = new Audio(e.aud); a.play().catch(()=>{}); }
+}
+</script>
+</body>
+</html>

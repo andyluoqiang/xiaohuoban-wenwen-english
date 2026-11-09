@@ -64,6 +64,13 @@ class MainActivity : AppCompatActivity() {
     private var curLevel = "l1"
     private var stage = 0            // 0=词卡批(选图) 1=句子批(跟读)；批量学习阶段切换
 
+    // ===== 课程制（2026-11-09）：每课 10 词 + 随机课 =====
+    private data class LessonDef(val id: String, val idx: Int, val title: String,
+                                  val cards: List<CardDef>, val cam: Boolean = false)
+    private var curLesson: LessonDef? = null
+    private var wordStep = 0         // 词卡双步：0=听音选图 1=听音选词 2=图词揭示
+    private var wordOptions: List<String> = emptyList()   // 词选步选项
+
     private val recorder = PcmRecorder()
     private val handler = Handler(Looper.getMainLooper())
     private var recButton: Button? = null
@@ -249,7 +256,7 @@ class MainActivity : AppCompatActivity() {
         // 弹性空隙：把「开始学习」推到页面底部，头重脚轻问题解决
         col.addView(View(this), LinearLayout.LayoutParams(mpBar(), 0, 1f))
 
-        val go = cartoonBtn("开始学习", "🚀", green(), Color.WHITE) { enterSession(themeId, levelKey) }
+        val go = cartoonBtn("开始学习", "🚀", green(), Color.WHITE) { showLessons(themeId, levelKey) }
         col.addView(go, lp(mpBar(), dp(60)).also { it.topMargin = dp(12) })
         sc.addView(col)
         setView(sc)
@@ -270,65 +277,108 @@ class MainActivity : AppCompatActivity() {
         return cell
     }
 
-    // =============== ④ 会话入口（词池×批次 + 复习掺卡） ===============
-    private companion object {
-        const val CHOICE_BATCH = 12     // 每批新词卡上限
+    // =============== ④ 课程树（每课 10 词 + 随机课） ===============
+    /** 该主题该档位的全部学习卡按 10 个一课分块；L1/L2=词/短语卡（选图+选词双步），L3+=句子卡（跟读）。
+     *  顺序保持数据顺序（由易到难）；剑桥新单元的课打 🎓 标（替代原 newFirst 提前的方案） */
+    private fun lessonsFor(themeId: String, band: Int): List<LessonDef> {
+        val units = app.content.themes[themeId]?.units?.filter { it.band == band } ?: emptyList()
+        data class UC(val card: CardDef, val isNew: Boolean)
+        val all = units.flatMap { u -> u.cards.map { UC(it, u.newFirst == true) } }
+            .filter { if (band <= 2) (it.card.type !in LISTEN_TYPES && it.card.image != null) else it.card.type in LISTEN_TYPES }
+        return all.chunked(10).mapIndexed { i, list ->
+            LessonDef("$themeId-l$band-lesson${i + 1}", i + 1, list.first().card.en,
+                list.map { it.card }, list.any { it.isNew })
+        }
     }
 
-    private fun enterSession(themeId: String, levelKey: String) {
+    /** 课程树页：所有课程随时可学（不做解锁门槛）+ 🎲 随机学习 */
+    private fun showLessons(themeId: String, levelKey: String) {
         curTheme = themeId
         curLevel = levelKey
-        backAction = { showDifficultyMap() }
         currentBand = if (levelKey == "l1") 1 else levelKey.substring(1).toIntOrNull() ?: 1
-        stage = 0
+        backAction = { showThemePicker(levelKey) }
         lifecycleScope.launch {
-            items = buildChoiceBatch()
-            idx = 0; stars = 0
-            if (items.isEmpty()) {
-                if (hasListenCards()) { stage = 1; items = buildListenBatch(); renderSession() }
-                else showDone()
-            } else renderSession()
+            val lessons = lessonsFor(themeId, currentBand)
+            val passed = app.db.attemptDao().passedCardIds(childId).toSet()
+            val sc = ScrollView(this@MainActivity).apply { setBackgroundColor(bg()) }
+            val col = vBox().apply { setPadding(dp(20), dp(18), dp(20), dp(64)) }
+            col.addView(topBar("课程 · ${THEME_META[themeId]?.nameZh ?: themeId}", left = { showThemePicker(levelKey) }))
+            col.addView(subTv("共 ${lessons.size} 课 · 每课 10 个内容 · 点开即学"))
+            // 随机学习入口
+            val random = cartoonBtn("🎲 随机学习 10 个", "🎲", 0xFFAB83BD.toInt(), Color.WHITE) { startRandom() }
+            col.addView(random, lp(mp(), wrapPx()).also { it.topMargin = dp(14) })
+            lessons.forEach { l ->
+                val done = l.cards.count { it.id in passed }
+                col.addView(lessonRow(l, done) { startLesson(l) },
+                    lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
+            }
+            sc.addView(col)
+            setView(sc)
         }
     }
 
-    /** 词卡批：该档位未学(首答未过)的词卡/短语卡，取一批 ≤CHOICE_BATCH，混插到期复习卡。
-     *  newFirst 单元（剑桥新内容）排最前：打开主题立刻见到新词 */
-    private suspend fun buildChoiceBatch(): List<SessionEngine.QueueItem> {
-        val units = app.content.themes[curTheme]?.units
-            ?.filter { it.band == currentBand }
-            ?.sortedWith(compareByDescending { it.newFirst == true })
-            ?: emptyList()
-        val choice = units.flatMap { it.cards }
-            .filter { it.type !in LISTEN_TYPES && it.image != null }
-        val passed = app.db.attemptDao().passedCardIds(childId).toSet()
-        val unpassed = choice.filter { it.id !in passed }
-        val batch = unpassed.take(CHOICE_BATCH)
+    /** 课程行：📖 第N课 · 标题（首词）· 已学 x/10 */
+    private fun lessonRow(l: LessonDef, done: Int, onClick: () -> Unit) = LinearLayout(this).apply {
+        orientation = LinearLayout.HORIZONTAL; gravity = Gravity.CENTER_VERTICAL
+        setPadding(dp(16), dp(14), dp(16), dp(14))
+        background = rounded(0xFFFFF3E0.toInt(), dp(20))
+        setOnClickListener { onClick() }
+        addView(textTv("📖", 30f, brown()), LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.rightMargin = dp(12) })
+        val r = LinearLayout(this@MainActivity).apply { orientation = LinearLayout.VERTICAL }
+        val title = textTv(if (l.idx > 0) "第 ${l.idx} 课" else "随机课", 18f, brown())
+        r.addView(title)
+        // 剑桥新单元的课：🎓 徽章标识（家长一眼找到新内容）
+        if (l.cam) {
+            val badge = TextView(this@MainActivity).apply {
+                text = "🎓 剑桥新内容"; textSize = 11f; setTextColor(0xFFE65100.toInt())
+                setPadding(dp(8), dp(2), dp(8), dp(2))
+                background = rounded(0xFFFFE0B2.toInt(), dp(10))
+            }
+            (title.layoutParams as? LinearLayout.LayoutParams)?.topMargin = 0
+            r.addView(badge, LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.topMargin = dp(4) })
+        }
+        r.addView(textTv("${l.title} … 共 ${l.cards.size} 个", 13f, hintColor()))
+        addView(r, LinearLayout.LayoutParams(0, wrapPx()).apply { weight = 1f })
+        addView(textTv("$done/${l.cards.size}", 15f, if (done >= l.cards.size) green() else hintColor()),
+            LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.rightMargin = dp(8) })
+        addView(textTv(if (done >= l.cards.size) "✓" else "›", 22f, if (done >= l.cards.size) green() else brown()))
+    }
+
+    private fun startLesson(l: LessonDef) { curLesson = l; startSession(l.cards) }
+
+    /** 随机课：主题档位全部学习卡随机抽 10 个 */
+    private fun startRandom() {
+        val all = lessonsFor(curTheme, currentBand).flatMap { it.cards }
+        if (all.isEmpty()) return
+        val cards = all.shuffled().take(10)
+        curLesson = LessonDef("${curTheme}-l$currentBand-random", 0, "随机课", cards)
+        startSession(cards)
+    }
+
+    /** 会话启动：词卡带图选项（图选步）；句子卡走跟读 */
+    private fun startSession(cards: List<CardDef>) {
+        backAction = { showDifficultyMap() }
+        stage = if (currentBand <= 2) 0 else 1
         val pool = app.content.imagePool(curTheme)
         val want = if (currentBand <= 1) 2 else 4
-        val reviews = app.reviewEngine.dueForInterleave(childId, currentBand, batch.size)
-            .mapNotNull { app.content.card(it.cardId) }
-        val out = mutableListOf<SessionEngine.QueueItem>()
-        var r = 0
-        batch.forEachIndexed { i, c ->
-            out += SessionEngine.QueueItem(c, false, buildOpts(c, pool, want))
-            if ((i + 1) % 3 == 0 && r < reviews.size)
-                out += SessionEngine.QueueItem(reviews[r++], true, buildOpts(reviews[r - 1], pool, want))
-        }
-        return out
+        items = cards.map { c ->
+            val opts = if (c.type in LISTEN_TYPES) emptyList() else buildOpts(c, pool, want)
+            SessionEngine.QueueItem(c, false, opts)
+        }.filter { it.optionsShuffled.isNotEmpty() || it.card.type in LISTEN_TYPES }
+        idx = 0; stars = 0; wordStep = 0
+        renderSession()
     }
 
-    /** 句子批次：该档位全部听读卡（每档一次完整听读轮） */
-    private suspend fun buildListenBatch(): List<SessionEngine.QueueItem> {
-        val prefix = "$curTheme-l$currentBand-"
-        return app.content.unitCards.filterKeys { it.startsWith(prefix) }.values.flatten()
-            .filter { it.type in LISTEN_TYPES }
-            .map { SessionEngine.QueueItem(it, false, emptyList()) }
-    }
-
-    private suspend fun hasListenCards(): Boolean {
-        val prefix = "$curTheme-l$currentBand-"
-        return app.content.unitCards.filterKeys { it.startsWith(prefix) }.values.flatten()
-            .any { it.type in LISTEN_TYPES }
+    /** 词选步选项：正确词 + 同主题干扰词（L1 二选一，L2 四选一） */
+    private fun buildWordOptions(card: CardDef): List<String> {
+        val want = if (currentBand <= 1) 2 else 4
+        val pool = app.content.themes[curTheme]?.units
+            ?.filter { it.band == currentBand }
+            ?.flatMap { it.cards }
+            ?.filter { it.type !in LISTEN_TYPES }
+            ?.map { it.en } ?: emptyList()
+        val others = pool.filter { !it.equals(card.en, ignoreCase = true) }.shuffled().take(want - 1)
+        return (listOf(card.en) + others).shuffled()
     }
 
     private fun buildOpts(c: CardDef, pool: List<String>, want: Int): List<String> {
@@ -343,9 +393,16 @@ class MainActivity : AppCompatActivity() {
 
     // =============== 会话渲染 ===============
     private fun renderSession() {
+        wordStep = 0          // 新卡：从图选步开始
+        attempt = 0
+        renderCurrent()
+    }
+
+    /** 当前卡渲染（wordStep 切换时调用，不重置步态） */
+    private fun renderCurrent() {
         val cur = items.getOrNull(idx)
         if (cur == null) { onBatchEnd(); return }
-        attempt = 0; busy = false
+        busy = false
         val root = vBox().apply { setBackgroundColor(bg()) }
         root.addView(sessionTop(cur))
         if (cur.optionsShuffled.isEmpty()) {
@@ -354,13 +411,98 @@ class MainActivity : AppCompatActivity() {
             sc.addView(listenCard(cur))
             root.addView(sc, lp(mpBar(), 0).also { it.weight = 1f })
             root.addView(listenBottom())
-        } else {
-            root.addView(optionGrid(cur), lp(mpBar(), 0).also { it.weight = 1f })
-            root.addView(choiceBottom())
+        } else when (wordStep) {
+            1 -> {   // 听音选词步
+                root.addView(wordGrid(cur), lp(mpBar(), 0).also { it.weight = 1f })
+                root.addView(choiceBottom())
+            }
+            2 -> {   // 图词揭示页
+                val sc = ScrollView(this).apply { setBackgroundColor(bg()); isFillViewport = true }
+                sc.addView(revealView(cur))
+                root.addView(sc, lp(mpBar(), 0).also { it.weight = 1f })
+                root.addView(revealBottom())
+            }
+            else -> { // 听音选图步
+                root.addView(optionGrid(cur), lp(mpBar(), 0).also { it.weight = 1f })
+                root.addView(choiceBottom())
+            }
         }
         setView(root)
         animateIn(root.getChildAt(1))
         handler.postDelayed({ playCurrent() }, 400)
+    }
+
+    /** 听音选词步：大单词按钮（卡通胶囊，自适应高度防裁字） */
+    private fun wordGrid(cur: SessionEngine.QueueItem): LinearLayout {
+        val box = vBox().apply { setPadding(dp(12), dp(16), dp(12), dp(8)); gravity = Gravity.CENTER }
+        box.addView(textTv("🎧 听一听，选出这个单词", 17f, brown()).also { it.gravity = Gravity.CENTER })
+        wordOptions.forEachIndexed { i, w ->
+            val btn = cartoonBtn(w, "🔤", pastel[i % 4], Color.WHITE) { }
+            btn.setOnClickListener { onWordChoice(btn, w) }
+            btn.textSize = 26f
+            box.addView(btn, lp(mpBar(), wrapPx()).also { it.topMargin = dp(10) })
+        }
+        return box
+    }
+
+    /** 词选判定：对→记星+图词揭示；错→与图选错误流一致（不推进） */
+    private fun onWordChoice(cell: View, picked: String) {
+        val cur = items[idx]
+        if (busy) return
+        busy = true
+        lifecycleScope.launch {
+            val correct = picked.equals(cur.card.en, ignoreCase = true)
+            if (correct) {
+                val r = app.sessionEngine.judge(childId, cur, cur.card.image ?: "", 1)
+                stars += r.stars
+                SoundFx.correct()
+                hint(if (r.stars > 0) "太棒了！+${r.stars}★" else "不错哦～")
+                wordStep = 2
+                renderCurrent()
+            } else {
+                val r = app.sessionEngine.judge(childId, cur, picked, ++attempt)
+                if (r.teachMode) {
+                    hint("听仔细，再对它才过关哦～")
+                    SoundFx.wrong()
+                    wiggle(cell)
+                    playCurrent()
+                    handler.postDelayed({ playCurrent() }, 1200)
+                    handler.postDelayed({ busy = false }, 500)
+                } else {
+                    hint("再试一次，选对才能过关哦～")
+                    SoundFx.wrong()
+                    wiggle(cell)
+                    playCurrent()
+                    handler.postDelayed({ busy = false }, 500)
+                }
+            }
+        }
+    }
+
+    /** 图词揭示页：大图 + 单词 + 中文 + 点词查义 + 再听按钮 */
+    private fun revealView(cur: SessionEngine.QueueItem): LinearLayout {
+        val c = cur.card
+        val card = vBox().apply { gravity = Gravity.CENTER; setPadding(dp(16), dp(16), dp(16), dp(8)) }
+        val imgPath = c.image?.takeIf { it.startsWith("img/") }
+        if (imgPath != null) {
+            val iv = ImageView(this).apply { scaleType = ImageView.ScaleType.FIT_CENTER; setPadding(dp(4), dp(4), dp(4), dp(4)) }
+            setupImage("content/v1/$imgPath", iv)
+            card.addView(iv, LinearLayout.LayoutParams(mpBar(), dp(220)))
+        }
+        card.addView(textTv(c.en, 36f, brown()).also { it.gravity = Gravity.CENTER })
+        card.addView(textTv(c.zh ?: "", 18f, hintColor()).also { it.gravity = Gravity.CENTER },
+            lp(mp()).also { it.topMargin = dp(4) })
+        val relisten = cartoonBtn("🔊 再听一次", "🔊", 0xFF4FA3D1.toInt(), Color.WHITE) { playCurrent() }
+        card.addView(relisten, lp(wrapPx()).also { it.topMargin = dp(14) })
+        return card
+    }
+
+    /** 揭示页底部：继续按钮（推进下一卡） */
+    private fun revealBottom(): LinearLayout {
+        val b = vV().apply { gravity = Gravity.CENTER_HORIZONTAL; setPadding(dp(16), dp(6), dp(16), dp(20)) }
+        val next = cartoonBtn("继续", "🐣", green(), Color.WHITE) { idx++; renderSession() }
+        b.addView(next, lp(mpBar(), wrapPx()))
+        return b
     }
 
     private fun sessionTop(cur: SessionEngine.QueueItem): LinearLayout {
@@ -482,35 +624,8 @@ class MainActivity : AppCompatActivity() {
         return b
     }
 
-    // =============== 批次结束：词卡批完→提示继续下一批；句子批完→完成 ===============
-    private fun onBatchEnd() {
-        if (stage != 0) { showDone(); return }
-        lifecycleScope.launch {
-            val passed = app.db.attemptDao().passedCardIds(childId).toSet()
-            val prefix = "$curTheme-l$currentBand-"
-            val pending = app.content.unitCards.filterKeys { it.startsWith(prefix) }.values.flatten()
-                .filter { it.type !in LISTEN_TYPES && it.image != null && it.id !in passed }.size
-            if (pending > 0) showBatchDone(pending)
-            else if (hasListenCards()) { stage = 1; items = buildListenBatch(); idx = 0; renderSession() }
-            else showDone()
-        }
-    }
-
-    private fun showBatchDone(pending: Int) {
-        val root = vBox().apply {
-            gravity = Gravity.CENTER; setBackgroundColor(bg()); setPadding(dp(24), dp(24), dp(24), dp(64))
-        }
-        root.addView(textTv("🎉 这一批学完啦！", 24f, brown()).also { it.gravity = Gravity.CENTER })
-        root.addView(textTv("还有 $pending 张新卡等着你～", 16f, hintColor()).also { it.gravity = Gravity.CENTER },
-            lp(mp()).also { it.topMargin = dp(12) })
-        val row = hbox()
-        val more = cartoonBtn("继续学下一批", "🐣", green(), Color.WHITE) { enterSession(curTheme, curLevel) }
-        row.addView(more, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.rightMargin = dp(8) })
-        val done = cartoonBtn("完成", "🎉", yellow(), brown()) { showDone() }
-        row.addView(done, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.leftMargin = dp(8) })
-        root.addView(row, lp(mp()).also { it.topMargin = dp(24) })
-        setView(root)
-    }
+    // =============== 批次/课程结束：直接庆祝完成 ===============
+    private fun onBatchEnd() { showDone() }
 
     // =============== 点词查义：句子/对话卡的单词可点击，弹卡看释义+发音 ===============
     private fun buildTapText(s: String): SpannableStringBuilder {
@@ -586,14 +701,12 @@ class MainActivity : AppCompatActivity() {
             val r = app.sessionEngine.judge(childId, cur, picked, ++attempt)
             when {
                 r.correct -> {
-                    stars += r.stars
-                    hint(if (r.stars > 0) "太棒了！+${r.stars}★" else "不错哦～")
-                    if (r.stars > 0) SoundFx.correct() else SoundFx.soft()
+                    // 图选步答对：进入「听音选词」步（星星在词选步记）
+                    SoundFx.soft()
                     cheer(cell)
-                    showWordOnCell(cell, cur.card.en)
-                    playCurrent()
-                    // 答对后不自动跳下一题：出现「继续」按钮，点击才推进（busy 保持 true 锁住选项）
-                    nextBtn?.visibility = View.VISIBLE
+                    wordOptions = buildWordOptions(cur.card)
+                    wordStep = 1
+                    renderCurrent()
                 }
                 r.teachMode -> {
                     // 连错2次：示范态，播正确读音帮助小朋友，但【不推进】，必须答对才过关
@@ -720,19 +833,24 @@ class MainActivity : AppCompatActivity() {
         row.addView(continueBtn, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.rightMargin = dp(8) })
         val doneBtn = cartoonBtn("完成", "🎉", yellow(), brown()) {
             completedThemes.add(curTheme)
-            showThemePicker(curLevel)
+            showLessons(curTheme, curLevel)
         }
         row.addView(doneBtn, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.leftMargin = dp(8) })
         root.addView(row, lp(mp()).also { it.topMargin = dp(24) })
         setView(root)
     }
 
-    /** 继续：当前 level 层级进入下一个主题 */
+    /** 继续：优先进入本主题下一课；课程学完则进入下一主题 */
     private fun continueNextTheme() {
-        val themeOrder = app.content.themes.keys.toList()
-        val idxNow = themeOrder.indexOf(curTheme)
-        val next = if (idxNow >= 0 && idxNow < themeOrder.size - 1) themeOrder[idxNow + 1] else themeOrder.firstOrNull() ?: "body"
-        showWarm(next, curLevel)
+        val lessons = lessonsFor(curTheme, currentBand)
+        val next = lessons.getOrNull(curLesson?.idx ?: 0)   // idx 从 1 起：下一课正好是 lessons[idx]
+        if (next != null) startLesson(next)
+        else {
+            val themeOrder = app.content.themes.keys.toList()
+            val idxNow = themeOrder.indexOf(curTheme)
+            val nt = if (idxNow >= 0 && idxNow < themeOrder.size - 1) themeOrder[idxNow + 1] else themeOrder.firstOrNull() ?: "body"
+            showWarm(nt, curLevel)
+        }
     }
 
     // =============== 播放 ===============
