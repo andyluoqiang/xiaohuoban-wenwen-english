@@ -36,10 +36,10 @@ android {
     kotlinOptions { jvmTarget = '1.8' }
     buildFeatures { viewBinding true }
 
-    // APK 产物命名：稳稳学英语.apk（不再用默认 app-debug.apk）
+    // APK 产物命名：稳稳学英语_<版本号>.apk（如 稳稳学英语_0.2.10.apk，版本一目了然）
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "稳稳学英语.apk"
+            outputFileName = "稳稳学英语_${variant.versionName}.apk"
         }
     }
 }
