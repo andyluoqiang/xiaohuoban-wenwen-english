@@ -190,7 +190,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.9 · 29主题"
+            text = "v0.2.10 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
@@ -534,7 +534,7 @@ class MainActivity : AppCompatActivity() {
         val replay = cartoonBtn("再听一次", "🔊", yellow(), brown()) { playCurrent() }
         b.addView(replay, lp(mpBar(), wrapPx()).also { it.topMargin = dp(6) })
         // 答对后才出现「继续」按钮（INVISIBLE 保持占位不跳动）：图轮完→乱序词轮；词轮完→完成
-        nextBtn = cartoonBtn("继续", "🐣", green(), Color.WHITE) {
+        nextBtn = cartoonBtnIcon("继续", R.drawable.ic_arrow_right, green(), Color.WHITE) {
             nextBtn?.visibility = View.INVISIBLE
             advanceCard()
         }.apply { visibility = View.INVISIBLE }
@@ -840,7 +840,7 @@ class MainActivity : AppCompatActivity() {
 
         // 继续 / 完成
         val row = hbox()
-        val continueBtn = cartoonBtn("继续", "🐣", green(), Color.WHITE) { continueNextTheme() }
+        val continueBtn = cartoonBtnIcon("继续", R.drawable.ic_arrow_right, green(), Color.WHITE) { continueNextTheme() }
         row.addView(continueBtn, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.rightMargin = dp(8) })
         val doneBtn = cartoonBtn("完成", "🎉", yellow(), brown()) {
             completedThemes.add(curTheme)
