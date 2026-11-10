@@ -206,12 +206,14 @@ class MainActivity : AppCompatActivity() {
     private fun showThemePicker(levelKey: String) {
         backAction = { showDifficultyMap() }
         val lv = LEVELS.find { it.key == levelKey }
+        val band = if (levelKey == "all") null else (levelKey.substring(1).toIntOrNull() ?: 1)
         val sc = ScrollView(this).apply { setBackgroundColor(bg()) }
         val col = vBox().apply { setPadding(dp(20), dp(18), dp(20), dp(64)) }
         col.addView(topBar("难度 · ${lv?.short ?: "全部连练"}", left = { showDifficultyMap() }))
         app.content.themes.forEach { (tid, tc) ->
             val meta = THEME_META[tid] ?: ThemeMeta("📖", tc.nameZh)
-            val cards = tc.units.sumOf { it.cards.size }
+            // 卡片数跟随当前档位：仅统计该档位可学单元（无则 0）；「全部」统计全量
+            val cards = tc.units.filter { band == null || it.band == band }.sumOf { it.cards.size }
             col.addView(themeRow(meta.emoji, meta.nameZh, "共 $cards 张卡", completedThemes.contains(tid), onClick = { showLessons(tid, levelKey) }),
                 lp(mp()).also { it.topMargin = dp(12) })
         }
@@ -535,10 +537,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun listenBottom(): LinearLayout {
         val b = vV().apply { gravity = Gravity.CENTER_HORIZONTAL; setPadding(dp(16), dp(6), dp(16), dp(20)) }
+        // 「再听一遍」：重复播放模型例句（随时可点，不受评分门槛影响），方便先听再跟读
+        val replay = cartoonBtn("再听一遍", "🔊", yellow(), brown()) { playCurrent() }
+        b.addView(replay, lp(mpBar(), wrapPx()).also { it.topMargin = dp(6) })
         // 「下一句」：跟读评分 ≥60 才显示（INVISIBLE 保持占位不跳动）
         listenNext = cartoonBtn("下一句", "🐣", green(), Color.WHITE) { stopRec(); idx++; renderSession() }
             .apply { visibility = View.INVISIBLE }
-        b.addView(listenNext!!, lp(mpBar(), wrapPx()))
+        b.addView(listenNext!!, lp(mpBar(), wrapPx()).also { it.topMargin = dp(8) })
         return b
     }
 
