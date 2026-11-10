@@ -40,8 +40,8 @@
      "id": "fl_nature-l1-u1-c4",
      "type": "word",
      "en": "Ocean",
-     "audio": "audio/all/1623_ocean.mp3",
-     "slow": "audio/all/1623_ocean.mp3",
+     "audio": "audio/all/2123_ocean.mp3",
+     "slow": "audio/all/2123_ocean.mp3",
      "image": "img/ai-ocean.jpg",
      "zh": "海洋"
     },
@@ -147,8 +147,8 @@
      "id": "fl_nature-l1-u2-c5",
      "type": "word",
      "en": "West",
-     "audio": "audio/all/1802_west.mp3",
-     "slow": "audio/all/1802_west.mp3",
+     "audio": "audio/all/2302_west.mp3",
+     "slow": "audio/all/2302_west.mp3",
      "image": "img/cam-west.jpg",
      "zh": "西"
     },
@@ -156,8 +156,8 @@
      "id": "fl_nature-l1-u2-c6",
      "type": "word",
      "en": "North",
-     "audio": "audio/all/1620_north.mp3",
-     "slow": "audio/all/1620_north.mp3",
+     "audio": "audio/all/2120_north.mp3",
+     "slow": "audio/all/2120_north.mp3",
      "image": "img/cam-north.jpg",
      "zh": "北"
     },
@@ -165,8 +165,8 @@
      "id": "fl_nature-l1-u2-c7",
      "type": "word",
      "en": "South",
-     "audio": "audio/all/1722_south.mp3",
-     "slow": "audio/all/1722_south.mp3",
+     "audio": "audio/all/2222_south.mp3",
+     "slow": "audio/all/2222_south.mp3",
      "image": "img/cam-south.jpg",
      "zh": "南"
     }

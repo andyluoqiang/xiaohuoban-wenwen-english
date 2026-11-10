@@ -58,8 +58,8 @@
      "id": "fl_food-l1-u1-c6",
      "type": "word",
      "en": "Pizza",
-     "audio": "audio/all/1645_pizza.mp3",
-     "slow": "audio/all/1645_pizza.mp3",
+     "audio": "audio/all/2145_pizza.mp3",
+     "slow": "audio/all/2145_pizza.mp3",
      "image": "img/cam-pizza.jpg",
      "zh": "披萨"
     },
@@ -111,8 +111,8 @@
      "id": "fl_food-l1-u2-c3",
      "type": "word",
      "en": "Spoon",
-     "audio": "audio/all/1728_spoon.mp3",
-     "slow": "audio/all/1728_spoon.mp3",
+     "audio": "audio/all/2228_spoon.mp3",
+     "slow": "audio/all/2228_spoon.mp3",
      "image": "img/cam-spoon.jpg",
      "zh": "勺子"
     },

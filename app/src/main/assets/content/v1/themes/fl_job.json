@@ -40,8 +40,8 @@
      "id": "fl_job-l1-u1-c4",
      "type": "word",
      "en": "Waiter",
-     "audio": "audio/all/1799_waiter.mp3",
-     "slow": "audio/all/1799_waiter.mp3",
+     "audio": "audio/all/2299_waiter.mp3",
+     "slow": "audio/all/2299_waiter.mp3",
      "image": "img/cam-waiter.jpg",
      "zh": "服务员"
     },
@@ -75,8 +75,8 @@
      "id": "fl_job-l1-u2-c1",
      "type": "word",
      "en": "Singer",
-     "audio": "audio/all/1706_singer.mp3",
-     "slow": "audio/all/1706_singer.mp3",
+     "audio": "audio/all/2206_singer.mp3",
+     "slow": "audio/all/2206_singer.mp3",
      "image": "img/cam-singer.jpg",
      "zh": "歌手"
     },
@@ -84,8 +84,8 @@
      "id": "fl_job-l1-u2-c2",
      "type": "word",
      "en": "Pilot",
-     "audio": "audio/all/1644_pilot.mp3",
-     "slow": "audio/all/1644_pilot.mp3",
+     "audio": "audio/all/2144_pilot.mp3",
+     "slow": "audio/all/2144_pilot.mp3",
      "image": "img/ai-pilot.jpg",
      "zh": "飞行员"
     },
@@ -102,8 +102,8 @@
      "id": "fl_job-l1-u2-c4",
      "type": "word",
      "en": "Photographer",
-     "audio": "audio/all/1642_photographer.mp3",
-     "slow": "audio/all/1642_photographer.mp3",
+     "audio": "audio/all/2142_photographer.mp3",
+     "slow": "audio/all/2142_photographer.mp3",
      "image": "img/ai-photographer.jpg",
      "zh": "摄影师"
     },

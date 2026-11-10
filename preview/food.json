@@ -1,694 +1,694 @@
 {
-  "theme": "food",
-  "nameZh": "食物与饮品",
-  "order": 2,
-  "units": [
+ "theme": "food",
+ "nameZh": "食物与饮品",
+ "order": 2,
+ "units": [
+  {
+   "id": "food-l1-u0",
+   "band": 1,
+   "title": "More!",
+   "cards": [
     {
-      "id": "food-l1-u0",
-      "band": 1,
-      "title": "More!",
-      "cards": [
-        {
-          "id": "food-l1-u0-c1",
-          "type": "chant",
-          "en": "Apple, apple, yum yum yum! Banana, banana, in my tum-tum-tum!",
-          "audio": "audio/all/100_apple-apple-yum-yum-yum-banana-banana-in.mp3",
-          "slow": "audio/all/100_apple-apple-yum-yum-yum-banana-banana-in.mp3",
-          "image": null,
-          "zh": "主题儿歌"
-        },
-        {
-          "id": "food-l1-u0-c2",
-          "type": "func",
-          "en": "More!",
-          "audio": "audio/all/101_more.mp3",
-          "slow": "audio/all/101_more.mp3",
-          "image": null,
-          "zh": "还要"
-        },
-        {
-          "id": "food-l1-u0-c3",
-          "type": "func",
-          "en": "All done",
-          "audio": "audio/all/102_all-done.mp3",
-          "slow": "audio/all/102_all-done.mp3",
-          "image": null,
-          "zh": "吃完了"
-        },
-        {
-          "id": "food-l1-u0-c4",
-          "type": "func",
-          "en": "Please",
-          "audio": "audio/all/103_please.mp3",
-          "slow": "audio/all/103_please.mp3",
-          "image": null,
-          "zh": "请"
-        },
-        {
-          "id": "food-l1-u0-c5",
-          "type": "func",
-          "en": "Yum yum",
-          "audio": "audio/all/104_yum-yum.mp3",
-          "slow": "audio/all/104_yum-yum.mp3",
-          "image": null,
-          "zh": "好吃"
-        }
-      ]
+     "id": "food-l1-u0-c1",
+     "type": "chant",
+     "en": "Apple, apple, yum yum yum! Banana, banana, in my tum-tum-tum!",
+     "audio": "audio/all/100_apple-apple-yum-yum-yum-banana-banana-in.mp3",
+     "slow": "audio/all/100_apple-apple-yum-yum-yum-banana-banana-in.mp3",
+     "image": null,
+     "zh": "主题儿歌"
     },
     {
-      "id": "food-l1-u1",
-      "band": 1,
-      "title": "Apple",
-      "cards": [
-        {
-          "id": "food-l1-u1-c1",
-          "type": "word",
-          "en": "Apple",
-          "audio": "audio/all/105_apple.mp3",
-          "slow": "audio/all/105_apple.mp3",
-          "image": "img/apple.jpg",
-          "zh": "苹果"
-        },
-        {
-          "id": "food-l1-u1-c2",
-          "type": "word",
-          "en": "Banana",
-          "audio": "audio/all/106_banana.mp3",
-          "slow": "audio/all/106_banana.mp3",
-          "image": "img/banana.jpg",
-          "zh": "香蕉"
-        },
-        {
-          "id": "food-l1-u1-c3",
-          "type": "word",
-          "en": "Egg",
-          "audio": "audio/all/107_egg.mp3",
-          "slow": "audio/all/107_egg.mp3",
-          "image": "img/egg.jpg",
-          "zh": "鸡蛋"
-        },
-        {
-          "id": "food-l1-u1-c4",
-          "type": "word",
-          "en": "Milk",
-          "audio": "audio/all/108_milk.mp3",
-          "slow": "audio/all/108_milk.mp3",
-          "image": "img/milk.jpg",
-          "zh": "牛奶"
-        },
-        {
-          "id": "food-l1-u1-c5",
-          "type": "word",
-          "en": "Rice",
-          "audio": "audio/all/109_rice.mp3",
-          "slow": "audio/all/109_rice.mp3",
-          "image": "img/rice.jpg",
-          "zh": "米饭"
-        },
-        {
-          "id": "food-l1-u1-c6",
-          "type": "word",
-          "en": "Bread",
-          "audio": "audio/all/110_bread.mp3",
-          "slow": "audio/all/110_bread.mp3",
-          "image": "img/bread.jpg",
-          "zh": "面包"
-        }
-      ]
+     "id": "food-l1-u0-c2",
+     "type": "func",
+     "en": "More!",
+     "audio": "audio/all/101_more.mp3",
+     "slow": "audio/all/101_more.mp3",
+     "image": null,
+     "zh": "还要"
     },
     {
-      "id": "food-l1-u2",
-      "band": 1,
-      "title": "Cake",
-      "cards": [
-        {
-          "id": "food-l1-u2-c1",
-          "type": "word",
-          "en": "Cake",
-          "audio": "audio/all/111_cake.mp3",
-          "slow": "audio/all/111_cake.mp3",
-          "image": "img/cake.jpg",
-          "zh": "蛋糕"
-        },
-        {
-          "id": "food-l1-u2-c2",
-          "type": "word",
-          "en": "Water",
-          "audio": "audio/all/112_water.mp3",
-          "slow": "audio/all/112_water.mp3",
-          "image": "img/water.jpg",
-          "zh": "水"
-        },
-        {
-          "id": "food-l1-u2-c3",
-          "type": "word",
-          "en": "Fish",
-          "audio": "audio/all/113_fish.mp3",
-          "slow": "audio/all/113_fish.mp3",
-          "image": "img/fish.jpg",
-          "zh": "鱼"
-        },
-        {
-          "id": "food-l1-u2-c4",
-          "type": "word",
-          "en": "Chicken",
-          "audio": "audio/all/114_chicken.mp3",
-          "slow": "audio/all/114_chicken.mp3",
-          "image": "img/chicken.jpg",
-          "zh": "鸡肉"
-        },
-        {
-          "id": "food-l1-u2-c5",
-          "type": "word",
-          "en": "Orange",
-          "audio": "audio/all/115_orange.mp3",
-          "slow": "audio/all/115_orange.mp3",
-          "image": "img/orange.jpg",
-          "zh": "橙子"
-        },
-        {
-          "id": "food-l1-u2-c6",
-          "type": "word",
-          "en": "Grape",
-          "audio": "audio/all/116_grape.mp3",
-          "slow": "audio/all/116_grape.mp3",
-          "image": "img/grape.jpg",
-          "zh": "葡萄"
-        }
-      ]
+     "id": "food-l1-u0-c3",
+     "type": "func",
+     "en": "All done",
+     "audio": "audio/all/102_all-done.mp3",
+     "slow": "audio/all/102_all-done.mp3",
+     "image": null,
+     "zh": "吃完了"
     },
     {
-      "id": "food-l2-u1",
-      "band": 2,
-      "title": "Noodles",
-      "cards": [
-        {
-          "id": "food-l2-u1-c1",
-          "type": "word",
-          "en": "Noodles",
-          "audio": "audio/all/117_noodles.mp3",
-          "slow": "audio/all/117_noodles.mp3",
-          "image": "img/noodles.jpg",
-          "zh": "面条"
-        },
-        {
-          "id": "food-l2-u1-c2",
-          "type": "word",
-          "en": "Juice",
-          "audio": "audio/all/118_juice.mp3",
-          "slow": "audio/all/118_juice.mp3",
-          "image": "img/juice.jpg",
-          "zh": "果汁"
-        },
-        {
-          "id": "food-l2-u1-c3",
-          "type": "word",
-          "en": "Soup",
-          "audio": "audio/all/119_soup.mp3",
-          "slow": "audio/all/119_soup.mp3",
-          "image": "img/soup.jpg",
-          "zh": "汤"
-        },
-        {
-          "id": "food-l2-u1-c4",
-          "type": "word",
-          "en": "Cookie",
-          "audio": "audio/all/120_cookie.mp3",
-          "slow": "audio/all/120_cookie.mp3",
-          "image": "img/cookie.jpg",
-          "zh": "饼干"
-        },
-        {
-          "id": "food-l2-u1-c5",
-          "type": "word",
-          "en": "Pear",
-          "audio": "audio/all/121_pear.mp3",
-          "slow": "audio/all/121_pear.mp3",
-          "image": "img/pear.jpg",
-          "zh": "梨"
-        },
-        {
-          "id": "food-l2-u1-c6",
-          "type": "word",
-          "en": "Peach",
-          "audio": "audio/all/122_peach.mp3",
-          "slow": "audio/all/122_peach.mp3",
-          "image": "img/peach.jpg",
-          "zh": "桃子"
-        },
-        {
-          "id": "food-l2-u1-c7",
-          "type": "word",
-          "en": "Corn",
-          "audio": "audio/all/123_corn.mp3",
-          "slow": "audio/all/123_corn.mp3",
-          "image": "img/corn.jpg",
-          "zh": "玉米"
-        },
-        {
-          "id": "food-l2-u1-c8",
-          "type": "word",
-          "en": "Ice cream",
-          "audio": "audio/all/124_ice-cream.mp3",
-          "slow": "audio/all/124_ice-cream.mp3",
-          "image": "img/ice-cream.jpg",
-          "zh": "冰淇淋"
-        }
-      ]
+     "id": "food-l1-u0-c4",
+     "type": "func",
+     "en": "Please",
+     "audio": "audio/all/103_please.mp3",
+     "slow": "audio/all/103_please.mp3",
+     "image": null,
+     "zh": "请"
     },
     {
-      "id": "food-l2-u2",
-      "band": 2,
-      "title": "Yogurt",
-      "cards": [
-        {
-          "id": "food-l2-u2-c1",
-          "type": "word",
-          "en": "Yogurt",
-          "audio": "audio/all/125_yogurt.mp3",
-          "slow": "audio/all/125_yogurt.mp3",
-          "image": "img/yogurt.jpg",
-          "zh": "酸奶"
-        },
-        {
-          "id": "food-l2-u2-c2",
-          "type": "word",
-          "en": "Dumplings",
-          "audio": "audio/all/126_dumplings.mp3",
-          "slow": "audio/all/126_dumplings.mp3",
-          "image": "img/dumplings.jpg",
-          "zh": "饺子"
-        },
-        {
-          "id": "food-l2-u2-c3",
-          "type": "word",
-          "en": "Hungry",
-          "audio": "audio/all/127_hungry.mp3",
-          "slow": "audio/all/127_hungry.mp3",
-          "image": null,
-          "zh": "饿"
-        },
-        {
-          "id": "food-l2-u2-c4",
-          "type": "word",
-          "en": "Thirsty",
-          "audio": "audio/all/128_thirsty.mp3",
-          "slow": "audio/all/128_thirsty.mp3",
-          "image": null,
-          "zh": "渴"
-        },
-        {
-          "id": "food-l2-u2-c5",
-          "type": "word",
-          "en": "Sweet",
-          "audio": "audio/all/129_sweet.mp3",
-          "slow": "audio/all/129_sweet.mp3",
-          "image": null,
-          "zh": "甜"
-        },
-        {
-          "id": "food-l2-u2-c6",
-          "type": "word",
-          "en": "Yummy",
-          "audio": "audio/all/130_yummy.mp3",
-          "slow": "audio/all/130_yummy.mp3",
-          "image": null,
-          "zh": "好吃"
-        },
-        {
-          "id": "food-l2-u2-c7",
-          "type": "word",
-          "en": "Eat",
-          "audio": "audio/all/131_eat.mp3",
-          "slow": "audio/all/131_eat.mp3",
-          "image": null,
-          "zh": "吃"
-        },
-        {
-          "id": "food-l2-u2-c8",
-          "type": "word",
-          "en": "Drink",
-          "audio": "audio/all/132_drink.mp3",
-          "slow": "audio/all/132_drink.mp3",
-          "image": null,
-          "zh": "喝"
-        }
-      ]
-    },
-    {
-      "id": "food-l2-u3",
-      "band": 2,
-      "title": "One apple",
-      "cards": [
-        {
-          "id": "food-l2-u3-c1",
-          "type": "phrase",
-          "en": "One apple",
-          "audio": "audio/all/133_one-apple.mp3",
-          "slow": "audio/all/133_one-apple.mp3",
-          "image": null,
-          "zh": "一个苹果"
-        },
-        {
-          "id": "food-l2-u3-c2",
-          "type": "phrase",
-          "en": "Two eggs",
-          "audio": "audio/all/134_two-eggs.mp3",
-          "slow": "audio/all/134_two-eggs.mp3",
-          "image": null,
-          "zh": "两个鸡蛋"
-        },
-        {
-          "id": "food-l2-u3-c3",
-          "type": "phrase",
-          "en": "Yummy milk",
-          "audio": "audio/all/135_yummy-milk.mp3",
-          "slow": "audio/all/135_yummy-milk.mp3",
-          "image": null,
-          "zh": "好喝的牛奶"
-        }
-      ]
-    },
-    {
-      "id": "food-l3-u1",
-      "band": 3,
-      "title": "I'm hungry!",
-      "cards": [
-        {
-          "id": "food-l3-u1-c1",
-          "type": "sentence",
-          "en": "I'm hungry!",
-          "audio": "audio/all/136_i-m-hungry.mp3",
-          "slow": "audio/all/136_i-m-hungry.mp3",
-          "image": "img/bread.jpg",
-          "zh": "我饿了"
-        },
-        {
-          "id": "food-l3-u1-c2",
-          "type": "sentence",
-          "en": "I like apples.",
-          "audio": "audio/all/137_i-like-apples.mp3",
-          "slow": "audio/all/137_i-like-apples.mp3",
-          "image": "img/apple.jpg",
-          "zh": "我喜欢苹果"
-        },
-        {
-          "id": "food-l3-u1-c3",
-          "type": "sentence",
-          "en": "Drink some water.",
-          "audio": "audio/all/138_drink-some-water.mp3",
-          "slow": "audio/all/138_drink-some-water.mp3",
-          "image": "img/water.jpg",
-          "zh": "喝点水"
-        },
-        {
-          "id": "food-l3-u1-c4",
-          "type": "sentence",
-          "en": "It's yummy!",
-          "audio": "audio/all/139_it-s-yummy.mp3",
-          "slow": "audio/all/139_it-s-yummy.mp3",
-          "image": "img/cake.jpg",
-          "zh": "真好吃"
-        },
-        {
-          "id": "food-l3-u1-c5",
-          "type": "sentence",
-          "en": "I want an egg.",
-          "audio": "audio/all/140_i-want-an-egg.mp3",
-          "slow": "audio/all/140_i-want-an-egg.mp3",
-          "image": "img/egg.jpg",
-          "zh": "我想要一个鸡蛋"
-        },
-        {
-          "id": "food-l3-u1-c6",
-          "type": "sentence",
-          "en": "Dinner is ready!",
-          "audio": "audio/all/141_dinner-is-ready.mp3",
-          "slow": "audio/all/141_dinner-is-ready.mp3",
-          "image": "img/rice.jpg",
-          "zh": "晚饭好啦"
-        },
-        {
-          "id": "food-l3-u1-c7",
-          "type": "sentence",
-          "en": "I don't like fish.",
-          "audio": "audio/all/142_i-don-t-like-fish.mp3",
-          "slow": "audio/all/142_i-don-t-like-fish.mp3",
-          "image": "img/fish.jpg",
-          "zh": "我不喜欢鱼"
-        },
-        {
-          "id": "food-l3-u1-c8",
-          "type": "sentence",
-          "en": "Please give me some milk.",
-          "audio": "audio/all/143_please-give-me-some-milk.mp3",
-          "slow": "audio/all/143_please-give-me-some-milk.mp3",
-          "image": "img/milk.jpg",
-          "zh": "请给我点牛奶"
-        }
-      ]
-    },
-    {
-      "id": "food-l4-u1",
-      "band": 4,
-      "title": "What's your favorite",
-      "cards": [
-        {
-          "id": "food-l4-u1-c1",
-          "type": "qa",
-          "en": "What's your favorite fruit? I like bananas!",
-          "audio": "audio/all/144_what-s-your-favorite-fruit-i-like-banana.mp3",
-          "slow": "audio/all/144_what-s-your-favorite-fruit-i-like-banana.mp3",
-          "image": "img/banana.jpg",
-          "zh": "你喜欢什么水果?我喜欢香蕉"
-        },
-        {
-          "id": "food-l4-u1-c2",
-          "type": "qa",
-          "en": "What do you want for breakfast? Bread and milk.",
-          "audio": "audio/all/145_what-do-you-want-for-breakfast-bread-and.mp3",
-          "slow": "audio/all/145_what-do-you-want-for-breakfast-bread-and.mp3",
-          "image": "img/milk.jpg",
-          "zh": "早餐想吃什么?面包和牛奶"
-        },
-        {
-          "id": "food-l4-u1-c3",
-          "type": "qa",
-          "en": "Would you like some juice? Yes, please!",
-          "audio": "audio/all/146_would-you-like-some-juice-yes-please.mp3",
-          "slow": "audio/all/146_would-you-like-some-juice-yes-please.mp3",
-          "image": "img/juice.jpg",
-          "zh": "想喝点果汁吗?想"
-        },
-        {
-          "id": "food-l4-u1-c4",
-          "type": "qa",
-          "en": "Are you hungry? Yes, very!",
-          "audio": "audio/all/147_are-you-hungry-yes-very.mp3",
-          "slow": "audio/all/147_are-you-hungry-yes-very.mp3",
-          "image": "img/bread.jpg",
-          "zh": "你饿吗?很饿"
-        },
-        {
-          "id": "food-l4-u1-c5",
-          "type": "qa",
-          "en": "What's in the bowl? Some soup.",
-          "audio": "audio/all/148_what-s-in-the-bowl-some-soup.mp3",
-          "slow": "audio/all/148_what-s-in-the-bowl-some-soup.mp3",
-          "image": "img/soup.jpg",
-          "zh": "碗里是什么?一些汤"
-        },
-        {
-          "id": "food-l4-u1-c6",
-          "type": "qa",
-          "en": "Do you like ice cream? Yes, I love it!",
-          "audio": "audio/all/149_do-you-like-ice-cream-yes-i-love-it.mp3",
-          "slow": "audio/all/149_do-you-like-ice-cream-yes-i-love-it.mp3",
-          "image": "img/ice-cream.jpg",
-          "zh": "你喜欢冰淇淋吗?超喜欢"
-        }
-      ]
-    },
-    {
-      "id": "food-l4-u2",
-      "band": 4,
-      "title": "I ate an egg today.",
-      "cards": [
-        {
-          "id": "food-l4-u2-c1",
-          "type": "retell",
-          "en": "I ate an egg today.",
-          "audio": "audio/all/150_i-ate-an-egg-today.mp3",
-          "slow": "audio/all/150_i-ate-an-egg-today.mp3",
-          "image": "img/egg.jpg",
-          "zh": "我今天吃了一个鸡蛋"
-        },
-        {
-          "id": "food-l4-u2-c2",
-          "type": "retell",
-          "en": "I like apples and bananas.",
-          "audio": "audio/all/151_i-like-apples-and-bananas.mp3",
-          "slow": "audio/all/151_i-like-apples-and-bananas.mp3",
-          "image": "img/apple.jpg",
-          "zh": "我喜欢苹果和香蕉"
-        },
-        {
-          "id": "food-l4-u2-c3",
-          "type": "retell",
-          "en": "I drink milk every morning.",
-          "audio": "audio/all/152_i-drink-milk-every-morning.mp3",
-          "slow": "audio/all/152_i-drink-milk-every-morning.mp3",
-          "image": "img/milk.jpg",
-          "zh": "我每天早上喝牛奶"
-        }
-      ]
-    },
-    {
-      "id": "food-l4-u3",
-      "band": 4,
-      "title": "Can I have some wate",
-      "cards": [
-        {
-          "id": "food-l4-u3-c1",
-          "type": "inquire",
-          "en": "Can I have some water?",
-          "audio": "audio/all/153_can-i-have-some-water.mp3",
-          "slow": "audio/all/153_can-i-have-some-water.mp3",
-          "image": "img/water.jpg",
-          "zh": "能给我点水吗"
-        },
-        {
-          "id": "food-l4-u3-c2",
-          "type": "inquire",
-          "en": "What's for dinner?",
-          "audio": "audio/all/154_what-s-for-dinner.mp3",
-          "slow": "audio/all/154_what-s-for-dinner.mp3",
-          "image": "img/rice.jpg",
-          "zh": "晚饭吃什么"
-        },
-        {
-          "id": "food-l4-u3-c3",
-          "type": "inquire",
-          "en": "May I have a cookie?",
-          "audio": "audio/all/155_may-i-have-a-cookie.mp3",
-          "slow": "audio/all/155_may-i-have-a-cookie.mp3",
-          "image": "img/cookie.jpg",
-          "zh": "我能吃块饼干吗"
-        }
-      ]
-    },
-    {
-      "id": "food-l5-u1",
-      "band": 5,
-      "title": "Can I help you?",
-      "cards": [
-        {
-          "id": "food-l5-u1-c1",
-          "type": "dialog",
-          "en": "Can I help you?",
-          "audio": "audio/all/156_can-i-help-you.mp3",
-          "slow": "audio/all/156_can-i-help-you.mp3",
-          "image": "img/can-i-help-you.jpg",
-          "zh": "需要帮忙吗"
-        },
-        {
-          "id": "food-l5-u1-c2",
-          "type": "dialog",
-          "en": "I'd like noodles and juice, please.",
-          "audio": "audio/all/157_i-d-like-noodles-and-juice-please.mp3",
-          "slow": "audio/all/157_i-d-like-noodles-and-juice-please.mp3",
-          "image": "img/juice.jpg",
-          "zh": "请给我面条和果汁"
-        },
-        {
-          "id": "food-l5-u1-c3",
-          "type": "dialog",
-          "en": "Anything else?",
-          "audio": "audio/all/158_anything-else.mp3",
-          "slow": "audio/all/158_anything-else.mp3",
-          "image": "img/anything-else.jpg",
-          "zh": "还要点吗"
-        },
-        {
-          "id": "food-l5-u1-c4",
-          "type": "dialog",
-          "en": "An apple, please.",
-          "audio": "audio/all/159_an-apple-please.mp3",
-          "slow": "audio/all/159_an-apple-please.mp3",
-          "image": "img/apple.jpg",
-          "zh": "请来个苹果"
-        },
-        {
-          "id": "food-l5-u1-c5",
-          "type": "dialog",
-          "en": "Here you are!",
-          "audio": "audio/all/160_here-you-are.mp3",
-          "slow": "audio/all/160_here-you-are.mp3",
-          "image": "img/here-you-are.jpg",
-          "zh": "给你"
-        },
-        {
-          "id": "food-l5-u1-c6",
-          "type": "dialog",
-          "en": "Thank you! Yummy!",
-          "audio": "audio/all/161_thank-you-yummy.mp3",
-          "slow": "audio/all/161_thank-you-yummy.mp3",
-          "image": "img/cake.jpg",
-          "zh": "谢谢!真好吃"
-        }
-      ]
-    },
-    {
-      "id": "food-l6-u1",
-      "band": 6,
-      "title": "I eat breakfast at s",
-      "cards": [
-        {
-          "id": "food-l6-u1-c1",
-          "type": "story",
-          "en": "I eat breakfast at seven.",
-          "audio": "audio/all/162_i-eat-breakfast-at-seven.mp3",
-          "slow": "audio/all/162_i-eat-breakfast-at-seven.mp3",
-          "image": "img/bread.jpg",
-          "zh": "我七点吃早饭"
-        },
-        {
-          "id": "food-l6-u1-c2",
-          "type": "story",
-          "en": "I have bread, eggs and milk.",
-          "audio": "audio/all/163_i-have-bread-eggs-and-milk.mp3",
-          "slow": "audio/all/163_i-have-bread-eggs-and-milk.mp3",
-          "image": "img/egg.jpg",
-          "zh": "我吃面包鸡蛋喝牛奶"
-        },
-        {
-          "id": "food-l6-u1-c3",
-          "type": "story",
-          "en": "At noon, I eat rice, fish and vegetables.",
-          "audio": "audio/all/164_at-noon-i-eat-rice-fish-and-vegetables.mp3",
-          "slow": "audio/all/164_at-noon-i-eat-rice-fish-and-vegetables.mp3",
-          "image": "img/fish.jpg",
-          "zh": "中午我吃米饭鱼和蔬菜"
-        },
-        {
-          "id": "food-l6-u1-c4",
-          "type": "story",
-          "en": "In the afternoon, I eat a sweet apple.",
-          "audio": "audio/all/165_in-the-afternoon-i-eat-a-sweet-apple.mp3",
-          "slow": "audio/all/165_in-the-afternoon-i-eat-a-sweet-apple.mp3",
-          "image": "img/apple.jpg",
-          "zh": "下午我吃一个甜苹果"
-        },
-        {
-          "id": "food-l6-u1-c5",
-          "type": "story",
-          "en": "Yummy, yummy!",
-          "audio": "audio/all/166_yummy-yummy.mp3",
-          "slow": "audio/all/166_yummy-yummy.mp3",
-          "image": "img/cake.jpg",
-          "zh": "真好吃真好吃"
-        }
-      ]
+     "id": "food-l1-u0-c5",
+     "type": "func",
+     "en": "Yum yum",
+     "audio": "audio/all/104_yum-yum.mp3",
+     "slow": "audio/all/104_yum-yum.mp3",
+     "image": null,
+     "zh": "好吃"
     }
-  ]
+   ]
+  },
+  {
+   "id": "food-l1-u1",
+   "band": 1,
+   "title": "Apple",
+   "cards": [
+    {
+     "id": "food-l1-u1-c1",
+     "type": "word",
+     "en": "Apple",
+     "audio": "audio/all/617_apple.mp3",
+     "slow": "audio/all/617_apple.mp3",
+     "image": "img/apple.jpg",
+     "zh": "苹果"
+    },
+    {
+     "id": "food-l1-u1-c2",
+     "type": "word",
+     "en": "Banana",
+     "audio": "audio/all/623_banana.mp3",
+     "slow": "audio/all/623_banana.mp3",
+     "image": "img/banana.jpg",
+     "zh": "香蕉"
+    },
+    {
+     "id": "food-l1-u1-c3",
+     "type": "word",
+     "en": "Egg",
+     "audio": "audio/all/652_egg.mp3",
+     "slow": "audio/all/652_egg.mp3",
+     "image": "img/egg.jpg",
+     "zh": "鸡蛋"
+    },
+    {
+     "id": "food-l1-u1-c4",
+     "type": "word",
+     "en": "Milk",
+     "audio": "audio/all/696_milk.mp3",
+     "slow": "audio/all/696_milk.mp3",
+     "image": "img/milk.jpg",
+     "zh": "牛奶"
+    },
+    {
+     "id": "food-l1-u1-c5",
+     "type": "word",
+     "en": "Rice",
+     "audio": "audio/all/721_rice.mp3",
+     "slow": "audio/all/721_rice.mp3",
+     "image": "img/rice.jpg",
+     "zh": "米饭"
+    },
+    {
+     "id": "food-l1-u1-c6",
+     "type": "word",
+     "en": "Bread",
+     "audio": "audio/all/630_bread.mp3",
+     "slow": "audio/all/630_bread.mp3",
+     "image": "img/bread.jpg",
+     "zh": "面包"
+    }
+   ]
+  },
+  {
+   "id": "food-l1-u2",
+   "band": 1,
+   "title": "Cake",
+   "cards": [
+    {
+     "id": "food-l1-u2-c1",
+     "type": "word",
+     "en": "Cake",
+     "audio": "audio/all/633_cake.mp3",
+     "slow": "audio/all/633_cake.mp3",
+     "image": "img/cake.jpg",
+     "zh": "蛋糕"
+    },
+    {
+     "id": "food-l1-u2-c2",
+     "type": "word",
+     "en": "Water",
+     "audio": "audio/all/497_water.mp3",
+     "slow": "audio/all/497_water.mp3",
+     "image": "img/water.jpg",
+     "zh": "水"
+    },
+    {
+     "id": "food-l1-u2-c3",
+     "type": "word",
+     "en": "Fish",
+     "audio": "audio/all/419_fish.mp3",
+     "slow": "audio/all/419_fish.mp3",
+     "image": "img/fish.jpg",
+     "zh": "鱼"
+    },
+    {
+     "id": "food-l1-u2-c4",
+     "type": "word",
+     "en": "Chicken",
+     "audio": "audio/all/416_chicken.mp3",
+     "slow": "audio/all/416_chicken.mp3",
+     "image": "img/chicken.jpg",
+     "zh": "鸡肉"
+    },
+    {
+     "id": "food-l1-u2-c5",
+     "type": "word",
+     "en": "Orange",
+     "audio": "audio/all/708_orange.mp3",
+     "slow": "audio/all/708_orange.mp3",
+     "image": "img/orange.jpg",
+     "zh": "橙子"
+    },
+    {
+     "id": "food-l1-u2-c6",
+     "type": "word",
+     "en": "Grape",
+     "audio": "audio/all/669_grape.mp3",
+     "slow": "audio/all/669_grape.mp3",
+     "image": "img/grape.jpg",
+     "zh": "葡萄"
+    }
+   ]
+  },
+  {
+   "id": "food-l2-u1",
+   "band": 2,
+   "title": "Noodles",
+   "cards": [
+    {
+     "id": "food-l2-u1-c1",
+     "type": "word",
+     "en": "Noodles",
+     "audio": "audio/all/701_noodles.mp3",
+     "slow": "audio/all/701_noodles.mp3",
+     "image": "img/noodles.jpg",
+     "zh": "面条"
+    },
+    {
+     "id": "food-l2-u1-c2",
+     "type": "word",
+     "en": "Juice",
+     "audio": "audio/all/686_juice.mp3",
+     "slow": "audio/all/686_juice.mp3",
+     "image": "img/juice.jpg",
+     "zh": "果汁"
+    },
+    {
+     "id": "food-l2-u1-c3",
+     "type": "word",
+     "en": "Soup",
+     "audio": "audio/all/735_soup.mp3",
+     "slow": "audio/all/735_soup.mp3",
+     "image": "img/soup.jpg",
+     "zh": "汤"
+    },
+    {
+     "id": "food-l2-u1-c4",
+     "type": "word",
+     "en": "Cookie",
+     "audio": "audio/all/639_cookie.mp3",
+     "slow": "audio/all/639_cookie.mp3",
+     "image": "img/cookie.jpg",
+     "zh": "饼干"
+    },
+    {
+     "id": "food-l2-u1-c5",
+     "type": "word",
+     "en": "Pear",
+     "audio": "audio/all/712_pear.mp3",
+     "slow": "audio/all/712_pear.mp3",
+     "image": "img/pear.jpg",
+     "zh": "梨"
+    },
+    {
+     "id": "food-l2-u1-c6",
+     "type": "word",
+     "en": "Peach",
+     "audio": "audio/all/711_peach.mp3",
+     "slow": "audio/all/711_peach.mp3",
+     "image": "img/peach.jpg",
+     "zh": "桃子"
+    },
+    {
+     "id": "food-l2-u1-c7",
+     "type": "word",
+     "en": "Corn",
+     "audio": "audio/all/640_corn.mp3",
+     "slow": "audio/all/640_corn.mp3",
+     "image": "img/corn.jpg",
+     "zh": "玉米"
+    },
+    {
+     "id": "food-l2-u1-c8",
+     "type": "word",
+     "en": "Ice cream",
+     "audio": "audio/all/124_ice-cream.mp3",
+     "slow": "audio/all/124_ice-cream.mp3",
+     "image": "img/ice-cream.jpg",
+     "zh": "冰淇淋"
+    }
+   ]
+  },
+  {
+   "id": "food-l2-u2",
+   "band": 2,
+   "title": "Yogurt",
+   "cards": [
+    {
+     "id": "food-l2-u2-c1",
+     "type": "word",
+     "en": "Yogurt",
+     "audio": "audio/all/765_yogurt.mp3",
+     "slow": "audio/all/765_yogurt.mp3",
+     "image": "img/yogurt.jpg",
+     "zh": "酸奶"
+    },
+    {
+     "id": "food-l2-u2-c2",
+     "type": "word",
+     "en": "Dumplings",
+     "audio": "audio/all/649_dumplings.mp3",
+     "slow": "audio/all/649_dumplings.mp3",
+     "image": "img/dumplings.jpg",
+     "zh": "饺子"
+    },
+    {
+     "id": "food-l2-u2-c3",
+     "type": "word",
+     "en": "Hungry",
+     "audio": "audio/all/681_hungry.mp3",
+     "slow": "audio/all/681_hungry.mp3",
+     "image": "img/ai-hungry.jpg",
+     "zh": "饿"
+    },
+    {
+     "id": "food-l2-u2-c4",
+     "type": "word",
+     "en": "Thirsty",
+     "audio": "audio/all/746_thirsty.mp3",
+     "slow": "audio/all/746_thirsty.mp3",
+     "image": "img/ai-thirsty.jpg",
+     "zh": "渴"
+    },
+    {
+     "id": "food-l2-u2-c5",
+     "type": "word",
+     "en": "Sweet",
+     "audio": "audio/all/740_sweet.mp3",
+     "slow": "audio/all/740_sweet.mp3",
+     "image": "img/ai-sweet.jpg",
+     "zh": "甜"
+    },
+    {
+     "id": "food-l2-u2-c6",
+     "type": "word",
+     "en": "Yummy",
+     "audio": "audio/all/768_yummy.mp3",
+     "slow": "audio/all/768_yummy.mp3",
+     "image": "img/ai-yummy.jpg",
+     "zh": "好吃"
+    },
+    {
+     "id": "food-l2-u2-c7",
+     "type": "word",
+     "en": "Eat",
+     "audio": "audio/all/651_eat.mp3",
+     "slow": "audio/all/651_eat.mp3",
+     "image": "img/ai-eat.jpg",
+     "zh": "吃"
+    },
+    {
+     "id": "food-l2-u2-c8",
+     "type": "word",
+     "en": "Drink",
+     "audio": "audio/all/769_drink.mp3",
+     "slow": "audio/all/769_drink.mp3",
+     "image": "img/ai-drink.jpg",
+     "zh": "喝"
+    }
+   ]
+  },
+  {
+   "id": "food-l2-u3",
+   "band": 2,
+   "title": "One apple",
+   "cards": [
+    {
+     "id": "food-l2-u3-c1",
+     "type": "phrase",
+     "en": "One apple",
+     "audio": "audio/all/133_one-apple.mp3",
+     "slow": "audio/all/133_one-apple.mp3",
+     "image": null,
+     "zh": "一个苹果"
+    },
+    {
+     "id": "food-l2-u3-c2",
+     "type": "phrase",
+     "en": "Two eggs",
+     "audio": "audio/all/134_two-eggs.mp3",
+     "slow": "audio/all/134_two-eggs.mp3",
+     "image": null,
+     "zh": "两个鸡蛋"
+    },
+    {
+     "id": "food-l2-u3-c3",
+     "type": "phrase",
+     "en": "Yummy milk",
+     "audio": "audio/all/135_yummy-milk.mp3",
+     "slow": "audio/all/135_yummy-milk.mp3",
+     "image": null,
+     "zh": "好喝的牛奶"
+    }
+   ]
+  },
+  {
+   "id": "food-l3-u1",
+   "band": 3,
+   "title": "I'm hungry!",
+   "cards": [
+    {
+     "id": "food-l3-u1-c1",
+     "type": "sentence",
+     "en": "I'm hungry!",
+     "audio": "audio/all/136_i-m-hungry.mp3",
+     "slow": "audio/all/136_i-m-hungry.mp3",
+     "image": "img/bread.jpg",
+     "zh": "我饿了"
+    },
+    {
+     "id": "food-l3-u1-c2",
+     "type": "sentence",
+     "en": "I like apples.",
+     "audio": "audio/all/137_i-like-apples.mp3",
+     "slow": "audio/all/137_i-like-apples.mp3",
+     "image": "img/apple.jpg",
+     "zh": "我喜欢苹果"
+    },
+    {
+     "id": "food-l3-u1-c3",
+     "type": "sentence",
+     "en": "Drink some water.",
+     "audio": "audio/all/138_drink-some-water.mp3",
+     "slow": "audio/all/138_drink-some-water.mp3",
+     "image": "img/water.jpg",
+     "zh": "喝点水"
+    },
+    {
+     "id": "food-l3-u1-c4",
+     "type": "sentence",
+     "en": "It's yummy!",
+     "audio": "audio/all/139_it-s-yummy.mp3",
+     "slow": "audio/all/139_it-s-yummy.mp3",
+     "image": "img/cake.jpg",
+     "zh": "真好吃"
+    },
+    {
+     "id": "food-l3-u1-c5",
+     "type": "sentence",
+     "en": "I want an egg.",
+     "audio": "audio/all/140_i-want-an-egg.mp3",
+     "slow": "audio/all/140_i-want-an-egg.mp3",
+     "image": "img/egg.jpg",
+     "zh": "我想要一个鸡蛋"
+    },
+    {
+     "id": "food-l3-u1-c6",
+     "type": "sentence",
+     "en": "Dinner is ready!",
+     "audio": "audio/all/141_dinner-is-ready.mp3",
+     "slow": "audio/all/141_dinner-is-ready.mp3",
+     "image": "img/rice.jpg",
+     "zh": "晚饭好啦"
+    },
+    {
+     "id": "food-l3-u1-c7",
+     "type": "sentence",
+     "en": "I don't like fish.",
+     "audio": "audio/all/142_i-don-t-like-fish.mp3",
+     "slow": "audio/all/142_i-don-t-like-fish.mp3",
+     "image": "img/fish.jpg",
+     "zh": "我不喜欢鱼"
+    },
+    {
+     "id": "food-l3-u1-c8",
+     "type": "sentence",
+     "en": "Please give me some milk.",
+     "audio": "audio/all/143_please-give-me-some-milk.mp3",
+     "slow": "audio/all/143_please-give-me-some-milk.mp3",
+     "image": "img/milk.jpg",
+     "zh": "请给我点牛奶"
+    }
+   ]
+  },
+  {
+   "id": "food-l4-u1",
+   "band": 4,
+   "title": "What's your favorite",
+   "cards": [
+    {
+     "id": "food-l4-u1-c1",
+     "type": "qa",
+     "en": "What's your favorite fruit? I like bananas!",
+     "audio": "audio/all/144_what-s-your-favorite-fruit-i-like-banana.mp3",
+     "slow": "audio/all/144_what-s-your-favorite-fruit-i-like-banana.mp3",
+     "image": "img/banana.jpg",
+     "zh": "你喜欢什么水果?我喜欢香蕉"
+    },
+    {
+     "id": "food-l4-u1-c2",
+     "type": "qa",
+     "en": "What do you want for breakfast? Bread and milk.",
+     "audio": "audio/all/145_what-do-you-want-for-breakfast-bread-and.mp3",
+     "slow": "audio/all/145_what-do-you-want-for-breakfast-bread-and.mp3",
+     "image": "img/milk.jpg",
+     "zh": "早餐想吃什么?面包和牛奶"
+    },
+    {
+     "id": "food-l4-u1-c3",
+     "type": "qa",
+     "en": "Would you like some juice? Yes, please!",
+     "audio": "audio/all/146_would-you-like-some-juice-yes-please.mp3",
+     "slow": "audio/all/146_would-you-like-some-juice-yes-please.mp3",
+     "image": "img/juice.jpg",
+     "zh": "想喝点果汁吗?想"
+    },
+    {
+     "id": "food-l4-u1-c4",
+     "type": "qa",
+     "en": "Are you hungry? Yes, very!",
+     "audio": "audio/all/147_are-you-hungry-yes-very.mp3",
+     "slow": "audio/all/147_are-you-hungry-yes-very.mp3",
+     "image": "img/bread.jpg",
+     "zh": "你饿吗?很饿"
+    },
+    {
+     "id": "food-l4-u1-c5",
+     "type": "qa",
+     "en": "What's in the bowl? Some soup.",
+     "audio": "audio/all/148_what-s-in-the-bowl-some-soup.mp3",
+     "slow": "audio/all/148_what-s-in-the-bowl-some-soup.mp3",
+     "image": "img/soup.jpg",
+     "zh": "碗里是什么?一些汤"
+    },
+    {
+     "id": "food-l4-u1-c6",
+     "type": "qa",
+     "en": "Do you like ice cream? Yes, I love it!",
+     "audio": "audio/all/149_do-you-like-ice-cream-yes-i-love-it.mp3",
+     "slow": "audio/all/149_do-you-like-ice-cream-yes-i-love-it.mp3",
+     "image": "img/ice-cream.jpg",
+     "zh": "你喜欢冰淇淋吗?超喜欢"
+    }
+   ]
+  },
+  {
+   "id": "food-l4-u2",
+   "band": 4,
+   "title": "I ate an egg today.",
+   "cards": [
+    {
+     "id": "food-l4-u2-c1",
+     "type": "retell",
+     "en": "I ate an egg today.",
+     "audio": "audio/all/150_i-ate-an-egg-today.mp3",
+     "slow": "audio/all/150_i-ate-an-egg-today.mp3",
+     "image": "img/egg.jpg",
+     "zh": "我今天吃了一个鸡蛋"
+    },
+    {
+     "id": "food-l4-u2-c2",
+     "type": "retell",
+     "en": "I like apples and bananas.",
+     "audio": "audio/all/151_i-like-apples-and-bananas.mp3",
+     "slow": "audio/all/151_i-like-apples-and-bananas.mp3",
+     "image": "img/apple.jpg",
+     "zh": "我喜欢苹果和香蕉"
+    },
+    {
+     "id": "food-l4-u2-c3",
+     "type": "retell",
+     "en": "I drink milk every morning.",
+     "audio": "audio/all/152_i-drink-milk-every-morning.mp3",
+     "slow": "audio/all/152_i-drink-milk-every-morning.mp3",
+     "image": "img/milk.jpg",
+     "zh": "我每天早上喝牛奶"
+    }
+   ]
+  },
+  {
+   "id": "food-l4-u3",
+   "band": 4,
+   "title": "Can I have some wate",
+   "cards": [
+    {
+     "id": "food-l4-u3-c1",
+     "type": "inquire",
+     "en": "Can I have some water?",
+     "audio": "audio/all/153_can-i-have-some-water.mp3",
+     "slow": "audio/all/153_can-i-have-some-water.mp3",
+     "image": "img/water.jpg",
+     "zh": "能给我点水吗"
+    },
+    {
+     "id": "food-l4-u3-c2",
+     "type": "inquire",
+     "en": "What's for dinner?",
+     "audio": "audio/all/154_what-s-for-dinner.mp3",
+     "slow": "audio/all/154_what-s-for-dinner.mp3",
+     "image": "img/rice.jpg",
+     "zh": "晚饭吃什么"
+    },
+    {
+     "id": "food-l4-u3-c3",
+     "type": "inquire",
+     "en": "May I have a cookie?",
+     "audio": "audio/all/155_may-i-have-a-cookie.mp3",
+     "slow": "audio/all/155_may-i-have-a-cookie.mp3",
+     "image": "img/cookie.jpg",
+     "zh": "我能吃块饼干吗"
+    }
+   ]
+  },
+  {
+   "id": "food-l5-u1",
+   "band": 5,
+   "title": "Can I help you?",
+   "cards": [
+    {
+     "id": "food-l5-u1-c1",
+     "type": "dialog",
+     "en": "Can I help you?",
+     "audio": "audio/all/156_can-i-help-you.mp3",
+     "slow": "audio/all/156_can-i-help-you.mp3",
+     "image": "img/can-i-help-you.jpg",
+     "zh": "需要帮忙吗"
+    },
+    {
+     "id": "food-l5-u1-c2",
+     "type": "dialog",
+     "en": "I'd like noodles and juice, please.",
+     "audio": "audio/all/157_i-d-like-noodles-and-juice-please.mp3",
+     "slow": "audio/all/157_i-d-like-noodles-and-juice-please.mp3",
+     "image": "img/juice.jpg",
+     "zh": "请给我面条和果汁"
+    },
+    {
+     "id": "food-l5-u1-c3",
+     "type": "dialog",
+     "en": "Anything else?",
+     "audio": "audio/all/158_anything-else.mp3",
+     "slow": "audio/all/158_anything-else.mp3",
+     "image": "img/anything-else.jpg",
+     "zh": "还要点吗"
+    },
+    {
+     "id": "food-l5-u1-c4",
+     "type": "dialog",
+     "en": "An apple, please.",
+     "audio": "audio/all/159_an-apple-please.mp3",
+     "slow": "audio/all/159_an-apple-please.mp3",
+     "image": "img/apple.jpg",
+     "zh": "请来个苹果"
+    },
+    {
+     "id": "food-l5-u1-c5",
+     "type": "dialog",
+     "en": "Here you are!",
+     "audio": "audio/all/160_here-you-are.mp3",
+     "slow": "audio/all/160_here-you-are.mp3",
+     "image": "img/here-you-are.jpg",
+     "zh": "给你"
+    },
+    {
+     "id": "food-l5-u1-c6",
+     "type": "dialog",
+     "en": "Thank you! Yummy!",
+     "audio": "audio/all/161_thank-you-yummy.mp3",
+     "slow": "audio/all/161_thank-you-yummy.mp3",
+     "image": "img/cake.jpg",
+     "zh": "谢谢!真好吃"
+    }
+   ]
+  },
+  {
+   "id": "food-l6-u1",
+   "band": 6,
+   "title": "I eat breakfast at s",
+   "cards": [
+    {
+     "id": "food-l6-u1-c1",
+     "type": "story",
+     "en": "I eat breakfast at seven.",
+     "audio": "audio/all/162_i-eat-breakfast-at-seven.mp3",
+     "slow": "audio/all/162_i-eat-breakfast-at-seven.mp3",
+     "image": "img/bread.jpg",
+     "zh": "我七点吃早饭"
+    },
+    {
+     "id": "food-l6-u1-c2",
+     "type": "story",
+     "en": "I have bread, eggs and milk.",
+     "audio": "audio/all/163_i-have-bread-eggs-and-milk.mp3",
+     "slow": "audio/all/163_i-have-bread-eggs-and-milk.mp3",
+     "image": "img/egg.jpg",
+     "zh": "我吃面包鸡蛋喝牛奶"
+    },
+    {
+     "id": "food-l6-u1-c3",
+     "type": "story",
+     "en": "At noon, I eat rice, fish and vegetables.",
+     "audio": "audio/all/164_at-noon-i-eat-rice-fish-and-vegetables.mp3",
+     "slow": "audio/all/164_at-noon-i-eat-rice-fish-and-vegetables.mp3",
+     "image": "img/fish.jpg",
+     "zh": "中午我吃米饭鱼和蔬菜"
+    },
+    {
+     "id": "food-l6-u1-c4",
+     "type": "story",
+     "en": "In the afternoon, I eat a sweet apple.",
+     "audio": "audio/all/165_in-the-afternoon-i-eat-a-sweet-apple.mp3",
+     "slow": "audio/all/165_in-the-afternoon-i-eat-a-sweet-apple.mp3",
+     "image": "img/apple.jpg",
+     "zh": "下午我吃一个甜苹果"
+    },
+    {
+     "id": "food-l6-u1-c5",
+     "type": "story",
+     "en": "Yummy, yummy!",
+     "audio": "audio/all/166_yummy-yummy.mp3",
+     "slow": "audio/all/166_yummy-yummy.mp3",
+     "image": "img/cake.jpg",
+     "zh": "真好吃真好吃"
+    }
+   ]
+  }
+ ]
 }

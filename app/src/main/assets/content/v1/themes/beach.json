@@ -65,8 +65,8 @@
      "id": "beach-l1-u2-c2",
      "type": "word",
      "en": "Swim",
-     "audio": "audio/all/609_swim.mp3",
-     "slow": "audio/all/609_swim.mp3",
+     "audio": "audio/all/512_swim.mp3",
+     "slow": "audio/all/512_swim.mp3",
      "image": "img/ai-swim.jpg",
      "zh": "游泳"
     },
@@ -74,8 +74,8 @@
      "id": "beach-l1-u2-c3",
      "type": "word",
      "en": "Fish",
-     "audio": "audio/all/610_fish.mp3",
-     "slow": "audio/all/610_fish.mp3",
+     "audio": "audio/all/419_fish.mp3",
+     "slow": "audio/all/419_fish.mp3",
      "image": "img/cam-beach-fish.jpg",
      "zh": "鱼"
     },
@@ -83,8 +83,8 @@
      "id": "beach-l1-u2-c4",
      "type": "word",
      "en": "Water",
-     "audio": "audio/all/611_water.mp3",
-     "slow": "audio/all/611_water.mp3",
+     "audio": "audio/all/497_water.mp3",
+     "slow": "audio/all/497_water.mp3",
      "image": "img/cam-water.jpg",
      "zh": "水"
     }

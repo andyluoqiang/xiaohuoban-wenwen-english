@@ -111,8 +111,8 @@
      "id": "fl_place-l1-u2-c2",
      "type": "word",
      "en": "Police station",
-     "audio": "audio/all/1652_police-station.mp3",
-     "slow": "audio/all/1652_police-station.mp3",
+     "audio": "audio/all/2152_police-station.mp3",
+     "slow": "audio/all/2152_police-station.mp3",
      "image": "img/cam-police_station.jpg",
      "zh": "警察局"
     },
@@ -156,8 +156,8 @@
      "id": "fl_place-l1-u2-c7",
      "type": "word",
      "en": "Stage",
-     "audio": "audio/all/1733_stage.mp3",
-     "slow": "audio/all/1733_stage.mp3",
+     "audio": "audio/all/2233_stage.mp3",
+     "slow": "audio/all/2233_stage.mp3",
      "image": "img/cam-stage.jpg",
      "zh": "舞台"
     },

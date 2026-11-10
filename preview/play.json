@@ -1,694 +1,694 @@
 {
-  "theme": "play",
-  "nameZh": "运动与游戏",
-  "order": 3,
-  "units": [
+ "theme": "play",
+ "nameZh": "运动与游戏",
+ "order": 3,
+ "units": [
+  {
+   "id": "play-l1-u0",
+   "band": 1,
+   "title": "Ready?",
+   "cards": [
     {
-      "id": "play-l1-u0",
-      "band": 1,
-      "title": "Ready?",
-      "cards": [
-        {
-          "id": "play-l1-u0-c1",
-          "type": "chant",
-          "en": "Jump, jump, jump up high! Run, run, run, so fast! Walk, walk, walk and stop! We love to play all day!",
-          "audio": "audio/all/200_jump-jump-jump-up-high-run-run-run-so-fa.mp3",
-          "slow": "audio/all/200_jump-jump-jump-up-high-run-run-run-so-fa.mp3",
-          "image": null,
-          "zh": "主题儿歌"
-        },
-        {
-          "id": "play-l1-u0-c2",
-          "type": "func",
-          "en": "Ready?",
-          "audio": "audio/all/201_ready.mp3",
-          "slow": "audio/all/201_ready.mp3",
-          "image": null,
-          "zh": "预备"
-        },
-        {
-          "id": "play-l1-u0-c3",
-          "type": "func",
-          "en": "Faster!",
-          "audio": "audio/all/202_faster.mp3",
-          "slow": "audio/all/202_faster.mp3",
-          "image": null,
-          "zh": "快点"
-        },
-        {
-          "id": "play-l1-u0-c4",
-          "type": "func",
-          "en": "Careful!",
-          "audio": "audio/all/203_careful.mp3",
-          "slow": "audio/all/203_careful.mp3",
-          "image": null,
-          "zh": "小心"
-        },
-        {
-          "id": "play-l1-u0-c5",
-          "type": "func",
-          "en": "Hooray!",
-          "audio": "audio/all/204_hooray.mp3",
-          "slow": "audio/all/204_hooray.mp3",
-          "image": null,
-          "zh": "好棒"
-        }
-      ]
+     "id": "play-l1-u0-c1",
+     "type": "chant",
+     "en": "Jump, jump, jump up high! Run, run, run, so fast! Walk, walk, walk and stop! We love to play all day!",
+     "audio": "audio/all/200_jump-jump-jump-up-high-run-run-run-so-fa.mp3",
+     "slow": "audio/all/200_jump-jump-jump-up-high-run-run-run-so-fa.mp3",
+     "image": null,
+     "zh": "主题儿歌"
     },
     {
-      "id": "play-l1-u1",
-      "band": 1,
-      "title": "Jump",
-      "cards": [
-        {
-          "id": "play-l1-u1-c1",
-          "type": "word",
-          "en": "Jump",
-          "audio": "audio/all/205_jump.mp3",
-          "slow": "audio/all/205_jump.mp3",
-          "image": "img/jump.jpg",
-          "zh": "跳"
-        },
-        {
-          "id": "play-l1-u1-c2",
-          "type": "word",
-          "en": "Run",
-          "audio": "audio/all/206_run.mp3",
-          "slow": "audio/all/206_run.mp3",
-          "image": "img/run.jpg",
-          "zh": "跑"
-        },
-        {
-          "id": "play-l1-u1-c3",
-          "type": "word",
-          "en": "Walk",
-          "audio": "audio/all/207_walk.mp3",
-          "slow": "audio/all/207_walk.mp3",
-          "image": "img/walk.jpg",
-          "zh": "走"
-        },
-        {
-          "id": "play-l1-u1-c4",
-          "type": "word",
-          "en": "Hop",
-          "audio": "audio/all/208_hop.mp3",
-          "slow": "audio/all/208_hop.mp3",
-          "image": "img/hop.jpg",
-          "zh": "单脚跳"
-        },
-        {
-          "id": "play-l1-u1-c5",
-          "type": "word",
-          "en": "Dance",
-          "audio": "audio/all/209_dance.mp3",
-          "slow": "audio/all/209_dance.mp3",
-          "image": "img/dance.jpg",
-          "zh": "跳舞"
-        },
-        {
-          "id": "play-l1-u1-c6",
-          "type": "word",
-          "en": "Swim",
-          "audio": "audio/all/210_swim.mp3",
-          "slow": "audio/all/210_swim.mp3",
-          "image": "img/swim.jpg",
-          "zh": "游泳"
-        }
-      ]
+     "id": "play-l1-u0-c2",
+     "type": "func",
+     "en": "Ready?",
+     "audio": "audio/all/201_ready.mp3",
+     "slow": "audio/all/201_ready.mp3",
+     "image": null,
+     "zh": "预备"
     },
     {
-      "id": "play-l1-u2",
-      "band": 1,
-      "title": "Ball",
-      "cards": [
-        {
-          "id": "play-l1-u2-c1",
-          "type": "word",
-          "en": "Ball",
-          "audio": "audio/all/211_ball.mp3",
-          "slow": "audio/all/211_ball.mp3",
-          "image": "img/ball.jpg",
-          "zh": "球"
-        },
-        {
-          "id": "play-l1-u2-c2",
-          "type": "word",
-          "en": "Bike",
-          "audio": "audio/all/212_bike.mp3",
-          "slow": "audio/all/212_bike.mp3",
-          "image": "img/bike.jpg",
-          "zh": "自行车"
-        },
-        {
-          "id": "play-l1-u2-c3",
-          "type": "word",
-          "en": "Kick",
-          "audio": "audio/all/213_kick.mp3",
-          "slow": "audio/all/213_kick.mp3",
-          "image": "img/kick.jpg",
-          "zh": "踢"
-        },
-        {
-          "id": "play-l1-u2-c4",
-          "type": "word",
-          "en": "Throw",
-          "audio": "audio/all/214_throw.mp3",
-          "slow": "audio/all/214_throw.mp3",
-          "image": "img/throw.jpg",
-          "zh": "扔"
-        },
-        {
-          "id": "play-l1-u2-c5",
-          "type": "word",
-          "en": "Catch",
-          "audio": "audio/all/215_catch.mp3",
-          "slow": "audio/all/215_catch.mp3",
-          "image": "img/catch.jpg",
-          "zh": "接住"
-        },
-        {
-          "id": "play-l1-u2-c6",
-          "type": "word",
-          "en": "Climb",
-          "audio": "audio/all/216_climb.mp3",
-          "slow": "audio/all/216_climb.mp3",
-          "image": "img/climb.jpg",
-          "zh": "爬"
-        }
-      ]
+     "id": "play-l1-u0-c3",
+     "type": "func",
+     "en": "Faster!",
+     "audio": "audio/all/202_faster.mp3",
+     "slow": "audio/all/202_faster.mp3",
+     "image": null,
+     "zh": "快点"
     },
     {
-      "id": "play-l2-u1",
-      "band": 2,
-      "title": "Kite",
-      "cards": [
-        {
-          "id": "play-l2-u1-c1",
-          "type": "word",
-          "en": "Kite",
-          "audio": "audio/all/217_kite.mp3",
-          "slow": "audio/all/217_kite.mp3",
-          "image": "img/kite.jpg",
-          "zh": "风筝"
-        },
-        {
-          "id": "play-l2-u1-c2",
-          "type": "word",
-          "en": "Rope",
-          "audio": "audio/all/218_rope.mp3",
-          "slow": "audio/all/218_rope.mp3",
-          "image": "img/rope.jpg",
-          "zh": "跳绳"
-        },
-        {
-          "id": "play-l2-u1-c3",
-          "type": "word",
-          "en": "Swing",
-          "audio": "audio/all/219_swing.mp3",
-          "slow": "audio/all/219_swing.mp3",
-          "image": "img/swing.jpg",
-          "zh": "秋千"
-        },
-        {
-          "id": "play-l2-u1-c4",
-          "type": "word",
-          "en": "Slide",
-          "audio": "audio/all/220_slide.mp3",
-          "slow": "audio/all/220_slide.mp3",
-          "image": "img/slide.jpg",
-          "zh": "滑梯"
-        },
-        {
-          "id": "play-l2-u1-c5",
-          "type": "word",
-          "en": "Boat",
-          "audio": "audio/all/221_boat.mp3",
-          "slow": "audio/all/221_boat.mp3",
-          "image": "img/boat.jpg",
-          "zh": "小船"
-        },
-        {
-          "id": "play-l2-u1-c6",
-          "type": "word",
-          "en": "Plane",
-          "audio": "audio/all/222_plane.mp3",
-          "slow": "audio/all/222_plane.mp3",
-          "image": "img/plane.jpg",
-          "zh": "纸飞机"
-        },
-        {
-          "id": "play-l2-u1-c7",
-          "type": "word",
-          "en": "Balloon",
-          "audio": "audio/all/223_balloon.mp3",
-          "slow": "audio/all/223_balloon.mp3",
-          "image": "img/balloon.jpg",
-          "zh": "气球"
-        },
-        {
-          "id": "play-l2-u1-c8",
-          "type": "word",
-          "en": "Sand",
-          "audio": "audio/all/224_sand.mp3",
-          "slow": "audio/all/224_sand.mp3",
-          "image": "img/sand.jpg",
-          "zh": "沙子"
-        }
-      ]
+     "id": "play-l1-u0-c4",
+     "type": "func",
+     "en": "Careful!",
+     "audio": "audio/all/203_careful.mp3",
+     "slow": "audio/all/203_careful.mp3",
+     "image": null,
+     "zh": "小心"
     },
     {
-      "id": "play-l2-u2",
-      "band": 2,
-      "title": "Skip",
-      "cards": [
-        {
-          "id": "play-l2-u2-c1",
-          "type": "word",
-          "en": "Skip",
-          "audio": "audio/all/225_skip.mp3",
-          "slow": "audio/all/225_skip.mp3",
-          "image": "img/skip.jpg",
-          "zh": "蹦跳"
-        },
-        {
-          "id": "play-l2-u2-c2",
-          "type": "word",
-          "en": "Spin",
-          "audio": "audio/all/226_spin.mp3",
-          "slow": "audio/all/226_spin.mp3",
-          "image": "img/spin.jpg",
-          "zh": "转圈"
-        },
-        {
-          "id": "play-l2-u2-c3",
-          "type": "word",
-          "en": "Stretch",
-          "audio": "audio/all/227_stretch.mp3",
-          "slow": "audio/all/227_stretch.mp3",
-          "image": "img/stretch.jpg",
-          "zh": "伸展"
-        },
-        {
-          "id": "play-l2-u2-c4",
-          "type": "word",
-          "en": "March",
-          "audio": "audio/all/228_march.mp3",
-          "slow": "audio/all/228_march.mp3",
-          "image": "img/march.jpg",
-          "zh": "踏步走"
-        },
-        {
-          "id": "play-l2-u2-c5",
-          "type": "word",
-          "en": "Tiptoe",
-          "audio": "audio/all/229_tiptoe.mp3",
-          "slow": "audio/all/229_tiptoe.mp3",
-          "image": "img/tiptoe.jpg",
-          "zh": "踮脚走"
-        },
-        {
-          "id": "play-l2-u2-c6",
-          "type": "word",
-          "en": "Crawl",
-          "audio": "audio/all/230_crawl.mp3",
-          "slow": "audio/all/230_crawl.mp3",
-          "image": "img/crawl.jpg",
-          "zh": "爬行"
-        },
-        {
-          "id": "play-l2-u2-c7",
-          "type": "word",
-          "en": "Wiggle",
-          "audio": "audio/all/231_wiggle.mp3",
-          "slow": "audio/all/231_wiggle.mp3",
-          "image": "img/wiggle.jpg",
-          "zh": "扭一扭"
-        },
-        {
-          "id": "play-l2-u2-c8",
-          "type": "word",
-          "en": "Freeze",
-          "audio": "audio/all/232_freeze.mp3",
-          "slow": "audio/all/232_freeze.mp3",
-          "image": "img/freeze.jpg",
-          "zh": "定住"
-        }
-      ]
-    },
-    {
-      "id": "play-l2-u3",
-      "band": 2,
-      "title": "Big jump",
-      "cards": [
-        {
-          "id": "play-l2-u3-c1",
-          "type": "phrase",
-          "en": "Big jump",
-          "audio": "audio/all/233_big-jump.mp3",
-          "slow": "audio/all/233_big-jump.mp3",
-          "image": "img/big-jump.jpg",
-          "zh": "大跳"
-        },
-        {
-          "id": "play-l2-u3-c2",
-          "type": "phrase",
-          "en": "Little hop",
-          "audio": "audio/all/234_little-hop.mp3",
-          "slow": "audio/all/234_little-hop.mp3",
-          "image": "img/little-hop.jpg",
-          "zh": "小跳"
-        },
-        {
-          "id": "play-l2-u3-c3",
-          "type": "phrase",
-          "en": "Red balloon",
-          "audio": "audio/all/235_red-balloon.mp3",
-          "slow": "audio/all/235_red-balloon.mp3",
-          "image": "img/red-balloon.jpg",
-          "zh": "红气球"
-        }
-      ]
-    },
-    {
-      "id": "play-l3-u1",
-      "band": 3,
-      "title": "Jump high!",
-      "cards": [
-        {
-          "id": "play-l3-u1-c1",
-          "type": "sentence",
-          "en": "Jump high!",
-          "audio": "audio/all/236_jump-high.mp3",
-          "slow": "audio/all/236_jump-high.mp3",
-          "image": "img/jump.jpg",
-          "zh": "跳高"
-        },
-        {
-          "id": "play-l3-u1-c2",
-          "type": "sentence",
-          "en": "Run fast!",
-          "audio": "audio/all/237_run-fast.mp3",
-          "slow": "audio/all/237_run-fast.mp3",
-          "image": "img/run.jpg",
-          "zh": "快跑"
-        },
-        {
-          "id": "play-l3-u1-c3",
-          "type": "sentence",
-          "en": "Walk slowly.",
-          "audio": "audio/all/238_walk-slowly.mp3",
-          "slow": "audio/all/238_walk-slowly.mp3",
-          "image": "img/walk.jpg",
-          "zh": "慢慢走"
-        },
-        {
-          "id": "play-l3-u1-c4",
-          "type": "sentence",
-          "en": "Kick the ball.",
-          "audio": "audio/all/239_kick-the-ball.mp3",
-          "slow": "audio/all/239_kick-the-ball.mp3",
-          "image": "img/kick.jpg",
-          "zh": "踢球"
-        },
-        {
-          "id": "play-l3-u1-c5",
-          "type": "sentence",
-          "en": "Throw the ball.",
-          "audio": "audio/all/240_throw-the-ball.mp3",
-          "slow": "audio/all/240_throw-the-ball.mp3",
-          "image": "img/throw.jpg",
-          "zh": "扔球"
-        },
-        {
-          "id": "play-l3-u1-c6",
-          "type": "sentence",
-          "en": "Catch it!",
-          "audio": "audio/all/241_catch-it.mp3",
-          "slow": "audio/all/241_catch-it.mp3",
-          "image": "img/catch.jpg",
-          "zh": "接住它"
-        },
-        {
-          "id": "play-l3-u1-c7",
-          "type": "sentence",
-          "en": "Clap for me!",
-          "audio": "audio/all/242_clap-for-me.mp3",
-          "slow": "audio/all/242_clap-for-me.mp3",
-          "image": "img/clap.jpg",
-          "zh": "为我拍手"
-        },
-        {
-          "id": "play-l3-u1-c8",
-          "type": "sentence",
-          "en": "Spin around!",
-          "audio": "audio/all/243_spin-around.mp3",
-          "slow": "audio/all/243_spin-around.mp3",
-          "image": "img/spin.jpg",
-          "zh": "转个圈"
-        }
-      ]
-    },
-    {
-      "id": "play-l4-u1",
-      "band": 4,
-      "title": "Can you jump? Yes, I",
-      "cards": [
-        {
-          "id": "play-l4-u1-c1",
-          "type": "qa",
-          "en": "Can you jump? Yes, I can!",
-          "audio": "audio/all/244_can-you-jump-yes-i-can.mp3",
-          "slow": "audio/all/244_can-you-jump-yes-i-can.mp3",
-          "image": "img/jump.jpg",
-          "zh": "你会跳吗?会"
-        },
-        {
-          "id": "play-l4-u1-c2",
-          "type": "qa",
-          "en": "What's this? It's a ball.",
-          "audio": "audio/all/245_what-s-this-it-s-a-ball.mp3",
-          "slow": "audio/all/245_what-s-this-it-s-a-ball.mp3",
-          "image": "img/ball.jpg",
-          "zh": "这是什么?是球"
-        },
-        {
-          "id": "play-l4-u1-c3",
-          "type": "qa",
-          "en": "Do you like to run? Yes!",
-          "audio": "audio/all/246_do-you-like-to-run-yes.mp3",
-          "slow": "audio/all/246_do-you-like-to-run-yes.mp3",
-          "image": "img/run.jpg",
-          "zh": "你喜欢跑步吗?喜欢"
-        },
-        {
-          "id": "play-l4-u1-c4",
-          "type": "qa",
-          "en": "What can you do? I can swim.",
-          "audio": "audio/all/247_what-can-you-do-i-can-swim.mp3",
-          "slow": "audio/all/247_what-can-you-do-i-can-swim.mp3",
-          "image": "img/swim.jpg",
-          "zh": "你会什么?我会游泳"
-        },
-        {
-          "id": "play-l4-u1-c5",
-          "type": "qa",
-          "en": "Where is the kite? Up in the sky!",
-          "audio": "audio/all/248_where-is-the-kite-up-in-the-sky.mp3",
-          "slow": "audio/all/248_where-is-the-kite-up-in-the-sky.mp3",
-          "image": "img/kite.jpg",
-          "zh": "风筝在哪?在天上"
-        },
-        {
-          "id": "play-l4-u1-c6",
-          "type": "qa",
-          "en": "Who is fast? I am fast!",
-          "audio": "audio/all/249_who-is-fast-i-am-fast.mp3",
-          "slow": "audio/all/249_who-is-fast-i-am-fast.mp3",
-          "image": "img/run.jpg",
-          "zh": "谁快?我快"
-        }
-      ]
-    },
-    {
-      "id": "play-l4-u2",
-      "band": 4,
-      "title": "I played ball today.",
-      "cards": [
-        {
-          "id": "play-l4-u2-c1",
-          "type": "retell",
-          "en": "I played ball today.",
-          "audio": "audio/all/250_i-played-ball-today.mp3",
-          "slow": "audio/all/250_i-played-ball-today.mp3",
-          "image": "img/ball.jpg",
-          "zh": "我今天玩了球"
-        },
-        {
-          "id": "play-l4-u2-c2",
-          "type": "retell",
-          "en": "I can jump very high.",
-          "audio": "audio/all/251_i-can-jump-very-high.mp3",
-          "slow": "audio/all/251_i-can-jump-very-high.mp3",
-          "image": "img/jump.jpg",
-          "zh": "我能跳很高"
-        },
-        {
-          "id": "play-l4-u2-c3",
-          "type": "retell",
-          "en": "I ride my bike every day.",
-          "audio": "audio/all/252_i-ride-my-bike-every-day.mp3",
-          "slow": "audio/all/252_i-ride-my-bike-every-day.mp3",
-          "image": "img/bike.jpg",
-          "zh": "我每天都骑车"
-        }
-      ]
-    },
-    {
-      "id": "play-l4-u3",
-      "band": 4,
-      "title": "Can we play ball?",
-      "cards": [
-        {
-          "id": "play-l4-u3-c1",
-          "type": "inquire",
-          "en": "Can we play ball?",
-          "audio": "audio/all/253_can-we-play-ball.mp3",
-          "slow": "audio/all/253_can-we-play-ball.mp3",
-          "image": "img/ball.jpg",
-          "zh": "我们能玩球吗"
-        },
-        {
-          "id": "play-l4-u3-c2",
-          "type": "inquire",
-          "en": "Where is my bike?",
-          "audio": "audio/all/254_where-is-my-bike.mp3",
-          "slow": "audio/all/254_where-is-my-bike.mp3",
-          "image": "img/bike.jpg",
-          "zh": "我的自行车在哪"
-        },
-        {
-          "id": "play-l4-u3-c3",
-          "type": "inquire",
-          "en": "May I go outside?",
-          "audio": "audio/all/255_may-i-go-outside.mp3",
-          "slow": "audio/all/255_may-i-go-outside.mp3",
-          "image": "img/jump.jpg",
-          "zh": "我能出去玩吗"
-        }
-      ]
-    },
-    {
-      "id": "play-l5-u1",
-      "band": 5,
-      "title": "Let's go to the park",
-      "cards": [
-        {
-          "id": "play-l5-u1-c1",
-          "type": "dialog",
-          "en": "Let's go to the park!",
-          "audio": "audio/all/256_let-s-go-to-the-park.mp3",
-          "slow": "audio/all/256_let-s-go-to-the-park.mp3",
-          "image": "img/swing.jpg",
-          "zh": "我们去公园吧"
-        },
-        {
-          "id": "play-l5-u1-c2",
-          "type": "dialog",
-          "en": "Hooray! I love the park!",
-          "audio": "audio/all/257_hooray-i-love-the-park.mp3",
-          "slow": "audio/all/257_hooray-i-love-the-park.mp3",
-          "image": "img/swing.jpg",
-          "zh": "好耶!我爱公园"
-        },
-        {
-          "id": "play-l5-u1-c3",
-          "type": "dialog",
-          "en": "Look! A big kite!",
-          "audio": "audio/all/258_look-a-big-kite.mp3",
-          "slow": "audio/all/258_look-a-big-kite.mp3",
-          "image": "img/kite.jpg",
-          "zh": "看!大风筝"
-        },
-        {
-          "id": "play-l5-u1-c4",
-          "type": "dialog",
-          "en": "Catch the ball, please!",
-          "audio": "audio/all/259_catch-the-ball-please.mp3",
-          "slow": "audio/all/259_catch-the-ball-please.mp3",
-          "image": "img/catch.jpg",
-          "zh": "请接球"
-        },
-        {
-          "id": "play-l5-u1-c5",
-          "type": "dialog",
-          "en": "I got it! I got it!",
-          "audio": "audio/all/260_i-got-it-i-got-it.mp3",
-          "slow": "audio/all/260_i-got-it-i-got-it.mp3",
-          "image": "img/catch.jpg",
-          "zh": "接住了!接住了"
-        },
-        {
-          "id": "play-l5-u1-c6",
-          "type": "dialog",
-          "en": "What a fun day!",
-          "audio": "audio/all/261_what-a-fun-day.mp3",
-          "slow": "audio/all/261_what-a-fun-day.mp3",
-          "image": "img/ball.jpg",
-          "zh": "真开心的一天"
-        }
-      ]
-    },
-    {
-      "id": "play-l6-u1",
-      "band": 6,
-      "title": "I love to play outsi",
-      "cards": [
-        {
-          "id": "play-l6-u1-c1",
-          "type": "story",
-          "en": "I love to play outside.",
-          "audio": "audio/all/262_i-love-to-play-outside.mp3",
-          "slow": "audio/all/262_i-love-to-play-outside.mp3",
-          "image": "img/jump.jpg",
-          "zh": "我爱出去玩"
-        },
-        {
-          "id": "play-l6-u1-c2",
-          "type": "story",
-          "en": "In the morning, I ride my bike.",
-          "audio": "audio/all/263_in-the-morning-i-ride-my-bike.mp3",
-          "slow": "audio/all/263_in-the-morning-i-ride-my-bike.mp3",
-          "image": "img/bike.jpg",
-          "zh": "早上我骑自行车"
-        },
-        {
-          "id": "play-l6-u1-c3",
-          "type": "story",
-          "en": "At noon, I play ball with Daddy.",
-          "audio": "audio/all/264_at-noon-i-play-ball-with-daddy.mp3",
-          "slow": "audio/all/264_at-noon-i-play-ball-with-daddy.mp3",
-          "image": "img/ball.jpg",
-          "zh": "中午我和爸爸玩球"
-        },
-        {
-          "id": "play-l6-u1-c4",
-          "type": "story",
-          "en": "I run and jump in the sun.",
-          "audio": "audio/all/265_i-run-and-jump-in-the-sun.mp3",
-          "slow": "audio/all/265_i-run-and-jump-in-the-sun.mp3",
-          "image": "img/jump.jpg",
-          "zh": "我在太阳下又跑又跳"
-        },
-        {
-          "id": "play-l6-u1-c5",
-          "type": "story",
-          "en": "Playing makes me strong!",
-          "audio": "audio/all/266_playing-makes-me-strong.mp3",
-          "slow": "audio/all/266_playing-makes-me-strong.mp3",
-          "image": "img/jump.jpg",
-          "zh": "运动让我强壮"
-        }
-      ]
+     "id": "play-l1-u0-c5",
+     "type": "func",
+     "en": "Hooray!",
+     "audio": "audio/all/204_hooray.mp3",
+     "slow": "audio/all/204_hooray.mp3",
+     "image": null,
+     "zh": "好棒"
     }
-  ]
+   ]
+  },
+  {
+   "id": "play-l1-u1",
+   "band": 1,
+   "title": "Jump",
+   "cards": [
+    {
+     "id": "play-l1-u1-c1",
+     "type": "word",
+     "en": "Jump",
+     "audio": "audio/all/484_jump.mp3",
+     "slow": "audio/all/484_jump.mp3",
+     "image": "img/jump.jpg",
+     "zh": "跳"
+    },
+    {
+     "id": "play-l1-u1-c2",
+     "type": "word",
+     "en": "Run",
+     "audio": "audio/all/724_run.mp3",
+     "slow": "audio/all/724_run.mp3",
+     "image": "img/run.jpg",
+     "zh": "跑"
+    },
+    {
+     "id": "play-l1-u1-c3",
+     "type": "word",
+     "en": "Walk",
+     "audio": "audio/all/757_walk.mp3",
+     "slow": "audio/all/757_walk.mp3",
+     "image": "img/walk.jpg",
+     "zh": "走"
+    },
+    {
+     "id": "play-l1-u1-c4",
+     "type": "word",
+     "en": "Hop",
+     "audio": "audio/all/679_hop.mp3",
+     "slow": "audio/all/679_hop.mp3",
+     "image": "img/hop.jpg",
+     "zh": "单脚跳"
+    },
+    {
+     "id": "play-l1-u1-c5",
+     "type": "word",
+     "en": "Dance",
+     "audio": "audio/all/644_dance.mp3",
+     "slow": "audio/all/644_dance.mp3",
+     "image": "img/dance.jpg",
+     "zh": "跳舞"
+    },
+    {
+     "id": "play-l1-u1-c6",
+     "type": "word",
+     "en": "Swim",
+     "audio": "audio/all/512_swim.mp3",
+     "slow": "audio/all/512_swim.mp3",
+     "image": "img/swim.jpg",
+     "zh": "游泳"
+    }
+   ]
+  },
+  {
+   "id": "play-l1-u2",
+   "band": 1,
+   "title": "Ball",
+   "cards": [
+    {
+     "id": "play-l1-u2-c1",
+     "type": "word",
+     "en": "Ball",
+     "audio": "audio/all/586_ball.mp3",
+     "slow": "audio/all/586_ball.mp3",
+     "image": "img/ball.jpg",
+     "zh": "球"
+    },
+    {
+     "id": "play-l1-u2-c2",
+     "type": "word",
+     "en": "Bike",
+     "audio": "audio/all/599_bike.mp3",
+     "slow": "audio/all/599_bike.mp3",
+     "image": "img/bike.jpg",
+     "zh": "自行车"
+    },
+    {
+     "id": "play-l1-u2-c3",
+     "type": "word",
+     "en": "Kick",
+     "audio": "audio/all/687_kick.mp3",
+     "slow": "audio/all/687_kick.mp3",
+     "image": "img/kick.jpg",
+     "zh": "踢"
+    },
+    {
+     "id": "play-l1-u2-c4",
+     "type": "word",
+     "en": "Throw",
+     "audio": "audio/all/747_throw.mp3",
+     "slow": "audio/all/747_throw.mp3",
+     "image": "img/throw.jpg",
+     "zh": "扔"
+    },
+    {
+     "id": "play-l1-u2-c5",
+     "type": "word",
+     "en": "Catch",
+     "audio": "audio/all/636_catch.mp3",
+     "slow": "audio/all/636_catch.mp3",
+     "image": "img/catch.jpg",
+     "zh": "接住"
+    },
+    {
+     "id": "play-l1-u2-c6",
+     "type": "word",
+     "en": "Climb",
+     "audio": "audio/all/638_climb.mp3",
+     "slow": "audio/all/638_climb.mp3",
+     "image": "img/climb.jpg",
+     "zh": "爬"
+    }
+   ]
+  },
+  {
+   "id": "play-l2-u1",
+   "band": 2,
+   "title": "Kite",
+   "cards": [
+    {
+     "id": "play-l2-u1-c1",
+     "type": "word",
+     "en": "Kite",
+     "audio": "audio/all/588_kite.mp3",
+     "slow": "audio/all/588_kite.mp3",
+     "image": "img/kite.jpg",
+     "zh": "风筝"
+    },
+    {
+     "id": "play-l2-u1-c2",
+     "type": "word",
+     "en": "Rope",
+     "audio": "audio/all/723_rope.mp3",
+     "slow": "audio/all/723_rope.mp3",
+     "image": "img/rope.jpg",
+     "zh": "跳绳"
+    },
+    {
+     "id": "play-l2-u1-c3",
+     "type": "word",
+     "en": "Swing",
+     "audio": "audio/all/741_swing.mp3",
+     "slow": "audio/all/741_swing.mp3",
+     "image": "img/swing.jpg",
+     "zh": "秋千"
+    },
+    {
+     "id": "play-l2-u1-c4",
+     "type": "word",
+     "en": "Slide",
+     "audio": "audio/all/731_slide.mp3",
+     "slow": "audio/all/731_slide.mp3",
+     "image": "img/slide.jpg",
+     "zh": "滑梯"
+    },
+    {
+     "id": "play-l2-u1-c5",
+     "type": "word",
+     "en": "Boat",
+     "audio": "audio/all/598_boat.mp3",
+     "slow": "audio/all/598_boat.mp3",
+     "image": "img/boat.jpg",
+     "zh": "小船"
+    },
+    {
+     "id": "play-l2-u1-c6",
+     "type": "word",
+     "en": "Plane",
+     "audio": "audio/all/597_plane.mp3",
+     "slow": "audio/all/597_plane.mp3",
+     "image": "img/plane.jpg",
+     "zh": "纸飞机"
+    },
+    {
+     "id": "play-l2-u1-c7",
+     "type": "word",
+     "en": "Balloon",
+     "audio": "audio/all/587_balloon.mp3",
+     "slow": "audio/all/587_balloon.mp3",
+     "image": "img/balloon.jpg",
+     "zh": "气球"
+    },
+    {
+     "id": "play-l2-u1-c8",
+     "type": "word",
+     "en": "Sand",
+     "audio": "audio/all/606_sand.mp3",
+     "slow": "audio/all/606_sand.mp3",
+     "image": "img/sand.jpg",
+     "zh": "沙子"
+    }
+   ]
+  },
+  {
+   "id": "play-l2-u2",
+   "band": 2,
+   "title": "Skip",
+   "cards": [
+    {
+     "id": "play-l2-u2-c1",
+     "type": "word",
+     "en": "Skip",
+     "audio": "audio/all/729_skip.mp3",
+     "slow": "audio/all/729_skip.mp3",
+     "image": "img/skip.jpg",
+     "zh": "蹦跳"
+    },
+    {
+     "id": "play-l2-u2-c2",
+     "type": "word",
+     "en": "Spin",
+     "audio": "audio/all/736_spin.mp3",
+     "slow": "audio/all/736_spin.mp3",
+     "image": "img/spin.jpg",
+     "zh": "转圈"
+    },
+    {
+     "id": "play-l2-u2-c3",
+     "type": "word",
+     "en": "Stretch",
+     "audio": "audio/all/738_stretch.mp3",
+     "slow": "audio/all/738_stretch.mp3",
+     "image": "img/stretch.jpg",
+     "zh": "伸展"
+    },
+    {
+     "id": "play-l2-u2-c4",
+     "type": "word",
+     "en": "March",
+     "audio": "audio/all/693_march.mp3",
+     "slow": "audio/all/693_march.mp3",
+     "image": "img/march.jpg",
+     "zh": "踏步走"
+    },
+    {
+     "id": "play-l2-u2-c5",
+     "type": "word",
+     "en": "Tiptoe",
+     "audio": "audio/all/748_tiptoe.mp3",
+     "slow": "audio/all/748_tiptoe.mp3",
+     "image": "img/tiptoe.jpg",
+     "zh": "踮脚走"
+    },
+    {
+     "id": "play-l2-u2-c6",
+     "type": "word",
+     "en": "Crawl",
+     "audio": "audio/all/641_crawl.mp3",
+     "slow": "audio/all/641_crawl.mp3",
+     "image": "img/crawl.jpg",
+     "zh": "爬行"
+    },
+    {
+     "id": "play-l2-u2-c7",
+     "type": "word",
+     "en": "Wiggle",
+     "audio": "audio/all/761_wiggle.mp3",
+     "slow": "audio/all/761_wiggle.mp3",
+     "image": "img/wiggle.jpg",
+     "zh": "扭一扭"
+    },
+    {
+     "id": "play-l2-u2-c8",
+     "type": "word",
+     "en": "Freeze",
+     "audio": "audio/all/665_freeze.mp3",
+     "slow": "audio/all/665_freeze.mp3",
+     "image": "img/freeze.jpg",
+     "zh": "定住"
+    }
+   ]
+  },
+  {
+   "id": "play-l2-u3",
+   "band": 2,
+   "title": "Big jump",
+   "cards": [
+    {
+     "id": "play-l2-u3-c1",
+     "type": "phrase",
+     "en": "Big jump",
+     "audio": "audio/all/233_big-jump.mp3",
+     "slow": "audio/all/233_big-jump.mp3",
+     "image": "img/big-jump.jpg",
+     "zh": "大跳"
+    },
+    {
+     "id": "play-l2-u3-c2",
+     "type": "phrase",
+     "en": "Little hop",
+     "audio": "audio/all/234_little-hop.mp3",
+     "slow": "audio/all/234_little-hop.mp3",
+     "image": "img/little-hop.jpg",
+     "zh": "小跳"
+    },
+    {
+     "id": "play-l2-u3-c3",
+     "type": "phrase",
+     "en": "Red balloon",
+     "audio": "audio/all/235_red-balloon.mp3",
+     "slow": "audio/all/235_red-balloon.mp3",
+     "image": "img/red-balloon.jpg",
+     "zh": "红气球"
+    }
+   ]
+  },
+  {
+   "id": "play-l3-u1",
+   "band": 3,
+   "title": "Jump high!",
+   "cards": [
+    {
+     "id": "play-l3-u1-c1",
+     "type": "sentence",
+     "en": "Jump high!",
+     "audio": "audio/all/236_jump-high.mp3",
+     "slow": "audio/all/236_jump-high.mp3",
+     "image": "img/jump.jpg",
+     "zh": "跳高"
+    },
+    {
+     "id": "play-l3-u1-c2",
+     "type": "sentence",
+     "en": "Run fast!",
+     "audio": "audio/all/237_run-fast.mp3",
+     "slow": "audio/all/237_run-fast.mp3",
+     "image": "img/run.jpg",
+     "zh": "快跑"
+    },
+    {
+     "id": "play-l3-u1-c3",
+     "type": "sentence",
+     "en": "Walk slowly.",
+     "audio": "audio/all/238_walk-slowly.mp3",
+     "slow": "audio/all/238_walk-slowly.mp3",
+     "image": "img/walk.jpg",
+     "zh": "慢慢走"
+    },
+    {
+     "id": "play-l3-u1-c4",
+     "type": "sentence",
+     "en": "Kick the ball.",
+     "audio": "audio/all/239_kick-the-ball.mp3",
+     "slow": "audio/all/239_kick-the-ball.mp3",
+     "image": "img/kick.jpg",
+     "zh": "踢球"
+    },
+    {
+     "id": "play-l3-u1-c5",
+     "type": "sentence",
+     "en": "Throw the ball.",
+     "audio": "audio/all/240_throw-the-ball.mp3",
+     "slow": "audio/all/240_throw-the-ball.mp3",
+     "image": "img/throw.jpg",
+     "zh": "扔球"
+    },
+    {
+     "id": "play-l3-u1-c6",
+     "type": "sentence",
+     "en": "Catch it!",
+     "audio": "audio/all/241_catch-it.mp3",
+     "slow": "audio/all/241_catch-it.mp3",
+     "image": "img/catch.jpg",
+     "zh": "接住它"
+    },
+    {
+     "id": "play-l3-u1-c7",
+     "type": "sentence",
+     "en": "Clap for me!",
+     "audio": "audio/all/242_clap-for-me.mp3",
+     "slow": "audio/all/242_clap-for-me.mp3",
+     "image": "img/clap.jpg",
+     "zh": "为我拍手"
+    },
+    {
+     "id": "play-l3-u1-c8",
+     "type": "sentence",
+     "en": "Spin around!",
+     "audio": "audio/all/243_spin-around.mp3",
+     "slow": "audio/all/243_spin-around.mp3",
+     "image": "img/spin.jpg",
+     "zh": "转个圈"
+    }
+   ]
+  },
+  {
+   "id": "play-l4-u1",
+   "band": 4,
+   "title": "Can you jump? Yes, I",
+   "cards": [
+    {
+     "id": "play-l4-u1-c1",
+     "type": "qa",
+     "en": "Can you jump? Yes, I can!",
+     "audio": "audio/all/244_can-you-jump-yes-i-can.mp3",
+     "slow": "audio/all/244_can-you-jump-yes-i-can.mp3",
+     "image": "img/jump.jpg",
+     "zh": "你会跳吗?会"
+    },
+    {
+     "id": "play-l4-u1-c2",
+     "type": "qa",
+     "en": "What's this? It's a ball.",
+     "audio": "audio/all/245_what-s-this-it-s-a-ball.mp3",
+     "slow": "audio/all/245_what-s-this-it-s-a-ball.mp3",
+     "image": "img/ball.jpg",
+     "zh": "这是什么?是球"
+    },
+    {
+     "id": "play-l4-u1-c3",
+     "type": "qa",
+     "en": "Do you like to run? Yes!",
+     "audio": "audio/all/246_do-you-like-to-run-yes.mp3",
+     "slow": "audio/all/246_do-you-like-to-run-yes.mp3",
+     "image": "img/run.jpg",
+     "zh": "你喜欢跑步吗?喜欢"
+    },
+    {
+     "id": "play-l4-u1-c4",
+     "type": "qa",
+     "en": "What can you do? I can swim.",
+     "audio": "audio/all/247_what-can-you-do-i-can-swim.mp3",
+     "slow": "audio/all/247_what-can-you-do-i-can-swim.mp3",
+     "image": "img/swim.jpg",
+     "zh": "你会什么?我会游泳"
+    },
+    {
+     "id": "play-l4-u1-c5",
+     "type": "qa",
+     "en": "Where is the kite? Up in the sky!",
+     "audio": "audio/all/248_where-is-the-kite-up-in-the-sky.mp3",
+     "slow": "audio/all/248_where-is-the-kite-up-in-the-sky.mp3",
+     "image": "img/kite.jpg",
+     "zh": "风筝在哪?在天上"
+    },
+    {
+     "id": "play-l4-u1-c6",
+     "type": "qa",
+     "en": "Who is fast? I am fast!",
+     "audio": "audio/all/249_who-is-fast-i-am-fast.mp3",
+     "slow": "audio/all/249_who-is-fast-i-am-fast.mp3",
+     "image": "img/run.jpg",
+     "zh": "谁快?我快"
+    }
+   ]
+  },
+  {
+   "id": "play-l4-u2",
+   "band": 4,
+   "title": "I played ball today.",
+   "cards": [
+    {
+     "id": "play-l4-u2-c1",
+     "type": "retell",
+     "en": "I played ball today.",
+     "audio": "audio/all/250_i-played-ball-today.mp3",
+     "slow": "audio/all/250_i-played-ball-today.mp3",
+     "image": "img/ball.jpg",
+     "zh": "我今天玩了球"
+    },
+    {
+     "id": "play-l4-u2-c2",
+     "type": "retell",
+     "en": "I can jump very high.",
+     "audio": "audio/all/251_i-can-jump-very-high.mp3",
+     "slow": "audio/all/251_i-can-jump-very-high.mp3",
+     "image": "img/jump.jpg",
+     "zh": "我能跳很高"
+    },
+    {
+     "id": "play-l4-u2-c3",
+     "type": "retell",
+     "en": "I ride my bike every day.",
+     "audio": "audio/all/252_i-ride-my-bike-every-day.mp3",
+     "slow": "audio/all/252_i-ride-my-bike-every-day.mp3",
+     "image": "img/bike.jpg",
+     "zh": "我每天都骑车"
+    }
+   ]
+  },
+  {
+   "id": "play-l4-u3",
+   "band": 4,
+   "title": "Can we play ball?",
+   "cards": [
+    {
+     "id": "play-l4-u3-c1",
+     "type": "inquire",
+     "en": "Can we play ball?",
+     "audio": "audio/all/253_can-we-play-ball.mp3",
+     "slow": "audio/all/253_can-we-play-ball.mp3",
+     "image": "img/ball.jpg",
+     "zh": "我们能玩球吗"
+    },
+    {
+     "id": "play-l4-u3-c2",
+     "type": "inquire",
+     "en": "Where is my bike?",
+     "audio": "audio/all/254_where-is-my-bike.mp3",
+     "slow": "audio/all/254_where-is-my-bike.mp3",
+     "image": "img/bike.jpg",
+     "zh": "我的自行车在哪"
+    },
+    {
+     "id": "play-l4-u3-c3",
+     "type": "inquire",
+     "en": "May I go outside?",
+     "audio": "audio/all/255_may-i-go-outside.mp3",
+     "slow": "audio/all/255_may-i-go-outside.mp3",
+     "image": "img/jump.jpg",
+     "zh": "我能出去玩吗"
+    }
+   ]
+  },
+  {
+   "id": "play-l5-u1",
+   "band": 5,
+   "title": "Let's go to the park",
+   "cards": [
+    {
+     "id": "play-l5-u1-c1",
+     "type": "dialog",
+     "en": "Let's go to the park!",
+     "audio": "audio/all/256_let-s-go-to-the-park.mp3",
+     "slow": "audio/all/256_let-s-go-to-the-park.mp3",
+     "image": "img/swing.jpg",
+     "zh": "我们去公园吧"
+    },
+    {
+     "id": "play-l5-u1-c2",
+     "type": "dialog",
+     "en": "Hooray! I love the park!",
+     "audio": "audio/all/257_hooray-i-love-the-park.mp3",
+     "slow": "audio/all/257_hooray-i-love-the-park.mp3",
+     "image": "img/swing.jpg",
+     "zh": "好耶!我爱公园"
+    },
+    {
+     "id": "play-l5-u1-c3",
+     "type": "dialog",
+     "en": "Look! A big kite!",
+     "audio": "audio/all/258_look-a-big-kite.mp3",
+     "slow": "audio/all/258_look-a-big-kite.mp3",
+     "image": "img/kite.jpg",
+     "zh": "看!大风筝"
+    },
+    {
+     "id": "play-l5-u1-c4",
+     "type": "dialog",
+     "en": "Catch the ball, please!",
+     "audio": "audio/all/259_catch-the-ball-please.mp3",
+     "slow": "audio/all/259_catch-the-ball-please.mp3",
+     "image": "img/catch.jpg",
+     "zh": "请接球"
+    },
+    {
+     "id": "play-l5-u1-c5",
+     "type": "dialog",
+     "en": "I got it! I got it!",
+     "audio": "audio/all/260_i-got-it-i-got-it.mp3",
+     "slow": "audio/all/260_i-got-it-i-got-it.mp3",
+     "image": "img/catch.jpg",
+     "zh": "接住了!接住了"
+    },
+    {
+     "id": "play-l5-u1-c6",
+     "type": "dialog",
+     "en": "What a fun day!",
+     "audio": "audio/all/261_what-a-fun-day.mp3",
+     "slow": "audio/all/261_what-a-fun-day.mp3",
+     "image": "img/ball.jpg",
+     "zh": "真开心的一天"
+    }
+   ]
+  },
+  {
+   "id": "play-l6-u1",
+   "band": 6,
+   "title": "I love to play outsi",
+   "cards": [
+    {
+     "id": "play-l6-u1-c1",
+     "type": "story",
+     "en": "I love to play outside.",
+     "audio": "audio/all/262_i-love-to-play-outside.mp3",
+     "slow": "audio/all/262_i-love-to-play-outside.mp3",
+     "image": "img/jump.jpg",
+     "zh": "我爱出去玩"
+    },
+    {
+     "id": "play-l6-u1-c2",
+     "type": "story",
+     "en": "In the morning, I ride my bike.",
+     "audio": "audio/all/263_in-the-morning-i-ride-my-bike.mp3",
+     "slow": "audio/all/263_in-the-morning-i-ride-my-bike.mp3",
+     "image": "img/bike.jpg",
+     "zh": "早上我骑自行车"
+    },
+    {
+     "id": "play-l6-u1-c3",
+     "type": "story",
+     "en": "At noon, I play ball with Daddy.",
+     "audio": "audio/all/264_at-noon-i-play-ball-with-daddy.mp3",
+     "slow": "audio/all/264_at-noon-i-play-ball-with-daddy.mp3",
+     "image": "img/ball.jpg",
+     "zh": "中午我和爸爸玩球"
+    },
+    {
+     "id": "play-l6-u1-c4",
+     "type": "story",
+     "en": "I run and jump in the sun.",
+     "audio": "audio/all/265_i-run-and-jump-in-the-sun.mp3",
+     "slow": "audio/all/265_i-run-and-jump-in-the-sun.mp3",
+     "image": "img/jump.jpg",
+     "zh": "我在太阳下又跑又跳"
+    },
+    {
+     "id": "play-l6-u1-c5",
+     "type": "story",
+     "en": "Playing makes me strong!",
+     "audio": "audio/all/266_playing-makes-me-strong.mp3",
+     "slow": "audio/all/266_playing-makes-me-strong.mp3",
+     "image": "img/jump.jpg",
+     "zh": "运动让我强壮"
+    }
+   ]
+  }
+ ]
 }

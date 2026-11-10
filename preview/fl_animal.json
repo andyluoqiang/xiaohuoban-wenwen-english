@@ -40,8 +40,8 @@
      "id": "fl_animal-l1-u1-c4",
      "type": "word",
      "en": "Swan",
-     "audio": "audio/all/1758_swan.mp3",
-     "slow": "audio/all/1758_swan.mp3",
+     "audio": "audio/all/2258_swan.mp3",
+     "slow": "audio/all/2258_swan.mp3",
      "image": "img/cam-swan.jpg",
      "zh": "天鹅"
     },
@@ -49,8 +49,8 @@
      "id": "fl_animal-l1-u1-c5",
      "type": "word",
      "en": "Octopus",
-     "audio": "audio/all/1625_octopus.mp3",
-     "slow": "audio/all/1625_octopus.mp3",
+     "audio": "audio/all/2125_octopus.mp3",
+     "slow": "audio/all/2125_octopus.mp3",
      "image": "img/cam-octopus.jpg",
      "zh": "章鱼"
     },
@@ -129,8 +129,8 @@
      "id": "fl_animal-l1-u2-c5",
      "type": "word",
      "en": "Nest",
-     "audio": "audio/all/1613_nest.mp3",
-     "slow": "audio/all/1613_nest.mp3",
+     "audio": "audio/all/2113_nest.mp3",
+     "slow": "audio/all/2113_nest.mp3",
      "image": "img/cam-nest.jpg",
      "zh": "巢"
     },
@@ -138,8 +138,8 @@
      "id": "fl_animal-l1-u2-c6",
      "type": "word",
      "en": "Wing",
-     "audio": "audio/all/1813_wing.mp3",
-     "slow": "audio/all/1813_wing.mp3",
+     "audio": "audio/all/2313_wing.mp3",
+     "slow": "audio/all/2313_wing.mp3",
      "image": "img/cam-wing.jpg",
      "zh": "翅膀"
     },

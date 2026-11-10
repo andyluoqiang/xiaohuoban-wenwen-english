@@ -13,8 +13,8 @@
      "id": "fl_world-l1-u1-c1",
      "type": "word",
      "en": "Winter",
-     "audio": "audio/all/1815_winter.mp3",
-     "slow": "audio/all/1815_winter.mp3",
+     "audio": "audio/all/2315_winter.mp3",
+     "slow": "audio/all/2315_winter.mp3",
      "image": "img/cam-winter.jpg",
      "zh": "冬天"
     },
@@ -22,8 +22,8 @@
      "id": "fl_world-l1-u1-c2",
      "type": "word",
      "en": "Snowman",
-     "audio": "audio/all/1715_snowman.mp3",
-     "slow": "audio/all/1715_snowman.mp3",
+     "audio": "audio/all/2215_snowman.mp3",
+     "slow": "audio/all/2215_snowman.mp3",
      "image": "img/cam-snowman.jpg",
      "zh": "雪人"
     },
@@ -31,8 +31,8 @@
      "id": "fl_world-l1-u1-c3",
      "type": "word",
      "en": "Snowball",
-     "audio": "audio/all/1712_snowball.mp3",
-     "slow": "audio/all/1712_snowball.mp3",
+     "audio": "audio/all/2212_snowball.mp3",
+     "slow": "audio/all/2212_snowball.mp3",
      "image": "img/cam-snowball.jpg",
      "zh": "雪球"
     },
@@ -40,8 +40,8 @@
      "id": "fl_world-l1-u1-c4",
      "type": "word",
      "en": "Snowboarding",
-     "audio": "audio/all/1714_snowboarding.mp3",
-     "slow": "audio/all/1714_snowboarding.mp3",
+     "audio": "audio/all/2214_snowboarding.mp3",
+     "slow": "audio/all/2214_snowboarding.mp3",
      "image": "img/cam-snowboarding.jpg",
      "zh": "单板滑雪运动"
     },
@@ -49,8 +49,8 @@
      "id": "fl_world-l1-u1-c5",
      "type": "word",
      "en": "Ski",
-     "audio": "audio/all/1707_ski.mp3",
-     "slow": "audio/all/1707_ski.mp3",
+     "audio": "audio/all/2207_ski.mp3",
+     "slow": "audio/all/2207_ski.mp3",
      "image": "img/cam-ski.jpg",
      "zh": "滑雪"
     }

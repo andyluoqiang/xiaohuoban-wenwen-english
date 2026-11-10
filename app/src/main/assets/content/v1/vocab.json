@@ -1578,7 +1578,7 @@
   "w": "eat",
   "zh": "吃",
   "pos": null,
-  "img": null,
+  "img": "img/ai-eat.jpg",
   "aud": "audio/all/651_eat.mp3"
  },
  "egg": {
@@ -1788,7 +1788,7 @@
   "w": "hungry",
   "zh": "饿了",
   "pos": null,
-  "img": null,
+  "img": "img/ai-hungry.jpg",
   "aud": "audio/all/681_hungry.mp3"
  },
  "hurts": {
@@ -2201,7 +2201,7 @@
   "w": "sweet",
   "zh": "甜的",
   "pos": null,
-  "img": "img/cam-sweet.jpg",
+  "img": "img/ai-sweet.jpg",
   "aud": "audio/all/740_sweet.mp3"
  },
  "swing": {
@@ -2243,7 +2243,7 @@
   "w": "thirsty",
   "zh": "渴了",
   "pos": null,
-  "img": null,
+  "img": "img/ai-thirsty.jpg",
   "aud": "audio/all/746_thirsty.mp3"
  },
  "throw": {
@@ -2397,14 +2397,14 @@
   "w": "yummy",
   "zh": "真好吃",
   "pos": null,
-  "img": null,
+  "img": "img/ai-yummy.jpg",
   "aud": "audio/all/768_yummy.mp3"
  },
  "drink": {
   "w": "drink",
   "zh": "喝、饮料",
   "pos": null,
-  "img": null,
+  "img": "img/ai-drink.jpg",
   "aud": "audio/all/769_drink.mp3"
  },
  "polar bear": {
@@ -5006,7 +5006,7 @@
  },
  "dvd": {
   "w": "dvd",
-  "zh": "DVD",
+  "zh": "DVD 光盘",
   "pos": null,
   "img": null,
   "aud": "audio/all/1285_dvd.mp3"
@@ -8348,1588 +8348,1588 @@
   "zh": "午夜",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1600_midnight.mp3"
+  "aud": "audio/all/2100_midnight.mp3"
  },
  "might": {
   "w": "might",
   "zh": "可能",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1601_might.mp3"
+  "aud": "audio/all/2101_might.mp3"
  },
  "million": {
   "w": "million",
   "zh": "百万",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1602_million.mp3"
+  "aud": "audio/all/2102_million.mp3"
  },
  "mind": {
   "w": "mind",
   "zh": "介意",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1603_mind.mp3"
+  "aud": "audio/all/2103_mind.mp3"
  },
  "minute": {
   "w": "minute",
   "zh": "分钟",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1604_minute.mp3"
+  "aud": "audio/all/2104_minute.mp3"
  },
  "missing": {
   "w": "missing",
   "zh": "丢失的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1605_missing.mp3"
+  "aud": "audio/all/2105_missing.mp3"
  },
  "mix": {
   "w": "mix",
   "zh": "混合",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1606_mix.mp3"
+  "aud": "audio/all/2106_mix.mp3"
  },
  "money": {
   "w": "money",
   "zh": "钱",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1607_money.mp3"
+  "aud": "audio/all/2107_money.mp3"
  },
  "month": {
   "w": "month",
   "zh": "月份",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1608_month.mp3"
+  "aud": "audio/all/2108_month.mp3"
  },
  "motorway": {
   "w": "motorway",
   "zh": "高速公路",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1609_motorway.mp3"
+  "aud": "audio/all/2109_motorway.mp3"
  },
  "much": {
   "w": "much",
   "zh": "很多",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1610_much.mp3"
+  "aud": "audio/all/2110_much.mp3"
  },
  "museum": {
   "w": "museum",
   "zh": "博物馆",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1611_museum.mp3"
+  "aud": "audio/all/2111_museum.mp3"
  },
  "necklace": {
   "w": "necklace",
   "zh": "项链",
   "pos": null,
   "img": "img/ai-necklace.jpg",
-  "aud": "audio/all/1612_necklace.mp3"
+  "aud": "audio/all/2112_necklace.mp3"
  },
  "nest": {
   "w": "nest",
   "zh": "巢",
   "pos": null,
   "img": "img/cam-nest.jpg",
-  "aud": "audio/all/1613_nest.mp3"
+  "aud": "audio/all/2113_nest.mp3"
  },
  "news": {
   "w": "news",
   "zh": "新闻",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1614_news.mp3"
+  "aud": "audio/all/2114_news.mp3"
  },
  "newspaper": {
   "w": "newspaper",
   "zh": "报纸",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1615_newspaper.mp3"
+  "aud": "audio/all/2115_newspaper.mp3"
  },
  "next": {
   "w": "next",
   "zh": "下一个",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1616_next.mp3"
+  "aud": "audio/all/2116_next.mp3"
  },
  "no problem": {
   "w": "no problem",
   "zh": "没问题",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1617_no-problem.mp3"
+  "aud": "audio/all/2117_no-problem.mp3"
  },
  "no-one": {
   "w": "no-one",
   "zh": "没有人",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1618_no-one.mp3"
+  "aud": "audio/all/2118_no-one.mp3"
  },
  "noisy": {
   "w": "noisy",
   "zh": "吵闹的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1619_noisy.mp3"
+  "aud": "audio/all/2119_noisy.mp3"
  },
  "north": {
   "w": "north",
   "zh": "北",
   "pos": null,
   "img": "img/cam-north.jpg",
-  "aud": "audio/all/1620_north.mp3"
+  "aud": "audio/all/2120_north.mp3"
  },
  "november": {
   "w": "november",
   "zh": "十一月",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1621_november.mp3"
+  "aud": "audio/all/2121_november.mp3"
  },
  "nowhere": {
   "w": "nowhere",
   "zh": "无处",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1622_nowhere.mp3"
+  "aud": "audio/all/2122_nowhere.mp3"
  },
  "ocean": {
   "w": "ocean",
   "zh": "海洋",
   "pos": null,
   "img": "img/ai-ocean.jpg",
-  "aud": "audio/all/1623_ocean.mp3"
+  "aud": "audio/all/2123_ocean.mp3"
  },
  "october": {
   "w": "october",
   "zh": "十月",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1624_october.mp3"
+  "aud": "audio/all/2124_october.mp3"
  },
  "octopus": {
   "w": "octopus",
   "zh": "章鱼",
   "pos": null,
   "img": "img/cam-octopus.jpg",
-  "aud": "audio/all/1625_octopus.mp3"
+  "aud": "audio/all/2125_octopus.mp3"
  },
  "of course": {
   "w": "of course",
   "zh": "当然",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1626_of-course.mp3"
+  "aud": "audio/all/2126_of-course.mp3"
  },
  "office": {
   "w": "office",
   "zh": "办公室",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1627_office.mp3"
+  "aud": "audio/all/2127_office.mp3"
  },
  "oliver": {
   "w": "oliver",
   "zh": "奥利弗（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1628_oliver.mp3"
+  "aud": "audio/all/2128_oliver.mp3"
  },
  "olives": {
   "w": "olives",
   "zh": "橄榄",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1629_olives.mp3"
+  "aud": "audio/all/2129_olives.mp3"
  },
  "once": {
   "w": "once",
   "zh": "一次",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1630_once.mp3"
+  "aud": "audio/all/2130_once.mp3"
  },
  "online": {
   "w": "online",
   "zh": "在线",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1631_online.mp3"
+  "aud": "audio/all/2131_online.mp3"
  },
  "other": {
   "w": "other",
   "zh": "其他的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1632_other.mp3"
+  "aud": "audio/all/2132_other.mp3"
  },
  "oven": {
   "w": "oven",
   "zh": "烤箱",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1633_oven.mp3"
+  "aud": "audio/all/2133_oven.mp3"
  },
  "over": {
   "w": "over",
   "zh": "在……上方",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1634_over.mp3"
+  "aud": "audio/all/2134_over.mp3"
  },
  "p.m.": {
   "w": "p.m.",
   "zh": "下午",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1635_p-m.mp3"
+  "aud": "audio/all/2135_p-m.mp3"
  },
  "pajamas": {
   "w": "pajamas",
   "zh": "睡衣",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1636_pajamas.mp3"
+  "aud": "audio/all/2136_pajamas.mp3"
  },
  "passenger": {
   "w": "passenger",
   "zh": "乘客",
   "pos": null,
   "img": "img/cam-passenger.jpg",
-  "aud": "audio/all/1637_passenger.mp3"
+  "aud": "audio/all/2137_passenger.mp3"
  },
  "past": {
   "w": "past",
   "zh": "过去",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1638_past.mp3"
+  "aud": "audio/all/2138_past.mp3"
  },
  "path": {
   "w": "path",
   "zh": "小路",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1639_path.mp3"
+  "aud": "audio/all/2139_path.mp3"
  },
  "pepper": {
   "w": "pepper",
   "zh": "胡椒",
   "pos": null,
   "img": "img/cam-pepper.jpg",
-  "aud": "audio/all/1640_pepper.mp3"
+  "aud": "audio/all/2140_pepper.mp3"
  },
  "perhaps": {
   "w": "perhaps",
   "zh": "也许",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1641_perhaps.mp3"
+  "aud": "audio/all/2141_perhaps.mp3"
  },
  "photographer": {
   "w": "photographer",
   "zh": "摄影师",
   "pos": null,
   "img": "img/ai-photographer.jpg",
-  "aud": "audio/all/1642_photographer.mp3"
+  "aud": "audio/all/2142_photographer.mp3"
  },
  "piece": {
   "w": "piece",
   "zh": "一块",
   "pos": null,
   "img": "img/cam-piece.jpg",
-  "aud": "audio/all/1643_piece.mp3"
+  "aud": "audio/all/2143_piece.mp3"
  },
  "pilot": {
   "w": "pilot",
   "zh": "飞行员",
   "pos": null,
   "img": "img/ai-pilot.jpg",
-  "aud": "audio/all/1644_pilot.mp3"
+  "aud": "audio/all/2144_pilot.mp3"
  },
  "pizza": {
   "w": "pizza",
   "zh": "披萨",
   "pos": null,
   "img": "img/cam-pizza.jpg",
-  "aud": "audio/all/1645_pizza.mp3"
+  "aud": "audio/all/2145_pizza.mp3"
  },
  "planet": {
   "w": "planet",
   "zh": "行星",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1646_planet.mp3"
+  "aud": "audio/all/2146_planet.mp3"
  },
  "plastic": {
   "w": "plastic",
   "zh": "塑料",
   "pos": null,
   "img": "img/cam-plastic.jpg",
-  "aud": "audio/all/1647_plastic.mp3"
+  "aud": "audio/all/2147_plastic.mp3"
  },
  "platform": {
   "w": "platform",
   "zh": "站台",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1648_platform.mp3"
+  "aud": "audio/all/2148_platform.mp3"
  },
  "pleased": {
   "w": "pleased",
   "zh": "高兴的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1649_pleased.mp3"
+  "aud": "audio/all/2149_pleased.mp3"
  },
  "pocket": {
   "w": "pocket",
   "zh": "口袋",
   "pos": null,
   "img": "img/ai-pocket.jpg",
-  "aud": "audio/all/1650_pocket.mp3"
+  "aud": "audio/all/2150_pocket.mp3"
  },
  "police officer": {
   "w": "police officer",
   "zh": "警察",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1651_police-officer.mp3"
+  "aud": "audio/all/2151_police-officer.mp3"
  },
  "police station": {
   "w": "police station",
   "zh": "警察局",
   "pos": null,
   "img": "img/cam-police_station.jpg",
-  "aud": "audio/all/1652_police-station.mp3"
+  "aud": "audio/all/2152_police-station.mp3"
  },
  "pond": {
   "w": "pond",
   "zh": "池塘",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1653_pond.mp3"
+  "aud": "audio/all/2153_pond.mp3"
  },
  "poor": {
   "w": "poor",
   "zh": "贫穷的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1654_poor.mp3"
+  "aud": "audio/all/2154_poor.mp3"
  },
  "pop music": {
   "w": "pop music",
   "zh": "流行音乐",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1655_pop-music.mp3"
+  "aud": "audio/all/2155_pop-music.mp3"
  },
  "popular": {
   "w": "popular",
   "zh": "受欢迎的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1656_popular.mp3"
+  "aud": "audio/all/2156_popular.mp3"
  },
  "post": {
   "w": "post",
   "zh": "邮寄",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1657_post.mp3"
+  "aud": "audio/all/2157_post.mp3"
  },
  "post office": {
   "w": "post office",
   "zh": "邮局",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1658_post-office.mp3"
+  "aud": "audio/all/2158_post-office.mp3"
  },
  "postcard": {
   "w": "postcard",
   "zh": "明信片",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1659_postcard.mp3"
+  "aud": "audio/all/2159_postcard.mp3"
  },
  "prefer": {
   "w": "prefer",
   "zh": "更喜欢",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1660_prefer.mp3"
+  "aud": "audio/all/2160_prefer.mp3"
  },
  "prepare": {
   "w": "prepare",
   "zh": "准备",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1661_prepare.mp3"
+  "aud": "audio/all/2161_prepare.mp3"
  },
  "prize": {
   "w": "prize",
   "zh": "奖品",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1662_prize.mp3"
+  "aud": "audio/all/2162_prize.mp3"
  },
  "problem": {
   "w": "problem",
   "zh": "问题",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1663_problem.mp3"
+  "aud": "audio/all/2163_problem.mp3"
  },
  "programme": {
   "w": "programme",
   "zh": "节目",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1664_programme.mp3"
+  "aud": "audio/all/2164_programme.mp3"
  },
  "project": {
   "w": "project",
   "zh": "项目",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1665_project.mp3"
+  "aud": "audio/all/2165_project.mp3"
  },
  "pull": {
   "w": "pull",
   "zh": "拉",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1666_pull.mp3"
+  "aud": "audio/all/2166_pull.mp3"
  },
  "push": {
   "w": "push",
   "zh": "推",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1667_push.mp3"
+  "aud": "audio/all/2167_push.mp3"
  },
  "puzzle": {
   "w": "puzzle",
   "zh": "拼图",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1668_puzzle.mp3"
+  "aud": "audio/all/2168_puzzle.mp3"
  },
  "pyjamas": {
   "w": "pyjamas",
   "zh": "睡衣",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1669_pyjamas.mp3"
+  "aud": "audio/all/2169_pyjamas.mp3"
  },
  "pyramid": {
   "w": "pyramid",
   "zh": "金字塔",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1670_pyramid.mp3"
+  "aud": "audio/all/2170_pyramid.mp3"
  },
  "quarter": {
   "w": "quarter",
   "zh": "四分之一",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1671_quarter.mp3"
+  "aud": "audio/all/2171_quarter.mp3"
  },
  "queen": {
   "w": "queen",
   "zh": "女王",
   "pos": null,
   "img": "img/cam-queen.jpg",
-  "aud": "audio/all/1672_queen.mp3"
+  "aud": "audio/all/2172_queen.mp3"
  },
  "quite": {
   "w": "quite",
   "zh": "相当",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1673_quite.mp3"
+  "aud": "audio/all/2173_quite.mp3"
  },
  "quiz": {
   "w": "quiz",
   "zh": "竞答",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1674_quiz.mp3"
+  "aud": "audio/all/2174_quiz.mp3"
  },
  "race": {
   "w": "race",
   "zh": "比赛",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1675_race.mp3"
+  "aud": "audio/all/2175_race.mp3"
  },
  "racing": {
   "w": "racing",
   "zh": "赛车",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1676_racing.mp3"
+  "aud": "audio/all/2176_racing.mp3"
  },
  "railway": {
   "w": "railway",
   "zh": "铁路",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1677_railway.mp3"
+  "aud": "audio/all/2177_railway.mp3"
  },
  "remember": {
   "w": "remember",
   "zh": "记得",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1678_remember.mp3"
+  "aud": "audio/all/2178_remember.mp3"
  },
  "repair": {
   "w": "repair",
   "zh": "修理",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1679_repair.mp3"
+  "aud": "audio/all/2179_repair.mp3"
  },
  "repeat": {
   "w": "repeat",
   "zh": "重复",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1680_repeat.mp3"
+  "aud": "audio/all/2180_repeat.mp3"
  },
  "restaurant": {
   "w": "restaurant",
   "zh": "餐厅",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1681_restaurant.mp3"
+  "aud": "audio/all/2181_restaurant.mp3"
  },
  "rich": {
   "w": "rich",
   "zh": "富有的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1682_rich.mp3"
+  "aud": "audio/all/2182_rich.mp3"
  },
  "richard": {
   "w": "richard",
   "zh": "理查德（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1683_richard.mp3"
+  "aud": "audio/all/2183_richard.mp3"
  },
  "ring": {
   "w": "ring",
   "zh": "戒指",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1684_ring.mp3"
+  "aud": "audio/all/2184_ring.mp3"
  },
  "robert": {
   "w": "robert",
   "zh": "罗伯特（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1685_robert.mp3"
+  "aud": "audio/all/2185_robert.mp3"
  },
  "rock music": {
   "w": "rock music",
   "zh": "摇滚乐",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1686_rock-music.mp3"
+  "aud": "audio/all/2186_rock-music.mp3"
  },
  "rocket": {
   "w": "rocket",
   "zh": "火箭",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1687_rocket.mp3"
+  "aud": "audio/all/2187_rocket.mp3"
  },
  "rucksack": {
   "w": "rucksack",
   "zh": "背包",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1688_rucksack.mp3"
+  "aud": "audio/all/2188_rucksack.mp3"
  },
  "salt": {
   "w": "salt",
   "zh": "盐",
   "pos": null,
   "img": "img/cam-salt.jpg",
-  "aud": "audio/all/1689_salt.mp3"
+  "aud": "audio/all/2189_salt.mp3"
  },
  "same": {
   "w": "same",
   "zh": "相同的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1690_same.mp3"
+  "aud": "audio/all/2190_same.mp3"
  },
  "sarah": {
   "w": "sarah",
   "zh": "莎拉（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1691_sarah.mp3"
+  "aud": "audio/all/2191_sarah.mp3"
  },
  "save": {
   "w": "save",
   "zh": "节省、救",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1692_save.mp3"
+  "aud": "audio/all/2192_save.mp3"
  },
  "science": {
   "w": "science",
   "zh": "科学",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1693_science.mp3"
+  "aud": "audio/all/2193_science.mp3"
  },
  "scissors": {
   "w": "scissors",
   "zh": "剪刀",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1694_scissors.mp3"
+  "aud": "audio/all/2194_scissors.mp3"
  },
  "screen": {
   "w": "screen",
   "zh": "屏幕",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1695_screen.mp3"
+  "aud": "audio/all/2195_screen.mp3"
  },
  "search": {
   "w": "search",
   "zh": "搜索",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1696_search.mp3"
+  "aud": "audio/all/2196_search.mp3"
  },
  "secret": {
   "w": "secret",
   "zh": "秘密",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1697_secret.mp3"
+  "aud": "audio/all/2197_secret.mp3"
  },
  "sell": {
   "w": "sell",
   "zh": "卖",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1698_sell.mp3"
+  "aud": "audio/all/2198_sell.mp3"
  },
  "september": {
   "w": "september",
   "zh": "九月",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1699_september.mp3"
+  "aud": "audio/all/2199_september.mp3"
  },
  "several": {
   "w": "several",
   "zh": "几个",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1700_several.mp3"
+  "aud": "audio/all/2200_several.mp3"
  },
  "shampoo": {
   "w": "shampoo",
   "zh": "洗发水",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1701_shampoo.mp3"
+  "aud": "audio/all/2201_shampoo.mp3"
  },
  "shelf": {
   "w": "shelf",
   "zh": "架子",
   "pos": null,
   "img": "img/cam-shelf.jpg",
-  "aud": "audio/all/1702_shelf.mp3"
+  "aud": "audio/all/2202_shelf.mp3"
  },
  "should": {
   "w": "should",
   "zh": "应该",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1703_should.mp3"
+  "aud": "audio/all/2203_should.mp3"
  },
  "silver": {
   "w": "silver",
   "zh": "银",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1704_silver.mp3"
+  "aud": "audio/all/2204_silver.mp3"
  },
  "since": {
   "w": "since",
   "zh": "自从",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1705_since.mp3"
+  "aud": "audio/all/2205_since.mp3"
  },
  "singer": {
   "w": "singer",
   "zh": "歌手",
   "pos": null,
   "img": "img/cam-singer.jpg",
-  "aud": "audio/all/1706_singer.mp3"
+  "aud": "audio/all/2206_singer.mp3"
  },
  "ski": {
   "w": "ski",
   "zh": "滑雪",
   "pos": null,
   "img": "img/cam-ski.jpg",
-  "aud": "audio/all/1707_ski.mp3"
+  "aud": "audio/all/2207_ski.mp3"
  },
  "skyscraper": {
   "w": "skyscraper",
   "zh": "摩天大楼",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1708_skyscraper.mp3"
+  "aud": "audio/all/2208_skyscraper.mp3"
  },
  "sledge": {
   "w": "sledge",
   "zh": "雪橇",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1709_sledge.mp3"
+  "aud": "audio/all/2209_sledge.mp3"
  },
  "smell": {
   "w": "smell",
   "zh": "闻",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1710_smell.mp3"
+  "aud": "audio/all/2210_smell.mp3"
  },
  "snack": {
   "w": "snack",
   "zh": "零食",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1711_snack.mp3"
+  "aud": "audio/all/2211_snack.mp3"
  },
  "snowball": {
   "w": "snowball",
   "zh": "雪球",
   "pos": null,
   "img": "img/cam-snowball.jpg",
-  "aud": "audio/all/1712_snowball.mp3"
+  "aud": "audio/all/2212_snowball.mp3"
  },
  "snowboard": {
   "w": "snowboard",
   "zh": "单板滑雪",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1713_snowboard.mp3"
+  "aud": "audio/all/2213_snowboard.mp3"
  },
  "snowboarding": {
   "w": "snowboarding",
   "zh": "单板滑雪运动",
   "pos": null,
   "img": "img/cam-snowboarding.jpg",
-  "aud": "audio/all/1714_snowboarding.mp3"
+  "aud": "audio/all/2214_snowboarding.mp3"
  },
  "snowman": {
   "w": "snowman",
   "zh": "雪人",
   "pos": null,
   "img": "img/cam-snowman.jpg",
-  "aud": "audio/all/1715_snowman.mp3"
+  "aud": "audio/all/2215_snowman.mp3"
  },
  "soap": {
   "w": "soap",
   "zh": "肥皂",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1716_soap.mp3"
+  "aud": "audio/all/2216_soap.mp3"
  },
  "somewhere": {
   "w": "somewhere",
   "zh": "某处",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1717_somewhere.mp3"
+  "aud": "audio/all/2217_somewhere.mp3"
  },
  "soon": {
   "w": "soon",
   "zh": "很快",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1718_soon.mp3"
+  "aud": "audio/all/2218_soon.mp3"
  },
  "sophia": {
   "w": "sophia",
   "zh": "索菲亚（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1719_sophia.mp3"
+  "aud": "audio/all/2219_sophia.mp3"
  },
  "sore": {
   "w": "sore",
   "zh": "疼痛的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1720_sore.mp3"
+  "aud": "audio/all/2220_sore.mp3"
  },
  "sound": {
   "w": "sound",
   "zh": "声音",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1721_sound.mp3"
+  "aud": "audio/all/2221_sound.mp3"
  },
  "south": {
   "w": "south",
   "zh": "南",
   "pos": null,
   "img": "img/cam-south.jpg",
-  "aud": "audio/all/1722_south.mp3"
+  "aud": "audio/all/2222_south.mp3"
  },
  "space": {
   "w": "space",
   "zh": "太空",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1723_space.mp3"
+  "aud": "audio/all/2223_space.mp3"
  },
  "spaceship": {
   "w": "spaceship",
   "zh": "宇宙飞船",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1724_spaceship.mp3"
+  "aud": "audio/all/2224_spaceship.mp3"
  },
  "speak": {
   "w": "speak",
   "zh": "说话",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1725_speak.mp3"
+  "aud": "audio/all/2225_speak.mp3"
  },
  "special": {
   "w": "special",
   "zh": "特别的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1726_special.mp3"
+  "aud": "audio/all/2226_special.mp3"
  },
  "spend": {
   "w": "spend",
   "zh": "花费",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1727_spend.mp3"
+  "aud": "audio/all/2227_spend.mp3"
  },
  "spoon": {
   "w": "spoon",
   "zh": "勺子",
   "pos": null,
   "img": "img/cam-spoon.jpg",
-  "aud": "audio/all/1728_spoon.mp3"
+  "aud": "audio/all/2228_spoon.mp3"
  },
  "spot": {
   "w": "spot",
   "zh": "斑点",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1729_spot.mp3"
+  "aud": "audio/all/2229_spot.mp3"
  },
  "spotted": {
   "w": "spotted",
   "zh": "有斑点的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1730_spotted.mp3"
+  "aud": "audio/all/2230_spotted.mp3"
  },
  "spring": {
   "w": "spring",
   "zh": "春天",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1731_spring.mp3"
+  "aud": "audio/all/2231_spring.mp3"
  },
  "stadium": {
   "w": "stadium",
   "zh": "体育场",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1732_stadium.mp3"
+  "aud": "audio/all/2232_stadium.mp3"
  },
  "stage": {
   "w": "stage",
   "zh": "舞台",
   "pos": null,
   "img": "img/cam-stage.jpg",
-  "aud": "audio/all/1733_stage.mp3"
+  "aud": "audio/all/2233_stage.mp3"
  },
  "stamp": {
   "w": "stamp",
   "zh": "邮票",
   "pos": null,
   "img": "img/cam-stamp.jpg",
-  "aud": "audio/all/1734_stamp.mp3"
+  "aud": "audio/all/2234_stamp.mp3"
  },
  "stay": {
   "w": "stay",
   "zh": "停留",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1735_stay.mp3"
+  "aud": "audio/all/2235_stay.mp3"
  },
  "step": {
   "w": "step",
   "zh": "步骤",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1736_step.mp3"
+  "aud": "audio/all/2236_step.mp3"
  },
  "still": {
   "w": "still",
   "zh": "仍然",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1737_still.mp3"
+  "aud": "audio/all/2237_still.mp3"
  },
  "stone": {
   "w": "stone",
   "zh": "石头",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1738_stone.mp3"
+  "aud": "audio/all/2238_stone.mp3"
  },
  "storm": {
   "w": "storm",
   "zh": "暴风雨",
   "pos": null,
   "img": "img/cam-storm.jpg",
-  "aud": "audio/all/1739_storm.mp3"
+  "aud": "audio/all/2239_storm.mp3"
  },
  "straight on": {
   "w": "straight on",
   "zh": "一直往前",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1740_straight-on.mp3"
+  "aud": "audio/all/2240_straight-on.mp3"
  },
  "strange": {
   "w": "strange",
   "zh": "奇怪的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1741_strange.mp3"
+  "aud": "audio/all/2241_strange.mp3"
  },
  "strawberry": {
   "w": "strawberry",
   "zh": "草莓",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1742_strawberry.mp3"
+  "aud": "audio/all/2242_strawberry.mp3"
  },
  "stream": {
   "w": "stream",
   "zh": "小溪",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1743_stream.mp3"
+  "aud": "audio/all/2243_stream.mp3"
  },
  "stripe": {
   "w": "stripe",
   "zh": "条纹",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1744_stripe.mp3"
+  "aud": "audio/all/2244_stripe.mp3"
  },
  "striped": {
   "w": "striped",
   "zh": "有条纹的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1745_striped.mp3"
+  "aud": "audio/all/2245_striped.mp3"
  },
  "student": {
   "w": "student",
   "zh": "学生",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1746_student.mp3"
+  "aud": "audio/all/2246_student.mp3"
  },
  "study": {
   "w": "study",
   "zh": "学习",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1747_study.mp3"
+  "aud": "audio/all/2247_study.mp3"
  },
  "subject": {
   "w": "subject",
   "zh": "科目",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1748_subject.mp3"
+  "aud": "audio/all/2248_subject.mp3"
  },
  "such": {
   "w": "such",
   "zh": "这样的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1749_such.mp3"
+  "aud": "audio/all/2249_such.mp3"
  },
  "suddenly": {
   "w": "suddenly",
   "zh": "突然",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1750_suddenly.mp3"
+  "aud": "audio/all/2250_suddenly.mp3"
  },
  "sugar": {
   "w": "sugar",
   "zh": "糖",
   "pos": null,
   "img": "img/cam-sugar.jpg",
-  "aud": "audio/all/1751_sugar.mp3"
+  "aud": "audio/all/2251_sugar.mp3"
  },
  "suitcase": {
   "w": "suitcase",
   "zh": "行李箱",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1752_suitcase.mp3"
+  "aud": "audio/all/2252_suitcase.mp3"
  },
  "summer": {
   "w": "summer",
   "zh": "夏天",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1753_summer.mp3"
+  "aud": "audio/all/2253_summer.mp3"
  },
  "sunglasses": {
   "w": "sunglasses",
   "zh": "太阳镜",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1754_sunglasses.mp3"
+  "aud": "audio/all/2254_sunglasses.mp3"
  },
  "sure": {
   "w": "sure",
   "zh": "确定的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1755_sure.mp3"
+  "aud": "audio/all/2255_sure.mp3"
  },
  "surname": {
   "w": "surname",
   "zh": "姓",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1756_surname.mp3"
+  "aud": "audio/all/2256_surname.mp3"
  },
  "surprise": {
   "w": "surprise",
   "zh": "惊喜",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1757_surprise.mp3"
+  "aud": "audio/all/2257_surprise.mp3"
  },
  "swan": {
   "w": "swan",
   "zh": "天鹅",
   "pos": null,
   "img": "img/cam-swan.jpg",
-  "aud": "audio/all/1758_swan.mp3"
+  "aud": "audio/all/2258_swan.mp3"
  },
  "taste": {
   "w": "taste",
   "zh": "尝",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1759_taste.mp3"
+  "aud": "audio/all/2259_taste.mp3"
  },
  "taxi": {
   "w": "taxi",
   "zh": "出租车",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1760_taxi.mp3"
+  "aud": "audio/all/2260_taxi.mp3"
  },
  "team": {
   "w": "team",
   "zh": "队伍",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1761_team.mp3"
+  "aud": "audio/all/2261_team.mp3"
  },
  "telephone": {
   "w": "telephone",
   "zh": "电话",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1762_telephone.mp3"
+  "aud": "audio/all/2262_telephone.mp3"
  },
  "tent": {
   "w": "tent",
   "zh": "帐篷",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1763_tent.mp3"
+  "aud": "audio/all/2263_tent.mp3"
  },
  "theatre": {
   "w": "theatre",
   "zh": "剧院",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1764_theatre.mp3"
+  "aud": "audio/all/2264_theatre.mp3"
  },
  "thousand": {
   "w": "thousand",
   "zh": "一千",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1765_thousand.mp3"
+  "aud": "audio/all/2265_thousand.mp3"
  },
  "through": {
   "w": "through",
   "zh": "穿过",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1766_through.mp3"
+  "aud": "audio/all/2266_through.mp3"
  },
  "tidy": {
   "w": "tidy",
   "zh": "整洁的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1767_tidy.mp3"
+  "aud": "audio/all/2267_tidy.mp3"
  },
  "time": {
   "w": "time",
   "zh": "时间",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1768_time.mp3"
+  "aud": "audio/all/2268_time.mp3"
  },
  "timetable": {
   "w": "timetable",
   "zh": "时间表",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1769_timetable.mp3"
+  "aud": "audio/all/2269_timetable.mp3"
  },
  "together": {
   "w": "together",
   "zh": "一起",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1770_together.mp3"
+  "aud": "audio/all/2270_together.mp3"
  },
  "tomorrow": {
   "w": "tomorrow",
   "zh": "明天",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1771_tomorrow.mp3"
+  "aud": "audio/all/2271_tomorrow.mp3"
  },
  "tonight": {
   "w": "tonight",
   "zh": "今晚",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1772_tonight.mp3"
+  "aud": "audio/all/2272_tonight.mp3"
  },
  "torch": {
   "w": "torch",
   "zh": "手电筒",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1773_torch.mp3"
+  "aud": "audio/all/2273_torch.mp3"
  },
  "tortoise": {
   "w": "tortoise",
   "zh": "陆龟",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1774_tortoise.mp3"
+  "aud": "audio/all/2274_tortoise.mp3"
  },
  "tour": {
   "w": "tour",
   "zh": "旅行",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1775_tour.mp3"
+  "aud": "audio/all/2275_tour.mp3"
  },
  "traffic": {
   "w": "traffic",
   "zh": "交通",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1776_traffic.mp3"
+  "aud": "audio/all/2276_traffic.mp3"
  },
  "trainers": {
   "w": "trainers",
   "zh": "运动鞋",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1777_trainers.mp3"
+  "aud": "audio/all/2277_trainers.mp3"
  },
  "tune": {
   "w": "tune",
   "zh": "曲调",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1778_tune.mp3"
+  "aud": "audio/all/2278_tune.mp3"
  },
  "turn": {
   "w": "turn",
   "zh": "转弯",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1779_turn.mp3"
+  "aud": "audio/all/2279_turn.mp3"
  },
  "turn off": {
   "w": "turn off",
   "zh": "关掉",
   "pos": null,
   "img": "img/cam-turn_off.jpg",
-  "aud": "audio/all/1780_turn-off.mp3"
+  "aud": "audio/all/2280_turn-off.mp3"
  },
  "turn on": {
   "w": "turn on",
   "zh": "打开",
   "pos": null,
   "img": "img/cam-turn_on.jpg",
-  "aud": "audio/all/1781_turn-on.mp3"
+  "aud": "audio/all/2281_turn-on.mp3"
  },
  "twice": {
   "w": "twice",
   "zh": "两次",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1782_twice.mp3"
+  "aud": "audio/all/2282_twice.mp3"
  },
  "tyre": {
   "w": "tyre",
   "zh": "轮胎",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1783_tyre.mp3"
+  "aud": "audio/all/2283_tyre.mp3"
  },
  "umbrella": {
   "w": "umbrella",
   "zh": "雨伞",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1784_umbrella.mp3"
+  "aud": "audio/all/2284_umbrella.mp3"
  },
  "unfriendly": {
   "w": "unfriendly",
   "zh": "不友好的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1785_unfriendly.mp3"
+  "aud": "audio/all/2285_unfriendly.mp3"
  },
  "unhappy": {
   "w": "unhappy",
   "zh": "不开心的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1786_unhappy.mp3"
+  "aud": "audio/all/2286_unhappy.mp3"
  },
  "uniform": {
   "w": "uniform",
   "zh": "制服",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1787_uniform.mp3"
+  "aud": "audio/all/2287_uniform.mp3"
  },
  "university": {
   "w": "university",
   "zh": "大学",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1788_university.mp3"
+  "aud": "audio/all/2288_university.mp3"
  },
  "unkind": {
   "w": "unkind",
   "zh": "不友善的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1789_unkind.mp3"
+  "aud": "audio/all/2289_unkind.mp3"
  },
  "untidy": {
   "w": "untidy",
   "zh": "不整洁的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1790_untidy.mp3"
+  "aud": "audio/all/2290_untidy.mp3"
  },
  "until": {
   "w": "until",
   "zh": "直到",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1791_until.mp3"
+  "aud": "audio/all/2291_until.mp3"
  },
  "unusual": {
   "w": "unusual",
   "zh": "不寻常的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1792_unusual.mp3"
+  "aud": "audio/all/2292_unusual.mp3"
  },
  "use": {
   "w": "use",
   "zh": "使用",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1793_use.mp3"
+  "aud": "audio/all/2293_use.mp3"
  },
  "usually": {
   "w": "usually",
   "zh": "通常",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1794_usually.mp3"
+  "aud": "audio/all/2294_usually.mp3"
  },
  "view": {
   "w": "view",
   "zh": "景色",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1795_view.mp3"
+  "aud": "audio/all/2295_view.mp3"
  },
  "violin": {
   "w": "violin",
   "zh": "小提琴",
   "pos": null,
   "img": "img/cam-violin.jpg",
-  "aud": "audio/all/1796_violin.mp3"
+  "aud": "audio/all/2296_violin.mp3"
  },
  "visit": {
   "w": "visit",
   "zh": "拜访",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1797_visit.mp3"
+  "aud": "audio/all/2297_visit.mp3"
  },
  "volleyball": {
   "w": "volleyball",
   "zh": "排球",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1798_volleyball.mp3"
+  "aud": "audio/all/2298_volleyball.mp3"
  },
  "waiter": {
   "w": "waiter",
   "zh": "服务员",
   "pos": null,
   "img": "img/cam-waiter.jpg",
-  "aud": "audio/all/1799_waiter.mp3"
+  "aud": "audio/all/2299_waiter.mp3"
  },
  "warm": {
   "w": "warm",
   "zh": "温暖的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1800_warm.mp3"
+  "aud": "audio/all/2300_warm.mp3"
  },
  "way": {
   "w": "way",
   "zh": "路、方式",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1801_way.mp3"
+  "aud": "audio/all/2301_way.mp3"
  },
  "west": {
   "w": "west",
   "zh": "西",
   "pos": null,
   "img": "img/cam-west.jpg",
-  "aud": "audio/all/1802_west.mp3"
+  "aud": "audio/all/2302_west.mp3"
  },
  "wheel": {
   "w": "wheel",
   "zh": "轮子",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1803_wheel.mp3"
+  "aud": "audio/all/2303_wheel.mp3"
  },
  "while": {
   "w": "while",
   "zh": "当……时",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1804_while.mp3"
+  "aud": "audio/all/2304_while.mp3"
  },
  "whisper": {
   "w": "whisper",
   "zh": "低语",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1805_whisper.mp3"
+  "aud": "audio/all/2305_whisper.mp3"
  },
  "whistle": {
   "w": "whistle",
   "zh": "哨子",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1806_whistle.mp3"
+  "aud": "audio/all/2306_whistle.mp3"
  },
  "wife": {
   "w": "wife",
   "zh": "妻子",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1807_wife.mp3"
+  "aud": "audio/all/2307_wife.mp3"
  },
  "wifi": {
   "w": "wifi",
   "zh": "无线网络",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1808_wifi.mp3"
+  "aud": "audio/all/2308_wifi.mp3"
  },
  "wild": {
   "w": "wild",
   "zh": "野生的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1809_wild.mp3"
+  "aud": "audio/all/2309_wild.mp3"
  },
  "will": {
   "w": "will",
   "zh": "将要",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1810_will.mp3"
+  "aud": "audio/all/2310_will.mp3"
  },
  "william": {
   "w": "william",
   "zh": "威廉（人名）",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1811_william.mp3"
+  "aud": "audio/all/2311_william.mp3"
  },
  "win": {
   "w": "win",
   "zh": "赢",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1812_win.mp3"
+  "aud": "audio/all/2312_win.mp3"
  },
  "wing": {
   "w": "wing",
   "zh": "翅膀",
   "pos": null,
   "img": "img/cam-wing.jpg",
-  "aud": "audio/all/1813_wing.mp3"
+  "aud": "audio/all/2313_wing.mp3"
  },
  "winner": {
   "w": "winner",
   "zh": "赢家",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1814_winner.mp3"
+  "aud": "audio/all/2314_winner.mp3"
  },
  "winter": {
   "w": "winter",
   "zh": "冬天",
   "pos": null,
   "img": "img/cam-winter.jpg",
-  "aud": "audio/all/1815_winter.mp3"
+  "aud": "audio/all/2315_winter.mp3"
  },
  "wish": {
   "w": "wish",
   "zh": "祝愿",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1816_wish.mp3"
+  "aud": "audio/all/2316_wish.mp3"
  },
  "without": {
   "w": "without",
   "zh": "没有",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1817_without.mp3"
+  "aud": "audio/all/2317_without.mp3"
  },
  "wonderful": {
   "w": "wonderful",
   "zh": "精彩的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1818_wonderful.mp3"
+  "aud": "audio/all/2318_wonderful.mp3"
  },
  "wood": {
   "w": "wood",
   "zh": "木头",
   "pos": null,
   "img": "img/cam-wood.jpg",
-  "aud": "audio/all/1819_wood.mp3"
+  "aud": "audio/all/2319_wood.mp3"
  },
  "wool": {
   "w": "wool",
   "zh": "羊毛",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1820_wool.mp3"
+  "aud": "audio/all/2320_wool.mp3"
  },
  "worried": {
   "w": "worried",
   "zh": "担心的",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1821_worried.mp3"
+  "aud": "audio/all/2321_worried.mp3"
  },
  "x-ray": {
   "w": "x-ray",
   "zh": "X光",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1822_x-ray.mp3"
+  "aud": "audio/all/2322_x-ray.mp3"
  },
  "yet": {
   "w": "yet",
   "zh": "还",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1823_yet.mp3"
+  "aud": "audio/all/2323_yet.mp3"
  },
  "yoghurt": {
   "w": "yoghurt",
   "zh": "酸奶",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1824_yoghurt.mp3"
+  "aud": "audio/all/2324_yoghurt.mp3"
  },
  "you’re welcome": {
   "w": "you’re welcome",
   "zh": "不客气",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1825_you-re-welcome.mp3"
+  "aud": "audio/all/2325_you-re-welcome.mp3"
  },
  "zero": {
   "w": "zero",
   "zh": "零",
   "pos": null,
   "img": null,
-  "aud": "audio/all/1826_zero.mp3"
+  "aud": "audio/all/2326_zero.mp3"
  }
 }
