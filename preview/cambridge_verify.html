@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>稳稳学英语 · 剑桥岛验证器 v3（10主题·6新主题扩充）</title>
+<title>稳稳学英语 · 剑桥岛验证器 v4（10主题·点词查义全覆盖）</title>
 <style>
   :root { --bg:#FFF6EA; --brown:#4E342E; --hint:#A1887F; --green:#5BBFA0; --greend:#3E9D80; --bad:#C62828; --blue:#4FA3D1; }
   * { box-sizing:border-box; }
@@ -41,8 +41,8 @@
 </style>
 </head>
 <body>
-<h1>🧪 稳稳学英语 · 剑桥岛验证器 v3 <span id="verdict">数据加载中…</span></h1>
-<div class="muted">v3 检查范围：①数据完整性 ②课程树（10主题×6档位，每课10词分课）③L1/L2 双步学习（听音选图→听音选词→图词揭示）④随机课 ⑤点词查义 ⑥<b>6 个新主题扩充</b>（clothes/home/school/toys/transport/beach，每主题至少 1 课、62 词图音释义齐全）。数据源与 App assets 同源</div>
+<h1>🧪 稳稳学英语 · 剑桥岛验证器 v4 <span id="verdict">数据加载中…</span></h1>
+<div class="muted">v4 检查范围：①数据完整性 ②课程树（10主题×6档位）③双步学习 ④随机课 ⑤点词查义 ⑥6 新主题扩充 ⑦<b>点词查义全覆盖</b>（所有句卡词 100% 收录且带真人配音、弹卡自动播放、按钮单图标）。数据源与 App assets 同源</div>
 
 <h2>① 数据完整性（自动 12 项 + 课程树新增项）</h2>
 <div class="panel" id="p1">检查中…</div>
@@ -85,7 +85,7 @@
     <span id="popWord" style="font-size:28px;font-weight:800"></span>
     <div id="popZh" style="font-size:15px;color:var(--hint)"></div>
     <div id="popPos" class="muted"></div>
-    <button class="btn purple" style="margin-top:10px" onclick="event.stopPropagation(); playPop()">🔊 发音</button>
+    <button class="btn purple" style="margin-top:10px" onclick="event.stopPropagation(); playPop()">🔊　发音</button>
   </div>
 </div>
 
@@ -102,9 +102,9 @@ let THEMES = {}, vocab, index;
   await Promise.all([...loads,
     fetch('vocab.json').then(r=>r.json()).then(v => vocab = v),
     fetch('audio/all/index.json').then(r=>r.ok?r.json():[]).then(i => index = i||[]).catch(()=>index=[])]);
-  runChecks();
+  renderSentences();   // 先渲染句子区，供点词自动播放检查真实点击
+  await runChecks();
   renderLessons('animals', 1);
-  renderSentences();
 })();
 
 // ===== App lessonsFor 1:1 =====
@@ -141,9 +141,13 @@ async function runChecks() {
   let vOk=0; const vBad=[];
   await Promise.all(vaud.map(async p => { try { const r=await fetch(p,{method:'HEAD'}); r.ok?vOk++:vBad.push(p); } catch { vBad.push(p); } }));
   add(`vocab 音频可访问（${vaud.length} 条）`, vBad.length===0, vBad.join(','));
-  add('索引含新卡音频 34 条(400-433) + vocab 79 条(450-528)',
-      index.filter(e=>e.i>=400&&e.i<450).length===34 && index.filter(e=>e.i>=450).length===79,
-      `400s=${index.filter(e=>e.i>=400&&e.i<450).length} 450s=${index.filter(e=>e.i>=450).length}`);
+  const seg400 = index.filter(e=>e.i>=400&&e.i<450).length;
+  const seg450 = index.filter(e=>e.i>=450&&e.i<540).length;
+  const seg550 = index.filter(e=>e.i>=550&&e.i<612).length;
+  const seg612 = index.filter(e=>e.i>=612).length;
+  add(`索引分段：400-433=${seg400} / 450-528=${seg450} / 550-611=${seg550} / 612-769=${seg612}`,
+      seg400===34 && seg450===79 && seg550>0 && seg612>0,
+      `400s=${seg400} 450s=${seg450} 550s=${seg550} 612s=${seg612}`);
 
   // ===== ⑥ 6 个新主题扩充检查 =====
   const new6Cards = NEW6.flatMap(t=>THEMES[t].units.flatMap(u=>u.cards));
@@ -178,6 +182,44 @@ async function runChecks() {
   const n6TotalCards = NEW6.reduce((s,t)=>s+lessonsFor(t,1).reduce((x,l)=>x+l.cards.length,0),0);
   add('新主题 L1 课卡总数 = 62（无遗漏无重复）', n6TotalCards===62 && new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size===62,
       `课卡 ${n6TotalCards} / 去重 ${new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size}`);
+
+  // ===== ⑦ 点词查义全覆盖（v4 新增） =====
+  const ck = s => s.toLowerCase().replace(/^[ .,!?;:()"'–’]+|[ .,!?;:()"'–’]+$/g, '');
+  const clickable = new Set();
+  Object.keys(THEMES).forEach(t => THEMES[t].units.forEach(u => u.cards.forEach(c => {
+    if (LISTEN_TYPES.includes(c.type)) c.en.split(' ').forEach(w => { const k = ck(w); if (k) clickable.add(k); });
+  })));
+  const clickArr = [...clickable];
+  const noEntryAll = clickArr.filter(w => !vocab[w]);
+  add(`句类卡可点击词 ${clickArr.length} 个 100% 收录词库`, noEntryAll.length===0, noEntryAll.slice(0,10).join(','));
+  const noAudAll = clickArr.filter(w => vocab[w] && !vocab[w].aud);
+  add('全部可点击词带真人配音（不依赖系统 TTS，无静音风险）', noAudAll.length===0, noAudAll.slice(0,10).join(','));
+  let cOk=0; const cBad=[];
+  await Promise.all(clickArr.filter(w=>vocab[w]&&vocab[w].aud).map(async w => {
+    try { const r = await fetch(vocab[w].aud, {method:'HEAD'}); r.ok?cOk++:cBad.push(w); } catch { cBad.push(w); }
+  }));
+  add(`可点击词音频文件全部可访问（${cOk} 条）`, cBad.length===0, cBad.slice(0,5).join(','));
+  // 词卡单词也须收录
+  const wcards = Object.keys(THEMES).flatMap(t=>THEMES[t].units.flatMap(u=>u.cards)).filter(c=>c.type==='word').map(c=>ck(c.en));
+  const wmiss = wcards.filter(w=>!vocab[w]);
+  add('全部词卡单词收录词库', wmiss.length===0, [...new Set(wmiss)].join(','));
+  // 弹卡自动播放：真实点击一个词，监听 Audio 构造
+  let autoPlays = 0;
+  const OrigAudio = window.Audio;
+  window.Audio = function(src){ autoPlays++; return new OrigAudio(src); };
+  const sampleWord = document.querySelector('#sentences .chip');
+  if (sampleWord) sampleWord.click();
+  const popBtnTxt = document.querySelector('#popup button')?.textContent || '';
+  window.Audio = OrigAudio;
+  document.getElementById('popup').style.display = 'none';
+  add('点词弹卡自动播放一次（无需手点）', autoPlays >= 1, `Audio 调用 ${autoPlays} 次`);
+  add('发音按钮只有一个 🔊 图标', (popBtnTxt.match(/🔊/g)||[]).length === 1, JSON.stringify(popBtnTxt));
+  // 二次点击可重播
+  let replay = 0;
+  window.Audio = function(src){ replay++; return new OrigAudio(src); };
+  playPop(); playPop();
+  window.Audio = OrigAudio;
+  add('发音按钮可重复点击重播', replay >= 2, `重播 ${replay} 次`);
 
   // ===== 课程树检查（独立统计自洽校验，不硬编码预期） =====
   let treeOK = true, treeDetail = '';
@@ -494,7 +536,7 @@ function renderSentences() {
 }
 let popCtx = null;
 function tapWord(display) {
-  const key = display.toLowerCase().replace(/[^a-z']/g, '');
+  const key = display.toLowerCase().replace(/^[ .,!?;:()"'–’]+|[ .,!?;:()"'–’]+$/g, '');
   const e = vocab[key];
   document.getElementById('popWord').textContent = display;
   document.getElementById('popZh').textContent = e ? (e.zh || '（无释义）') : '❌ 词库无此词';
@@ -502,8 +544,9 @@ function tapWord(display) {
   const im = document.getElementById('popImg');
   if (e && e.img) { im.src = e.img; im.style.display = ''; } else im.style.display = 'none';
   document.getElementById('popup').style.display = 'flex';
-  event.stopPropagation();
+  if (window.event) window.event.stopPropagation();
   popCtx = { display, e };
+  playPop();   // 弹卡即自动读一遍（与 App 一致）；可再点按钮重复听
 }
 function playPop() {
   if (!popCtx) return;

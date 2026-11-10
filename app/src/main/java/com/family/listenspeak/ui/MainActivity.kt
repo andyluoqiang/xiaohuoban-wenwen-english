@@ -571,12 +571,14 @@ class MainActivity : AppCompatActivity() {
         card.addView(textTv(e?.zh ?: "…", 18f, hintColor()).also { it.gravity = Gravity.CENTER },
             lp(mp()).also { it.topMargin = dp(6) })
         e?.pos?.let { card.addView(textTv(it, 12f, hintColor()).also { t -> t.gravity = Gravity.CENTER }) }
-        val sound = cartoonBtn("🔊 发音", "🔊", 0xFF4FA3D1.toInt(), Color.WHITE) { playWordSound(key, display, e) }
+        val sound = cartoonBtn("发音", "🔊", 0xFF4FA3D1.toInt(), Color.WHITE) { playWordSound(key, display, e) }
         card.addView(sound, lp(wrapPx()).also { it.topMargin = dp(12) })
         val wrap = FrameLayout(this)
         wrap.addView(card, FrameLayout.LayoutParams(FrameLayout.LayoutParams.WRAP_CONTENT, FrameLayout.LayoutParams.WRAP_CONTENT).apply { gravity = Gravity.CENTER })
         overlay.addView(wrap, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
         container.addView(overlay, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
+        // 弹卡即自动读一遍；孩子可再点「🔊 发音」重复听
+        playWordSound(key, display, e)
     }
 
     private fun playWordSound(key: String, display: String, e: VocabDef?) {

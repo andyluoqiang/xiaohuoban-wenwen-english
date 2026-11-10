@@ -47,8 +47,17 @@ class PlayerManager(
                     .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
                     .build()
             )
-            ctx.assets.openFd(assetPath).use { afd ->
-                mp.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
+            // 首选 openFd（零拷贝）；个别打包方式下 assets 无法 openFd 时，转存 cache 再播（保证一定有声音）
+            try {
+                ctx.assets.openFd(assetPath).use { afd ->
+                    mp.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
+                }
+            } catch (fdEx: Exception) {
+                val cache = java.io.File(ctx.cacheDir, "np_play.tmp")
+                ctx.assets.open(assetPath).use { input ->
+                    cache.outputStream().use { out -> input.copyTo(out) }
+                }
+                mp.setDataSource(cache.absolutePath)
             }
             mp.isLooping = false
             mp.setOnCompletionListener {
@@ -57,7 +66,7 @@ class PlayerManager(
                 if (cont.isActive) cont.resume(Unit)
             }
             mp.setOnErrorListener { p, _, _ ->
-                runCatching { p.release() }
+                runCatching { runCatching { p.stop() }; p.release() }
                 if (player === p) player = null
                 if (cont.isActive) cont.resume(Unit)   // 出错不阻塞流程
                 true

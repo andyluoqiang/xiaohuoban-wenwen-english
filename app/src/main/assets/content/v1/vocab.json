@@ -1300,5 +1300,1125 @@
   "pos": null,
   "img": "img/cam-camera.jpg",
   "aud": "audio/all/608_camera.mp3"
+ },
+ "afternoon": {
+  "w": "afternoon",
+  "zh": "下午",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/612_afternoon.mp3"
+ },
+ "all": {
+  "w": "all",
+  "zh": "全部",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/613_all.mp3"
+ },
+ "am": {
+  "w": "am",
+  "zh": "是（I am）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/614_am.mp3"
+ },
+ "an": {
+  "w": "an",
+  "zh": "一个（元音前）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/615_an.mp3"
+ },
+ "anything": {
+  "w": "anything",
+  "zh": "任何东西",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/616_anything.mp3"
+ },
+ "apple": {
+  "w": "apple",
+  "zh": "苹果",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/617_apple.mp3"
+ },
+ "apples": {
+  "w": "apples",
+  "zh": "苹果（复数）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/618_apples.mp3"
+ },
+ "arm": {
+  "w": "arm",
+  "zh": "手臂",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/619_arm.mp3"
+ },
+ "around": {
+  "w": "around",
+  "zh": "周围",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/620_around.mp3"
+ },
+ "ate": {
+  "w": "ate",
+  "zh": "吃了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/621_ate.mp3"
+ },
+ "back": {
+  "w": "back",
+  "zh": "后背",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/622_back.mp3"
+ },
+ "banana": {
+  "w": "banana",
+  "zh": "香蕉",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/623_banana.mp3"
+ },
+ "bananas": {
+  "w": "bananas",
+  "zh": "香蕉（复数）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/624_bananas.mp3"
+ },
+ "band-aid": {
+  "w": "band-aid",
+  "zh": "创可贴",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/625_band-aid.mp3"
+ },
+ "be": {
+  "w": "be",
+  "zh": "是",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/626_be.mp3"
+ },
+ "before": {
+  "w": "before",
+  "zh": "之前",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/627_before.mp3"
+ },
+ "body": {
+  "w": "body",
+  "zh": "身体",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/628_body.mp3"
+ },
+ "bowl": {
+  "w": "bowl",
+  "zh": "碗",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/629_bowl.mp3"
+ },
+ "bread": {
+  "w": "bread",
+  "zh": "面包",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/630_bread.mp3"
+ },
+ "breakfast": {
+  "w": "breakfast",
+  "zh": "早餐",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/631_breakfast.mp3"
+ },
+ "brush": {
+  "w": "brush",
+  "zh": "刷",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/632_brush.mp3"
+ },
+ "cake": {
+  "w": "cake",
+  "zh": "蛋糕",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/633_cake.mp3"
+ },
+ "care": {
+  "w": "care",
+  "zh": "关心",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/634_care.mp3"
+ },
+ "careful": {
+  "w": "careful",
+  "zh": "小心",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/635_careful.mp3"
+ },
+ "catch": {
+  "w": "catch",
+  "zh": "接住",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/636_catch.mp3"
+ },
+ "clap": {
+  "w": "clap",
+  "zh": "拍手",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/637_clap.mp3"
+ },
+ "climb": {
+  "w": "climb",
+  "zh": "爬高",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/638_climb.mp3"
+ },
+ "cookie": {
+  "w": "cookie",
+  "zh": "饼干",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/639_cookie.mp3"
+ },
+ "corn": {
+  "w": "corn",
+  "zh": "玉米",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/640_corn.mp3"
+ },
+ "crawl": {
+  "w": "crawl",
+  "zh": "爬行",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/641_crawl.mp3"
+ },
+ "cream": {
+  "w": "cream",
+  "zh": "奶油",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/642_cream.mp3"
+ },
+ "daddy": {
+  "w": "daddy",
+  "zh": "爸爸",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/643_daddy.mp3"
+ },
+ "dance": {
+  "w": "dance",
+  "zh": "跳舞",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/644_dance.mp3"
+ },
+ "dinner": {
+  "w": "dinner",
+  "zh": "晚餐",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/645_dinner.mp3"
+ },
+ "doctor": {
+  "w": "doctor",
+  "zh": "医生",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/646_doctor.mp3"
+ },
+ "done": {
+  "w": "done",
+  "zh": "完成",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/647_done.mp3"
+ },
+ "draw": {
+  "w": "draw",
+  "zh": "画画",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/648_draw.mp3"
+ },
+ "dumplings": {
+  "w": "dumplings",
+  "zh": "饺子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/649_dumplings.mp3"
+ },
+ "ear": {
+  "w": "ear",
+  "zh": "耳朵",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/650_ear.mp3"
+ },
+ "eat": {
+  "w": "eat",
+  "zh": "吃",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/651_eat.mp3"
+ },
+ "egg": {
+  "w": "egg",
+  "zh": "蛋",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/652_egg.mp3"
+ },
+ "eggs": {
+  "w": "eggs",
+  "zh": "蛋（复数）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/653_eggs.mp3"
+ },
+ "else": {
+  "w": "else",
+  "zh": "其他",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/654_else.mp3"
+ },
+ "eye": {
+  "w": "eye",
+  "zh": "眼睛",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/655_eye.mp3"
+ },
+ "eyes": {
+  "w": "eyes",
+  "zh": "眼睛（复数）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/656_eyes.mp3"
+ },
+ "face": {
+  "w": "face",
+  "zh": "脸",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/657_face.mp3"
+ },
+ "fast": {
+  "w": "fast",
+  "zh": "快",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/658_fast.mp3"
+ },
+ "faster": {
+  "w": "faster",
+  "zh": "更快",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/659_faster.mp3"
+ },
+ "favorite": {
+  "w": "favorite",
+  "zh": "最喜欢的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/660_favorite.mp3"
+ },
+ "finger": {
+  "w": "finger",
+  "zh": "手指",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/661_finger.mp3"
+ },
+ "fingers": {
+  "w": "fingers",
+  "zh": "手指（复数）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/662_fingers.mp3"
+ },
+ "foot": {
+  "w": "foot",
+  "zh": "脚",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/663_foot.mp3"
+ },
+ "for": {
+  "w": "for",
+  "zh": "为、给",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/664_for.mp3"
+ },
+ "freeze": {
+  "w": "freeze",
+  "zh": "不许动",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/665_freeze.mp3"
+ },
+ "fruit": {
+  "w": "fruit",
+  "zh": "水果",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/666_fruit.mp3"
+ },
+ "give": {
+  "w": "give",
+  "zh": "给",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/667_give.mp3"
+ },
+ "got": {
+  "w": "got",
+  "zh": "拿到",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/668_got.mp3"
+ },
+ "grape": {
+  "w": "grape",
+  "zh": "葡萄",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/669_grape.mp3"
+ },
+ "hair": {
+  "w": "hair",
+  "zh": "头发",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/670_hair.mp3"
+ },
+ "hand": {
+  "w": "hand",
+  "zh": "手",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/671_hand.mp3"
+ },
+ "hands": {
+  "w": "hands",
+  "zh": "双手",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/672_hands.mp3"
+ },
+ "head": {
+  "w": "head",
+  "zh": "头",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/673_head.mp3"
+ },
+ "healthy": {
+  "w": "healthy",
+  "zh": "健康的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/674_healthy.mp3"
+ },
+ "help": {
+  "w": "help",
+  "zh": "帮忙",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/675_help.mp3"
+ },
+ "here": {
+  "w": "here",
+  "zh": "这里",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/676_here.mp3"
+ },
+ "high": {
+  "w": "high",
+  "zh": "高",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/677_high.mp3"
+ },
+ "hooray": {
+  "w": "hooray",
+  "zh": "好耶",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/678_hooray.mp3"
+ },
+ "hop": {
+  "w": "hop",
+  "zh": "单脚跳",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/679_hop.mp3"
+ },
+ "how": {
+  "w": "how",
+  "zh": "怎样",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/680_how.mp3"
+ },
+ "hungry": {
+  "w": "hungry",
+  "zh": "饿了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/681_hungry.mp3"
+ },
+ "hurts": {
+  "w": "hurts",
+  "zh": "疼",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/682_hurts.mp3"
+ },
+ "i'd": {
+  "w": "i'd",
+  "zh": "我会",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/683_i-d.mp3"
+ },
+ "i'm": {
+  "w": "i'm",
+  "zh": "我是",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/684_i-m.mp3"
+ },
+ "ice": {
+  "w": "ice",
+  "zh": "冰",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/685_ice.mp3"
+ },
+ "juice": {
+  "w": "juice",
+  "zh": "果汁",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/686_juice.mp3"
+ },
+ "kick": {
+  "w": "kick",
+  "zh": "踢",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/687_kick.mp3"
+ },
+ "knee": {
+  "w": "knee",
+  "zh": "膝盖",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/688_knee.mp3"
+ },
+ "leg": {
+  "w": "leg",
+  "zh": "腿",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/689_leg.mp3"
+ },
+ "let": {
+  "w": "let",
+  "zh": "让",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/690_let.mp3"
+ },
+ "makes": {
+  "w": "makes",
+  "zh": "使、做",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/691_makes.mp3"
+ },
+ "many": {
+  "w": "many",
+  "zh": "很多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/692_many.mp3"
+ },
+ "march": {
+  "w": "march",
+  "zh": "齐步走",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/693_march.mp3"
+ },
+ "may": {
+  "w": "may",
+  "zh": "可以",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/694_may.mp3"
+ },
+ "me": {
+  "w": "me",
+  "zh": "我",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/695_me.mp3"
+ },
+ "milk": {
+  "w": "milk",
+  "zh": "牛奶",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/696_milk.mp3"
+ },
+ "more": {
+  "w": "more",
+  "zh": "更多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/697_more.mp3"
+ },
+ "morning": {
+  "w": "morning",
+  "zh": "早上",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/698_morning.mp3"
+ },
+ "mouth": {
+  "w": "mouth",
+  "zh": "嘴",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/699_mouth.mp3"
+ },
+ "neck": {
+  "w": "neck",
+  "zh": "脖子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/700_neck.mp3"
+ },
+ "noodles": {
+  "w": "noodles",
+  "zh": "面条",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/701_noodles.mp3"
+ },
+ "noon": {
+  "w": "noon",
+  "zh": "中午",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/702_noon.mp3"
+ },
+ "nose": {
+  "w": "nose",
+  "zh": "鼻子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/703_nose.mp3"
+ },
+ "of": {
+  "w": "of",
+  "zh": "……的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/704_of.mp3"
+ },
+ "on": {
+  "w": "on",
+  "zh": "在……上面",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/705_on.mp3"
+ },
+ "one": {
+  "w": "one",
+  "zh": "一",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/706_one.mp3"
+ },
+ "open": {
+  "w": "open",
+  "zh": "打开",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/707_open.mp3"
+ },
+ "orange": {
+  "w": "orange",
+  "zh": "橙子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/708_orange.mp3"
+ },
+ "ouch": {
+  "w": "ouch",
+  "zh": "哎呀",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/709_ouch.mp3"
+ },
+ "outside": {
+  "w": "outside",
+  "zh": "外面",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/710_outside.mp3"
+ },
+ "peach": {
+  "w": "peach",
+  "zh": "桃子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/711_peach.mp3"
+ },
+ "pear": {
+  "w": "pear",
+  "zh": "梨",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/712_pear.mp3"
+ },
+ "play": {
+  "w": "play",
+  "zh": "玩",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/713_play.mp3"
+ },
+ "played": {
+  "w": "played",
+  "zh": "玩过了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/714_played.mp3"
+ },
+ "playing": {
+  "w": "playing",
+  "zh": "正在玩",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/715_playing.mp3"
+ },
+ "please": {
+  "w": "please",
+  "zh": "请",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/716_please.mp3"
+ },
+ "point": {
+  "w": "point",
+  "zh": "指",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/717_point.mp3"
+ },
+ "put": {
+  "w": "put",
+  "zh": "放",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/718_put.mp3"
+ },
+ "ready": {
+  "w": "ready",
+  "zh": "准备好了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/719_ready.mp3"
+ },
+ "red": {
+  "w": "red",
+  "zh": "红色",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/720_red.mp3"
+ },
+ "rice": {
+  "w": "rice",
+  "zh": "米饭",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/721_rice.mp3"
+ },
+ "ride": {
+  "w": "ride",
+  "zh": "骑",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/722_ride.mp3"
+ },
+ "rope": {
+  "w": "rope",
+  "zh": "绳子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/723_rope.mp3"
+ },
+ "run": {
+  "w": "run",
+  "zh": "跑",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/724_run.mp3"
+ },
+ "see": {
+  "w": "see",
+  "zh": "看见",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/725_see.mp3"
+ },
+ "seven": {
+  "w": "seven",
+  "zh": "七",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/726_seven.mp3"
+ },
+ "shake": {
+  "w": "shake",
+  "zh": "摇一摇",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/727_shake.mp3"
+ },
+ "shoulder": {
+  "w": "shoulder",
+  "zh": "肩膀",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/728_shoulder.mp3"
+ },
+ "skip": {
+  "w": "skip",
+  "zh": "跳绳",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/729_skip.mp3"
+ },
+ "sky": {
+  "w": "sky",
+  "zh": "天空",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/730_sky.mp3"
+ },
+ "slide": {
+  "w": "slide",
+  "zh": "滑滑梯",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/731_slide.mp3"
+ },
+ "slowly": {
+  "w": "slowly",
+  "zh": "慢慢地",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/732_slowly.mp3"
+ },
+ "smile": {
+  "w": "smile",
+  "zh": "微笑",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/733_smile.mp3"
+ },
+ "some": {
+  "w": "some",
+  "zh": "一些",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/734_some.mp3"
+ },
+ "soup": {
+  "w": "soup",
+  "zh": "汤",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/735_soup.mp3"
+ },
+ "spin": {
+  "w": "spin",
+  "zh": "转圈圈",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/736_spin.mp3"
+ },
+ "stop": {
+  "w": "stop",
+  "zh": "停",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/737_stop.mp3"
+ },
+ "stretch": {
+  "w": "stretch",
+  "zh": "伸展",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/738_stretch.mp3"
+ },
+ "strong": {
+  "w": "strong",
+  "zh": "强壮",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/739_strong.mp3"
+ },
+ "sweet": {
+  "w": "sweet",
+  "zh": "甜的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/740_sweet.mp3"
+ },
+ "swing": {
+  "w": "swing",
+  "zh": "秋千",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/741_swing.mp3"
+ },
+ "take": {
+  "w": "take",
+  "zh": "拿",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/742_take.mp3"
+ },
+ "teeth": {
+  "w": "teeth",
+  "zh": "牙齿",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/743_teeth.mp3"
+ },
+ "ten": {
+  "w": "ten",
+  "zh": "十",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/744_ten.mp3"
+ },
+ "thank": {
+  "w": "thank",
+  "zh": "谢谢",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/745_thank.mp3"
+ },
+ "thirsty": {
+  "w": "thirsty",
+  "zh": "渴了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/746_thirsty.mp3"
+ },
+ "throw": {
+  "w": "throw",
+  "zh": "扔",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/747_throw.mp3"
+ },
+ "tiptoe": {
+  "w": "tiptoe",
+  "zh": "踮脚尖",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/748_tiptoe.mp3"
+ },
+ "toe": {
+  "w": "toe",
+  "zh": "脚趾",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/749_toe.mp3"
+ },
+ "tooth": {
+  "w": "tooth",
+  "zh": "牙齿",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/750_tooth.mp3"
+ },
+ "touch": {
+  "w": "touch",
+  "zh": "摸一摸",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/751_touch.mp3"
+ },
+ "tummy": {
+  "w": "tummy",
+  "zh": "肚子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/752_tummy.mp3"
+ },
+ "two": {
+  "w": "two",
+  "zh": "二",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/753_two.mp3"
+ },
+ "up": {
+  "w": "up",
+  "zh": "向上",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/754_up.mp3"
+ },
+ "vegetables": {
+  "w": "vegetables",
+  "zh": "蔬菜",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/755_vegetables.mp3"
+ },
+ "very": {
+  "w": "very",
+  "zh": "很",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/756_very.mp3"
+ },
+ "walk": {
+  "w": "walk",
+  "zh": "走",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/757_walk.mp3"
+ },
+ "want": {
+  "w": "want",
+  "zh": "想要",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/758_want.mp3"
+ },
+ "wash": {
+  "w": "wash",
+  "zh": "洗",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/759_wash.mp3"
+ },
+ "washed": {
+  "w": "washed",
+  "zh": "洗过了",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/760_washed.mp3"
+ },
+ "wiggle": {
+  "w": "wiggle",
+  "zh": "扭一扭",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/761_wiggle.mp3"
+ },
+ "with": {
+  "w": "with",
+  "zh": "和……一起",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/762_with.mp3"
+ },
+ "would": {
+  "w": "would",
+  "zh": "愿意",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/763_would.mp3"
+ },
+ "wrong": {
+  "w": "wrong",
+  "zh": "错的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/764_wrong.mp3"
+ },
+ "yogurt": {
+  "w": "yogurt",
+  "zh": "酸奶",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/765_yogurt.mp3"
+ },
+ "your": {
+  "w": "your",
+  "zh": "你的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/766_your.mp3"
+ },
+ "yum": {
+  "w": "yum",
+  "zh": "好吃",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/767_yum.mp3"
+ },
+ "yummy": {
+  "w": "yummy",
+  "zh": "真好吃",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/768_yummy.mp3"
+ },
+ "drink": {
+  "w": "drink",
+  "zh": "喝、饮料",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/769_drink.mp3"
+ },
+ "polar bear": {
+  "w": "polar bear",
+  "zh": "北极熊",
+  "pos": null,
+  "img": "img/ai-polar_bear.jpg",
+  "aud": "audio/all/406_polar-bear.mp3"
+ },
+ "ice cream": {
+  "w": "ice cream",
+  "zh": "冰淇淋",
+  "pos": null,
+  "img": "img/ice-cream.jpg",
+  "aud": "audio/all/124_ice-cream.mp3"
  }
 }

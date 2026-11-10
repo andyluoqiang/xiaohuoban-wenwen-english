@@ -3454,5 +3454,725 @@
   "type": "word",
   "unit": "beach",
   "file": "608_camera.mp3"
+ },
+ {
+  "i": 612,
+  "en": "afternoon",
+  "zh": "下午",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "612_afternoon.mp3"
+ },
+ {
+  "i": 613,
+  "en": "all",
+  "zh": "全部",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "613_all.mp3"
+ },
+ {
+  "i": 614,
+  "en": "am",
+  "zh": "是（I am）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "614_am.mp3"
+ },
+ {
+  "i": 615,
+  "en": "an",
+  "zh": "一个（元音前）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "615_an.mp3"
+ },
+ {
+  "i": 616,
+  "en": "anything",
+  "zh": "任何东西",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "616_anything.mp3"
+ },
+ {
+  "i": 618,
+  "en": "apples",
+  "zh": "苹果（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "618_apples.mp3"
+ },
+ {
+  "i": 620,
+  "en": "around",
+  "zh": "周围",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "620_around.mp3"
+ },
+ {
+  "i": 621,
+  "en": "ate",
+  "zh": "吃了",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "621_ate.mp3"
+ },
+ {
+  "i": 624,
+  "en": "bananas",
+  "zh": "香蕉（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "624_bananas.mp3"
+ },
+ {
+  "i": 625,
+  "en": "band-aid",
+  "zh": "创可贴",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "625_band-aid.mp3"
+ },
+ {
+  "i": 626,
+  "en": "be",
+  "zh": "是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "626_be.mp3"
+ },
+ {
+  "i": 627,
+  "en": "before",
+  "zh": "之前",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "627_before.mp3"
+ },
+ {
+  "i": 628,
+  "en": "body",
+  "zh": "身体",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "628_body.mp3"
+ },
+ {
+  "i": 629,
+  "en": "bowl",
+  "zh": "碗",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "629_bowl.mp3"
+ },
+ {
+  "i": 631,
+  "en": "breakfast",
+  "zh": "早餐",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "631_breakfast.mp3"
+ },
+ {
+  "i": 634,
+  "en": "care",
+  "zh": "关心",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "634_care.mp3"
+ },
+ {
+  "i": 635,
+  "en": "careful",
+  "zh": "小心",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "635_careful.mp3"
+ },
+ {
+  "i": 642,
+  "en": "cream",
+  "zh": "奶油",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "642_cream.mp3"
+ },
+ {
+  "i": 643,
+  "en": "daddy",
+  "zh": "爸爸",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "643_daddy.mp3"
+ },
+ {
+  "i": 645,
+  "en": "dinner",
+  "zh": "晚餐",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "645_dinner.mp3"
+ },
+ {
+  "i": 646,
+  "en": "doctor",
+  "zh": "医生",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "646_doctor.mp3"
+ },
+ {
+  "i": 647,
+  "en": "done",
+  "zh": "完成",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "647_done.mp3"
+ },
+ {
+  "i": 648,
+  "en": "draw",
+  "zh": "画画",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "648_draw.mp3"
+ },
+ {
+  "i": 653,
+  "en": "eggs",
+  "zh": "蛋（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "653_eggs.mp3"
+ },
+ {
+  "i": 654,
+  "en": "else",
+  "zh": "其他",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "654_else.mp3"
+ },
+ {
+  "i": 656,
+  "en": "eyes",
+  "zh": "眼睛（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "656_eyes.mp3"
+ },
+ {
+  "i": 658,
+  "en": "fast",
+  "zh": "快",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "658_fast.mp3"
+ },
+ {
+  "i": 659,
+  "en": "faster",
+  "zh": "更快",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "659_faster.mp3"
+ },
+ {
+  "i": 660,
+  "en": "favorite",
+  "zh": "最喜欢的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "660_favorite.mp3"
+ },
+ {
+  "i": 662,
+  "en": "fingers",
+  "zh": "手指（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "662_fingers.mp3"
+ },
+ {
+  "i": 664,
+  "en": "for",
+  "zh": "为、给",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "664_for.mp3"
+ },
+ {
+  "i": 666,
+  "en": "fruit",
+  "zh": "水果",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "666_fruit.mp3"
+ },
+ {
+  "i": 667,
+  "en": "give",
+  "zh": "给",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "667_give.mp3"
+ },
+ {
+  "i": 668,
+  "en": "got",
+  "zh": "拿到",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "668_got.mp3"
+ },
+ {
+  "i": 672,
+  "en": "hands",
+  "zh": "双手",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "672_hands.mp3"
+ },
+ {
+  "i": 674,
+  "en": "healthy",
+  "zh": "健康的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "674_healthy.mp3"
+ },
+ {
+  "i": 675,
+  "en": "help",
+  "zh": "帮忙",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "675_help.mp3"
+ },
+ {
+  "i": 676,
+  "en": "here",
+  "zh": "这里",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "676_here.mp3"
+ },
+ {
+  "i": 677,
+  "en": "high",
+  "zh": "高",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "677_high.mp3"
+ },
+ {
+  "i": 678,
+  "en": "hooray",
+  "zh": "好耶",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "678_hooray.mp3"
+ },
+ {
+  "i": 680,
+  "en": "how",
+  "zh": "怎样",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "680_how.mp3"
+ },
+ {
+  "i": 682,
+  "en": "hurts",
+  "zh": "疼",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "682_hurts.mp3"
+ },
+ {
+  "i": 683,
+  "en": "i'd",
+  "zh": "我会",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "683_i-d.mp3"
+ },
+ {
+  "i": 684,
+  "en": "i'm",
+  "zh": "我是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "684_i-m.mp3"
+ },
+ {
+  "i": 685,
+  "en": "ice",
+  "zh": "冰",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "685_ice.mp3"
+ },
+ {
+  "i": 690,
+  "en": "let",
+  "zh": "让",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "690_let.mp3"
+ },
+ {
+  "i": 691,
+  "en": "makes",
+  "zh": "使、做",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "691_makes.mp3"
+ },
+ {
+  "i": 692,
+  "en": "many",
+  "zh": "很多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "692_many.mp3"
+ },
+ {
+  "i": 694,
+  "en": "may",
+  "zh": "可以",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "694_may.mp3"
+ },
+ {
+  "i": 695,
+  "en": "me",
+  "zh": "我",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "695_me.mp3"
+ },
+ {
+  "i": 697,
+  "en": "more",
+  "zh": "更多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "697_more.mp3"
+ },
+ {
+  "i": 698,
+  "en": "morning",
+  "zh": "早上",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "698_morning.mp3"
+ },
+ {
+  "i": 702,
+  "en": "noon",
+  "zh": "中午",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "702_noon.mp3"
+ },
+ {
+  "i": 704,
+  "en": "of",
+  "zh": "……的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "704_of.mp3"
+ },
+ {
+  "i": 705,
+  "en": "on",
+  "zh": "在……上面",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "705_on.mp3"
+ },
+ {
+  "i": 706,
+  "en": "one",
+  "zh": "一",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "706_one.mp3"
+ },
+ {
+  "i": 707,
+  "en": "open",
+  "zh": "打开",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "707_open.mp3"
+ },
+ {
+  "i": 709,
+  "en": "ouch",
+  "zh": "哎呀",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "709_ouch.mp3"
+ },
+ {
+  "i": 710,
+  "en": "outside",
+  "zh": "外面",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "710_outside.mp3"
+ },
+ {
+  "i": 713,
+  "en": "play",
+  "zh": "玩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "713_play.mp3"
+ },
+ {
+  "i": 714,
+  "en": "played",
+  "zh": "玩过了",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "714_played.mp3"
+ },
+ {
+  "i": 715,
+  "en": "playing",
+  "zh": "正在玩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "715_playing.mp3"
+ },
+ {
+  "i": 718,
+  "en": "put",
+  "zh": "放",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "718_put.mp3"
+ },
+ {
+  "i": 719,
+  "en": "ready",
+  "zh": "准备好了",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "719_ready.mp3"
+ },
+ {
+  "i": 720,
+  "en": "red",
+  "zh": "红色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "720_red.mp3"
+ },
+ {
+  "i": 722,
+  "en": "ride",
+  "zh": "骑",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "722_ride.mp3"
+ },
+ {
+  "i": 725,
+  "en": "see",
+  "zh": "看见",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "725_see.mp3"
+ },
+ {
+  "i": 726,
+  "en": "seven",
+  "zh": "七",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "726_seven.mp3"
+ },
+ {
+  "i": 727,
+  "en": "shake",
+  "zh": "摇一摇",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "727_shake.mp3"
+ },
+ {
+  "i": 730,
+  "en": "sky",
+  "zh": "天空",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "730_sky.mp3"
+ },
+ {
+  "i": 732,
+  "en": "slowly",
+  "zh": "慢慢地",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "732_slowly.mp3"
+ },
+ {
+  "i": 734,
+  "en": "some",
+  "zh": "一些",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "734_some.mp3"
+ },
+ {
+  "i": 737,
+  "en": "stop",
+  "zh": "停",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "737_stop.mp3"
+ },
+ {
+  "i": 739,
+  "en": "strong",
+  "zh": "强壮",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "739_strong.mp3"
+ },
+ {
+  "i": 742,
+  "en": "take",
+  "zh": "拿",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "742_take.mp3"
+ },
+ {
+  "i": 743,
+  "en": "teeth",
+  "zh": "牙齿",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "743_teeth.mp3"
+ },
+ {
+  "i": 744,
+  "en": "ten",
+  "zh": "十",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "744_ten.mp3"
+ },
+ {
+  "i": 745,
+  "en": "thank",
+  "zh": "谢谢",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "745_thank.mp3"
+ },
+ {
+  "i": 753,
+  "en": "two",
+  "zh": "二",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "753_two.mp3"
+ },
+ {
+  "i": 754,
+  "en": "up",
+  "zh": "向上",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "754_up.mp3"
+ },
+ {
+  "i": 755,
+  "en": "vegetables",
+  "zh": "蔬菜",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "755_vegetables.mp3"
+ },
+ {
+  "i": 756,
+  "en": "very",
+  "zh": "很",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "756_very.mp3"
+ },
+ {
+  "i": 758,
+  "en": "want",
+  "zh": "想要",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "758_want.mp3"
+ },
+ {
+  "i": 760,
+  "en": "washed",
+  "zh": "洗过了",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "760_washed.mp3"
+ },
+ {
+  "i": 762,
+  "en": "with",
+  "zh": "和……一起",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "762_with.mp3"
+ },
+ {
+  "i": 763,
+  "en": "would",
+  "zh": "愿意",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "763_would.mp3"
+ },
+ {
+  "i": 764,
+  "en": "wrong",
+  "zh": "错的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "764_wrong.mp3"
+ },
+ {
+  "i": 766,
+  "en": "your",
+  "zh": "你的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "766_your.mp3"
+ },
+ {
+  "i": 767,
+  "en": "yum",
+  "zh": "好吃",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "767_yum.mp3"
+ },
+ {
+  "i": 769,
+  "en": "drink",
+  "zh": "喝、饮料",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "769_drink.mp3"
  }
 ]
