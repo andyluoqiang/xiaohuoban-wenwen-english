@@ -1,0 +1,150 @@
+{
+ "theme": "mv_media",
+ "nameZh": "媒体与学习",
+ "order": 28,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_media-l1-u1",
+   "band": 1,
+   "title": "Media · 媒体",
+   "cards": [
+    {
+     "id": "mv_media-l1-u1-c1",
+     "type": "word",
+     "en": "Internet",
+     "audio": "audio/all/1344_internet.mp3",
+     "slow": "audio/all/1344_internet.mp3",
+     "image": "img/cam-internet.jpg",
+     "zh": "互联网"
+    },
+    {
+     "id": "mv_media-l1-u1-c2",
+     "type": "word",
+     "en": "Website",
+     "audio": "audio/all/1497_website.mp3",
+     "slow": "audio/all/1497_website.mp3",
+     "image": "img/cam-website.jpg",
+     "zh": "网站"
+    },
+    {
+     "id": "mv_media-l1-u1-c3",
+     "type": "word",
+     "en": "Email",
+     "audio": "audio/all/1290_email.mp3",
+     "slow": "audio/all/1290_email.mp3",
+     "image": "img/cam-email.jpg",
+     "zh": "电子邮件"
+    },
+    {
+     "id": "mv_media-l1-u1-c4",
+     "type": "word",
+     "en": "Message",
+     "audio": "audio/all/1366_message.mp3",
+     "slow": "audio/all/1366_message.mp3",
+     "image": "img/cam-message.jpg",
+     "zh": "消息"
+    },
+    {
+     "id": "mv_media-l1-u1-c5",
+     "type": "word",
+     "en": "Video",
+     "audio": "audio/all/1490_video.mp3",
+     "slow": "audio/all/1490_video.mp3",
+     "image": "img/cam-video.jpg",
+     "zh": "视频"
+    },
+    {
+     "id": "mv_media-l1-u1-c6",
+     "type": "word",
+     "en": "Comic",
+     "audio": "audio/all/1262_comic.mp3",
+     "slow": "audio/all/1262_comic.mp3",
+     "image": "img/cam-comic.jpg",
+     "zh": "漫画"
+    },
+    {
+     "id": "mv_media-l1-u1-c7",
+     "type": "word",
+     "en": "Film",
+     "audio": "audio/all/1302_film.mp3",
+     "slow": "audio/all/1302_film.mp3",
+     "image": "img/cam-film.jpg",
+     "zh": "电影"
+    },
+    {
+     "id": "mv_media-l1-u1-c8",
+     "type": "word",
+     "en": "Text",
+     "audio": "audio/all/1468_text.mp3",
+     "slow": "audio/all/1468_text.mp3",
+     "image": "img/cam-text.jpg",
+     "zh": "发短信、文本"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_media-l1-u2",
+   "band": 1,
+   "title": "Learning · 学习",
+   "cards": [
+    {
+     "id": "mv_media-l1-u2-c1",
+     "type": "word",
+     "en": "Book",
+     "audio": "audio/all/574_book.mp3",
+     "slow": "audio/all/574_book.mp3",
+     "image": "img/ai-book.jpg",
+     "zh": "书"
+    },
+    {
+     "id": "mv_media-l1-u2-c2",
+     "type": "word",
+     "en": "Pen",
+     "audio": "audio/all/575_pen.mp3",
+     "slow": "audio/all/575_pen.mp3",
+     "image": "img/cam-pen.jpg",
+     "zh": "钢笔"
+    },
+    {
+     "id": "mv_media-l1-u2-c3",
+     "type": "word",
+     "en": "Pencil",
+     "audio": "audio/all/576_pencil.mp3",
+     "slow": "audio/all/576_pencil.mp3",
+     "image": "img/ai-pencil.jpg",
+     "zh": "铅笔"
+    },
+    {
+     "id": "mv_media-l1-u2-c4",
+     "type": "word",
+     "en": "Ruler",
+     "audio": "audio/all/577_ruler.mp3",
+     "slow": "audio/all/577_ruler.mp3",
+     "image": "img/cam-ruler.jpg",
+     "zh": "尺子"
+    },
+    {
+     "id": "mv_media-l1-u2-c5",
+     "type": "word",
+     "en": "Eraser",
+     "audio": "audio/all/578_eraser.mp3",
+     "slow": "audio/all/578_eraser.mp3",
+     "image": "img/ai-eraser.jpg",
+     "zh": "橡皮"
+    },
+    {
+     "id": "mv_media-l1-u2-c6",
+     "type": "word",
+     "en": "Desk",
+     "audio": "audio/all/579_desk.mp3",
+     "slow": "audio/all/579_desk.mp3",
+     "image": "img/ai-desk.jpg",
+     "zh": "课桌"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "theme": "mv_nature",
+ "nameZh": "自然与天气",
+ "order": 22,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_nature-l1-u1",
+   "band": 1,
+   "title": "Nature · 大自然",
+   "cards": [
+    {
+     "id": "mv_nature-l1-u1-c1",
+     "type": "word",
+     "en": "Forest",
+     "audio": "audio/all/1307_forest.mp3",
+     "slow": "audio/all/1307_forest.mp3",
+     "image": "img/cam-forest.jpg",
+     "zh": "森林"
+    },
+    {
+     "id": "mv_nature-l1-u1-c2",
+     "type": "word",
+     "en": "Island",
+     "audio": "audio/all/1347_island.mp3",
+     "slow": "audio/all/1347_island.mp3",
+     "image": "img/ai-island.jpg",
+     "zh": "岛"
+    },
+    {
+     "id": "mv_nature-l1-u1-c3",
+     "type": "word",
+     "en": "Lake",
+     "audio": "audio/all/1350_lake.mp3",
+     "slow": "audio/all/1350_lake.mp3",
+     "image": "img/ai-lake.jpg",
+     "zh": "湖"
+    },
+    {
+     "id": "mv_nature-l1-u1-c4",
+     "type": "word",
+     "en": "Mountain",
+     "audio": "audio/all/1373_mountain.mp3",
+     "slow": "audio/all/1373_mountain.mp3",
+     "image": "img/ai-mountain.jpg",
+     "zh": "山"
+    },
+    {
+     "id": "mv_nature-l1-u1-c5",
+     "type": "word",
+     "en": "River",
+     "audio": "audio/all/1416_river.mp3",
+     "slow": "audio/all/1416_river.mp3",
+     "image": "img/cam-river.jpg",
+     "zh": "河流"
+    },
+    {
+     "id": "mv_nature-l1-u1-c6",
+     "type": "word",
+     "en": "Rock",
+     "audio": "audio/all/1418_rock.mp3",
+     "slow": "audio/all/1418_rock.mp3",
+     "image": "img/cam-rock.jpg",
+     "zh": "岩石"
+    },
+    {
+     "id": "mv_nature-l1-u1-c7",
+     "type": "word",
+     "en": "Grass",
+     "audio": "audio/all/1322_grass.mp3",
+     "slow": "audio/all/1322_grass.mp3",
+     "image": "img/ai-grass.jpg",
+     "zh": "草地"
+    },
+    {
+     "id": "mv_nature-l1-u1-c8",
+     "type": "word",
+     "en": "Tree",
+     "audio": "audio/all/895_tree.mp3",
+     "slow": "audio/all/895_tree.mp3",
+     "image": "img/cam-tree.jpg",
+     "zh": "树"
+    },
+    {
+     "id": "mv_nature-l1-u1-c9",
+     "type": "word",
+     "en": "Plant",
+     "audio": "audio/all/1401_plant.mp3",
+     "slow": "audio/all/1401_plant.mp3",
+     "image": "img/cam-plant.jpg",
+     "zh": "植物"
+    },
+    {
+     "id": "mv_nature-l1-u1-c10",
+     "type": "word",
+     "en": "Leaf",
+     "audio": "audio/all/1354_leaf.mp3",
+     "slow": "audio/all/1354_leaf.mp3",
+     "image": "img/cam-leaf.jpg",
+     "zh": "树叶"
+    },
+    {
+     "id": "mv_nature-l1-u1-c11",
+     "type": "word",
+     "en": "Jungle",
+     "audio": "audio/all/1348_jungle.mp3",
+     "slow": "audio/all/1348_jungle.mp3",
+     "image": "img/cam-jungle.jpg",
+     "zh": "丛林"
+    },
+    {
+     "id": "mv_nature-l1-u1-c12",
+     "type": "word",
+     "en": "Waterfall",
+     "audio": "audio/all/1494_waterfall.mp3",
+     "slow": "audio/all/1494_waterfall.mp3",
+     "image": "img/cam-waterfall.jpg",
+     "zh": "瀑布"
+    },
+    {
+     "id": "mv_nature-l1-u1-c13",
+     "type": "word",
+     "en": "Countryside",
+     "audio": "audio/all/1268_countryside.mp3",
+     "slow": "audio/all/1268_countryside.mp3",
+     "image": "img/cam-countryside.jpg",
+     "zh": "乡村"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_nature-l1-u2",
+   "band": 1,
+   "title": "Weather · 天气",
+   "cards": [
+    {
+     "id": "mv_nature-l1-u2-c1",
+     "type": "word",
+     "en": "Cloud",
+     "audio": "audio/all/1255_cloud.mp3",
+     "slow": "audio/all/1255_cloud.mp3",
+     "image": "img/cam-cloud.jpg",
+     "zh": "云"
+    },
+    {
+     "id": "mv_nature-l1-u2-c2",
+     "type": "word",
+     "en": "Cloudy",
+     "audio": "audio/all/1256_cloudy.mp3",
+     "slow": "audio/all/1256_cloudy.mp3",
+     "image": "img/cam-cloudy.jpg",
+     "zh": "多云的"
+    },
+    {
+     "id": "mv_nature-l1-u2-c3",
+     "type": "word",
+     "en": "Rain",
+     "audio": "audio/all/1414_rain.mp3",
+     "slow": "audio/all/1414_rain.mp3",
+     "image": "img/cam-rain.jpg",
+     "zh": "雨"
+    },
+    {
+     "id": "mv_nature-l1-u2-c4",
+     "type": "word",
+     "en": "Snow",
+     "audio": "audio/all/1443_snow.mp3",
+     "slow": "audio/all/1443_snow.mp3",
+     "image": "img/cam-snow.jpg",
+     "zh": "雪"
+    },
+    {
+     "id": "mv_nature-l1-u2-c5",
+     "type": "word",
+     "en": "Wind",
+     "audio": "audio/all/1505_wind.mp3",
+     "slow": "audio/all/1505_wind.mp3",
+     "image": "img/cam-wind.jpg",
+     "zh": "风"
+    },
+    {
+     "id": "mv_nature-l1-u2-c6",
+     "type": "word",
+     "en": "Windy",
+     "audio": "audio/all/1506_windy.mp3",
+     "slow": "audio/all/1506_windy.mp3",
+     "image": "img/cam-windy.jpg",
+     "zh": "有风的"
+    },
+    {
+     "id": "mv_nature-l1-u2-c7",
+     "type": "word",
+     "en": "Sunny",
+     "audio": "audio/all/1457_sunny.mp3",
+     "slow": "audio/all/1457_sunny.mp3",
+     "image": "img/cam-sunny.jpg",
+     "zh": "晴朗的"
+    },
+    {
+     "id": "mv_nature-l1-u2-c8",
+     "type": "word",
+     "en": "Moon",
+     "audio": "audio/all/1371_moon.mp3",
+     "slow": "audio/all/1371_moon.mp3",
+     "image": "img/cam-moon.jpg",
+     "zh": "月亮"
+    },
+    {
+     "id": "mv_nature-l1-u2-c9",
+     "type": "word",
+     "en": "Star",
+     "audio": "audio/all/1451_star.mp3",
+     "slow": "audio/all/1451_star.mp3",
+     "image": "img/ai-star.jpg",
+     "zh": "星星"
+    },
+    {
+     "id": "mv_nature-l1-u2-c10",
+     "type": "word",
+     "en": "Rainbow",
+     "audio": "audio/all/1415_rainbow.mp3",
+     "slow": "audio/all/1415_rainbow.mp3",
+     "image": "img/cam-rainbow.jpg",
+     "zh": "彩虹"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "theme": "fl_body",
+ "nameZh": "身体与健康",
+ "order": 47,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_body-l1-u1",
+   "band": 1,
+   "title": "Body · 身体部位",
+   "cards": [
+    {
+     "id": "fl_body-l1-u1-c1",
+     "type": "word",
+     "en": "Elbow",
+     "audio": "audio/all/1708_elbow.mp3",
+     "slow": "audio/all/1708_elbow.mp3",
+     "image": "img/ai-elbow.jpg",
+     "zh": "肘部"
+    },
+    {
+     "id": "fl_body-l1-u1-c2",
+     "type": "word",
+     "en": "Stomach",
+     "audio": "audio/all/1453_stomach.mp3",
+     "slow": "audio/all/1453_stomach.mp3",
+     "image": "img/cam-stomach.jpg",
+     "zh": "肚子"
+    },
+    {
+     "id": "fl_body-l1-u1-c3",
+     "type": "word",
+     "en": "Neck",
+     "audio": "audio/all/700_neck.mp3",
+     "slow": "audio/all/700_neck.mp3",
+     "image": "img/ai-neck.jpg",
+     "zh": "脖子"
+    },
+    {
+     "id": "fl_body-l1-u1-c4",
+     "type": "word",
+     "en": "Tooth",
+     "audio": "audio/all/750_tooth.mp3",
+     "slow": "audio/all/750_tooth.mp3",
+     "image": "img/ai-tooth.jpg",
+     "zh": "牙齿"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_body-l1-u2",
+   "band": 1,
+   "title": "Health · 健康",
+   "cards": [
+    {
+     "id": "fl_body-l1-u2-c1",
+     "type": "word",
+     "en": "Chemist",
+     "audio": "audio/all/1667_chemist.mp3",
+     "slow": "audio/all/1667_chemist.mp3",
+     "image": "img/cam-chemist.jpg",
+     "zh": "药店"
+    },
+    {
+     "id": "fl_body-l1-u2-c2",
+     "type": "word",
+     "en": "Ambulance",
+     "audio": "audio/all/1616_ambulance.mp3",
+     "slow": "audio/all/1616_ambulance.mp3",
+     "image": "img/ai-ambulance.jpg",
+     "zh": "救护车"
+    },
+    {
+     "id": "fl_body-l1-u2-c3",
+     "type": "word",
+     "en": "Hospital",
+     "audio": "audio/all/1332_hospital.mp3",
+     "slow": "audio/all/1332_hospital.mp3",
+     "image": "img/cam-hospital.jpg",
+     "zh": "医院"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

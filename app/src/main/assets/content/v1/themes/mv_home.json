@@ -1,0 +1,159 @@
+{
+ "theme": "mv_home",
+ "nameZh": "家居与用品",
+ "order": 23,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_home-l1-u1",
+   "band": 1,
+   "title": "At home · 家里",
+   "cards": [
+    {
+     "id": "mv_home-l1-u1-c1",
+     "type": "word",
+     "en": "Basement",
+     "audio": "audio/all/1218_basement.mp3",
+     "slow": "audio/all/1218_basement.mp3",
+     "image": "img/ai-basement.jpg",
+     "zh": "地下室"
+    },
+    {
+     "id": "mv_home-l1-u1-c2",
+     "type": "word",
+     "en": "Roof",
+     "audio": "audio/all/1421_roof.mp3",
+     "slow": "audio/all/1421_roof.mp3",
+     "image": "img/cam-roof.jpg",
+     "zh": "屋顶"
+    },
+    {
+     "id": "mv_home-l1-u1-c3",
+     "type": "word",
+     "en": "Elevator",
+     "audio": "audio/all/1289_elevator.mp3",
+     "slow": "audio/all/1289_elevator.mp3",
+     "image": "img/cam-elevator.jpg",
+     "zh": "电梯"
+    },
+    {
+     "id": "mv_home-l1-u1-c4",
+     "type": "word",
+     "en": "Floor",
+     "audio": "audio/all/839_floor.mp3",
+     "slow": "audio/all/839_floor.mp3",
+     "image": "img/cam-floor.jpg",
+     "zh": "地板"
+    },
+    {
+     "id": "mv_home-l1-u1-c5",
+     "type": "word",
+     "en": "Wall",
+     "audio": "audio/all/897_wall.mp3",
+     "slow": "audio/all/897_wall.mp3",
+     "image": "img/cam-wall.jpg",
+     "zh": "墙"
+    },
+    {
+     "id": "mv_home-l1-u1-c6",
+     "type": "word",
+     "en": "Room",
+     "audio": "audio/all/881_room.mp3",
+     "slow": "audio/all/881_room.mp3",
+     "image": "img/cam-room.jpg",
+     "zh": "房间"
+    },
+    {
+     "id": "mv_home-l1-u1-c7",
+     "type": "word",
+     "en": "Hall",
+     "audio": "audio/all/852_hall.mp3",
+     "slow": "audio/all/852_hall.mp3",
+     "image": "img/cam-hall.jpg",
+     "zh": "门厅"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_home-l1-u2",
+   "band": 1,
+   "title": "Things · 物品",
+   "cards": [
+    {
+     "id": "mv_home-l1-u2-c1",
+     "type": "word",
+     "en": "Blanket",
+     "audio": "audio/all/1224_blanket.mp3",
+     "slow": "audio/all/1224_blanket.mp3",
+     "image": "img/cam-blanket.jpg",
+     "zh": "毯子"
+    },
+    {
+     "id": "mv_home-l1-u2-c2",
+     "type": "word",
+     "en": "Bottle",
+     "audio": "audio/all/1228_bottle.mp3",
+     "slow": "audio/all/1228_bottle.mp3",
+     "image": "img/cam-bottle.jpg",
+     "zh": "瓶子"
+    },
+    {
+     "id": "mv_home-l1-u2-c3",
+     "type": "word",
+     "en": "Cup",
+     "audio": "audio/all/1270_cup.mp3",
+     "slow": "audio/all/1270_cup.mp3",
+     "image": "img/cam-cup.jpg",
+     "zh": "杯子"
+    },
+    {
+     "id": "mv_home-l1-u2-c4",
+     "type": "word",
+     "en": "Plate",
+     "audio": "audio/all/1402_plate.mp3",
+     "slow": "audio/all/1402_plate.mp3",
+     "image": "img/cam-plate.jpg",
+     "zh": "盘子"
+    },
+    {
+     "id": "mv_home-l1-u2-c5",
+     "type": "word",
+     "en": "Glass",
+     "audio": "audio/all/1316_glass.mp3",
+     "slow": "audio/all/1316_glass.mp3",
+     "image": "img/cam-glass.jpg",
+     "zh": "玻璃杯"
+    },
+    {
+     "id": "mv_home-l1-u2-c6",
+     "type": "word",
+     "en": "Towel",
+     "audio": "audio/all/1480_towel.mp3",
+     "slow": "audio/all/1480_towel.mp3",
+     "image": "img/ai-towel.jpg",
+     "zh": "毛巾"
+    },
+    {
+     "id": "mv_home-l1-u2-c7",
+     "type": "word",
+     "en": "Toothbrush",
+     "audio": "audio/all/1477_toothbrush.mp3",
+     "slow": "audio/all/1477_toothbrush.mp3",
+     "image": "img/cam-toothbrush.jpg",
+     "zh": "牙刷"
+    },
+    {
+     "id": "mv_home-l1-u2-c8",
+     "type": "word",
+     "en": "Box",
+     "audio": "audio/all/814_box.mp3",
+     "slow": "audio/all/814_box.mp3",
+     "image": "img/cam-box.jpg",
+     "zh": "盒子"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "theme": "fl_nature",
+ "nameZh": "自然与地球",
+ "order": 41,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_nature-l1-u1",
+   "band": 1,
+   "title": "Nature · 自然",
+   "cards": [
+    {
+     "id": "fl_nature-l1-u1-c1",
+     "type": "word",
+     "en": "Desert",
+     "audio": "audio/all/1693_desert.mp3",
+     "slow": "audio/all/1693_desert.mp3",
+     "image": "img/ai-desert.jpg",
+     "zh": "沙漠"
+    },
+    {
+     "id": "fl_nature-l1-u1-c2",
+     "type": "word",
+     "en": "Hill",
+     "audio": "audio/all/1778_hill.mp3",
+     "slow": "audio/all/1778_hill.mp3",
+     "image": "img/ai-hill.jpg",
+     "zh": "小山"
+    },
+    {
+     "id": "fl_nature-l1-u1-c3",
+     "type": "word",
+     "en": "Hole",
+     "audio": "audio/all/1780_hole.mp3",
+     "slow": "audio/all/1780_hole.mp3",
+     "image": "img/ai-hole.jpg",
+     "zh": "洞"
+    },
+    {
+     "id": "fl_nature-l1-u1-c4",
+     "type": "word",
+     "en": "Ocean",
+     "audio": "audio/all/1623_ocean.mp3",
+     "slow": "audio/all/1623_ocean.mp3",
+     "image": "img/ai-ocean.jpg",
+     "zh": "海洋"
+    },
+    {
+     "id": "fl_nature-l1-u1-c5",
+     "type": "word",
+     "en": "Island",
+     "audio": "audio/all/1347_island.mp3",
+     "slow": "audio/all/1347_island.mp3",
+     "image": "img/ai-island.jpg",
+     "zh": "岛"
+    },
+    {
+     "id": "fl_nature-l1-u1-c6",
+     "type": "word",
+     "en": "Forest",
+     "audio": "audio/all/1307_forest.mp3",
+     "slow": "audio/all/1307_forest.mp3",
+     "image": "img/cam-forest.jpg",
+     "zh": "森林"
+    },
+    {
+     "id": "fl_nature-l1-u1-c7",
+     "type": "word",
+     "en": "Cave",
+     "audio": "audio/all/1661_cave.mp3",
+     "slow": "audio/all/1661_cave.mp3",
+     "image": "img/cam-cave.jpg",
+     "zh": "洞穴"
+    },
+    {
+     "id": "fl_nature-l1-u1-c8",
+     "type": "word",
+     "en": "Field",
+     "audio": "audio/all/1301_field.mp3",
+     "slow": "audio/all/1301_field.mp3",
+     "image": "img/ai-field.jpg",
+     "zh": "田野"
+    },
+    {
+     "id": "fl_nature-l1-u1-c9",
+     "type": "word",
+     "en": "Rainbow",
+     "audio": "audio/all/1415_rainbow.mp3",
+     "slow": "audio/all/1415_rainbow.mp3",
+     "image": "img/cam-rainbow.jpg",
+     "zh": "彩虹"
+    },
+    {
+     "id": "fl_nature-l1-u1-c10",
+     "type": "word",
+     "en": "Waterfall",
+     "audio": "audio/all/1494_waterfall.mp3",
+     "slow": "audio/all/1494_waterfall.mp3",
+     "image": "img/cam-waterfall.jpg",
+     "zh": "瀑布"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_nature-l1-u2",
+   "band": 1,
+   "title": "Earth · 地球与方位",
+   "cards": [
+    {
+     "id": "fl_nature-l1-u2-c1",
+     "type": "word",
+     "en": "Moon",
+     "audio": "audio/all/1371_moon.mp3",
+     "slow": "audio/all/1371_moon.mp3",
+     "image": "img/cam-moon.jpg",
+     "zh": "月亮"
+    },
+    {
+     "id": "fl_nature-l1-u2-c2",
+     "type": "word",
+     "en": "Star",
+     "audio": "audio/all/1451_star.mp3",
+     "slow": "audio/all/1451_star.mp3",
+     "image": "img/ai-star.jpg",
+     "zh": "星星"
+    },
+    {
+     "id": "fl_nature-l1-u2-c3",
+     "type": "word",
+     "en": "Sun",
+     "audio": "audio/all/604_sun.mp3",
+     "slow": "audio/all/604_sun.mp3",
+     "image": "img/cam-sun.jpg",
+     "zh": "太阳"
+    },
+    {
+     "id": "fl_nature-l1-u2-c4",
+     "type": "word",
+     "en": "East",
+     "audio": "audio/all/1707_east.mp3",
+     "slow": "audio/all/1707_east.mp3",
+     "image": "img/cam-east.jpg",
+     "zh": "东"
+    },
+    {
+     "id": "fl_nature-l1-u2-c5",
+     "type": "word",
+     "en": "West",
+     "audio": "audio/all/1802_west.mp3",
+     "slow": "audio/all/1802_west.mp3",
+     "image": "img/cam-west.jpg",
+     "zh": "西"
+    },
+    {
+     "id": "fl_nature-l1-u2-c6",
+     "type": "word",
+     "en": "North",
+     "audio": "audio/all/1620_north.mp3",
+     "slow": "audio/all/1620_north.mp3",
+     "image": "img/cam-north.jpg",
+     "zh": "北"
+    },
+    {
+     "id": "fl_nature-l1-u2-c7",
+     "type": "word",
+     "en": "South",
+     "audio": "audio/all/1722_south.mp3",
+     "slow": "audio/all/1722_south.mp3",
+     "image": "img/cam-south.jpg",
+     "zh": "南"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

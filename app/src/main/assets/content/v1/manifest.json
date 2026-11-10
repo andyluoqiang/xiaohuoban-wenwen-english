@@ -145,6 +145,198 @@
    ],
    "units": 2,
    "cards": 13
+  },
+  {
+   "id": "mv_town",
+   "nameZh": "城镇与场所",
+   "order": 21,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 16
+  },
+  {
+   "id": "mv_nature",
+   "nameZh": "自然与天气",
+   "order": 22,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 23
+  },
+  {
+   "id": "mv_home",
+   "nameZh": "家居与用品",
+   "order": 23,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 15
+  },
+  {
+   "id": "mv_food",
+   "nameZh": "更多食物",
+   "order": 24,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 13
+  },
+  {
+   "id": "mv_people",
+   "nameZh": "人物与职业",
+   "order": 25,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 16
+  },
+  {
+   "id": "mv_looks",
+   "nameZh": "外貌与身体",
+   "order": 26,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 6
+  },
+  {
+   "id": "mv_clothes",
+   "nameZh": "更多衣物",
+   "order": 27,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 13
+  },
+  {
+   "id": "mv_media",
+   "nameZh": "媒体与学习",
+   "order": 28,
+   "stage": "movers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 14
+  },
+  {
+   "id": "fl_nature",
+   "nameZh": "自然与地球",
+   "order": 41,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 17
+  },
+  {
+   "id": "fl_animal",
+   "nameZh": "动物与生物",
+   "order": 42,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 15
+  },
+  {
+   "id": "fl_job",
+   "nameZh": "职业与身份",
+   "order": 43,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 13
+  },
+  {
+   "id": "fl_place",
+   "nameZh": "场所与建筑",
+   "order": 44,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 17
+  },
+  {
+   "id": "fl_food",
+   "nameZh": "厨房与食物",
+   "order": 45,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 17
+  },
+  {
+   "id": "fl_object",
+   "nameZh": "物品与服饰",
+   "order": 46,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 17
+  },
+  {
+   "id": "fl_body",
+   "nameZh": "身体与健康",
+   "order": 47,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 7
+  },
+  {
+   "id": "fl_world",
+   "nameZh": "四季与出行",
+   "order": 48,
+   "stage": "flyers",
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 11
   }
  ]
 }

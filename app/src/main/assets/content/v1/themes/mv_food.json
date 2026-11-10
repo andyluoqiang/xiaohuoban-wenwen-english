@@ -1,0 +1,141 @@
+{
+ "theme": "mv_food",
+ "nameZh": "更多食物",
+ "order": 24,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_food-l1-u1",
+   "band": 1,
+   "title": "Yummy food · 好吃的",
+   "cards": [
+    {
+     "id": "mv_food-l1-u1-c1",
+     "type": "word",
+     "en": "Cheese",
+     "audio": "audio/all/1249_cheese.mp3",
+     "slow": "audio/all/1249_cheese.mp3",
+     "image": "img/cam-cheese.jpg",
+     "zh": "奶酪"
+    },
+    {
+     "id": "mv_food-l1-u1-c2",
+     "type": "word",
+     "en": "Pasta",
+     "audio": "audio/all/1397_pasta.mp3",
+     "slow": "audio/all/1397_pasta.mp3",
+     "image": "img/ai-pasta.jpg",
+     "zh": "意面"
+    },
+    {
+     "id": "mv_food-l1-u1-c3",
+     "type": "word",
+     "en": "Salad",
+     "audio": "audio/all/1425_salad.mp3",
+     "slow": "audio/all/1425_salad.mp3",
+     "image": "img/cam-salad.jpg",
+     "zh": "沙拉"
+    },
+    {
+     "id": "mv_food-l1-u1-c4",
+     "type": "word",
+     "en": "Sandwich",
+     "audio": "audio/all/1426_sandwich.mp3",
+     "slow": "audio/all/1426_sandwich.mp3",
+     "image": "img/cam-sandwich.jpg",
+     "zh": "三明治"
+    },
+    {
+     "id": "mv_food-l1-u1-c5",
+     "type": "word",
+     "en": "Burger",
+     "audio": "audio/all/817_burger.mp3",
+     "slow": "audio/all/817_burger.mp3",
+     "image": "img/cam-burger.jpg",
+     "zh": "汉堡"
+    },
+    {
+     "id": "mv_food-l1-u1-c6",
+     "type": "word",
+     "en": "Potato",
+     "audio": "audio/all/878_potato.mp3",
+     "slow": "audio/all/878_potato.mp3",
+     "image": "img/cam-potato.jpg",
+     "zh": "土豆"
+    },
+    {
+     "id": "mv_food-l1-u1-c7",
+     "type": "word",
+     "en": "Tomato",
+     "audio": "audio/all/894_tomato.mp3",
+     "slow": "audio/all/894_tomato.mp3",
+     "image": "img/cam-tomato.jpg",
+     "zh": "西红柿"
+    },
+    {
+     "id": "mv_food-l1-u1-c8",
+     "type": "word",
+     "en": "Onion",
+     "audio": "audio/all/867_onion.mp3",
+     "slow": "audio/all/867_onion.mp3",
+     "image": "img/cam-onion.jpg",
+     "zh": "洋葱"
+    },
+    {
+     "id": "mv_food-l1-u1-c9",
+     "type": "word",
+     "en": "Carrot",
+     "audio": "audio/all/819_carrot.mp3",
+     "slow": "audio/all/819_carrot.mp3",
+     "image": "img/cam-carrot.jpg",
+     "zh": "胡萝卜"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_food-l1-u2",
+   "band": 1,
+   "title": "Drinks · 饮品",
+   "cards": [
+    {
+     "id": "mv_food-l1-u2-c1",
+     "type": "word",
+     "en": "Coffee",
+     "audio": "audio/all/1259_coffee.mp3",
+     "slow": "audio/all/1259_coffee.mp3",
+     "image": "img/cam-coffee.jpg",
+     "zh": "咖啡"
+    },
+    {
+     "id": "mv_food-l1-u2-c2",
+     "type": "word",
+     "en": "Tea",
+     "audio": "audio/all/1464_tea.mp3",
+     "slow": "audio/all/1464_tea.mp3",
+     "image": "img/cam-tea.jpg",
+     "zh": "茶"
+    },
+    {
+     "id": "mv_food-l1-u2-c3",
+     "type": "word",
+     "en": "Lemonade",
+     "audio": "audio/all/857_lemonade.mp3",
+     "slow": "audio/all/857_lemonade.mp3",
+     "image": "img/cam-lemonade.jpg",
+     "zh": "柠檬水"
+    },
+    {
+     "id": "mv_food-l1-u2-c4",
+     "type": "word",
+     "en": "Water",
+     "audio": "audio/all/497_water.mp3",
+     "slow": "audio/all/497_water.mp3",
+     "image": "img/cam-water.jpg",
+     "zh": "水"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

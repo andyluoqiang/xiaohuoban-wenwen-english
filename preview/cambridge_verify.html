@@ -94,9 +94,15 @@ const LISTEN_TYPES = ['sentence','qa','retell','inquire','dialog','story'];
 const LS = 'cam_passed_v2';
 const THEMES_FILES = { body:'body.json', food:'food.json', play:'play.json', animals:'animals.json',
   clothes:'clothes.json', home:'home.json', school:'school.json', toys:'toys.json', transport:'transport.json', beach:'beach.json',
-  family:'family.json', rooms:'rooms.json', sports:'sports.json' };
+  family:'family.json', rooms:'rooms.json', sports:'sports.json',
+  mv_town:'mv_town.json', mv_nature:'mv_nature.json', mv_home:'mv_home.json', mv_food:'mv_food.json',
+  mv_people:'mv_people.json', mv_looks:'mv_looks.json', mv_clothes:'mv_clothes.json', mv_media:'mv_media.json',
+  fl_nature:'fl_nature.json', fl_animal:'fl_animal.json', fl_job:'fl_job.json', fl_place:'fl_place.json',
+  fl_food:'fl_food.json', fl_object:'fl_object.json', fl_body:'fl_body.json', fl_world:'fl_world.json' };
 const NEW6 = ['clothes','home','school','toys','transport','beach'];
 const NEW3 = ['family','rooms','sports'];
+const MV8 = ['mv_town','mv_nature','mv_home','mv_food','mv_people','mv_looks','mv_clothes','mv_media'];
+const FL8 = ['fl_nature','fl_animal','fl_job','fl_place','fl_food','fl_object','fl_body','fl_world'];
 let THEMES = {}, vocab, index;
 
 (async () => {
@@ -202,7 +208,31 @@ async function runChecks() {
   let s3aok=0; const s3abad=[];
   await Promise.all(s3auds.map(async p=>{ try{ const r=await fetch(p,{method:'HEAD'}); r.ok?s3aok++:s3abad.push(p);}catch{s3abad.push(p);} }));
   add(`新主题音频可访问（${s3auds.length} 条）`, s3abad.length===0, s3abad.slice(0,5).join(','));
-  add(`词库规模（${Object.keys(vocab).length} 词，Starters 官方词表全覆盖）`, Object.keys(vocab).length>=620, String(Object.keys(vocab).length));
+  add(`词库规模（${Object.keys(vocab).length} 词，Starters/Movers/Flyers 三级官方词表全覆盖）`, Object.keys(vocab).length>=1400, String(Object.keys(vocab).length));
+
+  // ===== ⑨ Movers / Flyers 三级检查（v6 新增）=====
+  const mvCards = MV8.flatMap(t=>THEMES[t].units.flatMap(u=>u.cards));
+  const flCards = FL8.flatMap(t=>THEMES[t].units.flatMap(u=>u.cards));
+  add(`Movers 8 主题共 ${mvCards.length} 卡（每主题至少 1 课）`, MV8.every(t=>lessonsFor(t,1).length>=1), MV8.map(t=>`${t}:${THEMES[t].units.reduce((s,u)=>s+u.cards.length,0)}`).join(' '));
+  add(`Flyers 8 主题共 ${flCards.length} 卡（每主题至少 1 课）`, FL8.every(t=>lessonsFor(t,1).length>=1), FL8.map(t=>`${t}:${THEMES[t].units.reduce((s,u)=>s+u.cards.length,0)}`).join(' '));
+  const bothNoImg = [...mvCards, ...flCards].filter(c=>!c.image||!c.image.startsWith('img/'));
+  const bothNoAud = [...mvCards, ...flCards].filter(c=>!c.audio||!c.audio.startsWith('audio/all/'));
+  const bothNoZh = [...mvCards, ...flCards].filter(c=>!c.zh);
+  add('Movers/Flyers 全部词卡图/音/释义齐全', bothNoImg.length===0&&bothNoAud.length===0&&bothNoZh.length===0,
+      `缺图${bothNoImg.length} 缺音${bothNoAud.length} 缺义${bothNoZh.length}`);
+  const mfimgs = [...new Set([...mvCards,...flCards].map(c=>c.image))];
+  let mfok=0; const mfbad=[];
+  await Promise.all(mfimgs.map(async p=>{ try{const r=await fetch(p,{method:'HEAD'}); r.ok?mfok++:mfbad.push(p);}catch{mfbad.push(p);} }));
+  add(`Movers/Flyers 图可访问（${mfimgs.length} 张）`, mfbad.length===0, mfbad.slice(0,5).join(','));
+  const mfauds = [...new Set([...mvCards,...flCards].map(c=>c.audio))];
+  let mfaok=0; const mfabad=[];
+  await Promise.all(mfauds.map(async p=>{ try{const r=await fetch(p,{method:'HEAD'}); r.ok?mfaok++:mfabad.push(p);}catch{mfabad.push(p);} }));
+  add(`Movers/Flyers 音可访问（${mfauds.length} 条）`, mfabad.length===0, mfabad.slice(0,5).join(','));
+  const mfw = [...mvCards,...flCards].map(c=>c.en.toLowerCase().split(' (')[0].replace(' fire engine',' fire_engine'));
+  const mfwMiss = mfw.filter(w=>!vocab[w]);
+  add('Movers/Flyers 词卡词全部收录词库（点词查义可用）', mfwMiss.length===0, [...new Set(mfwMiss)].slice(0,8).join(','));
+  const azCt = Object.keys(vocab).length;
+  add(`词库含三级官方词表（Starters 476 / Movers 453 / Flyers 564）`, azCt>=1419, String(azCt));
 
   // ===== ⑦ 点词查义全覆盖（v4 新增） =====
   const ck = s => s.toLowerCase().replace(/^[ .,!?;:()"'–’]+|[ .,!?;:()"'–’]+$/g, '');

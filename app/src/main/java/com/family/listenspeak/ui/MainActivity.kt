@@ -114,7 +114,23 @@ class MainActivity : AppCompatActivity() {
         "beach" to ThemeMeta("🏖️", "海滩玩耍"),
         "family" to ThemeMeta("👨‍👩‍👧", "家人与朋友"),
         "rooms" to ThemeMeta("🛋️", "房间与家具"),
-        "sports" to ThemeMeta("🏀", "运动比赛")
+        "sports" to ThemeMeta("🏀", "运动比赛"),
+        "mv_town" to ThemeMeta("🏙️", "城镇与场所"),
+        "mv_nature" to ThemeMeta("🌳", "自然与天气"),
+        "mv_home" to ThemeMeta("🏡", "家居与用品"),
+        "mv_food" to ThemeMeta("🍕", "更多食物"),
+        "mv_people" to ThemeMeta("👩‍🍳", "人物与职业"),
+        "mv_looks" to ThemeMeta("🧔", "外貌与身体"),
+        "mv_clothes" to ThemeMeta("🧥", "更多衣物"),
+        "mv_media" to ThemeMeta("💻", "媒体与学习"),
+        "fl_nature" to ThemeMeta("🌍", "自然与地球"),
+        "fl_animal" to ThemeMeta("🦅", "动物与生物"),
+        "fl_job" to ThemeMeta("👨‍🚒", "职业与身份"),
+        "fl_place" to ThemeMeta("🏛️", "场所与建筑"),
+        "fl_food" to ThemeMeta("🍯", "厨房与食物"),
+        "fl_object" to ThemeMeta("🎒", "物品与服饰"),
+        "fl_body" to ThemeMeta("🩹", "身体与健康"),
+        "fl_world" to ThemeMeta("🎿", "四季与出行")
     )
 
     private data class Level(val key: String, val short: String, val color: Int, val name: String, val desc: String)

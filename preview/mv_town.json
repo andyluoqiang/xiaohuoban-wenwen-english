@@ -1,0 +1,168 @@
+{
+ "theme": "mv_town",
+ "nameZh": "城镇与场所",
+ "order": 21,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_town-l1-u1",
+   "band": 1,
+   "title": "Town · 城镇",
+   "cards": [
+    {
+     "id": "mv_town-l1-u1-c1",
+     "type": "word",
+     "en": "City",
+     "audio": "audio/all/1253_city.mp3",
+     "slow": "audio/all/1253_city.mp3",
+     "image": "img/cam-city.jpg",
+     "zh": "城市"
+    },
+    {
+     "id": "mv_town-l1-u1-c2",
+     "type": "word",
+     "en": "Town",
+     "audio": "audio/all/1481_town.mp3",
+     "slow": "audio/all/1481_town.mp3",
+     "image": "img/cam-town.jpg",
+     "zh": "城镇"
+    },
+    {
+     "id": "mv_town-l1-u1-c3",
+     "type": "word",
+     "en": "Village",
+     "audio": "audio/all/1491_village.mp3",
+     "slow": "audio/all/1491_village.mp3",
+     "image": "img/ai-village.jpg",
+     "zh": "村庄"
+    },
+    {
+     "id": "mv_town-l1-u1-c4",
+     "type": "word",
+     "en": "Street",
+     "audio": "audio/all/1096_street.mp3",
+     "slow": "audio/all/1096_street.mp3",
+     "image": "img/ai-street.jpg",
+     "zh": "街道"
+    },
+    {
+     "id": "mv_town-l1-u1-c5",
+     "type": "word",
+     "en": "Road",
+     "audio": "audio/all/1417_road.mp3",
+     "slow": "audio/all/1417_road.mp3",
+     "image": "img/cam-road.jpg",
+     "zh": "道路"
+    },
+    {
+     "id": "mv_town-l1-u1-c6",
+     "type": "word",
+     "en": "Park",
+     "audio": "audio/all/603_park.mp3",
+     "slow": "audio/all/603_park.mp3",
+     "image": "img/cam-park.jpg",
+     "zh": "公园"
+    },
+    {
+     "id": "mv_town-l1-u1-c7",
+     "type": "word",
+     "en": "Farm",
+     "audio": "audio/all/1298_farm.mp3",
+     "slow": "audio/all/1298_farm.mp3",
+     "image": "img/ai-farm.jpg",
+     "zh": "农场"
+    },
+    {
+     "id": "mv_town-l1-u1-c8",
+     "type": "word",
+     "en": "Field",
+     "audio": "audio/all/1301_field.mp3",
+     "slow": "audio/all/1301_field.mp3",
+     "image": "img/ai-field.jpg",
+     "zh": "田野"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_town-l1-u2",
+   "band": 1,
+   "title": "Places · 场所",
+   "cards": [
+    {
+     "id": "mv_town-l1-u2-c1",
+     "type": "word",
+     "en": "Station",
+     "audio": "audio/all/1452_station.mp3",
+     "slow": "audio/all/1452_station.mp3",
+     "image": "img/cam-station.jpg",
+     "zh": "车站"
+    },
+    {
+     "id": "mv_town-l1-u2-c2",
+     "type": "word",
+     "en": "Library",
+     "audio": "audio/all/1355_library.mp3",
+     "slow": "audio/all/1355_library.mp3",
+     "image": "img/cam-library.jpg",
+     "zh": "图书馆"
+    },
+    {
+     "id": "mv_town-l1-u2-c3",
+     "type": "word",
+     "en": "Market",
+     "audio": "audio/all/1363_market.mp3",
+     "slow": "audio/all/1363_market.mp3",
+     "image": "img/cam-market.jpg",
+     "zh": "市场"
+    },
+    {
+     "id": "mv_town-l1-u2-c4",
+     "type": "word",
+     "en": "Supermarket",
+     "audio": "audio/all/1458_supermarket.mp3",
+     "slow": "audio/all/1458_supermarket.mp3",
+     "image": "img/ai-supermarket.jpg",
+     "zh": "超市"
+    },
+    {
+     "id": "mv_town-l1-u2-c5",
+     "type": "word",
+     "en": "Cinema",
+     "audio": "audio/all/1250_cinema.mp3",
+     "slow": "audio/all/1250_cinema.mp3",
+     "image": "img/ai-cinema.jpg",
+     "zh": "电影院"
+    },
+    {
+     "id": "mv_town-l1-u2-c6",
+     "type": "word",
+     "en": "Square",
+     "audio": "audio/all/1449_square.mp3",
+     "slow": "audio/all/1449_square.mp3",
+     "image": "img/cam-square.jpg",
+     "zh": "广场"
+    },
+    {
+     "id": "mv_town-l1-u2-c7",
+     "type": "word",
+     "en": "Centre",
+     "audio": "audio/all/1247_centre.mp3",
+     "slow": "audio/all/1247_centre.mp3",
+     "image": "img/cam-centre.jpg",
+     "zh": "中心"
+    },
+    {
+     "id": "mv_town-l1-u2-c8",
+     "type": "word",
+     "en": "Hospital",
+     "audio": "audio/all/1332_hospital.mp3",
+     "slow": "audio/all/1332_hospital.mp3",
+     "image": "img/cam-hospital.jpg",
+     "zh": "医院"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

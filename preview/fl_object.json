@@ -1,0 +1,177 @@
+{
+ "theme": "fl_object",
+ "nameZh": "物品与服饰",
+ "order": 46,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_object-l1-u1",
+   "band": 1,
+   "title": "Things · 物品",
+   "cards": [
+    {
+     "id": "fl_object-l1-u1-c1",
+     "type": "word",
+     "en": "Backpack",
+     "audio": "audio/all/1631_backpack.mp3",
+     "slow": "audio/all/1631_backpack.mp3",
+     "image": "img/cam-backpack.jpg",
+     "zh": "背包"
+    },
+    {
+     "id": "fl_object-l1-u1-c2",
+     "type": "word",
+     "en": "Bin",
+     "audio": "audio/all/1640_bin.mp3",
+     "slow": "audio/all/1640_bin.mp3",
+     "image": "img/ai-bin.jpg",
+     "zh": "垃圾桶"
+    },
+    {
+     "id": "fl_object-l1-u1-c3",
+     "type": "word",
+     "en": "Envelope",
+     "audio": "audio/all/1717_envelope.mp3",
+     "slow": "audio/all/1717_envelope.mp3",
+     "image": "img/cam-envelope.jpg",
+     "zh": "信封"
+    },
+    {
+     "id": "fl_object-l1-u1-c4",
+     "type": "word",
+     "en": "Stamp",
+     "audio": "audio/all/1734_stamp.mp3",
+     "slow": "audio/all/1734_stamp.mp3",
+     "image": "img/cam-stamp.jpg",
+     "zh": "邮票"
+    },
+    {
+     "id": "fl_object-l1-u1-c5",
+     "type": "word",
+     "en": "Calendar",
+     "audio": "audio/all/1655_calendar.mp3",
+     "slow": "audio/all/1655_calendar.mp3",
+     "image": "img/cam-calendar.jpg",
+     "zh": "日历"
+    },
+    {
+     "id": "fl_object-l1-u1-c6",
+     "type": "word",
+     "en": "Dictionary",
+     "audio": "audio/all/1697_dictionary.mp3",
+     "slow": "audio/all/1697_dictionary.mp3",
+     "image": "img/cam-dictionary.jpg",
+     "zh": "词典"
+    },
+    {
+     "id": "fl_object-l1-u1-c7",
+     "type": "word",
+     "en": "Magazine",
+     "audio": "audio/all/1834_magazine.mp3",
+     "slow": "audio/all/1834_magazine.mp3",
+     "image": "img/cam-magazine.jpg",
+     "zh": "杂志"
+    },
+    {
+     "id": "fl_object-l1-u1-c8",
+     "type": "word",
+     "en": "Comic",
+     "audio": "audio/all/1262_comic.mp3",
+     "slow": "audio/all/1262_comic.mp3",
+     "image": "img/cam-comic.jpg",
+     "zh": "漫画"
+    },
+    {
+     "id": "fl_object-l1-u1-c9",
+     "type": "word",
+     "en": "Glue",
+     "audio": "audio/all/1762_glue.mp3",
+     "slow": "audio/all/1762_glue.mp3",
+     "image": "img/ai-glue.jpg",
+     "zh": "胶水"
+    },
+    {
+     "id": "fl_object-l1-u1-c10",
+     "type": "word",
+     "en": "Flashlight",
+     "audio": "audio/all/1741_flashlight.mp3",
+     "slow": "audio/all/1741_flashlight.mp3",
+     "image": "img/ai-flashlight.jpg",
+     "zh": "手电筒"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_object-l1-u2",
+   "band": 1,
+   "title": "Clothes · 服饰",
+   "cards": [
+    {
+     "id": "fl_object-l1-u2-c1",
+     "type": "word",
+     "en": "Belt",
+     "audio": "audio/all/1637_belt.mp3",
+     "slow": "audio/all/1637_belt.mp3",
+     "image": "img/ai-belt.jpg",
+     "zh": "腰带"
+    },
+    {
+     "id": "fl_object-l1-u2-c2",
+     "type": "word",
+     "en": "Bracelet",
+     "audio": "audio/all/1645_bracelet.mp3",
+     "slow": "audio/all/1645_bracelet.mp3",
+     "image": "img/ai-bracelet.jpg",
+     "zh": "手镯"
+    },
+    {
+     "id": "fl_object-l1-u2-c3",
+     "type": "word",
+     "en": "Necklace",
+     "audio": "audio/all/1612_necklace.mp3",
+     "slow": "audio/all/1612_necklace.mp3",
+     "image": "img/ai-necklace.jpg",
+     "zh": "项链"
+    },
+    {
+     "id": "fl_object-l1-u2-c4",
+     "type": "word",
+     "en": "Glove",
+     "audio": "audio/all/1761_glove.mp3",
+     "slow": "audio/all/1761_glove.mp3",
+     "image": "img/ai-glove.jpg",
+     "zh": "手套"
+    },
+    {
+     "id": "fl_object-l1-u2-c5",
+     "type": "word",
+     "en": "Crown",
+     "audio": "audio/all/1681_crown.mp3",
+     "slow": "audio/all/1681_crown.mp3",
+     "image": "img/cam-crown.jpg",
+     "zh": "王冠"
+    },
+    {
+     "id": "fl_object-l1-u2-c6",
+     "type": "word",
+     "en": "Costume",
+     "audio": "audio/all/1679_costume.mp3",
+     "slow": "audio/all/1679_costume.mp3",
+     "image": "img/ai-costume.jpg",
+     "zh": "服装"
+    },
+    {
+     "id": "fl_object-l1-u2-c7",
+     "type": "word",
+     "en": "Towel",
+     "audio": "audio/all/1480_towel.mp3",
+     "slow": "audio/all/1480_towel.mp3",
+     "image": "img/ai-towel.jpg",
+     "zh": "毛巾"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

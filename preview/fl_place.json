@@ -1,0 +1,177 @@
+{
+ "theme": "fl_place",
+ "nameZh": "场所与建筑",
+ "order": 44,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_place-l1-u1",
+   "band": 1,
+   "title": "Places · 场所",
+   "cards": [
+    {
+     "id": "fl_place-l1-u1-c1",
+     "type": "word",
+     "en": "Airport",
+     "audio": "audio/all/1611_airport.mp3",
+     "slow": "audio/all/1611_airport.mp3",
+     "image": "img/ai-airport.jpg",
+     "zh": "机场"
+    },
+    {
+     "id": "fl_place-l1-u1-c2",
+     "type": "word",
+     "en": "Bank",
+     "audio": "audio/all/1633_bank.mp3",
+     "slow": "audio/all/1633_bank.mp3",
+     "image": "img/ai-bank.jpg",
+     "zh": "银行"
+    },
+    {
+     "id": "fl_place-l1-u1-c3",
+     "type": "word",
+     "en": "Hotel",
+     "audio": "audio/all/1785_hotel.mp3",
+     "slow": "audio/all/1785_hotel.mp3",
+     "image": "img/ai-hotel.jpg",
+     "zh": "酒店"
+    },
+    {
+     "id": "fl_place-l1-u1-c4",
+     "type": "word",
+     "en": "Castle",
+     "audio": "audio/all/1660_castle.mp3",
+     "slow": "audio/all/1660_castle.mp3",
+     "image": "img/cam-castle.jpg",
+     "zh": "城堡"
+    },
+    {
+     "id": "fl_place-l1-u1-c5",
+     "type": "word",
+     "en": "Cinema",
+     "audio": "audio/all/1250_cinema.mp3",
+     "slow": "audio/all/1250_cinema.mp3",
+     "image": "img/ai-cinema.jpg",
+     "zh": "电影院"
+    },
+    {
+     "id": "fl_place-l1-u1-c6",
+     "type": "word",
+     "en": "Library",
+     "audio": "audio/all/1355_library.mp3",
+     "slow": "audio/all/1355_library.mp3",
+     "image": "img/cam-library.jpg",
+     "zh": "图书馆"
+    },
+    {
+     "id": "fl_place-l1-u1-c7",
+     "type": "word",
+     "en": "Station",
+     "audio": "audio/all/1452_station.mp3",
+     "slow": "audio/all/1452_station.mp3",
+     "image": "img/cam-station.jpg",
+     "zh": "车站"
+    },
+    {
+     "id": "fl_place-l1-u1-c8",
+     "type": "word",
+     "en": "Supermarket",
+     "audio": "audio/all/1458_supermarket.mp3",
+     "slow": "audio/all/1458_supermarket.mp3",
+     "image": "img/ai-supermarket.jpg",
+     "zh": "超市"
+    },
+    {
+     "id": "fl_place-l1-u1-c9",
+     "type": "word",
+     "en": "Market",
+     "audio": "audio/all/1363_market.mp3",
+     "slow": "audio/all/1363_market.mp3",
+     "image": "img/cam-market.jpg",
+     "zh": "市场"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_place-l1-u2",
+   "band": 1,
+   "title": "Buildings · 建筑",
+   "cards": [
+    {
+     "id": "fl_place-l1-u2-c1",
+     "type": "word",
+     "en": "Fire station",
+     "audio": "audio/all/1739_fire-station.mp3",
+     "slow": "audio/all/1739_fire-station.mp3",
+     "image": "img/ai-fire_station.jpg",
+     "zh": "消防站"
+    },
+    {
+     "id": "fl_place-l1-u2-c2",
+     "type": "word",
+     "en": "Police station",
+     "audio": "audio/all/1652_police-station.mp3",
+     "slow": "audio/all/1652_police-station.mp3",
+     "image": "img/cam-police_station.jpg",
+     "zh": "警察局"
+    },
+    {
+     "id": "fl_place-l1-u2-c3",
+     "type": "word",
+     "en": "Hospital",
+     "audio": "audio/all/1332_hospital.mp3",
+     "slow": "audio/all/1332_hospital.mp3",
+     "image": "img/cam-hospital.jpg",
+     "zh": "医院"
+    },
+    {
+     "id": "fl_place-l1-u2-c4",
+     "type": "word",
+     "en": "College",
+     "audio": "audio/all/1672_college.mp3",
+     "slow": "audio/all/1672_college.mp3",
+     "image": "img/ai-college.jpg",
+     "zh": "学院"
+    },
+    {
+     "id": "fl_place-l1-u2-c5",
+     "type": "word",
+     "en": "Gym",
+     "audio": "audio/all/1769_gym.mp3",
+     "slow": "audio/all/1769_gym.mp3",
+     "image": "img/ai-gym.jpg",
+     "zh": "体育馆"
+    },
+    {
+     "id": "fl_place-l1-u2-c6",
+     "type": "word",
+     "en": "Factory",
+     "audio": "audio/all/1728_factory.mp3",
+     "slow": "audio/all/1728_factory.mp3",
+     "image": "img/cam-factory.jpg",
+     "zh": "工厂"
+    },
+    {
+     "id": "fl_place-l1-u2-c7",
+     "type": "word",
+     "en": "Stage",
+     "audio": "audio/all/1733_stage.mp3",
+     "slow": "audio/all/1733_stage.mp3",
+     "image": "img/cam-stage.jpg",
+     "zh": "舞台"
+    },
+    {
+     "id": "fl_place-l1-u2-c8",
+     "type": "word",
+     "en": "Concert",
+     "audio": "audio/all/1675_concert.mp3",
+     "slow": "audio/all/1675_concert.mp3",
+     "image": "img/ai-concert.jpg",
+     "zh": "音乐会"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

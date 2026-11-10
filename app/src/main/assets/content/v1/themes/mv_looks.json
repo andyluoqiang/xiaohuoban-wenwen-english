@@ -1,0 +1,78 @@
+{
+ "theme": "mv_looks",
+ "nameZh": "外貌与身体",
+ "order": 26,
+ "stage": "movers",
+ "units": [
+  {
+   "id": "mv_looks-l1-u1",
+   "band": 1,
+   "title": "My face · 我的脸",
+   "cards": [
+    {
+     "id": "mv_looks-l1-u1-c1",
+     "type": "word",
+     "en": "Beard",
+     "audio": "audio/all/1220_beard.mp3",
+     "slow": "audio/all/1220_beard.mp3",
+     "image": "img/ai-beard.jpg",
+     "zh": "胡子"
+    },
+    {
+     "id": "mv_looks-l1-u1-c2",
+     "type": "word",
+     "en": "Moustache",
+     "audio": "audio/all/1374_moustache.mp3",
+     "slow": "audio/all/1374_moustache.mp3",
+     "image": "img/cam-moustache.jpg",
+     "zh": "小胡子"
+    },
+    {
+     "id": "mv_looks-l1-u1-c3",
+     "type": "word",
+     "en": "Curly",
+     "audio": "audio/all/1271_curly.mp3",
+     "slow": "audio/all/1271_curly.mp3",
+     "image": "img/cam-curly.jpg",
+     "zh": "卷发的"
+    },
+    {
+     "id": "mv_looks-l1-u1-c4",
+     "type": "word",
+     "en": "Thin",
+     "audio": "audio/all/1470_thin.mp3",
+     "slow": "audio/all/1470_thin.mp3",
+     "image": "img/cam-thin.jpg",
+     "zh": "瘦的"
+    },
+    {
+     "id": "mv_looks-l1-u1-c5",
+     "type": "word",
+     "en": "Fat",
+     "audio": "audio/all/1300_fat.mp3",
+     "slow": "audio/all/1300_fat.mp3",
+     "image": "img/cam-fat.jpg",
+     "zh": "胖的"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "mv_looks-l1-u2",
+   "band": 1,
+   "title": "My body · 我的身体",
+   "cards": [
+    {
+     "id": "mv_looks-l1-u2-c1",
+     "type": "word",
+     "en": "Stomach",
+     "audio": "audio/all/1453_stomach.mp3",
+     "slow": "audio/all/1453_stomach.mp3",
+     "image": "img/cam-stomach.jpg",
+     "zh": "肚子"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

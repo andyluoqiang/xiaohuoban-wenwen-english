@@ -1,0 +1,123 @@
+{
+ "theme": "fl_world",
+ "nameZh": "四季与出行",
+ "order": 48,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_world-l1-u1",
+   "band": 1,
+   "title": "Seasons · 四季",
+   "cards": [
+    {
+     "id": "fl_world-l1-u1-c1",
+     "type": "word",
+     "en": "Winter",
+     "audio": "audio/all/1815_winter.mp3",
+     "slow": "audio/all/1815_winter.mp3",
+     "image": "img/cam-winter.jpg",
+     "zh": "冬天"
+    },
+    {
+     "id": "fl_world-l1-u1-c2",
+     "type": "word",
+     "en": "Snowman",
+     "audio": "audio/all/1715_snowman.mp3",
+     "slow": "audio/all/1715_snowman.mp3",
+     "image": "img/cam-snowman.jpg",
+     "zh": "雪人"
+    },
+    {
+     "id": "fl_world-l1-u1-c3",
+     "type": "word",
+     "en": "Snowball",
+     "audio": "audio/all/1712_snowball.mp3",
+     "slow": "audio/all/1712_snowball.mp3",
+     "image": "img/cam-snowball.jpg",
+     "zh": "雪球"
+    },
+    {
+     "id": "fl_world-l1-u1-c4",
+     "type": "word",
+     "en": "Snowboarding",
+     "audio": "audio/all/1714_snowboarding.mp3",
+     "slow": "audio/all/1714_snowboarding.mp3",
+     "image": "img/cam-snowboarding.jpg",
+     "zh": "单板滑雪运动"
+    },
+    {
+     "id": "fl_world-l1-u1-c5",
+     "type": "word",
+     "en": "Ski",
+     "audio": "audio/all/1707_ski.mp3",
+     "slow": "audio/all/1707_ski.mp3",
+     "image": "img/cam-ski.jpg",
+     "zh": "滑雪"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_world-l1-u2",
+   "band": 1,
+   "title": "Transport · 出行",
+   "cards": [
+    {
+     "id": "fl_world-l1-u2-c1",
+     "type": "word",
+     "en": "Fire engine",
+     "audio": "audio/all/1737_fire-engine.mp3",
+     "slow": "audio/all/1737_fire-engine.mp3",
+     "image": "img/ai-fire_engine.jpg",
+     "zh": "消防车"
+    },
+    {
+     "id": "fl_world-l1-u2-c2",
+     "type": "word",
+     "en": "Ambulance",
+     "audio": "audio/all/1616_ambulance.mp3",
+     "slow": "audio/all/1616_ambulance.mp3",
+     "image": "img/ai-ambulance.jpg",
+     "zh": "救护车"
+    },
+    {
+     "id": "fl_world-l1-u2-c3",
+     "type": "word",
+     "en": "Bicycle",
+     "audio": "audio/all/1639_bicycle.mp3",
+     "slow": "audio/all/1639_bicycle.mp3",
+     "image": "img/ai-bicycle.jpg",
+     "zh": "自行车"
+    },
+    {
+     "id": "fl_world-l1-u2-c4",
+     "type": "word",
+     "en": "Helicopter",
+     "audio": "audio/all/600_helicopter.mp3",
+     "slow": "audio/all/600_helicopter.mp3",
+     "image": "img/cam-helicopter.jpg",
+     "zh": "直升机"
+    },
+    {
+     "id": "fl_world-l1-u2-c5",
+     "type": "word",
+     "en": "Bus",
+     "audio": "audio/all/594_bus.mp3",
+     "slow": "audio/all/594_bus.mp3",
+     "image": "img/cam-bus.jpg",
+     "zh": "公共汽车"
+    },
+    {
+     "id": "fl_world-l1-u2-c6",
+     "type": "word",
+     "en": "Train",
+     "audio": "audio/all/596_train.mp3",
+     "slow": "audio/all/596_train.mp3",
+     "image": "img/ai-train.jpg",
+     "zh": "火车"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

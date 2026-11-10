@@ -1,0 +1,177 @@
+{
+ "theme": "fl_food",
+ "nameZh": "厨房与食物",
+ "order": 45,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_food-l1-u1",
+   "band": 1,
+   "title": "Food · 食物",
+   "cards": [
+    {
+     "id": "fl_food-l1-u1-c1",
+     "type": "word",
+     "en": "Honey",
+     "audio": "audio/all/1782_honey.mp3",
+     "slow": "audio/all/1782_honey.mp3",
+     "image": "img/cam-honey.jpg",
+     "zh": "蜂蜜"
+    },
+    {
+     "id": "fl_food-l1-u1-c2",
+     "type": "word",
+     "en": "Jam",
+     "audio": "audio/all/1803_jam.mp3",
+     "slow": "audio/all/1803_jam.mp3",
+     "image": "img/cam-jam.jpg",
+     "zh": "果酱"
+    },
+    {
+     "id": "fl_food-l1-u1-c3",
+     "type": "word",
+     "en": "Butter",
+     "audio": "audio/all/1651_butter.mp3",
+     "slow": "audio/all/1651_butter.mp3",
+     "image": "img/cam-butter.jpg",
+     "zh": "黄油"
+    },
+    {
+     "id": "fl_food-l1-u1-c4",
+     "type": "word",
+     "en": "Biscuit",
+     "audio": "audio/all/1641_biscuit.mp3",
+     "slow": "audio/all/1641_biscuit.mp3",
+     "image": "img/ai-biscuit.jpg",
+     "zh": "饼干"
+    },
+    {
+     "id": "fl_food-l1-u1-c5",
+     "type": "word",
+     "en": "Cereal",
+     "audio": "audio/all/1663_cereal.mp3",
+     "slow": "audio/all/1663_cereal.mp3",
+     "image": "img/ai-cereal.jpg",
+     "zh": "麦片"
+    },
+    {
+     "id": "fl_food-l1-u1-c6",
+     "type": "word",
+     "en": "Pizza",
+     "audio": "audio/all/1645_pizza.mp3",
+     "slow": "audio/all/1645_pizza.mp3",
+     "image": "img/cam-pizza.jpg",
+     "zh": "披萨"
+    },
+    {
+     "id": "fl_food-l1-u1-c7",
+     "type": "word",
+     "en": "Salad",
+     "audio": "audio/all/1425_salad.mp3",
+     "slow": "audio/all/1425_salad.mp3",
+     "image": "img/cam-salad.jpg",
+     "zh": "沙拉"
+    },
+    {
+     "id": "fl_food-l1-u1-c8",
+     "type": "word",
+     "en": "Meal",
+     "audio": "audio/all/1840_meal.mp3",
+     "slow": "audio/all/1840_meal.mp3",
+     "image": "img/cam-meal.jpg",
+     "zh": "一餐"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_food-l1-u2",
+   "band": 1,
+   "title": "Kitchen · 厨房",
+   "cards": [
+    {
+     "id": "fl_food-l1-u2-c1",
+     "type": "word",
+     "en": "Knife",
+     "audio": "audio/all/1817_knife.mp3",
+     "slow": "audio/all/1817_knife.mp3",
+     "image": "img/cam-knife.jpg",
+     "zh": "刀"
+    },
+    {
+     "id": "fl_food-l1-u2-c2",
+     "type": "word",
+     "en": "Fork",
+     "audio": "audio/all/1747_fork.mp3",
+     "slow": "audio/all/1747_fork.mp3",
+     "image": "img/cam-fork.jpg",
+     "zh": "叉子"
+    },
+    {
+     "id": "fl_food-l1-u2-c3",
+     "type": "word",
+     "en": "Spoon",
+     "audio": "audio/all/1728_spoon.mp3",
+     "slow": "audio/all/1728_spoon.mp3",
+     "image": "img/cam-spoon.jpg",
+     "zh": "勺子"
+    },
+    {
+     "id": "fl_food-l1-u2-c4",
+     "type": "word",
+     "en": "Chopsticks",
+     "audio": "audio/all/1669_chopsticks.mp3",
+     "slow": "audio/all/1669_chopsticks.mp3",
+     "image": "img/cam-chopsticks.jpg",
+     "zh": "筷子"
+    },
+    {
+     "id": "fl_food-l1-u2-c5",
+     "type": "word",
+     "en": "Cooker",
+     "audio": "audio/all/1677_cooker.mp3",
+     "slow": "audio/all/1677_cooker.mp3",
+     "image": "img/ai-cooker.jpg",
+     "zh": "炉灶"
+    },
+    {
+     "id": "fl_food-l1-u2-c6",
+     "type": "word",
+     "en": "Fridge",
+     "audio": "audio/all/1749_fridge.mp3",
+     "slow": "audio/all/1749_fridge.mp3",
+     "image": "img/cam-fridge.jpg",
+     "zh": "冰箱"
+    },
+    {
+     "id": "fl_food-l1-u2-c7",
+     "type": "word",
+     "en": "Plate",
+     "audio": "audio/all/1402_plate.mp3",
+     "slow": "audio/all/1402_plate.mp3",
+     "image": "img/cam-plate.jpg",
+     "zh": "盘子"
+    },
+    {
+     "id": "fl_food-l1-u2-c8",
+     "type": "word",
+     "en": "Cup",
+     "audio": "audio/all/1270_cup.mp3",
+     "slow": "audio/all/1270_cup.mp3",
+     "image": "img/cam-cup.jpg",
+     "zh": "杯子"
+    },
+    {
+     "id": "fl_food-l1-u2-c9",
+     "type": "word",
+     "en": "Bottle",
+     "audio": "audio/all/1228_bottle.mp3",
+     "slow": "audio/all/1228_bottle.mp3",
+     "image": "img/cam-bottle.jpg",
+     "zh": "瓶子"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

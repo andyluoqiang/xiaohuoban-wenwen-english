@@ -1,0 +1,159 @@
+{
+ "theme": "fl_animal",
+ "nameZh": "动物与生物",
+ "order": 42,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_animal-l1-u1",
+   "band": 1,
+   "title": "Animals · 动物",
+   "cards": [
+    {
+     "id": "fl_animal-l1-u1-c1",
+     "type": "word",
+     "en": "Eagle",
+     "audio": "audio/all/1704_eagle.mp3",
+     "slow": "audio/all/1704_eagle.mp3",
+     "image": "img/ai-eagle.jpg",
+     "zh": "鹰"
+    },
+    {
+     "id": "fl_animal-l1-u1-c2",
+     "type": "word",
+     "en": "Camel",
+     "audio": "audio/all/1656_camel.mp3",
+     "slow": "audio/all/1656_camel.mp3",
+     "image": "img/ai-camel.jpg",
+     "zh": "骆驼"
+    },
+    {
+     "id": "fl_animal-l1-u1-c3",
+     "type": "word",
+     "en": "Dinosaur",
+     "audio": "audio/all/1698_dinosaur.mp3",
+     "slow": "audio/all/1698_dinosaur.mp3",
+     "image": "img/ai-dinosaur.jpg",
+     "zh": "恐龙"
+    },
+    {
+     "id": "fl_animal-l1-u1-c4",
+     "type": "word",
+     "en": "Swan",
+     "audio": "audio/all/1758_swan.mp3",
+     "slow": "audio/all/1758_swan.mp3",
+     "image": "img/cam-swan.jpg",
+     "zh": "天鹅"
+    },
+    {
+     "id": "fl_animal-l1-u1-c5",
+     "type": "word",
+     "en": "Octopus",
+     "audio": "audio/all/1625_octopus.mp3",
+     "slow": "audio/all/1625_octopus.mp3",
+     "image": "img/cam-octopus.jpg",
+     "zh": "章鱼"
+    },
+    {
+     "id": "fl_animal-l1-u1-c6",
+     "type": "word",
+     "en": "Monster",
+     "audio": "audio/all/591_monster.mp3",
+     "slow": "audio/all/591_monster.mp3",
+     "image": "img/ai-monster.jpg",
+     "zh": "怪兽"
+    },
+    {
+     "id": "fl_animal-l1-u1-c7",
+     "type": "word",
+     "en": "Alien",
+     "audio": "audio/all/592_alien.mp3",
+     "slow": "audio/all/592_alien.mp3",
+     "image": "img/cam-alien.jpg",
+     "zh": "外星人"
+    },
+    {
+     "id": "fl_animal-l1-u1-c8",
+     "type": "word",
+     "en": "Robot",
+     "audio": "audio/all/590_robot.mp3",
+     "slow": "audio/all/590_robot.mp3",
+     "image": "img/cam-robot.jpg",
+     "zh": "机器人"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_animal-l1-u2",
+   "band": 1,
+   "title": "Small life · 小生物",
+   "cards": [
+    {
+     "id": "fl_animal-l1-u2-c1",
+     "type": "word",
+     "en": "Beetle",
+     "audio": "audio/all/1634_beetle.mp3",
+     "slow": "audio/all/1634_beetle.mp3",
+     "image": "img/ai-beetle.jpg",
+     "zh": "甲虫"
+    },
+    {
+     "id": "fl_animal-l1-u2-c2",
+     "type": "word",
+     "en": "Butterfly",
+     "audio": "audio/all/1652_butterfly.mp3",
+     "slow": "audio/all/1652_butterfly.mp3",
+     "image": "img/cam-butterfly.jpg",
+     "zh": "蝴蝶"
+    },
+    {
+     "id": "fl_animal-l1-u2-c3",
+     "type": "word",
+     "en": "Insect",
+     "audio": "audio/all/1796_insect.mp3",
+     "slow": "audio/all/1796_insect.mp3",
+     "image": "img/cam-insect.jpg",
+     "zh": "昆虫"
+    },
+    {
+     "id": "fl_animal-l1-u2-c4",
+     "type": "word",
+     "en": "Creature",
+     "audio": "audio/all/1680_creature.mp3",
+     "slow": "audio/all/1680_creature.mp3",
+     "image": "img/ai-creature.jpg",
+     "zh": "生物"
+    },
+    {
+     "id": "fl_animal-l1-u2-c5",
+     "type": "word",
+     "en": "Nest",
+     "audio": "audio/all/1613_nest.mp3",
+     "slow": "audio/all/1613_nest.mp3",
+     "image": "img/cam-nest.jpg",
+     "zh": "巢"
+    },
+    {
+     "id": "fl_animal-l1-u2-c6",
+     "type": "word",
+     "en": "Wing",
+     "audio": "audio/all/1813_wing.mp3",
+     "slow": "audio/all/1813_wing.mp3",
+     "image": "img/cam-wing.jpg",
+     "zh": "翅膀"
+    },
+    {
+     "id": "fl_animal-l1-u2-c7",
+     "type": "word",
+     "en": "Fur",
+     "audio": "audio/all/1754_fur.mp3",
+     "slow": "audio/all/1754_fur.mp3",
+     "image": "img/ai-fur.jpg",
+     "zh": "毛皮"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

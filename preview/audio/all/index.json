@@ -6446,5 +6446,6317 @@
   "type": "vocab",
   "unit": "vocab",
   "file": "1135_yours.mp3"
+ },
+ {
+  "i": 1200,
+  "en": "a balcony",
+  "zh": "阳台",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1200_a-balcony.mp3"
+ },
+ {
+  "i": 1201,
+  "en": "above",
+  "zh": "在上面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1201_above.mp3"
+ },
+ {
+  "i": 1202,
+  "en": "address",
+  "zh": "地址",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1202_address.mp3"
+ },
+ {
+  "i": 1203,
+  "en": "afraid",
+  "zh": "害怕的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1203_afraid.mp3"
+ },
+ {
+  "i": 1204,
+  "en": "after",
+  "zh": "之后",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1204_after.mp3"
+ },
+ {
+  "i": 1205,
+  "en": "age",
+  "zh": "年龄",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1205_age.mp3"
+ },
+ {
+  "i": 1206,
+  "en": "all right",
+  "zh": "没关系",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1206_all-right.mp3"
+ },
+ {
+  "i": 1207,
+  "en": "along",
+  "zh": "沿着",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1207_along.mp3"
+ },
+ {
+  "i": 1208,
+  "en": "always",
+  "zh": "总是",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1208_always.mp3"
+ },
+ {
+  "i": 1209,
+  "en": "another",
+  "zh": "另一个",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1209_another.mp3"
+ },
+ {
+  "i": 1210,
+  "en": "any",
+  "zh": "任何",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1210_any.mp3"
+ },
+ {
+  "i": 1211,
+  "en": "app",
+  "zh": "应用程序",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1211_app.mp3"
+ },
+ {
+  "i": 1212,
+  "en": "asleep",
+  "zh": "睡着",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1212_asleep.mp3"
+ },
+ {
+  "i": 1213,
+  "en": "aunt",
+  "zh": "姑姑、阿姨",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1213_aunt.mp3"
+ },
+ {
+  "i": 1214,
+  "en": "awake",
+  "zh": "醒着",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1214_awake.mp3"
+ },
+ {
+  "i": 1215,
+  "en": "bad",
+  "zh": "坏的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1215_bad.mp3"
+ },
+ {
+  "i": 1216,
+  "en": "badly",
+  "zh": "糟糕地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1216_badly.mp3"
+ },
+ {
+  "i": 1217,
+  "en": "band",
+  "zh": "乐队",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1217_band.mp3"
+ },
+ {
+  "i": 1218,
+  "en": "basement",
+  "zh": "地下室",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1218_basement.mp3"
+ },
+ {
+  "i": 1219,
+  "en": "be called",
+  "zh": "被称为",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1219_be-called.mp3"
+ },
+ {
+  "i": 1220,
+  "en": "beard",
+  "zh": "胡子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1220_beard.mp3"
+ },
+ {
+  "i": 1221,
+  "en": "because",
+  "zh": "因为",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1221_because.mp3"
+ },
+ {
+  "i": 1222,
+  "en": "below",
+  "zh": "在下面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1222_below.mp3"
+ },
+ {
+  "i": 1223,
+  "en": "better",
+  "zh": "更好",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1223_better.mp3"
+ },
+ {
+  "i": 1224,
+  "en": "blanket",
+  "zh": "毯子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1224_blanket.mp3"
+ },
+ {
+  "i": 1225,
+  "en": "blond",
+  "zh": "金发的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1225_blond.mp3"
+ },
+ {
+  "i": 1226,
+  "en": "boring",
+  "zh": "无聊的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1226_boring.mp3"
+ },
+ {
+  "i": 1227,
+  "en": "both",
+  "zh": "两者都",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1227_both.mp3"
+ },
+ {
+  "i": 1228,
+  "en": "bottle",
+  "zh": "瓶子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1228_bottle.mp3"
+ },
+ {
+  "i": 1229,
+  "en": "bottom",
+  "zh": "底部",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1229_bottom.mp3"
+ },
+ {
+  "i": 1230,
+  "en": "brave",
+  "zh": "勇敢的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1230_brave.mp3"
+ },
+ {
+  "i": 1231,
+  "en": "break",
+  "zh": "打破",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1231_break.mp3"
+ },
+ {
+  "i": 1232,
+  "en": "brilliant",
+  "zh": "极好的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1232_brilliant.mp3"
+ },
+ {
+  "i": 1233,
+  "en": "bring",
+  "zh": "带来",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1233_bring.mp3"
+ },
+ {
+  "i": 1234,
+  "en": "build",
+  "zh": "建造",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1234_build.mp3"
+ },
+ {
+  "i": 1235,
+  "en": "building",
+  "zh": "建筑物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1235_building.mp3"
+ },
+ {
+  "i": 1236,
+  "en": "bus station",
+  "zh": "汽车站",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1236_bus-station.mp3"
+ },
+ {
+  "i": 1237,
+  "en": "bus stop",
+  "zh": "公交站",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1237_bus-stop.mp3"
+ },
+ {
+  "i": 1238,
+  "en": "busy",
+  "zh": "忙碌的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1238_busy.mp3"
+ },
+ {
+  "i": 1239,
+  "en": "buy",
+  "zh": "买",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1239_buy.mp3"
+ },
+ {
+  "i": 1240,
+  "en": "by",
+  "zh": "通过、在旁",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1240_by.mp3"
+ },
+ {
+  "i": 1241,
+  "en": "café",
+  "zh": "咖啡馆",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1241_caf.mp3"
+ },
+ {
+  "i": 1242,
+  "en": "call",
+  "zh": "打电话",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1242_call.mp3"
+ },
+ {
+  "i": 1243,
+  "en": "car park",
+  "zh": "停车场",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1243_car-park.mp3"
+ },
+ {
+  "i": 1244,
+  "en": "carefully",
+  "zh": "小心地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1244_carefully.mp3"
+ },
+ {
+  "i": 1245,
+  "en": "carry",
+  "zh": "搬运",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1245_carry.mp3"
+ },
+ {
+  "i": 1246,
+  "en": "cd",
+  "zh": "光盘",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1246_cd.mp3"
+ },
+ {
+  "i": 1247,
+  "en": "centre",
+  "zh": "中心",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1247_centre.mp3"
+ },
+ {
+  "i": 1248,
+  "en": "change",
+  "zh": "改变",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1248_change.mp3"
+ },
+ {
+  "i": 1249,
+  "en": "cheese",
+  "zh": "奶酪",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1249_cheese.mp3"
+ },
+ {
+  "i": 1250,
+  "en": "cinema",
+  "zh": "电影院",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1250_cinema.mp3"
+ },
+ {
+  "i": 1251,
+  "en": "circle",
+  "zh": "圆形",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1251_circle.mp3"
+ },
+ {
+  "i": 1252,
+  "en": "circus",
+  "zh": "马戏团",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1252_circus.mp3"
+ },
+ {
+  "i": 1253,
+  "en": "city",
+  "zh": "城市",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1253_city.mp3"
+ },
+ {
+  "i": 1254,
+  "en": "clever",
+  "zh": "聪明的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1254_clever.mp3"
+ },
+ {
+  "i": 1255,
+  "en": "cloud",
+  "zh": "云",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1255_cloud.mp3"
+ },
+ {
+  "i": 1256,
+  "en": "cloudy",
+  "zh": "多云的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1256_cloudy.mp3"
+ },
+ {
+  "i": 1257,
+  "en": "clown",
+  "zh": "小丑",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1257_clown.mp3"
+ },
+ {
+  "i": 1258,
+  "en": "coat",
+  "zh": "外套",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1258_coat.mp3"
+ },
+ {
+  "i": 1259,
+  "en": "coffee",
+  "zh": "咖啡",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1259_coffee.mp3"
+ },
+ {
+  "i": 1260,
+  "en": "cold",
+  "zh": "冷的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1260_cold.mp3"
+ },
+ {
+  "i": 1261,
+  "en": "come on",
+  "zh": "加油",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1261_come-on.mp3"
+ },
+ {
+  "i": 1262,
+  "en": "comic",
+  "zh": "漫画",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1262_comic.mp3"
+ },
+ {
+  "i": 1263,
+  "en": "comic book",
+  "zh": "漫画书",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1263_comic-book.mp3"
+ },
+ {
+  "i": 1264,
+  "en": "cook",
+  "zh": "厨师",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1264_cook.mp3"
+ },
+ {
+  "i": 1265,
+  "en": "cough",
+  "zh": "咳嗽",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1265_cough.mp3"
+ },
+ {
+  "i": 1266,
+  "en": "could",
+  "zh": "能够",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1266_could.mp3"
+ },
+ {
+  "i": 1267,
+  "en": "country",
+  "zh": "国家",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1267_country.mp3"
+ },
+ {
+  "i": 1268,
+  "en": "countryside",
+  "zh": "乡村",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1268_countryside.mp3"
+ },
+ {
+  "i": 1269,
+  "en": "cry",
+  "zh": "哭",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1269_cry.mp3"
+ },
+ {
+  "i": 1270,
+  "en": "cup",
+  "zh": "杯子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1270_cup.mp3"
+ },
+ {
+  "i": 1271,
+  "en": "curly",
+  "zh": "卷发的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1271_curly.mp3"
+ },
+ {
+  "i": 1272,
+  "en": "dangerous",
+  "zh": "危险的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1272_dangerous.mp3"
+ },
+ {
+  "i": 1273,
+  "en": "daughter",
+  "zh": "女儿",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1273_daughter.mp3"
+ },
+ {
+  "i": 1274,
+  "en": "dentist",
+  "zh": "牙医",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1274_dentist.mp3"
+ },
+ {
+  "i": 1275,
+  "en": "difference",
+  "zh": "不同",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1275_difference.mp3"
+ },
+ {
+  "i": 1276,
+  "en": "different",
+  "zh": "不同的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1276_different.mp3"
+ },
+ {
+  "i": 1277,
+  "en": "difficult",
+  "zh": "困难的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1277_difficult.mp3"
+ },
+ {
+  "i": 1278,
+  "en": "down",
+  "zh": "向下",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1278_down.mp3"
+ },
+ {
+  "i": 1279,
+  "en": "downstairs",
+  "zh": "楼下",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1279_downstairs.mp3"
+ },
+ {
+  "i": 1280,
+  "en": "dream",
+  "zh": "梦想",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1280_dream.mp3"
+ },
+ {
+  "i": 1281,
+  "en": "dress up",
+  "zh": "装扮",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1281_dress-up.mp3"
+ },
+ {
+  "i": 1282,
+  "en": "driver",
+  "zh": "司机",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1282_driver.mp3"
+ },
+ {
+  "i": 1283,
+  "en": "drop",
+  "zh": "掉落",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1283_drop.mp3"
+ },
+ {
+  "i": 1284,
+  "en": "dry",
+  "zh": "干的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1284_dry.mp3"
+ },
+ {
+  "i": 1285,
+  "en": "dvd",
+  "zh": "DVD",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1285_dvd.mp3"
+ },
+ {
+  "i": 1286,
+  "en": "e-book",
+  "zh": "电子书",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1286_e-book.mp3"
+ },
+ {
+  "i": 1287,
+  "en": "earache",
+  "zh": "耳朵疼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1287_earache.mp3"
+ },
+ {
+  "i": 1288,
+  "en": "easy",
+  "zh": "容易的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1288_easy.mp3"
+ },
+ {
+  "i": 1289,
+  "en": "elevator",
+  "zh": "电梯",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1289_elevator.mp3"
+ },
+ {
+  "i": 1290,
+  "en": "email",
+  "zh": "电子邮件",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1290_email.mp3"
+ },
+ {
+  "i": 1291,
+  "en": "everyone",
+  "zh": "每个人",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1291_everyone.mp3"
+ },
+ {
+  "i": 1292,
+  "en": "everything",
+  "zh": "每件事",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1292_everything.mp3"
+ },
+ {
+  "i": 1293,
+  "en": "exciting",
+  "zh": "令人兴奋的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1293_exciting.mp3"
+ },
+ {
+  "i": 1294,
+  "en": "excuse me",
+  "zh": "打扰一下",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1294_excuse-me.mp3"
+ },
+ {
+  "i": 1295,
+  "en": "fair",
+  "zh": "公平的、浅色的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1295_fair.mp3"
+ },
+ {
+  "i": 1296,
+  "en": "fall",
+  "zh": "落下",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1296_fall.mp3"
+ },
+ {
+  "i": 1297,
+  "en": "famous",
+  "zh": "著名的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1297_famous.mp3"
+ },
+ {
+  "i": 1298,
+  "en": "farm",
+  "zh": "农场",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1298_farm.mp3"
+ },
+ {
+  "i": 1299,
+  "en": "farmer",
+  "zh": "农民",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1299_farmer.mp3"
+ },
+ {
+  "i": 1300,
+  "en": "fat",
+  "zh": "胖的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1300_fat.mp3"
+ },
+ {
+  "i": 1301,
+  "en": "field",
+  "zh": "田野",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1301_field.mp3"
+ },
+ {
+  "i": 1302,
+  "en": "film",
+  "zh": "电影",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1302_film.mp3"
+ },
+ {
+  "i": 1303,
+  "en": "film star",
+  "zh": "电影明星",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1303_film-star.mp3"
+ },
+ {
+  "i": 1304,
+  "en": "fine",
+  "zh": "好的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1304_fine.mp3"
+ },
+ {
+  "i": 1305,
+  "en": "first",
+  "zh": "第一",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1305_first.mp3"
+ },
+ {
+  "i": 1306,
+  "en": "fix",
+  "zh": "修理",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1306_fix.mp3"
+ },
+ {
+  "i": 1307,
+  "en": "forest",
+  "zh": "森林",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1307_forest.mp3"
+ },
+ {
+  "i": 1308,
+  "en": "friday",
+  "zh": "星期五",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1308_friday.mp3"
+ },
+ {
+  "i": 1309,
+  "en": "frightened",
+  "zh": "受惊的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1309_frightened.mp3"
+ },
+ {
+  "i": 1310,
+  "en": "funfair",
+  "zh": "游乐场",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1310_funfair.mp3"
+ },
+ {
+  "i": 1311,
+  "en": "get dressed",
+  "zh": "穿衣服",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1311_get-dressed.mp3"
+ },
+ {
+  "i": 1312,
+  "en": "get off",
+  "zh": "下车",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1312_get-off.mp3"
+ },
+ {
+  "i": 1313,
+  "en": "get on",
+  "zh": "上车",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1313_get-on.mp3"
+ },
+ {
+  "i": 1314,
+  "en": "get undressed",
+  "zh": "脱衣服",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1314_get-undressed.mp3"
+ },
+ {
+  "i": 1315,
+  "en": "get up",
+  "zh": "起床",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1315_get-up.mp3"
+ },
+ {
+  "i": 1316,
+  "en": "glass",
+  "zh": "玻璃杯",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1316_glass.mp3"
+ },
+ {
+  "i": 1317,
+  "en": "go shopping",
+  "zh": "去购物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1317_go-shopping.mp3"
+ },
+ {
+  "i": 1318,
+  "en": "goal",
+  "zh": "球门、进球",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1318_goal.mp3"
+ },
+ {
+  "i": 1319,
+  "en": "granddaughter",
+  "zh": "孙女",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1319_granddaughter.mp3"
+ },
+ {
+  "i": 1320,
+  "en": "grandparent",
+  "zh": "祖父母",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1320_grandparent.mp3"
+ },
+ {
+  "i": 1321,
+  "en": "grandson",
+  "zh": "孙子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1321_grandson.mp3"
+ },
+ {
+  "i": 1322,
+  "en": "grass",
+  "zh": "草地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1322_grass.mp3"
+ },
+ {
+  "i": 1323,
+  "en": "ground",
+  "zh": "地面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1323_ground.mp3"
+ },
+ {
+  "i": 1324,
+  "en": "grow",
+  "zh": "生长",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1324_grow.mp3"
+ },
+ {
+  "i": 1325,
+  "en": "grown-up",
+  "zh": "大人",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1325_grown-up.mp3"
+ },
+ {
+  "i": 1326,
+  "en": "have to",
+  "zh": "必须",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1326_have-to.mp3"
+ },
+ {
+  "i": 1327,
+  "en": "headache",
+  "zh": "头疼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1327_headache.mp3"
+ },
+ {
+  "i": 1328,
+  "en": "helmet",
+  "zh": "头盔",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1328_helmet.mp3"
+ },
+ {
+  "i": 1329,
+  "en": "hide",
+  "zh": "躲藏",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1329_hide.mp3"
+ },
+ {
+  "i": 1330,
+  "en": "holiday",
+  "zh": "假期",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1330_holiday.mp3"
+ },
+ {
+  "i": 1331,
+  "en": "homework",
+  "zh": "作业",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1331_homework.mp3"
+ },
+ {
+  "i": 1332,
+  "en": "hospital",
+  "zh": "医院",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1332_hospital.mp3"
+ },
+ {
+  "i": 1333,
+  "en": "hot",
+  "zh": "热的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1333_hot.mp3"
+ },
+ {
+  "i": 1334,
+  "en": "how much",
+  "zh": "多少钱",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1334_how-much.mp3"
+ },
+ {
+  "i": 1335,
+  "en": "how often",
+  "zh": "多久一次",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1335_how-often.mp3"
+ },
+ {
+  "i": 1336,
+  "en": "huge",
+  "zh": "巨大的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1336_huge.mp3"
+ },
+ {
+  "i": 1337,
+  "en": "hundred",
+  "zh": "一百",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1337_hundred.mp3"
+ },
+ {
+  "i": 1338,
+  "en": "hurt",
+  "zh": "受伤、疼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1338_hurt.mp3"
+ },
+ {
+  "i": 1339,
+  "en": "ice skates",
+  "zh": "滑冰鞋",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1339_ice-skates.mp3"
+ },
+ {
+  "i": 1340,
+  "en": "ice skating",
+  "zh": "滑冰",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1340_ice-skating.mp3"
+ },
+ {
+  "i": 1341,
+  "en": "idea",
+  "zh": "主意",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1341_idea.mp3"
+ },
+ {
+  "i": 1342,
+  "en": "ill",
+  "zh": "生病的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1342_ill.mp3"
+ },
+ {
+  "i": 1343,
+  "en": "inside",
+  "zh": "在里面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1343_inside.mp3"
+ },
+ {
+  "i": 1344,
+  "en": "internet",
+  "zh": "互联网",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1344_internet.mp3"
+ },
+ {
+  "i": 1345,
+  "en": "into",
+  "zh": "进入",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1345_into.mp3"
+ },
+ {
+  "i": 1346,
+  "en": "invite",
+  "zh": "邀请",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1346_invite.mp3"
+ },
+ {
+  "i": 1347,
+  "en": "island",
+  "zh": "岛",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1347_island.mp3"
+ },
+ {
+  "i": 1348,
+  "en": "jungle",
+  "zh": "丛林",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1348_jungle.mp3"
+ },
+ {
+  "i": 1349,
+  "en": "kind",
+  "zh": "友善的、种类",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1349_kind.mp3"
+ },
+ {
+  "i": 1350,
+  "en": "lake",
+  "zh": "湖",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1350_lake.mp3"
+ },
+ {
+  "i": 1351,
+  "en": "laptop",
+  "zh": "笔记本电脑",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1351_laptop.mp3"
+ },
+ {
+  "i": 1352,
+  "en": "last",
+  "zh": "最后的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1352_last.mp3"
+ },
+ {
+  "i": 1353,
+  "en": "laugh",
+  "zh": "笑",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1353_laugh.mp3"
+ },
+ {
+  "i": 1354,
+  "en": "leaf",
+  "zh": "树叶",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1354_leaf.mp3"
+ },
+ {
+  "i": 1355,
+  "en": "library",
+  "zh": "图书馆",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1355_library.mp3"
+ },
+ {
+  "i": 1356,
+  "en": "lift",
+  "zh": "电梯",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1356_lift.mp3"
+ },
+ {
+  "i": 1357,
+  "en": "look for",
+  "zh": "寻找",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1357_look-for.mp3"
+ },
+ {
+  "i": 1358,
+  "en": "lose",
+  "zh": "丢失",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1358_lose.mp3"
+ },
+ {
+  "i": 1359,
+  "en": "loud",
+  "zh": "大声的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1359_loud.mp3"
+ },
+ {
+  "i": 1360,
+  "en": "loudly",
+  "zh": "大声地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1360_loudly.mp3"
+ },
+ {
+  "i": 1361,
+  "en": "machine",
+  "zh": "机器",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1361_machine.mp3"
+ },
+ {
+  "i": 1362,
+  "en": "map",
+  "zh": "地图",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1362_map.mp3"
+ },
+ {
+  "i": 1363,
+  "en": "market",
+  "zh": "市场",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1363_market.mp3"
+ },
+ {
+  "i": 1364,
+  "en": "matter",
+  "zh": "要紧",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1364_matter.mp3"
+ },
+ {
+  "i": 1365,
+  "en": "mean",
+  "zh": "意思是",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1365_mean.mp3"
+ },
+ {
+  "i": 1366,
+  "en": "message",
+  "zh": "消息",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1366_message.mp3"
+ },
+ {
+  "i": 1367,
+  "en": "milkshake",
+  "zh": "奶昔",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1367_milkshake.mp3"
+ },
+ {
+  "i": 1368,
+  "en": "mistake",
+  "zh": "错误",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1368_mistake.mp3"
+ },
+ {
+  "i": 1369,
+  "en": "model",
+  "zh": "模型",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1369_model.mp3"
+ },
+ {
+  "i": 1370,
+  "en": "monday",
+  "zh": "星期一",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1370_monday.mp3"
+ },
+ {
+  "i": 1371,
+  "en": "moon",
+  "zh": "月亮",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1371_moon.mp3"
+ },
+ {
+  "i": 1372,
+  "en": "most",
+  "zh": "最多",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1372_most.mp3"
+ },
+ {
+  "i": 1373,
+  "en": "mountain",
+  "zh": "山",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1373_mountain.mp3"
+ },
+ {
+  "i": 1374,
+  "en": "moustache",
+  "zh": "小胡子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1374_moustache.mp3"
+ },
+ {
+  "i": 1375,
+  "en": "move",
+  "zh": "移动",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1375_move.mp3"
+ },
+ {
+  "i": 1376,
+  "en": "movie",
+  "zh": "电影",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1376_movie.mp3"
+ },
+ {
+  "i": 1377,
+  "en": "must",
+  "zh": "必须",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1377_must.mp3"
+ },
+ {
+  "i": 1378,
+  "en": "naughty",
+  "zh": "淘气的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1378_naughty.mp3"
+ },
+ {
+  "i": 1379,
+  "en": "near",
+  "zh": "在附近",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1379_near.mp3"
+ },
+ {
+  "i": 1380,
+  "en": "need",
+  "zh": "需要",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1380_need.mp3"
+ },
+ {
+  "i": 1381,
+  "en": "net",
+  "zh": "网",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1381_net.mp3"
+ },
+ {
+  "i": 1382,
+  "en": "never",
+  "zh": "从不",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1382_never.mp3"
+ },
+ {
+  "i": 1383,
+  "en": "noise",
+  "zh": "噪音",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1383_noise.mp3"
+ },
+ {
+  "i": 1384,
+  "en": "nothing",
+  "zh": "没有什么",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1384_nothing.mp3"
+ },
+ {
+  "i": 1385,
+  "en": "nurse",
+  "zh": "护士",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1385_nurse.mp3"
+ },
+ {
+  "i": 1386,
+  "en": "o'clock",
+  "zh": "点钟",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1386_o-clock.mp3"
+ },
+ {
+  "i": 1387,
+  "en": "off",
+  "zh": "关掉",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1387_off.mp3"
+ },
+ {
+  "i": 1388,
+  "en": "often",
+  "zh": "经常",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1388_often.mp3"
+ },
+ {
+  "i": 1389,
+  "en": "only",
+  "zh": "只有",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1389_only.mp3"
+ },
+ {
+  "i": 1390,
+  "en": "opposite",
+  "zh": "在对面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1390_opposite.mp3"
+ },
+ {
+  "i": 1391,
+  "en": "out",
+  "zh": "出去",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1391_out.mp3"
+ },
+ {
+  "i": 1392,
+  "en": "out of",
+  "zh": "从……出来",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1392_out-of.mp3"
+ },
+ {
+  "i": 1393,
+  "en": "pair",
+  "zh": "一双",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1393_pair.mp3"
+ },
+ {
+  "i": 1394,
+  "en": "pancake",
+  "zh": "薄煎饼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1394_pancake.mp3"
+ },
+ {
+  "i": 1395,
+  "en": "parent",
+  "zh": "父母",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1395_parent.mp3"
+ },
+ {
+  "i": 1396,
+  "en": "party",
+  "zh": "聚会",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1396_party.mp3"
+ },
+ {
+  "i": 1397,
+  "en": "pasta",
+  "zh": "意面",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1397_pasta.mp3"
+ },
+ {
+  "i": 1398,
+  "en": "picnic",
+  "zh": "野餐",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1398_picnic.mp3"
+ },
+ {
+  "i": 1399,
+  "en": "pirate",
+  "zh": "海盗",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1399_pirate.mp3"
+ },
+ {
+  "i": 1400,
+  "en": "place",
+  "zh": "地方",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1400_place.mp3"
+ },
+ {
+  "i": 1401,
+  "en": "plant",
+  "zh": "植物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1401_plant.mp3"
+ },
+ {
+  "i": 1402,
+  "en": "plate",
+  "zh": "盘子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1402_plate.mp3"
+ },
+ {
+  "i": 1403,
+  "en": "player",
+  "zh": "运动员",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1403_player.mp3"
+ },
+ {
+  "i": 1404,
+  "en": "pop star",
+  "zh": "流行歌星",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1404_pop-star.mp3"
+ },
+ {
+  "i": 1405,
+  "en": "practice",
+  "zh": "练习（名词）",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1405_practice.mp3"
+ },
+ {
+  "i": 1406,
+  "en": "practise",
+  "zh": "练习",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1406_practise.mp3"
+ },
+ {
+  "i": 1407,
+  "en": "present",
+  "zh": "礼物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1407_present.mp3"
+ },
+ {
+  "i": 1408,
+  "en": "pretty",
+  "zh": "漂亮的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1408_pretty.mp3"
+ },
+ {
+  "i": 1409,
+  "en": "put on",
+  "zh": "穿上",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1409_put-on.mp3"
+ },
+ {
+  "i": 1410,
+  "en": "quick",
+  "zh": "快的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1410_quick.mp3"
+ },
+ {
+  "i": 1411,
+  "en": "quickly",
+  "zh": "快速地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1411_quickly.mp3"
+ },
+ {
+  "i": 1412,
+  "en": "quiet",
+  "zh": "安静的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1412_quiet.mp3"
+ },
+ {
+  "i": 1413,
+  "en": "quietly",
+  "zh": "安静地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1413_quietly.mp3"
+ },
+ {
+  "i": 1414,
+  "en": "rain",
+  "zh": "雨",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1414_rain.mp3"
+ },
+ {
+  "i": 1415,
+  "en": "rainbow",
+  "zh": "彩虹",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1415_rainbow.mp3"
+ },
+ {
+  "i": 1416,
+  "en": "river",
+  "zh": "河流",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1416_river.mp3"
+ },
+ {
+  "i": 1417,
+  "en": "road",
+  "zh": "道路",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1417_road.mp3"
+ },
+ {
+  "i": 1418,
+  "en": "rock",
+  "zh": "岩石",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1418_rock.mp3"
+ },
+ {
+  "i": 1419,
+  "en": "roller skates",
+  "zh": "旱冰鞋",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1419_roller-skates.mp3"
+ },
+ {
+  "i": 1420,
+  "en": "roller skating",
+  "zh": "滑旱冰",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1420_roller-skating.mp3"
+ },
+ {
+  "i": 1421,
+  "en": "roof",
+  "zh": "屋顶",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1421_roof.mp3"
+ },
+ {
+  "i": 1422,
+  "en": "round",
+  "zh": "圆的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1422_round.mp3"
+ },
+ {
+  "i": 1423,
+  "en": "safe",
+  "zh": "安全的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1423_safe.mp3"
+ },
+ {
+  "i": 1424,
+  "en": "sail",
+  "zh": "航行",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1424_sail.mp3"
+ },
+ {
+  "i": 1425,
+  "en": "salad",
+  "zh": "沙拉",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1425_salad.mp3"
+ },
+ {
+  "i": 1426,
+  "en": "sandwich",
+  "zh": "三明治",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1426_sandwich.mp3"
+ },
+ {
+  "i": 1427,
+  "en": "saturday",
+  "zh": "星期六",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1427_saturday.mp3"
+ },
+ {
+  "i": 1428,
+  "en": "sauce",
+  "zh": "酱汁",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1428_sauce.mp3"
+ },
+ {
+  "i": 1429,
+  "en": "scarf",
+  "zh": "围巾",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1429_scarf.mp3"
+ },
+ {
+  "i": 1430,
+  "en": "score",
+  "zh": "得分",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1430_score.mp3"
+ },
+ {
+  "i": 1431,
+  "en": "seat",
+  "zh": "座位",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1431_seat.mp3"
+ },
+ {
+  "i": 1432,
+  "en": "second",
+  "zh": "第二",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1432_second.mp3"
+ },
+ {
+  "i": 1433,
+  "en": "send",
+  "zh": "发送",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1433_send.mp3"
+ },
+ {
+  "i": 1434,
+  "en": "shall",
+  "zh": "将要",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1434_shall.mp3"
+ },
+ {
+  "i": 1435,
+  "en": "shape",
+  "zh": "形状",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1435_shape.mp3"
+ },
+ {
+  "i": 1436,
+  "en": "shopping",
+  "zh": "购物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1436_shopping.mp3"
+ },
+ {
+  "i": 1437,
+  "en": "shopping centre",
+  "zh": "购物中心",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1437_shopping-centre.mp3"
+ },
+ {
+  "i": 1438,
+  "en": "shout",
+  "zh": "喊叫",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1438_shout.mp3"
+ },
+ {
+  "i": 1439,
+  "en": "shower",
+  "zh": "淋浴",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1439_shower.mp3"
+ },
+ {
+  "i": 1440,
+  "en": "sick",
+  "zh": "生病的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1440_sick.mp3"
+ },
+ {
+  "i": 1441,
+  "en": "skate",
+  "zh": "滑冰",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1441_skate.mp3"
+ },
+ {
+  "i": 1442,
+  "en": "slow",
+  "zh": "慢的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1442_slow.mp3"
+ },
+ {
+  "i": 1443,
+  "en": "snow",
+  "zh": "雪",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1443_snow.mp3"
+ },
+ {
+  "i": 1444,
+  "en": "someone",
+  "zh": "某人",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1444_someone.mp3"
+ },
+ {
+  "i": 1445,
+  "en": "something",
+  "zh": "某物",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1445_something.mp3"
+ },
+ {
+  "i": 1446,
+  "en": "sometimes",
+  "zh": "有时",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1446_sometimes.mp3"
+ },
+ {
+  "i": 1447,
+  "en": "son",
+  "zh": "儿子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1447_son.mp3"
+ },
+ {
+  "i": 1448,
+  "en": "sports centre",
+  "zh": "体育中心",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1448_sports-centre.mp3"
+ },
+ {
+  "i": 1449,
+  "en": "square",
+  "zh": "广场",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1449_square.mp3"
+ },
+ {
+  "i": 1450,
+  "en": "stair",
+  "zh": "楼梯",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1450_stair.mp3"
+ },
+ {
+  "i": 1451,
+  "en": "star",
+  "zh": "星星",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1451_star.mp3"
+ },
+ {
+  "i": 1452,
+  "en": "station",
+  "zh": "车站",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1452_station.mp3"
+ },
+ {
+  "i": 1453,
+  "en": "stomach",
+  "zh": "肚子",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1453_stomach.mp3"
+ },
+ {
+  "i": 1454,
+  "en": "stomach-ache",
+  "zh": "肚子疼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1454_stomach-ache.mp3"
+ },
+ {
+  "i": 1455,
+  "en": "straight",
+  "zh": "直的、一直",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1455_straight.mp3"
+ },
+ {
+  "i": 1456,
+  "en": "sunday",
+  "zh": "星期日",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1456_sunday.mp3"
+ },
+ {
+  "i": 1457,
+  "en": "sunny",
+  "zh": "晴朗的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1457_sunny.mp3"
+ },
+ {
+  "i": 1458,
+  "en": "supermarket",
+  "zh": "超市",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1458_supermarket.mp3"
+ },
+ {
+  "i": 1459,
+  "en": "surprised",
+  "zh": "惊讶的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1459_surprised.mp3"
+ },
+ {
+  "i": 1460,
+  "en": "sweater",
+  "zh": "毛衣",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1460_sweater.mp3"
+ },
+ {
+  "i": 1461,
+  "en": "swimming pool",
+  "zh": "游泳池",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1461_swimming-pool.mp3"
+ },
+ {
+  "i": 1462,
+  "en": "swimsuit",
+  "zh": "泳衣",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1462_swimsuit.mp3"
+ },
+ {
+  "i": 1463,
+  "en": "take off",
+  "zh": "脱下",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1463_take-off.mp3"
+ },
+ {
+  "i": 1464,
+  "en": "tea",
+  "zh": "茶",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1464_tea.mp3"
+ },
+ {
+  "i": 1465,
+  "en": "teach",
+  "zh": "教",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1465_teach.mp3"
+ },
+ {
+  "i": 1466,
+  "en": "temperature",
+  "zh": "温度、体温",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1466_temperature.mp3"
+ },
+ {
+  "i": 1467,
+  "en": "terrible",
+  "zh": "可怕的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1467_terrible.mp3"
+ },
+ {
+  "i": 1468,
+  "en": "text",
+  "zh": "发短信、文本",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1468_text.mp3"
+ },
+ {
+  "i": 1469,
+  "en": "than",
+  "zh": "比",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1469_than.mp3"
+ },
+ {
+  "i": 1470,
+  "en": "thin",
+  "zh": "瘦的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1470_thin.mp3"
+ },
+ {
+  "i": 1471,
+  "en": "think",
+  "zh": "想",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1471_think.mp3"
+ },
+ {
+  "i": 1472,
+  "en": "third",
+  "zh": "第三",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1472_third.mp3"
+ },
+ {
+  "i": 1473,
+  "en": "thursday",
+  "zh": "星期四",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1473_thursday.mp3"
+ },
+ {
+  "i": 1474,
+  "en": "ticket",
+  "zh": "票",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1474_ticket.mp3"
+ },
+ {
+  "i": 1475,
+  "en": "tired",
+  "zh": "累的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1475_tired.mp3"
+ },
+ {
+  "i": 1476,
+  "en": "toothache",
+  "zh": "牙疼",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1476_toothache.mp3"
+ },
+ {
+  "i": 1477,
+  "en": "toothbrush",
+  "zh": "牙刷",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1477_toothbrush.mp3"
+ },
+ {
+  "i": 1478,
+  "en": "toothpaste",
+  "zh": "牙膏",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1478_toothpaste.mp3"
+ },
+ {
+  "i": 1479,
+  "en": "top",
+  "zh": "顶部",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1479_top.mp3"
+ },
+ {
+  "i": 1480,
+  "en": "towel",
+  "zh": "毛巾",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1480_towel.mp3"
+ },
+ {
+  "i": 1481,
+  "en": "town",
+  "zh": "城镇",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1481_town.mp3"
+ },
+ {
+  "i": 1482,
+  "en": "tractor",
+  "zh": "拖拉机",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1482_tractor.mp3"
+ },
+ {
+  "i": 1483,
+  "en": "travel",
+  "zh": "旅行",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1483_travel.mp3"
+ },
+ {
+  "i": 1484,
+  "en": "treasure",
+  "zh": "宝藏",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1484_treasure.mp3"
+ },
+ {
+  "i": 1485,
+  "en": "trip",
+  "zh": "旅行",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1485_trip.mp3"
+ },
+ {
+  "i": 1486,
+  "en": "tuesday",
+  "zh": "星期二",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1486_tuesday.mp3"
+ },
+ {
+  "i": 1487,
+  "en": "uncle",
+  "zh": "叔叔、舅舅",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1487_uncle.mp3"
+ },
+ {
+  "i": 1488,
+  "en": "upstairs",
+  "zh": "楼上",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1488_upstairs.mp3"
+ },
+ {
+  "i": 1489,
+  "en": "vegetable",
+  "zh": "蔬菜",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1489_vegetable.mp3"
+ },
+ {
+  "i": 1490,
+  "en": "video",
+  "zh": "视频",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1490_video.mp3"
+ },
+ {
+  "i": 1491,
+  "en": "village",
+  "zh": "村庄",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1491_village.mp3"
+ },
+ {
+  "i": 1492,
+  "en": "wait",
+  "zh": "等待",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1492_wait.mp3"
+ },
+ {
+  "i": 1493,
+  "en": "wake",
+  "zh": "醒来",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1493_wake.mp3"
+ },
+ {
+  "i": 1494,
+  "en": "waterfall",
+  "zh": "瀑布",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1494_waterfall.mp3"
+ },
+ {
+  "i": 1495,
+  "en": "weak",
+  "zh": "虚弱的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1495_weak.mp3"
+ },
+ {
+  "i": 1496,
+  "en": "weather",
+  "zh": "天气",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1496_weather.mp3"
+ },
+ {
+  "i": 1497,
+  "en": "website",
+  "zh": "网站",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1497_website.mp3"
+ },
+ {
+  "i": 1498,
+  "en": "wednesday",
+  "zh": "星期三",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1498_wednesday.mp3"
+ },
+ {
+  "i": 1499,
+  "en": "week",
+  "zh": "星期",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1499_week.mp3"
+ },
+ {
+  "i": 1500,
+  "en": "weekend",
+  "zh": "周末",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1500_weekend.mp3"
+ },
+ {
+  "i": 1501,
+  "en": "well",
+  "zh": "好地",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1501_well.mp3"
+ },
+ {
+  "i": 1502,
+  "en": "wet",
+  "zh": "湿的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1502_wet.mp3"
+ },
+ {
+  "i": 1503,
+  "en": "when",
+  "zh": "什么时候",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1503_when.mp3"
+ },
+ {
+  "i": 1504,
+  "en": "why",
+  "zh": "为什么",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1504_why.mp3"
+ },
+ {
+  "i": 1505,
+  "en": "wind",
+  "zh": "风",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1505_wind.mp3"
+ },
+ {
+  "i": 1506,
+  "en": "windy",
+  "zh": "有风的",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1506_windy.mp3"
+ },
+ {
+  "i": 1507,
+  "en": "work",
+  "zh": "工作",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1507_work.mp3"
+ },
+ {
+  "i": 1508,
+  "en": "world",
+  "zh": "世界",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1508_world.mp3"
+ },
+ {
+  "i": 1509,
+  "en": "worse",
+  "zh": "更糟",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1509_worse.mp3"
+ },
+ {
+  "i": 1510,
+  "en": "worst",
+  "zh": "最糟",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1510_worst.mp3"
+ },
+ {
+  "i": 1511,
+  "en": "yesterday",
+  "zh": "昨天",
+  "type": "vocab",
+  "unit": "movers",
+  "file": "1511_yesterday.mp3"
+ },
+ {
+  "i": 1600,
+  "en": "a few",
+  "zh": "几个",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1600_a-few.mp3"
+ },
+ {
+  "i": 1600,
+  "en": "midnight",
+  "zh": "午夜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1600_midnight.mp3"
+ },
+ {
+  "i": 1601,
+  "en": "a little",
+  "zh": "一点",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1601_a-little.mp3"
+ },
+ {
+  "i": 1601,
+  "en": "might",
+  "zh": "可能",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1601_might.mp3"
+ },
+ {
+  "i": 1602,
+  "en": "a.m.",
+  "zh": "上午",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1602_a-m.mp3"
+ },
+ {
+  "i": 1602,
+  "en": "million",
+  "zh": "百万",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1602_million.mp3"
+ },
+ {
+  "i": 1603,
+  "en": "across",
+  "zh": "穿过",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1603_across.mp3"
+ },
+ {
+  "i": 1603,
+  "en": "mind",
+  "zh": "介意",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1603_mind.mp3"
+ },
+ {
+  "i": 1604,
+  "en": "act",
+  "zh": "表演",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1604_act.mp3"
+ },
+ {
+  "i": 1604,
+  "en": "minute",
+  "zh": "分钟",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1604_minute.mp3"
+ },
+ {
+  "i": 1605,
+  "en": "actor",
+  "zh": "男演员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1605_actor.mp3"
+ },
+ {
+  "i": 1605,
+  "en": "missing",
+  "zh": "丢失的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1605_missing.mp3"
+ },
+ {
+  "i": 1606,
+  "en": "actually",
+  "zh": "实际上",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1606_actually.mp3"
+ },
+ {
+  "i": 1606,
+  "en": "mix",
+  "zh": "混合",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1606_mix.mp3"
+ },
+ {
+  "i": 1607,
+  "en": "adventure",
+  "zh": "冒险",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1607_adventure.mp3"
+ },
+ {
+  "i": 1607,
+  "en": "money",
+  "zh": "钱",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1607_money.mp3"
+ },
+ {
+  "i": 1608,
+  "en": "ago",
+  "zh": "以前",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1608_ago.mp3"
+ },
+ {
+  "i": 1608,
+  "en": "month",
+  "zh": "月份",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1608_month.mp3"
+ },
+ {
+  "i": 1609,
+  "en": "agree",
+  "zh": "同意",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1609_agree.mp3"
+ },
+ {
+  "i": 1609,
+  "en": "motorway",
+  "zh": "高速公路",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1609_motorway.mp3"
+ },
+ {
+  "i": 1610,
+  "en": "air",
+  "zh": "空气",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1610_air.mp3"
+ },
+ {
+  "i": 1610,
+  "en": "much",
+  "zh": "很多",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1610_much.mp3"
+ },
+ {
+  "i": 1611,
+  "en": "airport",
+  "zh": "机场",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1611_airport.mp3"
+ },
+ {
+  "i": 1611,
+  "en": "museum",
+  "zh": "博物馆",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1611_museum.mp3"
+ },
+ {
+  "i": 1612,
+  "en": "alone",
+  "zh": "独自",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1612_alone.mp3"
+ },
+ {
+  "i": 1612,
+  "en": "necklace",
+  "zh": "项链",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1612_necklace.mp3"
+ },
+ {
+  "i": 1613,
+  "en": "already",
+  "zh": "已经",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1613_already.mp3"
+ },
+ {
+  "i": 1613,
+  "en": "nest",
+  "zh": "巢",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1613_nest.mp3"
+ },
+ {
+  "i": 1614,
+  "en": "also",
+  "zh": "也",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1614_also.mp3"
+ },
+ {
+  "i": 1614,
+  "en": "news",
+  "zh": "新闻",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1614_news.mp3"
+ },
+ {
+  "i": 1615,
+  "en": "amazing",
+  "zh": "惊人的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1615_amazing.mp3"
+ },
+ {
+  "i": 1615,
+  "en": "newspaper",
+  "zh": "报纸",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1615_newspaper.mp3"
+ },
+ {
+  "i": 1616,
+  "en": "ambulance",
+  "zh": "救护车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1616_ambulance.mp3"
+ },
+ {
+  "i": 1616,
+  "en": "next",
+  "zh": "下一个",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1616_next.mp3"
+ },
+ {
+  "i": 1617,
+  "en": "anyone",
+  "zh": "任何人",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1617_anyone.mp3"
+ },
+ {
+  "i": 1617,
+  "en": "no problem",
+  "zh": "没问题",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1617_no-problem.mp3"
+ },
+ {
+  "i": 1618,
+  "en": "anywhere",
+  "zh": "任何地方",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1618_anywhere.mp3"
+ },
+ {
+  "i": 1618,
+  "en": "no-one",
+  "zh": "没有人",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1618_no-one.mp3"
+ },
+ {
+  "i": 1619,
+  "en": "appear",
+  "zh": "出现",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1619_appear.mp3"
+ },
+ {
+  "i": 1619,
+  "en": "noisy",
+  "zh": "吵闹的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1619_noisy.mp3"
+ },
+ {
+  "i": 1620,
+  "en": "april",
+  "zh": "四月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1620_april.mp3"
+ },
+ {
+  "i": 1620,
+  "en": "north",
+  "zh": "北",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1620_north.mp3"
+ },
+ {
+  "i": 1621,
+  "en": "arrive",
+  "zh": "到达",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1621_arrive.mp3"
+ },
+ {
+  "i": 1621,
+  "en": "november",
+  "zh": "十一月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1621_november.mp3"
+ },
+ {
+  "i": 1622,
+  "en": "art",
+  "zh": "艺术",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1622_art.mp3"
+ },
+ {
+  "i": 1622,
+  "en": "nowhere",
+  "zh": "无处",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1622_nowhere.mp3"
+ },
+ {
+  "i": 1623,
+  "en": "artist",
+  "zh": "艺术家",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1623_artist.mp3"
+ },
+ {
+  "i": 1623,
+  "en": "ocean",
+  "zh": "海洋",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1623_ocean.mp3"
+ },
+ {
+  "i": 1624,
+  "en": "as",
+  "zh": "如同",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1624_as.mp3"
+ },
+ {
+  "i": 1624,
+  "en": "october",
+  "zh": "十月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1624_october.mp3"
+ },
+ {
+  "i": 1625,
+  "en": "as ... as",
+  "zh": "和……一样",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1625_as-as.mp3"
+ },
+ {
+  "i": 1625,
+  "en": "octopus",
+  "zh": "章鱼",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1625_octopus.mp3"
+ },
+ {
+  "i": 1626,
+  "en": "astronaut",
+  "zh": "宇航员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1626_astronaut.mp3"
+ },
+ {
+  "i": 1626,
+  "en": "of course",
+  "zh": "当然",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1626_of-course.mp3"
+ },
+ {
+  "i": 1627,
+  "en": "at the moment",
+  "zh": "此刻",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1627_at-the-moment.mp3"
+ },
+ {
+  "i": 1627,
+  "en": "office",
+  "zh": "办公室",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1627_office.mp3"
+ },
+ {
+  "i": 1628,
+  "en": "august",
+  "zh": "八月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1628_august.mp3"
+ },
+ {
+  "i": 1628,
+  "en": "oliver",
+  "zh": "奥利弗（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1628_oliver.mp3"
+ },
+ {
+  "i": 1629,
+  "en": "autumn",
+  "zh": "秋天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1629_autumn.mp3"
+ },
+ {
+  "i": 1629,
+  "en": "olives",
+  "zh": "橄榄",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1629_olives.mp3"
+ },
+ {
+  "i": 1630,
+  "en": "away",
+  "zh": "离开",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1630_away.mp3"
+ },
+ {
+  "i": 1630,
+  "en": "once",
+  "zh": "一次",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1630_once.mp3"
+ },
+ {
+  "i": 1631,
+  "en": "backpack",
+  "zh": "背包",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1631_backpack.mp3"
+ },
+ {
+  "i": 1631,
+  "en": "online",
+  "zh": "在线",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1631_online.mp3"
+ },
+ {
+  "i": 1632,
+  "en": "bandage",
+  "zh": "绷带",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1632_bandage.mp3"
+ },
+ {
+  "i": 1632,
+  "en": "other",
+  "zh": "其他的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1632_other.mp3"
+ },
+ {
+  "i": 1633,
+  "en": "bank",
+  "zh": "银行",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1633_bank.mp3"
+ },
+ {
+  "i": 1633,
+  "en": "oven",
+  "zh": "烤箱",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1633_oven.mp3"
+ },
+ {
+  "i": 1634,
+  "en": "beetle",
+  "zh": "甲虫",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1634_beetle.mp3"
+ },
+ {
+  "i": 1634,
+  "en": "over",
+  "zh": "在……上方",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1634_over.mp3"
+ },
+ {
+  "i": 1635,
+  "en": "begin",
+  "zh": "开始",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1635_begin.mp3"
+ },
+ {
+  "i": 1635,
+  "en": "p.m.",
+  "zh": "下午",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1635_p-m.mp3"
+ },
+ {
+  "i": 1636,
+  "en": "believe",
+  "zh": "相信",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1636_believe.mp3"
+ },
+ {
+  "i": 1636,
+  "en": "pajamas",
+  "zh": "睡衣",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1636_pajamas.mp3"
+ },
+ {
+  "i": 1637,
+  "en": "belt",
+  "zh": "腰带",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1637_belt.mp3"
+ },
+ {
+  "i": 1637,
+  "en": "passenger",
+  "zh": "乘客",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1637_passenger.mp3"
+ },
+ {
+  "i": 1638,
+  "en": "betty",
+  "zh": "贝蒂（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1638_betty.mp3"
+ },
+ {
+  "i": 1638,
+  "en": "past",
+  "zh": "过去",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1638_past.mp3"
+ },
+ {
+  "i": 1639,
+  "en": "bicycle",
+  "zh": "自行车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1639_bicycle.mp3"
+ },
+ {
+  "i": 1639,
+  "en": "path",
+  "zh": "小路",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1639_path.mp3"
+ },
+ {
+  "i": 1640,
+  "en": "bin",
+  "zh": "垃圾桶",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1640_bin.mp3"
+ },
+ {
+  "i": 1640,
+  "en": "pepper",
+  "zh": "胡椒",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1640_pepper.mp3"
+ },
+ {
+  "i": 1641,
+  "en": "biscuit",
+  "zh": "饼干",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1641_biscuit.mp3"
+ },
+ {
+  "i": 1641,
+  "en": "perhaps",
+  "zh": "也许",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1641_perhaps.mp3"
+ },
+ {
+  "i": 1642,
+  "en": "bit",
+  "zh": "一点",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1642_bit.mp3"
+ },
+ {
+  "i": 1642,
+  "en": "photographer",
+  "zh": "摄影师",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1642_photographer.mp3"
+ },
+ {
+  "i": 1643,
+  "en": "bored",
+  "zh": "无聊的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1643_bored.mp3"
+ },
+ {
+  "i": 1643,
+  "en": "piece",
+  "zh": "一块",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1643_piece.mp3"
+ },
+ {
+  "i": 1644,
+  "en": "borrow",
+  "zh": "借",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1644_borrow.mp3"
+ },
+ {
+  "i": 1644,
+  "en": "pilot",
+  "zh": "飞行员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1644_pilot.mp3"
+ },
+ {
+  "i": 1645,
+  "en": "bracelet",
+  "zh": "手镯",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1645_bracelet.mp3"
+ },
+ {
+  "i": 1645,
+  "en": "pizza",
+  "zh": "披萨",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1645_pizza.mp3"
+ },
+ {
+  "i": 1646,
+  "en": "bridge",
+  "zh": "桥",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1646_bridge.mp3"
+ },
+ {
+  "i": 1646,
+  "en": "planet",
+  "zh": "行星",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1646_planet.mp3"
+ },
+ {
+  "i": 1647,
+  "en": "broken",
+  "zh": "坏的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1647_broken.mp3"
+ },
+ {
+  "i": 1647,
+  "en": "plastic",
+  "zh": "塑料",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1647_plastic.mp3"
+ },
+ {
+  "i": 1648,
+  "en": "burn",
+  "zh": "燃烧",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1648_burn.mp3"
+ },
+ {
+  "i": 1648,
+  "en": "platform",
+  "zh": "站台",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1648_platform.mp3"
+ },
+ {
+  "i": 1649,
+  "en": "business",
+  "zh": "生意",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1649_business.mp3"
+ },
+ {
+  "i": 1649,
+  "en": "pleased",
+  "zh": "高兴的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1649_pleased.mp3"
+ },
+ {
+  "i": 1650,
+  "en": "businessman",
+  "zh": "商人",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1650_businessman.mp3"
+ },
+ {
+  "i": 1650,
+  "en": "pocket",
+  "zh": "口袋",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1650_pocket.mp3"
+ },
+ {
+  "i": 1651,
+  "en": "butter",
+  "zh": "黄油",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1651_butter.mp3"
+ },
+ {
+  "i": 1651,
+  "en": "police officer",
+  "zh": "警察",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1651_police-officer.mp3"
+ },
+ {
+  "i": 1652,
+  "en": "butterfly",
+  "zh": "蝴蝶",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1652_butterfly.mp3"
+ },
+ {
+  "i": 1652,
+  "en": "police station",
+  "zh": "警察局",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1652_police-station.mp3"
+ },
+ {
+  "i": 1653,
+  "en": "by myself",
+  "zh": "我自己",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1653_by-myself.mp3"
+ },
+ {
+  "i": 1653,
+  "en": "pond",
+  "zh": "池塘",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1653_pond.mp3"
+ },
+ {
+  "i": 1654,
+  "en": "by yourself",
+  "zh": "你自己",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1654_by-yourself.mp3"
+ },
+ {
+  "i": 1654,
+  "en": "poor",
+  "zh": "贫穷的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1654_poor.mp3"
+ },
+ {
+  "i": 1655,
+  "en": "calendar",
+  "zh": "日历",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1655_calendar.mp3"
+ },
+ {
+  "i": 1655,
+  "en": "pop music",
+  "zh": "流行音乐",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1655_pop-music.mp3"
+ },
+ {
+  "i": 1656,
+  "en": "camel",
+  "zh": "骆驼",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1656_camel.mp3"
+ },
+ {
+  "i": 1656,
+  "en": "popular",
+  "zh": "受欢迎的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1656_popular.mp3"
+ },
+ {
+  "i": 1657,
+  "en": "camp",
+  "zh": "营地",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1657_camp.mp3"
+ },
+ {
+  "i": 1657,
+  "en": "post",
+  "zh": "邮寄",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1657_post.mp3"
+ },
+ {
+  "i": 1658,
+  "en": "card",
+  "zh": "卡片",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1658_card.mp3"
+ },
+ {
+  "i": 1658,
+  "en": "post office",
+  "zh": "邮局",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1658_post-office.mp3"
+ },
+ {
+  "i": 1659,
+  "en": "cartoon",
+  "zh": "卡通",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1659_cartoon.mp3"
+ },
+ {
+  "i": 1659,
+  "en": "postcard",
+  "zh": "明信片",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1659_postcard.mp3"
+ },
+ {
+  "i": 1660,
+  "en": "castle",
+  "zh": "城堡",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1660_castle.mp3"
+ },
+ {
+  "i": 1660,
+  "en": "prefer",
+  "zh": "更喜欢",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1660_prefer.mp3"
+ },
+ {
+  "i": 1661,
+  "en": "cave",
+  "zh": "洞穴",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1661_cave.mp3"
+ },
+ {
+  "i": 1661,
+  "en": "prepare",
+  "zh": "准备",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1661_prepare.mp3"
+ },
+ {
+  "i": 1662,
+  "en": "century",
+  "zh": "世纪",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1662_century.mp3"
+ },
+ {
+  "i": 1662,
+  "en": "prize",
+  "zh": "奖品",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1662_prize.mp3"
+ },
+ {
+  "i": 1663,
+  "en": "cereal",
+  "zh": "麦片",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1663_cereal.mp3"
+ },
+ {
+  "i": 1663,
+  "en": "problem",
+  "zh": "问题",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1663_problem.mp3"
+ },
+ {
+  "i": 1664,
+  "en": "channel",
+  "zh": "频道",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1664_channel.mp3"
+ },
+ {
+  "i": 1664,
+  "en": "programme",
+  "zh": "节目",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1664_programme.mp3"
+ },
+ {
+  "i": 1665,
+  "en": "chat",
+  "zh": "聊天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1665_chat.mp3"
+ },
+ {
+  "i": 1665,
+  "en": "project",
+  "zh": "项目",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1665_project.mp3"
+ },
+ {
+  "i": 1666,
+  "en": "cheap",
+  "zh": "便宜的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1666_cheap.mp3"
+ },
+ {
+  "i": 1666,
+  "en": "pull",
+  "zh": "拉",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1666_pull.mp3"
+ },
+ {
+  "i": 1667,
+  "en": "chemist",
+  "zh": "药店",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1667_chemist.mp3"
+ },
+ {
+  "i": 1667,
+  "en": "push",
+  "zh": "推",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1667_push.mp3"
+ },
+ {
+  "i": 1668,
+  "en": "chess",
+  "zh": "国际象棋",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1668_chess.mp3"
+ },
+ {
+  "i": 1668,
+  "en": "puzzle",
+  "zh": "拼图",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1668_puzzle.mp3"
+ },
+ {
+  "i": 1669,
+  "en": "chopsticks",
+  "zh": "筷子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1669_chopsticks.mp3"
+ },
+ {
+  "i": 1669,
+  "en": "pyjamas",
+  "zh": "睡衣",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1669_pyjamas.mp3"
+ },
+ {
+  "i": 1670,
+  "en": "club",
+  "zh": "俱乐部",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1670_club.mp3"
+ },
+ {
+  "i": 1670,
+  "en": "pyramid",
+  "zh": "金字塔",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1670_pyramid.mp3"
+ },
+ {
+  "i": 1671,
+  "en": "collect",
+  "zh": "收集",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1671_collect.mp3"
+ },
+ {
+  "i": 1671,
+  "en": "quarter",
+  "zh": "四分之一",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1671_quarter.mp3"
+ },
+ {
+  "i": 1672,
+  "en": "college",
+  "zh": "学院",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1672_college.mp3"
+ },
+ {
+  "i": 1672,
+  "en": "queen",
+  "zh": "女王",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1672_queen.mp3"
+ },
+ {
+  "i": 1673,
+  "en": "comb",
+  "zh": "梳子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1673_comb.mp3"
+ },
+ {
+  "i": 1673,
+  "en": "quite",
+  "zh": "相当",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1673_quite.mp3"
+ },
+ {
+  "i": 1674,
+  "en": "competition",
+  "zh": "比赛",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1674_competition.mp3"
+ },
+ {
+  "i": 1674,
+  "en": "quiz",
+  "zh": "竞答",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1674_quiz.mp3"
+ },
+ {
+  "i": 1675,
+  "en": "concert",
+  "zh": "音乐会",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1675_concert.mp3"
+ },
+ {
+  "i": 1675,
+  "en": "race",
+  "zh": "比赛",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1675_race.mp3"
+ },
+ {
+  "i": 1676,
+  "en": "conversation",
+  "zh": "对话",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1676_conversation.mp3"
+ },
+ {
+  "i": 1676,
+  "en": "racing",
+  "zh": "赛车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1676_racing.mp3"
+ },
+ {
+  "i": 1677,
+  "en": "cooker",
+  "zh": "炉灶",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1677_cooker.mp3"
+ },
+ {
+  "i": 1677,
+  "en": "railway",
+  "zh": "铁路",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1677_railway.mp3"
+ },
+ {
+  "i": 1678,
+  "en": "corner",
+  "zh": "角落",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1678_corner.mp3"
+ },
+ {
+  "i": 1678,
+  "en": "remember",
+  "zh": "记得",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1678_remember.mp3"
+ },
+ {
+  "i": 1679,
+  "en": "costume",
+  "zh": "服装",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1679_costume.mp3"
+ },
+ {
+  "i": 1679,
+  "en": "repair",
+  "zh": "修理",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1679_repair.mp3"
+ },
+ {
+  "i": 1680,
+  "en": "creature",
+  "zh": "生物",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1680_creature.mp3"
+ },
+ {
+  "i": 1680,
+  "en": "repeat",
+  "zh": "重复",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1680_repeat.mp3"
+ },
+ {
+  "i": 1681,
+  "en": "crown",
+  "zh": "王冠",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1681_crown.mp3"
+ },
+ {
+  "i": 1681,
+  "en": "restaurant",
+  "zh": "餐厅",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1681_restaurant.mp3"
+ },
+ {
+  "i": 1682,
+  "en": "cushion",
+  "zh": "垫子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1682_cushion.mp3"
+ },
+ {
+  "i": 1682,
+  "en": "rich",
+  "zh": "富有的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1682_rich.mp3"
+ },
+ {
+  "i": 1683,
+  "en": "cut",
+  "zh": "切",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1683_cut.mp3"
+ },
+ {
+  "i": 1683,
+  "en": "richard",
+  "zh": "理查德（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1683_richard.mp3"
+ },
+ {
+  "i": 1684,
+  "en": "cycle",
+  "zh": "骑自行车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1684_cycle.mp3"
+ },
+ {
+  "i": 1684,
+  "en": "ring",
+  "zh": "戒指",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1684_ring.mp3"
+ },
+ {
+  "i": 1685,
+  "en": "dark",
+  "zh": "黑暗的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1685_dark.mp3"
+ },
+ {
+  "i": 1685,
+  "en": "robert",
+  "zh": "罗伯特（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1685_robert.mp3"
+ },
+ {
+  "i": 1686,
+  "en": "date",
+  "zh": "日期",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1686_date.mp3"
+ },
+ {
+  "i": 1686,
+  "en": "rock music",
+  "zh": "摇滚乐",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1686_rock-music.mp3"
+ },
+ {
+  "i": 1687,
+  "en": "david",
+  "zh": "大卫（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1687_david.mp3"
+ },
+ {
+  "i": 1687,
+  "en": "rocket",
+  "zh": "火箭",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1687_rocket.mp3"
+ },
+ {
+  "i": 1688,
+  "en": "dear",
+  "zh": "亲爱的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1688_dear.mp3"
+ },
+ {
+  "i": 1688,
+  "en": "rucksack",
+  "zh": "背包",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1688_rucksack.mp3"
+ },
+ {
+  "i": 1689,
+  "en": "december",
+  "zh": "十二月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1689_december.mp3"
+ },
+ {
+  "i": 1689,
+  "en": "salt",
+  "zh": "盐",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1689_salt.mp3"
+ },
+ {
+  "i": 1690,
+  "en": "decide",
+  "zh": "决定",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1690_decide.mp3"
+ },
+ {
+  "i": 1690,
+  "en": "same",
+  "zh": "相同的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1690_same.mp3"
+ },
+ {
+  "i": 1691,
+  "en": "deep",
+  "zh": "深的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1691_deep.mp3"
+ },
+ {
+  "i": 1691,
+  "en": "sarah",
+  "zh": "莎拉（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1691_sarah.mp3"
+ },
+ {
+  "i": 1692,
+  "en": "delicious",
+  "zh": "美味的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1692_delicious.mp3"
+ },
+ {
+  "i": 1692,
+  "en": "save",
+  "zh": "节省、救",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1692_save.mp3"
+ },
+ {
+  "i": 1693,
+  "en": "desert",
+  "zh": "沙漠",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1693_desert.mp3"
+ },
+ {
+  "i": 1693,
+  "en": "science",
+  "zh": "科学",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1693_science.mp3"
+ },
+ {
+  "i": 1694,
+  "en": "design",
+  "zh": "设计",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1694_design.mp3"
+ },
+ {
+  "i": 1694,
+  "en": "scissors",
+  "zh": "剪刀",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1694_scissors.mp3"
+ },
+ {
+  "i": 1695,
+  "en": "designer",
+  "zh": "设计师",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1695_designer.mp3"
+ },
+ {
+  "i": 1695,
+  "en": "screen",
+  "zh": "屏幕",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1695_screen.mp3"
+ },
+ {
+  "i": 1696,
+  "en": "diary",
+  "zh": "日记",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1696_diary.mp3"
+ },
+ {
+  "i": 1696,
+  "en": "search",
+  "zh": "搜索",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1696_search.mp3"
+ },
+ {
+  "i": 1697,
+  "en": "dictionary",
+  "zh": "词典",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1697_dictionary.mp3"
+ },
+ {
+  "i": 1697,
+  "en": "secret",
+  "zh": "秘密",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1697_secret.mp3"
+ },
+ {
+  "i": 1698,
+  "en": "dinosaur",
+  "zh": "恐龙",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1698_dinosaur.mp3"
+ },
+ {
+  "i": 1698,
+  "en": "sell",
+  "zh": "卖",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1698_sell.mp3"
+ },
+ {
+  "i": 1699,
+  "en": "disappear",
+  "zh": "消失",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1699_disappear.mp3"
+ },
+ {
+  "i": 1699,
+  "en": "september",
+  "zh": "九月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1699_september.mp3"
+ },
+ {
+  "i": 1700,
+  "en": "discourse marker",
+  "zh": "话语标记",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1700_discourse-marker.mp3"
+ },
+ {
+  "i": 1700,
+  "en": "several",
+  "zh": "几个",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1700_several.mp3"
+ },
+ {
+  "i": 1701,
+  "en": "drum",
+  "zh": "鼓",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1701_drum.mp3"
+ },
+ {
+  "i": 1701,
+  "en": "shampoo",
+  "zh": "洗发水",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1701_shampoo.mp3"
+ },
+ {
+  "i": 1702,
+  "en": "during",
+  "zh": "在……期间",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1702_during.mp3"
+ },
+ {
+  "i": 1702,
+  "en": "shelf",
+  "zh": "架子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1702_shelf.mp3"
+ },
+ {
+  "i": 1703,
+  "en": "each",
+  "zh": "每个",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1703_each.mp3"
+ },
+ {
+  "i": 1703,
+  "en": "should",
+  "zh": "应该",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1703_should.mp3"
+ },
+ {
+  "i": 1704,
+  "en": "eagle",
+  "zh": "鹰",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1704_eagle.mp3"
+ },
+ {
+  "i": 1704,
+  "en": "silver",
+  "zh": "银",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1704_silver.mp3"
+ },
+ {
+  "i": 1705,
+  "en": "early",
+  "zh": "早的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1705_early.mp3"
+ },
+ {
+  "i": 1705,
+  "en": "since",
+  "zh": "自从",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1705_since.mp3"
+ },
+ {
+  "i": 1706,
+  "en": "earth",
+  "zh": "地球",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1706_earth.mp3"
+ },
+ {
+  "i": 1706,
+  "en": "singer",
+  "zh": "歌手",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1706_singer.mp3"
+ },
+ {
+  "i": 1707,
+  "en": "east",
+  "zh": "东",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1707_east.mp3"
+ },
+ {
+  "i": 1707,
+  "en": "ski",
+  "zh": "滑雪",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1707_ski.mp3"
+ },
+ {
+  "i": 1708,
+  "en": "elbow",
+  "zh": "肘部",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1708_elbow.mp3"
+ },
+ {
+  "i": 1708,
+  "en": "skyscraper",
+  "zh": "摩天大楼",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1708_skyscraper.mp3"
+ },
+ {
+  "i": 1709,
+  "en": "emma",
+  "zh": "艾玛（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1709_emma.mp3"
+ },
+ {
+  "i": 1709,
+  "en": "sledge",
+  "zh": "雪橇",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1709_sledge.mp3"
+ },
+ {
+  "i": 1710,
+  "en": "empty",
+  "zh": "空的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1710_empty.mp3"
+ },
+ {
+  "i": 1710,
+  "en": "smell",
+  "zh": "闻",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1710_smell.mp3"
+ },
+ {
+  "i": 1711,
+  "en": "engine",
+  "zh": "发动机",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1711_engine.mp3"
+ },
+ {
+  "i": 1711,
+  "en": "snack",
+  "zh": "零食",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1711_snack.mp3"
+ },
+ {
+  "i": 1712,
+  "en": "engineer",
+  "zh": "工程师",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1712_engineer.mp3"
+ },
+ {
+  "i": 1712,
+  "en": "snowball",
+  "zh": "雪球",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1712_snowball.mp3"
+ },
+ {
+  "i": 1713,
+  "en": "enormous",
+  "zh": "巨大的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1713_enormous.mp3"
+ },
+ {
+  "i": 1713,
+  "en": "snowboard",
+  "zh": "单板滑雪",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1713_snowboard.mp3"
+ },
+ {
+  "i": 1714,
+  "en": "enough",
+  "zh": "足够",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1714_enough.mp3"
+ },
+ {
+  "i": 1714,
+  "en": "snowboarding",
+  "zh": "单板滑雪运动",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1714_snowboarding.mp3"
+ },
+ {
+  "i": 1715,
+  "en": "enter",
+  "zh": "进入",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1715_enter.mp3"
+ },
+ {
+  "i": 1715,
+  "en": "snowman",
+  "zh": "雪人",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1715_snowman.mp3"
+ },
+ {
+  "i": 1716,
+  "en": "entrance",
+  "zh": "入口",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1716_entrance.mp3"
+ },
+ {
+  "i": 1716,
+  "en": "soap",
+  "zh": "肥皂",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1716_soap.mp3"
+ },
+ {
+  "i": 1717,
+  "en": "envelope",
+  "zh": "信封",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1717_envelope.mp3"
+ },
+ {
+  "i": 1717,
+  "en": "somewhere",
+  "zh": "某处",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1717_somewhere.mp3"
+ },
+ {
+  "i": 1718,
+  "en": "environment",
+  "zh": "环境",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1718_environment.mp3"
+ },
+ {
+  "i": 1718,
+  "en": "soon",
+  "zh": "很快",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1718_soon.mp3"
+ },
+ {
+  "i": 1719,
+  "en": "ever",
+  "zh": "曾经",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1719_ever.mp3"
+ },
+ {
+  "i": 1719,
+  "en": "sophia",
+  "zh": "索菲亚（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1719_sophia.mp3"
+ },
+ {
+  "i": 1720,
+  "en": "everywhere",
+  "zh": "到处",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1720_everywhere.mp3"
+ },
+ {
+  "i": 1720,
+  "en": "sore",
+  "zh": "疼痛的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1720_sore.mp3"
+ },
+ {
+  "i": 1721,
+  "en": "excellent",
+  "zh": "极好的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1721_excellent.mp3"
+ },
+ {
+  "i": 1721,
+  "en": "sound",
+  "zh": "声音",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1721_sound.mp3"
+ },
+ {
+  "i": 1722,
+  "en": "excited",
+  "zh": "兴奋的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1722_excited.mp3"
+ },
+ {
+  "i": 1722,
+  "en": "south",
+  "zh": "南",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1722_south.mp3"
+ },
+ {
+  "i": 1723,
+  "en": "exit",
+  "zh": "出口",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1723_exit.mp3"
+ },
+ {
+  "i": 1723,
+  "en": "space",
+  "zh": "太空",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1723_space.mp3"
+ },
+ {
+  "i": 1724,
+  "en": "expensive",
+  "zh": "昂贵的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1724_expensive.mp3"
+ },
+ {
+  "i": 1724,
+  "en": "spaceship",
+  "zh": "宇宙飞船",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1724_spaceship.mp3"
+ },
+ {
+  "i": 1725,
+  "en": "explain",
+  "zh": "解释",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1725_explain.mp3"
+ },
+ {
+  "i": 1725,
+  "en": "speak",
+  "zh": "说话",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1725_speak.mp3"
+ },
+ {
+  "i": 1726,
+  "en": "explore",
+  "zh": "探索",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1726_explore.mp3"
+ },
+ {
+  "i": 1726,
+  "en": "special",
+  "zh": "特别的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1726_special.mp3"
+ },
+ {
+  "i": 1727,
+  "en": "extinct",
+  "zh": "灭绝的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1727_extinct.mp3"
+ },
+ {
+  "i": 1727,
+  "en": "spend",
+  "zh": "花费",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1727_spend.mp3"
+ },
+ {
+  "i": 1728,
+  "en": "factory",
+  "zh": "工厂",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1728_factory.mp3"
+ },
+ {
+  "i": 1728,
+  "en": "spoon",
+  "zh": "勺子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1728_spoon.mp3"
+ },
+ {
+  "i": 1729,
+  "en": "fall over",
+  "zh": "跌倒",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1729_fall-over.mp3"
+ },
+ {
+  "i": 1729,
+  "en": "spot",
+  "zh": "斑点",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1729_spot.mp3"
+ },
+ {
+  "i": 1730,
+  "en": "february",
+  "zh": "二月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1730_february.mp3"
+ },
+ {
+  "i": 1730,
+  "en": "spotted",
+  "zh": "有斑点的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1730_spotted.mp3"
+ },
+ {
+  "i": 1731,
+  "en": "feel",
+  "zh": "感觉",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1731_feel.mp3"
+ },
+ {
+  "i": 1731,
+  "en": "spring",
+  "zh": "春天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1731_spring.mp3"
+ },
+ {
+  "i": 1732,
+  "en": "festival",
+  "zh": "节日",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1732_festival.mp3"
+ },
+ {
+  "i": 1732,
+  "en": "stadium",
+  "zh": "体育场",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1732_stadium.mp3"
+ },
+ {
+  "i": 1733,
+  "en": "fetch",
+  "zh": "去取来",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1733_fetch.mp3"
+ },
+ {
+  "i": 1733,
+  "en": "stage",
+  "zh": "舞台",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1733_stage.mp3"
+ },
+ {
+  "i": 1734,
+  "en": "find out",
+  "zh": "查明",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1734_find-out.mp3"
+ },
+ {
+  "i": 1734,
+  "en": "stamp",
+  "zh": "邮票",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1734_stamp.mp3"
+ },
+ {
+  "i": 1735,
+  "en": "finish",
+  "zh": "完成",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1735_finish.mp3"
+ },
+ {
+  "i": 1735,
+  "en": "stay",
+  "zh": "停留",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1735_stay.mp3"
+ },
+ {
+  "i": 1736,
+  "en": "fire",
+  "zh": "火",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1736_fire.mp3"
+ },
+ {
+  "i": 1736,
+  "en": "step",
+  "zh": "步骤",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1736_step.mp3"
+ },
+ {
+  "i": 1737,
+  "en": "fire engine",
+  "zh": "消防车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1737_fire-engine.mp3"
+ },
+ {
+  "i": 1737,
+  "en": "still",
+  "zh": "仍然",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1737_still.mp3"
+ },
+ {
+  "i": 1738,
+  "en": "fire fighter",
+  "zh": "消防员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1738_fire-fighter.mp3"
+ },
+ {
+  "i": 1738,
+  "en": "stone",
+  "zh": "石头",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1738_stone.mp3"
+ },
+ {
+  "i": 1739,
+  "en": "fire station",
+  "zh": "消防站",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1739_fire-station.mp3"
+ },
+ {
+  "i": 1739,
+  "en": "storm",
+  "zh": "暴风雨",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1739_storm.mp3"
+ },
+ {
+  "i": 1740,
+  "en": "flag",
+  "zh": "旗帜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1740_flag.mp3"
+ },
+ {
+  "i": 1740,
+  "en": "straight on",
+  "zh": "一直往前",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1740_straight-on.mp3"
+ },
+ {
+  "i": 1741,
+  "en": "flashlight",
+  "zh": "手电筒",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1741_flashlight.mp3"
+ },
+ {
+  "i": 1741,
+  "en": "strange",
+  "zh": "奇怪的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1741_strange.mp3"
+ },
+ {
+  "i": 1742,
+  "en": "flour",
+  "zh": "面粉",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1742_flour.mp3"
+ },
+ {
+  "i": 1742,
+  "en": "strawberry",
+  "zh": "草莓",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1742_strawberry.mp3"
+ },
+ {
+  "i": 1743,
+  "en": "fog",
+  "zh": "雾",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1743_fog.mp3"
+ },
+ {
+  "i": 1743,
+  "en": "stream",
+  "zh": "小溪",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1743_stream.mp3"
+ },
+ {
+  "i": 1744,
+  "en": "foggy",
+  "zh": "有雾的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1744_foggy.mp3"
+ },
+ {
+  "i": 1744,
+  "en": "stripe",
+  "zh": "条纹",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1744_stripe.mp3"
+ },
+ {
+  "i": 1745,
+  "en": "follow",
+  "zh": "跟随",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1745_follow.mp3"
+ },
+ {
+  "i": 1745,
+  "en": "striped",
+  "zh": "有条纹的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1745_striped.mp3"
+ },
+ {
+  "i": 1746,
+  "en": "forget",
+  "zh": "忘记",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1746_forget.mp3"
+ },
+ {
+  "i": 1746,
+  "en": "student",
+  "zh": "学生",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1746_student.mp3"
+ },
+ {
+  "i": 1747,
+  "en": "fork",
+  "zh": "叉子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1747_fork.mp3"
+ },
+ {
+  "i": 1747,
+  "en": "study",
+  "zh": "学习",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1747_study.mp3"
+ },
+ {
+  "i": 1748,
+  "en": "frank",
+  "zh": "弗兰克（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1748_frank.mp3"
+ },
+ {
+  "i": 1748,
+  "en": "subject",
+  "zh": "科目",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1748_subject.mp3"
+ },
+ {
+  "i": 1749,
+  "en": "fridge",
+  "zh": "冰箱",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1749_fridge.mp3"
+ },
+ {
+  "i": 1749,
+  "en": "such",
+  "zh": "这样的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1749_such.mp3"
+ },
+ {
+  "i": 1750,
+  "en": "friendly",
+  "zh": "友善的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1750_friendly.mp3"
+ },
+ {
+  "i": 1750,
+  "en": "suddenly",
+  "zh": "突然",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1750_suddenly.mp3"
+ },
+ {
+  "i": 1751,
+  "en": "frightening",
+  "zh": "可怕的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1751_frightening.mp3"
+ },
+ {
+  "i": 1751,
+  "en": "sugar",
+  "zh": "糖",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1751_sugar.mp3"
+ },
+ {
+  "i": 1752,
+  "en": "front",
+  "zh": "前面",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1752_front.mp3"
+ },
+ {
+  "i": 1752,
+  "en": "suitcase",
+  "zh": "行李箱",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1752_suitcase.mp3"
+ },
+ {
+  "i": 1753,
+  "en": "full",
+  "zh": "满的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1753_full.mp3"
+ },
+ {
+  "i": 1753,
+  "en": "summer",
+  "zh": "夏天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1753_summer.mp3"
+ },
+ {
+  "i": 1754,
+  "en": "fur",
+  "zh": "毛皮",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1754_fur.mp3"
+ },
+ {
+  "i": 1754,
+  "en": "sunglasses",
+  "zh": "太阳镜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1754_sunglasses.mp3"
+ },
+ {
+  "i": 1755,
+  "en": "furry",
+  "zh": "毛茸茸的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1755_furry.mp3"
+ },
+ {
+  "i": 1755,
+  "en": "sure",
+  "zh": "确定的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1755_sure.mp3"
+ },
+ {
+  "i": 1756,
+  "en": "future",
+  "zh": "未来",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1756_future.mp3"
+ },
+ {
+  "i": 1756,
+  "en": "surname",
+  "zh": "姓",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1756_surname.mp3"
+ },
+ {
+  "i": 1757,
+  "en": "gate",
+  "zh": "大门",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1757_gate.mp3"
+ },
+ {
+  "i": 1757,
+  "en": "surprise",
+  "zh": "惊喜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1757_surprise.mp3"
+ },
+ {
+  "i": 1758,
+  "en": "geography",
+  "zh": "地理",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1758_geography.mp3"
+ },
+ {
+  "i": 1758,
+  "en": "swan",
+  "zh": "天鹅",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1758_swan.mp3"
+ },
+ {
+  "i": 1759,
+  "en": "george",
+  "zh": "乔治（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1759_george.mp3"
+ },
+ {
+  "i": 1759,
+  "en": "taste",
+  "zh": "尝",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1759_taste.mp3"
+ },
+ {
+  "i": 1760,
+  "en": "get to",
+  "zh": "到达",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1760_get-to.mp3"
+ },
+ {
+  "i": 1760,
+  "en": "taxi",
+  "zh": "出租车",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1760_taxi.mp3"
+ },
+ {
+  "i": 1761,
+  "en": "glove",
+  "zh": "手套",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1761_glove.mp3"
+ },
+ {
+  "i": 1761,
+  "en": "team",
+  "zh": "队伍",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1761_team.mp3"
+ },
+ {
+  "i": 1762,
+  "en": "glue",
+  "zh": "胶水",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1762_glue.mp3"
+ },
+ {
+  "i": 1762,
+  "en": "telephone",
+  "zh": "电话",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1762_telephone.mp3"
+ },
+ {
+  "i": 1763,
+  "en": "go away",
+  "zh": "走开",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1763_go-away.mp3"
+ },
+ {
+  "i": 1763,
+  "en": "tent",
+  "zh": "帐篷",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1763_tent.mp3"
+ },
+ {
+  "i": 1764,
+  "en": "go out",
+  "zh": "外出",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1764_go-out.mp3"
+ },
+ {
+  "i": 1764,
+  "en": "theatre",
+  "zh": "剧院",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1764_theatre.mp3"
+ },
+ {
+  "i": 1765,
+  "en": "gold",
+  "zh": "金",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1765_gold.mp3"
+ },
+ {
+  "i": 1765,
+  "en": "thousand",
+  "zh": "一千",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1765_thousand.mp3"
+ },
+ {
+  "i": 1766,
+  "en": "golf",
+  "zh": "高尔夫",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1766_golf.mp3"
+ },
+ {
+  "i": 1766,
+  "en": "through",
+  "zh": "穿过",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1766_through.mp3"
+ },
+ {
+  "i": 1767,
+  "en": "group",
+  "zh": "小组",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1767_group.mp3"
+ },
+ {
+  "i": 1767,
+  "en": "tidy",
+  "zh": "整洁的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1767_tidy.mp3"
+ },
+ {
+  "i": 1768,
+  "en": "guess",
+  "zh": "猜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1768_guess.mp3"
+ },
+ {
+  "i": 1768,
+  "en": "time",
+  "zh": "时间",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1768_time.mp3"
+ },
+ {
+  "i": 1769,
+  "en": "gym",
+  "zh": "体育馆",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1769_gym.mp3"
+ },
+ {
+  "i": 1769,
+  "en": "timetable",
+  "zh": "时间表",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1769_timetable.mp3"
+ },
+ {
+  "i": 1770,
+  "en": "half",
+  "zh": "一半",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1770_half.mp3"
+ },
+ {
+  "i": 1770,
+  "en": "together",
+  "zh": "一起",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1770_together.mp3"
+ },
+ {
+  "i": 1771,
+  "en": "happen",
+  "zh": "发生",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1771_happen.mp3"
+ },
+ {
+  "i": 1771,
+  "en": "tomorrow",
+  "zh": "明天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1771_tomorrow.mp3"
+ },
+ {
+  "i": 1772,
+  "en": "hard",
+  "zh": "困难的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1772_hard.mp3"
+ },
+ {
+  "i": 1772,
+  "en": "tonight",
+  "zh": "今晚",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1772_tonight.mp3"
+ },
+ {
+  "i": 1773,
+  "en": "harry",
+  "zh": "哈里（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1773_harry.mp3"
+ },
+ {
+  "i": 1773,
+  "en": "torch",
+  "zh": "手电筒",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1773_torch.mp3"
+ },
+ {
+  "i": 1774,
+  "en": "hate",
+  "zh": "讨厌",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1774_hate.mp3"
+ },
+ {
+  "i": 1774,
+  "en": "tortoise",
+  "zh": "陆龟",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1774_tortoise.mp3"
+ },
+ {
+  "i": 1775,
+  "en": "hear",
+  "zh": "听见",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1775_hear.mp3"
+ },
+ {
+  "i": 1775,
+  "en": "tour",
+  "zh": "旅行",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1775_tour.mp3"
+ },
+ {
+  "i": 1776,
+  "en": "heavy",
+  "zh": "重的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1776_heavy.mp3"
+ },
+ {
+  "i": 1776,
+  "en": "traffic",
+  "zh": "交通",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1776_traffic.mp3"
+ },
+ {
+  "i": 1777,
+  "en": "helen",
+  "zh": "海伦（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1777_helen.mp3"
+ },
+ {
+  "i": 1777,
+  "en": "trainers",
+  "zh": "运动鞋",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1777_trainers.mp3"
+ },
+ {
+  "i": 1778,
+  "en": "hill",
+  "zh": "小山",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1778_hill.mp3"
+ },
+ {
+  "i": 1778,
+  "en": "tune",
+  "zh": "曲调",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1778_tune.mp3"
+ },
+ {
+  "i": 1779,
+  "en": "history",
+  "zh": "历史",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1779_history.mp3"
+ },
+ {
+  "i": 1779,
+  "en": "turn",
+  "zh": "转弯",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1779_turn.mp3"
+ },
+ {
+  "i": 1780,
+  "en": "hole",
+  "zh": "洞",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1780_hole.mp3"
+ },
+ {
+  "i": 1780,
+  "en": "turn off",
+  "zh": "关掉",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1780_turn-off.mp3"
+ },
+ {
+  "i": 1781,
+  "en": "holly",
+  "zh": "霍莉（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1781_holly.mp3"
+ },
+ {
+  "i": 1781,
+  "en": "turn on",
+  "zh": "打开",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1781_turn-on.mp3"
+ },
+ {
+  "i": 1782,
+  "en": "honey",
+  "zh": "蜂蜜",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1782_honey.mp3"
+ },
+ {
+  "i": 1782,
+  "en": "twice",
+  "zh": "两次",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1782_twice.mp3"
+ },
+ {
+  "i": 1783,
+  "en": "hope",
+  "zh": "希望",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1783_hope.mp3"
+ },
+ {
+  "i": 1783,
+  "en": "tyre",
+  "zh": "轮胎",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1783_tyre.mp3"
+ },
+ {
+  "i": 1784,
+  "en": "horrible",
+  "zh": "可怕的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1784_horrible.mp3"
+ },
+ {
+  "i": 1784,
+  "en": "umbrella",
+  "zh": "雨伞",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1784_umbrella.mp3"
+ },
+ {
+  "i": 1785,
+  "en": "hotel",
+  "zh": "酒店",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1785_hotel.mp3"
+ },
+ {
+  "i": 1785,
+  "en": "unfriendly",
+  "zh": "不友好的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1785_unfriendly.mp3"
+ },
+ {
+  "i": 1786,
+  "en": "hour",
+  "zh": "小时",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1786_hour.mp3"
+ },
+ {
+  "i": 1786,
+  "en": "unhappy",
+  "zh": "不开心的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1786_unhappy.mp3"
+ },
+ {
+  "i": 1787,
+  "en": "how long",
+  "zh": "多久",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1787_how-long.mp3"
+ },
+ {
+  "i": 1787,
+  "en": "uniform",
+  "zh": "制服",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1787_uniform.mp3"
+ },
+ {
+  "i": 1788,
+  "en": "hurry",
+  "zh": "赶紧",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1788_hurry.mp3"
+ },
+ {
+  "i": 1788,
+  "en": "university",
+  "zh": "大学",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1788_university.mp3"
+ },
+ {
+  "i": 1789,
+  "en": "husband",
+  "zh": "丈夫",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1789_husband.mp3"
+ },
+ {
+  "i": 1789,
+  "en": "unkind",
+  "zh": "不友善的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1789_unkind.mp3"
+ },
+ {
+  "i": 1790,
+  "en": "if",
+  "zh": "如果",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1790_if.mp3"
+ },
+ {
+  "i": 1790,
+  "en": "untidy",
+  "zh": "不整洁的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1790_untidy.mp3"
+ },
+ {
+  "i": 1791,
+  "en": "if you want",
+  "zh": "如果你愿意",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1791_if-you-want.mp3"
+ },
+ {
+  "i": 1791,
+  "en": "until",
+  "zh": "直到",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1791_until.mp3"
+ },
+ {
+  "i": 1792,
+  "en": "important",
+  "zh": "重要的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1792_important.mp3"
+ },
+ {
+  "i": 1792,
+  "en": "unusual",
+  "zh": "不寻常的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1792_unusual.mp3"
+ },
+ {
+  "i": 1793,
+  "en": "improve",
+  "zh": "改善",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1793_improve.mp3"
+ },
+ {
+  "i": 1793,
+  "en": "use",
+  "zh": "使用",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1793_use.mp3"
+ },
+ {
+  "i": 1794,
+  "en": "in a minute",
+  "zh": "马上",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1794_in-a-minute.mp3"
+ },
+ {
+  "i": 1794,
+  "en": "usually",
+  "zh": "通常",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1794_usually.mp3"
+ },
+ {
+  "i": 1795,
+  "en": "information",
+  "zh": "信息",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1795_information.mp3"
+ },
+ {
+  "i": 1795,
+  "en": "view",
+  "zh": "景色",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1795_view.mp3"
+ },
+ {
+  "i": 1796,
+  "en": "insect",
+  "zh": "昆虫",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1796_insect.mp3"
+ },
+ {
+  "i": 1796,
+  "en": "violin",
+  "zh": "小提琴",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1796_violin.mp3"
+ },
+ {
+  "i": 1797,
+  "en": "instead",
+  "zh": "代替",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1797_instead.mp3"
+ },
+ {
+  "i": 1797,
+  "en": "visit",
+  "zh": "拜访",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1797_visit.mp3"
+ },
+ {
+  "i": 1798,
+  "en": "instrument",
+  "zh": "乐器",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1798_instrument.mp3"
+ },
+ {
+  "i": 1798,
+  "en": "volleyball",
+  "zh": "排球",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1798_volleyball.mp3"
+ },
+ {
+  "i": 1799,
+  "en": "interested",
+  "zh": "感兴趣的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1799_interested.mp3"
+ },
+ {
+  "i": 1799,
+  "en": "waiter",
+  "zh": "服务员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1799_waiter.mp3"
+ },
+ {
+  "i": 1800,
+  "en": "interesting",
+  "zh": "有趣的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1800_interesting.mp3"
+ },
+ {
+  "i": 1800,
+  "en": "warm",
+  "zh": "温暖的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1800_warm.mp3"
+ },
+ {
+  "i": 1801,
+  "en": "invent",
+  "zh": "发明",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1801_invent.mp3"
+ },
+ {
+  "i": 1801,
+  "en": "way",
+  "zh": "路、方式",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1801_way.mp3"
+ },
+ {
+  "i": 1802,
+  "en": "invitation",
+  "zh": "邀请",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1802_invitation.mp3"
+ },
+ {
+  "i": 1802,
+  "en": "west",
+  "zh": "西",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1802_west.mp3"
+ },
+ {
+  "i": 1803,
+  "en": "jam",
+  "zh": "果酱",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1803_jam.mp3"
+ },
+ {
+  "i": 1803,
+  "en": "wheel",
+  "zh": "轮子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1803_wheel.mp3"
+ },
+ {
+  "i": 1804,
+  "en": "january",
+  "zh": "一月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1804_january.mp3"
+ },
+ {
+  "i": 1804,
+  "en": "while",
+  "zh": "当……时",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1804_while.mp3"
+ },
+ {
+  "i": 1805,
+  "en": "job",
+  "zh": "工作",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1805_job.mp3"
+ },
+ {
+  "i": 1805,
+  "en": "whisper",
+  "zh": "低语",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1805_whisper.mp3"
+ },
+ {
+  "i": 1806,
+  "en": "join",
+  "zh": "加入",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1806_join.mp3"
+ },
+ {
+  "i": 1806,
+  "en": "whistle",
+  "zh": "哨子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1806_whistle.mp3"
+ },
+ {
+  "i": 1807,
+  "en": "journalist",
+  "zh": "记者",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1807_journalist.mp3"
+ },
+ {
+  "i": 1807,
+  "en": "wife",
+  "zh": "妻子",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1807_wife.mp3"
+ },
+ {
+  "i": 1808,
+  "en": "journey",
+  "zh": "旅程",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1808_journey.mp3"
+ },
+ {
+  "i": 1808,
+  "en": "wifi",
+  "zh": "无线网络",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1808_wifi.mp3"
+ },
+ {
+  "i": 1809,
+  "en": "july",
+  "zh": "七月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1809_july.mp3"
+ },
+ {
+  "i": 1809,
+  "en": "wild",
+  "zh": "野生的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1809_wild.mp3"
+ },
+ {
+  "i": 1810,
+  "en": "june",
+  "zh": "六月",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1810_june.mp3"
+ },
+ {
+  "i": 1810,
+  "en": "will",
+  "zh": "将要",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1810_will.mp3"
+ },
+ {
+  "i": 1811,
+  "en": "just",
+  "zh": "刚刚",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1811_just.mp3"
+ },
+ {
+  "i": 1811,
+  "en": "william",
+  "zh": "威廉（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1811_william.mp3"
+ },
+ {
+  "i": 1812,
+  "en": "katy",
+  "zh": "凯蒂（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1812_katy.mp3"
+ },
+ {
+  "i": 1812,
+  "en": "win",
+  "zh": "赢",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1812_win.mp3"
+ },
+ {
+  "i": 1813,
+  "en": "keep",
+  "zh": "保持",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1813_keep.mp3"
+ },
+ {
+  "i": 1813,
+  "en": "wing",
+  "zh": "翅膀",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1813_wing.mp3"
+ },
+ {
+  "i": 1814,
+  "en": "key",
+  "zh": "钥匙",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1814_key.mp3"
+ },
+ {
+  "i": 1814,
+  "en": "winner",
+  "zh": "赢家",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1814_winner.mp3"
+ },
+ {
+  "i": 1815,
+  "en": "kilometre",
+  "zh": "公里",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1815_kilometre.mp3"
+ },
+ {
+  "i": 1815,
+  "en": "winter",
+  "zh": "冬天",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1815_winter.mp3"
+ },
+ {
+  "i": 1816,
+  "en": "king",
+  "zh": "国王",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1816_king.mp3"
+ },
+ {
+  "i": 1816,
+  "en": "wish",
+  "zh": "祝愿",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1816_wish.mp3"
+ },
+ {
+  "i": 1817,
+  "en": "knife",
+  "zh": "刀",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1817_knife.mp3"
+ },
+ {
+  "i": 1817,
+  "en": "without",
+  "zh": "没有",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1817_without.mp3"
+ },
+ {
+  "i": 1818,
+  "en": "land",
+  "zh": "陆地",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1818_land.mp3"
+ },
+ {
+  "i": 1818,
+  "en": "wonderful",
+  "zh": "精彩的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1818_wonderful.mp3"
+ },
+ {
+  "i": 1819,
+  "en": "language",
+  "zh": "语言",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1819_language.mp3"
+ },
+ {
+  "i": 1819,
+  "en": "wood",
+  "zh": "木头",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1819_wood.mp3"
+ },
+ {
+  "i": 1820,
+  "en": "large",
+  "zh": "大的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1820_large.mp3"
+ },
+ {
+  "i": 1820,
+  "en": "wool",
+  "zh": "羊毛",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1820_wool.mp3"
+ },
+ {
+  "i": 1821,
+  "en": "late",
+  "zh": "迟的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1821_late.mp3"
+ },
+ {
+  "i": 1821,
+  "en": "worried",
+  "zh": "担心的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1821_worried.mp3"
+ },
+ {
+  "i": 1822,
+  "en": "later",
+  "zh": "之后",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1822_later.mp3"
+ },
+ {
+  "i": 1822,
+  "en": "x-ray",
+  "zh": "X光",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1822_x-ray.mp3"
+ },
+ {
+  "i": 1823,
+  "en": "lazy",
+  "zh": "懒惰的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1823_lazy.mp3"
+ },
+ {
+  "i": 1823,
+  "en": "yet",
+  "zh": "还",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1823_yet.mp3"
+ },
+ {
+  "i": 1824,
+  "en": "leave",
+  "zh": "离开",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1824_leave.mp3"
+ },
+ {
+  "i": 1824,
+  "en": "yoghurt",
+  "zh": "酸奶",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1824_yoghurt.mp3"
+ },
+ {
+  "i": 1825,
+  "en": "left",
+  "zh": "左边",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1825_left.mp3"
+ },
+ {
+  "i": 1825,
+  "en": "you’re welcome",
+  "zh": "不客气",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1825_you-re-welcome.mp3"
+ },
+ {
+  "i": 1826,
+  "en": "lie",
+  "zh": "躺",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1826_lie.mp3"
+ },
+ {
+  "i": 1826,
+  "en": "zero",
+  "zh": "零",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1826_zero.mp3"
+ },
+ {
+  "i": 1827,
+  "en": "light",
+  "zh": "光、轻的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1827_light.mp3"
+ },
+ {
+  "i": 1828,
+  "en": "london",
+  "zh": "伦敦",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1828_london.mp3"
+ },
+ {
+  "i": 1829,
+  "en": "look after",
+  "zh": "照顾",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1829_look-after.mp3"
+ },
+ {
+  "i": 1830,
+  "en": "look like",
+  "zh": "看起来像",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1830_look-like.mp3"
+ },
+ {
+  "i": 1831,
+  "en": "lovely",
+  "zh": "可爱的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1831_lovely.mp3"
+ },
+ {
+  "i": 1832,
+  "en": "low",
+  "zh": "低的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1832_low.mp3"
+ },
+ {
+  "i": 1833,
+  "en": "lucky",
+  "zh": "幸运的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1833_lucky.mp3"
+ },
+ {
+  "i": 1834,
+  "en": "magazine",
+  "zh": "杂志",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1834_magazine.mp3"
+ },
+ {
+  "i": 1835,
+  "en": "make sure",
+  "zh": "确保",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1835_make-sure.mp3"
+ },
+ {
+  "i": 1836,
+  "en": "manager",
+  "zh": "经理",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1836_manager.mp3"
+ },
+ {
+  "i": 1837,
+  "en": "married",
+  "zh": "已婚的",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1837_married.mp3"
+ },
+ {
+  "i": 1838,
+  "en": "match",
+  "zh": "比赛",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1838_match.mp3"
+ },
+ {
+  "i": 1839,
+  "en": "maths",
+  "zh": "数学",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1839_maths.mp3"
+ },
+ {
+  "i": 1840,
+  "en": "meal",
+  "zh": "一餐",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1840_meal.mp3"
+ },
+ {
+  "i": 1841,
+  "en": "mechanic",
+  "zh": "机械师",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1841_mechanic.mp3"
+ },
+ {
+  "i": 1842,
+  "en": "medicine",
+  "zh": "药",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1842_medicine.mp3"
+ },
+ {
+  "i": 1843,
+  "en": "meet",
+  "zh": "见面",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1843_meet.mp3"
+ },
+ {
+  "i": 1844,
+  "en": "meeting",
+  "zh": "会议",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1844_meeting.mp3"
+ },
+ {
+  "i": 1845,
+  "en": "member",
+  "zh": "成员",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1845_member.mp3"
+ },
+ {
+  "i": 1846,
+  "en": "metal",
+  "zh": "金属",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1846_metal.mp3"
+ },
+ {
+  "i": 1847,
+  "en": "michael",
+  "zh": "迈克尔（人名）",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1847_michael.mp3"
+ },
+ {
+  "i": 1848,
+  "en": "midday",
+  "zh": "正午",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1848_midday.mp3"
+ },
+ {
+  "i": 1849,
+  "en": "middle",
+  "zh": "中间",
+  "type": "vocab",
+  "unit": "flyers",
+  "file": "1849_middle.mp3"
  }
 ]

@@ -1,0 +1,141 @@
+{
+ "theme": "fl_job",
+ "nameZh": "职业与身份",
+ "order": 43,
+ "stage": "flyers",
+ "units": [
+  {
+   "id": "fl_job-l1-u1",
+   "band": 1,
+   "title": "Helpers · 帮忙的人",
+   "cards": [
+    {
+     "id": "fl_job-l1-u1-c1",
+     "type": "word",
+     "en": "Fire fighter",
+     "audio": "audio/all/1738_fire-fighter.mp3",
+     "slow": "audio/all/1738_fire-fighter.mp3",
+     "image": "img/ai-fire_fighter.jpg",
+     "zh": "消防员"
+    },
+    {
+     "id": "fl_job-l1-u1-c2",
+     "type": "word",
+     "en": "Nurse",
+     "audio": "audio/all/1385_nurse.mp3",
+     "slow": "audio/all/1385_nurse.mp3",
+     "image": "img/cam-nurse.jpg",
+     "zh": "护士"
+    },
+    {
+     "id": "fl_job-l1-u1-c3",
+     "type": "word",
+     "en": "Dentist",
+     "audio": "audio/all/1274_dentist.mp3",
+     "slow": "audio/all/1274_dentist.mp3",
+     "image": "img/ai-dentist.jpg",
+     "zh": "牙医"
+    },
+    {
+     "id": "fl_job-l1-u1-c4",
+     "type": "word",
+     "en": "Waiter",
+     "audio": "audio/all/1799_waiter.mp3",
+     "slow": "audio/all/1799_waiter.mp3",
+     "image": "img/cam-waiter.jpg",
+     "zh": "服务员"
+    },
+    {
+     "id": "fl_job-l1-u1-c5",
+     "type": "word",
+     "en": "Cook",
+     "audio": "audio/all/1264_cook.mp3",
+     "slow": "audio/all/1264_cook.mp3",
+     "image": "img/ai-cook.jpg",
+     "zh": "厨师"
+    },
+    {
+     "id": "fl_job-l1-u1-c6",
+     "type": "word",
+     "en": "Farmer",
+     "audio": "audio/all/1299_farmer.mp3",
+     "slow": "audio/all/1299_farmer.mp3",
+     "image": "img/ai-farmer.jpg",
+     "zh": "农民"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "fl_job-l1-u2",
+   "band": 1,
+   "title": "Stars · 明星职业",
+   "cards": [
+    {
+     "id": "fl_job-l1-u2-c1",
+     "type": "word",
+     "en": "Singer",
+     "audio": "audio/all/1706_singer.mp3",
+     "slow": "audio/all/1706_singer.mp3",
+     "image": "img/cam-singer.jpg",
+     "zh": "歌手"
+    },
+    {
+     "id": "fl_job-l1-u2-c2",
+     "type": "word",
+     "en": "Pilot",
+     "audio": "audio/all/1644_pilot.mp3",
+     "slow": "audio/all/1644_pilot.mp3",
+     "image": "img/ai-pilot.jpg",
+     "zh": "飞行员"
+    },
+    {
+     "id": "fl_job-l1-u2-c3",
+     "type": "word",
+     "en": "Astronaut",
+     "audio": "audio/all/1626_astronaut.mp3",
+     "slow": "audio/all/1626_astronaut.mp3",
+     "image": "img/ai-astronaut.jpg",
+     "zh": "宇航员"
+    },
+    {
+     "id": "fl_job-l1-u2-c4",
+     "type": "word",
+     "en": "Photographer",
+     "audio": "audio/all/1642_photographer.mp3",
+     "slow": "audio/all/1642_photographer.mp3",
+     "image": "img/ai-photographer.jpg",
+     "zh": "摄影师"
+    },
+    {
+     "id": "fl_job-l1-u2-c5",
+     "type": "word",
+     "en": "Engineer",
+     "audio": "audio/all/1712_engineer.mp3",
+     "slow": "audio/all/1712_engineer.mp3",
+     "image": "img/ai-engineer.jpg",
+     "zh": "工程师"
+    },
+    {
+     "id": "fl_job-l1-u2-c6",
+     "type": "word",
+     "en": "Mechanic",
+     "audio": "audio/all/1841_mechanic.mp3",
+     "slow": "audio/all/1841_mechanic.mp3",
+     "image": "img/cam-mechanic.jpg",
+     "zh": "机械师"
+    },
+    {
+     "id": "fl_job-l1-u2-c7",
+     "type": "word",
+     "en": "Cook",
+     "audio": "audio/all/1264_cook.mp3",
+     "slow": "audio/all/1264_cook.mp3",
+     "image": "img/ai-cook.jpg",
+     "zh": "厨师"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}
