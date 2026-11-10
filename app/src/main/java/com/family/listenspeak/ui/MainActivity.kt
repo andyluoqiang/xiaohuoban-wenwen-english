@@ -497,18 +497,25 @@ class MainActivity : AppCompatActivity() {
             movementMethod = LinkMovementMethod()
         })
         card.addView(textTv(c.zh ?: "", 14f, hintColor()).also { it.gravity = Gravity.CENTER }, lp(mpBar()).also { it.topMargin = dp(4) })
-        // 跟读 + 回放按钮（加大，方便小朋友点按；自适应高度 + minHeight 保底不裁字）
+        // 跟读 + 回放按钮（加大 + 矢量图标，方便小朋友识别；自适应高度 + minHeight 保底不裁字）
         val row = hbox()
         recButton = Button(this).apply {
-            text = "🎤 跟读"
+            text = "跟读"
             setBackgroundTintList(ColorStateList.valueOf(0xFFFF8A65.toInt()))
             setTextColor(Color.WHITE); textSize = 22f; typeface = Typeface.DEFAULT_BOLD
+            setCompoundDrawablesRelativeWithIntrinsicBounds(R.drawable.ic_mic, 0, 0, 0)
+            setCompoundDrawableTintList(ColorStateList.valueOf(Color.WHITE))
+            val pad = dp(10); setCompoundDrawablePadding(pad)
             minHeight = dp(64); setPadding(dp(28), dp(10), dp(28), dp(10))
             setOnClickListener { toggleRec() }
         }
         row.addView(recButton, lp(wrapPx(), wrapPx()))
         val playRec = Button(this).apply {
-            text = "🔊 我的录音"; setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
+            text = "我的录音"
+            setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
+            setCompoundDrawablesRelativeWithIntrinsicBounds(R.drawable.ic_speaker, 0, 0, 0)
+            setCompoundDrawableTintList(ColorStateList.valueOf(brown()))
+            setCompoundDrawablePadding(dp(10))
             minHeight = dp(64); setPadding(dp(22), dp(10), dp(22), dp(10))
             setOnClickListener { playMyRec() }
         }
@@ -537,11 +544,11 @@ class MainActivity : AppCompatActivity() {
 
     private fun listenBottom(): LinearLayout {
         val b = vV().apply { gravity = Gravity.CENTER_HORIZONTAL; setPadding(dp(16), dp(6), dp(16), dp(20)) }
-        // 「再听一遍」：重复播放模型例句（随时可点，不受评分门槛影响），方便先听再跟读
-        val replay = cartoonBtn("再听一遍", "🔊", yellow(), brown()) { playCurrent() }
+        // 「再听一遍」：三角播放图标，重复播放模型例句（随时可点，不受评分门槛影响）
+        val replay = cartoonBtnIcon("再听一遍", R.drawable.ic_play, yellow(), brown()) { playCurrent() }
         b.addView(replay, lp(mpBar(), wrapPx()).also { it.topMargin = dp(6) })
-        // 「下一句」：跟读评分 ≥60 才显示（INVISIBLE 保持占位不跳动）
-        listenNext = cartoonBtn("下一句", "🐣", green(), Color.WHITE) { stopRec(); idx++; renderSession() }
+        // 「下一句」：向右箭头图标，跟读评分 ≥60 才显示（INVISIBLE 保持占位不跳动）
+        listenNext = cartoonBtnIcon("下一句", R.drawable.ic_arrow_right, green(), Color.WHITE) { stopRec(); idx++; renderSession() }
             .apply { visibility = View.INVISIBLE }
         b.addView(listenNext!!, lp(mpBar(), wrapPx()).also { it.topMargin = dp(8) })
         return b
@@ -714,7 +721,7 @@ class MainActivity : AppCompatActivity() {
         }
         recorder.start()
         recording = true
-        recButton?.text = "⏹ 停止"
+        recButton?.text = "停止"
         listenResult?.text = "🎙 录音中…"
         listenResult?.setTextColor(hintColor())
     }
@@ -724,7 +731,7 @@ class MainActivity : AppCompatActivity() {
         recording = false
         val pcm = recorder.stop()
         lastRecPcm = pcm
-        recButton?.text = "🎤 跟读"
+        recButton?.text = "跟读"
         val cur = curQueue().getOrNull(idx) ?: return
         if (!recorder.hasVoice(pcm)) {
             listenResult?.text = "😕 没听到，再读一次"
@@ -926,6 +933,20 @@ class MainActivity : AppCompatActivity() {
     private fun cartoonBtn(text: String, emoji: String, bg: Int, fg: Int, onClick: () -> Unit) = Button(this).apply {
         this.text = "$emoji  $text"; textSize = 19f; typeface = Typeface.DEFAULT_BOLD
         setTextColor(fg)
+        background = rounded(bg, dp(30))
+        setPadding(dp(22), dp(10), dp(22), dp(10))
+        minHeight = dp(56)
+        gravity = Gravity.CENTER
+        setOnClickListener { onClick() }
+    }
+
+    /** 带矢量图标的卡通按钮：左侧 icon + 文字（icon 颜色随前景色），指示更明确 */
+    private fun cartoonBtnIcon(text: String, icon: Int, bg: Int, fg: Int, onClick: () -> Unit) = Button(this).apply {
+        this.text = text; textSize = 19f; typeface = Typeface.DEFAULT_BOLD
+        setTextColor(fg)
+        setCompoundDrawablesRelativeWithIntrinsicBounds(icon, 0, 0, 0)
+        setCompoundDrawableTintList(ColorStateList.valueOf(fg))
+        val pad = dp(10); setCompoundDrawablePadding(pad)
         background = rounded(bg, dp(30))
         setPadding(dp(22), dp(10), dp(22), dp(10))
         minHeight = dp(56)
