@@ -1,0 +1,176 @@
+{
+ "theme": "family",
+ "nameZh": "家人与朋友",
+ "order": 11,
+ "units": [
+  {
+   "id": "family-l1-u1",
+   "band": 1,
+   "title": "My family · 我的家人",
+   "cards": [
+    {
+     "id": "family-l1-u1-c1",
+     "type": "word",
+     "en": "Mother",
+     "audio": "audio/all/1039_mother.mp3",
+     "slow": "audio/all/1039_mother.mp3",
+     "image": "img/ai-mother.jpg",
+     "zh": "妈妈"
+    },
+    {
+     "id": "family-l1-u1-c2",
+     "type": "word",
+     "en": "Brother",
+     "audio": "audio/all/816_brother.mp3",
+     "slow": "audio/all/816_brother.mp3",
+     "image": "img/cam-brother.jpg",
+     "zh": "兄弟"
+    },
+    {
+     "id": "family-l1-u1-c3",
+     "type": "word",
+     "en": "Sister",
+     "audio": "audio/all/886_sister.mp3",
+     "slow": "audio/all/886_sister.mp3",
+     "image": "img/cam-sister.jpg",
+     "zh": "姐妹"
+    },
+    {
+     "id": "family-l1-u1-c4",
+     "type": "word",
+     "en": "Grandmother",
+     "audio": "audio/all/847_grandmother.mp3",
+     "slow": "audio/all/847_grandmother.mp3",
+     "image": "img/cam-grandmother.jpg",
+     "zh": "奶奶"
+    },
+    {
+     "id": "family-l1-u1-c5",
+     "type": "word",
+     "en": "Grandfather",
+     "audio": "audio/all/845_grandfather.mp3",
+     "slow": "audio/all/845_grandfather.mp3",
+     "image": "img/cam-grandfather.jpg",
+     "zh": "爷爷"
+    },
+    {
+     "id": "family-l1-u1-c6",
+     "type": "word",
+     "en": "Grandma",
+     "audio": "audio/all/846_grandma.mp3",
+     "slow": "audio/all/846_grandma.mp3",
+     "image": "img/cam-grandma.jpg",
+     "zh": "奶奶"
+    },
+    {
+     "id": "family-l1-u1-c7",
+     "type": "word",
+     "en": "Grandpa",
+     "audio": "audio/all/848_grandpa.mp3",
+     "slow": "audio/all/848_grandpa.mp3",
+     "image": "img/cam-grandpa.jpg",
+     "zh": "爷爷"
+    },
+    {
+     "id": "family-l1-u1-c8",
+     "type": "word",
+     "en": "Baby",
+     "audio": "audio/all/804_baby.mp3",
+     "slow": "audio/all/804_baby.mp3",
+     "image": "img/cam-baby.jpg",
+     "zh": "婴儿"
+    },
+    {
+     "id": "family-l1-u1-c9",
+     "type": "word",
+     "en": "Cousin",
+     "audio": "audio/all/828_cousin.mp3",
+     "slow": "audio/all/828_cousin.mp3",
+     "image": "img/cam-cousin.jpg",
+     "zh": "表兄弟姐妹"
+    },
+    {
+     "id": "family-l1-u1-c10",
+     "type": "word",
+     "en": "Father",
+     "audio": "audio/all/993_father.mp3",
+     "slow": "audio/all/993_father.mp3",
+     "image": "img/cam-dad.jpg",
+     "zh": "爸爸"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "family-l1-u2",
+   "band": 1,
+   "title": "Friends · 朋友",
+   "cards": [
+    {
+     "id": "family-l1-u2-c1",
+     "type": "word",
+     "en": "Boy",
+     "audio": "audio/all/815_boy.mp3",
+     "slow": "audio/all/815_boy.mp3",
+     "image": "img/cam-boy.jpg",
+     "zh": "男孩"
+    },
+    {
+     "id": "family-l1-u2-c2",
+     "type": "word",
+     "en": "Girl",
+     "audio": "audio/all/844_girl.mp3",
+     "slow": "audio/all/844_girl.mp3",
+     "image": "img/cam-girl.jpg",
+     "zh": "女孩"
+    },
+    {
+     "id": "family-l1-u2-c3",
+     "type": "word",
+     "en": "Man",
+     "audio": "audio/all/862_man.mp3",
+     "slow": "audio/all/862_man.mp3",
+     "image": "img/cam-man.jpg",
+     "zh": "男人"
+    },
+    {
+     "id": "family-l1-u2-c4",
+     "type": "word",
+     "en": "Woman",
+     "audio": "audio/all/899_woman.mp3",
+     "slow": "audio/all/899_woman.mp3",
+     "image": "img/cam-woman.jpg",
+     "zh": "女人"
+    },
+    {
+     "id": "family-l1-u2-c5",
+     "type": "word",
+     "en": "Family",
+     "audio": "audio/all/835_family.mp3",
+     "slow": "audio/all/835_family.mp3",
+     "image": "img/cam-family.jpg",
+     "zh": "家庭"
+    },
+    {
+     "id": "family-l1-u2-c6",
+     "type": "word",
+     "en": "Classmate",
+     "audio": "audio/all/973_classmate.mp3",
+     "slow": "audio/all/973_classmate.mp3",
+     "image": "img/ai-classmate.jpg",
+     "zh": "同学"
+    },
+    {
+     "id": "family-l1-u2-c7",
+     "type": "word",
+     "en": "People",
+     "audio": "audio/all/871_people.mp3",
+     "slow": "audio/all/871_people.mp3",
+     "image": "img/cam-people.jpg",
+     "zh": "人们"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

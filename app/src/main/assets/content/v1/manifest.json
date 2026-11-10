@@ -112,6 +112,39 @@
    ],
    "units": 2,
    "cards": 8
+  },
+  {
+   "id": "family",
+   "nameZh": "家人与朋友",
+   "order": 11,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 16
+  },
+  {
+   "id": "rooms",
+   "nameZh": "房间与家具",
+   "order": 12,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 16
+  },
+  {
+   "id": "sports",
+   "nameZh": "运动比赛",
+   "order": 13,
+   "bandRange": [
+    1,
+    6
+   ],
+   "units": 2,
+   "cards": 13
   }
  ]
 }

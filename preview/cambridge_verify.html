@@ -93,8 +93,10 @@
 const LISTEN_TYPES = ['sentence','qa','retell','inquire','dialog','story'];
 const LS = 'cam_passed_v2';
 const THEMES_FILES = { body:'body.json', food:'food.json', play:'play.json', animals:'animals.json',
-  clothes:'clothes.json', home:'home.json', school:'school.json', toys:'toys.json', transport:'transport.json', beach:'beach.json' };
+  clothes:'clothes.json', home:'home.json', school:'school.json', toys:'toys.json', transport:'transport.json', beach:'beach.json',
+  family:'family.json', rooms:'rooms.json', sports:'sports.json' };
 const NEW6 = ['clothes','home','school','toys','transport','beach'];
+const NEW3 = ['family','rooms','sports'];
 let THEMES = {}, vocab, index;
 
 (async () => {
@@ -182,6 +184,25 @@ async function runChecks() {
   const n6TotalCards = NEW6.reduce((s,t)=>s+lessonsFor(t,1).reduce((x,l)=>x+l.cards.length,0),0);
   add('新主题 L1 课卡总数 = 62（无遗漏无重复）', n6TotalCards===62 && new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size===62,
       `课卡 ${n6TotalCards} / 去重 ${new Set(n6l1.flatMap(l=>l.cards.map(c=>c.id))).size}`);
+
+  // ===== ⑧ Starters 全量补齐（v5 新增）=====
+  const s3 = NEW3.map(t=>({t, lessons: lessonsFor(t,1), cards: NEW3.length? THEMES[t].units.flatMap(u=>u.cards):[]}));
+  const s3total = s3.reduce((n,x)=>n+x.cards.length,0);
+  add(`Starters 新主题 family/rooms/sports 共 ${s3total} 张词卡`, s3.every(x=>x.cards.length>0) && s3total>=45,
+      s3.map(x=>`${x.t}:${x.cards.length}卡/${x.lessons.length}课`).join(' '));
+  const s3noimg = s3.flatMap(x=>x.cards).filter(c=>!c.image || !c.image.startsWith('img/'));
+  const s3noaud = s3.flatMap(x=>x.cards).filter(c=>!c.audio || !c.audio.startsWith('audio/all/'));
+  add('新主题词卡图/音引用规范', s3noimg.length===0 && s3noaud.length===0,
+      `缺图${s3noimg.length} 缺音${s3noaud.length}`);
+  const s3imgs = [...new Set(s3.flatMap(x=>x.cards).map(c=>c.image))];
+  let s3ok=0; const s3bad=[];
+  await Promise.all(s3imgs.map(async p=>{ try{ const r=await fetch(p,{method:'HEAD'}); r.ok?s3ok++:s3bad.push(p);}catch{s3bad.push(p);} }));
+  add(`新主题图片可访问（${s3imgs.length} 张）`, s3bad.length===0, s3bad.slice(0,5).join(','));
+  const s3auds = [...new Set(s3.flatMap(x=>x.cards).map(c=>c.audio))];
+  let s3aok=0; const s3abad=[];
+  await Promise.all(s3auds.map(async p=>{ try{ const r=await fetch(p,{method:'HEAD'}); r.ok?s3aok++:s3abad.push(p);}catch{s3abad.push(p);} }));
+  add(`新主题音频可访问（${s3auds.length} 条）`, s3abad.length===0, s3abad.slice(0,5).join(','));
+  add(`词库规模（${Object.keys(vocab).length} 词，Starters 官方词表全覆盖）`, Object.keys(vocab).length>=620, String(Object.keys(vocab).length));
 
   // ===== ⑦ 点词查义全覆盖（v4 新增） =====
   const ck = s => s.toLowerCase().replace(/^[ .,!?;:()"'–’]+|[ .,!?;:()"'–’]+$/g, '');

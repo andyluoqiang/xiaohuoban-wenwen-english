@@ -1,0 +1,167 @@
+{
+ "theme": "rooms",
+ "nameZh": "房间与家具",
+ "order": 12,
+ "units": [
+  {
+   "id": "rooms-l1-u1",
+   "band": 1,
+   "title": "My house · 我的家",
+   "cards": [
+    {
+     "id": "rooms-l1-u1-c1",
+     "type": "word",
+     "en": "House",
+     "audio": "audio/all/855_house.mp3",
+     "slow": "audio/all/855_house.mp3",
+     "image": "img/cam-house.jpg",
+     "zh": "房子"
+    },
+    {
+     "id": "rooms-l1-u1-c2",
+     "type": "word",
+     "en": "Apartment",
+     "audio": "audio/all/802_apartment.mp3",
+     "slow": "audio/all/802_apartment.mp3",
+     "image": "img/cam-apartment.jpg",
+     "zh": "公寓"
+    },
+    {
+     "id": "rooms-l1-u1-c3",
+     "type": "word",
+     "en": "Bedroom",
+     "audio": "audio/all/811_bedroom.mp3",
+     "slow": "audio/all/811_bedroom.mp3",
+     "image": "img/cam-bedroom.jpg",
+     "zh": "卧室"
+    },
+    {
+     "id": "rooms-l1-u1-c4",
+     "type": "word",
+     "en": "Bathroom",
+     "audio": "audio/all/809_bathroom.mp3",
+     "slow": "audio/all/809_bathroom.mp3",
+     "image": "img/cam-bathroom.jpg",
+     "zh": "浴室"
+    },
+    {
+     "id": "rooms-l1-u1-c5",
+     "type": "word",
+     "en": "Living_room",
+     "audio": "audio/all/860_living-room.mp3",
+     "slow": "audio/all/860_living-room.mp3",
+     "image": "img/cam-living_room.jpg",
+     "zh": "客厅"
+    },
+    {
+     "id": "rooms-l1-u1-c6",
+     "type": "word",
+     "en": "Dining_room",
+     "audio": "audio/all/831_dining-room.mp3",
+     "slow": "audio/all/831_dining-room.mp3",
+     "image": "img/cam-dining_room.jpg",
+     "zh": "餐厅"
+    },
+    {
+     "id": "rooms-l1-u1-c7",
+     "type": "word",
+     "en": "Hall",
+     "audio": "audio/all/852_hall.mp3",
+     "slow": "audio/all/852_hall.mp3",
+     "image": "img/cam-hall.jpg",
+     "zh": "门厅"
+    },
+    {
+     "id": "rooms-l1-u1-c8",
+     "type": "word",
+     "en": "Kitchen",
+     "audio": "audio/all/571_kitchen.mp3",
+     "slow": "audio/all/571_kitchen.mp3",
+     "image": "img/cam-kitchen.jpg",
+     "zh": "厨房"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "rooms-l1-u2",
+   "band": 1,
+   "title": "Furniture · 家具",
+   "cards": [
+    {
+     "id": "rooms-l1-u2-c1",
+     "type": "word",
+     "en": "Floor",
+     "audio": "audio/all/839_floor.mp3",
+     "slow": "audio/all/839_floor.mp3",
+     "image": "img/cam-floor.jpg",
+     "zh": "地板"
+    },
+    {
+     "id": "rooms-l1-u2-c2",
+     "type": "word",
+     "en": "Wall",
+     "audio": "audio/all/897_wall.mp3",
+     "slow": "audio/all/897_wall.mp3",
+     "image": "img/cam-wall.jpg",
+     "zh": "墙"
+    },
+    {
+     "id": "rooms-l1-u2-c3",
+     "type": "word",
+     "en": "Rug",
+     "audio": "audio/all/883_rug.mp3",
+     "slow": "audio/all/883_rug.mp3",
+     "image": "img/cam-rug.jpg",
+     "zh": "地毯"
+    },
+    {
+     "id": "rooms-l1-u2-c4",
+     "type": "word",
+     "en": "Mat",
+     "audio": "audio/all/1035_mat.mp3",
+     "slow": "audio/all/1035_mat.mp3",
+     "image": "img/ai-mat.jpg",
+     "zh": "垫子"
+    },
+    {
+     "id": "rooms-l1-u2-c5",
+     "type": "word",
+     "en": "Cupboard",
+     "audio": "audio/all/829_cupboard.mp3",
+     "slow": "audio/all/829_cupboard.mp3",
+     "image": "img/cam-cupboard.jpg",
+     "zh": "橱柜"
+    },
+    {
+     "id": "rooms-l1-u2-c6",
+     "type": "word",
+     "en": "Bookcase",
+     "audio": "audio/all/812_bookcase.mp3",
+     "slow": "audio/all/812_bookcase.mp3",
+     "image": "img/cam-bookcase.jpg",
+     "zh": "书架"
+    },
+    {
+     "id": "rooms-l1-u2-c7",
+     "type": "word",
+     "en": "Armchair",
+     "audio": "audio/all/803_armchair.mp3",
+     "slow": "audio/all/803_armchair.mp3",
+     "image": "img/cam-armchair.jpg",
+     "zh": "扶手椅"
+    },
+    {
+     "id": "rooms-l1-u2-c8",
+     "type": "word",
+     "en": "Box",
+     "audio": "audio/all/814_box.mp3",
+     "slow": "audio/all/814_box.mp3",
+     "image": "img/cam-box.jpg",
+     "zh": "盒子"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "theme": "sports",
+ "nameZh": "运动比赛",
+ "order": 13,
+ "units": [
+  {
+   "id": "sports-l1-u1",
+   "band": 1,
+   "title": "Ball games · 球类",
+   "cards": [
+    {
+     "id": "sports-l1-u1-c1",
+     "type": "word",
+     "en": "Baseball",
+     "audio": "audio/all/807_baseball.mp3",
+     "slow": "audio/all/807_baseball.mp3",
+     "image": "img/cam-baseball.jpg",
+     "zh": "棒球"
+    },
+    {
+     "id": "sports-l1-u1-c2",
+     "type": "word",
+     "en": "Basketball",
+     "audio": "audio/all/808_basketball.mp3",
+     "slow": "audio/all/808_basketball.mp3",
+     "image": "img/cam-basketball.jpg",
+     "zh": "篮球"
+    },
+    {
+     "id": "sports-l1-u1-c3",
+     "type": "word",
+     "en": "Badminton",
+     "audio": "audio/all/805_badminton.mp3",
+     "slow": "audio/all/805_badminton.mp3",
+     "image": "img/cam-badminton.jpg",
+     "zh": "羽毛球"
+    },
+    {
+     "id": "sports-l1-u1-c4",
+     "type": "word",
+     "en": "Tennis",
+     "audio": "audio/all/893_tennis.mp3",
+     "slow": "audio/all/893_tennis.mp3",
+     "image": "img/cam-tennis.jpg",
+     "zh": "网球"
+    },
+    {
+     "id": "sports-l1-u1-c5",
+     "type": "word",
+     "en": "Table_tennis",
+     "audio": "audio/all/891_table-tennis.mp3",
+     "slow": "audio/all/891_table-tennis.mp3",
+     "image": "img/cam-table_tennis.jpg",
+     "zh": "乒乓球"
+    },
+    {
+     "id": "sports-l1-u1-c6",
+     "type": "word",
+     "en": "Football",
+     "audio": "audio/all/842_football.mp3",
+     "slow": "audio/all/842_football.mp3",
+     "image": "img/cam-football.jpg",
+     "zh": "足球"
+    },
+    {
+     "id": "sports-l1-u1-c7",
+     "type": "word",
+     "en": "Soccer",
+     "audio": "audio/all/887_soccer.mp3",
+     "slow": "audio/all/887_soccer.mp3",
+     "image": "img/cam-soccer.jpg",
+     "zh": "足球"
+    },
+    {
+     "id": "sports-l1-u1-c8",
+     "type": "word",
+     "en": "Tennis racket",
+     "audio": "audio/all/1104_tennis-racket.mp3",
+     "slow": "audio/all/1104_tennis-racket.mp3",
+     "image": "img/ai-tennis_racket.jpg",
+     "zh": "网球拍"
+    }
+   ],
+   "newFirst": true
+  },
+  {
+   "id": "sports-l1-u2",
+   "band": 1,
+   "title": "Let's play! · 一起玩",
+   "cards": [
+    {
+     "id": "sports-l1-u2-c1",
+     "type": "word",
+     "en": "Hockey",
+     "audio": "audio/all/854_hockey.mp3",
+     "slow": "audio/all/854_hockey.mp3",
+     "image": "img/cam-hockey.jpg",
+     "zh": "曲棍球"
+    },
+    {
+     "id": "sports-l1-u2-c2",
+     "type": "word",
+     "en": "Sport",
+     "audio": "audio/all/888_sport.mp3",
+     "slow": "audio/all/888_sport.mp3",
+     "image": "img/cam-sport.jpg",
+     "zh": "运动"
+    },
+    {
+     "id": "sports-l1-u2-c3",
+     "type": "word",
+     "en": "Fishing",
+     "audio": "audio/all/837_fishing.mp3",
+     "slow": "audio/all/837_fishing.mp3",
+     "image": "img/cam-fishing.jpg",
+     "zh": "钓鱼"
+    },
+    {
+     "id": "sports-l1-u2-c4",
+     "type": "word",
+     "en": "Playground",
+     "audio": "audio/all/1067_playground.mp3",
+     "slow": "audio/all/1067_playground.mp3",
+     "image": "img/ai-playground.jpg",
+     "zh": "游乐场"
+    },
+    {
+     "id": "sports-l1-u2-c5",
+     "type": "word",
+     "en": "Street",
+     "audio": "audio/all/1096_street.mp3",
+     "slow": "audio/all/1096_street.mp3",
+     "image": "img/ai-street.jpg",
+     "zh": "街道"
+    },
+    {
+     "id": "sports-l1-u2-c6",
+     "type": "word",
+     "en": "Tree",
+     "audio": "audio/all/895_tree.mp3",
+     "slow": "audio/all/895_tree.mp3",
+     "image": "img/cam-tree.jpg",
+     "zh": "树"
+    }
+   ],
+   "newFirst": true
+  }
+ ]
+}

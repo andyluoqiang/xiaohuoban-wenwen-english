@@ -2201,7 +2201,7 @@
   "w": "sweet",
   "zh": "甜的",
   "pos": null,
-  "img": null,
+  "img": "img/cam-sweet.jpg",
   "aud": "audio/all/740_sweet.mp3"
  },
  "swing": {
@@ -2420,5 +2420,1993 @@
   "pos": null,
   "img": "img/ice-cream.jpg",
   "aud": "audio/all/124_ice-cream.mp3"
+ },
+ "alphabet": {
+  "w": "alphabet",
+  "zh": "字母表",
+  "pos": null,
+  "img": "img/cam-alphabet.jpg",
+  "aud": "audio/all/800_alphabet.mp3"
+ },
+ "angry": {
+  "w": "angry",
+  "zh": "生气的",
+  "pos": null,
+  "img": "img/cam-angry.jpg",
+  "aud": "audio/all/801_angry.mp3"
+ },
+ "apartment": {
+  "w": "apartment",
+  "zh": "公寓",
+  "pos": null,
+  "img": "img/cam-apartment.jpg",
+  "aud": "audio/all/802_apartment.mp3"
+ },
+ "armchair": {
+  "w": "armchair",
+  "zh": "扶手椅",
+  "pos": null,
+  "img": "img/cam-armchair.jpg",
+  "aud": "audio/all/803_armchair.mp3"
+ },
+ "baby": {
+  "w": "baby",
+  "zh": "婴儿",
+  "pos": null,
+  "img": "img/cam-baby.jpg",
+  "aud": "audio/all/804_baby.mp3"
+ },
+ "badminton": {
+  "w": "badminton",
+  "zh": "羽毛球",
+  "pos": null,
+  "img": "img/cam-badminton.jpg",
+  "aud": "audio/all/805_badminton.mp3"
+ },
+ "bag": {
+  "w": "bag",
+  "zh": "包",
+  "pos": null,
+  "img": "img/cam-bag.jpg",
+  "aud": "audio/all/806_bag.mp3"
+ },
+ "baseball": {
+  "w": "baseball",
+  "zh": "棒球",
+  "pos": null,
+  "img": "img/cam-baseball.jpg",
+  "aud": "audio/all/807_baseball.mp3"
+ },
+ "basketball": {
+  "w": "basketball",
+  "zh": "篮球",
+  "pos": null,
+  "img": "img/cam-basketball.jpg",
+  "aud": "audio/all/808_basketball.mp3"
+ },
+ "bathroom": {
+  "w": "bathroom",
+  "zh": "浴室",
+  "pos": null,
+  "img": "img/cam-bathroom.jpg",
+  "aud": "audio/all/809_bathroom.mp3"
+ },
+ "beans": {
+  "w": "beans",
+  "zh": "豆子",
+  "pos": null,
+  "img": "img/cam-beans.jpg",
+  "aud": "audio/all/810_beans.mp3"
+ },
+ "bedroom": {
+  "w": "bedroom",
+  "zh": "卧室",
+  "pos": null,
+  "img": "img/cam-bedroom.jpg",
+  "aud": "audio/all/811_bedroom.mp3"
+ },
+ "bookcase": {
+  "w": "bookcase",
+  "zh": "书架",
+  "pos": null,
+  "img": "img/cam-bookcase.jpg",
+  "aud": "audio/all/812_bookcase.mp3"
+ },
+ "bookshop": {
+  "w": "bookshop",
+  "zh": "书店",
+  "pos": null,
+  "img": "img/cam-bookshop.jpg",
+  "aud": "audio/all/813_bookshop.mp3"
+ },
+ "box": {
+  "w": "box",
+  "zh": "盒子",
+  "pos": null,
+  "img": "img/cam-box.jpg",
+  "aud": "audio/all/814_box.mp3"
+ },
+ "boy": {
+  "w": "boy",
+  "zh": "男孩",
+  "pos": null,
+  "img": "img/cam-boy.jpg",
+  "aud": "audio/all/815_boy.mp3"
+ },
+ "brother": {
+  "w": "brother",
+  "zh": "兄弟",
+  "pos": null,
+  "img": "img/cam-brother.jpg",
+  "aud": "audio/all/816_brother.mp3"
+ },
+ "burger": {
+  "w": "burger",
+  "zh": "汉堡",
+  "pos": null,
+  "img": "img/cam-burger.jpg",
+  "aud": "audio/all/817_burger.mp3"
+ },
+ "candy": {
+  "w": "candy",
+  "zh": "糖果",
+  "pos": null,
+  "img": "img/cam-candy.jpg",
+  "aud": "audio/all/818_candy.mp3"
+ },
+ "carrot": {
+  "w": "carrot",
+  "zh": "胡萝卜",
+  "pos": null,
+  "img": "img/cam-carrot.jpg",
+  "aud": "audio/all/819_carrot.mp3"
+ },
+ "child": {
+  "w": "child",
+  "zh": "小孩",
+  "pos": null,
+  "img": "img/cam-child.jpg",
+  "aud": "audio/all/820_child.mp3"
+ },
+ "children": {
+  "w": "children",
+  "zh": "孩子们",
+  "pos": null,
+  "img": "img/cam-children.jpg",
+  "aud": "audio/all/821_children.mp3"
+ },
+ "chips": {
+  "w": "chips",
+  "zh": "薯条",
+  "pos": null,
+  "img": "img/cam-chips.jpg",
+  "aud": "audio/all/822_chips.mp3"
+ },
+ "chocolate": {
+  "w": "chocolate",
+  "zh": "巧克力",
+  "pos": null,
+  "img": "img/cam-chocolate.jpg",
+  "aud": "audio/all/823_chocolate.mp3"
+ },
+ "class": {
+  "w": "class",
+  "zh": "班级",
+  "pos": null,
+  "img": "img/cam-class.jpg",
+  "aud": "audio/all/824_class.mp3"
+ },
+ "classroom": {
+  "w": "classroom",
+  "zh": "教室",
+  "pos": null,
+  "img": "img/cam-classroom.jpg",
+  "aud": "audio/all/825_classroom.mp3"
+ },
+ "clothes": {
+  "w": "clothes",
+  "zh": "衣服",
+  "pos": null,
+  "img": "img/cam-clothes.jpg",
+  "aud": "audio/all/826_clothes.mp3"
+ },
+ "coconut": {
+  "w": "coconut",
+  "zh": "椰子",
+  "pos": null,
+  "img": "img/cam-coconut.jpg",
+  "aud": "audio/all/827_coconut.mp3"
+ },
+ "cousin": {
+  "w": "cousin",
+  "zh": "表兄弟姐妹",
+  "pos": null,
+  "img": "img/cam-cousin.jpg",
+  "aud": "audio/all/828_cousin.mp3"
+ },
+ "cupboard": {
+  "w": "cupboard",
+  "zh": "橱柜",
+  "pos": null,
+  "img": "img/cam-cupboard.jpg",
+  "aud": "audio/all/829_cupboard.mp3"
+ },
+ "dad": {
+  "w": "dad",
+  "zh": "爸爸",
+  "pos": null,
+  "img": "img/cam-dad.jpg",
+  "aud": "audio/all/830_dad.mp3"
+ },
+ "dining_room": {
+  "w": "dining_room",
+  "zh": "餐厅",
+  "pos": null,
+  "img": "img/cam-dining_room.jpg",
+  "aud": "audio/all/831_dining-room.mp3"
+ },
+ "drawing": {
+  "w": "drawing",
+  "zh": "图画",
+  "pos": null,
+  "img": "img/cam-drawing.jpg",
+  "aud": "audio/all/832_drawing.mp3"
+ },
+ "drive": {
+  "w": "drive",
+  "zh": "开车",
+  "pos": null,
+  "img": "img/cam-drive.jpg",
+  "aud": "audio/all/833_drive.mp3"
+ },
+ "evening": {
+  "w": "evening",
+  "zh": "傍晚",
+  "pos": null,
+  "img": "img/cam-evening.jpg",
+  "aud": "audio/all/834_evening.mp3"
+ },
+ "family": {
+  "w": "family",
+  "zh": "家庭",
+  "pos": null,
+  "img": "img/cam-family.jpg",
+  "aud": "audio/all/835_family.mp3"
+ },
+ "feet": {
+  "w": "feet",
+  "zh": "双脚",
+  "pos": null,
+  "img": "img/cam-feet.jpg",
+  "aud": "audio/all/836_feet.mp3"
+ },
+ "fishing": {
+  "w": "fishing",
+  "zh": "钓鱼",
+  "pos": null,
+  "img": "img/cam-fishing.jpg",
+  "aud": "audio/all/837_fishing.mp3"
+ },
+ "flat": {
+  "w": "flat",
+  "zh": "公寓",
+  "pos": null,
+  "img": "img/cam-flat.jpg",
+  "aud": "audio/all/838_flat.mp3"
+ },
+ "floor": {
+  "w": "floor",
+  "zh": "地板",
+  "pos": null,
+  "img": "img/cam-floor.jpg",
+  "aud": "audio/all/839_floor.mp3"
+ },
+ "flower": {
+  "w": "flower",
+  "zh": "花",
+  "pos": null,
+  "img": "img/cam-flower.jpg",
+  "aud": "audio/all/840_flower.mp3"
+ },
+ "fly_plane": {
+  "w": "fly_plane",
+  "zh": "开飞机",
+  "pos": null,
+  "img": "img/cam-fly_plane.jpg",
+  "aud": "audio/all/841_fly-plane.mp3"
+ },
+ "football": {
+  "w": "football",
+  "zh": "足球",
+  "pos": null,
+  "img": "img/cam-football.jpg",
+  "aud": "audio/all/842_football.mp3"
+ },
+ "fries": {
+  "w": "fries",
+  "zh": "薯条",
+  "pos": null,
+  "img": "img/cam-fries.jpg",
+  "aud": "audio/all/843_fries.mp3"
+ },
+ "girl": {
+  "w": "girl",
+  "zh": "女孩",
+  "pos": null,
+  "img": "img/cam-girl.jpg",
+  "aud": "audio/all/844_girl.mp3"
+ },
+ "grandfather": {
+  "w": "grandfather",
+  "zh": "爷爷",
+  "pos": null,
+  "img": "img/cam-grandfather.jpg",
+  "aud": "audio/all/845_grandfather.mp3"
+ },
+ "grandma": {
+  "w": "grandma",
+  "zh": "奶奶",
+  "pos": null,
+  "img": "img/cam-grandma.jpg",
+  "aud": "audio/all/846_grandma.mp3"
+ },
+ "grandmother": {
+  "w": "grandmother",
+  "zh": "奶奶",
+  "pos": null,
+  "img": "img/cam-grandmother.jpg",
+  "aud": "audio/all/847_grandmother.mp3"
+ },
+ "grandpa": {
+  "w": "grandpa",
+  "zh": "爷爷",
+  "pos": null,
+  "img": "img/cam-grandpa.jpg",
+  "aud": "audio/all/848_grandpa.mp3"
+ },
+ "grapes": {
+  "w": "grapes",
+  "zh": "葡萄",
+  "pos": null,
+  "img": "img/cam-grapes.jpg",
+  "aud": "audio/all/849_grapes.mp3"
+ },
+ "grey": {
+  "w": "grey",
+  "zh": "灰色",
+  "pos": null,
+  "img": "img/cam-grey.jpg",
+  "aud": "audio/all/850_grey.mp3"
+ },
+ "guitar": {
+  "w": "guitar",
+  "zh": "吉他",
+  "pos": null,
+  "img": "img/cam-guitar.jpg",
+  "aud": "audio/all/851_guitar.mp3"
+ },
+ "hall": {
+  "w": "hall",
+  "zh": "门厅",
+  "pos": null,
+  "img": "img/cam-hall.jpg",
+  "aud": "audio/all/852_hall.mp3"
+ },
+ "hit": {
+  "w": "hit",
+  "zh": "打",
+  "pos": null,
+  "img": "img/cam-hit.jpg",
+  "aud": "audio/all/853_hit.mp3"
+ },
+ "hockey": {
+  "w": "hockey",
+  "zh": "曲棍球",
+  "pos": null,
+  "img": "img/cam-hockey.jpg",
+  "aud": "audio/all/854_hockey.mp3"
+ },
+ "house": {
+  "w": "house",
+  "zh": "房子",
+  "pos": null,
+  "img": "img/cam-house.jpg",
+  "aud": "audio/all/855_house.mp3"
+ },
+ "lemon": {
+  "w": "lemon",
+  "zh": "柠檬",
+  "pos": null,
+  "img": "img/cam-lemon.jpg",
+  "aud": "audio/all/856_lemon.mp3"
+ },
+ "lemonade": {
+  "w": "lemonade",
+  "zh": "柠檬水",
+  "pos": null,
+  "img": "img/cam-lemonade.jpg",
+  "aud": "audio/all/857_lemonade.mp3"
+ },
+ "letter": {
+  "w": "letter",
+  "zh": "信",
+  "pos": null,
+  "img": "img/cam-letter.jpg",
+  "aud": "audio/all/858_letter.mp3"
+ },
+ "lime": {
+  "w": "lime",
+  "zh": "青柠",
+  "pos": null,
+  "img": "img/cam-lime.jpg",
+  "aud": "audio/all/859_lime.mp3"
+ },
+ "living_room": {
+  "w": "living_room",
+  "zh": "客厅",
+  "pos": null,
+  "img": "img/cam-living_room.jpg",
+  "aud": "audio/all/860_living-room.mp3"
+ },
+ "lunch": {
+  "w": "lunch",
+  "zh": "午餐",
+  "pos": null,
+  "img": "img/cam-lunch.jpg",
+  "aud": "audio/all/861_lunch.mp3"
+ },
+ "man": {
+  "w": "man",
+  "zh": "男人",
+  "pos": null,
+  "img": "img/cam-man.jpg",
+  "aud": "audio/all/862_man.mp3"
+ },
+ "mango": {
+  "w": "mango",
+  "zh": "芒果",
+  "pos": null,
+  "img": "img/cam-mango.jpg",
+  "aud": "audio/all/863_mango.mp3"
+ },
+ "meat": {
+  "w": "meat",
+  "zh": "肉",
+  "pos": null,
+  "img": "img/cam-meat.jpg",
+  "aud": "audio/all/864_meat.mp3"
+ },
+ "men": {
+  "w": "men",
+  "zh": "男人们",
+  "pos": null,
+  "img": "img/cam-men.jpg",
+  "aud": "audio/all/865_men.mp3"
+ },
+ "mice": {
+  "w": "mice",
+  "zh": "老鼠（复数）",
+  "pos": null,
+  "img": "img/cam-mice.jpg",
+  "aud": "audio/all/866_mice.mp3"
+ },
+ "onion": {
+  "w": "onion",
+  "zh": "洋葱",
+  "pos": null,
+  "img": "img/cam-onion.jpg",
+  "aud": "audio/all/867_onion.mp3"
+ },
+ "paint": {
+  "w": "paint",
+  "zh": "画画",
+  "pos": null,
+  "img": "img/cam-paint.jpg",
+  "aud": "audio/all/868_paint.mp3"
+ },
+ "painting": {
+  "w": "painting",
+  "zh": "画作",
+  "pos": null,
+  "img": "img/cam-painting.jpg",
+  "aud": "audio/all/869_painting.mp3"
+ },
+ "peas": {
+  "w": "peas",
+  "zh": "豌豆",
+  "pos": null,
+  "img": "img/cam-peas.jpg",
+  "aud": "audio/all/870_peas.mp3"
+ },
+ "people": {
+  "w": "people",
+  "zh": "人们",
+  "pos": null,
+  "img": "img/cam-people.jpg",
+  "aud": "audio/all/871_people.mp3"
+ },
+ "person": {
+  "w": "person",
+  "zh": "人",
+  "pos": null,
+  "img": "img/cam-person.jpg",
+  "aud": "audio/all/872_person.mp3"
+ },
+ "phone": {
+  "w": "phone",
+  "zh": "电话",
+  "pos": null,
+  "img": "img/cam-phone.jpg",
+  "aud": "audio/all/873_phone.mp3"
+ },
+ "piano": {
+  "w": "piano",
+  "zh": "钢琴",
+  "pos": null,
+  "img": "img/cam-piano.jpg",
+  "aud": "audio/all/874_piano.mp3"
+ },
+ "picture": {
+  "w": "picture",
+  "zh": "图片",
+  "pos": null,
+  "img": "img/cam-picture.jpg",
+  "aud": "audio/all/875_picture.mp3"
+ },
+ "pineapple": {
+  "w": "pineapple",
+  "zh": "菠萝",
+  "pos": null,
+  "img": "img/cam-pineapple.jpg",
+  "aud": "audio/all/876_pineapple.mp3"
+ },
+ "pink": {
+  "w": "pink",
+  "zh": "粉色",
+  "pos": null,
+  "img": "img/cam-pink.jpg",
+  "aud": "audio/all/877_pink.mp3"
+ },
+ "potato": {
+  "w": "potato",
+  "zh": "土豆",
+  "pos": null,
+  "img": "img/cam-potato.jpg",
+  "aud": "audio/all/878_potato.mp3"
+ },
+ "purple": {
+  "w": "purple",
+  "zh": "紫色",
+  "pos": null,
+  "img": "img/cam-purple.jpg",
+  "aud": "audio/all/879_purple.mp3"
+ },
+ "radio": {
+  "w": "radio",
+  "zh": "收音机",
+  "pos": null,
+  "img": "img/cam-radio.jpg",
+  "aud": "audio/all/880_radio.mp3"
+ },
+ "room": {
+  "w": "room",
+  "zh": "房间",
+  "pos": null,
+  "img": "img/cam-room.jpg",
+  "aud": "audio/all/881_room.mp3"
+ },
+ "rubber": {
+  "w": "rubber",
+  "zh": "橡皮",
+  "pos": null,
+  "img": "img/cam-rubber.jpg",
+  "aud": "audio/all/882_rubber.mp3"
+ },
+ "rug": {
+  "w": "rug",
+  "zh": "地毯",
+  "pos": null,
+  "img": "img/cam-rug.jpg",
+  "aud": "audio/all/883_rug.mp3"
+ },
+ "sausage": {
+  "w": "sausage",
+  "zh": "香肠",
+  "pos": null,
+  "img": "img/cam-sausage.jpg",
+  "aud": "audio/all/884_sausage.mp3"
+ },
+ "sing": {
+  "w": "sing",
+  "zh": "唱歌",
+  "pos": null,
+  "img": "img/cam-sing.jpg",
+  "aud": "audio/all/885_sing.mp3"
+ },
+ "sister": {
+  "w": "sister",
+  "zh": "姐妹",
+  "pos": null,
+  "img": "img/cam-sister.jpg",
+  "aud": "audio/all/886_sister.mp3"
+ },
+ "soccer": {
+  "w": "soccer",
+  "zh": "足球",
+  "pos": null,
+  "img": "img/cam-soccer.jpg",
+  "aud": "audio/all/887_soccer.mp3"
+ },
+ "sport": {
+  "w": "sport",
+  "zh": "运动",
+  "pos": null,
+  "img": "img/cam-sport.jpg",
+  "aud": "audio/all/888_sport.mp3"
+ },
+ "store": {
+  "w": "store",
+  "zh": "商店",
+  "pos": null,
+  "img": "img/cam-store.jpg",
+  "aud": "audio/all/889_store.mp3"
+ },
+ "table_tennis": {
+  "w": "table_tennis",
+  "zh": "乒乓球",
+  "pos": null,
+  "img": "img/cam-table_tennis.jpg",
+  "aud": "audio/all/891_table-tennis.mp3"
+ },
+ "television": {
+  "w": "television",
+  "zh": "电视",
+  "pos": null,
+  "img": "img/cam-television.jpg",
+  "aud": "audio/all/892_television.mp3"
+ },
+ "tennis": {
+  "w": "tennis",
+  "zh": "网球",
+  "pos": null,
+  "img": "img/cam-tennis.jpg",
+  "aud": "audio/all/893_tennis.mp3"
+ },
+ "tomato": {
+  "w": "tomato",
+  "zh": "西红柿",
+  "pos": null,
+  "img": "img/cam-tomato.jpg",
+  "aud": "audio/all/894_tomato.mp3"
+ },
+ "tree": {
+  "w": "tree",
+  "zh": "树",
+  "pos": null,
+  "img": "img/cam-tree.jpg",
+  "aud": "audio/all/895_tree.mp3"
+ },
+ "truck": {
+  "w": "truck",
+  "zh": "卡车",
+  "pos": null,
+  "img": "img/cam-truck.jpg",
+  "aud": "audio/all/896_truck.mp3"
+ },
+ "wall": {
+  "w": "wall",
+  "zh": "墙",
+  "pos": null,
+  "img": "img/cam-wall.jpg",
+  "aud": "audio/all/897_wall.mp3"
+ },
+ "watermelon": {
+  "w": "watermelon",
+  "zh": "西瓜",
+  "pos": null,
+  "img": "img/cam-watermelon.jpg",
+  "aud": "audio/all/898_watermelon.mp3"
+ },
+ "woman": {
+  "w": "woman",
+  "zh": "女人",
+  "pos": null,
+  "img": "img/cam-woman.jpg",
+  "aud": "audio/all/899_woman.mp3"
+ },
+ "women": {
+  "w": "women",
+  "zh": "女人们",
+  "pos": null,
+  "img": "img/cam-women.jpg",
+  "aud": "audio/all/900_women.mp3"
+ },
+ "yellow": {
+  "w": "yellow",
+  "zh": "黄色",
+  "pos": null,
+  "img": "img/cam-yellow.jpg",
+  "aud": "audio/all/901_yellow.mp3"
+ },
+ "a lot": {
+  "w": "a lot",
+  "zh": "很多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/950_a-lot.mp3"
+ },
+ "a lot of": {
+  "w": "a lot of",
+  "zh": "许多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/951_a-lot-of.mp3"
+ },
+ "about": {
+  "w": "about",
+  "zh": "关于",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/952_about.mp3"
+ },
+ "add": {
+  "w": "add",
+  "zh": "添加",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/953_add.mp3"
+ },
+ "again": {
+  "w": "again",
+  "zh": "再一次",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/954_again.mp3"
+ },
+ "answer": {
+  "w": "answer",
+  "zh": "回答",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/955_answer.mp3"
+ },
+ "ask": {
+  "w": "ask",
+  "zh": "问",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/956_ask.mp3"
+ },
+ "baseball cap": {
+  "w": "baseball cap",
+  "zh": "棒球帽",
+  "pos": null,
+  "img": "img/ai-baseball_cap.jpg",
+  "aud": "audio/all/957_baseball-cap.mp3"
+ },
+ "beach": {
+  "w": "beach",
+  "zh": "海滩",
+  "pos": null,
+  "img": "img/ai-beach.jpg",
+  "aud": "audio/all/958_beach.mp3"
+ },
+ "bean": {
+  "w": "bean",
+  "zh": "豆子",
+  "pos": null,
+  "img": "img/ai-bean.jpg",
+  "aud": "audio/all/959_bean.mp3"
+ },
+ "beautiful": {
+  "w": "beautiful",
+  "zh": "美丽的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/960_beautiful.mp3"
+ },
+ "behind": {
+  "w": "behind",
+  "zh": "在……后面",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/961_behind.mp3"
+ },
+ "between": {
+  "w": "between",
+  "zh": "在……之间",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/962_between.mp3"
+ },
+ "birthday": {
+  "w": "birthday",
+  "zh": "生日",
+  "pos": null,
+  "img": "img/ai-birthday.jpg",
+  "aud": "audio/all/963_birthday.mp3"
+ },
+ "blue": {
+  "w": "blue",
+  "zh": "蓝色",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/964_blue.mp3"
+ },
+ "board game": {
+  "w": "board game",
+  "zh": "桌游",
+  "pos": null,
+  "img": "img/ai-board_game.jpg",
+  "aud": "audio/all/965_board-game.mp3"
+ },
+ "boots": {
+  "w": "boots",
+  "zh": "靴子",
+  "pos": null,
+  "img": "img/ai-boots.jpg",
+  "aud": "audio/all/966_boots.mp3"
+ },
+ "bounce": {
+  "w": "bounce",
+  "zh": "弹跳",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/967_bounce.mp3"
+ },
+ "brown": {
+  "w": "brown",
+  "zh": "棕色",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/968_brown.mp3"
+ },
+ "but": {
+  "w": "but",
+  "zh": "但是",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/969_but.mp3"
+ },
+ "bye": {
+  "w": "bye",
+  "zh": "再见",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/970_bye.mp3"
+ },
+ "choose": {
+  "w": "choose",
+  "zh": "选择",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/972_choose.mp3"
+ },
+ "classmate": {
+  "w": "classmate",
+  "zh": "同学",
+  "pos": null,
+  "img": "img/ai-classmate.jpg",
+  "aud": "audio/all/973_classmate.mp3"
+ },
+ "clean": {
+  "w": "clean",
+  "zh": "干净的、打扫",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/974_clean.mp3"
+ },
+ "close": {
+  "w": "close",
+  "zh": "关上",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/975_close.mp3"
+ },
+ "closed": {
+  "w": "closed",
+  "zh": "关闭的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/976_closed.mp3"
+ },
+ "colour": {
+  "w": "colour",
+  "zh": "颜色",
+  "pos": null,
+  "img": "img/ai-colour.jpg",
+  "aud": "audio/all/977_colour.mp3"
+ },
+ "come": {
+  "w": "come",
+  "zh": "来",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/978_come.mp3"
+ },
+ "complete": {
+  "w": "complete",
+  "zh": "完成",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/979_complete.mp3"
+ },
+ "cool": {
+  "w": "cool",
+  "zh": "酷的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/980_cool.mp3"
+ },
+ "correct": {
+  "w": "correct",
+  "zh": "正确的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/981_correct.mp3"
+ },
+ "count": {
+  "w": "count",
+  "zh": "数数",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/982_count.mp3"
+ },
+ "crayon": {
+  "w": "crayon",
+  "zh": "蜡笔",
+  "pos": null,
+  "img": "img/ai-crayon.jpg",
+  "aud": "audio/all/983_crayon.mp3"
+ },
+ "cross": {
+  "w": "cross",
+  "zh": "穿过",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/984_cross.mp3"
+ },
+ "dining room": {
+  "w": "dining room",
+  "zh": "餐厅",
+  "pos": null,
+  "img": "img/ai-dining_room.jpg",
+  "aud": "audio/all/985_dining-room.mp3"
+ },
+ "dirty": {
+  "w": "dirty",
+  "zh": "脏的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/986_dirty.mp3"
+ },
+ "double": {
+  "w": "double",
+  "zh": "双倍的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/987_double.mp3"
+ },
+ "end": {
+  "w": "end",
+  "zh": "结束",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/988_end.mp3"
+ },
+ "english": {
+  "w": "english",
+  "zh": "英语",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/989_english.mp3"
+ },
+ "enjoy": {
+  "w": "enjoy",
+  "zh": "享受",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/990_enjoy.mp3"
+ },
+ "example": {
+  "w": "example",
+  "zh": "例子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/991_example.mp3"
+ },
+ "fantastic": {
+  "w": "fantastic",
+  "zh": "极好的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/992_fantastic.mp3"
+ },
+ "father": {
+  "w": "father",
+  "zh": "爸爸",
+  "pos": null,
+  "img": "img/cam-dad.jpg",
+  "aud": "audio/all/993_father.mp3"
+ },
+ "find": {
+  "w": "find",
+  "zh": "找到",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/994_find.mp3"
+ },
+ "food": {
+  "w": "food",
+  "zh": "食物",
+  "pos": null,
+  "img": "img/ai-food.jpg",
+  "aud": "audio/all/995_food.mp3"
+ },
+ "from": {
+  "w": "from",
+  "zh": "来自",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/996_from.mp3"
+ },
+ "game": {
+  "w": "game",
+  "zh": "游戏",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/997_game.mp3"
+ },
+ "get": {
+  "w": "get",
+  "zh": "得到",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/998_get.mp3"
+ },
+ "go to bed": {
+  "w": "go to bed",
+  "zh": "上床睡觉",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/999_go-to-bed.mp3"
+ },
+ "go to sleep": {
+  "w": "go to sleep",
+  "zh": "入睡",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1000_go-to-sleep.mp3"
+ },
+ "good": {
+  "w": "good",
+  "zh": "好的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1001_good.mp3"
+ },
+ "goodbye": {
+  "w": "goodbye",
+  "zh": "再见",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1002_goodbye.mp3"
+ },
+ "gray": {
+  "w": "gray",
+  "zh": "灰色",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1003_gray.mp3"
+ },
+ "great": {
+  "w": "great",
+  "zh": "很棒的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1004_great.mp3"
+ },
+ "green": {
+  "w": "green",
+  "zh": "绿色",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1005_green.mp3"
+ },
+ "happy": {
+  "w": "happy",
+  "zh": "开心的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1006_happy.mp3"
+ },
+ "have got": {
+  "w": "have got",
+  "zh": "有",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1007_have-got.mp3"
+ },
+ "he": {
+  "w": "he",
+  "zh": "他",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1008_he.mp3"
+ },
+ "hello": {
+  "w": "hello",
+  "zh": "你好",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1009_hello.mp3"
+ },
+ "her": {
+  "w": "her",
+  "zh": "她的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1010_her.mp3"
+ },
+ "hers": {
+  "w": "hers",
+  "zh": "她的（名词性）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1011_hers.mp3"
+ },
+ "hi": {
+  "w": "hi",
+  "zh": "嗨",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1012_hi.mp3"
+ },
+ "him": {
+  "w": "him",
+  "zh": "他（宾格）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1013_him.mp3"
+ },
+ "his": {
+  "w": "his",
+  "zh": "他的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1014_his.mp3"
+ },
+ "hobby": {
+  "w": "hobby",
+  "zh": "爱好",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1015_hobby.mp3"
+ },
+ "hold": {
+  "w": "hold",
+  "zh": "握住",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1016_hold.mp3"
+ },
+ "home": {
+  "w": "home",
+  "zh": "家",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1017_home.mp3"
+ },
+ "how many": {
+  "w": "how many",
+  "zh": "多少个",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1018_how-many.mp3"
+ },
+ "how old": {
+  "w": "how old",
+  "zh": "几岁",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1019_how-old.mp3"
+ },
+ "in front of": {
+  "w": "in front of",
+  "zh": "在……前面",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1020_in-front-of.mp3"
+ },
+ "its": {
+  "w": "its",
+  "zh": "它的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1021_its.mp3"
+ },
+ "kid": {
+  "w": "kid",
+  "zh": "小孩",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1022_kid.mp3"
+ },
+ "kiwi": {
+  "w": "kiwi",
+  "zh": "猕猴桃",
+  "pos": null,
+  "img": "img/ai-kiwi.jpg",
+  "aud": "audio/all/1023_kiwi.mp3"
+ },
+ "know": {
+  "w": "know",
+  "zh": "知道",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1024_know.mp3"
+ },
+ "learn": {
+  "w": "learn",
+  "zh": "学习",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1025_learn.mp3"
+ },
+ "lesson": {
+  "w": "lesson",
+  "zh": "课",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1026_lesson.mp3"
+ },
+ "line": {
+  "w": "line",
+  "zh": "线、排队",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1028_line.mp3"
+ },
+ "live": {
+  "w": "live",
+  "zh": "住",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1029_live.mp3"
+ },
+ "living room": {
+  "w": "living room",
+  "zh": "客厅",
+  "pos": null,
+  "img": "img/ai-living_room.jpg",
+  "aud": "audio/all/1030_living-room.mp3"
+ },
+ "look at": {
+  "w": "look at",
+  "zh": "看",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1031_look-at.mp3"
+ },
+ "lots": {
+  "w": "lots",
+  "zh": "许多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1032_lots.mp3"
+ },
+ "lots of": {
+  "w": "lots of",
+  "zh": "许多",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1033_lots-of.mp3"
+ },
+ "make": {
+  "w": "make",
+  "zh": "制作",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1034_make.mp3"
+ },
+ "mat": {
+  "w": "mat",
+  "zh": "垫子",
+  "pos": null,
+  "img": "img/ai-mat.jpg",
+  "aud": "audio/all/1035_mat.mp3"
+ },
+ "meatballs": {
+  "w": "meatballs",
+  "zh": "肉丸",
+  "pos": null,
+  "img": "img/ai-meatballs.jpg",
+  "aud": "audio/all/1036_meatballs.mp3"
+ },
+ "mine": {
+  "w": "mine",
+  "zh": "我的（名词性）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1037_mine.mp3"
+ },
+ "miss": {
+  "w": "miss",
+  "zh": "错过、想念",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1038_miss.mp3"
+ },
+ "mother": {
+  "w": "mother",
+  "zh": "妈妈",
+  "pos": null,
+  "img": "img/ai-mother.jpg",
+  "aud": "audio/all/1039_mother.mp3"
+ },
+ "mr": {
+  "w": "mr",
+  "zh": "先生",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1040_mr.mp3"
+ },
+ "mrs": {
+  "w": "mrs",
+  "zh": "夫人",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1041_mrs.mp3"
+ },
+ "mum": {
+  "w": "mum",
+  "zh": "妈妈",
+  "pos": null,
+  "img": "img/ai-mother.jpg",
+  "aud": "audio/all/1042_mum.mp3"
+ },
+ "name": {
+  "w": "name",
+  "zh": "名字",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1043_name.mp3"
+ },
+ "new": {
+  "w": "new",
+  "zh": "新的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1044_new.mp3"
+ },
+ "next to": {
+  "w": "next to",
+  "zh": "在……旁边",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1045_next-to.mp3"
+ },
+ "nice": {
+  "w": "nice",
+  "zh": "好的、友善的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1046_nice.mp3"
+ },
+ "night": {
+  "w": "night",
+  "zh": "夜晚",
+  "pos": null,
+  "img": "img/ai-night.jpg",
+  "aud": "audio/all/1047_night.mp3"
+ },
+ "no": {
+  "w": "no",
+  "zh": "不",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1048_no.mp3"
+ },
+ "not": {
+  "w": "not",
+  "zh": "不是",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1049_not.mp3"
+ },
+ "now": {
+  "w": "now",
+  "zh": "现在",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1050_now.mp3"
+ },
+ "number": {
+  "w": "number",
+  "zh": "数字",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1051_number.mp3"
+ },
+ "oh dear": {
+  "w": "oh dear",
+  "zh": "哎呀",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1052_oh-dear.mp3"
+ },
+ "ok": {
+  "w": "ok",
+  "zh": "好的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1053_ok.mp3"
+ },
+ "old": {
+  "w": "old",
+  "zh": "旧的、年长的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1054_old.mp3"
+ },
+ "or": {
+  "w": "or",
+  "zh": "或者",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1055_or.mp3"
+ },
+ "our": {
+  "w": "our",
+  "zh": "我们的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1056_our.mp3"
+ },
+ "ours": {
+  "w": "ours",
+  "zh": "我们的（名词性）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1057_ours.mp3"
+ },
+ "page": {
+  "w": "page",
+  "zh": "页",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1058_page.mp3"
+ },
+ "paper": {
+  "w": "paper",
+  "zh": "纸",
+  "pos": null,
+  "img": "img/ai-paper.jpg",
+  "aud": "audio/all/1059_paper.mp3"
+ },
+ "pardon": {
+  "w": "pardon",
+  "zh": "请再说一遍",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1060_pardon.mp3"
+ },
+ "part": {
+  "w": "part",
+  "zh": "部分",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1061_part.mp3"
+ },
+ "pat": {
+  "w": "pat",
+  "zh": "轻拍",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1062_pat.mp3"
+ },
+ "pea": {
+  "w": "pea",
+  "zh": "豌豆",
+  "pos": null,
+  "img": "img/ai-pea.jpg",
+  "aud": "audio/all/1063_pea.mp3"
+ },
+ "photo": {
+  "w": "photo",
+  "zh": "照片",
+  "pos": null,
+  "img": "img/ai-photo.jpg",
+  "aud": "audio/all/1064_photo.mp3"
+ },
+ "pick up": {
+  "w": "pick up",
+  "zh": "捡起",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1065_pick-up.mp3"
+ },
+ "pie": {
+  "w": "pie",
+  "zh": "派",
+  "pos": null,
+  "img": "img/ai-pie.jpg",
+  "aud": "audio/all/1066_pie.mp3"
+ },
+ "playground": {
+  "w": "playground",
+  "zh": "游乐场",
+  "pos": null,
+  "img": "img/ai-playground.jpg",
+  "aud": "audio/all/1067_playground.mp3"
+ },
+ "poster": {
+  "w": "poster",
+  "zh": "海报",
+  "pos": null,
+  "img": "img/ai-poster.jpg",
+  "aud": "audio/all/1069_poster.mp3"
+ },
+ "question": {
+  "w": "question",
+  "zh": "问题",
+  "pos": null,
+  "img": "img/ai-question.jpg",
+  "aud": "audio/all/1070_question.mp3"
+ },
+ "read": {
+  "w": "read",
+  "zh": "读",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1071_read.mp3"
+ },
+ "really": {
+  "w": "really",
+  "zh": "真的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1072_really.mp3"
+ },
+ "right": {
+  "w": "right",
+  "zh": "右边、对的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1073_right.mp3"
+ },
+ "sad": {
+  "w": "sad",
+  "zh": "伤心的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1074_sad.mp3"
+ },
+ "scary": {
+  "w": "scary",
+  "zh": "吓人的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1075_scary.mp3"
+ },
+ "school": {
+  "w": "school",
+  "zh": "学校",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1076_school.mp3"
+ },
+ "see you": {
+  "w": "see you",
+  "zh": "再见",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1077_see-you.mp3"
+ },
+ "sentence": {
+  "w": "sentence",
+  "zh": "句子",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1078_sentence.mp3"
+ },
+ "ship": {
+  "w": "ship",
+  "zh": "轮船",
+  "pos": null,
+  "img": "img/ai-ship.jpg",
+  "aud": "audio/all/1079_ship.mp3"
+ },
+ "shop": {
+  "w": "shop",
+  "zh": "商店",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1080_shop.mp3"
+ },
+ "short": {
+  "w": "short",
+  "zh": "短的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1081_short.mp3"
+ },
+ "shorts": {
+  "w": "shorts",
+  "zh": "短裤",
+  "pos": null,
+  "img": "img/ai-shorts.jpg",
+  "aud": "audio/all/1082_shorts.mp3"
+ },
+ "show": {
+  "w": "show",
+  "zh": "展示",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1083_show.mp3"
+ },
+ "silly": {
+  "w": "silly",
+  "zh": "傻乎乎的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1084_silly.mp3"
+ },
+ "sit": {
+  "w": "sit",
+  "zh": "坐",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1085_sit.mp3"
+ },
+ "skateboard": {
+  "w": "skateboard",
+  "zh": "滑板",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1086_skateboard.mp3"
+ },
+ "skateboarding": {
+  "w": "skateboarding",
+  "zh": "玩滑板",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1087_skateboarding.mp3"
+ },
+ "sleep": {
+  "w": "sleep",
+  "zh": "睡觉",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1088_sleep.mp3"
+ },
+ "small": {
+  "w": "small",
+  "zh": "小的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1089_small.mp3"
+ },
+ "song": {
+  "w": "song",
+  "zh": "歌曲",
+  "pos": null,
+  "img": "img/ai-song.jpg",
+  "aud": "audio/all/1090_song.mp3"
+ },
+ "sorry": {
+  "w": "sorry",
+  "zh": "抱歉",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1091_sorry.mp3"
+ },
+ "spell": {
+  "w": "spell",
+  "zh": "拼写",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1092_spell.mp3"
+ },
+ "stand": {
+  "w": "stand",
+  "zh": "站",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1093_stand.mp3"
+ },
+ "start": {
+  "w": "start",
+  "zh": "开始",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1094_start.mp3"
+ },
+ "story": {
+  "w": "story",
+  "zh": "故事",
+  "pos": null,
+  "img": "img/ai-story.jpg",
+  "aud": "audio/all/1095_story.mp3"
+ },
+ "street": {
+  "w": "street",
+  "zh": "街道",
+  "pos": null,
+  "img": "img/ai-street.jpg",
+  "aud": "audio/all/1096_street.mp3"
+ },
+ "t-shirt": {
+  "w": "t-shirt",
+  "zh": "T恤",
+  "pos": null,
+  "img": "img/ai-t-shirt.jpg",
+  "aud": "audio/all/1097_t-shirt.mp3"
+ },
+ "table tennis": {
+  "w": "table tennis",
+  "zh": "乒乓球",
+  "pos": null,
+  "img": "img/ai-table_tennis.jpg",
+  "aud": "audio/all/1098_table-tennis.mp3"
+ },
+ "tablet": {
+  "w": "tablet",
+  "zh": "平板电脑",
+  "pos": null,
+  "img": "img/ai-tablet.jpg",
+  "aud": "audio/all/1099_tablet.mp3"
+ },
+ "take a photo": {
+  "w": "take a photo",
+  "zh": "拍照",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1100_take-a-photo.mp3"
+ },
+ "talk": {
+  "w": "talk",
+  "zh": "说话",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1101_talk.mp3"
+ },
+ "teddy": {
+  "w": "teddy",
+  "zh": "泰迪熊",
+  "pos": null,
+  "img": "img/ai-teddy.jpg",
+  "aud": "audio/all/1102_teddy.mp3"
+ },
+ "tell": {
+  "w": "tell",
+  "zh": "告诉",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1103_tell.mp3"
+ },
+ "tennis racket": {
+  "w": "tennis racket",
+  "zh": "网球拍",
+  "pos": null,
+  "img": "img/ai-tennis_racket.jpg",
+  "aud": "audio/all/1104_tennis-racket.mp3"
+ },
+ "thank you": {
+  "w": "thank you",
+  "zh": "谢谢",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1105_thank-you.mp3"
+ },
+ "thanks": {
+  "w": "thanks",
+  "zh": "谢谢",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1106_thanks.mp3"
+ },
+ "that": {
+  "w": "that",
+  "zh": "那个",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1107_that.mp3"
+ },
+ "their": {
+  "w": "their",
+  "zh": "他们的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1108_their.mp3"
+ },
+ "theirs": {
+  "w": "theirs",
+  "zh": "他们的（名词性）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1109_theirs.mp3"
+ },
+ "them": {
+  "w": "them",
+  "zh": "他们（宾格）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1110_them.mp3"
+ },
+ "then": {
+  "w": "then",
+  "zh": "然后",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1111_then.mp3"
+ },
+ "there": {
+  "w": "there",
+  "zh": "那里",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1112_there.mp3"
+ },
+ "these": {
+  "w": "these",
+  "zh": "这些",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1113_these.mp3"
+ },
+ "they": {
+  "w": "they",
+  "zh": "他们",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1114_they.mp3"
+ },
+ "thing": {
+  "w": "thing",
+  "zh": "东西",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1115_thing.mp3"
+ },
+ "those": {
+  "w": "those",
+  "zh": "那些",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1116_those.mp3"
+ },
+ "tick": {
+  "w": "tick",
+  "zh": "打勾",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1117_tick.mp3"
+ },
+ "too": {
+  "w": "too",
+  "zh": "也、太",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1118_too.mp3"
+ },
+ "try": {
+  "w": "try",
+  "zh": "尝试",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1119_try.mp3"
+ },
+ "tv": {
+  "w": "tv",
+  "zh": "电视",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1120_tv.mp3"
+ },
+ "ugly": {
+  "w": "ugly",
+  "zh": "丑的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1121_ugly.mp3"
+ },
+ "under": {
+  "w": "under",
+  "zh": "在……下面",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1122_under.mp3"
+ },
+ "understand": {
+  "w": "understand",
+  "zh": "理解",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1123_understand.mp3"
+ },
+ "us": {
+  "w": "us",
+  "zh": "我们（宾格）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1124_us.mp3"
+ },
+ "wave": {
+  "w": "wave",
+  "zh": "挥手、波浪",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1125_wave.mp3"
+ },
+ "wear": {
+  "w": "wear",
+  "zh": "穿",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1126_wear.mp3"
+ },
+ "well done": {
+  "w": "well done",
+  "zh": "做得好",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1127_well-done.mp3"
+ },
+ "which": {
+  "w": "which",
+  "zh": "哪一个",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1128_which.mp3"
+ },
+ "whose": {
+  "w": "whose",
+  "zh": "谁的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1129_whose.mp3"
+ },
+ "word": {
+  "w": "word",
+  "zh": "单词",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1130_word.mp3"
+ },
+ "would like": {
+  "w": "would like",
+  "zh": "想要",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1131_would-like.mp3"
+ },
+ "write": {
+  "w": "write",
+  "zh": "写",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1132_write.mp3"
+ },
+ "year": {
+  "w": "year",
+  "zh": "年",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1133_year.mp3"
+ },
+ "young": {
+  "w": "young",
+  "zh": "年轻的",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1134_young.mp3"
+ },
+ "yours": {
+  "w": "yours",
+  "zh": "你的（名词性）",
+  "pos": null,
+  "img": null,
+  "aud": "audio/all/1135_yours.mp3"
  }
 }

@@ -4174,5 +4174,2277 @@
   "type": "vocab",
   "unit": "vocab",
   "file": "769_drink.mp3"
+ },
+ {
+  "i": 800,
+  "en": "alphabet",
+  "zh": "字母表",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "800_alphabet.mp3"
+ },
+ {
+  "i": 801,
+  "en": "angry",
+  "zh": "生气的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "801_angry.mp3"
+ },
+ {
+  "i": 802,
+  "en": "apartment",
+  "zh": "公寓",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "802_apartment.mp3"
+ },
+ {
+  "i": 803,
+  "en": "armchair",
+  "zh": "扶手椅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "803_armchair.mp3"
+ },
+ {
+  "i": 804,
+  "en": "baby",
+  "zh": "婴儿",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "804_baby.mp3"
+ },
+ {
+  "i": 805,
+  "en": "badminton",
+  "zh": "羽毛球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "805_badminton.mp3"
+ },
+ {
+  "i": 806,
+  "en": "bag",
+  "zh": "包",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "806_bag.mp3"
+ },
+ {
+  "i": 807,
+  "en": "baseball",
+  "zh": "棒球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "807_baseball.mp3"
+ },
+ {
+  "i": 808,
+  "en": "basketball",
+  "zh": "篮球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "808_basketball.mp3"
+ },
+ {
+  "i": 809,
+  "en": "bathroom",
+  "zh": "浴室",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "809_bathroom.mp3"
+ },
+ {
+  "i": 810,
+  "en": "beans",
+  "zh": "豆子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "810_beans.mp3"
+ },
+ {
+  "i": 811,
+  "en": "bedroom",
+  "zh": "卧室",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "811_bedroom.mp3"
+ },
+ {
+  "i": 812,
+  "en": "bookcase",
+  "zh": "书架",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "812_bookcase.mp3"
+ },
+ {
+  "i": 813,
+  "en": "bookshop",
+  "zh": "书店",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "813_bookshop.mp3"
+ },
+ {
+  "i": 814,
+  "en": "box",
+  "zh": "盒子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "814_box.mp3"
+ },
+ {
+  "i": 815,
+  "en": "boy",
+  "zh": "男孩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "815_boy.mp3"
+ },
+ {
+  "i": 816,
+  "en": "brother",
+  "zh": "兄弟",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "816_brother.mp3"
+ },
+ {
+  "i": 817,
+  "en": "burger",
+  "zh": "汉堡",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "817_burger.mp3"
+ },
+ {
+  "i": 818,
+  "en": "candy",
+  "zh": "糖果",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "818_candy.mp3"
+ },
+ {
+  "i": 819,
+  "en": "carrot",
+  "zh": "胡萝卜",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "819_carrot.mp3"
+ },
+ {
+  "i": 820,
+  "en": "child",
+  "zh": "小孩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "820_child.mp3"
+ },
+ {
+  "i": 821,
+  "en": "children",
+  "zh": "孩子们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "821_children.mp3"
+ },
+ {
+  "i": 822,
+  "en": "chips",
+  "zh": "薯条",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "822_chips.mp3"
+ },
+ {
+  "i": 823,
+  "en": "chocolate",
+  "zh": "巧克力",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "823_chocolate.mp3"
+ },
+ {
+  "i": 824,
+  "en": "class",
+  "zh": "班级",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "824_class.mp3"
+ },
+ {
+  "i": 825,
+  "en": "classroom",
+  "zh": "教室",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "825_classroom.mp3"
+ },
+ {
+  "i": 826,
+  "en": "clothes",
+  "zh": "衣服",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "826_clothes.mp3"
+ },
+ {
+  "i": 827,
+  "en": "coconut",
+  "zh": "椰子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "827_coconut.mp3"
+ },
+ {
+  "i": 828,
+  "en": "cousin",
+  "zh": "表兄弟姐妹",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "828_cousin.mp3"
+ },
+ {
+  "i": 829,
+  "en": "cupboard",
+  "zh": "橱柜",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "829_cupboard.mp3"
+ },
+ {
+  "i": 830,
+  "en": "dad",
+  "zh": "爸爸",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "830_dad.mp3"
+ },
+ {
+  "i": 831,
+  "en": "dining_room",
+  "zh": "餐厅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "831_dining-room.mp3"
+ },
+ {
+  "i": 832,
+  "en": "drawing",
+  "zh": "图画",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "832_drawing.mp3"
+ },
+ {
+  "i": 833,
+  "en": "drive",
+  "zh": "开车",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "833_drive.mp3"
+ },
+ {
+  "i": 834,
+  "en": "evening",
+  "zh": "傍晚",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "834_evening.mp3"
+ },
+ {
+  "i": 835,
+  "en": "family",
+  "zh": "家庭",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "835_family.mp3"
+ },
+ {
+  "i": 836,
+  "en": "feet",
+  "zh": "双脚",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "836_feet.mp3"
+ },
+ {
+  "i": 837,
+  "en": "fishing",
+  "zh": "钓鱼",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "837_fishing.mp3"
+ },
+ {
+  "i": 838,
+  "en": "flat",
+  "zh": "公寓",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "838_flat.mp3"
+ },
+ {
+  "i": 839,
+  "en": "floor",
+  "zh": "地板",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "839_floor.mp3"
+ },
+ {
+  "i": 840,
+  "en": "flower",
+  "zh": "花",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "840_flower.mp3"
+ },
+ {
+  "i": 841,
+  "en": "fly_plane",
+  "zh": "开飞机",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "841_fly-plane.mp3"
+ },
+ {
+  "i": 842,
+  "en": "football",
+  "zh": "足球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "842_football.mp3"
+ },
+ {
+  "i": 843,
+  "en": "fries",
+  "zh": "薯条",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "843_fries.mp3"
+ },
+ {
+  "i": 844,
+  "en": "girl",
+  "zh": "女孩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "844_girl.mp3"
+ },
+ {
+  "i": 845,
+  "en": "grandfather",
+  "zh": "爷爷",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "845_grandfather.mp3"
+ },
+ {
+  "i": 846,
+  "en": "grandma",
+  "zh": "奶奶",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "846_grandma.mp3"
+ },
+ {
+  "i": 847,
+  "en": "grandmother",
+  "zh": "奶奶",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "847_grandmother.mp3"
+ },
+ {
+  "i": 848,
+  "en": "grandpa",
+  "zh": "爷爷",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "848_grandpa.mp3"
+ },
+ {
+  "i": 849,
+  "en": "grapes",
+  "zh": "葡萄",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "849_grapes.mp3"
+ },
+ {
+  "i": 850,
+  "en": "grey",
+  "zh": "灰色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "850_grey.mp3"
+ },
+ {
+  "i": 851,
+  "en": "guitar",
+  "zh": "吉他",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "851_guitar.mp3"
+ },
+ {
+  "i": 852,
+  "en": "hall",
+  "zh": "门厅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "852_hall.mp3"
+ },
+ {
+  "i": 853,
+  "en": "hit",
+  "zh": "打",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "853_hit.mp3"
+ },
+ {
+  "i": 854,
+  "en": "hockey",
+  "zh": "曲棍球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "854_hockey.mp3"
+ },
+ {
+  "i": 855,
+  "en": "house",
+  "zh": "房子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "855_house.mp3"
+ },
+ {
+  "i": 856,
+  "en": "lemon",
+  "zh": "柠檬",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "856_lemon.mp3"
+ },
+ {
+  "i": 857,
+  "en": "lemonade",
+  "zh": "柠檬水",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "857_lemonade.mp3"
+ },
+ {
+  "i": 858,
+  "en": "letter",
+  "zh": "信",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "858_letter.mp3"
+ },
+ {
+  "i": 859,
+  "en": "lime",
+  "zh": "青柠",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "859_lime.mp3"
+ },
+ {
+  "i": 860,
+  "en": "living_room",
+  "zh": "客厅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "860_living-room.mp3"
+ },
+ {
+  "i": 861,
+  "en": "lunch",
+  "zh": "午餐",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "861_lunch.mp3"
+ },
+ {
+  "i": 862,
+  "en": "man",
+  "zh": "男人",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "862_man.mp3"
+ },
+ {
+  "i": 863,
+  "en": "mango",
+  "zh": "芒果",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "863_mango.mp3"
+ },
+ {
+  "i": 864,
+  "en": "meat",
+  "zh": "肉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "864_meat.mp3"
+ },
+ {
+  "i": 865,
+  "en": "men",
+  "zh": "男人们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "865_men.mp3"
+ },
+ {
+  "i": 866,
+  "en": "mice",
+  "zh": "老鼠（复数）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "866_mice.mp3"
+ },
+ {
+  "i": 867,
+  "en": "onion",
+  "zh": "洋葱",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "867_onion.mp3"
+ },
+ {
+  "i": 868,
+  "en": "paint",
+  "zh": "画画",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "868_paint.mp3"
+ },
+ {
+  "i": 869,
+  "en": "painting",
+  "zh": "画作",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "869_painting.mp3"
+ },
+ {
+  "i": 870,
+  "en": "peas",
+  "zh": "豌豆",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "870_peas.mp3"
+ },
+ {
+  "i": 871,
+  "en": "people",
+  "zh": "人们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "871_people.mp3"
+ },
+ {
+  "i": 872,
+  "en": "person",
+  "zh": "人",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "872_person.mp3"
+ },
+ {
+  "i": 873,
+  "en": "phone",
+  "zh": "电话",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "873_phone.mp3"
+ },
+ {
+  "i": 874,
+  "en": "piano",
+  "zh": "钢琴",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "874_piano.mp3"
+ },
+ {
+  "i": 875,
+  "en": "picture",
+  "zh": "图片",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "875_picture.mp3"
+ },
+ {
+  "i": 876,
+  "en": "pineapple",
+  "zh": "菠萝",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "876_pineapple.mp3"
+ },
+ {
+  "i": 877,
+  "en": "pink",
+  "zh": "粉色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "877_pink.mp3"
+ },
+ {
+  "i": 878,
+  "en": "potato",
+  "zh": "土豆",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "878_potato.mp3"
+ },
+ {
+  "i": 879,
+  "en": "purple",
+  "zh": "紫色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "879_purple.mp3"
+ },
+ {
+  "i": 880,
+  "en": "radio",
+  "zh": "收音机",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "880_radio.mp3"
+ },
+ {
+  "i": 881,
+  "en": "room",
+  "zh": "房间",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "881_room.mp3"
+ },
+ {
+  "i": 882,
+  "en": "rubber",
+  "zh": "橡皮",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "882_rubber.mp3"
+ },
+ {
+  "i": 883,
+  "en": "rug",
+  "zh": "地毯",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "883_rug.mp3"
+ },
+ {
+  "i": 884,
+  "en": "sausage",
+  "zh": "香肠",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "884_sausage.mp3"
+ },
+ {
+  "i": 885,
+  "en": "sing",
+  "zh": "唱歌",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "885_sing.mp3"
+ },
+ {
+  "i": 886,
+  "en": "sister",
+  "zh": "姐妹",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "886_sister.mp3"
+ },
+ {
+  "i": 887,
+  "en": "soccer",
+  "zh": "足球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "887_soccer.mp3"
+ },
+ {
+  "i": 888,
+  "en": "sport",
+  "zh": "运动",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "888_sport.mp3"
+ },
+ {
+  "i": 889,
+  "en": "store",
+  "zh": "商店",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "889_store.mp3"
+ },
+ {
+  "i": 891,
+  "en": "table_tennis",
+  "zh": "乒乓球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "891_table-tennis.mp3"
+ },
+ {
+  "i": 892,
+  "en": "television",
+  "zh": "电视",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "892_television.mp3"
+ },
+ {
+  "i": 893,
+  "en": "tennis",
+  "zh": "网球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "893_tennis.mp3"
+ },
+ {
+  "i": 894,
+  "en": "tomato",
+  "zh": "西红柿",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "894_tomato.mp3"
+ },
+ {
+  "i": 895,
+  "en": "tree",
+  "zh": "树",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "895_tree.mp3"
+ },
+ {
+  "i": 896,
+  "en": "truck",
+  "zh": "卡车",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "896_truck.mp3"
+ },
+ {
+  "i": 897,
+  "en": "wall",
+  "zh": "墙",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "897_wall.mp3"
+ },
+ {
+  "i": 898,
+  "en": "watermelon",
+  "zh": "西瓜",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "898_watermelon.mp3"
+ },
+ {
+  "i": 899,
+  "en": "woman",
+  "zh": "女人",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "899_woman.mp3"
+ },
+ {
+  "i": 900,
+  "en": "women",
+  "zh": "女人们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "900_women.mp3"
+ },
+ {
+  "i": 901,
+  "en": "yellow",
+  "zh": "黄色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "901_yellow.mp3"
+ },
+ {
+  "i": 950,
+  "en": "a lot",
+  "zh": "很多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "950_a-lot.mp3"
+ },
+ {
+  "i": 951,
+  "en": "a lot of",
+  "zh": "许多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "951_a-lot-of.mp3"
+ },
+ {
+  "i": 952,
+  "en": "about",
+  "zh": "关于",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "952_about.mp3"
+ },
+ {
+  "i": 953,
+  "en": "add",
+  "zh": "添加",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "953_add.mp3"
+ },
+ {
+  "i": 954,
+  "en": "again",
+  "zh": "再一次",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "954_again.mp3"
+ },
+ {
+  "i": 955,
+  "en": "answer",
+  "zh": "回答",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "955_answer.mp3"
+ },
+ {
+  "i": 956,
+  "en": "ask",
+  "zh": "问",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "956_ask.mp3"
+ },
+ {
+  "i": 957,
+  "en": "baseball cap",
+  "zh": "棒球帽",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "957_baseball-cap.mp3"
+ },
+ {
+  "i": 958,
+  "en": "beach",
+  "zh": "海滩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "958_beach.mp3"
+ },
+ {
+  "i": 959,
+  "en": "bean",
+  "zh": "豆子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "959_bean.mp3"
+ },
+ {
+  "i": 960,
+  "en": "beautiful",
+  "zh": "美丽的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "960_beautiful.mp3"
+ },
+ {
+  "i": 961,
+  "en": "behind",
+  "zh": "在……后面",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "961_behind.mp3"
+ },
+ {
+  "i": 962,
+  "en": "between",
+  "zh": "在……之间",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "962_between.mp3"
+ },
+ {
+  "i": 963,
+  "en": "birthday",
+  "zh": "生日",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "963_birthday.mp3"
+ },
+ {
+  "i": 964,
+  "en": "blue",
+  "zh": "蓝色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "964_blue.mp3"
+ },
+ {
+  "i": 965,
+  "en": "board game",
+  "zh": "桌游",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "965_board-game.mp3"
+ },
+ {
+  "i": 966,
+  "en": "boots",
+  "zh": "靴子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "966_boots.mp3"
+ },
+ {
+  "i": 967,
+  "en": "bounce",
+  "zh": "弹跳",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "967_bounce.mp3"
+ },
+ {
+  "i": 968,
+  "en": "brown",
+  "zh": "棕色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "968_brown.mp3"
+ },
+ {
+  "i": 969,
+  "en": "but",
+  "zh": "但是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "969_but.mp3"
+ },
+ {
+  "i": 970,
+  "en": "bye",
+  "zh": "再见",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "970_bye.mp3"
+ },
+ {
+  "i": 972,
+  "en": "choose",
+  "zh": "选择",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "972_choose.mp3"
+ },
+ {
+  "i": 973,
+  "en": "classmate",
+  "zh": "同学",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "973_classmate.mp3"
+ },
+ {
+  "i": 974,
+  "en": "clean",
+  "zh": "干净的、打扫",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "974_clean.mp3"
+ },
+ {
+  "i": 975,
+  "en": "close",
+  "zh": "关上",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "975_close.mp3"
+ },
+ {
+  "i": 976,
+  "en": "closed",
+  "zh": "关闭的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "976_closed.mp3"
+ },
+ {
+  "i": 977,
+  "en": "colour",
+  "zh": "颜色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "977_colour.mp3"
+ },
+ {
+  "i": 978,
+  "en": "come",
+  "zh": "来",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "978_come.mp3"
+ },
+ {
+  "i": 979,
+  "en": "complete",
+  "zh": "完成",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "979_complete.mp3"
+ },
+ {
+  "i": 980,
+  "en": "cool",
+  "zh": "酷的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "980_cool.mp3"
+ },
+ {
+  "i": 981,
+  "en": "correct",
+  "zh": "正确的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "981_correct.mp3"
+ },
+ {
+  "i": 982,
+  "en": "count",
+  "zh": "数数",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "982_count.mp3"
+ },
+ {
+  "i": 983,
+  "en": "crayon",
+  "zh": "蜡笔",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "983_crayon.mp3"
+ },
+ {
+  "i": 984,
+  "en": "cross",
+  "zh": "穿过",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "984_cross.mp3"
+ },
+ {
+  "i": 985,
+  "en": "dining room",
+  "zh": "餐厅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "985_dining-room.mp3"
+ },
+ {
+  "i": 986,
+  "en": "dirty",
+  "zh": "脏的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "986_dirty.mp3"
+ },
+ {
+  "i": 987,
+  "en": "double",
+  "zh": "双倍的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "987_double.mp3"
+ },
+ {
+  "i": 988,
+  "en": "end",
+  "zh": "结束",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "988_end.mp3"
+ },
+ {
+  "i": 989,
+  "en": "english",
+  "zh": "英语",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "989_english.mp3"
+ },
+ {
+  "i": 990,
+  "en": "enjoy",
+  "zh": "享受",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "990_enjoy.mp3"
+ },
+ {
+  "i": 991,
+  "en": "example",
+  "zh": "例子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "991_example.mp3"
+ },
+ {
+  "i": 992,
+  "en": "fantastic",
+  "zh": "极好的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "992_fantastic.mp3"
+ },
+ {
+  "i": 993,
+  "en": "father",
+  "zh": "爸爸",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "993_father.mp3"
+ },
+ {
+  "i": 994,
+  "en": "find",
+  "zh": "找到",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "994_find.mp3"
+ },
+ {
+  "i": 995,
+  "en": "food",
+  "zh": "食物",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "995_food.mp3"
+ },
+ {
+  "i": 996,
+  "en": "from",
+  "zh": "来自",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "996_from.mp3"
+ },
+ {
+  "i": 997,
+  "en": "game",
+  "zh": "游戏",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "997_game.mp3"
+ },
+ {
+  "i": 998,
+  "en": "get",
+  "zh": "得到",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "998_get.mp3"
+ },
+ {
+  "i": 999,
+  "en": "go to bed",
+  "zh": "上床睡觉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "999_go-to-bed.mp3"
+ },
+ {
+  "i": 1000,
+  "en": "go to sleep",
+  "zh": "入睡",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1000_go-to-sleep.mp3"
+ },
+ {
+  "i": 1001,
+  "en": "good",
+  "zh": "好的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1001_good.mp3"
+ },
+ {
+  "i": 1002,
+  "en": "goodbye",
+  "zh": "再见",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1002_goodbye.mp3"
+ },
+ {
+  "i": 1003,
+  "en": "gray",
+  "zh": "灰色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1003_gray.mp3"
+ },
+ {
+  "i": 1004,
+  "en": "great",
+  "zh": "很棒的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1004_great.mp3"
+ },
+ {
+  "i": 1005,
+  "en": "green",
+  "zh": "绿色",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1005_green.mp3"
+ },
+ {
+  "i": 1006,
+  "en": "happy",
+  "zh": "开心的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1006_happy.mp3"
+ },
+ {
+  "i": 1007,
+  "en": "have got",
+  "zh": "有",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1007_have-got.mp3"
+ },
+ {
+  "i": 1008,
+  "en": "he",
+  "zh": "他",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1008_he.mp3"
+ },
+ {
+  "i": 1009,
+  "en": "hello",
+  "zh": "你好",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1009_hello.mp3"
+ },
+ {
+  "i": 1010,
+  "en": "her",
+  "zh": "她的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1010_her.mp3"
+ },
+ {
+  "i": 1011,
+  "en": "hers",
+  "zh": "她的（名词性）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1011_hers.mp3"
+ },
+ {
+  "i": 1012,
+  "en": "hi",
+  "zh": "嗨",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1012_hi.mp3"
+ },
+ {
+  "i": 1013,
+  "en": "him",
+  "zh": "他（宾格）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1013_him.mp3"
+ },
+ {
+  "i": 1014,
+  "en": "his",
+  "zh": "他的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1014_his.mp3"
+ },
+ {
+  "i": 1015,
+  "en": "hobby",
+  "zh": "爱好",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1015_hobby.mp3"
+ },
+ {
+  "i": 1016,
+  "en": "hold",
+  "zh": "握住",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1016_hold.mp3"
+ },
+ {
+  "i": 1017,
+  "en": "home",
+  "zh": "家",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1017_home.mp3"
+ },
+ {
+  "i": 1018,
+  "en": "how many",
+  "zh": "多少个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1018_how-many.mp3"
+ },
+ {
+  "i": 1019,
+  "en": "how old",
+  "zh": "几岁",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1019_how-old.mp3"
+ },
+ {
+  "i": 1020,
+  "en": "in front of",
+  "zh": "在……前面",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1020_in-front-of.mp3"
+ },
+ {
+  "i": 1021,
+  "en": "its",
+  "zh": "它的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1021_its.mp3"
+ },
+ {
+  "i": 1022,
+  "en": "kid",
+  "zh": "小孩",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1022_kid.mp3"
+ },
+ {
+  "i": 1023,
+  "en": "kiwi",
+  "zh": "猕猴桃",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1023_kiwi.mp3"
+ },
+ {
+  "i": 1024,
+  "en": "know",
+  "zh": "知道",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1024_know.mp3"
+ },
+ {
+  "i": 1025,
+  "en": "learn",
+  "zh": "学习",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1025_learn.mp3"
+ },
+ {
+  "i": 1026,
+  "en": "lesson",
+  "zh": "课",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1026_lesson.mp3"
+ },
+ {
+  "i": 1028,
+  "en": "line",
+  "zh": "线、排队",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1028_line.mp3"
+ },
+ {
+  "i": 1029,
+  "en": "live",
+  "zh": "住",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1029_live.mp3"
+ },
+ {
+  "i": 1030,
+  "en": "living room",
+  "zh": "客厅",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1030_living-room.mp3"
+ },
+ {
+  "i": 1031,
+  "en": "look at",
+  "zh": "看",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1031_look-at.mp3"
+ },
+ {
+  "i": 1032,
+  "en": "lots",
+  "zh": "许多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1032_lots.mp3"
+ },
+ {
+  "i": 1033,
+  "en": "lots of",
+  "zh": "许多",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1033_lots-of.mp3"
+ },
+ {
+  "i": 1034,
+  "en": "make",
+  "zh": "制作",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1034_make.mp3"
+ },
+ {
+  "i": 1035,
+  "en": "mat",
+  "zh": "垫子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1035_mat.mp3"
+ },
+ {
+  "i": 1036,
+  "en": "meatballs",
+  "zh": "肉丸",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1036_meatballs.mp3"
+ },
+ {
+  "i": 1037,
+  "en": "mine",
+  "zh": "我的（名词性）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1037_mine.mp3"
+ },
+ {
+  "i": 1038,
+  "en": "miss",
+  "zh": "错过、想念",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1038_miss.mp3"
+ },
+ {
+  "i": 1039,
+  "en": "mother",
+  "zh": "妈妈",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1039_mother.mp3"
+ },
+ {
+  "i": 1040,
+  "en": "mr",
+  "zh": "先生",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1040_mr.mp3"
+ },
+ {
+  "i": 1041,
+  "en": "mrs",
+  "zh": "夫人",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1041_mrs.mp3"
+ },
+ {
+  "i": 1042,
+  "en": "mum",
+  "zh": "妈妈",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1042_mum.mp3"
+ },
+ {
+  "i": 1043,
+  "en": "name",
+  "zh": "名字",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1043_name.mp3"
+ },
+ {
+  "i": 1044,
+  "en": "new",
+  "zh": "新的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1044_new.mp3"
+ },
+ {
+  "i": 1045,
+  "en": "next to",
+  "zh": "在……旁边",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1045_next-to.mp3"
+ },
+ {
+  "i": 1046,
+  "en": "nice",
+  "zh": "好的、友善的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1046_nice.mp3"
+ },
+ {
+  "i": 1047,
+  "en": "night",
+  "zh": "夜晚",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1047_night.mp3"
+ },
+ {
+  "i": 1048,
+  "en": "no",
+  "zh": "不",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1048_no.mp3"
+ },
+ {
+  "i": 1049,
+  "en": "not",
+  "zh": "不是",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1049_not.mp3"
+ },
+ {
+  "i": 1050,
+  "en": "now",
+  "zh": "现在",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1050_now.mp3"
+ },
+ {
+  "i": 1051,
+  "en": "number",
+  "zh": "数字",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1051_number.mp3"
+ },
+ {
+  "i": 1052,
+  "en": "oh dear",
+  "zh": "哎呀",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1052_oh-dear.mp3"
+ },
+ {
+  "i": 1053,
+  "en": "ok",
+  "zh": "好的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1053_ok.mp3"
+ },
+ {
+  "i": 1054,
+  "en": "old",
+  "zh": "旧的、年长的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1054_old.mp3"
+ },
+ {
+  "i": 1055,
+  "en": "or",
+  "zh": "或者",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1055_or.mp3"
+ },
+ {
+  "i": 1056,
+  "en": "our",
+  "zh": "我们的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1056_our.mp3"
+ },
+ {
+  "i": 1057,
+  "en": "ours",
+  "zh": "我们的（名词性）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1057_ours.mp3"
+ },
+ {
+  "i": 1058,
+  "en": "page",
+  "zh": "页",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1058_page.mp3"
+ },
+ {
+  "i": 1059,
+  "en": "paper",
+  "zh": "纸",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1059_paper.mp3"
+ },
+ {
+  "i": 1060,
+  "en": "pardon",
+  "zh": "请再说一遍",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1060_pardon.mp3"
+ },
+ {
+  "i": 1061,
+  "en": "part",
+  "zh": "部分",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1061_part.mp3"
+ },
+ {
+  "i": 1062,
+  "en": "pat",
+  "zh": "轻拍",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1062_pat.mp3"
+ },
+ {
+  "i": 1063,
+  "en": "pea",
+  "zh": "豌豆",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1063_pea.mp3"
+ },
+ {
+  "i": 1064,
+  "en": "photo",
+  "zh": "照片",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1064_photo.mp3"
+ },
+ {
+  "i": 1065,
+  "en": "pick up",
+  "zh": "捡起",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1065_pick-up.mp3"
+ },
+ {
+  "i": 1066,
+  "en": "pie",
+  "zh": "派",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1066_pie.mp3"
+ },
+ {
+  "i": 1067,
+  "en": "playground",
+  "zh": "游乐场",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1067_playground.mp3"
+ },
+ {
+  "i": 1069,
+  "en": "poster",
+  "zh": "海报",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1069_poster.mp3"
+ },
+ {
+  "i": 1070,
+  "en": "question",
+  "zh": "问题",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1070_question.mp3"
+ },
+ {
+  "i": 1071,
+  "en": "read",
+  "zh": "读",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1071_read.mp3"
+ },
+ {
+  "i": 1072,
+  "en": "really",
+  "zh": "真的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1072_really.mp3"
+ },
+ {
+  "i": 1073,
+  "en": "right",
+  "zh": "右边、对的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1073_right.mp3"
+ },
+ {
+  "i": 1074,
+  "en": "sad",
+  "zh": "伤心的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1074_sad.mp3"
+ },
+ {
+  "i": 1075,
+  "en": "scary",
+  "zh": "吓人的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1075_scary.mp3"
+ },
+ {
+  "i": 1076,
+  "en": "school",
+  "zh": "学校",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1076_school.mp3"
+ },
+ {
+  "i": 1077,
+  "en": "see you",
+  "zh": "再见",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1077_see-you.mp3"
+ },
+ {
+  "i": 1078,
+  "en": "sentence",
+  "zh": "句子",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1078_sentence.mp3"
+ },
+ {
+  "i": 1079,
+  "en": "ship",
+  "zh": "轮船",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1079_ship.mp3"
+ },
+ {
+  "i": 1080,
+  "en": "shop",
+  "zh": "商店",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1080_shop.mp3"
+ },
+ {
+  "i": 1081,
+  "en": "short",
+  "zh": "短的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1081_short.mp3"
+ },
+ {
+  "i": 1082,
+  "en": "shorts",
+  "zh": "短裤",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1082_shorts.mp3"
+ },
+ {
+  "i": 1083,
+  "en": "show",
+  "zh": "展示",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1083_show.mp3"
+ },
+ {
+  "i": 1084,
+  "en": "silly",
+  "zh": "傻乎乎的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1084_silly.mp3"
+ },
+ {
+  "i": 1085,
+  "en": "sit",
+  "zh": "坐",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1085_sit.mp3"
+ },
+ {
+  "i": 1086,
+  "en": "skateboard",
+  "zh": "滑板",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1086_skateboard.mp3"
+ },
+ {
+  "i": 1087,
+  "en": "skateboarding",
+  "zh": "玩滑板",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1087_skateboarding.mp3"
+ },
+ {
+  "i": 1088,
+  "en": "sleep",
+  "zh": "睡觉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1088_sleep.mp3"
+ },
+ {
+  "i": 1089,
+  "en": "small",
+  "zh": "小的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1089_small.mp3"
+ },
+ {
+  "i": 1090,
+  "en": "song",
+  "zh": "歌曲",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1090_song.mp3"
+ },
+ {
+  "i": 1091,
+  "en": "sorry",
+  "zh": "抱歉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1091_sorry.mp3"
+ },
+ {
+  "i": 1092,
+  "en": "spell",
+  "zh": "拼写",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1092_spell.mp3"
+ },
+ {
+  "i": 1093,
+  "en": "stand",
+  "zh": "站",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1093_stand.mp3"
+ },
+ {
+  "i": 1094,
+  "en": "start",
+  "zh": "开始",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1094_start.mp3"
+ },
+ {
+  "i": 1095,
+  "en": "story",
+  "zh": "故事",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1095_story.mp3"
+ },
+ {
+  "i": 1096,
+  "en": "street",
+  "zh": "街道",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1096_street.mp3"
+ },
+ {
+  "i": 1097,
+  "en": "t-shirt",
+  "zh": "T恤",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1097_t-shirt.mp3"
+ },
+ {
+  "i": 1098,
+  "en": "table tennis",
+  "zh": "乒乓球",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1098_table-tennis.mp3"
+ },
+ {
+  "i": 1099,
+  "en": "tablet",
+  "zh": "平板电脑",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1099_tablet.mp3"
+ },
+ {
+  "i": 1100,
+  "en": "take a photo",
+  "zh": "拍照",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1100_take-a-photo.mp3"
+ },
+ {
+  "i": 1101,
+  "en": "talk",
+  "zh": "说话",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1101_talk.mp3"
+ },
+ {
+  "i": 1102,
+  "en": "teddy",
+  "zh": "泰迪熊",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1102_teddy.mp3"
+ },
+ {
+  "i": 1103,
+  "en": "tell",
+  "zh": "告诉",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1103_tell.mp3"
+ },
+ {
+  "i": 1104,
+  "en": "tennis racket",
+  "zh": "网球拍",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1104_tennis-racket.mp3"
+ },
+ {
+  "i": 1105,
+  "en": "thank you",
+  "zh": "谢谢",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1105_thank-you.mp3"
+ },
+ {
+  "i": 1106,
+  "en": "thanks",
+  "zh": "谢谢",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1106_thanks.mp3"
+ },
+ {
+  "i": 1107,
+  "en": "that",
+  "zh": "那个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1107_that.mp3"
+ },
+ {
+  "i": 1108,
+  "en": "their",
+  "zh": "他们的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1108_their.mp3"
+ },
+ {
+  "i": 1109,
+  "en": "theirs",
+  "zh": "他们的（名词性）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1109_theirs.mp3"
+ },
+ {
+  "i": 1110,
+  "en": "them",
+  "zh": "他们（宾格）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1110_them.mp3"
+ },
+ {
+  "i": 1111,
+  "en": "then",
+  "zh": "然后",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1111_then.mp3"
+ },
+ {
+  "i": 1112,
+  "en": "there",
+  "zh": "那里",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1112_there.mp3"
+ },
+ {
+  "i": 1113,
+  "en": "these",
+  "zh": "这些",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1113_these.mp3"
+ },
+ {
+  "i": 1114,
+  "en": "they",
+  "zh": "他们",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1114_they.mp3"
+ },
+ {
+  "i": 1115,
+  "en": "thing",
+  "zh": "东西",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1115_thing.mp3"
+ },
+ {
+  "i": 1116,
+  "en": "those",
+  "zh": "那些",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1116_those.mp3"
+ },
+ {
+  "i": 1117,
+  "en": "tick",
+  "zh": "打勾",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1117_tick.mp3"
+ },
+ {
+  "i": 1118,
+  "en": "too",
+  "zh": "也、太",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1118_too.mp3"
+ },
+ {
+  "i": 1119,
+  "en": "try",
+  "zh": "尝试",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1119_try.mp3"
+ },
+ {
+  "i": 1120,
+  "en": "tv",
+  "zh": "电视",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1120_tv.mp3"
+ },
+ {
+  "i": 1121,
+  "en": "ugly",
+  "zh": "丑的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1121_ugly.mp3"
+ },
+ {
+  "i": 1122,
+  "en": "under",
+  "zh": "在……下面",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1122_under.mp3"
+ },
+ {
+  "i": 1123,
+  "en": "understand",
+  "zh": "理解",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1123_understand.mp3"
+ },
+ {
+  "i": 1124,
+  "en": "us",
+  "zh": "我们（宾格）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1124_us.mp3"
+ },
+ {
+  "i": 1125,
+  "en": "wave",
+  "zh": "挥手、波浪",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1125_wave.mp3"
+ },
+ {
+  "i": 1126,
+  "en": "wear",
+  "zh": "穿",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1126_wear.mp3"
+ },
+ {
+  "i": 1127,
+  "en": "well done",
+  "zh": "做得好",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1127_well-done.mp3"
+ },
+ {
+  "i": 1128,
+  "en": "which",
+  "zh": "哪一个",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1128_which.mp3"
+ },
+ {
+  "i": 1129,
+  "en": "whose",
+  "zh": "谁的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1129_whose.mp3"
+ },
+ {
+  "i": 1130,
+  "en": "word",
+  "zh": "单词",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1130_word.mp3"
+ },
+ {
+  "i": 1131,
+  "en": "would like",
+  "zh": "想要",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1131_would-like.mp3"
+ },
+ {
+  "i": 1132,
+  "en": "write",
+  "zh": "写",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1132_write.mp3"
+ },
+ {
+  "i": 1133,
+  "en": "year",
+  "zh": "年",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1133_year.mp3"
+ },
+ {
+  "i": 1134,
+  "en": "young",
+  "zh": "年轻的",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1134_young.mp3"
+ },
+ {
+  "i": 1135,
+  "en": "yours",
+  "zh": "你的（名词性）",
+  "type": "vocab",
+  "unit": "vocab",
+  "file": "1135_yours.mp3"
  }
 ]
