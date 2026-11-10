@@ -4,7 +4,8 @@
     android:viewportWidth="24"
     android:viewportHeight="24"
     android:tint="?attr/colorControlNormal">
+    <!-- 三角播放按钮：占满视口，饱满清晰 -->
     <path
         android:fillColor="#000000"
-        android:pathData="M8,5v14l11,-7z"/>
+        android:pathData="M7,4l13,8l-13,8z"/>
 </vector>

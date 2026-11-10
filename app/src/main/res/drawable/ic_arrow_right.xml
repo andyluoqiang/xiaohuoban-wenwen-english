@@ -4,7 +4,8 @@
     android:viewportWidth="24"
     android:viewportHeight="24"
     android:tint="?attr/colorControlNormal">
+    <!-- 右向实心三角形：占满视口，与喇叭等饱满图标视觉等大 -->
     <path
         android:fillColor="#000000"
-        android:pathData="M10,17l5,-5l-5,-5v10z"/>
+        android:pathData="M6,4l14,8l-14,8z"/>
 </vector>

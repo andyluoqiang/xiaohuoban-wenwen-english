@@ -190,7 +190,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.13 · 29主题"
+            text = "v0.2.14 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
