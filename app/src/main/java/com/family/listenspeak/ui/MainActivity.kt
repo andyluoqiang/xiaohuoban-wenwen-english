@@ -190,7 +190,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.11 · 29主题"
+            text = "v0.2.12 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
@@ -503,9 +503,10 @@ class MainActivity : AppCompatActivity() {
             text = "跟读"
             setBackgroundTintList(ColorStateList.valueOf(0xFFFF8A65.toInt()))
             setTextColor(Color.WHITE); textSize = 22f; typeface = Typeface.DEFAULT_BOLD
-            setCompoundDrawablesRelativeWithIntrinsicBounds(R.drawable.ic_mic, 0, 0, 0)
-            setCompoundDrawableTintList(ColorStateList.valueOf(Color.WHITE))
-            val pad = dp(10); setCompoundDrawablePadding(pad)
+            val mic = resources.getDrawable(R.drawable.ic_mic).mutate(); mic.setTint(Color.WHITE)
+            val sz = dp(30); mic.setBounds(0, 0, sz, sz)
+            setCompoundDrawablesRelative(mic, null, null, null)
+            setCompoundDrawablePadding(dp(12))
             minHeight = dp(64); setPadding(dp(28), dp(10), dp(28), dp(10))
             setOnClickListener { toggleRec() }
         }
@@ -513,9 +514,10 @@ class MainActivity : AppCompatActivity() {
         val playRec = Button(this).apply {
             text = "我的录音"
             setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
-            setCompoundDrawablesRelativeWithIntrinsicBounds(R.drawable.ic_speaker, 0, 0, 0)
-            setCompoundDrawableTintList(ColorStateList.valueOf(brown()))
-            setCompoundDrawablePadding(dp(10))
+            val spk = resources.getDrawable(R.drawable.ic_speaker).mutate(); spk.setTint(brown())
+            val sz = dp(30); spk.setBounds(0, 0, sz, sz)
+            setCompoundDrawablesRelative(spk, null, null, null)
+            setCompoundDrawablePadding(dp(12))
             minHeight = dp(64); setPadding(dp(22), dp(10), dp(22), dp(10))
             setOnClickListener { playMyRec() }
         }
@@ -530,8 +532,8 @@ class MainActivity : AppCompatActivity() {
         val b = vV().apply { gravity = Gravity.CENTER_HORIZONTAL; setPadding(dp(16), dp(6), dp(16), dp(20)) }
         hintView = textTv("", 15f, brown()).also { it.gravity = Gravity.CENTER }
         b.addView(hintView!!, lp(mpBar()))
-        // 两按钮统一全宽自适应高度：不裁字（固定高度在系统字体缩放下会裁内容）
-        val replay = cartoonBtn("再听一次", "🔊", yellow(), brown()) { playCurrent() }
+        // 两按钮统一全宽自适应高度：不裁字（固定高度在系统字体缩放下会裁内容）；图标统一为矢量，与「继续」协调
+        val replay = cartoonBtnIcon("再听一次", R.drawable.ic_speaker, yellow(), brown()) { playCurrent() }
         b.addView(replay, lp(mpBar(), wrapPx()).also { it.topMargin = dp(6) })
         // 答对后才出现「继续」按钮（INVISIBLE 保持占位不跳动）：图轮完→乱序词轮；词轮完→完成
         nextBtn = cartoonBtnIcon("继续", R.drawable.ic_arrow_right, green(), Color.WHITE) {
@@ -940,13 +942,17 @@ class MainActivity : AppCompatActivity() {
         setOnClickListener { onClick() }
     }
 
-    /** 带矢量图标的卡通按钮：左侧 icon + 文字（icon 颜色随前景色），指示更明确 */
+    /** 带矢量图标的卡通按钮：左侧 icon + 文字（icon 颜色随前景色）。
+ *  用 setBounds 强制图标尺寸，与文字比例协调；所有带图标按钮统一规范，避免大小/位置不一。 */
     private fun cartoonBtnIcon(text: String, icon: Int, bg: Int, fg: Int, onClick: () -> Unit) = Button(this).apply {
         this.text = text; textSize = 19f; typeface = Typeface.DEFAULT_BOLD
         setTextColor(fg)
-        setCompoundDrawablesRelativeWithIntrinsicBounds(icon, 0, 0, 0)
-        setCompoundDrawableTintList(ColorStateList.valueOf(fg))
-        val pad = dp(10); setCompoundDrawablePadding(pad)
+        val ic = resources.getDrawable(icon).mutate()
+        ic.setTint(fg)
+        val size = dp(30)   // 图标高度统一为文字相近大小，协调醒目
+        ic.setBounds(0, 0, size, size)
+        setCompoundDrawablesRelative(ic, null, null, null)
+        setCompoundDrawablePadding(dp(12))
         background = rounded(bg, dp(30))
         setPadding(dp(22), dp(10), dp(22), dp(10))
         minHeight = dp(56)
