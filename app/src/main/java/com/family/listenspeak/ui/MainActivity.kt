@@ -79,11 +79,15 @@ class MainActivity : AppCompatActivity() {
     private val recorder = PcmRecorder()
     private val handler = Handler(Looper.getMainLooper())
     private var recButton: Button? = null
-    private var recResult: TextView? = null
-    private var nextBtn: Button? = null
     private var recording = false
     private var lastRecPcm: ByteArray? = null
     private var hintView: TextView? = null
+    private var nextBtn: Button? = null   // 选择卡（词卡）「继续」
+
+    // ===== 跟读评分（句子卡）：≥60 分才出「下一句」；低分只提示重试 =====
+    private val PASS_PERCENT = 60                       // 百分制及格线
+    private var listenNext: Button? = null              // 句子卡底部「下一句」（≥60 才显示）
+    private var listenResult: TextView? = null          // 句子卡跟读结果（分数+表情+标签）
 
     private var tabletMode = false
     private val prefs get() = getSharedPreferences("ls_prefs", MODE_PRIVATE)
@@ -491,23 +495,25 @@ class MainActivity : AppCompatActivity() {
             movementMethod = LinkMovementMethod()
         })
         card.addView(textTv(c.zh ?: "", 14f, hintColor()).also { it.gravity = Gravity.CENTER }, lp(mpBar()).also { it.topMargin = dp(4) })
-        // 跟读 + 回放按钮
+        // 跟读 + 回放按钮（加大，方便小朋友点按；自适应高度 + minHeight 保底不裁字）
         val row = hbox()
         recButton = Button(this).apply {
             text = "🎤 跟读"
             setBackgroundTintList(ColorStateList.valueOf(0xFFFF8A65.toInt()))
-            setTextColor(Color.WHITE); textSize = 18f; typeface = Typeface.DEFAULT_BOLD
+            setTextColor(Color.WHITE); textSize = 22f; typeface = Typeface.DEFAULT_BOLD
+            minHeight = dp(64); setPadding(dp(28), dp(10), dp(28), dp(10))
             setOnClickListener { toggleRec() }
         }
         row.addView(recButton, lp(wrapPx(), wrapPx()))
         val playRec = Button(this).apply {
-            text = "🔊 我的录音"; setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 15f
+            text = "🔊 我的录音"; setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
+            minHeight = dp(64); setPadding(dp(22), dp(10), dp(22), dp(10))
             setOnClickListener { playMyRec() }
         }
-        row.addView(playRec, lp(wrapPx(), wrapPx()).also { it.leftMargin = dp(10) })
+        row.addView(playRec, lp(wrapPx(), wrapPx()).also { it.leftMargin = dp(12) })
         card.addView(row, lp(wrapPx()).also { it.topMargin = dp(12) })
-        recResult = textTv("", 15f, hintColor())
-        card.addView(recResult!!, lp(mpBar()).also { it.topMargin = dp(8) })
+        listenResult = textTv("", 15f, hintColor()).also { it.gravity = Gravity.CENTER; it.minHeight = dp(44) }
+        card.addView(listenResult!!, lp(mpBar()).also { it.topMargin = dp(8) })
         return card
     }
 
@@ -529,8 +535,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun listenBottom(): LinearLayout {
         val b = vV().apply { gravity = Gravity.CENTER_HORIZONTAL; setPadding(dp(16), dp(6), dp(16), dp(20)) }
-        val next = cartoonBtn("下一句", "🐣", green(), Color.WHITE) { stopRec(); idx++; renderSession() }
-        b.addView(next, lp(mpBar(), wrapPx()))
+        // 「下一句」：跟读评分 ≥60 才显示（INVISIBLE 保持占位不跳动）
+        listenNext = cartoonBtn("下一句", "🐣", green(), Color.WHITE) { stopRec(); idx++; renderSession() }
+            .apply { visibility = View.INVISIBLE }
+        b.addView(listenNext!!, lp(mpBar(), wrapPx()))
         return b
     }
 
@@ -702,7 +710,8 @@ class MainActivity : AppCompatActivity() {
         recorder.start()
         recording = true
         recButton?.text = "⏹ 停止"
-        recResult?.text = "录音中…"
+        listenResult?.text = "🎙 录音中…"
+        listenResult?.setTextColor(hintColor())
     }
 
     private fun stopRec() {
@@ -712,16 +721,69 @@ class MainActivity : AppCompatActivity() {
         lastRecPcm = pcm
         recButton?.text = "🎤 跟读"
         val cur = curQueue().getOrNull(idx) ?: return
-        if (!recorder.hasVoice(pcm)) { recResult?.text = "没听到，再读一次"; return }
+        if (!recorder.hasVoice(pcm)) {
+            listenResult?.text = "😕 没听到，再读一次"
+            listenResult?.setTextColor(0xFFE53935.toInt())
+            SoundFx.wrong()
+            listenNext?.visibility = View.INVISIBLE
+            return
+        }
         lifecycleScope.launch {
             val res = app.scorer.score(cur.card.en, pcm)
-            recResult?.text = when (res) {
-                is ScoreOutcome.Ok -> scoreText(res.total)
-                is ScoreOutcome.NoVoice -> "没听到声音"
-                is ScoreOutcome.Timeout -> "稍后再评"
-                is ScoreOutcome.Error -> "评错：${res.msg}"
+            when (res) {
+                is ScoreOutcome.Ok -> onScoreOk(res.total)
+                is ScoreOutcome.NoVoice -> {
+                    listenResult?.text = "😕 没听到声音，再读一次"
+                    listenResult?.setTextColor(0xFFE53935.toInt()); SoundFx.wrong()
+                    listenNext?.visibility = View.INVISIBLE
+                }
+                is ScoreOutcome.Timeout -> {
+                    listenResult?.text = "⏳ 稍后再评，再读一次"
+                    listenResult?.setTextColor(0xFFEF6C00.toInt())
+                    listenNext?.visibility = View.INVISIBLE
+                }
+                is ScoreOutcome.Error -> {
+                    listenResult?.text = "⚠️ 评错：${res.msg}"
+                    listenResult?.setTextColor(0xFFEF6C00.toInt())
+                }
             }
         }
+    }
+
+    /** 跟读打分结果：≥60 出「下一句」+ 鼓励；<60 难过 + 重读（不出现下一句） */
+    private fun onScoreOk(total5: Float) {
+        val pct = (total5 * 20).toInt().coerceIn(0, 100)
+        val passed = pct >= PASS_PERCENT
+        val stars = StarMapper.stars(currentBand, total5) ?: 0
+        val starStr = StringBuilder().apply { repeat(3) { append(if (it < stars) "★" else "☆") } }
+        if (passed) {
+            val tag = praiseTag(pct)
+            listenResult?.text = "$starStr ${pct}分 · $tag"
+            listenResult?.setTextColor(0xFF2E7D32.toInt())
+            SoundFx.correct()
+            praiseVoice(tag)
+            listenNext?.visibility = View.VISIBLE
+        } else {
+            listenResult?.text = "$starStr ${pct}分 · 😢 再读一次会更棒"
+            listenResult?.setTextColor(0xFFE53935.toInt())
+            SoundFx.wrong()
+            listenNext?.visibility = View.INVISIBLE
+        }
+    }
+
+    /** 打分标签：按百分制分档（good/great/perfect/amazing） */
+    private fun praiseTag(pct: Int): String = when {
+        pct >= 95 -> "amazing"
+        pct >= 85 -> "perfect"
+        pct >= 70 -> "great"
+        else -> "good"
+    }
+
+    /** 播报标签语音：复用词库真人音频（amazing/great/good 已有；perfect 走 TTS 兜底） */
+    private fun praiseVoice(tag: String) {
+        val e = app.content.vocab(tag)
+        if (e?.aud != null) lifecycleScope.launch { app.player.play("content/v1/${e.aud}", fallbackText = tag, slow = false) }
+        else app.tts.speak(tag, false)
     }
 
     /** 播放自己的录音（PCM → WAV → MediaPlayer） */
@@ -752,13 +814,6 @@ class MainActivity : AppCompatActivity() {
     private fun intLE(v: Int): ByteArray = byteArrayOf(
         (v and 0xFF).toByte(), ((v shr 8) and 0xFF).toByte(), ((v shr 16) and 0xFF).toByte(), ((v shr 24) and 0xFF).toByte()
     )
-
-    private fun scoreText(score5: Float): String {
-        val st = StarMapper.stars(currentBand, score5) ?: 0
-        val sb = StringBuilder()
-        repeat(3) { i -> sb.append(if (i < st) "★" else "☆") }
-        return "$sb ${(score5 * 20).toInt()}分"
-    }
 
     // =============== 结束页 ===============
     private fun showDone() {
