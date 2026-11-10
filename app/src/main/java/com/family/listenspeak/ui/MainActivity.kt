@@ -188,9 +188,9 @@ class MainActivity : AppCompatActivity() {
         val col = vBox().apply { setPadding(dp(24), dp(40), dp(24), dp(64)) }   // 底部留安全区，防文字被导航条裁切
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
-        // 版本指纹：装对/装错一眼可辨（剑桥改版一起标识）
+        // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.8 · 10主题"
+            text = "v0.2.9 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
