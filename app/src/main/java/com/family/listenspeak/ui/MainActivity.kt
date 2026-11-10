@@ -190,7 +190,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.12 · 29主题"
+            text = "v0.2.13 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         LEVELS.forEach { lv ->
@@ -504,7 +504,7 @@ class MainActivity : AppCompatActivity() {
             setBackgroundTintList(ColorStateList.valueOf(0xFFFF8A65.toInt()))
             setTextColor(Color.WHITE); textSize = 22f; typeface = Typeface.DEFAULT_BOLD
             val mic = resources.getDrawable(R.drawable.ic_mic).mutate(); mic.setTint(Color.WHITE)
-            val sz = dp(30); mic.setBounds(0, 0, sz, sz)
+            val sz = dp(42); mic.setBounds(0, 0, sz, sz)
             setCompoundDrawablesRelative(mic, null, null, null)
             setCompoundDrawablePadding(dp(12))
             minHeight = dp(64); setPadding(dp(28), dp(10), dp(28), dp(10))
@@ -515,7 +515,7 @@ class MainActivity : AppCompatActivity() {
             text = "我的录音"
             setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
             val spk = resources.getDrawable(R.drawable.ic_speaker).mutate(); spk.setTint(brown())
-            val sz = dp(30); spk.setBounds(0, 0, sz, sz)
+            val sz = dp(42); spk.setBounds(0, 0, sz, sz)
             setCompoundDrawablesRelative(spk, null, null, null)
             setCompoundDrawablePadding(dp(12))
             minHeight = dp(64); setPadding(dp(22), dp(10), dp(22), dp(10))
@@ -949,7 +949,7 @@ class MainActivity : AppCompatActivity() {
         setTextColor(fg)
         val ic = resources.getDrawable(icon).mutate()
         ic.setTint(fg)
-        val size = dp(30)   // 图标高度统一为文字相近大小，协调醒目
+        val size = dp(42)   // 图标放大到接近文字、占按钮高度50%+，幼儿清晰可辨
         ic.setBounds(0, 0, size, size)
         setCompoundDrawablesRelative(ic, null, null, null)
         setCompoundDrawablePadding(dp(12))
