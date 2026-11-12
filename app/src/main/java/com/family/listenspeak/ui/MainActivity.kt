@@ -100,10 +100,9 @@ class MainActivity : AppCompatActivity() {
     // ===== 登录态 / 星星累计（v0.2.15）：账号绑定 childId，总星数以服务器为权威 =====
     private val KEY_USER = "login_username"          // 当前登录账号（空=未登录）
     private val KEY_UID = "server_user_id"            // VPS 后台 user_id
-    private val KEY_BASE = "server_base"              // 后台服务地址
     private val KEY_PENDING = "pending_stars"         // 离线未上报星星增量
     private var totalStars = 0                         // 当前账号累计星数（内存展示）
-    private fun base(): String = prefs.getString(KEY_BASE, ApiClient.DEFAULT_BASE) ?: ApiClient.DEFAULT_BASE
+    private fun base(): String = ApiClient.DEFAULT_BASE   // 固定内置服务器，不可配置
     private fun curUser(): String? = prefs.getString(KEY_USER, null)
 
     // 右滑返回：记录当前层的返回动作
@@ -251,7 +250,7 @@ class MainActivity : AppCompatActivity() {
         prefs.edit().putInt(KEY_PENDING, prefs.getInt(KEY_PENDING, 0) + delta).apply()
     }
 
-    /** 退出登录：清账号态（保留服务器地址配置） */
+    /** 退出登录：清账号态 */
     private fun logout() {
         prefs.edit().remove(KEY_USER).remove(KEY_UID).apply()
         totalStars = 0
@@ -282,10 +281,6 @@ class MainActivity : AppCompatActivity() {
         etPwd2.visibility = View.GONE
         col.addView(etPwd2, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
 
-        // 服务器地址（家长配置，默认官网）
-        val etBase = inputBox("服务器地址", false).apply { setText(base()); textSize = 13f }
-        col.addView(etBase, lp(mp(), wrapPx()).also { it.topMargin = dp(16) })
-
         val msg = textTv("", 14f, 0xFFE53935.toInt()).also { it.gravity = Gravity.CENTER }
         col.addView(msg, lp(mp(), wrapPx()).also { it.topMargin = dp(10) })
 
@@ -308,8 +303,7 @@ class MainActivity : AppCompatActivity() {
             val u = etUser.text.toString().trim()
             val p1 = etPwd.text.toString()
             val p2 = etPwd2.text.toString()
-            val b = etBase.text.toString().trim().ifEmpty { ApiClient.DEFAULT_BASE }
-            prefs.edit().putString(KEY_BASE, b).apply()
+            val b = ApiClient.DEFAULT_BASE   // 服务器地址固定内置，不占登录页
             when {
                 !ApiClient.validName(u) -> msg.text = "账号需 3-20 位字母或数字"
                 !ApiClient.validPwd(p1) -> msg.text = "密码需 4-20 位字母或数字"
@@ -359,7 +353,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.15 · 29主题"
+            text = "v0.2.16 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）

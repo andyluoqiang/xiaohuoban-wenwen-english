@@ -11,8 +11,7 @@ import java.util.concurrent.TimeUnit
 
 /**
  * VPS 后台 API 客户端：注册/登录/星星同步。
- * 服务器地址在登录页配置（默认 https://www.jxonline.top/ww），存 SharedPreferences。
- * 所有请求带 6s 超时；返回 ApiResp(code, msg, 数据字段)。
+ * 服务器地址固定内置（https://www.jxonline.top/ww），无需用户配置。
  */
 object ApiClient {
 
@@ -86,6 +85,6 @@ object ApiClient {
                     val jo = JSONObject(r.body()?.string() ?: "{}")
                     ApiResp(jo.optInt("code", -1), jo.optString("msg", ""), jo.optLong("user_id", 0), jo.optInt("stars", 0))
                 }
-            }.getOrElse { ApiResp(-1, "网络连接失败，请检查网络或服务器地址") }
+            }.getOrElse { ApiResp(-1, "网络连接失败，请稍后再试") }
         }
 }
