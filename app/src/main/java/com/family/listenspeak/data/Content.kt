@@ -136,3 +136,25 @@ data class ParentTask(
     val done: Boolean = false,
     val doneTs: Long? = null
 )
+
+// ============ v0.2.15 新增：账号体系 + 课程学习统计 ============
+
+/** 登录账号（App 本地）：username → childId 绑定；totalStars 为云端权威总数缓存 */
+@Entity(tableName = "UserAccount")
+data class UserAccount(
+    @PrimaryKey val username: String,
+    val childId: Long,
+    val serverUserId: Long,                 // VPS 后台 user_id
+    val totalStars: Int = 0,                // 服务器权威累计星数（登录时拉取，得星本地+增量）
+    val createdAt: Long = System.currentTimeMillis()
+)
+
+/** 课程学习统计：每次学完一课（showDone）learnCount+1 并记录时间 */
+@Entity(tableName = "LessonStat")
+data class LessonStat(
+    @PrimaryKey val key: String,            // "${childId}-${lessonId}"
+    val childId: Long,
+    val lessonId: String,
+    val learnCount: Int = 0,
+    val lastTs: Long = 0
+)

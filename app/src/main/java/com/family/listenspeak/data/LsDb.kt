@@ -82,10 +82,33 @@ interface ParentTaskDao {
     suspend fun markDone(id: Long, ts: Long)
 }
 
+@Dao
+interface UserDao {
+    @Query("SELECT * FROM UserAccount WHERE username=:u")
+    suspend fun byName(u: String): UserAccount?
+    @Query("SELECT COUNT(*) FROM UserAccount")
+    suspend fun count(): Int
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsert(u: UserAccount)
+    @Query("UPDATE UserAccount SET totalStars=:s WHERE username=:u")
+    suspend fun setStars(u: String, s: Int)
+}
+
+@Dao
+interface LessonStatDao {
+    @Query("SELECT * FROM LessonStat WHERE childId=:childId AND lessonId=:lessonId")
+    suspend fun get(childId: Long, lessonId: String): LessonStat?
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsert(s: LessonStat)
+    @Query("SELECT * FROM LessonStat WHERE childId=:childId")
+    suspend fun forChild(childId: Long): List<LessonStat>
+}
+
 @Database(
     entities = [Child::class, Progress::class, Attempt::class,
-                ReviewItem::class, EvalQueue::class, Award::class, ParentTask::class],
-    version = 1, exportSchema = false
+                ReviewItem::class, EvalQueue::class, Award::class, ParentTask::class,
+                UserAccount::class, LessonStat::class],
+    version = 2, exportSchema = false
 )
 abstract class LsDb : RoomDatabase() {
     abstract fun childDao(): ChildDao
@@ -95,12 +118,20 @@ abstract class LsDb : RoomDatabase() {
     abstract fun evalQueueDao(): EvalQueueDao
     abstract fun awardDao(): AwardDao
     abstract fun parentTaskDao(): ParentTaskDao
+    abstract fun userDao(): UserDao
+    abstract fun lessonStatDao(): LessonStatDao
 
     companion object {
         @Volatile private var inst: LsDb? = null
         fun get(ctx: Context): LsDb = inst ?: synchronized(this) {
             inst ?: Room.databaseBuilder(ctx.applicationContext, LsDb::class.java, "ls.db")
-                .fallbackToDestructiveMigration()
+                // v1→v2 仅新增 UserAccount/LessonStat 两表，显式迁移保住旧学习进度
+                .addMigrations(object : androidx.room.migration.Migration(1, 2) {
+                    override fun migrate(db: androidx.sqlite.db.SupportSQLiteDatabase) {
+                        db.execSQL("CREATE TABLE IF NOT EXISTS `UserAccount` (`username` TEXT NOT NULL, `childId` INTEGER NOT NULL, `serverUserId` INTEGER NOT NULL, `totalStars` INTEGER NOT NULL DEFAULT 0, `createdAt` INTEGER NOT NULL, PRIMARY KEY(`username`))")
+                        db.execSQL("CREATE TABLE IF NOT EXISTS `LessonStat` (`key` TEXT NOT NULL, `childId` INTEGER NOT NULL, `lessonId` TEXT NOT NULL, `learnCount` INTEGER NOT NULL DEFAULT 0, `lastTs` INTEGER NOT NULL, PRIMARY KEY(`key`))")
+                    }
+                })
                 .build().also { inst = it }
         }
     }

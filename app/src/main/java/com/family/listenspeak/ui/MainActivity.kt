@@ -21,11 +21,13 @@ import android.text.style.ClickableSpan
 import android.view.Gravity
 import android.view.View
 import android.widget.Button
+import android.widget.EditText
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.ScrollView
 import android.widget.TextView
+import android.text.InputType
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
@@ -39,9 +41,12 @@ import com.family.listenspeak.data.VocabDef
 import com.family.listenspeak.eval.ScoreOutcome
 import com.family.listenspeak.eval.StarMapper
 import com.family.listenspeak.learn.SessionEngine
+import com.family.listenspeak.net.ApiClient
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 import java.io.ByteArrayOutputStream
+import java.text.SimpleDateFormat
+import java.util.Date
 import java.util.Locale
 
 /**
@@ -91,6 +96,15 @@ class MainActivity : AppCompatActivity() {
 
     private var tabletMode = false
     private val prefs get() = getSharedPreferences("ls_prefs", MODE_PRIVATE)
+
+    // ===== 登录态 / 星星累计（v0.2.15）：账号绑定 childId，总星数以服务器为权威 =====
+    private val KEY_USER = "login_username"          // 当前登录账号（空=未登录）
+    private val KEY_UID = "server_user_id"            // VPS 后台 user_id
+    private val KEY_BASE = "server_base"              // 后台服务地址
+    private val KEY_PENDING = "pending_stars"         // 离线未上报星星增量
+    private var totalStars = 0                         // 当前账号累计星数（内存展示）
+    private fun base(): String = prefs.getString(KEY_BASE, ApiClient.DEFAULT_BASE) ?: ApiClient.DEFAULT_BASE
+    private fun curUser(): String? = prefs.getString(KEY_USER, null)
 
     // 右滑返回：记录当前层的返回动作
     private var backAction: (() -> Unit)? = null
@@ -155,8 +169,12 @@ class MainActivity : AppCompatActivity() {
         setupSwipeBack()
         lifecycleScope.launch {
             runCatching { app.content.load() }
-            ensureChild()
-            showDifficultyMap()
+            val saved = curUser()
+            if (saved != null) {
+                ensureChildFor(saved)
+                loadStars()
+                showDifficultyMap()
+            } else showLogin()
         }
     }
 
@@ -173,26 +191,195 @@ class MainActivity : AppCompatActivity() {
         else super.onBackPressed()
     }
 
-    private suspend fun ensureChild() {
-        val dao = app.db.childDao()
-        val existing = dao.all().first()
-        childId = if (existing.isEmpty()) {
-            dao.upsert(Child(name = "小山姆", avatar = "bear", birthYear = 2022, bandLevel = 1))
-        } else existing.first().id
+    /** 按账号加载/创建 Child：首个登录账号直接绑定现有 child（保留旧学习进度）；后续新账号新建 */
+    private suspend fun ensureChildFor(username: String) {
+        val acc = app.db.userDao().byName(username)
+        if (acc != null) { childId = acc.childId; return }
+        val udao = app.db.userDao()
+        val cdao = app.db.childDao()
+        val all = cdao.all().first()
+        childId = when {
+            all.isEmpty() -> cdao.upsert(Child(name = username, avatar = "bear", birthYear = 2022, bandLevel = 1))
+            udao.count() == 0 -> all.first().id      // 首个登录账号继承旧进度
+            else -> cdao.upsert(Child(name = username, avatar = "bear", birthYear = 2022, bandLevel = 1))
+        }
+        udao.upsert(com.family.listenspeak.data.UserAccount(username, childId, prefs.getLong(KEY_UID, 0), 0))
+    }
+
+    /** 登录后载入总星数：本地缓存为准，异步拉服务器校准 + 补报离线增量 */
+    private fun loadStars() {
+        val u = curUser() ?: return
+        lifecycleScope.launch {
+            app.db.userDao().byName(u)?.let { totalStars = it.totalStars }
+            val uid = app.db.userDao().byName(u)?.serverUserId ?: prefs.getLong(KEY_UID, 0)
+            if (uid > 0) {
+                ApiClient.starsGet(base(), uid)?.let { t ->
+                    totalStars = t
+                    app.db.userDao().setStars(u, t)
+                }
+            }
+            val p = prefs.getInt(KEY_PENDING, 0)
+            if (p > 0) { prefs.edit().putInt(KEY_PENDING, 0).apply(); reportStars(p) }
+        }
+    }
+
+    /** 学习会话结束：累计总星并异步上报服务器（失败存 pending，下次补报） */
+    private fun addSessionStars(delta: Int) {
+        if (delta <= 0) return
+        totalStars += delta
+        val u = curUser() ?: return
+        lifecycleScope.launch {
+            val acc = app.db.userDao().byName(u)
+            if (acc != null) app.db.userDao().upsert(acc.copy(totalStars = totalStars))
+            else return@launch
+            reportStars(delta)
+        }
+    }
+
+    private fun reportStars(delta: Int) {
+        val u = curUser() ?: return
+        lifecycleScope.launch {
+            val uid = app.db.userDao().byName(u)?.serverUserId ?: return@launch
+            if (uid <= 0) { rollBackPending(delta); return@launch }
+            val t = ApiClient.starsAdd(base(), uid, delta)
+            if (t == null) rollBackPending(delta)
+            else { totalStars = t; app.db.userDao().setStars(u, t) }
+        }
+    }
+
+    private fun rollBackPending(delta: Int) {
+        prefs.edit().putInt(KEY_PENDING, prefs.getInt(KEY_PENDING, 0) + delta).apply()
+    }
+
+    /** 退出登录：清账号态（保留服务器地址配置） */
+    private fun logout() {
+        prefs.edit().remove(KEY_USER).remove(KEY_UID).apply()
+        totalStars = 0
+        showLogin()
+    }
+
+    // =============== ⓪ 登录/注册页（v0.2.15） ===============
+    private var regMode = false          // false=登录 true=注册
+
+    private fun showLogin() {
+        backAction = null
+        regMode = false
+        val sc = ScrollView(this).apply { setBackgroundColor(bg()); isFillViewport = true }
+        val col = vBox().apply { setPadding(dp(28), dp(48), dp(28), dp(48)); gravity = Gravity.CENTER_HORIZONTAL }
+
+        col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
+        col.addView(subTv("字母或数字账号 · 给爸爸妈妈先登录"))
+
+        // 已登录过的账号提示（快捷重登）
+        val lastUser = curUser()
+        if (lastUser != null) col.addView(textTv("上次账号：$lastUser", 13f, hintColor()).also { it.gravity = Gravity.CENTER })
+
+        val etUser = inputBox("账号（字母或数字）", false)
+        col.addView(etUser, lp(mp(), wrapPx()).also { it.topMargin = dp(24) })
+        val etPwd = inputBox("密码（字母或数字）", true)
+        col.addView(etPwd, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
+        val etPwd2 = inputBox("再输一次密码", true)
+        etPwd2.visibility = View.GONE
+        col.addView(etPwd2, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
+
+        // 服务器地址（家长配置，默认官网）
+        val etBase = inputBox("服务器地址", false).apply { setText(base()); textSize = 13f }
+        col.addView(etBase, lp(mp(), wrapPx()).also { it.topMargin = dp(16) })
+
+        val msg = textTv("", 14f, 0xFFE53935.toInt()).also { it.gravity = Gravity.CENTER }
+        col.addView(msg, lp(mp(), wrapPx()).also { it.topMargin = dp(10) })
+
+        // 切换 登录/注册
+        val switchBtn = Button(this).apply {
+            text = "没有账号？点此注册"
+            textSize = 14f; setTextColor(0xFF4FA3D1.toInt()); setBackgroundColor(Color.TRANSPARENT)
+            setOnClickListener {
+                regMode = !regMode
+                text = if (regMode) "已有账号？点此登录" else "没有账号？点此注册"
+                etPwd2.visibility = if (regMode) View.VISIBLE else View.GONE
+                msg.text = ""
+            }
+        }
+        col.addView(switchBtn, lp(wrapPx(), wrapPx()).also { it.topMargin = dp(4); it.gravity = Gravity.CENTER })
+
+        // 先创建按钮，再挂点击逻辑（避免在自身初始化 lambda 里自引用 submit）
+        val submit = cartoonBtnIcon(if (regMode) "注 册" else "登 录", R.drawable.ic_arrow_right, green(), Color.WHITE) { }
+        submit.setOnClickListener {
+            val u = etUser.text.toString().trim()
+            val p1 = etPwd.text.toString()
+            val p2 = etPwd2.text.toString()
+            val b = etBase.text.toString().trim().ifEmpty { ApiClient.DEFAULT_BASE }
+            prefs.edit().putString(KEY_BASE, b).apply()
+            when {
+                !ApiClient.validName(u) -> msg.text = "账号需 3-20 位字母或数字"
+                !ApiClient.validPwd(p1) -> msg.text = "密码需 4-20 位字母或数字"
+                regMode && p1 != p2 -> msg.text = "两次输入的密码不一致"
+                else -> lifecycleScope.launch {
+                    submit.isEnabled = false
+                    msg.text = if (regMode) "注册中…" else "登录中…"
+                    val resp = if (regMode) ApiClient.register(b, u, p1) else ApiClient.login(b, u, p1)
+                    when {
+                        resp.code == ApiClient.CODE_OK -> {
+                            prefs.edit().putString(KEY_USER, u).putLong(KEY_UID, resp.userId).apply()
+                            totalStars = resp.stars
+                            ensureChildFor(u)
+                            app.db.userDao().byName(u)?.let {
+                                app.db.userDao().upsert(it.copy(serverUserId = resp.userId, totalStars = resp.stars))
+                            }
+                            SoundFx.correct()
+                            showDifficultyMap()
+                        }
+                        resp.code > 0 -> { msg.text = resp.msg.ifEmpty { "操作失败" }; submit.isEnabled = true }
+                        else -> { msg.text = resp.msg; submit.isEnabled = true }
+                    }
+                }
+            }
+        }
+        col.addView(submit, lp(mp(), wrapPx()).also { it.topMargin = dp(14) })
+        sc.addView(col)
+        setView(sc)
+    }
+
+    private fun inputBox(hint: String, pwd: Boolean): EditText = EditText(this).apply {
+        this.hint = hint; textSize = 17f
+        setTextColor(brown()); setHintTextColor(hintColor())
+        background = rounded(Color.WHITE, dp(18))
+        setPadding(dp(18), dp(14), dp(18), dp(14))
+        isSingleLine = true
+        inputType = if (pwd) InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_VARIATION_PASSWORD
+        else InputType.TYPE_CLASS_TEXT
     }
 
     // =============== ① 难度档首页 ===============
     private fun showDifficultyMap() {
         backAction = null
         val sc = ScrollView(this).apply { setBackgroundColor(bg()) }
-        val col = vBox().apply { setPadding(dp(24), dp(40), dp(24), dp(64)) }   // 底部留安全区，防文字被导航条裁切
+        val col = vBox().apply { setPadding(dp(24), dp(24), dp(24), dp(64)) }   // 底部留安全区，防文字被导航条裁切
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.14 · 29主题"
+            text = "v0.2.15 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
+        // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
+        val u = curUser()
+        if (u != null) {
+            val card = vBox().apply {
+                background = rounded(Color.WHITE, dp(22))
+                setPadding(dp(18), dp(12), dp(18), dp(12)); gravity = Gravity.CENTER
+            }
+            card.addView(textTv("👤 $u", 16f, brown()).also { it.gravity = Gravity.CENTER })
+            card.addView(textTv("⭐ 累计 $totalStars 颗星星", 22f, gold()).also { it.gravity = Gravity.CENTER },
+                lp(mp(), wrapPx()).also { it.topMargin = dp(4) })
+            col.addView(card, lp(mp(), wrapPx()).also { it.topMargin = dp(14) })
+            // 退出登录（家长换账号用）
+            val quit = Button(this).apply {
+                text = "退出登录"; textSize = 13f; setTextColor(hintColor()); setBackgroundColor(Color.TRANSPARENT)
+                setOnClickListener { logout() }
+            }
+            col.addView(quit, lp(wrapPx(), wrapPx()).also { it.gravity = Gravity.CENTER })
+        }
         LEVELS.forEach { lv ->
             col.addView(levelRow(lv) { showThemePicker(lv.key) }, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
         }
@@ -235,7 +422,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /** 课程树页：所有课程随时可学（不做解锁门槛）+ 🎲 随机学习 */
+    /** 课程树页：所有课程随时可学（不做解锁门槛）+ 🎲 随机学习；含每课学习次数/上次时间 */
     private fun showLessons(themeId: String, levelKey: String) {
         curTheme = themeId
         curLevel = levelKey
@@ -244,6 +431,7 @@ class MainActivity : AppCompatActivity() {
         lifecycleScope.launch {
             val lessons = lessonsFor(themeId, currentBand)
             val passed = app.db.attemptDao().passedCardIds(childId).toSet()
+            val stats = app.db.lessonStatDao().forChild(childId).associateBy { it.lessonId }
             val sc = ScrollView(this@MainActivity).apply { setBackgroundColor(bg()) }
             val col = vBox().apply { setPadding(dp(20), dp(18), dp(20), dp(64)) }
             col.addView(topBar("课程 · ${THEME_META[themeId]?.nameZh ?: themeId}", left = { showThemePicker(levelKey) }))
@@ -253,7 +441,7 @@ class MainActivity : AppCompatActivity() {
             col.addView(random, lp(mp(), wrapPx()).also { it.topMargin = dp(14) })
             lessons.forEach { l ->
                 val done = l.cards.count { it.id in passed }
-                col.addView(lessonRow(l, done) { startLesson(l) },
+                col.addView(lessonRow(l, done, stats[l.id]) { startLesson(l) },
                     lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
             }
             sc.addView(col)
@@ -261,8 +449,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /** 课程行：📖 第N课 · 标题（首词）· 已学 x/10 */
-    private fun lessonRow(l: LessonDef, done: Int, onClick: () -> Unit) = LinearLayout(this).apply {
+    /** 课程行：📖 第N课 · 标题（首词）· 已学 x/10 · 共学次数与上次时间 */
+    private fun lessonRow(l: LessonDef, done: Int, stat: com.family.listenspeak.data.LessonStat? = null, onClick: () -> Unit) = LinearLayout(this).apply {
         orientation = LinearLayout.HORIZONTAL; gravity = Gravity.CENTER_VERTICAL
         setPadding(dp(16), dp(14), dp(16), dp(14))
         background = rounded(0xFFFFF3E0.toInt(), dp(20))
@@ -282,6 +470,12 @@ class MainActivity : AppCompatActivity() {
             r.addView(badge, LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.topMargin = dp(4) })
         }
         r.addView(textTv("${l.title} … 共 ${l.cards.size} 个", 13f, hintColor()))
+        // 学习次数 + 上次学习时间（学过后展示）
+        stat?.let { s ->
+            val fmt = SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.CHINA)
+            r.addView(textTv("共学 ${s.learnCount} 次 · 上次 ${fmt.format(Date(s.lastTs))}", 12f, 0xFF8D6E63.toInt()),
+                LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.topMargin = dp(3) })
+        }
         addView(r, LinearLayout.LayoutParams(0, wrapPx()).apply { weight = 1f })
         addView(textTv("$done/${l.cards.size}", 15f, if (done >= l.cards.size) green() else hintColor()),
             LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.rightMargin = dp(8) })
@@ -419,7 +613,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun sessionTop(cur: SessionEngine.QueueItem): LinearLayout {
         val bar = hbox().apply { setPadding(dp(14), dp(18), dp(14), dp(6)) }
-        bar.addView(circleBtn("✕") { showDifficultyMap() })
+        // ❌ 关闭：回到当前主题的课程选择页（而非难度选择页，减少返层级）
+        bar.addView(circleBtn("✕") { stopRec(); showLessons(curTheme, curLevel) })
         val tag = when {
             stage == 1 -> ""
             round == 0 -> "🎧 第1遍 · 看图 "
@@ -832,6 +1027,9 @@ class MainActivity : AppCompatActivity() {
     // =============== 结束页 ===============
     private fun showDone() {
         SoundFx.cheer()
+        // ① 本次会话星星计入账号总累计并异步上报云端；② 记课程学习次数 + 上次时间
+        addSessionStars(stars)
+        recordLessonDone()
         val root = vBox().apply {
             gravity = Gravity.CENTER
             setBackgroundColor(bg())
@@ -839,6 +1037,7 @@ class MainActivity : AppCompatActivity() {
         }
         root.addView(textTv("🎉 恭喜你完成任务！", 26f, brown()).also { it.gravity = Gravity.CENTER })
         root.addView(textTv("获得 +$stars★", 20f, gold()).also { it.gravity = Gravity.CENTER }, lp(mp()).also { it.topMargin = dp(12) })
+        root.addView(textTv("⭐ 累计 $totalStars★", 16f, gold()).also { it.gravity = Gravity.CENTER }, lp(mp()).also { it.topMargin = dp(6) })
 
         // 继续 / 完成
         val row = hbox()
@@ -851,6 +1050,18 @@ class MainActivity : AppCompatActivity() {
         row.addView(doneBtn, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.leftMargin = dp(8) })
         root.addView(row, lp(mp()).also { it.topMargin = dp(24) })
         setView(root)
+    }
+
+    /** 课程学完：learnCount+1 并记录时间（含随机课，随机课 lessonId 以 -random 结尾） */
+    private fun recordLessonDone() {
+        val lessonId = curLesson?.id ?: return
+        lifecycleScope.launch {
+            val key = "$childId-$lessonId"
+            val cur = app.db.lessonStatDao().get(childId, lessonId)
+            app.db.lessonStatDao().upsert(
+                com.family.listenspeak.data.LessonStat(key, childId, lessonId, (cur?.learnCount ?: 0) + 1, System.currentTimeMillis())
+            )
+        }
     }
 
     /** 继续：优先进入本主题下一课；课程学完则进入下一主题课程树 */
