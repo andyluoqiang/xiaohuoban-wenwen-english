@@ -152,12 +152,12 @@ class MainActivity : AppCompatActivity() {
 
     private data class Level(val key: String, val short: String, val color: Int, val name: String, val desc: String)
     private val LEVELS = listOf(
-        Level("l1", "L1", 0xFFFF8A65.toInt(), "启蒙 · 核心词汇", "12 词 · 看图 + 认词两轮"),
-        Level("l2", "L2", 0xFF4FA3D1.toInt(), "拓展 · 词汇短语", "16 词四选一 + 3 张短语卡"),
-        Level("l3", "L3", 0xFFAB83BD.toInt(), "短句 · 听指令", "8 句 TPR · 听句选图"),
-        Level("l4", "L4", 0xFF8BC34A.toInt(), "问答与表达", "6 问答 + 3 复述 + 3 主动提问"),
-        Level("l5", "L5", 0xFFFFB74D.toInt(), "情景对话", "6 轮情景对话"),
-        Level("l6", "L6", 0xFF4DB6AC.toInt(), "小小叙述家", "5 句连续叙述 · 挑战跟读")
+        Level("l1", "L1", 0xFFFF8A65.toInt(), "启蒙 · 核心词汇", "看图 + 认词"),
+        Level("l2", "L2", 0xFF4FA3D1.toInt(), "拓展 · 词汇短语", "四选一 · 含短语"),
+        Level("l3", "L3", 0xFFAB83BD.toInt(), "短句 · 听指令", "听句选图"),
+        Level("l4", "L4", 0xFF8BC34A.toInt(), "问答与表达", "问答 + 复述"),
+        Level("l5", "L5", 0xFFFFB74D.toInt(), "情景对话", "对话轮次练习"),
+        Level("l6", "L6", 0xFF4DB6AC.toInt(), "小小叙述家", "跟读挑战")
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -350,10 +350,9 @@ class MainActivity : AppCompatActivity() {
         val sc = ScrollView(this).apply { setBackgroundColor(bg()) }
         val col = vBox().apply { setPadding(dp(24), dp(24), dp(24), dp(64)) }   // 底部留安全区，防文字被导航条裁切
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
-        col.addView(subTv("由易到难 · 先选难度，再学主题"))
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.16 · 29主题"
+            text = "v0.2.17 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
@@ -1193,9 +1192,29 @@ class MainActivity : AppCompatActivity() {
         addView(badge, LinearLayout.LayoutParams(dp(44), dp(44)).also { it.rightMargin = dp(12) })
         val r = LinearLayout(this@MainActivity).apply { orientation = LinearLayout.VERTICAL }
         r.addView(textTv(lv.name, 16f, brown()))
-        r.addView(textTv(lv.desc, 12f, hintColor()))
+        // 档位真实数据：动态统计（与课程页同口径），卡片/主题数随内容更新自动正确
+        val band = lv.key.substring(1).toIntOrNull() ?: 1
+        val (cards, themeCnt) = bandStats(band)
+        val unitWord = if (band <= 2) "词卡" else "句卡"
+        r.addView(textTv("$cards 张$unitWord · $themeCnt 个主题 · ${lv.desc}", 12f, hintColor()))
         addView(r, LinearLayout.LayoutParams(0, wrapPx()).apply { weight = 1f })
         addView(textTv("›", 22f, brown()))
+    }
+
+    /** 档位数据统计（动态算，内容扩充后永不过时）：返回 该档可学卡数 to 主题数 */
+    private fun bandStats(band: Int): Pair<Int, Int> {
+        var cards = 0
+        val themes = mutableSetOf<String>()
+        app.content.themes.forEach { (tid, tc) ->
+            tc.units.filter { it.band == band }.forEach { u ->
+                themes.add(tid)
+                cards += u.cards.count { c ->
+                    if (band <= 2) (c.type !in LISTEN_TYPES && !c.image.isNullOrEmpty())
+                    else c.type in LISTEN_TYPES
+                }
+            }
+        }
+        return cards to themes.size
     }
 
     private fun levelRowAll(onClick: () -> Unit) = LinearLayout(this).apply {
