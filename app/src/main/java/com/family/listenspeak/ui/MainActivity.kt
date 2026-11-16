@@ -352,7 +352,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.17 · 29主题"
+            text = "v0.2.18 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
@@ -685,31 +685,34 @@ class MainActivity : AppCompatActivity() {
             movementMethod = LinkMovementMethod()
         })
         card.addView(textTv(c.zh ?: "", 14f, hintColor()).also { it.gravity = Gravity.CENTER }, lp(mpBar()).also { it.topMargin = dp(4) })
-        // 跟读 + 回放按钮（加大 + 矢量图标，方便小朋友识别；自适应高度 + minHeight 保底不裁字）
+        // 跟读 + 回放按钮：等宽平分、等高、同字号（20f）、单行不折行，图标 42dp 统一
         val row = hbox()
         recButton = Button(this).apply {
             text = "跟读"
             setBackgroundTintList(ColorStateList.valueOf(0xFFFF8A65.toInt()))
-            setTextColor(Color.WHITE); textSize = 22f; typeface = Typeface.DEFAULT_BOLD
+            setTextColor(Color.WHITE); textSize = 20f; typeface = Typeface.DEFAULT_BOLD
+            isSingleLine = true
             val mic = resources.getDrawable(R.drawable.ic_mic).mutate(); mic.setTint(Color.WHITE)
             val sz = dp(42); mic.setBounds(0, 0, sz, sz)
             setCompoundDrawablesRelative(mic, null, null, null)
             setCompoundDrawablePadding(dp(12))
-            minHeight = dp(64); setPadding(dp(28), dp(10), dp(28), dp(10))
+            minHeight = dp(64); setPadding(dp(16), dp(10), dp(16), dp(10))
             setOnClickListener { toggleRec() }
         }
-        row.addView(recButton, lp(wrapPx(), wrapPx()))
+        row.addView(recButton, LinearLayout.LayoutParams(0, wrapPx(), 1f))
         val playRec = Button(this).apply {
             text = "我的录音"
-            setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 18f
+            setBackgroundTintList(ColorStateList.valueOf(yellow())); setTextColor(brown()); textSize = 20f
+            typeface = Typeface.DEFAULT_BOLD
+            isSingleLine = true
             val spk = resources.getDrawable(R.drawable.ic_speaker).mutate(); spk.setTint(brown())
             val sz = dp(42); spk.setBounds(0, 0, sz, sz)
             setCompoundDrawablesRelative(spk, null, null, null)
             setCompoundDrawablePadding(dp(12))
-            minHeight = dp(64); setPadding(dp(22), dp(10), dp(22), dp(10))
+            minHeight = dp(64); setPadding(dp(16), dp(10), dp(16), dp(10))
             setOnClickListener { playMyRec() }
         }
-        row.addView(playRec, lp(wrapPx(), wrapPx()).also { it.leftMargin = dp(12) })
+        row.addView(playRec, LinearLayout.LayoutParams(0, wrapPx(), 1f).also { it.leftMargin = dp(12) })
         card.addView(row, lp(wrapPx()).also { it.topMargin = dp(12) })
         listenResult = textTv("", 15f, hintColor()).also { it.gravity = Gravity.CENTER; it.minHeight = dp(44) }
         card.addView(listenResult!!, lp(mpBar()).also { it.topMargin = dp(8) })
