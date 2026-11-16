@@ -102,6 +102,7 @@ class MainActivity : AppCompatActivity() {
     private val KEY_UID = "server_user_id"            // VPS 后台 user_id
     private val KEY_PENDING = "pending_stars"         // 离线未上报星星增量
     private var totalStars = 0                         // 当前账号累计星数（内存展示）
+    private var starsTv: TextView? = null             // 首页星数文本（云端校准回来后无感刷新）
     private fun base(): String = ApiClient.DEFAULT_BASE   // 固定内置服务器，不可配置
     private fun curUser(): String? = prefs.getString(KEY_USER, null)
 
@@ -171,8 +172,9 @@ class MainActivity : AppCompatActivity() {
             val saved = curUser()
             if (saved != null) {
                 ensureChildFor(saved)
-                loadStars()
+                loadStarsLocal()               // 本地缓存同步读：渲染前星数已就位（修复冷启动显示0）
                 showDifficultyMap()
+                refreshStarsFromServer()       // 云端校准异步：回来后只更新星数文本
             } else showLogin()
         }
     }
@@ -205,20 +207,33 @@ class MainActivity : AppCompatActivity() {
         udao.upsert(com.family.listenspeak.data.UserAccount(username, childId, prefs.getLong(KEY_UID, 0), 0))
     }
 
-    /** 登录后载入总星数：本地缓存为准，异步拉服务器校准 + 补报离线增量 */
-    private fun loadStars() {
+    /** 本地缓存星数（毫秒级，首页渲染前调用，保证不闪 0） */
+    private suspend fun loadStarsLocal() {
+        val u = curUser() ?: return
+        app.db.userDao().byName(u)?.let { totalStars = it.totalStars }
+    }
+
+    /** 云端星数校准（异步）：先补报离线增量，再拉权威值；首页展示中无感刷新文本 */
+    private fun refreshStarsFromServer() {
         val u = curUser() ?: return
         lifecycleScope.launch {
-            app.db.userDao().byName(u)?.let { totalStars = it.totalStars }
-            val uid = app.db.userDao().byName(u)?.serverUserId ?: prefs.getLong(KEY_UID, 0)
-            if (uid > 0) {
-                ApiClient.starsGet(base(), uid)?.let { t ->
-                    totalStars = t
-                    app.db.userDao().setStars(u, t)
-                }
-            }
+            val acc = app.db.userDao().byName(u) ?: return@launch
+            val uid = acc.serverUserId
+            if (uid <= 0) return@launch
+            var latest: Int? = null
             val p = prefs.getInt(KEY_PENDING, 0)
-            if (p > 0) { prefs.edit().putInt(KEY_PENDING, 0).apply(); reportStars(p) }
+            if (p > 0) {
+                prefs.edit().putInt(KEY_PENDING, 0).apply()
+                latest = ApiClient.starsAdd(base(), uid, p)
+                if (latest == null) { rollBackPending(p); return@launch }
+            }
+            if (latest == null) latest = ApiClient.starsGet(base(), uid)
+            latest?.let { t ->
+                totalStars = t
+                app.db.userDao().setStars(u, t)
+                // 仍停留在首页时直接改文本（不重建页面、不打扰学习中的会话）
+                starsTv?.takeIf { it.isAttachedToWindow }?.text = "⭐ 累计 $totalStars 颗星星"
+            }
         }
     }
 
@@ -254,6 +269,7 @@ class MainActivity : AppCompatActivity() {
     private fun logout() {
         prefs.edit().remove(KEY_USER).remove(KEY_UID).apply()
         totalStars = 0
+        starsTv = null
         showLogin()
     }
 
@@ -352,7 +368,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.20 · 29主题"
+            text = "v0.2.21 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
@@ -363,7 +379,8 @@ class MainActivity : AppCompatActivity() {
                 setPadding(dp(18), dp(12), dp(18), dp(12)); gravity = Gravity.CENTER
             }
             card.addView(textTv("👤 $u", 16f, brown()).also { it.gravity = Gravity.CENTER })
-            card.addView(textTv("⭐ 累计 $totalStars 颗星星", 22f, gold()).also { it.gravity = Gravity.CENTER },
+            starsTv = textTv("⭐ 累计 $totalStars 颗星星", 22f, gold()).also { it.gravity = Gravity.CENTER }
+            card.addView(starsTv!!,
                 lp(mp(), wrapPx()).also { it.topMargin = dp(4) })
             col.addView(card, lp(mp(), wrapPx()).also { it.topMargin = dp(14) })
             // 退出登录（家长换账号用）
