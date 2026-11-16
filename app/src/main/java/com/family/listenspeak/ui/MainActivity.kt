@@ -352,7 +352,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.18 · 29主题"
+            text = "v0.2.19 · 29主题"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
@@ -517,8 +517,17 @@ class MainActivity : AppCompatActivity() {
         if (!isImg) return emptyList()
         val correct = c.image
         val declared = (c.distractors ?: emptyList()).filter { it != correct }
-        val extra = pool.filter { it != correct && it !in declared }.shuffled()
+        // 语义冲突防护：部位词不拿人物图当干扰（如 head 不配"喝饮料的男孩"）；
+        // 不冲突的优先取，不足再补（保证选项数量）
+        val extra = pool.filter {
+            it != correct && it !in declared && !app.content.conflictsAsDistractor(c.en, it)
+        }.shuffled()
         val distractors = (declared + extra).distinct().take(want - 1)
+        // 兜底：防护后不足额（极小主题池）时放宽取满，避免选项缺失
+        if (distractors.size < want - 1) {
+            val fill = pool.filter { it != correct && it !in distractors }.shuffled().take(want - 1 - distractors.size)
+            return (listOf(correct) + distractors + fill).shuffled()
+        }
         return (listOf(correct) + distractors).shuffled()
     }
 
