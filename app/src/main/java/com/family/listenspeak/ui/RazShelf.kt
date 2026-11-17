@@ -223,7 +223,6 @@ class RazShelf(
             }
             val iv = ImageView(act).apply {
                 scaleType = ImageView.ScaleType.CENTER_CROP
-                adjustViewBounds = true
                 background = rounded(0xFFF0E7DA.toInt(), dp(14))
             }
             val cover = coverPath(id)
@@ -334,13 +333,12 @@ class RazShelf(
         val want = minOf(wantOptions(), pages.size)
         val others = distractorPool(cur, pages).shuffled().take(want - 1)
         val opts = (listOf(cur) + others).shuffled()
-        val grid = LinearLayout(act).apply { setPadding(dp(10), dp(12), dp(10), dp(8)) }
-        val cols = if (opts.size <= 2 && !tabletWide()) 2 else 2
-        val rows = (opts.size + cols - 1) / cols
+        val col = vBox().apply { setPadding(dp(10), dp(12), dp(10), dp(8)) }
+        val rows = (opts.size + 1) / 2   // 每行 2 张
         var k = 0
         for (r in 0 until rows) {
-            val row = LinearLayout(act).apply { orientation = LinearLayout.HORIZONTAL }
-            for (c in 0 until cols) {
+            val row = hbox()
+            for (c in 0 until 2) {
                 if (k >= opts.size) break
                 val p = opts[k++]
                 val cell = FrameLayout(act).apply {
@@ -352,14 +350,14 @@ class RazShelf(
                     setPadding(dp(6), dp(6), dp(6), dp(6))
                 }
                 setupImage("content/v1/${p.img}", iv)
-                cell.addView(iv, FrameLayout.LayoutParams(mp(), mp()))
-                row.addView(cell, LinearLayout.LayoutParams(0, mp(), 1f).also { if (c == 0) it.rightMargin = dp(10) })
+                // 显式高度：ScrollView 内 weight 链会断，不能用 MATCH_PARENT/weight（图片高度会算成 0 → 看不见图）
+                cell.addView(iv, FrameLayout.LayoutParams(mp(), dp(150)))
+                row.addView(cell, LinearLayout.LayoutParams(0, wrap(), 1f).also { if (c == 0) it.rightMargin = dp(10) })
             }
-            grid.addView(row, LinearLayout.LayoutParams(mp(), 0, 1f).also { it.bottomMargin = dp(10); it.topMargin = if (r == 0) 0 else dp(10) })
+            col.addView(row, LinearLayout.LayoutParams(mp(), wrap()).also { it.topMargin = if (r == 0) 0 else dp(10) })
         }
-        val col = vBox()
-        col.addView(grid, LinearLayout.LayoutParams(mp(), 0, 1f))
-        col.addView(textTv("听一听，哪张图是这句话？", 15f, brown()).also { it.gravity = Gravity.CENTER })
+        col.addView(textTv("听一听，哪张图是这句话？", 15f, brown()).also { it.gravity = Gravity.CENTER },
+            LinearLayout.LayoutParams(mp(), wrap()).also { it.topMargin = dp(6) })
         return col
     }
 
@@ -440,8 +438,7 @@ class RazShelf(
             cell.background = rounded(green(), dp(22))
             val slot = imgSlot3 ?: return
             val iv = ImageView(act).apply {
-                scaleType = ImageView.ScaleType.FIT_CENTER
-                adjustViewBounds = true; setPadding(dp(4), dp(4), dp(4), dp(4))
+                scaleType = ImageView.ScaleType.FIT_CENTER; setPadding(dp(4), dp(4), dp(4), dp(4))
             }
             setupImage("content/v1/${cur.img}", iv)
             slot.addView(iv, FrameLayout.LayoutParams(mp(), dp(170)))
