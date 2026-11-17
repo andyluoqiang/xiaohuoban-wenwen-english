@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_city_street",
+ "nameZh": "城市街道",
+ "bookTitle": "City Street",
+ "razLevel": "aa",
+ "order": 7,
+ "cover": "img/raz-aa-city_street-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_city_street-u1",
+   "band": 2,
+   "title": "City Street · 城市街道",
+   "cards": [
+    {
+     "id": "raz_aa_city_street-p1",
+     "type": "sentence",
+     "en": "The steps.",
+     "zh": "那些台阶。",
+     "audio": "audio/all/4040_the_steps.mp3",
+     "slow": "audio/all/4040_the_steps.mp3",
+     "image": "img/raz-aa-city_street-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_city_street-p2",
+     "type": "sentence",
+     "en": "The sidewalk.",
+     "zh": "那段人行道。",
+     "audio": "audio/all/4041_the_sidewalk.mp3",
+     "slow": "audio/all/4041_the_sidewalk.mp3",
+     "image": "img/raz-aa-city_street-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_city_street-p3",
+     "type": "sentence",
+     "en": "The food.",
+     "zh": "那些食物。",
+     "audio": "audio/all/4042_the_food.mp3",
+     "slow": "audio/all/4042_the_food.mp3",
+     "image": "img/raz-aa-city_street-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_city_street-p4",
+     "type": "sentence",
+     "en": "The buildings.",
+     "zh": "那些高楼。",
+     "audio": "audio/all/4043_the_buildings.mp3",
+     "slow": "audio/all/4043_the_buildings.mp3",
+     "image": "img/raz-aa-city_street-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_city_street-p5",
+     "type": "sentence",
+     "en": "The taxi.",
+     "zh": "那辆出租车。",
+     "audio": "audio/all/4044_the_taxi.mp3",
+     "slow": "audio/all/4044_the_taxi.mp3",
+     "image": "img/raz-aa-city_street-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_city_street-p6",
+     "type": "sentence",
+     "en": "The bus.",
+     "zh": "那辆公交车。",
+     "audio": "audio/all/4045_the_bus.mp3",
+     "slow": "audio/all/4045_the_bus.mp3",
+     "image": "img/raz-aa-city_street-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_city_street-p7",
+     "type": "sentence",
+     "en": "The people.",
+     "zh": "那些行人。",
+     "audio": "audio/all/4046_the_people.mp3",
+     "slow": "audio/all/4046_the_people.mp3",
+     "image": "img/raz-aa-city_street-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_city_street-p8",
+     "type": "sentence",
+     "en": "The street.",
+     "zh": "那条街道。",
+     "audio": "audio/all/4047_the_street.mp3",
+     "slow": "audio/all/4047_the_street.mp3",
+     "image": "img/raz-aa-city_street-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

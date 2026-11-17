@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_we_build",
+ "nameZh": "我们来建造",
+ "bookTitle": "We Build",
+ "razLevel": "aa",
+ "order": 85,
+ "cover": "img/raz-aa-we_build-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_we_build-u1",
+   "band": 2,
+   "title": "We Build · 我们来建造",
+   "cards": [
+    {
+     "id": "raz_aa_we_build-p1",
+     "type": "sentence",
+     "en": "We draw.",
+     "zh": "我们画图。",
+     "audio": "audio/all/4666_we_draw.mp3",
+     "slow": "audio/all/4666_we_draw.mp3",
+     "image": "img/raz-aa-we_build-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_we_build-p2",
+     "type": "sentence",
+     "en": "We saw.",
+     "zh": "我们锯木头。",
+     "audio": "audio/all/4667_we_saw.mp3",
+     "slow": "audio/all/4667_we_saw.mp3",
+     "image": "img/raz-aa-we_build-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_we_build-p3",
+     "type": "sentence",
+     "en": "We sand.",
+     "zh": "我们打磨。",
+     "audio": "audio/all/4668_we_sand.mp3",
+     "slow": "audio/all/4668_we_sand.mp3",
+     "image": "img/raz-aa-we_build-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_we_build-p4",
+     "type": "sentence",
+     "en": "We hammer.",
+     "zh": "我们敲锤。",
+     "audio": "audio/all/4669_we_hammer.mp3",
+     "slow": "audio/all/4669_we_hammer.mp3",
+     "image": "img/raz-aa-we_build-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_we_build-p5",
+     "type": "sentence",
+     "en": "We drill.",
+     "zh": "我们钻孔。",
+     "audio": "audio/all/4670_we_drill.mp3",
+     "slow": "audio/all/4670_we_drill.mp3",
+     "image": "img/raz-aa-we_build-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_we_build-p6",
+     "type": "sentence",
+     "en": "We paint.",
+     "zh": "我们刷漆。",
+     "audio": "audio/all/4671_we_paint.mp3",
+     "slow": "audio/all/4671_we_paint.mp3",
+     "image": "img/raz-aa-we_build-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_we_build-p7",
+     "type": "sentence",
+     "en": "We glue.",
+     "zh": "我们粘贴。",
+     "audio": "audio/all/4672_we_glue.mp3",
+     "slow": "audio/all/4672_we_glue.mp3",
+     "image": "img/raz-aa-we_build-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_we_build-p8",
+     "type": "sentence",
+     "en": "We hang.",
+     "zh": "我们挂起来。",
+     "audio": "audio/all/4673_we_hang.mp3",
+     "slow": "audio/all/4673_we_hang.mp3",
+     "image": "img/raz-aa-we_build-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

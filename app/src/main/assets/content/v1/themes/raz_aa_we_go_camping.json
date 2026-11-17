@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_we_go_camping",
+ "nameZh": "我们去露营",
+ "bookTitle": "We Go Camping",
+ "razLevel": "aa",
+ "order": 86,
+ "cover": "img/raz-aa-we_go_camping-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_we_go_camping-u1",
+   "band": 2,
+   "title": "We Go Camping · 我们去露营",
+   "cards": [
+    {
+     "id": "raz_aa_we_go_camping-p1",
+     "type": "sentence",
+     "en": "Our drive.",
+     "zh": "我们的车程。",
+     "audio": "audio/all/4674_our_drive.mp3",
+     "slow": "audio/all/4674_our_drive.mp3",
+     "image": "img/raz-aa-we_go_camping-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_we_go_camping-p2",
+     "type": "sentence",
+     "en": "Our spot.",
+     "zh": "我们的营地。",
+     "audio": "audio/all/4675_our_spot.mp3",
+     "slow": "audio/all/4675_our_spot.mp3",
+     "image": "img/raz-aa-we_go_camping-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_we_go_camping-p3",
+     "type": "sentence",
+     "en": "Our tools.",
+     "zh": "我们的工具。",
+     "audio": "audio/all/4676_our_tools.mp3",
+     "slow": "audio/all/4676_our_tools.mp3",
+     "image": "img/raz-aa-we_go_camping-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_we_go_camping-p4",
+     "type": "sentence",
+     "en": "Our tent.",
+     "zh": "我们的帐篷。",
+     "audio": "audio/all/4677_our_tent.mp3",
+     "slow": "audio/all/4677_our_tent.mp3",
+     "image": "img/raz-aa-we_go_camping-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_we_go_camping-p5",
+     "type": "sentence",
+     "en": "Our fire.",
+     "zh": "我们的篝火。",
+     "audio": "audio/all/4678_our_fire.mp3",
+     "slow": "audio/all/4678_our_fire.mp3",
+     "image": "img/raz-aa-we_go_camping-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_we_go_camping-p6",
+     "type": "sentence",
+     "en": "Our food.",
+     "zh": "我们的食物。",
+     "audio": "audio/all/4679_our_food.mp3",
+     "slow": "audio/all/4679_our_food.mp3",
+     "image": "img/raz-aa-we_go_camping-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_we_go_camping-p7",
+     "type": "sentence",
+     "en": "Our stories.",
+     "zh": "我们的故事。",
+     "audio": "audio/all/4680_our_stories.mp3",
+     "slow": "audio/all/4680_our_stories.mp3",
+     "image": "img/raz-aa-we_go_camping-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_we_go_camping-p8",
+     "type": "sentence",
+     "en": "Our camp.",
+     "zh": "我们的露营。",
+     "audio": "audio/all/4681_our_camp.mp3",
+     "slow": "audio/all/4681_our_camp.mp3",
+     "image": "img/raz-aa-we_go_camping-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

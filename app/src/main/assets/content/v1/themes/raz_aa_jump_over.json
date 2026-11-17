@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_jump_over",
+ "nameZh": "跳过去",
+ "bookTitle": "Jump Over",
+ "razLevel": "aa",
+ "order": 22,
+ "cover": "img/raz-aa-jump_over-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_jump_over-u1",
+   "band": 2,
+   "title": "Jump Over · 跳过去",
+   "cards": [
+    {
+     "id": "raz_aa_jump_over-p1",
+     "type": "sentence",
+     "en": "The cat jumps over.",
+     "zh": "猫跳过去。",
+     "audio": "audio/all/4162_the_cat_jumps_over.mp3",
+     "slow": "audio/all/4162_the_cat_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_jump_over-p2",
+     "type": "sentence",
+     "en": "The dog jumps over.",
+     "zh": "狗跳过去。",
+     "audio": "audio/all/4163_the_dog_jumps_over.mp3",
+     "slow": "audio/all/4163_the_dog_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_jump_over-p3",
+     "type": "sentence",
+     "en": "The horse jumps over.",
+     "zh": "马跳过去。",
+     "audio": "audio/all/4164_the_horse_jumps_over.mp3",
+     "slow": "audio/all/4164_the_horse_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_jump_over-p4",
+     "type": "sentence",
+     "en": "The fox jumps over.",
+     "zh": "狐狸跳过去。",
+     "audio": "audio/all/4165_the_fox_jumps_over.mp3",
+     "slow": "audio/all/4165_the_fox_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_jump_over-p5",
+     "type": "sentence",
+     "en": "The deer jumps over.",
+     "zh": "鹿跳过去。",
+     "audio": "audio/all/4166_the_deer_jumps_over.mp3",
+     "slow": "audio/all/4166_the_deer_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_jump_over-p6",
+     "type": "sentence",
+     "en": "The goat jumps over.",
+     "zh": "山羊跳过去。",
+     "audio": "audio/all/4167_the_goat_jumps_over.mp3",
+     "slow": "audio/all/4167_the_goat_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_jump_over-p7",
+     "type": "sentence",
+     "en": "The girl jumps over.",
+     "zh": "女孩跳过去。",
+     "audio": "audio/all/4168_the_girl_jumps_over.mp3",
+     "slow": "audio/all/4168_the_girl_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_jump_over-p8",
+     "type": "sentence",
+     "en": "The cow jumps over.",
+     "zh": "牛跳过去。",
+     "audio": "audio/all/4169_the_cow_jumps_over.mp3",
+     "slow": "audio/all/4169_the_cow_jumps_over.mp3",
+     "image": "img/raz-aa-jump_over-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

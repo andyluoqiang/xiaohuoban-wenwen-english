@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_big",
+ "nameZh": "大",
+ "bookTitle": "Big",
+ "razLevel": "aa",
+ "order": 3,
+ "cover": "img/raz-aa-big-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_big-u1",
+   "band": 2,
+   "title": "Big · 大",
+   "cards": [
+    {
+     "id": "raz_aa_big-p1",
+     "type": "sentence",
+     "en": "A big house.",
+     "zh": "一座大房子。",
+     "audio": "audio/all/4008_a_big_house.mp3",
+     "slow": "audio/all/4008_a_big_house.mp3",
+     "image": "img/raz-aa-big-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_big-p2",
+     "type": "sentence",
+     "en": "A big dog.",
+     "zh": "一只大狗。",
+     "audio": "audio/all/4009_a_big_dog.mp3",
+     "slow": "audio/all/4009_a_big_dog.mp3",
+     "image": "img/raz-aa-big-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_big-p3",
+     "type": "sentence",
+     "en": "A big car.",
+     "zh": "一辆大汽车。",
+     "audio": "audio/all/4010_a_big_car.mp3",
+     "slow": "audio/all/4010_a_big_car.mp3",
+     "image": "img/raz-aa-big-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_big-p4",
+     "type": "sentence",
+     "en": "A big bus.",
+     "zh": "一辆大巴士。",
+     "audio": "audio/all/4011_a_big_bus.mp3",
+     "slow": "audio/all/4011_a_big_bus.mp3",
+     "image": "img/raz-aa-big-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_big-p5",
+     "type": "sentence",
+     "en": "A big plane.",
+     "zh": "一架大飞机。",
+     "audio": "audio/all/4012_a_big_plane.mp3",
+     "slow": "audio/all/4012_a_big_plane.mp3",
+     "image": "img/raz-aa-big-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_big-p6",
+     "type": "sentence",
+     "en": "A big tree.",
+     "zh": "一棵大树。",
+     "audio": "audio/all/4013_a_big_tree.mp3",
+     "slow": "audio/all/4013_a_big_tree.mp3",
+     "image": "img/raz-aa-big-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_big-p7",
+     "type": "sentence",
+     "en": "A big elephant.",
+     "zh": "一头大象。",
+     "audio": "audio/all/4014_a_big_elephant.mp3",
+     "slow": "audio/all/4014_a_big_elephant.mp3",
+     "image": "img/raz-aa-big-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_big-p8",
+     "type": "sentence",
+     "en": "A big dinosaur.",
+     "zh": "一只大恐龙。",
+     "audio": "audio/all/4015_a_big_dinosaur.mp3",
+     "slow": "audio/all/4015_a_big_dinosaur.mp3",
+     "image": "img/raz-aa-big-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

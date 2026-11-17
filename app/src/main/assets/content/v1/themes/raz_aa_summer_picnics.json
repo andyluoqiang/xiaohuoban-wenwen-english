@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_summer_picnics",
+ "nameZh": "夏日野餐",
+ "bookTitle": "Summer Picnics",
+ "razLevel": "aa",
+ "order": 55,
+ "cover": "img/raz-aa-summer_picnics-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_summer_picnics-u1",
+   "band": 2,
+   "title": "Summer Picnics · 夏日野餐",
+   "cards": [
+    {
+     "id": "raz_aa_summer_picnics-p1",
+     "type": "sentence",
+     "en": "Summer hats.",
+     "zh": "夏日帽子。",
+     "audio": "audio/all/4426_summer_hats.mp3",
+     "slow": "audio/all/4426_summer_hats.mp3",
+     "image": "img/raz-aa-summer_picnics-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_summer_picnics-p2",
+     "type": "sentence",
+     "en": "Summer shoes.",
+     "zh": "夏日鞋子。",
+     "audio": "audio/all/4427_summer_shoes.mp3",
+     "slow": "audio/all/4427_summer_shoes.mp3",
+     "image": "img/raz-aa-summer_picnics-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_summer_picnics-p3",
+     "type": "sentence",
+     "en": "Summer cups.",
+     "zh": "夏日杯子。",
+     "audio": "audio/all/4428_summer_cups.mp3",
+     "slow": "audio/all/4428_summer_cups.mp3",
+     "image": "img/raz-aa-summer_picnics-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_summer_picnics-p4",
+     "type": "sentence",
+     "en": "Summer plates.",
+     "zh": "夏日盘子。",
+     "audio": "audio/all/4429_summer_plates.mp3",
+     "slow": "audio/all/4429_summer_plates.mp3",
+     "image": "img/raz-aa-summer_picnics-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_summer_picnics-p5",
+     "type": "sentence",
+     "en": "Summer foods.",
+     "zh": "夏日食物。",
+     "audio": "audio/all/4430_summer_foods.mp3",
+     "slow": "audio/all/4430_summer_foods.mp3",
+     "image": "img/raz-aa-summer_picnics-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_summer_picnics-p6",
+     "type": "sentence",
+     "en": "Summer sun.",
+     "zh": "夏日太阳。",
+     "audio": "audio/all/4431_summer_sun.mp3",
+     "slow": "audio/all/4431_summer_sun.mp3",
+     "image": "img/raz-aa-summer_picnics-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_summer_picnics-p7",
+     "type": "sentence",
+     "en": "Summer picnics.",
+     "zh": "夏日野餐。",
+     "audio": "audio/all/4432_summer_picnics.mp3",
+     "slow": "audio/all/4432_summer_picnics.mp3",
+     "image": "img/raz-aa-summer_picnics-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_summer_picnics-p8",
+     "type": "sentence",
+     "en": "Summer fun.",
+     "zh": "夏日乐趣。",
+     "audio": "audio/all/4433_summer_fun.mp3",
+     "slow": "audio/all/4433_summer_fun.mp3",
+     "image": "img/raz-aa-summer_picnics-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

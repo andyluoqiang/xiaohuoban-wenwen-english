@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_over",
+ "nameZh": "越过",
+ "bookTitle": "Over",
+ "razLevel": "aa",
+ "order": 40,
+ "cover": "img/raz-aa-over-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_over-u1",
+   "band": 2,
+   "title": "Over · 越过",
+   "cards": [
+    {
+     "id": "raz_aa_over-p1",
+     "type": "sentence",
+     "en": "Over the log.",
+     "zh": "越过圆木。",
+     "audio": "audio/all/4306_over_the_log.mp3",
+     "slow": "audio/all/4306_over_the_log.mp3",
+     "image": "img/raz-aa-over-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_over-p2",
+     "type": "sentence",
+     "en": "Over the pot.",
+     "zh": "越过锅。",
+     "audio": "audio/all/4307_over_the_pot.mp3",
+     "slow": "audio/all/4307_over_the_pot.mp3",
+     "image": "img/raz-aa-over-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_over-p3",
+     "type": "sentence",
+     "en": "Over the hole.",
+     "zh": "越过洞。",
+     "audio": "audio/all/4308_over_the_hole.mp3",
+     "slow": "audio/all/4308_over_the_hole.mp3",
+     "image": "img/raz-aa-over-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_over-p4",
+     "type": "sentence",
+     "en": "Over the bike.",
+     "zh": "越过自行车。",
+     "audio": "audio/all/4309_over_the_bike.mp3",
+     "slow": "audio/all/4309_over_the_bike.mp3",
+     "image": "img/raz-aa-over-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_over-p5",
+     "type": "sentence",
+     "en": "Over the bat.",
+     "zh": "越过球棒。",
+     "audio": "audio/all/4310_over_the_bat.mp3",
+     "slow": "audio/all/4310_over_the_bat.mp3",
+     "image": "img/raz-aa-over-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_over-p6",
+     "type": "sentence",
+     "en": "Over the ball.",
+     "zh": "越过球。",
+     "audio": "audio/all/4311_over_the_ball.mp3",
+     "slow": "audio/all/4311_over_the_ball.mp3",
+     "image": "img/raz-aa-over-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_over-p7",
+     "type": "sentence",
+     "en": "Over the doll.",
+     "zh": "越过娃娃。",
+     "audio": "audio/all/4312_over_the_doll.mp3",
+     "slow": "audio/all/4312_over_the_doll.mp3",
+     "image": "img/raz-aa-over-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_over-p8",
+     "type": "sentence",
+     "en": "Over the cat.",
+     "zh": "越过猫。",
+     "audio": "audio/all/4313_over_the_cat.mp3",
+     "slow": "audio/all/4313_over_the_cat.mp3",
+     "image": "img/raz-aa-over-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

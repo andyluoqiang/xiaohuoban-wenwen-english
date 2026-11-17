@@ -39,7 +39,8 @@ class RazShelf(
     private val container: FrameLayout,
     private val childId: Long,
     private val onExit: () -> Unit,          // 返回主流程首页
-    private val onStarsGained: (Int) -> Unit // 回话结束汇报星星（主流程累计+云端上报）
+    private val onStarsGained: (Int) -> Unit, // 回话结束汇报星星（主流程累计+云端上报）
+    private val setBackAction: (() -> Unit) -> Unit   // 注入：同步 MainActivity 的右滑返回动作
 ) {
     // ---------- UI 工具（本地复制，避免与 MainActivity 耦合） ----------
     private fun dp(v: Int) = (v * act.resources.displayMetrics.density).toInt()
@@ -70,6 +71,8 @@ class RazShelf(
     }
 
     private fun setView(v: View) {
+        // 切页：取消所有延迟任务（防旧页定时播音频/解锁 busy 照跑）+ 停音频
+        handler.removeCallbacksAndMessages(null)
         app.player.stop(); app.tts.stop()
         container.removeAllViews()
         container.addView(v, FrameLayout.LayoutParams(mp(), mp()))
@@ -130,6 +133,16 @@ class RazShelf(
     // ---------- 页面状态 ----------
     private var curLevel: RazCatalog.RazLevel? = null
     private var curBookId: String? = null
+    private var inSession = false
+
+    /** 系统返回/右滑：RAZ 内部自处理（书内→书架→级列表→退出） */
+    fun onBack() {
+        when {
+            inSession -> quitSession()
+            curLevel != null -> { curLevel = null; showLevels() }
+            else -> onExit()
+        }
+    }
 
     // ---------- 三步会话状态 ----------
     private data class Page(val img: String, val en: String, val zh: String?, val aud: String, val page: Int)
@@ -159,6 +172,8 @@ class RazShelf(
 
     // ================= ① 级别列表 =================
     fun showLevels() {
+        inSession = false; curLevel = null
+        setBackAction { onBack() }
         val ok = RazCatalog.load(act)
         val sc = ScrollView(act).apply { setBackgroundColor(bg()) }
         val col = vBox().apply { setPadding(dp(20), dp(18), dp(20), dp(64)) }
@@ -204,6 +219,8 @@ class RazShelf(
     // ================= ② 书架 =================
     private fun showShelf(lv: RazCatalog.RazLevel) {
         curLevel = lv
+        inSession = false
+        setBackAction { onBack() }
         val sc = ScrollView(act).apply { setBackgroundColor(bg()) }
         val col = vBox().apply { setPadding(dp(18), dp(18), dp(18), dp(64)) }
         val levelName = if (lv.level == "aa") "aa 级" else "${lv.level} 级"
@@ -243,14 +260,20 @@ class RazShelf(
     }
 
     private fun coverPath(themeId: String): String {
-        // B 级封面：img/raz-b-<slug>-cover.jpg；自编两本：raz-aa-colors-cover / raz-a-apples-cover
-        return if (themeId.startsWith("raz_b_")) "content/v1/img/raz-b-${themeId.removePrefix("raz_b_")}-cover.jpg"
-        else "content/v1/img/${themeId.replace("raz_", "raz-").replace('_', '-')}-cover.jpg"
+        // B 级：img/raz-b-<slug>-cover.jpg；aa/A 级官方书：img/raz-aa-<slug>-cover.jpg（slug 保留下划线）；自编书 slug 无下划线同样适用
+        return when {
+            themeId.startsWith("raz_b_") -> "content/v1/img/raz-b-${themeId.removePrefix("raz_b_")}-cover.jpg"
+            themeId.startsWith("raz_aa_") -> "content/v1/img/raz-aa-${themeId.removePrefix("raz_aa_")}-cover.jpg"
+            themeId.startsWith("raz_a_") -> "content/v1/img/raz-a-${themeId.removePrefix("raz_a_")}-cover.jpg"
+            else -> "content/v1/img/${themeId.replace("raz_", "raz-").replace('_', '-')}-cover.jpg"
+        }
     }
 
     // ================= ③ 打开书：三步会话 =================
     private fun openBook(themeId: String) {
         curBookId = themeId
+        inSession = true
+        setBackAction { onBack() }
         val tc = RazCatalog.loadBookCards(act, themeId)
         if (tc == null || tc.units.isEmpty()) { return }
         pages = tc.units[0].cards.map { c ->
@@ -267,6 +290,7 @@ class RazShelf(
     private var bookTitle = ""
 
     private fun quitSession() {
+        inSession = false
         // 中途退出：已得星星仍计入（对齐主线完成页逻辑）
         if (stars3 > 0) onStarsGained(stars3)
         curLevel?.let { showShelf(it) }
@@ -391,8 +415,9 @@ class RazShelf(
             SoundFx.wrong()
             hint3?.text = "再听一次，选对才能继续哦～"
             wiggle(cell)
-            playCur3()
-            handler.postDelayed({ busy = false }, 400)
+            // 句音延迟重播：错开 wrong 提示音（GAME 流会被紧接的 MEDIA 句音抢占，导致提示音听不到）
+            handler.postDelayed({ playCur3() }, 800)
+            handler.postDelayed({ busy = false }, 900)
         }
     }
 
@@ -449,8 +474,8 @@ class RazShelf(
             SoundFx.wrong()
             hint3?.text = "不对哦，再听一遍～"
             wiggle(cell)
-            playCur3()
-            handler.postDelayed({ busy = false }, 400)
+            handler.postDelayed({ playCur3() }, 800)
+            handler.postDelayed({ busy = false }, 900)
         }
     }
 

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_seven",
+ "nameZh": "七",
+ "bookTitle": "Seven",
+ "razLevel": "aa",
+ "order": 49,
+ "cover": "img/raz-aa-seven-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_seven-u1",
+   "band": 2,
+   "title": "Seven · 七",
+   "cards": [
+    {
+     "id": "raz_aa_seven-p1",
+     "type": "sentence",
+     "en": "Seven worms.",
+     "zh": "七条虫。",
+     "audio": "audio/all/4378_seven_worms.mp3",
+     "slow": "audio/all/4378_seven_worms.mp3",
+     "image": "img/raz-aa-seven-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_seven-p2",
+     "type": "sentence",
+     "en": "Seven ladybugs.",
+     "zh": "七只瓢虫。",
+     "audio": "audio/all/4379_seven_ladybugs.mp3",
+     "slow": "audio/all/4379_seven_ladybugs.mp3",
+     "image": "img/raz-aa-seven-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_seven-p3",
+     "type": "sentence",
+     "en": "Seven spiders.",
+     "zh": "七只蜘蛛。",
+     "audio": "audio/all/4380_seven_spiders.mp3",
+     "slow": "audio/all/4380_seven_spiders.mp3",
+     "image": "img/raz-aa-seven-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_seven-p4",
+     "type": "sentence",
+     "en": "Seven frogs.",
+     "zh": "七只青蛙。",
+     "audio": "audio/all/4381_seven_frogs.mp3",
+     "slow": "audio/all/4381_seven_frogs.mp3",
+     "image": "img/raz-aa-seven-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_seven-p5",
+     "type": "sentence",
+     "en": "Seven lizards.",
+     "zh": "七只蜥蜴。",
+     "audio": "audio/all/4382_seven_lizards.mp3",
+     "slow": "audio/all/4382_seven_lizards.mp3",
+     "image": "img/raz-aa-seven-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_seven-p6",
+     "type": "sentence",
+     "en": "Seven snakes.",
+     "zh": "七条蛇。",
+     "audio": "audio/all/4383_seven_snakes.mp3",
+     "slow": "audio/all/4383_seven_snakes.mp3",
+     "image": "img/raz-aa-seven-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_seven-p7",
+     "type": "sentence",
+     "en": "Seven snails.",
+     "zh": "七只蜗牛。",
+     "audio": "audio/all/4384_seven_snails.mp3",
+     "slow": "audio/all/4384_seven_snails.mp3",
+     "image": "img/raz-aa-seven-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_seven-p8",
+     "type": "sentence",
+     "en": "Seven turtles.",
+     "zh": "七只乌龟。",
+     "audio": "audio/all/4385_seven_turtles.mp3",
+     "slow": "audio/all/4385_seven_turtles.mp3",
+     "image": "img/raz-aa-seven-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

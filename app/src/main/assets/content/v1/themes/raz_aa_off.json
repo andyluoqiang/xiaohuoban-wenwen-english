@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_off",
+ "nameZh": "下来",
+ "bookTitle": "Off",
+ "razLevel": "aa",
+ "order": 35,
+ "cover": "img/raz-aa-off-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_off-u1",
+   "band": 2,
+   "title": "Off · 下来",
+   "cards": [
+    {
+     "id": "raz_aa_off-p1",
+     "type": "sentence",
+     "en": "Off the bed.",
+     "zh": "从床上下来。",
+     "audio": "audio/all/4266_off_the_bed.mp3",
+     "slow": "audio/all/4266_off_the_bed.mp3",
+     "image": "img/raz-aa-off-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_off-p2",
+     "type": "sentence",
+     "en": "Off the couch.",
+     "zh": "从沙发上下来。",
+     "audio": "audio/all/4267_off_the_couch.mp3",
+     "slow": "audio/all/4267_off_the_couch.mp3",
+     "image": "img/raz-aa-off-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_off-p3",
+     "type": "sentence",
+     "en": "Off the table.",
+     "zh": "从桌子上下来。",
+     "audio": "audio/all/4268_off_the_table.mp3",
+     "slow": "audio/all/4268_off_the_table.mp3",
+     "image": "img/raz-aa-off-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_off-p4",
+     "type": "sentence",
+     "en": "Off the chair.",
+     "zh": "从椅子上下来。",
+     "audio": "audio/all/4269_off_the_chair.mp3",
+     "slow": "audio/all/4269_off_the_chair.mp3",
+     "image": "img/raz-aa-off-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_off-p5",
+     "type": "sentence",
+     "en": "Off the computer.",
+     "zh": "从电脑上下来。",
+     "audio": "audio/all/4270_off_the_computer.mp3",
+     "slow": "audio/all/4270_off_the_computer.mp3",
+     "image": "img/raz-aa-off-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_off-p6",
+     "type": "sentence",
+     "en": "Off the towel.",
+     "zh": "从毛巾上下来。",
+     "audio": "audio/all/4271_off_the_towel.mp3",
+     "slow": "audio/all/4271_off_the_towel.mp3",
+     "image": "img/raz-aa-off-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_off-p7",
+     "type": "sentence",
+     "en": "Off the step.",
+     "zh": "从台阶上下来。",
+     "audio": "audio/all/4272_off_the_step.mp3",
+     "slow": "audio/all/4272_off_the_step.mp3",
+     "image": "img/raz-aa-off-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_off-p8",
+     "type": "sentence",
+     "en": "Off the car.",
+     "zh": "从车上下来。",
+     "audio": "audio/all/4273_off_the_car.mp3",
+     "slow": "audio/all/4273_off_the_car.mp3",
+     "image": "img/raz-aa-off-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_book",
+ "nameZh": "书",
+ "bookTitle": "The Book",
+ "razLevel": "aa",
+ "order": 60,
+ "cover": "img/raz-aa-the_book-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_book-u1",
+   "band": 2,
+   "title": "The Book · 书",
+   "cards": [
+    {
+     "id": "raz_aa_the_book-p1",
+     "type": "sentence",
+     "en": "The front cover.",
+     "zh": "那个封面。",
+     "audio": "audio/all/4466_the_front_cover.mp3",
+     "slow": "audio/all/4466_the_front_cover.mp3",
+     "image": "img/raz-aa-the_book-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_book-p2",
+     "type": "sentence",
+     "en": "The back cover.",
+     "zh": "那个封底。",
+     "audio": "audio/all/4467_the_back_cover.mp3",
+     "slow": "audio/all/4467_the_back_cover.mp3",
+     "image": "img/raz-aa-the_book-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_book-p3",
+     "type": "sentence",
+     "en": "The title.",
+     "zh": "那个书名。",
+     "audio": "audio/all/4468_the_title.mp3",
+     "slow": "audio/all/4468_the_title.mp3",
+     "image": "img/raz-aa-the_book-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_book-p4",
+     "type": "sentence",
+     "en": "The pages.",
+     "zh": "那些书页。",
+     "audio": "audio/all/4469_the_pages.mp3",
+     "slow": "audio/all/4469_the_pages.mp3",
+     "image": "img/raz-aa-the_book-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_book-p5",
+     "type": "sentence",
+     "en": "The words.",
+     "zh": "那些单词。",
+     "audio": "audio/all/4470_the_words.mp3",
+     "slow": "audio/all/4470_the_words.mp3",
+     "image": "img/raz-aa-the_book-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_book-p6",
+     "type": "sentence",
+     "en": "The letters.",
+     "zh": "那些字母。",
+     "audio": "audio/all/4471_the_letters.mp3",
+     "slow": "audio/all/4471_the_letters.mp3",
+     "image": "img/raz-aa-the_book-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_book-p7",
+     "type": "sentence",
+     "en": "The page number.",
+     "zh": "那个页码。",
+     "audio": "audio/all/4472_the_page_number.mp3",
+     "slow": "audio/all/4472_the_page_number.mp3",
+     "image": "img/raz-aa-the_book-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_book-p8",
+     "type": "sentence",
+     "en": "The book.",
+     "zh": "那本书。",
+     "audio": "audio/all/4473_the_book.mp3",
+     "slow": "audio/all/4473_the_book.mp3",
+     "image": "img/raz-aa-the_book-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

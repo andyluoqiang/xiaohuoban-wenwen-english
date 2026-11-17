@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_white",
+ "nameZh": "白色",
+ "bookTitle": "White",
+ "razLevel": "aa",
+ "order": 87,
+ "cover": "img/raz-aa-white-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_white-u1",
+   "band": 2,
+   "title": "White · 白色",
+   "cards": [
+    {
+     "id": "raz_aa_white-p1",
+     "type": "sentence",
+     "en": "The white snow.",
+     "zh": "那片白雪。",
+     "audio": "audio/all/4682_the_white_snow.mp3",
+     "slow": "audio/all/4682_the_white_snow.mp3",
+     "image": "img/raz-aa-white-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_white-p2",
+     "type": "sentence",
+     "en": "The white flowers.",
+     "zh": "那些白花。",
+     "audio": "audio/all/4683_the_white_flowers.mp3",
+     "slow": "audio/all/4683_the_white_flowers.mp3",
+     "image": "img/raz-aa-white-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_white-p3",
+     "type": "sentence",
+     "en": "The white fox.",
+     "zh": "那只白狐狸。",
+     "audio": "audio/all/4684_the_white_fox.mp3",
+     "slow": "audio/all/4684_the_white_fox.mp3",
+     "image": "img/raz-aa-white-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_white-p4",
+     "type": "sentence",
+     "en": "The white whale.",
+     "zh": "那头白鲸。",
+     "audio": "audio/all/4685_the_white_whale.mp3",
+     "slow": "audio/all/4685_the_white_whale.mp3",
+     "image": "img/raz-aa-white-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_white-p5",
+     "type": "sentence",
+     "en": "The white seal.",
+     "zh": "那只白海豹。",
+     "audio": "audio/all/4686_the_white_seal.mp3",
+     "slow": "audio/all/4686_the_white_seal.mp3",
+     "image": "img/raz-aa-white-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_white-p6",
+     "type": "sentence",
+     "en": "The white eggs.",
+     "zh": "那些白蛋。",
+     "audio": "audio/all/4687_the_white_eggs.mp3",
+     "slow": "audio/all/4687_the_white_eggs.mp3",
+     "image": "img/raz-aa-white-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_white-p7",
+     "type": "sentence",
+     "en": "The white owl.",
+     "zh": "那只白色猫头鹰。",
+     "audio": "audio/all/4688_the_white_owl.mp3",
+     "slow": "audio/all/4688_the_white_owl.mp3",
+     "image": "img/raz-aa-white-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_white-p8",
+     "type": "sentence",
+     "en": "The white igloo.",
+     "zh": "那座白冰屋。",
+     "audio": "audio/all/4689_the_white_igloo.mp3",
+     "slow": "audio/all/4689_the_white_igloo.mp3",
+     "image": "img/raz-aa-white-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

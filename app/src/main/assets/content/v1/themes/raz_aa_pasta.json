@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_pasta",
+ "nameZh": "意大利面",
+ "bookTitle": "Pasta!",
+ "razLevel": "aa",
+ "order": 41,
+ "cover": "img/raz-aa-pasta-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_pasta-u1",
+   "band": 2,
+   "title": "Pasta! · 意大利面",
+   "cards": [
+    {
+     "id": "raz_aa_pasta-p1",
+     "type": "sentence",
+     "en": "Long pasta.",
+     "zh": "长长的面。",
+     "audio": "audio/all/4314_long_pasta.mp3",
+     "slow": "audio/all/4314_long_pasta.mp3",
+     "image": "img/raz-aa-pasta-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_pasta-p2",
+     "type": "sentence",
+     "en": "Short pasta.",
+     "zh": "短短的面。",
+     "audio": "audio/all/4315_short_pasta.mp3",
+     "slow": "audio/all/4315_short_pasta.mp3",
+     "image": "img/raz-aa-pasta-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_pasta-p3",
+     "type": "sentence",
+     "en": "Red pasta.",
+     "zh": "红色的面。",
+     "audio": "audio/all/4316_red_pasta.mp3",
+     "slow": "audio/all/4316_red_pasta.mp3",
+     "image": "img/raz-aa-pasta-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_pasta-p4",
+     "type": "sentence",
+     "en": "Green pasta.",
+     "zh": "绿色的面。",
+     "audio": "audio/all/4317_green_pasta.mp3",
+     "slow": "audio/all/4317_green_pasta.mp3",
+     "image": "img/raz-aa-pasta-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_pasta-p5",
+     "type": "sentence",
+     "en": "Wide pasta.",
+     "zh": "宽宽的面。",
+     "audio": "audio/all/4318_wide_pasta.mp3",
+     "slow": "audio/all/4318_wide_pasta.mp3",
+     "image": "img/raz-aa-pasta-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_pasta-p6",
+     "type": "sentence",
+     "en": "Thin pasta.",
+     "zh": "细细的面。",
+     "audio": "audio/all/4319_thin_pasta.mp3",
+     "slow": "audio/all/4319_thin_pasta.mp3",
+     "image": "img/raz-aa-pasta-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_pasta-p7",
+     "type": "sentence",
+     "en": "Curly pasta.",
+     "zh": "卷卷的面。",
+     "audio": "audio/all/4320_curly_pasta.mp3",
+     "slow": "audio/all/4320_curly_pasta.mp3",
+     "image": "img/raz-aa-pasta-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_pasta-p8",
+     "type": "sentence",
+     "en": "Yummy pasta!",
+     "zh": "好吃的面！",
+     "audio": "audio/all/4321_yummy_pasta.mp3",
+     "slow": "audio/all/4321_yummy_pasta.mp3",
+     "image": "img/raz-aa-pasta-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

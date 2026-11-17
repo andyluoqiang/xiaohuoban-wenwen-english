@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_black",
+ "nameZh": "黑色",
+ "bookTitle": "Black",
+ "razLevel": "aa",
+ "order": 4,
+ "cover": "img/raz-aa-black-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_black-u1",
+   "band": 2,
+   "title": "Black · 黑色",
+   "cards": [
+    {
+     "id": "raz_aa_black-p1",
+     "type": "sentence",
+     "en": "One black stage.",
+     "zh": "一个黑色舞台。",
+     "audio": "audio/all/4016_one_black_stage.mp3",
+     "slow": "audio/all/4016_one_black_stage.mp3",
+     "image": "img/raz-aa-black-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_black-p2",
+     "type": "sentence",
+     "en": "One black sheet.",
+     "zh": "一块黑布。",
+     "audio": "audio/all/4017_one_black_sheet.mp3",
+     "slow": "audio/all/4017_one_black_sheet.mp3",
+     "image": "img/raz-aa-black-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_black-p3",
+     "type": "sentence",
+     "en": "One black suit.",
+     "zh": "一套黑西装。",
+     "audio": "audio/all/4018_one_black_suit.mp3",
+     "slow": "audio/all/4018_one_black_suit.mp3",
+     "image": "img/raz-aa-black-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_black-p4",
+     "type": "sentence",
+     "en": "One black tie.",
+     "zh": "一条黑领带。",
+     "audio": "audio/all/4019_one_black_tie.mp3",
+     "slow": "audio/all/4019_one_black_tie.mp3",
+     "image": "img/raz-aa-black-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_black-p5",
+     "type": "sentence",
+     "en": "One black cape.",
+     "zh": "一件黑斗篷。",
+     "audio": "audio/all/4020_one_black_cape.mp3",
+     "slow": "audio/all/4020_one_black_cape.mp3",
+     "image": "img/raz-aa-black-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_black-p6",
+     "type": "sentence",
+     "en": "One black hat.",
+     "zh": "一顶黑帽子。",
+     "audio": "audio/all/4021_one_black_hat.mp3",
+     "slow": "audio/all/4021_one_black_hat.mp3",
+     "image": "img/raz-aa-black-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_black-p7",
+     "type": "sentence",
+     "en": "One black wand.",
+     "zh": "一根黑魔法棒。",
+     "audio": "audio/all/4022_one_black_wand.mp3",
+     "slow": "audio/all/4022_one_black_wand.mp3",
+     "image": "img/raz-aa-black-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_black-p8",
+     "type": "sentence",
+     "en": "One black rabbit.",
+     "zh": "一只黑兔子。",
+     "audio": "audio/all/4023_one_black_rabbit.mp3",
+     "slow": "audio/all/4023_one_black_rabbit.mp3",
+     "image": "img/raz-aa-black-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

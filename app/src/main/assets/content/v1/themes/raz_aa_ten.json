@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_ten",
+ "nameZh": "十",
+ "bookTitle": "Ten",
+ "razLevel": "aa",
+ "order": 56,
+ "cover": "img/raz-aa-ten-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_ten-u1",
+   "band": 2,
+   "title": "Ten · 十",
+   "cards": [
+    {
+     "id": "raz_aa_ten-p1",
+     "type": "sentence",
+     "en": "Ten apples.",
+     "zh": "十个苹果。",
+     "audio": "audio/all/4434_ten_apples.mp3",
+     "slow": "audio/all/4434_ten_apples.mp3",
+     "image": "img/raz-aa-ten-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_ten-p2",
+     "type": "sentence",
+     "en": "Ten strawberries.",
+     "zh": "十颗草莓。",
+     "audio": "audio/all/4435_ten_strawberries.mp3",
+     "slow": "audio/all/4435_ten_strawberries.mp3",
+     "image": "img/raz-aa-ten-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_ten-p3",
+     "type": "sentence",
+     "en": "Ten carrots.",
+     "zh": "十根胡萝卜。",
+     "audio": "audio/all/4436_ten_carrots.mp3",
+     "slow": "audio/all/4436_ten_carrots.mp3",
+     "image": "img/raz-aa-ten-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_ten-p4",
+     "type": "sentence",
+     "en": "Ten pears.",
+     "zh": "十个梨。",
+     "audio": "audio/all/4437_ten_pears.mp3",
+     "slow": "audio/all/4437_ten_pears.mp3",
+     "image": "img/raz-aa-ten-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_ten-p5",
+     "type": "sentence",
+     "en": "Ten beets.",
+     "zh": "十个甜菜根。",
+     "audio": "audio/all/4438_ten_beets.mp3",
+     "slow": "audio/all/4438_ten_beets.mp3",
+     "image": "img/raz-aa-ten-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_ten-p6",
+     "type": "sentence",
+     "en": "Ten potatoes.",
+     "zh": "十个土豆。",
+     "audio": "audio/all/4439_ten_potatoes.mp3",
+     "slow": "audio/all/4439_ten_potatoes.mp3",
+     "image": "img/raz-aa-ten-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_ten-p7",
+     "type": "sentence",
+     "en": "Ten tomatoes.",
+     "zh": "十个番茄。",
+     "audio": "audio/all/4440_ten_tomatoes.mp3",
+     "slow": "audio/all/4440_ten_tomatoes.mp3",
+     "image": "img/raz-aa-ten-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_ten-p8",
+     "type": "sentence",
+     "en": "Ten lemons.",
+     "zh": "十个柠檬。",
+     "audio": "audio/all/4441_ten_lemons.mp3",
+     "slow": "audio/all/4441_ten_lemons.mp3",
+     "image": "img/raz-aa-ten-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

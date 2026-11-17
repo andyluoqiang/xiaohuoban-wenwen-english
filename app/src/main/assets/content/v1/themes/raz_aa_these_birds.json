@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_these_birds",
+ "nameZh": "这些鸟",
+ "bookTitle": "These Birds",
+ "razLevel": "aa",
+ "order": 75,
+ "cover": "img/raz-aa-these_birds-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_these_birds-u1",
+   "band": 2,
+   "title": "These Birds · 这些鸟",
+   "cards": [
+    {
+     "id": "raz_aa_these_birds-p1",
+     "type": "sentence",
+     "en": "These doves.",
+     "zh": "这些鸽子。",
+     "audio": "audio/all/4586_these_doves.mp3",
+     "slow": "audio/all/4586_these_doves.mp3",
+     "image": "img/raz-aa-these_birds-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_these_birds-p2",
+     "type": "sentence",
+     "en": "These hawks.",
+     "zh": "这些鹰。",
+     "audio": "audio/all/4587_these_hawks.mp3",
+     "slow": "audio/all/4587_these_hawks.mp3",
+     "image": "img/raz-aa-these_birds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_these_birds-p3",
+     "type": "sentence",
+     "en": "These crows.",
+     "zh": "这些乌鸦。",
+     "audio": "audio/all/4588_these_crows.mp3",
+     "slow": "audio/all/4588_these_crows.mp3",
+     "image": "img/raz-aa-these_birds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_these_birds-p4",
+     "type": "sentence",
+     "en": "These owls.",
+     "zh": "这些猫头鹰。",
+     "audio": "audio/all/4589_these_owls.mp3",
+     "slow": "audio/all/4589_these_owls.mp3",
+     "image": "img/raz-aa-these_birds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_these_birds-p5",
+     "type": "sentence",
+     "en": "These eagles.",
+     "zh": "这些雕。",
+     "audio": "audio/all/4590_these_eagles.mp3",
+     "slow": "audio/all/4590_these_eagles.mp3",
+     "image": "img/raz-aa-these_birds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_these_birds-p6",
+     "type": "sentence",
+     "en": "These geese.",
+     "zh": "这些鹅。",
+     "audio": "audio/all/4591_these_geese.mp3",
+     "slow": "audio/all/4591_these_geese.mp3",
+     "image": "img/raz-aa-these_birds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_these_birds-p7",
+     "type": "sentence",
+     "en": "These turkeys.",
+     "zh": "这些火鸡。",
+     "audio": "audio/all/4592_these_turkeys.mp3",
+     "slow": "audio/all/4592_these_turkeys.mp3",
+     "image": "img/raz-aa-these_birds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_these_birds-p8",
+     "type": "sentence",
+     "en": "These birds.",
+     "zh": "这些鸟。",
+     "audio": "audio/all/4593_these_birds.mp3",
+     "slow": "audio/all/4593_these_birds.mp3",
+     "image": "img/raz-aa-these_birds-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

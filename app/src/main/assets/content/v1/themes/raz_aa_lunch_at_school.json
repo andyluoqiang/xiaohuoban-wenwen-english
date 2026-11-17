@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_lunch_at_school",
+ "nameZh": "学校午餐",
+ "bookTitle": "Lunch at School",
+ "razLevel": "aa",
+ "order": 24,
+ "cover": "img/raz-aa-lunch_at_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_lunch_at_school-u1",
+   "band": 2,
+   "title": "Lunch at School · 学校午餐",
+   "cards": [
+    {
+     "id": "raz_aa_lunch_at_school-p1",
+     "type": "sentence",
+     "en": "My friends.",
+     "zh": "我的朋友们。",
+     "audio": "audio/all/4178_my_friends.mp3",
+     "slow": "audio/all/4178_my_friends.mp3",
+     "image": "img/raz-aa-lunch_at_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p2",
+     "type": "sentence",
+     "en": "My bag.",
+     "zh": "我的书包。",
+     "audio": "audio/all/4179_my_bag.mp3",
+     "slow": "audio/all/4179_my_bag.mp3",
+     "image": "img/raz-aa-lunch_at_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p3",
+     "type": "sentence",
+     "en": "My milk.",
+     "zh": "我的牛奶。",
+     "audio": "audio/all/4180_my_milk.mp3",
+     "slow": "audio/all/4180_my_milk.mp3",
+     "image": "img/raz-aa-lunch_at_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p4",
+     "type": "sentence",
+     "en": "My noodles.",
+     "zh": "我的面条。",
+     "audio": "audio/all/4181_my_noodles.mp3",
+     "slow": "audio/all/4181_my_noodles.mp3",
+     "image": "img/raz-aa-lunch_at_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p5",
+     "type": "sentence",
+     "en": "My carrots.",
+     "zh": "我的胡萝卜。",
+     "audio": "audio/all/4182_my_carrots.mp3",
+     "slow": "audio/all/4182_my_carrots.mp3",
+     "image": "img/raz-aa-lunch_at_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p6",
+     "type": "sentence",
+     "en": "My cookie.",
+     "zh": "我的饼干。",
+     "audio": "audio/all/4183_my_cookie.mp3",
+     "slow": "audio/all/4183_my_cookie.mp3",
+     "image": "img/raz-aa-lunch_at_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p7",
+     "type": "sentence",
+     "en": "My napkin.",
+     "zh": "我的餐巾。",
+     "audio": "audio/all/4184_my_napkin.mp3",
+     "slow": "audio/all/4184_my_napkin.mp3",
+     "image": "img/raz-aa-lunch_at_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_lunch_at_school-p8",
+     "type": "sentence",
+     "en": "My lunch!",
+     "zh": "我的午餐！",
+     "audio": "audio/all/4185_my_lunch.mp3",
+     "slow": "audio/all/4185_my_lunch.mp3",
+     "image": "img/raz-aa-lunch_at_school-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

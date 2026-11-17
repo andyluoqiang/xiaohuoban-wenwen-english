@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_in",
+ "nameZh": "在里面",
+ "bookTitle": "In",
+ "razLevel": "aa",
+ "order": 20,
+ "cover": "img/raz-aa-in-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_in-u1",
+   "band": 2,
+   "title": "In · 在里面",
+   "cards": [
+    {
+     "id": "raz_aa_in-p1",
+     "type": "sentence",
+     "en": "In the car.",
+     "zh": "在汽车里。",
+     "audio": "audio/all/4146_in_the_car.mp3",
+     "slow": "audio/all/4146_in_the_car.mp3",
+     "image": "img/raz-aa-in-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_in-p2",
+     "type": "sentence",
+     "en": "In the wagon.",
+     "zh": "在马车里。",
+     "audio": "audio/all/4147_in_the_wagon.mp3",
+     "slow": "audio/all/4147_in_the_wagon.mp3",
+     "image": "img/raz-aa-in-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_in-p3",
+     "type": "sentence",
+     "en": "In the boat.",
+     "zh": "在小船里。",
+     "audio": "audio/all/4148_in_the_boat.mp3",
+     "slow": "audio/all/4148_in_the_boat.mp3",
+     "image": "img/raz-aa-in-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_in-p4",
+     "type": "sentence",
+     "en": "In the house.",
+     "zh": "在房子里。",
+     "audio": "audio/all/4149_in_the_house.mp3",
+     "slow": "audio/all/4149_in_the_house.mp3",
+     "image": "img/raz-aa-in-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_in-p5",
+     "type": "sentence",
+     "en": "In the water.",
+     "zh": "在水里。",
+     "audio": "audio/all/4150_in_the_water.mp3",
+     "slow": "audio/all/4150_in_the_water.mp3",
+     "image": "img/raz-aa-in-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_in-p6",
+     "type": "sentence",
+     "en": "In the grass.",
+     "zh": "在草丛里。",
+     "audio": "audio/all/4151_in_the_grass.mp3",
+     "slow": "audio/all/4151_in_the_grass.mp3",
+     "image": "img/raz-aa-in-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_in-p7",
+     "type": "sentence",
+     "en": "In the mud.",
+     "zh": "在泥巴里。",
+     "audio": "audio/all/4152_in_the_mud.mp3",
+     "slow": "audio/all/4152_in_the_mud.mp3",
+     "image": "img/raz-aa-in-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_in-p8",
+     "type": "sentence",
+     "en": "In the bathtub.",
+     "zh": "在浴缸里。",
+     "audio": "audio/all/4153_in_the_bathtub.mp3",
+     "slow": "audio/all/4153_in_the_bathtub.mp3",
+     "image": "img/raz-aa-in-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

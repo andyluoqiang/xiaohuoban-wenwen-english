@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_supermarket",
+ "nameZh": "超市",
+ "bookTitle": "The Supermarket",
+ "razLevel": "aa",
+ "order": 73,
+ "cover": "img/raz-aa-the_supermarket-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_supermarket-u1",
+   "band": 2,
+   "title": "The Supermarket · 超市",
+   "cards": [
+    {
+     "id": "raz_aa_the_supermarket-p1",
+     "type": "sentence",
+     "en": "The carts.",
+     "zh": "那些推车。",
+     "audio": "audio/all/4570_the_carts.mp3",
+     "slow": "audio/all/4570_the_carts.mp3",
+     "image": "img/raz-aa-the_supermarket-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_supermarket-p2",
+     "type": "sentence",
+     "en": "The fruits.",
+     "zh": "那些水果。",
+     "audio": "audio/all/4571_the_fruits.mp3",
+     "slow": "audio/all/4571_the_fruits.mp3",
+     "image": "img/raz-aa-the_supermarket-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_supermarket-p3",
+     "type": "sentence",
+     "en": "The vegetables.",
+     "zh": "那些蔬菜。",
+     "audio": "audio/all/4572_the_vegetables.mp3",
+     "slow": "audio/all/4572_the_vegetables.mp3",
+     "image": "img/raz-aa-the_supermarket-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_supermarket-p4",
+     "type": "sentence",
+     "en": "The bread.",
+     "zh": "那些面包。",
+     "audio": "audio/all/4573_the_bread.mp3",
+     "slow": "audio/all/4573_the_bread.mp3",
+     "image": "img/raz-aa-the_supermarket-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_supermarket-p5",
+     "type": "sentence",
+     "en": "The cereal.",
+     "zh": "那些麦片。",
+     "audio": "audio/all/4574_the_cereal.mp3",
+     "slow": "audio/all/4574_the_cereal.mp3",
+     "image": "img/raz-aa-the_supermarket-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_supermarket-p6",
+     "type": "sentence",
+     "en": "The meat.",
+     "zh": "那些肉。",
+     "audio": "audio/all/4575_the_meat.mp3",
+     "slow": "audio/all/4575_the_meat.mp3",
+     "image": "img/raz-aa-the_supermarket-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_supermarket-p7",
+     "type": "sentence",
+     "en": "The eggs.",
+     "zh": "那些鸡蛋。",
+     "audio": "audio/all/4576_the_eggs.mp3",
+     "slow": "audio/all/4576_the_eggs.mp3",
+     "image": "img/raz-aa-the_supermarket-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_supermarket-p8",
+     "type": "sentence",
+     "en": "The checkout.",
+     "zh": "那个收银台。",
+     "audio": "audio/all/4577_the_checkout.mp3",
+     "slow": "audio/all/4577_the_checkout.mp3",
+     "image": "img/raz-aa-the_supermarket-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

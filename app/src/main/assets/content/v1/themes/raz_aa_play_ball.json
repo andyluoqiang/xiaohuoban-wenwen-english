@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_play_ball",
+ "nameZh": "玩球",
+ "bookTitle": "Play Ball!",
+ "razLevel": "aa",
+ "order": 45,
+ "cover": "img/raz-aa-play_ball-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_play_ball-u1",
+   "band": 2,
+   "title": "Play Ball! · 玩球",
+   "cards": [
+    {
+     "id": "raz_aa_play_ball-p1",
+     "type": "sentence",
+     "en": "A beach ball.",
+     "zh": "一个沙滩球。",
+     "audio": "audio/all/4346_a_beach_ball.mp3",
+     "slow": "audio/all/4346_a_beach_ball.mp3",
+     "image": "img/raz-aa-play_ball-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_play_ball-p2",
+     "type": "sentence",
+     "en": "A baseball.",
+     "zh": "一个棒球。",
+     "audio": "audio/all/4347_a_baseball.mp3",
+     "slow": "audio/all/4347_a_baseball.mp3",
+     "image": "img/raz-aa-play_ball-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_play_ball-p3",
+     "type": "sentence",
+     "en": "A basketball.",
+     "zh": "一个篮球。",
+     "audio": "audio/all/4348_a_basketball.mp3",
+     "slow": "audio/all/4348_a_basketball.mp3",
+     "image": "img/raz-aa-play_ball-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_play_ball-p4",
+     "type": "sentence",
+     "en": "A football.",
+     "zh": "一个橄榄球。",
+     "audio": "audio/all/4349_a_football.mp3",
+     "slow": "audio/all/4349_a_football.mp3",
+     "image": "img/raz-aa-play_ball-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_play_ball-p5",
+     "type": "sentence",
+     "en": "A tennis ball.",
+     "zh": "一个网球。",
+     "audio": "audio/all/4350_a_tennis_ball.mp3",
+     "slow": "audio/all/4350_a_tennis_ball.mp3",
+     "image": "img/raz-aa-play_ball-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_play_ball-p6",
+     "type": "sentence",
+     "en": "A golf ball.",
+     "zh": "一个高尔夫球。",
+     "audio": "audio/all/4351_a_golf_ball.mp3",
+     "slow": "audio/all/4351_a_golf_ball.mp3",
+     "image": "img/raz-aa-play_ball-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_play_ball-p7",
+     "type": "sentence",
+     "en": "A soccer ball.",
+     "zh": "一个足球。",
+     "audio": "audio/all/4352_a_soccer_ball.mp3",
+     "slow": "audio/all/4352_a_soccer_ball.mp3",
+     "image": "img/raz-aa-play_ball-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_play_ball-p8",
+     "type": "sentence",
+     "en": "A volleyball.",
+     "zh": "一个排球。",
+     "audio": "audio/all/4353_a_volleyball.mp3",
+     "slow": "audio/all/4353_a_volleyball.mp3",
+     "image": "img/raz-aa-play_ball-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

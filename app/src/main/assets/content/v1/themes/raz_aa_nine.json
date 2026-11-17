@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_nine",
+ "nameZh": "九",
+ "bookTitle": "Nine",
+ "razLevel": "aa",
+ "order": 34,
+ "cover": "img/raz-aa-nine-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_nine-u1",
+   "band": 2,
+   "title": "Nine · 九",
+   "cards": [
+    {
+     "id": "raz_aa_nine-p1",
+     "type": "sentence",
+     "en": "Nine cows.",
+     "zh": "九头牛。",
+     "audio": "audio/all/4258_nine_cows.mp3",
+     "slow": "audio/all/4258_nine_cows.mp3",
+     "image": "img/raz-aa-nine-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_nine-p2",
+     "type": "sentence",
+     "en": "Nine horses.",
+     "zh": "九匹马。",
+     "audio": "audio/all/4259_nine_horses.mp3",
+     "slow": "audio/all/4259_nine_horses.mp3",
+     "image": "img/raz-aa-nine-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_nine-p3",
+     "type": "sentence",
+     "en": "Nine pigs.",
+     "zh": "九头猪。",
+     "audio": "audio/all/4260_nine_pigs.mp3",
+     "slow": "audio/all/4260_nine_pigs.mp3",
+     "image": "img/raz-aa-nine-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_nine-p4",
+     "type": "sentence",
+     "en": "Nine bulls.",
+     "zh": "九头公牛。",
+     "audio": "audio/all/4261_nine_bulls.mp3",
+     "slow": "audio/all/4261_nine_bulls.mp3",
+     "image": "img/raz-aa-nine-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_nine-p5",
+     "type": "sentence",
+     "en": "Nine goats.",
+     "zh": "九只山羊。",
+     "audio": "audio/all/4262_nine_goats.mp3",
+     "slow": "audio/all/4262_nine_goats.mp3",
+     "image": "img/raz-aa-nine-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_nine-p6",
+     "type": "sentence",
+     "en": "Nine chickens.",
+     "zh": "九只鸡。",
+     "audio": "audio/all/4263_nine_chickens.mp3",
+     "slow": "audio/all/4263_nine_chickens.mp3",
+     "image": "img/raz-aa-nine-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_nine-p7",
+     "type": "sentence",
+     "en": "Nine sheep.",
+     "zh": "九只绵羊。",
+     "audio": "audio/all/4264_nine_sheep.mp3",
+     "slow": "audio/all/4264_nine_sheep.mp3",
+     "image": "img/raz-aa-nine-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_nine-p8",
+     "type": "sentence",
+     "en": "Nine geese.",
+     "zh": "九只鹅。",
+     "audio": "audio/all/4265_nine_geese.mp3",
+     "slow": "audio/all/4265_nine_geese.mp3",
+     "image": "img/raz-aa-nine-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

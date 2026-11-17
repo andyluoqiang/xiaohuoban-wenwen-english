@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_five",
+ "nameZh": "五",
+ "bookTitle": "Five",
+ "razLevel": "aa",
+ "order": 15,
+ "cover": "img/raz-aa-five-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_five-u1",
+   "band": 2,
+   "title": "Five · 五",
+   "cards": [
+    {
+     "id": "raz_aa_five-p1",
+     "type": "sentence",
+     "en": "Five cups.",
+     "zh": "五个杯子。",
+     "audio": "audio/all/4106_five_cups.mp3",
+     "slow": "audio/all/4106_five_cups.mp3",
+     "image": "img/raz-aa-five-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_five-p2",
+     "type": "sentence",
+     "en": "Five plates.",
+     "zh": "五个盘子。",
+     "audio": "audio/all/4107_five_plates.mp3",
+     "slow": "audio/all/4107_five_plates.mp3",
+     "image": "img/raz-aa-five-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_five-p3",
+     "type": "sentence",
+     "en": "Five bowls.",
+     "zh": "五个碗。",
+     "audio": "audio/all/4108_five_bowls.mp3",
+     "slow": "audio/all/4108_five_bowls.mp3",
+     "image": "img/raz-aa-five-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_five-p4",
+     "type": "sentence",
+     "en": "Five forks.",
+     "zh": "五把叉子。",
+     "audio": "audio/all/4109_five_forks.mp3",
+     "slow": "audio/all/4109_five_forks.mp3",
+     "image": "img/raz-aa-five-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_five-p5",
+     "type": "sentence",
+     "en": "Five spoons.",
+     "zh": "五把勺子。",
+     "audio": "audio/all/4110_five_spoons.mp3",
+     "slow": "audio/all/4110_five_spoons.mp3",
+     "image": "img/raz-aa-five-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_five-p6",
+     "type": "sentence",
+     "en": "Five pans.",
+     "zh": "五个锅。",
+     "audio": "audio/all/4111_five_pans.mp3",
+     "slow": "audio/all/4111_five_pans.mp3",
+     "image": "img/raz-aa-five-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_five-p7",
+     "type": "sentence",
+     "en": "Five chairs.",
+     "zh": "五把椅子。",
+     "audio": "audio/all/4112_five_chairs.mp3",
+     "slow": "audio/all/4112_five_chairs.mp3",
+     "image": "img/raz-aa-five-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_five-p8",
+     "type": "sentence",
+     "en": "Five lunches.",
+     "zh": "五份午餐。",
+     "audio": "audio/all/4113_five_lunches.mp3",
+     "slow": "audio/all/4113_five_lunches.mp3",
+     "image": "img/raz-aa-five-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

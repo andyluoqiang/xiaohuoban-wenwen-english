@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_classroom",
+ "nameZh": "教室",
+ "bookTitle": "The Classroom",
+ "razLevel": "aa",
+ "order": 63,
+ "cover": "img/raz-aa-the_classroom-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_classroom-u1",
+   "band": 2,
+   "title": "The Classroom · 教室",
+   "cards": [
+    {
+     "id": "raz_aa_the_classroom-p1",
+     "type": "sentence",
+     "en": "The chair.",
+     "zh": "那把椅子。",
+     "audio": "audio/all/4490_the_chair.mp3",
+     "slow": "audio/all/4490_the_chair.mp3",
+     "image": "img/raz-aa-the_classroom-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_classroom-p2",
+     "type": "sentence",
+     "en": "The desk.",
+     "zh": "那张书桌。",
+     "audio": "audio/all/4491_the_desk.mp3",
+     "slow": "audio/all/4491_the_desk.mp3",
+     "image": "img/raz-aa-the_classroom-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_classroom-p3",
+     "type": "sentence",
+     "en": "The book.",
+     "zh": "那本书。",
+     "audio": "audio/all/4492_the_book.mp3",
+     "slow": "audio/all/4492_the_book.mp3",
+     "image": "img/raz-aa-the_classroom-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_classroom-p4",
+     "type": "sentence",
+     "en": "The paper.",
+     "zh": "那张纸。",
+     "audio": "audio/all/4493_the_paper.mp3",
+     "slow": "audio/all/4493_the_paper.mp3",
+     "image": "img/raz-aa-the_classroom-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_classroom-p5",
+     "type": "sentence",
+     "en": "The pencil.",
+     "zh": "那支铅笔。",
+     "audio": "audio/all/4494_the_pencil.mp3",
+     "slow": "audio/all/4494_the_pencil.mp3",
+     "image": "img/raz-aa-the_classroom-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_classroom-p6",
+     "type": "sentence",
+     "en": "The eraser.",
+     "zh": "那块橡皮。",
+     "audio": "audio/all/4495_the_eraser.mp3",
+     "slow": "audio/all/4495_the_eraser.mp3",
+     "image": "img/raz-aa-the_classroom-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_classroom-p7",
+     "type": "sentence",
+     "en": "The backpack.",
+     "zh": "那个书包。",
+     "audio": "audio/all/4496_the_backpack.mp3",
+     "slow": "audio/all/4496_the_backpack.mp3",
+     "image": "img/raz-aa-the_classroom-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_classroom-p8",
+     "type": "sentence",
+     "en": "The classroom.",
+     "zh": "那间教室。",
+     "audio": "audio/all/4497_the_classroom.mp3",
+     "slow": "audio/all/4497_the_classroom.mp3",
+     "image": "img/raz-aa-the_classroom-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

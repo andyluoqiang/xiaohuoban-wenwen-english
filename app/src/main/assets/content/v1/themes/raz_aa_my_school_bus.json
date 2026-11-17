@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_school_bus",
+ "nameZh": "我的校车",
+ "bookTitle": "My School Bus",
+ "razLevel": "aa",
+ "order": 32,
+ "cover": "img/raz-aa-my_school_bus-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_school_bus-u1",
+   "band": 2,
+   "title": "My School Bus · 我的校车",
+   "cards": [
+    {
+     "id": "raz_aa_my_school_bus-p1",
+     "type": "sentence",
+     "en": "The walk.",
+     "zh": "那段路。",
+     "audio": "audio/all/4242_the_walk.mp3",
+     "slow": "audio/all/4242_the_walk.mp3",
+     "image": "img/raz-aa-my_school_bus-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_school_bus-p2",
+     "type": "sentence",
+     "en": "The bench.",
+     "zh": "那张长椅。",
+     "audio": "audio/all/4243_the_bench.mp3",
+     "slow": "audio/all/4243_the_bench.mp3",
+     "image": "img/raz-aa-my_school_bus-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_school_bus-p3",
+     "type": "sentence",
+     "en": "The bus.",
+     "zh": "那辆巴士。",
+     "audio": "audio/all/4244_the_bus.mp3",
+     "slow": "audio/all/4244_the_bus.mp3",
+     "image": "img/raz-aa-my_school_bus-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_school_bus-p4",
+     "type": "sentence",
+     "en": "The door.",
+     "zh": "那扇门。",
+     "audio": "audio/all/4245_the_door.mp3",
+     "slow": "audio/all/4245_the_door.mp3",
+     "image": "img/raz-aa-my_school_bus-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_school_bus-p5",
+     "type": "sentence",
+     "en": "The steps.",
+     "zh": "那些台阶。",
+     "audio": "audio/all/4246_the_steps.mp3",
+     "slow": "audio/all/4246_the_steps.mp3",
+     "image": "img/raz-aa-my_school_bus-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_school_bus-p6",
+     "type": "sentence",
+     "en": "The seat.",
+     "zh": "那个座位。",
+     "audio": "audio/all/4247_the_seat.mp3",
+     "slow": "audio/all/4247_the_seat.mp3",
+     "image": "img/raz-aa-my_school_bus-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_school_bus-p7",
+     "type": "sentence",
+     "en": "The window.",
+     "zh": "那扇车窗。",
+     "audio": "audio/all/4248_the_window.mp3",
+     "slow": "audio/all/4248_the_window.mp3",
+     "image": "img/raz-aa-my_school_bus-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_school_bus-p8",
+     "type": "sentence",
+     "en": "The school.",
+     "zh": "那所学校。",
+     "audio": "audio/all/4249_the_school.mp3",
+     "slow": "audio/all/4249_the_school.mp3",
+     "image": "img/raz-aa-my_school_bus-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_family",
+ "nameZh": "我的家人",
+ "bookTitle": "My Family",
+ "razLevel": "aa",
+ "order": 28,
+ "cover": "img/raz-aa-my_family-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_family-u1",
+   "band": 2,
+   "title": "My Family · 我的家人",
+   "cards": [
+    {
+     "id": "raz_aa_my_family-p1",
+     "type": "sentence",
+     "en": "My mother.",
+     "zh": "我的妈妈。",
+     "audio": "audio/all/4210_my_mother.mp3",
+     "slow": "audio/all/4210_my_mother.mp3",
+     "image": "img/raz-aa-my_family-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_family-p2",
+     "type": "sentence",
+     "en": "My father.",
+     "zh": "我的爸爸。",
+     "audio": "audio/all/4211_my_father.mp3",
+     "slow": "audio/all/4211_my_father.mp3",
+     "image": "img/raz-aa-my_family-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_family-p3",
+     "type": "sentence",
+     "en": "My brother.",
+     "zh": "我的哥哥。",
+     "audio": "audio/all/4212_my_brother.mp3",
+     "slow": "audio/all/4212_my_brother.mp3",
+     "image": "img/raz-aa-my_family-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_family-p4",
+     "type": "sentence",
+     "en": "My sister.",
+     "zh": "我的姐姐。",
+     "audio": "audio/all/4213_my_sister.mp3",
+     "slow": "audio/all/4213_my_sister.mp3",
+     "image": "img/raz-aa-my_family-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_family-p5",
+     "type": "sentence",
+     "en": "My grandfather.",
+     "zh": "我的爷爷。",
+     "audio": "audio/all/4214_my_grandfather.mp3",
+     "slow": "audio/all/4214_my_grandfather.mp3",
+     "image": "img/raz-aa-my_family-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_family-p6",
+     "type": "sentence",
+     "en": "My grandmother.",
+     "zh": "我的奶奶。",
+     "audio": "audio/all/4215_my_grandmother.mp3",
+     "slow": "audio/all/4215_my_grandmother.mp3",
+     "image": "img/raz-aa-my_family-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_family-p7",
+     "type": "sentence",
+     "en": "Me.",
+     "zh": "我。",
+     "audio": "audio/all/4216_me.mp3",
+     "slow": "audio/all/4216_me.mp3",
+     "image": "img/raz-aa-my_family-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_family-p8",
+     "type": "sentence",
+     "en": "My family and me.",
+     "zh": "我的全家和我。",
+     "audio": "audio/all/4217_my_family_and_me.mp3",
+     "slow": "audio/all/4217_my_family_and_me.mp3",
+     "image": "img/raz-aa-my_family-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

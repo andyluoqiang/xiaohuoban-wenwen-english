@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_counting_letters",
+ "nameZh": "数字母",
+ "bookTitle": "Counting Letters",
+ "razLevel": "aa",
+ "order": 10,
+ "cover": "img/raz-aa-counting_letters-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_counting_letters-u1",
+   "band": 2,
+   "title": "Counting Letters · 数字母",
+   "cards": [
+    {
+     "id": "raz_aa_counting_letters-p1",
+     "type": "sentence",
+     "en": "One letter.",
+     "zh": "一个字母。",
+     "audio": "audio/all/4064_one_letter.mp3",
+     "slow": "audio/all/4064_one_letter.mp3",
+     "image": "img/raz-aa-counting_letters-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_counting_letters-p2",
+     "type": "sentence",
+     "en": "Two letters.",
+     "zh": "两个字母。",
+     "audio": "audio/all/4065_two_letters.mp3",
+     "slow": "audio/all/4065_two_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_counting_letters-p3",
+     "type": "sentence",
+     "en": "Three letters.",
+     "zh": "三个字母。",
+     "audio": "audio/all/4066_three_letters.mp3",
+     "slow": "audio/all/4066_three_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_counting_letters-p4",
+     "type": "sentence",
+     "en": "Four letters.",
+     "zh": "四个字母。",
+     "audio": "audio/all/4067_four_letters.mp3",
+     "slow": "audio/all/4067_four_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_counting_letters-p5",
+     "type": "sentence",
+     "en": "Five letters.",
+     "zh": "五个字母。",
+     "audio": "audio/all/4068_five_letters.mp3",
+     "slow": "audio/all/4068_five_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_counting_letters-p6",
+     "type": "sentence",
+     "en": "Six letters.",
+     "zh": "六个字母。",
+     "audio": "audio/all/4069_six_letters.mp3",
+     "slow": "audio/all/4069_six_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_counting_letters-p7",
+     "type": "sentence",
+     "en": "Seven letters.",
+     "zh": "七个字母。",
+     "audio": "audio/all/4070_seven_letters.mp3",
+     "slow": "audio/all/4070_seven_letters.mp3",
+     "image": "img/raz-aa-counting_letters-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_counting_letters-p8",
+     "type": "sentence",
+     "en": "Seven great words!",
+     "zh": "七个好词！",
+     "audio": "audio/all/4071_seven_great_words.mp3",
+     "slow": "audio/all/4071_seven_great_words.mp3",
+     "image": "img/raz-aa-counting_letters-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

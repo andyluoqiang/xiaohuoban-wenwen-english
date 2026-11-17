@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_three",
+ "nameZh": "三",
+ "bookTitle": "Three",
+ "razLevel": "aa",
+ "order": 77,
+ "cover": "img/raz-aa-three-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_three-u1",
+   "band": 2,
+   "title": "Three · 三",
+   "cards": [
+    {
+     "id": "raz_aa_three-p1",
+     "type": "sentence",
+     "en": "Three tigers.",
+     "zh": "三只老虎。",
+     "audio": "audio/all/4602_three_tigers.mp3",
+     "slow": "audio/all/4602_three_tigers.mp3",
+     "image": "img/raz-aa-three-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_three-p2",
+     "type": "sentence",
+     "en": "Three lions.",
+     "zh": "三头狮子。",
+     "audio": "audio/all/4603_three_lions.mp3",
+     "slow": "audio/all/4603_three_lions.mp3",
+     "image": "img/raz-aa-three-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_three-p3",
+     "type": "sentence",
+     "en": "Three bears.",
+     "zh": "三只熊。",
+     "audio": "audio/all/4604_three_bears.mp3",
+     "slow": "audio/all/4604_three_bears.mp3",
+     "image": "img/raz-aa-three-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_three-p4",
+     "type": "sentence",
+     "en": "Three monkeys.",
+     "zh": "三只猴子。",
+     "audio": "audio/all/4605_three_monkeys.mp3",
+     "slow": "audio/all/4605_three_monkeys.mp3",
+     "image": "img/raz-aa-three-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_three-p5",
+     "type": "sentence",
+     "en": "Three elephants.",
+     "zh": "三头大象。",
+     "audio": "audio/all/4606_three_elephants.mp3",
+     "slow": "audio/all/4606_three_elephants.mp3",
+     "image": "img/raz-aa-three-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_three-p6",
+     "type": "sentence",
+     "en": "Three camels.",
+     "zh": "三只骆驼。",
+     "audio": "audio/all/4607_three_camels.mp3",
+     "slow": "audio/all/4607_three_camels.mp3",
+     "image": "img/raz-aa-three-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_three-p7",
+     "type": "sentence",
+     "en": "Three frogs.",
+     "zh": "三只青蛙。",
+     "audio": "audio/all/4608_three_frogs.mp3",
+     "slow": "audio/all/4608_three_frogs.mp3",
+     "image": "img/raz-aa-three-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_three-p8",
+     "type": "sentence",
+     "en": "Three pandas.",
+     "zh": "三只熊猫。",
+     "audio": "audio/all/4609_three_pandas.mp3",
+     "slow": "audio/all/4609_three_pandas.mp3",
+     "image": "img/raz-aa-three-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

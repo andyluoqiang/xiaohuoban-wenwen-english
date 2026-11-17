@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_counting_bugs",
+ "nameZh": "数虫子",
+ "bookTitle": "Counting Bugs",
+ "razLevel": "aa",
+ "order": 9,
+ "cover": "img/raz-aa-counting_bugs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_counting_bugs-u1",
+   "band": 2,
+   "title": "Counting Bugs · 数虫子",
+   "cards": [
+    {
+     "id": "raz_aa_counting_bugs-p1",
+     "type": "sentence",
+     "en": "One bug.",
+     "zh": "一只虫。",
+     "audio": "audio/all/4056_one_bug.mp3",
+     "slow": "audio/all/4056_one_bug.mp3",
+     "image": "img/raz-aa-counting_bugs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_counting_bugs-p2",
+     "type": "sentence",
+     "en": "Two bugs.",
+     "zh": "两只虫。",
+     "audio": "audio/all/4057_two_bugs.mp3",
+     "slow": "audio/all/4057_two_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_counting_bugs-p3",
+     "type": "sentence",
+     "en": "Three bugs.",
+     "zh": "三只虫。",
+     "audio": "audio/all/4058_three_bugs.mp3",
+     "slow": "audio/all/4058_three_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_counting_bugs-p4",
+     "type": "sentence",
+     "en": "Four bugs.",
+     "zh": "四只虫。",
+     "audio": "audio/all/4059_four_bugs.mp3",
+     "slow": "audio/all/4059_four_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_counting_bugs-p5",
+     "type": "sentence",
+     "en": "Five bugs.",
+     "zh": "五只虫。",
+     "audio": "audio/all/4060_five_bugs.mp3",
+     "slow": "audio/all/4060_five_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_counting_bugs-p6",
+     "type": "sentence",
+     "en": "Six bugs.",
+     "zh": "六只虫。",
+     "audio": "audio/all/4061_six_bugs.mp3",
+     "slow": "audio/all/4061_six_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_counting_bugs-p7",
+     "type": "sentence",
+     "en": "Seven bugs.",
+     "zh": "七只虫。",
+     "audio": "audio/all/4062_seven_bugs.mp3",
+     "slow": "audio/all/4062_seven_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_counting_bugs-p8",
+     "type": "sentence",
+     "en": "So many bugs!",
+     "zh": "好多虫！",
+     "audio": "audio/all/4063_so_many_bugs.mp3",
+     "slow": "audio/all/4063_so_many_bugs.mp3",
+     "image": "img/raz-aa-counting_bugs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

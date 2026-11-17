@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_garden",
+ "nameZh": "菜园",
+ "bookTitle": "The Garden",
+ "razLevel": "aa",
+ "order": 66,
+ "cover": "img/raz-aa-the_garden-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_garden-u1",
+   "band": 2,
+   "title": "The Garden · 菜园",
+   "cards": [
+    {
+     "id": "raz_aa_the_garden-p1",
+     "type": "sentence",
+     "en": "The peas.",
+     "zh": "那些豌豆。",
+     "audio": "audio/all/4514_the_peas.mp3",
+     "slow": "audio/all/4514_the_peas.mp3",
+     "image": "img/raz-aa-the_garden-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_garden-p2",
+     "type": "sentence",
+     "en": "The beans.",
+     "zh": "那些豆子。",
+     "audio": "audio/all/4515_the_beans.mp3",
+     "slow": "audio/all/4515_the_beans.mp3",
+     "image": "img/raz-aa-the_garden-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_garden-p3",
+     "type": "sentence",
+     "en": "The melons.",
+     "zh": "那些甜瓜。",
+     "audio": "audio/all/4516_the_melons.mp3",
+     "slow": "audio/all/4516_the_melons.mp3",
+     "image": "img/raz-aa-the_garden-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_garden-p4",
+     "type": "sentence",
+     "en": "The onions.",
+     "zh": "那些洋葱。",
+     "audio": "audio/all/4517_the_onions.mp3",
+     "slow": "audio/all/4517_the_onions.mp3",
+     "image": "img/raz-aa-the_garden-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_garden-p5",
+     "type": "sentence",
+     "en": "The potatoes.",
+     "zh": "那些土豆。",
+     "audio": "audio/all/4518_the_potatoes.mp3",
+     "slow": "audio/all/4518_the_potatoes.mp3",
+     "image": "img/raz-aa-the_garden-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_garden-p6",
+     "type": "sentence",
+     "en": "The tomatoes.",
+     "zh": "那些番茄。",
+     "audio": "audio/all/4519_the_tomatoes.mp3",
+     "slow": "audio/all/4519_the_tomatoes.mp3",
+     "image": "img/raz-aa-the_garden-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_garden-p7",
+     "type": "sentence",
+     "en": "The corn.",
+     "zh": "那些玉米。",
+     "audio": "audio/all/4520_the_corn.mp3",
+     "slow": "audio/all/4520_the_corn.mp3",
+     "image": "img/raz-aa-the_garden-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_garden-p8",
+     "type": "sentence",
+     "en": "The garden.",
+     "zh": "那个菜园。",
+     "audio": "audio/all/4521_the_garden.mp3",
+     "slow": "audio/all/4521_the_garden.mp3",
+     "image": "img/raz-aa-the_garden-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

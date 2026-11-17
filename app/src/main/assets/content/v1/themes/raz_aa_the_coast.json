@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_coast",
+ "nameZh": "海岸",
+ "bookTitle": "The Coast",
+ "razLevel": "aa",
+ "order": 64,
+ "cover": "img/raz-aa-the_coast-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_coast-u1",
+   "band": 2,
+   "title": "The Coast · 海岸",
+   "cards": [
+    {
+     "id": "raz_aa_the_coast-p1",
+     "type": "sentence",
+     "en": "The ocean.",
+     "zh": "那片海洋。",
+     "audio": "audio/all/4498_the_ocean.mp3",
+     "slow": "audio/all/4498_the_ocean.mp3",
+     "image": "img/raz-aa-the_coast-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_coast-p2",
+     "type": "sentence",
+     "en": "The waves.",
+     "zh": "那些海浪。",
+     "audio": "audio/all/4499_the_waves.mp3",
+     "slow": "audio/all/4499_the_waves.mp3",
+     "image": "img/raz-aa-the_coast-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_coast-p3",
+     "type": "sentence",
+     "en": "The beach.",
+     "zh": "那片沙滩。",
+     "audio": "audio/all/4500_the_beach.mp3",
+     "slow": "audio/all/4500_the_beach.mp3",
+     "image": "img/raz-aa-the_coast-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_coast-p4",
+     "type": "sentence",
+     "en": "The rocks.",
+     "zh": "那些礁石。",
+     "audio": "audio/all/4501_the_rocks.mp3",
+     "slow": "audio/all/4501_the_rocks.mp3",
+     "image": "img/raz-aa-the_coast-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_coast-p5",
+     "type": "sentence",
+     "en": "The cliff.",
+     "zh": "那处悬崖。",
+     "audio": "audio/all/4502_the_cliff.mp3",
+     "slow": "audio/all/4502_the_cliff.mp3",
+     "image": "img/raz-aa-the_coast-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_coast-p6",
+     "type": "sentence",
+     "en": "The birds.",
+     "zh": "那些海鸟。",
+     "audio": "audio/all/4503_the_birds.mp3",
+     "slow": "audio/all/4503_the_birds.mp3",
+     "image": "img/raz-aa-the_coast-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_coast-p7",
+     "type": "sentence",
+     "en": "The lighthouse.",
+     "zh": "那座灯塔。",
+     "audio": "audio/all/4504_the_lighthouse.mp3",
+     "slow": "audio/all/4504_the_lighthouse.mp3",
+     "image": "img/raz-aa-the_coast-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_coast-p8",
+     "type": "sentence",
+     "en": "The coast.",
+     "zh": "那段海岸。",
+     "audio": "audio/all/4505_the_coast.mp3",
+     "slow": "audio/all/4505_the_coast.mp3",
+     "image": "img/raz-aa-the_coast-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

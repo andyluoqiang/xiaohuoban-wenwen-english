@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_on",
+ "nameZh": "在上面",
+ "bookTitle": "On",
+ "razLevel": "aa",
+ "order": 36,
+ "cover": "img/raz-aa-on-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_on-u1",
+   "band": 2,
+   "title": "On · 在上面",
+   "cards": [
+    {
+     "id": "raz_aa_on-p1",
+     "type": "sentence",
+     "en": "On the house.",
+     "zh": "在房子上。",
+     "audio": "audio/all/4274_on_the_house.mp3",
+     "slow": "audio/all/4274_on_the_house.mp3",
+     "image": "img/raz-aa-on-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_on-p2",
+     "type": "sentence",
+     "en": "On the bike.",
+     "zh": "在自行车上。",
+     "audio": "audio/all/4275_on_the_bike.mp3",
+     "slow": "audio/all/4275_on_the_bike.mp3",
+     "image": "img/raz-aa-on-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_on-p3",
+     "type": "sentence",
+     "en": "On the swing.",
+     "zh": "在秋千上。",
+     "audio": "audio/all/4276_on_the_swing.mp3",
+     "slow": "audio/all/4276_on_the_swing.mp3",
+     "image": "img/raz-aa-on-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_on-p4",
+     "type": "sentence",
+     "en": "On the bed.",
+     "zh": "在床上。",
+     "audio": "audio/all/4277_on_the_bed.mp3",
+     "slow": "audio/all/4277_on_the_bed.mp3",
+     "image": "img/raz-aa-on-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_on-p5",
+     "type": "sentence",
+     "en": "On the airplane.",
+     "zh": "在飞机上。",
+     "audio": "audio/all/4278_on_the_airplane.mp3",
+     "slow": "audio/all/4278_on_the_airplane.mp3",
+     "image": "img/raz-aa-on-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_on-p6",
+     "type": "sentence",
+     "en": "On the fence.",
+     "zh": "在栅栏上。",
+     "audio": "audio/all/4279_on_the_fence.mp3",
+     "slow": "audio/all/4279_on_the_fence.mp3",
+     "image": "img/raz-aa-on-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_on-p7",
+     "type": "sentence",
+     "en": "On the table.",
+     "zh": "在桌子上。",
+     "audio": "audio/all/4280_on_the_table.mp3",
+     "slow": "audio/all/4280_on_the_table.mp3",
+     "image": "img/raz-aa-on-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_on-p8",
+     "type": "sentence",
+     "en": "On the skates.",
+     "zh": "在溜冰鞋上。",
+     "audio": "audio/all/4281_on_the_skates.mp3",
+     "slow": "audio/all/4281_on_the_skates.mp3",
+     "image": "img/raz-aa-on-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

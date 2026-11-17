@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_easter",
+ "nameZh": "我的复活节",
+ "bookTitle": "My Easter",
+ "razLevel": "aa",
+ "order": 27,
+ "cover": "img/raz-aa-my_easter-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_easter-u1",
+   "band": 2,
+   "title": "My Easter · 我的复活节",
+   "cards": [
+    {
+     "id": "raz_aa_my_easter-p1",
+     "type": "sentence",
+     "en": "My dress.",
+     "zh": "我的裙子。",
+     "audio": "audio/all/4202_my_dress.mp3",
+     "slow": "audio/all/4202_my_dress.mp3",
+     "image": "img/raz-aa-my_easter-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_easter-p2",
+     "type": "sentence",
+     "en": "My hat.",
+     "zh": "我的帽子。",
+     "audio": "audio/all/4203_my_hat.mp3",
+     "slow": "audio/all/4203_my_hat.mp3",
+     "image": "img/raz-aa-my_easter-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_easter-p3",
+     "type": "sentence",
+     "en": "My basket.",
+     "zh": "我的篮子。",
+     "audio": "audio/all/4204_my_basket.mp3",
+     "slow": "audio/all/4204_my_basket.mp3",
+     "image": "img/raz-aa-my_easter-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_easter-p4",
+     "type": "sentence",
+     "en": "My eggs.",
+     "zh": "我的彩蛋。",
+     "audio": "audio/all/4205_my_eggs.mp3",
+     "slow": "audio/all/4205_my_eggs.mp3",
+     "image": "img/raz-aa-my_easter-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_easter-p5",
+     "type": "sentence",
+     "en": "My candy.",
+     "zh": "我的糖果。",
+     "audio": "audio/all/4206_my_candy.mp3",
+     "slow": "audio/all/4206_my_candy.mp3",
+     "image": "img/raz-aa-my_easter-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_easter-p6",
+     "type": "sentence",
+     "en": "My flowers.",
+     "zh": "我的花。",
+     "audio": "audio/all/4207_my_flowers.mp3",
+     "slow": "audio/all/4207_my_flowers.mp3",
+     "image": "img/raz-aa-my_easter-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_easter-p7",
+     "type": "sentence",
+     "en": "My family.",
+     "zh": "我的家人。",
+     "audio": "audio/all/4208_my_family.mp3",
+     "slow": "audio/all/4208_my_family.mp3",
+     "image": "img/raz-aa-my_easter-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_easter-p8",
+     "type": "sentence",
+     "en": "My Easter.",
+     "zh": "我的复活节。",
+     "audio": "audio/all/4209_my_easter.mp3",
+     "slow": "audio/all/4209_my_easter.mp3",
+     "image": "img/raz-aa-my_easter-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

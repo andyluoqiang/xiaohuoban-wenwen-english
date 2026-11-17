@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_twelve",
+ "nameZh": "十二",
+ "bookTitle": "Twelve",
+ "razLevel": "aa",
+ "order": 80,
+ "cover": "img/raz-aa-twelve-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_twelve-u1",
+   "band": 2,
+   "title": "Twelve · 十二",
+   "cards": [
+    {
+     "id": "raz_aa_twelve-p1",
+     "type": "sentence",
+     "en": "Twelve aprons.",
+     "zh": "十二条围裙。",
+     "audio": "audio/all/4626_twelve_aprons.mp3",
+     "slow": "audio/all/4626_twelve_aprons.mp3",
+     "image": "img/raz-aa-twelve-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_twelve-p2",
+     "type": "sentence",
+     "en": "Twelve hats.",
+     "zh": "十二顶帽子。",
+     "audio": "audio/all/4627_twelve_hats.mp3",
+     "slow": "audio/all/4627_twelve_hats.mp3",
+     "image": "img/raz-aa-twelve-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_twelve-p3",
+     "type": "sentence",
+     "en": "Twelve cups.",
+     "zh": "十二个杯子。",
+     "audio": "audio/all/4628_twelve_cups.mp3",
+     "slow": "audio/all/4628_twelve_cups.mp3",
+     "image": "img/raz-aa-twelve-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_twelve-p4",
+     "type": "sentence",
+     "en": "Twelve bowls.",
+     "zh": "十二个碗。",
+     "audio": "audio/all/4629_twelve_bowls.mp3",
+     "slow": "audio/all/4629_twelve_bowls.mp3",
+     "image": "img/raz-aa-twelve-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_twelve-p5",
+     "type": "sentence",
+     "en": "Twelve spoons.",
+     "zh": "十二把勺子。",
+     "audio": "audio/all/4630_twelve_spoons.mp3",
+     "slow": "audio/all/4630_twelve_spoons.mp3",
+     "image": "img/raz-aa-twelve-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_twelve-p6",
+     "type": "sentence",
+     "en": "Twelve pans.",
+     "zh": "十二个锅。",
+     "audio": "audio/all/4631_twelve_pans.mp3",
+     "slow": "audio/all/4631_twelve_pans.mp3",
+     "image": "img/raz-aa-twelve-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_twelve-p7",
+     "type": "sentence",
+     "en": "Twelve cookies.",
+     "zh": "十二块饼干。",
+     "audio": "audio/all/4632_twelve_cookies.mp3",
+     "slow": "audio/all/4632_twelve_cookies.mp3",
+     "image": "img/raz-aa-twelve-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_twelve-p8",
+     "type": "sentence",
+     "en": "Twelve plates.",
+     "zh": "十二个盘子。",
+     "audio": "audio/all/4633_twelve_plates.mp3",
+     "slow": "audio/all/4633_twelve_plates.mp3",
+     "image": "img/raz-aa-twelve-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

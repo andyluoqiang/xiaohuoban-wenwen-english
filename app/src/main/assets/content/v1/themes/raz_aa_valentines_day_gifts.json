@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_valentines_day_gifts",
+ "nameZh": "情人节礼物",
+ "bookTitle": "Valentine's Day Gifts",
+ "razLevel": "aa",
+ "order": 83,
+ "cover": "img/raz-aa-valentines_day_gifts-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_valentines_day_gifts-u1",
+   "band": 2,
+   "title": "Valentine's Day Gifts · 情人节礼物",
+   "cards": [
+    {
+     "id": "raz_aa_valentines_day_gifts-p1",
+     "type": "sentence",
+     "en": "The gifts.",
+     "zh": "那些礼物。",
+     "audio": "audio/all/4650_the_gifts.mp3",
+     "slow": "audio/all/4650_the_gifts.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p2",
+     "type": "sentence",
+     "en": "The flowers.",
+     "zh": "那些花。",
+     "audio": "audio/all/4651_the_flowers.mp3",
+     "slow": "audio/all/4651_the_flowers.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p3",
+     "type": "sentence",
+     "en": "The cookies.",
+     "zh": "那些饼干。",
+     "audio": "audio/all/4652_the_cookies.mp3",
+     "slow": "audio/all/4652_the_cookies.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p4",
+     "type": "sentence",
+     "en": "The balloons.",
+     "zh": "那些气球。",
+     "audio": "audio/all/4653_the_balloons.mp3",
+     "slow": "audio/all/4653_the_balloons.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p5",
+     "type": "sentence",
+     "en": "The candy.",
+     "zh": "那些糖果。",
+     "audio": "audio/all/4654_the_candy.mp3",
+     "slow": "audio/all/4654_the_candy.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p6",
+     "type": "sentence",
+     "en": "The bear.",
+     "zh": "那只熊。",
+     "audio": "audio/all/4655_the_bear.mp3",
+     "slow": "audio/all/4655_the_bear.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p7",
+     "type": "sentence",
+     "en": "The chocolates.",
+     "zh": "那些巧克力。",
+     "audio": "audio/all/4656_the_chocolates.mp3",
+     "slow": "audio/all/4656_the_chocolates.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_valentines_day_gifts-p8",
+     "type": "sentence",
+     "en": "The valentine.",
+     "zh": "那份情人节的礼物。",
+     "audio": "audio/all/4657_the_valentine.mp3",
+     "slow": "audio/all/4657_the_valentine.mp3",
+     "image": "img/raz-aa-valentines_day_gifts-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

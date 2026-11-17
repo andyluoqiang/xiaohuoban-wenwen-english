@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_orange",
+ "nameZh": "橙色",
+ "bookTitle": "Orange",
+ "razLevel": "aa",
+ "order": 38,
+ "cover": "img/raz-aa-orange-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_orange-u1",
+   "band": 2,
+   "title": "Orange · 橙色",
+   "cards": [
+    {
+     "id": "raz_aa_orange-p1",
+     "type": "sentence",
+     "en": "An orange tree.",
+     "zh": "一棵橙色的树。",
+     "audio": "audio/all/4290_an_orange_tree.mp3",
+     "slow": "audio/all/4290_an_orange_tree.mp3",
+     "image": "img/raz-aa-orange-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_orange-p2",
+     "type": "sentence",
+     "en": "An orange leaf.",
+     "zh": "一片橙色的叶子。",
+     "audio": "audio/all/4291_an_orange_leaf.mp3",
+     "slow": "audio/all/4291_an_orange_leaf.mp3",
+     "image": "img/raz-aa-orange-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_orange-p3",
+     "type": "sentence",
+     "en": "An orange pumpkin.",
+     "zh": "一个橙色的南瓜。",
+     "audio": "audio/all/4292_an_orange_pumpkin.mp3",
+     "slow": "audio/all/4292_an_orange_pumpkin.mp3",
+     "image": "img/raz-aa-orange-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_orange-p4",
+     "type": "sentence",
+     "en": "An orange flower.",
+     "zh": "一朵橙色的花。",
+     "audio": "audio/all/4293_an_orange_flower.mp3",
+     "slow": "audio/all/4293_an_orange_flower.mp3",
+     "image": "img/raz-aa-orange-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_orange-p5",
+     "type": "sentence",
+     "en": "An orange butterfly.",
+     "zh": "一只橙色的蝴蝶。",
+     "audio": "audio/all/4294_an_orange_butterfly.mp3",
+     "slow": "audio/all/4294_an_orange_butterfly.mp3",
+     "image": "img/raz-aa-orange-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_orange-p6",
+     "type": "sentence",
+     "en": "An orange snake.",
+     "zh": "一条橙色的蛇。",
+     "audio": "audio/all/4295_an_orange_snake.mp3",
+     "slow": "audio/all/4295_an_orange_snake.mp3",
+     "image": "img/raz-aa-orange-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_orange-p7",
+     "type": "sentence",
+     "en": "An orange field.",
+     "zh": "一片橙色的田野。",
+     "audio": "audio/all/4296_an_orange_field.mp3",
+     "slow": "audio/all/4296_an_orange_field.mp3",
+     "image": "img/raz-aa-orange-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_orange-p8",
+     "type": "sentence",
+     "en": "An orange sunset.",
+     "zh": "一轮橙色的落日。",
+     "audio": "audio/all/4297_an_orange_sunset.mp3",
+     "slow": "audio/all/4297_an_orange_sunset.mp3",
+     "image": "img/raz-aa-orange-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

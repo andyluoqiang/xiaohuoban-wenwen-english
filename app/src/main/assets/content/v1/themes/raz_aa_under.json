@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_under",
+ "nameZh": "在下面",
+ "bookTitle": "Under",
+ "razLevel": "aa",
+ "order": 82,
+ "cover": "img/raz-aa-under-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_under-u1",
+   "band": 2,
+   "title": "Under · 在下面",
+   "cards": [
+    {
+     "id": "raz_aa_under-p1",
+     "type": "sentence",
+     "en": "Under the chair.",
+     "zh": "在椅子下面。",
+     "audio": "audio/all/4642_under_the_chair.mp3",
+     "slow": "audio/all/4642_under_the_chair.mp3",
+     "image": "img/raz-aa-under-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_under-p2",
+     "type": "sentence",
+     "en": "Under the desk.",
+     "zh": "在书桌下面。",
+     "audio": "audio/all/4643_under_the_desk.mp3",
+     "slow": "audio/all/4643_under_the_desk.mp3",
+     "image": "img/raz-aa-under-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_under-p3",
+     "type": "sentence",
+     "en": "Under the table.",
+     "zh": "在桌子下面。",
+     "audio": "audio/all/4644_under_the_table.mp3",
+     "slow": "audio/all/4644_under_the_table.mp3",
+     "image": "img/raz-aa-under-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_under-p4",
+     "type": "sentence",
+     "en": "Under the bed.",
+     "zh": "在床下面。",
+     "audio": "audio/all/4645_under_the_bed.mp3",
+     "slow": "audio/all/4645_under_the_bed.mp3",
+     "image": "img/raz-aa-under-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_under-p5",
+     "type": "sentence",
+     "en": "Under the pillow.",
+     "zh": "在枕头下面。",
+     "audio": "audio/all/4646_under_the_pillow.mp3",
+     "slow": "audio/all/4646_under_the_pillow.mp3",
+     "image": "img/raz-aa-under-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_under-p6",
+     "type": "sentence",
+     "en": "Under the umbrella.",
+     "zh": "在雨伞下面。",
+     "audio": "audio/all/4647_under_the_umbrella.mp3",
+     "slow": "audio/all/4647_under_the_umbrella.mp3",
+     "image": "img/raz-aa-under-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_under-p7",
+     "type": "sentence",
+     "en": "Under the swing.",
+     "zh": "在秋千下面。",
+     "audio": "audio/all/4648_under_the_swing.mp3",
+     "slow": "audio/all/4648_under_the_swing.mp3",
+     "image": "img/raz-aa-under-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_under-p8",
+     "type": "sentence",
+     "en": "Under the tree.",
+     "zh": "在树下面。",
+     "audio": "audio/all/4649_under_the_tree.mp3",
+     "slow": "audio/all/4649_under_the_tree.mp3",
+     "image": "img/raz-aa-under-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

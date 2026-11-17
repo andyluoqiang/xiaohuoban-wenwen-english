@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_this_kitchen",
+ "nameZh": "这个厨房",
+ "bookTitle": "This Kitchen",
+ "razLevel": "aa",
+ "order": 76,
+ "cover": "img/raz-aa-this_kitchen-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_this_kitchen-u1",
+   "band": 2,
+   "title": "This Kitchen · 这个厨房",
+   "cards": [
+    {
+     "id": "raz_aa_this_kitchen-p1",
+     "type": "sentence",
+     "en": "This stove.",
+     "zh": "这个炉灶。",
+     "audio": "audio/all/4594_this_stove.mp3",
+     "slow": "audio/all/4594_this_stove.mp3",
+     "image": "img/raz-aa-this_kitchen-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_this_kitchen-p2",
+     "type": "sentence",
+     "en": "This sink.",
+     "zh": "这个水槽。",
+     "audio": "audio/all/4595_this_sink.mp3",
+     "slow": "audio/all/4595_this_sink.mp3",
+     "image": "img/raz-aa-this_kitchen-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_this_kitchen-p3",
+     "type": "sentence",
+     "en": "This fridge.",
+     "zh": "这个冰箱。",
+     "audio": "audio/all/4596_this_fridge.mp3",
+     "slow": "audio/all/4596_this_fridge.mp3",
+     "image": "img/raz-aa-this_kitchen-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_this_kitchen-p4",
+     "type": "sentence",
+     "en": "This cupboard.",
+     "zh": "这个橱柜。",
+     "audio": "audio/all/4597_this_cupboard.mp3",
+     "slow": "audio/all/4597_this_cupboard.mp3",
+     "image": "img/raz-aa-this_kitchen-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_this_kitchen-p5",
+     "type": "sentence",
+     "en": "This counter.",
+     "zh": "这个台面。",
+     "audio": "audio/all/4598_this_counter.mp3",
+     "slow": "audio/all/4598_this_counter.mp3",
+     "image": "img/raz-aa-this_kitchen-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_this_kitchen-p6",
+     "type": "sentence",
+     "en": "This toaster.",
+     "zh": "这个烤面包机。",
+     "audio": "audio/all/4599_this_toaster.mp3",
+     "slow": "audio/all/4599_this_toaster.mp3",
+     "image": "img/raz-aa-this_kitchen-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_this_kitchen-p7",
+     "type": "sentence",
+     "en": "This cookie jar.",
+     "zh": "这个饼干罐。",
+     "audio": "audio/all/4600_this_cookie_jar.mp3",
+     "slow": "audio/all/4600_this_cookie_jar.mp3",
+     "image": "img/raz-aa-this_kitchen-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_this_kitchen-p8",
+     "type": "sentence",
+     "en": "This trash can.",
+     "zh": "这个垃圾桶。",
+     "audio": "audio/all/4601_this_trash_can.mp3",
+     "slow": "audio/all/4601_this_trash_can.mp3",
+     "image": "img/raz-aa-this_kitchen-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

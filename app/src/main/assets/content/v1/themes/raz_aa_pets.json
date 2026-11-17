@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_pets",
+ "nameZh": "宠物",
+ "bookTitle": "Pets",
+ "razLevel": "aa",
+ "order": 42,
+ "cover": "img/raz-aa-pets-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_pets-u1",
+   "band": 2,
+   "title": "Pets · 宠物",
+   "cards": [
+    {
+     "id": "raz_aa_pets-p1",
+     "type": "sentence",
+     "en": "The cat.",
+     "zh": "那只猫。",
+     "audio": "audio/all/4322_the_cat.mp3",
+     "slow": "audio/all/4322_the_cat.mp3",
+     "image": "img/raz-aa-pets-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_pets-p2",
+     "type": "sentence",
+     "en": "The dog.",
+     "zh": "那只狗。",
+     "audio": "audio/all/4323_the_dog.mp3",
+     "slow": "audio/all/4323_the_dog.mp3",
+     "image": "img/raz-aa-pets-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_pets-p3",
+     "type": "sentence",
+     "en": "The bunny.",
+     "zh": "那只兔子。",
+     "audio": "audio/all/4324_the_bunny.mp3",
+     "slow": "audio/all/4324_the_bunny.mp3",
+     "image": "img/raz-aa-pets-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_pets-p4",
+     "type": "sentence",
+     "en": "The bird.",
+     "zh": "那只鸟。",
+     "audio": "audio/all/4325_the_bird.mp3",
+     "slow": "audio/all/4325_the_bird.mp3",
+     "image": "img/raz-aa-pets-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_pets-p5",
+     "type": "sentence",
+     "en": "The goldfish.",
+     "zh": "那条金鱼。",
+     "audio": "audio/all/4326_the_goldfish.mp3",
+     "slow": "audio/all/4326_the_goldfish.mp3",
+     "image": "img/raz-aa-pets-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_pets-p6",
+     "type": "sentence",
+     "en": "The mouse.",
+     "zh": "那只老鼠。",
+     "audio": "audio/all/4327_the_mouse.mp3",
+     "slow": "audio/all/4327_the_mouse.mp3",
+     "image": "img/raz-aa-pets-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_pets-p7",
+     "type": "sentence",
+     "en": "The turtle.",
+     "zh": "那只乌龟。",
+     "audio": "audio/all/4328_the_turtle.mp3",
+     "slow": "audio/all/4328_the_turtle.mp3",
+     "image": "img/raz-aa-pets-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_pets-p8",
+     "type": "sentence",
+     "en": "The hamster.",
+     "zh": "那只仓鼠。",
+     "audio": "audio/all/4329_the_hamster.mp3",
+     "slow": "audio/all/4329_the_hamster.mp3",
+     "image": "img/raz-aa-pets-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

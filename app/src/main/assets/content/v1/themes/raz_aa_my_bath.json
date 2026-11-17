@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_bath",
+ "nameZh": "我的洗澡时间",
+ "bookTitle": "My Bath",
+ "razLevel": "aa",
+ "order": 25,
+ "cover": "img/raz-aa-my_bath-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_bath-u1",
+   "band": 2,
+   "title": "My Bath · 我的洗澡时间",
+   "cards": [
+    {
+     "id": "raz_aa_my_bath-p1",
+     "type": "sentence",
+     "en": "My tub.",
+     "zh": "我的浴缸。",
+     "audio": "audio/all/4186_my_tub.mp3",
+     "slow": "audio/all/4186_my_tub.mp3",
+     "image": "img/raz-aa-my_bath-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_bath-p2",
+     "type": "sentence",
+     "en": "My water.",
+     "zh": "我的水。",
+     "audio": "audio/all/4187_my_water.mp3",
+     "slow": "audio/all/4187_my_water.mp3",
+     "image": "img/raz-aa-my_bath-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_bath-p3",
+     "type": "sentence",
+     "en": "My bubbles.",
+     "zh": "我的泡泡。",
+     "audio": "audio/all/4188_my_bubbles.mp3",
+     "slow": "audio/all/4188_my_bubbles.mp3",
+     "image": "img/raz-aa-my_bath-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_bath-p4",
+     "type": "sentence",
+     "en": "My toys.",
+     "zh": "我的玩具。",
+     "audio": "audio/all/4189_my_toys.mp3",
+     "slow": "audio/all/4189_my_toys.mp3",
+     "image": "img/raz-aa-my_bath-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_bath-p5",
+     "type": "sentence",
+     "en": "My soap.",
+     "zh": "我的香皂。",
+     "audio": "audio/all/4190_my_soap.mp3",
+     "slow": "audio/all/4190_my_soap.mp3",
+     "image": "img/raz-aa-my_bath-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_bath-p6",
+     "type": "sentence",
+     "en": "My shampoo.",
+     "zh": "我的洗发水。",
+     "audio": "audio/all/4191_my_shampoo.mp3",
+     "slow": "audio/all/4191_my_shampoo.mp3",
+     "image": "img/raz-aa-my_bath-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_bath-p7",
+     "type": "sentence",
+     "en": "My towel.",
+     "zh": "我的毛巾。",
+     "audio": "audio/all/4192_my_towel.mp3",
+     "slow": "audio/all/4192_my_towel.mp3",
+     "image": "img/raz-aa-my_bath-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_bath-p8",
+     "type": "sentence",
+     "en": "My bath.",
+     "zh": "我的洗澡时间。",
+     "audio": "audio/all/4193_my_bath.mp3",
+     "slow": "audio/all/4193_my_bath.mp3",
+     "image": "img/raz-aa-my_bath-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

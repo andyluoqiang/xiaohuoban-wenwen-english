@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_playground",
+ "nameZh": "游乐场",
+ "bookTitle": "The Playground",
+ "razLevel": "aa",
+ "order": 69,
+ "cover": "img/raz-aa-the_playground-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_playground-u1",
+   "band": 2,
+   "title": "The Playground · 游乐场",
+   "cards": [
+    {
+     "id": "raz_aa_the_playground-p1",
+     "type": "sentence",
+     "en": "The gate.",
+     "zh": "那扇门。",
+     "audio": "audio/all/4538_the_gate.mp3",
+     "slow": "audio/all/4538_the_gate.mp3",
+     "image": "img/raz-aa-the_playground-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_playground-p2",
+     "type": "sentence",
+     "en": "The swing.",
+     "zh": "那个秋千。",
+     "audio": "audio/all/4539_the_swing.mp3",
+     "slow": "audio/all/4539_the_swing.mp3",
+     "image": "img/raz-aa-the_playground-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_playground-p3",
+     "type": "sentence",
+     "en": "The slide.",
+     "zh": "那个滑梯。",
+     "audio": "audio/all/4540_the_slide.mp3",
+     "slow": "audio/all/4540_the_slide.mp3",
+     "image": "img/raz-aa-the_playground-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_playground-p4",
+     "type": "sentence",
+     "en": "The sandbox.",
+     "zh": "那个沙坑。",
+     "audio": "audio/all/4541_the_sandbox.mp3",
+     "slow": "audio/all/4541_the_sandbox.mp3",
+     "image": "img/raz-aa-the_playground-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_playground-p5",
+     "type": "sentence",
+     "en": "The ladder.",
+     "zh": "那个梯子。",
+     "audio": "audio/all/4542_the_ladder.mp3",
+     "slow": "audio/all/4542_the_ladder.mp3",
+     "image": "img/raz-aa-the_playground-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_playground-p6",
+     "type": "sentence",
+     "en": "The bridge.",
+     "zh": "那座小桥。",
+     "audio": "audio/all/4543_the_bridge.mp3",
+     "slow": "audio/all/4543_the_bridge.mp3",
+     "image": "img/raz-aa-the_playground-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_playground-p7",
+     "type": "sentence",
+     "en": "The wheel.",
+     "zh": "那个转轮。",
+     "audio": "audio/all/4544_the_wheel.mp3",
+     "slow": "audio/all/4544_the_wheel.mp3",
+     "image": "img/raz-aa-the_playground-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_playground-p8",
+     "type": "sentence",
+     "en": "The playground.",
+     "zh": "那个游乐场。",
+     "audio": "audio/all/4545_the_playground.mp3",
+     "slow": "audio/all/4545_the_playground.mp3",
+     "image": "img/raz-aa-the_playground-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

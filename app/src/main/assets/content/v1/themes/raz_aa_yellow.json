@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_yellow",
+ "nameZh": "黄色",
+ "bookTitle": "Yellow",
+ "razLevel": "aa",
+ "order": 89,
+ "cover": "img/raz-aa-yellow-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_yellow-u1",
+   "band": 2,
+   "title": "Yellow · 黄色",
+   "cards": [
+    {
+     "id": "raz_aa_yellow-p1",
+     "type": "sentence",
+     "en": "The yellow bus.",
+     "zh": "那辆黄巴士。",
+     "audio": "audio/all/4698_the_yellow_bus.mp3",
+     "slow": "audio/all/4698_the_yellow_bus.mp3",
+     "image": "img/raz-aa-yellow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_yellow-p2",
+     "type": "sentence",
+     "en": "The yellow light.",
+     "zh": "那盏黄灯。",
+     "audio": "audio/all/4699_the_yellow_light.mp3",
+     "slow": "audio/all/4699_the_yellow_light.mp3",
+     "image": "img/raz-aa-yellow-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_yellow-p3",
+     "type": "sentence",
+     "en": "The yellow cab.",
+     "zh": "那辆黄出租车。",
+     "audio": "audio/all/4700_the_yellow_cab.mp3",
+     "slow": "audio/all/4700_the_yellow_cab.mp3",
+     "image": "img/raz-aa-yellow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_yellow-p4",
+     "type": "sentence",
+     "en": "The yellow signs.",
+     "zh": "那些黄标志。",
+     "audio": "audio/all/4701_the_yellow_signs.mp3",
+     "slow": "audio/all/4701_the_yellow_signs.mp3",
+     "image": "img/raz-aa-yellow-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_yellow-p5",
+     "type": "sentence",
+     "en": "The yellow truck.",
+     "zh": "那辆黄卡车。",
+     "audio": "audio/all/4702_the_yellow_truck.mp3",
+     "slow": "audio/all/4702_the_yellow_truck.mp3",
+     "image": "img/raz-aa-yellow-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_yellow-p6",
+     "type": "sentence",
+     "en": "The yellow vest.",
+     "zh": "那件黄背心。",
+     "audio": "audio/all/4703_the_yellow_vest.mp3",
+     "slow": "audio/all/4703_the_yellow_vest.mp3",
+     "image": "img/raz-aa-yellow-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_yellow-p7",
+     "type": "sentence",
+     "en": "The yellow lines.",
+     "zh": "那些黄线。",
+     "audio": "audio/all/4704_the_yellow_lines.mp3",
+     "slow": "audio/all/4704_the_yellow_lines.mp3",
+     "image": "img/raz-aa-yellow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_yellow-p8",
+     "type": "sentence",
+     "en": "The yellow hat.",
+     "zh": "那顶黄帽子。",
+     "audio": "audio/all/4705_the_yellow_hat.mp3",
+     "slow": "audio/all/4705_the_yellow_hat.mp3",
+     "image": "img/raz-aa-yellow-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

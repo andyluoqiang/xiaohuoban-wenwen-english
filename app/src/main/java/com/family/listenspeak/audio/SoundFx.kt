@@ -104,6 +104,15 @@ object SoundFx {
 
     private fun playRaw(id: Int, vol: Float) {
         if (id == 0) return
-        runCatching { pool?.play(id, vol, vol, 1, 0, 1.0f) }
+        val played = runCatching { pool?.play(id, vol, vol, 1, 0, 1.0f) }.getOrNull()
+        // 自愈：播放失败（返回 0）通常是加载未完成或被系统回收——延迟后再试一次
+        if (played == null || played == 0) {
+            Thread {
+                runCatching {
+                    Thread.sleep(400)   // 等 SoundPool 异步 load 完成
+                    runCatching { pool?.play(id, vol, vol, 1, 0, 1.0f) }
+                }
+            }.start()
+        }
     }
 }

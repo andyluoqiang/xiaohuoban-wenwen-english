@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_one",
+ "nameZh": "一",
+ "bookTitle": "One",
+ "razLevel": "aa",
+ "order": 37,
+ "cover": "img/raz-aa-one-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_one-u1",
+   "band": 2,
+   "title": "One · 一",
+   "cards": [
+    {
+     "id": "raz_aa_one-p1",
+     "type": "sentence",
+     "en": "One bed.",
+     "zh": "一张床。",
+     "audio": "audio/all/4282_one_bed.mp3",
+     "slow": "audio/all/4282_one_bed.mp3",
+     "image": "img/raz-aa-one-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_one-p2",
+     "type": "sentence",
+     "en": "One pillow.",
+     "zh": "一个枕头。",
+     "audio": "audio/all/4283_one_pillow.mp3",
+     "slow": "audio/all/4283_one_pillow.mp3",
+     "image": "img/raz-aa-one-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_one-p3",
+     "type": "sentence",
+     "en": "One window.",
+     "zh": "一扇窗。",
+     "audio": "audio/all/4284_one_window.mp3",
+     "slow": "audio/all/4284_one_window.mp3",
+     "image": "img/raz-aa-one-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_one-p4",
+     "type": "sentence",
+     "en": "One book.",
+     "zh": "一本书。",
+     "audio": "audio/all/4285_one_book.mp3",
+     "slow": "audio/all/4285_one_book.mp3",
+     "image": "img/raz-aa-one-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_one-p5",
+     "type": "sentence",
+     "en": "One toy.",
+     "zh": "一个玩具。",
+     "audio": "audio/all/4286_one_toy.mp3",
+     "slow": "audio/all/4286_one_toy.mp3",
+     "image": "img/raz-aa-one-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_one-p6",
+     "type": "sentence",
+     "en": "One rug.",
+     "zh": "一块地毯。",
+     "audio": "audio/all/4287_one_rug.mp3",
+     "slow": "audio/all/4287_one_rug.mp3",
+     "image": "img/raz-aa-one-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_one-p7",
+     "type": "sentence",
+     "en": "One blanket.",
+     "zh": "一条毯子。",
+     "audio": "audio/all/4288_one_blanket.mp3",
+     "slow": "audio/all/4288_one_blanket.mp3",
+     "image": "img/raz-aa-one-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_one-p8",
+     "type": "sentence",
+     "en": "One desk.",
+     "zh": "一张书桌。",
+     "audio": "audio/all/4289_one_desk.mp3",
+     "slow": "audio/all/4289_one_desk.mp3",
+     "image": "img/raz-aa-one-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

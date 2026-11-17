@@ -11352,5 +11352,1447 @@
 "pos": "n.",
 "img": null,
 "aud": null
+},
+"acorn": {
+"w": "acorn",
+"zh": "橡子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4800_acorn.mp3"
+},
+"airplanes": {
+"w": "airplanes",
+"zh": "飞机（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4801_airplanes.mp3"
+},
+"aprons": {
+"w": "aprons",
+"zh": "围裙（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4802_aprons.mp3"
+},
+"backpacks": {
+"w": "backpacks",
+"zh": "背包（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4803_backpacks.mp3"
+},
+"backyard": {
+"w": "backyard",
+"zh": "后院",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4804_backyard.mp3"
+},
+"balloons": {
+"w": "balloons",
+"zh": "气球（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4805_balloons.mp3"
+},
+"bars": {
+"w": "bars",
+"zh": "杠、栏杆（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4806_bars.mp3"
+},
+"base": {
+"w": "base",
+"zh": "垒、底座",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4807_base.mp3"
+},
+"bathtub": {
+"w": "bathtub",
+"zh": "浴缸",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4808_bathtub.mp3"
+},
+"beak": {
+"w": "beak",
+"zh": "鸟嘴",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4809_beak.mp3"
+},
+"bears": {
+"w": "bears",
+"zh": "熊（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4810_bears.mp3"
+},
+"bees": {
+"w": "bees",
+"zh": "蜜蜂（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4811_bees.mp3"
+},
+"beet": {
+"w": "beet",
+"zh": "甜菜",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4812_beet.mp3"
+},
+"beets": {
+"w": "beets",
+"zh": "甜菜（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4813_beets.mp3"
+},
+"belly": {
+"w": "belly",
+"zh": "肚子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4814_belly.mp3"
+},
+"belts": {
+"w": "belts",
+"zh": "皮带（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4815_belts.mp3"
+},
+"bench": {
+"w": "bench",
+"zh": "长椅",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4816_bench.mp3"
+},
+"bikes": {
+"w": "bikes",
+"zh": "自行车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4817_bikes.mp3"
+},
+"birds": {
+"w": "birds",
+"zh": "鸟（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4818_birds.mp3"
+},
+"blankets": {
+"w": "blankets",
+"zh": "毯子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4819_blankets.mp3"
+},
+"blocks": {
+"w": "blocks",
+"zh": "积木（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4820_blocks.mp3"
+},
+"boats": {
+"w": "boats",
+"zh": "小船（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4821_boats.mp3"
+},
+"bottles": {
+"w": "bottles",
+"zh": "瓶子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4822_bottles.mp3"
+},
+"bow": {
+"w": "bow",
+"zh": "蝴蝶结",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4823_bow.mp3"
+},
+"bowls": {
+"w": "bowls",
+"zh": "碗（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4824_bowls.mp3"
+},
+"brownie": {
+"w": "brownie",
+"zh": "布朗尼蛋糕",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4825_brownie.mp3"
+},
+"bubbles": {
+"w": "bubbles",
+"zh": "泡泡（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4826_bubbles.mp3"
+},
+"bucket": {
+"w": "bucket",
+"zh": "水桶",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4827_bucket.mp3"
+},
+"buildings": {
+"w": "buildings",
+"zh": "建筑物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4828_buildings.mp3"
+},
+"bulls": {
+"w": "bulls",
+"zh": "公牛（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4829_bulls.mp3"
+},
+"bunny": {
+"w": "bunny",
+"zh": "小兔子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4830_bunny.mp3"
+},
+"buses": {
+"w": "buses",
+"zh": "公共汽车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4831_buses.mp3"
+},
+"cab": {
+"w": "cab",
+"zh": "出租车",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4832_cab.mp3"
+},
+"camels": {
+"w": "camels",
+"zh": "骆驼（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4833_camels.mp3"
+},
+"camping": {
+"w": "camping",
+"zh": "露营",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4834_camping.mp3"
+},
+"candle": {
+"w": "candle",
+"zh": "蜡烛",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4835_candle.mp3"
+},
+"candles": {
+"w": "candles",
+"zh": "蜡烛（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4836_candles.mp3"
+},
+"cape": {
+"w": "cape",
+"zh": "斗篷",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4837_cape.mp3"
+},
+"cards": {
+"w": "cards",
+"zh": "卡片（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4838_cards.mp3"
+},
+"carrots": {
+"w": "carrots",
+"zh": "胡萝卜（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4839_carrots.mp3"
+},
+"cars": {
+"w": "cars",
+"zh": "小汽车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4840_cars.mp3"
+},
+"carts": {
+"w": "carts",
+"zh": "推车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4841_carts.mp3"
+},
+"cats": {
+"w": "cats",
+"zh": "猫（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4842_cats.mp3"
+},
+"chairs": {
+"w": "chairs",
+"zh": "椅子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4843_chairs.mp3"
+},
+"checkout": {
+"w": "checkout",
+"zh": "结账台",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4844_checkout.mp3"
+},
+"cherry": {
+"w": "cherry",
+"zh": "樱桃",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4845_cherry.mp3"
+},
+"chickens": {
+"w": "chickens",
+"zh": "鸡（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4846_chickens.mp3"
+},
+"chocolates": {
+"w": "chocolates",
+"zh": "巧克力（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4847_chocolates.mp3"
+},
+"christmas": {
+"w": "christmas",
+"zh": "圣诞节",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4848_christmas.mp3"
+},
+"cliff": {
+"w": "cliff",
+"zh": "悬崖",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4849_cliff.mp3"
+},
+"closet": {
+"w": "closet",
+"zh": "衣柜",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4850_closet.mp3"
+},
+"coast": {
+"w": "coast",
+"zh": "海岸",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4851_coast.mp3"
+},
+"coats": {
+"w": "coats",
+"zh": "外套（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4852_coats.mp3"
+},
+"colorful": {
+"w": "colorful",
+"zh": "五彩缤纷的",
+"pos": "adj.",
+"img": null,
+"aud": "audio/all/4853_colorful.mp3"
+},
+"cookies": {
+"w": "cookies",
+"zh": "饼干（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4854_cookies.mp3"
+},
+"coral": {
+"w": "coral",
+"zh": "珊瑚",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4855_coral.mp3"
+},
+"couch": {
+"w": "couch",
+"zh": "沙发",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4856_couch.mp3"
+},
+"counter": {
+"w": "counter",
+"zh": "柜台",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4857_counter.mp3"
+},
+"counting": {
+"w": "counting",
+"zh": "数数",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4858_counting.mp3"
+},
+"cows": {
+"w": "cows",
+"zh": "奶牛（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4859_cows.mp3"
+},
+"cupcake": {
+"w": "cupcake",
+"zh": "纸杯蛋糕",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4861_cupcake.mp3"
+},
+"cupcakes": {
+"w": "cupcakes",
+"zh": "纸杯蛋糕（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4862_cupcakes.mp3"
+},
+"cups": {
+"w": "cups",
+"zh": "杯子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4863_cups.mp3"
+},
+"dock": {
+"w": "dock",
+"zh": "码头",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4864_dock.mp3"
+},
+"dogs": {
+"w": "dogs",
+"zh": "狗（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4865_dogs.mp3"
+},
+"doors": {
+"w": "doors",
+"zh": "门（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4866_doors.mp3"
+},
+"doves": {
+"w": "doves",
+"zh": "鸽子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4867_doves.mp3"
+},
+"dressed": {
+"w": "dressed",
+"zh": "穿好衣服（dress的过去式）",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4868_dressed.mp3"
+},
+"dresses": {
+"w": "dresses",
+"zh": "连衣裙（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4869_dresses.mp3"
+},
+"drill": {
+"w": "drill",
+"zh": "钻子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4870_drill.mp3"
+},
+"eagles": {
+"w": "eagles",
+"zh": "鹰（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4871_eagles.mp3"
+},
+"easter": {
+"w": "easter",
+"zh": "复活节",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4872_easter.mp3"
+},
+"eggnog": {
+"w": "eggnog",
+"zh": "蛋奶酒",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4873_eggnog.mp3"
+},
+"eleven": {
+"w": "eleven",
+"zh": "十一",
+"pos": "num.",
+"img": null,
+"aud": "audio/all/4874_eleven.mp3"
+},
+"eve": {
+"w": "eve",
+"zh": "前夜",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4875_eve.mp3"
+},
+"fido": {
+"w": "fido",
+"zh": "菲多（狗名）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4876_fido.mp3"
+},
+"five": {
+"w": "five",
+"zh": "五",
+"pos": "num.",
+"img": null,
+"aud": "audio/all/4877_five.mp3"
+},
+"flop": {
+"w": "flop",
+"zh": "扑通落下",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4878_flop.mp3"
+},
+"flowers": {
+"w": "flowers",
+"zh": "花（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4879_flowers.mp3"
+},
+"foods": {
+"w": "foods",
+"zh": "食物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4880_foods.mp3"
+},
+"forks": {
+"w": "forks",
+"zh": "叉子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4881_forks.mp3"
+},
+"fort": {
+"w": "fort",
+"zh": "秘密基地",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4882_fort.mp3"
+},
+"friends": {
+"w": "friends",
+"zh": "朋友（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4883_friends.mp3"
+},
+"frogs": {
+"w": "frogs",
+"zh": "青蛙（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4884_frogs.mp3"
+},
+"fruits": {
+"w": "fruits",
+"zh": "水果（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4885_fruits.mp3"
+},
+"games": {
+"w": "games",
+"zh": "游戏（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4886_games.mp3"
+},
+"geese": {
+"w": "geese",
+"zh": "鹅（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4887_geese.mp3"
+},
+"gets": {
+"w": "gets",
+"zh": "得到（get的第三人称单数）",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4888_gets.mp3"
+},
+"gift": {
+"w": "gift",
+"zh": "礼物",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4889_gift.mp3"
+},
+"gifts": {
+"w": "gifts",
+"zh": "礼物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4890_gifts.mp3"
+},
+"gloves": {
+"w": "gloves",
+"zh": "手套（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4891_gloves.mp3"
+},
+"goats": {
+"w": "goats",
+"zh": "山羊（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4892_goats.mp3"
+},
+"goldfish": {
+"w": "goldfish",
+"zh": "金鱼",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4893_goldfish.mp3"
+},
+"grandparents": {
+"w": "grandparents",
+"zh": "祖父母（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4894_grandparents.mp3"
+},
+"guests": {
+"w": "guests",
+"zh": "客人（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4895_guests.mp3"
+},
+"hammer": {
+"w": "hammer",
+"zh": "锤子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4896_hammer.mp3"
+},
+"hamster": {
+"w": "hamster",
+"zh": "仓鼠",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4897_hamster.mp3"
+},
+"hang": {
+"w": "hang",
+"zh": "挂",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4898_hang.mp3"
+},
+"hangers": {
+"w": "hangers",
+"zh": "衣架（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4899_hangers.mp3"
+},
+"hanukkah": {
+"w": "hanukkah",
+"zh": "光明节",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4900_hanukkah.mp3"
+},
+"hats": {
+"w": "hats",
+"zh": "帽子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4901_hats.mp3"
+},
+"hawks": {
+"w": "hawks",
+"zh": "鹰（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4902_hawks.mp3"
+},
+"hoe": {
+"w": "hoe",
+"zh": "锄头",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4903_hoe.mp3"
+},
+"horses": {
+"w": "horses",
+"zh": "马（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4904_horses.mp3"
+},
+"hug": {
+"w": "hug",
+"zh": "拥抱",
+"pos": "n./v.",
+"img": null,
+"aud": "audio/all/4905_hug.mp3"
+},
+"igloo": {
+"w": "igloo",
+"zh": "冰屋",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4906_igloo.mp3"
+},
+"jar": {
+"w": "jar",
+"zh": "罐子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4907_jar.mp3"
+},
+"jumps": {
+"w": "jumps",
+"zh": "跳（jump的第三人称单数）",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4908_jumps.mp3"
+},
+"kids": {
+"w": "kids",
+"zh": "孩子们（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4909_kids.mp3"
+},
+"kiss": {
+"w": "kiss",
+"zh": "亲吻",
+"pos": "n./v.",
+"img": null,
+"aud": "audio/all/4910_kiss.mp3"
+},
+"ladder": {
+"w": "ladder",
+"zh": "梯子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4911_ladder.mp3"
+},
+"ladybugs": {
+"w": "ladybugs",
+"zh": "瓢虫（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4912_ladybugs.mp3"
+},
+"legs": {
+"w": "legs",
+"zh": "腿（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4913_legs.mp3"
+},
+"lemons": {
+"w": "lemons",
+"zh": "柠檬（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4914_lemons.mp3"
+},
+"letters": {
+"w": "letters",
+"zh": "字母（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4915_letters.mp3"
+},
+"lighthouse": {
+"w": "lighthouse",
+"zh": "灯塔",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4916_lighthouse.mp3"
+},
+"lights": {
+"w": "lights",
+"zh": "灯（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4917_lights.mp3"
+},
+"lines": {
+"w": "lines",
+"zh": "线（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4918_lines.mp3"
+},
+"lions": {
+"w": "lions",
+"zh": "狮子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4919_lions.mp3"
+},
+"lizards": {
+"w": "lizards",
+"zh": "蜥蜴（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4920_lizards.mp3"
+},
+"lunches": {
+"w": "lunches",
+"zh": "午餐（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4921_lunches.mp3"
+},
+"lunchroom": {
+"w": "lunchroom",
+"zh": "午餐食堂",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4922_lunchroom.mp3"
+},
+"mask": {
+"w": "mask",
+"zh": "面具",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4923_mask.mp3"
+},
+"melons": {
+"w": "melons",
+"zh": "瓜（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4924_melons.mp3"
+},
+"napkin": {
+"w": "napkin",
+"zh": "餐巾",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4925_napkin.mp3"
+},
+"nine": {
+"w": "nine",
+"zh": "九",
+"pos": "num.",
+"img": null,
+"aud": "audio/all/4926_nine.mp3"
+},
+"onions": {
+"w": "onions",
+"zh": "洋葱（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4927_onions.mp3"
+},
+"ostrich": {
+"w": "ostrich",
+"zh": "鸵鸟",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4928_ostrich.mp3"
+},
+"owls": {
+"w": "owls",
+"zh": "猫头鹰（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4929_owls.mp3"
+},
+"pages": {
+"w": "pages",
+"zh": "书页（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4930_pages.mp3"
+},
+"pans": {
+"w": "pans",
+"zh": "平底锅（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4931_pans.mp3"
+},
+"pears": {
+"w": "pears",
+"zh": "梨（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4932_pears.mp3"
+},
+"pets": {
+"w": "pets",
+"zh": "宠物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4933_pets.mp3"
+},
+"picking": {
+"w": "picking",
+"zh": "摘（pick的现在分词）",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4934_picking.mp3"
+},
+"picnics": {
+"w": "picnics",
+"zh": "野餐（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4935_picnics.mp3"
+},
+"pigs": {
+"w": "pigs",
+"zh": "猪（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4936_pigs.mp3"
+},
+"pillow": {
+"w": "pillow",
+"zh": "枕头",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4937_pillow.mp3"
+},
+"pillows": {
+"w": "pillows",
+"zh": "枕头（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4938_pillows.mp3"
+},
+"pizzas": {
+"w": "pizzas",
+"zh": "披萨（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4939_pizzas.mp3"
+},
+"plains": {
+"w": "plains",
+"zh": "平原（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4940_plains.mp3"
+},
+"plants": {
+"w": "plants",
+"zh": "植物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4941_plants.mp3"
+},
+"plates": {
+"w": "plates",
+"zh": "盘子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4942_plates.mp3"
+},
+"potatoes": {
+"w": "potatoes",
+"zh": "土豆（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4943_potatoes.mp3"
+},
+"presents": {
+"w": "presents",
+"zh": "礼物（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4944_presents.mp3"
+},
+"pumpkin": {
+"w": "pumpkin",
+"zh": "南瓜",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4945_pumpkin.mp3"
+},
+"radish": {
+"w": "radish",
+"zh": "小萝卜",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4946_radish.mp3"
+},
+"raincoats": {
+"w": "raincoats",
+"zh": "雨衣（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4947_raincoats.mp3"
+},
+"rainforest": {
+"w": "rainforest",
+"zh": "雨林",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4948_rainforest.mp3"
+},
+"rocks": {
+"w": "rocks",
+"zh": "岩石（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4949_rocks.mp3"
+},
+"rows": {
+"w": "rows",
+"zh": "一排排（row的复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4950_rows.mp3"
+},
+"sandbox": {
+"w": "sandbox",
+"zh": "沙坑",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4951_sandbox.mp3"
+},
+"seaweed": {
+"w": "seaweed",
+"zh": "海草",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4952_seaweed.mp3"
+},
+"sheet": {
+"w": "sheet",
+"zh": "床单",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4953_sheet.mp3"
+},
+"shirts": {
+"w": "shirts",
+"zh": "衬衫（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4954_shirts.mp3"
+},
+"shoes": {
+"w": "shoes",
+"zh": "鞋子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4955_shoes.mp3"
+},
+"shovel": {
+"w": "shovel",
+"zh": "铲子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4956_shovel.mp3"
+},
+"sidewalk": {
+"w": "sidewalk",
+"zh": "人行道",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4957_sidewalk.mp3"
+},
+"signs": {
+"w": "signs",
+"zh": "标志（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4958_signs.mp3"
+},
+"singing": {
+"w": "singing",
+"zh": "唱歌（sing的现在分词）",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/4959_singing.mp3"
+},
+"skates": {
+"w": "skates",
+"zh": "冰鞋（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4960_skates.mp3"
+},
+"sled": {
+"w": "sled",
+"zh": "雪橇",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4961_sled.mp3"
+},
+"snails": {
+"w": "snails",
+"zh": "蜗牛（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4962_snails.mp3"
+},
+"snakes": {
+"w": "snakes",
+"zh": "蛇（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4963_snakes.mp3"
+},
+"socks": {
+"w": "socks",
+"zh": "袜子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4964_socks.mp3"
+},
+"songs": {
+"w": "songs",
+"zh": "歌曲（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4965_songs.mp3"
+},
+"spiders": {
+"w": "spiders",
+"zh": "蜘蛛（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4966_spiders.mp3"
+},
+"spoons": {
+"w": "spoons",
+"zh": "勺子（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4967_spoons.mp3"
+},
+"stairs": {
+"w": "stairs",
+"zh": "楼梯（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4968_stairs.mp3"
+},
+"starfish": {
+"w": "starfish",
+"zh": "海星",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4969_starfish.mp3"
+},
+"steps": {
+"w": "steps",
+"zh": "台阶（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4970_steps.mp3"
+},
+"sticks": {
+"w": "sticks",
+"zh": "小棍（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4971_sticks.mp3"
+},
+"stockings": {
+"w": "stockings",
+"zh": "长袜（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4972_stockings.mp3"
+},
+"stores": {
+"w": "stores",
+"zh": "商店（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4973_stores.mp3"
+},
+"stories": {
+"w": "stories",
+"zh": "故事（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4974_stories.mp3"
+},
+"stove": {
+"w": "stove",
+"zh": "炉子",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4975_stove.mp3"
+},
+"strawberries": {
+"w": "strawberries",
+"zh": "草莓（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4976_strawberries.mp3"
+},
+"streets": {
+"w": "streets",
+"zh": "街道（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4977_streets.mp3"
+},
+"subway": {
+"w": "subway",
+"zh": "地铁",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4978_subway.mp3"
+},
+"suit": {
+"w": "suit",
+"zh": "套装",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4979_suit.mp3"
+},
+"sunset": {
+"w": "sunset",
+"zh": "日落",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4980_sunset.mp3"
+},
+"sunshine": {
+"w": "sunshine",
+"zh": "阳光",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4981_sunshine.mp3"
+},
+"sweets": {
+"w": "sweets",
+"zh": "甜食（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4982_sweets.mp3"
+},
+"tigers": {
+"w": "tigers",
+"zh": "老虎（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4983_tigers.mp3"
+},
+"title": {
+"w": "title",
+"zh": "书名、标题",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4984_title.mp3"
+},
+"toaster": {
+"w": "toaster",
+"zh": "烤面包机",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4985_toaster.mp3"
+},
+"tomatoes": {
+"w": "tomatoes",
+"zh": "西红柿（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4986_tomatoes.mp3"
+},
+"tools": {
+"w": "tools",
+"zh": "工具（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4987_tools.mp3"
+},
+"toys": {
+"w": "toys",
+"zh": "玩具（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4988_toys.mp3"
+},
+"trucks": {
+"w": "trucks",
+"zh": "卡车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4989_trucks.mp3"
+},
+"tub": {
+"w": "tub",
+"zh": "浴盆",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4990_tub.mp3"
+},
+"tunnel": {
+"w": "tunnel",
+"zh": "隧道",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4991_tunnel.mp3"
+},
+"turkeys": {
+"w": "turkeys",
+"zh": "火鸡（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4992_turkeys.mp3"
+},
+"turtles": {
+"w": "turtles",
+"zh": "乌龟（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4993_turtles.mp3"
+},
+"twelve": {
+"w": "twelve",
+"zh": "十二",
+"pos": "num.",
+"img": null,
+"aud": "audio/all/4994_twelve.mp3"
+},
+"valentine": {
+"w": "valentine",
+"zh": "情人节卡片",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4995_valentine.mp3"
+},
+"vans": {
+"w": "vans",
+"zh": "厢式货车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4996_vans.mp3"
+},
+"vest": {
+"w": "vest",
+"zh": "马甲",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4997_vest.mp3"
+},
+"wagon": {
+"w": "wagon",
+"zh": "四轮小车",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4998_wagon.mp3"
+},
+"wagons": {
+"w": "wagons",
+"zh": "四轮小车（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4999_wagons.mp3"
+},
+"wand": {
+"w": "wand",
+"zh": "魔法棒",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/5000_wand.mp3"
+},
+"waves": {
+"w": "waves",
+"zh": "海浪（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/5001_waves.mp3"
+},
+"wide": {
+"w": "wide",
+"zh": "宽的",
+"pos": "adj.",
+"img": null,
+"aud": "audio/all/5002_wide.mp3"
+},
+"wings": {
+"w": "wings",
+"zh": "翅膀（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/5003_wings.mp3"
+},
+"wink": {
+"w": "wink",
+"zh": "眨眼",
+"pos": "v.",
+"img": null,
+"aud": "audio/all/5004_wink.mp3"
+},
+"words": {
+"w": "words",
+"zh": "单词（复数）",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/5005_words.mp3"
+},
+"crab": {
+"w": "crab",
+"zh": "螃蟹",
+"pos": "n.",
+"img": null,
+"aud": "audio/all/4860_crab.mp3"
 }
 }

@@ -1,0 +1,117 @@
+{
+ "theme": "raz_aa_fido_gets_dressed",
+ "nameZh": "菲菲穿衣服",
+ "bookTitle": "Fido Gets Dressed",
+ "razLevel": "aa",
+ "order": 14,
+ "cover": "img/raz-aa-fido_gets_dressed-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_fido_gets_dressed-u1",
+   "band": 2,
+   "title": "Fido Gets Dressed · 菲菲穿衣服",
+   "cards": [
+    {
+     "id": "raz_aa_fido_gets_dressed-p1",
+     "type": "sentence",
+     "en": "My sweater.",
+     "zh": "我的毛衣。",
+     "audio": "audio/all/4096_my_sweater.mp3",
+     "slow": "audio/all/4096_my_sweater.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p2",
+     "type": "sentence",
+     "en": "My boots.",
+     "zh": "我的靴子。",
+     "audio": "audio/all/4097_my_boots.mp3",
+     "slow": "audio/all/4097_my_boots.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p3",
+     "type": "sentence",
+     "en": "My hat.",
+     "zh": "我的帽子。",
+     "audio": "audio/all/4098_my_hat.mp3",
+     "slow": "audio/all/4098_my_hat.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p4",
+     "type": "sentence",
+     "en": "My scarf.",
+     "zh": "我的围巾。",
+     "audio": "audio/all/4099_my_scarf.mp3",
+     "slow": "audio/all/4099_my_scarf.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p5",
+     "type": "sentence",
+     "en": "My hat.",
+     "zh": "我的帽子。",
+     "audio": "audio/all/4100_my_hat.mp3",
+     "slow": "audio/all/4100_my_hat.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p6",
+     "type": "sentence",
+     "en": "My sunglasses.",
+     "zh": "我的太阳镜。",
+     "audio": "audio/all/4101_my_sunglasses.mp3",
+     "slow": "audio/all/4101_my_sunglasses.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p7",
+     "type": "sentence",
+     "en": "My hat.",
+     "zh": "我的帽子。",
+     "audio": "audio/all/4102_my_hat.mp3",
+     "slow": "audio/all/4102_my_hat.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p8",
+     "type": "sentence",
+     "en": "My cape.",
+     "zh": "我的斗篷。",
+     "audio": "audio/all/4103_my_cape.mp3",
+     "slow": "audio/all/4103_my_cape.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p9",
+     "type": "sentence",
+     "en": "My mask.",
+     "zh": "我的面具。",
+     "audio": "audio/all/4104_my_mask.mp3",
+     "slow": "audio/all/4104_my_mask.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_aa_fido_gets_dressed-p10",
+     "type": "sentence",
+     "en": "My hat.",
+     "zh": "我的帽子。",
+     "audio": "audio/all/4105_my_hat.mp3",
+     "slow": "audio/all/4105_my_hat.mp3",
+     "image": "img/raz-aa-fido_gets_dressed-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

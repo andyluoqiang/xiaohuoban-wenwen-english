@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_fort",
+ "nameZh": "秘密基地",
+ "bookTitle": "The Fort",
+ "razLevel": "aa",
+ "order": 65,
+ "cover": "img/raz-aa-the_fort-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_fort-u1",
+   "band": 2,
+   "title": "The Fort · 秘密基地",
+   "cards": [
+    {
+     "id": "raz_aa_the_fort-p1",
+     "type": "sentence",
+     "en": "The friends.",
+     "zh": "那些朋友。",
+     "audio": "audio/all/4506_the_friends.mp3",
+     "slow": "audio/all/4506_the_friends.mp3",
+     "image": "img/raz-aa-the_fort-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_fort-p2",
+     "type": "sentence",
+     "en": "The chairs.",
+     "zh": "那些椅子。",
+     "audio": "audio/all/4507_the_chairs.mp3",
+     "slow": "audio/all/4507_the_chairs.mp3",
+     "image": "img/raz-aa-the_fort-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_fort-p3",
+     "type": "sentence",
+     "en": "The pillows.",
+     "zh": "那些枕头。",
+     "audio": "audio/all/4508_the_pillows.mp3",
+     "slow": "audio/all/4508_the_pillows.mp3",
+     "image": "img/raz-aa-the_fort-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_fort-p4",
+     "type": "sentence",
+     "en": "The blankets.",
+     "zh": "那些毯子。",
+     "audio": "audio/all/4509_the_blankets.mp3",
+     "slow": "audio/all/4509_the_blankets.mp3",
+     "image": "img/raz-aa-the_fort-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_fort-p5",
+     "type": "sentence",
+     "en": "The food.",
+     "zh": "那些食物。",
+     "audio": "audio/all/4510_the_food.mp3",
+     "slow": "audio/all/4510_the_food.mp3",
+     "image": "img/raz-aa-the_fort-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_fort-p6",
+     "type": "sentence",
+     "en": "The games.",
+     "zh": "那些游戏。",
+     "audio": "audio/all/4511_the_games.mp3",
+     "slow": "audio/all/4511_the_games.mp3",
+     "image": "img/raz-aa-the_fort-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_fort-p7",
+     "type": "sentence",
+     "en": "The lights.",
+     "zh": "那些灯。",
+     "audio": "audio/all/4512_the_lights.mp3",
+     "slow": "audio/all/4512_the_lights.mp3",
+     "image": "img/raz-aa-the_fort-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_fort-p8",
+     "type": "sentence",
+     "en": "The fort!",
+     "zh": "那个秘密基地！",
+     "audio": "audio/all/4513_the_fort.mp3",
+     "slow": "audio/all/4513_the_fort.mp3",
+     "image": "img/raz-aa-the_fort-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

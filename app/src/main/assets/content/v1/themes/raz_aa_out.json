@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_out",
+ "nameZh": "出来",
+ "bookTitle": "Out",
+ "razLevel": "aa",
+ "order": 39,
+ "cover": "img/raz-aa-out-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_out-u1",
+   "band": 2,
+   "title": "Out · 出来",
+   "cards": [
+    {
+     "id": "raz_aa_out-p1",
+     "type": "sentence",
+     "en": "Out of the car.",
+     "zh": "从汽车里出来。",
+     "audio": "audio/all/4298_out_of_the_car.mp3",
+     "slow": "audio/all/4298_out_of_the_car.mp3",
+     "image": "img/raz-aa-out-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_out-p2",
+     "type": "sentence",
+     "en": "Out of the wagon.",
+     "zh": "从马车里出来。",
+     "audio": "audio/all/4299_out_of_the_wagon.mp3",
+     "slow": "audio/all/4299_out_of_the_wagon.mp3",
+     "image": "img/raz-aa-out-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_out-p3",
+     "type": "sentence",
+     "en": "Out of the boat.",
+     "zh": "从小船里出来。",
+     "audio": "audio/all/4300_out_of_the_boat.mp3",
+     "slow": "audio/all/4300_out_of_the_boat.mp3",
+     "image": "img/raz-aa-out-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_out-p4",
+     "type": "sentence",
+     "en": "Out of the house.",
+     "zh": "从房子里出来。",
+     "audio": "audio/all/4301_out_of_the_house.mp3",
+     "slow": "audio/all/4301_out_of_the_house.mp3",
+     "image": "img/raz-aa-out-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_out-p5",
+     "type": "sentence",
+     "en": "Out of the water.",
+     "zh": "从水里出来。",
+     "audio": "audio/all/4302_out_of_the_water.mp3",
+     "slow": "audio/all/4302_out_of_the_water.mp3",
+     "image": "img/raz-aa-out-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_out-p6",
+     "type": "sentence",
+     "en": "Out of the grass.",
+     "zh": "从草丛里出来。",
+     "audio": "audio/all/4303_out_of_the_grass.mp3",
+     "slow": "audio/all/4303_out_of_the_grass.mp3",
+     "image": "img/raz-aa-out-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_out-p7",
+     "type": "sentence",
+     "en": "Out of the mud.",
+     "zh": "从泥巴里出来。",
+     "audio": "audio/all/4304_out_of_the_mud.mp3",
+     "slow": "audio/all/4304_out_of_the_mud.mp3",
+     "image": "img/raz-aa-out-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_out-p8",
+     "type": "sentence",
+     "en": "Out of the bathtub.",
+     "zh": "从浴缸里出来。",
+     "audio": "audio/all/4305_out_of_the_bathtub.mp3",
+     "slow": "audio/all/4305_out_of_the_bathtub.mp3",
+     "image": "img/raz-aa-out-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

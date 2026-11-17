@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_little",
+ "nameZh": "小",
+ "bookTitle": "Little",
+ "razLevel": "aa",
+ "order": 23,
+ "cover": "img/raz-aa-little-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_little-u1",
+   "band": 2,
+   "title": "Little · 小",
+   "cards": [
+    {
+     "id": "raz_aa_little-p1",
+     "type": "sentence",
+     "en": "A little house.",
+     "zh": "一座小房子。",
+     "audio": "audio/all/4170_a_little_house.mp3",
+     "slow": "audio/all/4170_a_little_house.mp3",
+     "image": "img/raz-aa-little-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_little-p2",
+     "type": "sentence",
+     "en": "A little dog.",
+     "zh": "一只小狗。",
+     "audio": "audio/all/4171_a_little_dog.mp3",
+     "slow": "audio/all/4171_a_little_dog.mp3",
+     "image": "img/raz-aa-little-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_little-p3",
+     "type": "sentence",
+     "en": "A little car.",
+     "zh": "一辆小汽车。",
+     "audio": "audio/all/4172_a_little_car.mp3",
+     "slow": "audio/all/4172_a_little_car.mp3",
+     "image": "img/raz-aa-little-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_little-p4",
+     "type": "sentence",
+     "en": "A little plane.",
+     "zh": "一架小飞机。",
+     "audio": "audio/all/4173_a_little_plane.mp3",
+     "slow": "audio/all/4173_a_little_plane.mp3",
+     "image": "img/raz-aa-little-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_little-p5",
+     "type": "sentence",
+     "en": "A little tree.",
+     "zh": "一棵小树。",
+     "audio": "audio/all/4174_a_little_tree.mp3",
+     "slow": "audio/all/4174_a_little_tree.mp3",
+     "image": "img/raz-aa-little-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_little-p6",
+     "type": "sentence",
+     "en": "A little bug.",
+     "zh": "一只小虫。",
+     "audio": "audio/all/4175_a_little_bug.mp3",
+     "slow": "audio/all/4175_a_little_bug.mp3",
+     "image": "img/raz-aa-little-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_little-p7",
+     "type": "sentence",
+     "en": "A little mouse.",
+     "zh": "一只小老鼠。",
+     "audio": "audio/all/4176_a_little_mouse.mp3",
+     "slow": "audio/all/4176_a_little_mouse.mp3",
+     "image": "img/raz-aa-little-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_little-p8",
+     "type": "sentence",
+     "en": "A little baby.",
+     "zh": "一个小宝宝。",
+     "audio": "audio/all/4177_a_little_baby.mp3",
+     "slow": "audio/all/4177_a_little_baby.mp3",
+     "image": "img/raz-aa-little-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

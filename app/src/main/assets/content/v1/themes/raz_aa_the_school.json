@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_school",
+ "nameZh": "学校",
+ "bookTitle": "The School",
+ "razLevel": "aa",
+ "order": 70,
+ "cover": "img/raz-aa-the_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_school-u1",
+   "band": 2,
+   "title": "The School · 学校",
+   "cards": [
+    {
+     "id": "raz_aa_the_school-p1",
+     "type": "sentence",
+     "en": "The classroom.",
+     "zh": "那间教室。",
+     "audio": "audio/all/4546_the_classroom.mp3",
+     "slow": "audio/all/4546_the_classroom.mp3",
+     "image": "img/raz-aa-the_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_school-p2",
+     "type": "sentence",
+     "en": "The music room.",
+     "zh": "那间音乐教室。",
+     "audio": "audio/all/4547_the_music_room.mp3",
+     "slow": "audio/all/4547_the_music_room.mp3",
+     "image": "img/raz-aa-the_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_school-p3",
+     "type": "sentence",
+     "en": "The art room.",
+     "zh": "那间美术教室。",
+     "audio": "audio/all/4548_the_art_room.mp3",
+     "slow": "audio/all/4548_the_art_room.mp3",
+     "image": "img/raz-aa-the_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_school-p4",
+     "type": "sentence",
+     "en": "The lunchroom.",
+     "zh": "那间午餐食堂。",
+     "audio": "audio/all/4549_the_lunchroom.mp3",
+     "slow": "audio/all/4549_the_lunchroom.mp3",
+     "image": "img/raz-aa-the_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_school-p5",
+     "type": "sentence",
+     "en": "The library.",
+     "zh": "那座图书馆。",
+     "audio": "audio/all/4550_the_library.mp3",
+     "slow": "audio/all/4550_the_library.mp3",
+     "image": "img/raz-aa-the_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_school-p6",
+     "type": "sentence",
+     "en": "The gym.",
+     "zh": "那间体育馆。",
+     "audio": "audio/all/4551_the_gym.mp3",
+     "slow": "audio/all/4551_the_gym.mp3",
+     "image": "img/raz-aa-the_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_school-p7",
+     "type": "sentence",
+     "en": "The playground.",
+     "zh": "那个操场。",
+     "audio": "audio/all/4552_the_playground.mp3",
+     "slow": "audio/all/4552_the_playground.mp3",
+     "image": "img/raz-aa-the_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_school-p8",
+     "type": "sentence",
+     "en": "The school.",
+     "zh": "那所学校。",
+     "audio": "audio/all/4553_the_school.mp3",
+     "slow": "audio/all/4553_the_school.mp3",
+     "image": "img/raz-aa-the_school-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

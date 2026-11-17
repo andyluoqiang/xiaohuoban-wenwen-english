@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_rainforest_animals",
+ "nameZh": "雨林动物",
+ "bookTitle": "Rainforest Animals",
+ "razLevel": "aa",
+ "order": 47,
+ "cover": "img/raz-aa-rainforest_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_rainforest_animals-u1",
+   "band": 2,
+   "title": "Rainforest Animals · 雨林动物",
+   "cards": [
+    {
+     "id": "raz_aa_rainforest_animals-p1",
+     "type": "sentence",
+     "en": "The cat.",
+     "zh": "那只猫。",
+     "audio": "audio/all/4362_the_cat.mp3",
+     "slow": "audio/all/4362_the_cat.mp3",
+     "image": "img/raz-aa-rainforest_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p2",
+     "type": "sentence",
+     "en": "The monkey.",
+     "zh": "那只猴子。",
+     "audio": "audio/all/4363_the_monkey.mp3",
+     "slow": "audio/all/4363_the_monkey.mp3",
+     "image": "img/raz-aa-rainforest_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p3",
+     "type": "sentence",
+     "en": "The frog.",
+     "zh": "那只青蛙。",
+     "audio": "audio/all/4364_the_frog.mp3",
+     "slow": "audio/all/4364_the_frog.mp3",
+     "image": "img/raz-aa-rainforest_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p4",
+     "type": "sentence",
+     "en": "The parrot.",
+     "zh": "那只鹦鹉。",
+     "audio": "audio/all/4365_the_parrot.mp3",
+     "slow": "audio/all/4365_the_parrot.mp3",
+     "image": "img/raz-aa-rainforest_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p5",
+     "type": "sentence",
+     "en": "The snake.",
+     "zh": "那条蛇。",
+     "audio": "audio/all/4366_the_snake.mp3",
+     "slow": "audio/all/4366_the_snake.mp3",
+     "image": "img/raz-aa-rainforest_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p6",
+     "type": "sentence",
+     "en": "The butterfly.",
+     "zh": "那只蝴蝶。",
+     "audio": "audio/all/4367_the_butterfly.mp3",
+     "slow": "audio/all/4367_the_butterfly.mp3",
+     "image": "img/raz-aa-rainforest_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p7",
+     "type": "sentence",
+     "en": "The beetle.",
+     "zh": "那只甲虫。",
+     "audio": "audio/all/4368_the_beetle.mp3",
+     "slow": "audio/all/4368_the_beetle.mp3",
+     "image": "img/raz-aa-rainforest_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_rainforest_animals-p8",
+     "type": "sentence",
+     "en": "The rainforest.",
+     "zh": "那片雨林。",
+     "audio": "audio/all/4369_the_rainforest.mp3",
+     "slow": "audio/all/4369_the_rainforest.mp3",
+     "image": "img/raz-aa-rainforest_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_red",
+ "nameZh": "红色",
+ "bookTitle": "Red",
+ "razLevel": "aa",
+ "order": 48,
+ "cover": "img/raz-aa-red-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_red-u1",
+   "band": 2,
+   "title": "Red · 红色",
+   "cards": [
+    {
+     "id": "raz_aa_red-p1",
+     "type": "sentence",
+     "en": "The red tomato.",
+     "zh": "那个红番茄。",
+     "audio": "audio/all/4370_the_red_tomato.mp3",
+     "slow": "audio/all/4370_the_red_tomato.mp3",
+     "image": "img/raz-aa-red-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_red-p2",
+     "type": "sentence",
+     "en": "The red beet.",
+     "zh": "那个红甜菜。",
+     "audio": "audio/all/4371_the_red_beet.mp3",
+     "slow": "audio/all/4371_the_red_beet.mp3",
+     "image": "img/raz-aa-red-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_red-p3",
+     "type": "sentence",
+     "en": "The red cherry.",
+     "zh": "那颗红樱桃。",
+     "audio": "audio/all/4372_the_red_cherry.mp3",
+     "slow": "audio/all/4372_the_red_cherry.mp3",
+     "image": "img/raz-aa-red-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_red-p4",
+     "type": "sentence",
+     "en": "The red strawberry.",
+     "zh": "那颗红草莓。",
+     "audio": "audio/all/4373_the_red_strawberry.mp3",
+     "slow": "audio/all/4373_the_red_strawberry.mp3",
+     "image": "img/raz-aa-red-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_red-p5",
+     "type": "sentence",
+     "en": "The red apple.",
+     "zh": "那个红苹果。",
+     "audio": "audio/all/4374_the_red_apple.mp3",
+     "slow": "audio/all/4374_the_red_apple.mp3",
+     "image": "img/raz-aa-red-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_red-p6",
+     "type": "sentence",
+     "en": "The red pepper.",
+     "zh": "那个红辣椒。",
+     "audio": "audio/all/4375_the_red_pepper.mp3",
+     "slow": "audio/all/4375_the_red_pepper.mp3",
+     "image": "img/raz-aa-red-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_red-p7",
+     "type": "sentence",
+     "en": "The red potato.",
+     "zh": "那个红土豆。",
+     "audio": "audio/all/4376_the_red_potato.mp3",
+     "slow": "audio/all/4376_the_red_potato.mp3",
+     "image": "img/raz-aa-red-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_red-p8",
+     "type": "sentence",
+     "en": "The red radish.",
+     "zh": "那个红萝卜。",
+     "audio": "audio/all/4377_the_red_radish.mp3",
+     "slow": "audio/all/4377_the_red_radish.mp3",
+     "image": "img/raz-aa-red-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

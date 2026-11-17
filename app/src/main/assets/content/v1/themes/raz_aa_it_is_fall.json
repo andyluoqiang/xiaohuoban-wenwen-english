@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_it_is_fall",
+ "nameZh": "秋天到了",
+ "bookTitle": "It Is Fall",
+ "razLevel": "aa",
+ "order": 21,
+ "cover": "img/raz-aa-it_is_fall-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_it_is_fall-u1",
+   "band": 2,
+   "title": "It Is Fall · 秋天到了",
+   "cards": [
+    {
+     "id": "raz_aa_it_is_fall-p1",
+     "type": "sentence",
+     "en": "The leaf.",
+     "zh": "那片叶子。",
+     "audio": "audio/all/4154_the_leaf.mp3",
+     "slow": "audio/all/4154_the_leaf.mp3",
+     "image": "img/raz-aa-it_is_fall-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_it_is_fall-p2",
+     "type": "sentence",
+     "en": "The apple.",
+     "zh": "那个苹果。",
+     "audio": "audio/all/4155_the_apple.mp3",
+     "slow": "audio/all/4155_the_apple.mp3",
+     "image": "img/raz-aa-it_is_fall-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_it_is_fall-p3",
+     "type": "sentence",
+     "en": "The acorn.",
+     "zh": "那颗橡果。",
+     "audio": "audio/all/4156_the_acorn.mp3",
+     "slow": "audio/all/4156_the_acorn.mp3",
+     "image": "img/raz-aa-it_is_fall-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_it_is_fall-p4",
+     "type": "sentence",
+     "en": "The corn.",
+     "zh": "那根玉米。",
+     "audio": "audio/all/4157_the_corn.mp3",
+     "slow": "audio/all/4157_the_corn.mp3",
+     "image": "img/raz-aa-it_is_fall-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_it_is_fall-p5",
+     "type": "sentence",
+     "en": "The pumpkin.",
+     "zh": "那个南瓜。",
+     "audio": "audio/all/4158_the_pumpkin.mp3",
+     "slow": "audio/all/4158_the_pumpkin.mp3",
+     "image": "img/raz-aa-it_is_fall-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_it_is_fall-p6",
+     "type": "sentence",
+     "en": "The rake.",
+     "zh": "那把耙子。",
+     "audio": "audio/all/4159_the_rake.mp3",
+     "slow": "audio/all/4159_the_rake.mp3",
+     "image": "img/raz-aa-it_is_fall-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_it_is_fall-p7",
+     "type": "sentence",
+     "en": "The moon.",
+     "zh": "那个月亮。",
+     "audio": "audio/all/4160_the_moon.mp3",
+     "slow": "audio/all/4160_the_moon.mp3",
+     "image": "img/raz-aa-it_is_fall-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_it_is_fall-p8",
+     "type": "sentence",
+     "en": "The jacket.",
+     "zh": "那件外套。",
+     "audio": "audio/all/4161_the_jacket.mp3",
+     "slow": "audio/all/4161_the_jacket.mp3",
+     "image": "img/raz-aa-it_is_fall-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

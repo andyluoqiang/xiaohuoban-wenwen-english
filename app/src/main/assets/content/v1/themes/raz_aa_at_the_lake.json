@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_at_the_lake",
+ "nameZh": "在湖边",
+ "bookTitle": "At the Lake",
+ "razLevel": "aa",
+ "order": 2,
+ "cover": "img/raz-aa-at_the_lake-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_at_the_lake-u1",
+   "band": 2,
+   "title": "At the Lake · 在湖边",
+   "cards": [
+    {
+     "id": "raz_aa_at_the_lake-p1",
+     "type": "sentence",
+     "en": "This swimsuit.",
+     "zh": "这件泳衣。",
+     "audio": "audio/all/4000_this_swimsuit.mp3",
+     "slow": "audio/all/4000_this_swimsuit.mp3",
+     "image": "img/raz-aa-at_the_lake-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_at_the_lake-p2",
+     "type": "sentence",
+     "en": "This dock.",
+     "zh": "这个码头。",
+     "audio": "audio/all/4001_this_dock.mp3",
+     "slow": "audio/all/4001_this_dock.mp3",
+     "image": "img/raz-aa-at_the_lake-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_at_the_lake-p3",
+     "type": "sentence",
+     "en": "This boat.",
+     "zh": "这艘小船。",
+     "audio": "audio/all/4002_this_boat.mp3",
+     "slow": "audio/all/4002_this_boat.mp3",
+     "image": "img/raz-aa-at_the_lake-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_at_the_lake-p4",
+     "type": "sentence",
+     "en": "This tree.",
+     "zh": "这棵树。",
+     "audio": "audio/all/4003_this_tree.mp3",
+     "slow": "audio/all/4003_this_tree.mp3",
+     "image": "img/raz-aa-at_the_lake-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_at_the_lake-p5",
+     "type": "sentence",
+     "en": "This fish.",
+     "zh": "这条鱼。",
+     "audio": "audio/all/4004_this_fish.mp3",
+     "slow": "audio/all/4004_this_fish.mp3",
+     "image": "img/raz-aa-at_the_lake-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_at_the_lake-p6",
+     "type": "sentence",
+     "en": "This rock.",
+     "zh": "这块石头。",
+     "audio": "audio/all/4005_this_rock.mp3",
+     "slow": "audio/all/4005_this_rock.mp3",
+     "image": "img/raz-aa-at_the_lake-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_at_the_lake-p7",
+     "type": "sentence",
+     "en": "This frog.",
+     "zh": "这只青蛙。",
+     "audio": "audio/all/4006_this_frog.mp3",
+     "slow": "audio/all/4006_this_frog.mp3",
+     "image": "img/raz-aa-at_the_lake-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_at_the_lake-p8",
+     "type": "sentence",
+     "en": "This lake.",
+     "zh": "这个湖。",
+     "audio": "audio/all/4007_this_lake.mp3",
+     "slow": "audio/all/4007_this_lake.mp3",
+     "image": "img/raz-aa-at_the_lake-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

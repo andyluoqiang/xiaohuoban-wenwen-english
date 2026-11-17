@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_green",
+ "nameZh": "绿色",
+ "bookTitle": "Green",
+ "razLevel": "aa",
+ "order": 19,
+ "cover": "img/raz-aa-green-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_green-u1",
+   "band": 2,
+   "title": "Green · 绿色",
+   "cards": [
+    {
+     "id": "raz_aa_green-p1",
+     "type": "sentence",
+     "en": "This green snake.",
+     "zh": "这条绿蛇。",
+     "audio": "audio/all/4138_this_green_snake.mp3",
+     "slow": "audio/all/4138_this_green_snake.mp3",
+     "image": "img/raz-aa-green-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_green-p2",
+     "type": "sentence",
+     "en": "This green leaf.",
+     "zh": "这片绿叶。",
+     "audio": "audio/all/4139_this_green_leaf.mp3",
+     "slow": "audio/all/4139_this_green_leaf.mp3",
+     "image": "img/raz-aa-green-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_green-p3",
+     "type": "sentence",
+     "en": "This green moss.",
+     "zh": "这片绿苔。",
+     "audio": "audio/all/4140_this_green_moss.mp3",
+     "slow": "audio/all/4140_this_green_moss.mp3",
+     "image": "img/raz-aa-green-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_green-p4",
+     "type": "sentence",
+     "en": "This green frog.",
+     "zh": "这只绿青蛙。",
+     "audio": "audio/all/4141_this_green_frog.mp3",
+     "slow": "audio/all/4141_this_green_frog.mp3",
+     "image": "img/raz-aa-green-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_green-p5",
+     "type": "sentence",
+     "en": "This green bird.",
+     "zh": "这只绿鸟。",
+     "audio": "audio/all/4142_this_green_bird.mp3",
+     "slow": "audio/all/4142_this_green_bird.mp3",
+     "image": "img/raz-aa-green-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_green-p6",
+     "type": "sentence",
+     "en": "This green insect.",
+     "zh": "这只绿昆虫。",
+     "audio": "audio/all/4143_this_green_insect.mp3",
+     "slow": "audio/all/4143_this_green_insect.mp3",
+     "image": "img/raz-aa-green-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_green-p7",
+     "type": "sentence",
+     "en": "This green lizard.",
+     "zh": "这只绿蜥蜴。",
+     "audio": "audio/all/4144_this_green_lizard.mp3",
+     "slow": "audio/all/4144_this_green_lizard.mp3",
+     "image": "img/raz-aa-green-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_green-p8",
+     "type": "sentence",
+     "en": "This green forest.",
+     "zh": "这片绿森林。",
+     "audio": "audio/all/4145_this_green_forest.mp3",
+     "slow": "audio/all/4145_this_green_forest.mp3",
+     "image": "img/raz-aa-green-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

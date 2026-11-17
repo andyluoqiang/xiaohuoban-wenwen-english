@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_two",
+ "nameZh": "二",
+ "bookTitle": "Two",
+ "razLevel": "aa",
+ "order": 81,
+ "cover": "img/raz-aa-two-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_two-u1",
+   "band": 2,
+   "title": "Two · 二",
+   "cards": [
+    {
+     "id": "raz_aa_two-p1",
+     "type": "sentence",
+     "en": "Two bees.",
+     "zh": "两只蜜蜂。",
+     "audio": "audio/all/4634_two_bees.mp3",
+     "slow": "audio/all/4634_two_bees.mp3",
+     "image": "img/raz-aa-two-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_two-p2",
+     "type": "sentence",
+     "en": "Two fish.",
+     "zh": "两条鱼。",
+     "audio": "audio/all/4635_two_fish.mp3",
+     "slow": "audio/all/4635_two_fish.mp3",
+     "image": "img/raz-aa-two-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_two-p3",
+     "type": "sentence",
+     "en": "Two birds.",
+     "zh": "两只鸟。",
+     "audio": "audio/all/4636_two_birds.mp3",
+     "slow": "audio/all/4636_two_birds.mp3",
+     "image": "img/raz-aa-two-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_two-p4",
+     "type": "sentence",
+     "en": "Two cats.",
+     "zh": "两只猫。",
+     "audio": "audio/all/4637_two_cats.mp3",
+     "slow": "audio/all/4637_two_cats.mp3",
+     "image": "img/raz-aa-two-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_two-p5",
+     "type": "sentence",
+     "en": "Two dogs.",
+     "zh": "两只狗。",
+     "audio": "audio/all/4638_two_dogs.mp3",
+     "slow": "audio/all/4638_two_dogs.mp3",
+     "image": "img/raz-aa-two-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_two-p6",
+     "type": "sentence",
+     "en": "Two cows.",
+     "zh": "两头牛。",
+     "audio": "audio/all/4639_two_cows.mp3",
+     "slow": "audio/all/4639_two_cows.mp3",
+     "image": "img/raz-aa-two-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_two-p7",
+     "type": "sentence",
+     "en": "Two horses.",
+     "zh": "两匹马。",
+     "audio": "audio/all/4640_two_horses.mp3",
+     "slow": "audio/all/4640_two_horses.mp3",
+     "image": "img/raz-aa-two-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_two-p8",
+     "type": "sentence",
+     "en": "Two kids.",
+     "zh": "两个孩子。",
+     "audio": "audio/all/4641_two_kids.mp3",
+     "slow": "audio/all/4641_two_kids.mp3",
+     "image": "img/raz-aa-two-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

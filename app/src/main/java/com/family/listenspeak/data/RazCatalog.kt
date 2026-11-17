@@ -7,8 +7,8 @@ import java.io.File
 
 /**
  * RAZ 分级阅读馆目录（v0.2.22）：
- * - manifest_raz.json：29 级骨架（aa→Z2），B=ready(87本)、aa/A=ready(自编各1本)、其余 empty 预留
- * - books: 89 本 theme JSON（raz_b_* / raz_aa_colors / raz_a_apples），与现有 ThemeContent 同构
+ * - manifest_raz.json：29 级骨架（aa→Z2），aa=ready(官方88本)、B=ready(87本)、其余 empty 预留
+ * - books: 175 本 theme JSON（raz_b_* / raz_aa_*），与现有 ThemeContent 同构
  * 加载幂等；书 JSON 按需延迟加载（87 本全解析会拖慢启动）。
  */
 object RazCatalog {

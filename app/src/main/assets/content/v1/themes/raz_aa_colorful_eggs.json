@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_colorful_eggs",
+ "nameZh": "彩色蛋",
+ "bookTitle": "Colorful Eggs",
+ "razLevel": "aa",
+ "order": 8,
+ "cover": "img/raz-aa-colorful_eggs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_colorful_eggs-u1",
+   "band": 2,
+   "title": "Colorful Eggs · 彩色蛋",
+   "cards": [
+    {
+     "id": "raz_aa_colorful_eggs-p1",
+     "type": "sentence",
+     "en": "A red egg.",
+     "zh": "一颗红蛋。",
+     "audio": "audio/all/4048_a_red_egg.mp3",
+     "slow": "audio/all/4048_a_red_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p2",
+     "type": "sentence",
+     "en": "A yellow egg.",
+     "zh": "一颗黄蛋。",
+     "audio": "audio/all/4049_a_yellow_egg.mp3",
+     "slow": "audio/all/4049_a_yellow_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p3",
+     "type": "sentence",
+     "en": "A pink egg.",
+     "zh": "一颗粉蛋。",
+     "audio": "audio/all/4050_a_pink_egg.mp3",
+     "slow": "audio/all/4050_a_pink_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p4",
+     "type": "sentence",
+     "en": "A purple egg.",
+     "zh": "一颗紫蛋。",
+     "audio": "audio/all/4051_a_purple_egg.mp3",
+     "slow": "audio/all/4051_a_purple_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p5",
+     "type": "sentence",
+     "en": "An orange egg.",
+     "zh": "一颗橙蛋。",
+     "audio": "audio/all/4052_an_orange_egg.mp3",
+     "slow": "audio/all/4052_an_orange_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p6",
+     "type": "sentence",
+     "en": "A green egg.",
+     "zh": "一颗绿蛋。",
+     "audio": "audio/all/4053_a_green_egg.mp3",
+     "slow": "audio/all/4053_a_green_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p7",
+     "type": "sentence",
+     "en": "A blue egg.",
+     "zh": "一颗蓝蛋。",
+     "audio": "audio/all/4054_a_blue_egg.mp3",
+     "slow": "audio/all/4054_a_blue_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_colorful_eggs-p8",
+     "type": "sentence",
+     "en": "A colorful egg.",
+     "zh": "一颗彩蛋。",
+     "audio": "audio/all/4055_a_colorful_egg.mp3",
+     "slow": "audio/all/4055_a_colorful_egg.mp3",
+     "image": "img/raz-aa-colorful_eggs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

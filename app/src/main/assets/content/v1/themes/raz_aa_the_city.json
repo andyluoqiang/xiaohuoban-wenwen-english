@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_city",
+ "nameZh": "城市",
+ "bookTitle": "The City",
+ "razLevel": "aa",
+ "order": 62,
+ "cover": "img/raz-aa-the_city-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_city-u1",
+   "band": 2,
+   "title": "The City · 城市",
+   "cards": [
+    {
+     "id": "raz_aa_the_city-p1",
+     "type": "sentence",
+     "en": "The streets.",
+     "zh": "那些街道。",
+     "audio": "audio/all/4482_the_streets.mp3",
+     "slow": "audio/all/4482_the_streets.mp3",
+     "image": "img/raz-aa-the_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_city-p2",
+     "type": "sentence",
+     "en": "The cars.",
+     "zh": "那些汽车。",
+     "audio": "audio/all/4483_the_cars.mp3",
+     "slow": "audio/all/4483_the_cars.mp3",
+     "image": "img/raz-aa-the_city-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_city-p3",
+     "type": "sentence",
+     "en": "The buses.",
+     "zh": "那些巴士。",
+     "audio": "audio/all/4484_the_buses.mp3",
+     "slow": "audio/all/4484_the_buses.mp3",
+     "image": "img/raz-aa-the_city-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_city-p4",
+     "type": "sentence",
+     "en": "The stores.",
+     "zh": "那些商店。",
+     "audio": "audio/all/4485_the_stores.mp3",
+     "slow": "audio/all/4485_the_stores.mp3",
+     "image": "img/raz-aa-the_city-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_city-p5",
+     "type": "sentence",
+     "en": "The park.",
+     "zh": "那座公园。",
+     "audio": "audio/all/4486_the_park.mp3",
+     "slow": "audio/all/4486_the_park.mp3",
+     "image": "img/raz-aa-the_city-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_city-p6",
+     "type": "sentence",
+     "en": "The big buildings.",
+     "zh": "那些高楼。",
+     "audio": "audio/all/4487_the_big_buildings.mp3",
+     "slow": "audio/all/4487_the_big_buildings.mp3",
+     "image": "img/raz-aa-the_city-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_city-p7",
+     "type": "sentence",
+     "en": "The people.",
+     "zh": "那些人。",
+     "audio": "audio/all/4488_the_people.mp3",
+     "slow": "audio/all/4488_the_people.mp3",
+     "image": "img/raz-aa-the_city-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_city-p8",
+     "type": "sentence",
+     "en": "The noise.",
+     "zh": "那些噪音。",
+     "audio": "audio/all/4489_the_noise.mp3",
+     "slow": "audio/all/4489_the_noise.mp3",
+     "image": "img/raz-aa-the_city-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

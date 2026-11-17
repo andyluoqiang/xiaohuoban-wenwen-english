@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_eleven",
+ "nameZh": "十一",
+ "bookTitle": "Eleven",
+ "razLevel": "aa",
+ "order": 12,
+ "cover": "img/raz-aa-eleven-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_eleven-u1",
+   "band": 2,
+   "title": "Eleven · 十一",
+   "cards": [
+    {
+     "id": "raz_aa_eleven-p1",
+     "type": "sentence",
+     "en": "Eleven cards.",
+     "zh": "十一张卡片。",
+     "audio": "audio/all/4080_eleven_cards.mp3",
+     "slow": "audio/all/4080_eleven_cards.mp3",
+     "image": "img/raz-aa-eleven-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_eleven-p2",
+     "type": "sentence",
+     "en": "Eleven balloons.",
+     "zh": "十一个气球。",
+     "audio": "audio/all/4081_eleven_balloons.mp3",
+     "slow": "audio/all/4081_eleven_balloons.mp3",
+     "image": "img/raz-aa-eleven-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_eleven-p3",
+     "type": "sentence",
+     "en": "Eleven hats.",
+     "zh": "十一顶帽子。",
+     "audio": "audio/all/4082_eleven_hats.mp3",
+     "slow": "audio/all/4082_eleven_hats.mp3",
+     "image": "img/raz-aa-eleven-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_eleven-p4",
+     "type": "sentence",
+     "en": "Eleven pizzas.",
+     "zh": "十一个披萨。",
+     "audio": "audio/all/4083_eleven_pizzas.mp3",
+     "slow": "audio/all/4083_eleven_pizzas.mp3",
+     "image": "img/raz-aa-eleven-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_eleven-p5",
+     "type": "sentence",
+     "en": "Eleven cupcakes.",
+     "zh": "十一个纸杯蛋糕。",
+     "audio": "audio/all/4084_eleven_cupcakes.mp3",
+     "slow": "audio/all/4084_eleven_cupcakes.mp3",
+     "image": "img/raz-aa-eleven-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_eleven-p6",
+     "type": "sentence",
+     "en": "Eleven presents.",
+     "zh": "十一份礼物。",
+     "audio": "audio/all/4085_eleven_presents.mp3",
+     "slow": "audio/all/4085_eleven_presents.mp3",
+     "image": "img/raz-aa-eleven-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_eleven-p7",
+     "type": "sentence",
+     "en": "Eleven candy bars.",
+     "zh": "十一根糖果棒。",
+     "audio": "audio/all/4086_eleven_candy_bars.mp3",
+     "slow": "audio/all/4086_eleven_candy_bars.mp3",
+     "image": "img/raz-aa-eleven-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_eleven-p8",
+     "type": "sentence",
+     "en": "Eleven friends.",
+     "zh": "十一个朋友。",
+     "audio": "audio/all/4087_eleven_friends.mp3",
+     "slow": "audio/all/4087_eleven_friends.mp3",
+     "image": "img/raz-aa-eleven-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

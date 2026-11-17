@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_too_many_sweets",
+ "nameZh": "太多甜食",
+ "bookTitle": "Too Many Sweets",
+ "razLevel": "aa",
+ "order": 78,
+ "cover": "img/raz-aa-too_many_sweets-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_too_many_sweets-u1",
+   "band": 2,
+   "title": "Too Many Sweets · 太多甜食",
+   "cards": [
+    {
+     "id": "raz_aa_too_many_sweets-p1",
+     "type": "sentence",
+     "en": "My cake.",
+     "zh": "我的蛋糕。",
+     "audio": "audio/all/4610_my_cake.mp3",
+     "slow": "audio/all/4610_my_cake.mp3",
+     "image": "img/raz-aa-too_many_sweets-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p2",
+     "type": "sentence",
+     "en": "My cookie.",
+     "zh": "我的饼干。",
+     "audio": "audio/all/4611_my_cookie.mp3",
+     "slow": "audio/all/4611_my_cookie.mp3",
+     "image": "img/raz-aa-too_many_sweets-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p3",
+     "type": "sentence",
+     "en": "My cupcake.",
+     "zh": "我的纸杯蛋糕。",
+     "audio": "audio/all/4612_my_cupcake.mp3",
+     "slow": "audio/all/4612_my_cupcake.mp3",
+     "image": "img/raz-aa-too_many_sweets-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p4",
+     "type": "sentence",
+     "en": "My ice cream.",
+     "zh": "我的冰淇淋。",
+     "audio": "audio/all/4613_my_ice_cream.mp3",
+     "slow": "audio/all/4613_my_ice_cream.mp3",
+     "image": "img/raz-aa-too_many_sweets-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p5",
+     "type": "sentence",
+     "en": "My pie.",
+     "zh": "我的派。",
+     "audio": "audio/all/4614_my_pie.mp3",
+     "slow": "audio/all/4614_my_pie.mp3",
+     "image": "img/raz-aa-too_many_sweets-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p6",
+     "type": "sentence",
+     "en": "My brownie.",
+     "zh": "我的布朗尼。",
+     "audio": "audio/all/4615_my_brownie.mp3",
+     "slow": "audio/all/4615_my_brownie.mp3",
+     "image": "img/raz-aa-too_many_sweets-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p7",
+     "type": "sentence",
+     "en": "My candy.",
+     "zh": "我的糖果。",
+     "audio": "audio/all/4616_my_candy.mp3",
+     "slow": "audio/all/4616_my_candy.mp3",
+     "image": "img/raz-aa-too_many_sweets-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_too_many_sweets-p8",
+     "type": "sentence",
+     "en": "My belly.",
+     "zh": "我的肚子。",
+     "audio": "audio/all/4617_my_belly.mp3",
+     "slow": "audio/all/4617_my_belly.mp3",
+     "image": "img/raz-aa-too_many_sweets-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

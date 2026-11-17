@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_street",
+ "nameZh": "街道",
+ "bookTitle": "The Street",
+ "razLevel": "aa",
+ "order": 71,
+ "cover": "img/raz-aa-the_street-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_street-u1",
+   "band": 2,
+   "title": "The Street · 街道",
+   "cards": [
+    {
+     "id": "raz_aa_the_street-p1",
+     "type": "sentence",
+     "en": "The gate.",
+     "zh": "那扇门。",
+     "audio": "audio/all/4554_the_gate.mp3",
+     "slow": "audio/all/4554_the_gate.mp3",
+     "image": "img/raz-aa-the_street-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_street-p2",
+     "type": "sentence",
+     "en": "The mailbox.",
+     "zh": "那个邮筒。",
+     "audio": "audio/all/4555_the_mailbox.mp3",
+     "slow": "audio/all/4555_the_mailbox.mp3",
+     "image": "img/raz-aa-the_street-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_street-p3",
+     "type": "sentence",
+     "en": "The sidewalk.",
+     "zh": "那段人行道。",
+     "audio": "audio/all/4556_the_sidewalk.mp3",
+     "slow": "audio/all/4556_the_sidewalk.mp3",
+     "image": "img/raz-aa-the_street-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_street-p4",
+     "type": "sentence",
+     "en": "The fence.",
+     "zh": "那个栅栏。",
+     "audio": "audio/all/4557_the_fence.mp3",
+     "slow": "audio/all/4557_the_fence.mp3",
+     "image": "img/raz-aa-the_street-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_street-p5",
+     "type": "sentence",
+     "en": "The flowers.",
+     "zh": "那些花。",
+     "audio": "audio/all/4558_the_flowers.mp3",
+     "slow": "audio/all/4558_the_flowers.mp3",
+     "image": "img/raz-aa-the_street-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_street-p6",
+     "type": "sentence",
+     "en": "The bike.",
+     "zh": "那辆自行车。",
+     "audio": "audio/all/4559_the_bike.mp3",
+     "slow": "audio/all/4559_the_bike.mp3",
+     "image": "img/raz-aa-the_street-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_street-p7",
+     "type": "sentence",
+     "en": "The friend.",
+     "zh": "那位朋友。",
+     "audio": "audio/all/4560_the_friend.mp3",
+     "slow": "audio/all/4560_the_friend.mp3",
+     "image": "img/raz-aa-the_street-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_street-p8",
+     "type": "sentence",
+     "en": "The street.",
+     "zh": "那条街道。",
+     "audio": "audio/all/4561_the_street.mp3",
+     "slow": "audio/all/4561_the_street.mp3",
+     "image": "img/raz-aa-the_street-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

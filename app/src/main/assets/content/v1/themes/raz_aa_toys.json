@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_toys",
+ "nameZh": "玩具",
+ "bookTitle": "Toys",
+ "razLevel": "aa",
+ "order": 79,
+ "cover": "img/raz-aa-toys-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_toys-u1",
+   "band": 2,
+   "title": "Toys · 玩具",
+   "cards": [
+    {
+     "id": "raz_aa_toys-p1",
+     "type": "sentence",
+     "en": "The blocks.",
+     "zh": "那些积木。",
+     "audio": "audio/all/4618_the_blocks.mp3",
+     "slow": "audio/all/4618_the_blocks.mp3",
+     "image": "img/raz-aa-toys-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_toys-p2",
+     "type": "sentence",
+     "en": "The bear.",
+     "zh": "那只熊。",
+     "audio": "audio/all/4619_the_bear.mp3",
+     "slow": "audio/all/4619_the_bear.mp3",
+     "image": "img/raz-aa-toys-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_toys-p3",
+     "type": "sentence",
+     "en": "The paint.",
+     "zh": "那些颜料。",
+     "audio": "audio/all/4620_the_paint.mp3",
+     "slow": "audio/all/4620_the_paint.mp3",
+     "image": "img/raz-aa-toys-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_toys-p4",
+     "type": "sentence",
+     "en": "The drum.",
+     "zh": "那个鼓。",
+     "audio": "audio/all/4621_the_drum.mp3",
+     "slow": "audio/all/4621_the_drum.mp3",
+     "image": "img/raz-aa-toys-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_toys-p5",
+     "type": "sentence",
+     "en": "The plane.",
+     "zh": "那架飞机。",
+     "audio": "audio/all/4622_the_plane.mp3",
+     "slow": "audio/all/4622_the_plane.mp3",
+     "image": "img/raz-aa-toys-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_toys-p6",
+     "type": "sentence",
+     "en": "The wagon.",
+     "zh": "那辆马车。",
+     "audio": "audio/all/4623_the_wagon.mp3",
+     "slow": "audio/all/4623_the_wagon.mp3",
+     "image": "img/raz-aa-toys-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_toys-p7",
+     "type": "sentence",
+     "en": "The kite.",
+     "zh": "那个风筝。",
+     "audio": "audio/all/4624_the_kite.mp3",
+     "slow": "audio/all/4624_the_kite.mp3",
+     "image": "img/raz-aa-toys-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_toys-p8",
+     "type": "sentence",
+     "en": "The robot.",
+     "zh": "那个机器人。",
+     "audio": "audio/all/4625_the_robot.mp3",
+     "slow": "audio/all/4625_the_robot.mp3",
+     "image": "img/raz-aa-toys-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

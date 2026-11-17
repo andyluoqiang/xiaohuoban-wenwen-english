@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_eight",
+ "nameZh": "八",
+ "bookTitle": "Eight",
+ "razLevel": "aa",
+ "order": 11,
+ "cover": "img/raz-aa-eight-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_eight-u1",
+   "band": 2,
+   "title": "Eight · 八",
+   "cards": [
+    {
+     "id": "raz_aa_eight-p1",
+     "type": "sentence",
+     "en": "Eight backpacks.",
+     "zh": "八个书包。",
+     "audio": "audio/all/4072_eight_backpacks.mp3",
+     "slow": "audio/all/4072_eight_backpacks.mp3",
+     "image": "img/raz-aa-eight-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_eight-p2",
+     "type": "sentence",
+     "en": "Eight bottles.",
+     "zh": "八个瓶子。",
+     "audio": "audio/all/4073_eight_bottles.mp3",
+     "slow": "audio/all/4073_eight_bottles.mp3",
+     "image": "img/raz-aa-eight-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_eight-p3",
+     "type": "sentence",
+     "en": "Eight raincoats.",
+     "zh": "八件雨衣。",
+     "audio": "audio/all/4074_eight_raincoats.mp3",
+     "slow": "audio/all/4074_eight_raincoats.mp3",
+     "image": "img/raz-aa-eight-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_eight-p4",
+     "type": "sentence",
+     "en": "Eight chairs.",
+     "zh": "八把椅子。",
+     "audio": "audio/all/4075_eight_chairs.mp3",
+     "slow": "audio/all/4075_eight_chairs.mp3",
+     "image": "img/raz-aa-eight-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_eight-p5",
+     "type": "sentence",
+     "en": "Eight lights.",
+     "zh": "八盏灯。",
+     "audio": "audio/all/4076_eight_lights.mp3",
+     "slow": "audio/all/4076_eight_lights.mp3",
+     "image": "img/raz-aa-eight-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_eight-p6",
+     "type": "sentence",
+     "en": "Eight sticks.",
+     "zh": "八根棍子。",
+     "audio": "audio/all/4077_eight_sticks.mp3",
+     "slow": "audio/all/4077_eight_sticks.mp3",
+     "image": "img/raz-aa-eight-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_eight-p7",
+     "type": "sentence",
+     "en": "Eight hot dogs.",
+     "zh": "八个热狗。",
+     "audio": "audio/all/4078_eight_hot_dogs.mp3",
+     "slow": "audio/all/4078_eight_hot_dogs.mp3",
+     "image": "img/raz-aa-eight-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_eight-p8",
+     "type": "sentence",
+     "en": "Eight friends.",
+     "zh": "八个朋友。",
+     "audio": "audio/all/4079_eight_friends.mp3",
+     "slow": "audio/all/4079_eight_friends.mp3",
+     "image": "img/raz-aa-eight-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

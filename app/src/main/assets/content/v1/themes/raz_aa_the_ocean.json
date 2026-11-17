@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_ocean",
+ "nameZh": "海洋",
+ "bookTitle": "The Ocean",
+ "razLevel": "aa",
+ "order": 67,
+ "cover": "img/raz-aa-the_ocean-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_ocean-u1",
+   "band": 2,
+   "title": "The Ocean · 海洋",
+   "cards": [
+    {
+     "id": "raz_aa_the_ocean-p1",
+     "type": "sentence",
+     "en": "The water.",
+     "zh": "那片水。",
+     "audio": "audio/all/4522_the_water.mp3",
+     "slow": "audio/all/4522_the_water.mp3",
+     "image": "img/raz-aa-the_ocean-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_ocean-p2",
+     "type": "sentence",
+     "en": "The sand.",
+     "zh": "那些沙。",
+     "audio": "audio/all/4523_the_sand.mp3",
+     "slow": "audio/all/4523_the_sand.mp3",
+     "image": "img/raz-aa-the_ocean-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_ocean-p3",
+     "type": "sentence",
+     "en": "The coral.",
+     "zh": "那些珊瑚。",
+     "audio": "audio/all/4524_the_coral.mp3",
+     "slow": "audio/all/4524_the_coral.mp3",
+     "image": "img/raz-aa-the_ocean-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_ocean-p4",
+     "type": "sentence",
+     "en": "The seaweed.",
+     "zh": "那些海草。",
+     "audio": "audio/all/4525_the_seaweed.mp3",
+     "slow": "audio/all/4525_the_seaweed.mp3",
+     "image": "img/raz-aa-the_ocean-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_ocean-p5",
+     "type": "sentence",
+     "en": "The fish.",
+     "zh": "那些鱼。",
+     "audio": "audio/all/4526_the_fish.mp3",
+     "slow": "audio/all/4526_the_fish.mp3",
+     "image": "img/raz-aa-the_ocean-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_ocean-p6",
+     "type": "sentence",
+     "en": "The crab.",
+     "zh": "那只螃蟹。",
+     "audio": "audio/all/4527_the_crab.mp3",
+     "slow": "audio/all/4527_the_crab.mp3",
+     "image": "img/raz-aa-the_ocean-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_ocean-p7",
+     "type": "sentence",
+     "en": "The starfish.",
+     "zh": "那只海星。",
+     "audio": "audio/all/4528_the_starfish.mp3",
+     "slow": "audio/all/4528_the_starfish.mp3",
+     "image": "img/raz-aa-the_ocean-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_ocean-p8",
+     "type": "sentence",
+     "en": "The ocean.",
+     "zh": "那片海洋。",
+     "audio": "audio/all/4529_the_ocean.mp3",
+     "slow": "audio/all/4529_the_ocean.mp3",
+     "image": "img/raz-aa-the_ocean-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

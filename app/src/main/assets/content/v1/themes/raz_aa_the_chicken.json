@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_chicken",
+ "nameZh": "母鸡",
+ "bookTitle": "The Chicken",
+ "razLevel": "aa",
+ "order": 61,
+ "cover": "img/raz-aa-the_chicken-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_chicken-u1",
+   "band": 2,
+   "title": "The Chicken · 母鸡",
+   "cards": [
+    {
+     "id": "raz_aa_the_chicken-p1",
+     "type": "sentence",
+     "en": "The chicken.",
+     "zh": "那只母鸡。",
+     "audio": "audio/all/4474_the_chicken.mp3",
+     "slow": "audio/all/4474_the_chicken.mp3",
+     "image": "img/raz-aa-the_chicken-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_chicken-p2",
+     "type": "sentence",
+     "en": "The beak.",
+     "zh": "那张喙。",
+     "audio": "audio/all/4475_the_beak.mp3",
+     "slow": "audio/all/4475_the_beak.mp3",
+     "image": "img/raz-aa-the_chicken-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_chicken-p3",
+     "type": "sentence",
+     "en": "The feathers.",
+     "zh": "那些羽毛。",
+     "audio": "audio/all/4476_the_feathers.mp3",
+     "slow": "audio/all/4476_the_feathers.mp3",
+     "image": "img/raz-aa-the_chicken-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_chicken-p4",
+     "type": "sentence",
+     "en": "The wings.",
+     "zh": "那对翅膀。",
+     "audio": "audio/all/4477_the_wings.mp3",
+     "slow": "audio/all/4477_the_wings.mp3",
+     "image": "img/raz-aa-the_chicken-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_chicken-p5",
+     "type": "sentence",
+     "en": "The tail.",
+     "zh": "那条尾巴。",
+     "audio": "audio/all/4478_the_tail.mp3",
+     "slow": "audio/all/4478_the_tail.mp3",
+     "image": "img/raz-aa-the_chicken-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_chicken-p6",
+     "type": "sentence",
+     "en": "The legs.",
+     "zh": "那双腿。",
+     "audio": "audio/all/4479_the_legs.mp3",
+     "slow": "audio/all/4479_the_legs.mp3",
+     "image": "img/raz-aa-the_chicken-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_chicken-p7",
+     "type": "sentence",
+     "en": "The feet.",
+     "zh": "那双脚。",
+     "audio": "audio/all/4480_the_feet.mp3",
+     "slow": "audio/all/4480_the_feet.mp3",
+     "image": "img/raz-aa-the_chicken-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_chicken-p8",
+     "type": "sentence",
+     "en": "The eggs.",
+     "zh": "那些鸡蛋。",
+     "audio": "audio/all/4481_the_eggs.mp3",
+     "slow": "audio/all/4481_the_eggs.mp3",
+     "image": "img/raz-aa-the_chicken-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_blue",
+ "nameZh": "蓝色",
+ "bookTitle": "Blue",
+ "razLevel": "aa",
+ "order": 5,
+ "cover": "img/raz-aa-blue-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_blue-u1",
+   "band": 2,
+   "title": "Blue · 蓝色",
+   "cards": [
+    {
+     "id": "raz_aa_blue-p1",
+     "type": "sentence",
+     "en": "The blue sky.",
+     "zh": "蓝色的天空。",
+     "audio": "audio/all/4024_the_blue_sky.mp3",
+     "slow": "audio/all/4024_the_blue_sky.mp3",
+     "image": "img/raz-aa-blue-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_blue-p2",
+     "type": "sentence",
+     "en": "The blue helmet.",
+     "zh": "蓝色的头盔。",
+     "audio": "audio/all/4025_the_blue_helmet.mp3",
+     "slow": "audio/all/4025_the_blue_helmet.mp3",
+     "image": "img/raz-aa-blue-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_blue-p3",
+     "type": "sentence",
+     "en": "The blue bike.",
+     "zh": "蓝色的自行车。",
+     "audio": "audio/all/4026_the_blue_bike.mp3",
+     "slow": "audio/all/4026_the_blue_bike.mp3",
+     "image": "img/raz-aa-blue-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_blue-p4",
+     "type": "sentence",
+     "en": "The blue bottle.",
+     "zh": "蓝色的瓶子。",
+     "audio": "audio/all/4027_the_blue_bottle.mp3",
+     "slow": "audio/all/4027_the_blue_bottle.mp3",
+     "image": "img/raz-aa-blue-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_blue-p5",
+     "type": "sentence",
+     "en": "The blue bench.",
+     "zh": "蓝色的长椅。",
+     "audio": "audio/all/4028_the_blue_bench.mp3",
+     "slow": "audio/all/4028_the_blue_bench.mp3",
+     "image": "img/raz-aa-blue-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_blue-p6",
+     "type": "sentence",
+     "en": "The blue swing.",
+     "zh": "蓝色的秋千。",
+     "audio": "audio/all/4029_the_blue_swing.mp3",
+     "slow": "audio/all/4029_the_blue_swing.mp3",
+     "image": "img/raz-aa-blue-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_blue-p7",
+     "type": "sentence",
+     "en": "The blue slide.",
+     "zh": "蓝色的滑梯。",
+     "audio": "audio/all/4030_the_blue_slide.mp3",
+     "slow": "audio/all/4030_the_blue_slide.mp3",
+     "image": "img/raz-aa-blue-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_blue-p8",
+     "type": "sentence",
+     "en": "The blue playground.",
+     "zh": "蓝色的游乐场。",
+     "audio": "audio/all/4031_the_blue_playground.mp3",
+     "slow": "audio/all/4031_the_blue_playground.mp3",
+     "image": "img/raz-aa-blue-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

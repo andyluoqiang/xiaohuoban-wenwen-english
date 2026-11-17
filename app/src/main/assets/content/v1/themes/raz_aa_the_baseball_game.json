@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_baseball_game",
+ "nameZh": "棒球比赛",
+ "bookTitle": "The Baseball Game",
+ "razLevel": "aa",
+ "order": 58,
+ "cover": "img/raz-aa-the_baseball_game-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_baseball_game-u1",
+   "band": 2,
+   "title": "The Baseball Game · 棒球比赛",
+   "cards": [
+    {
+     "id": "raz_aa_the_baseball_game-p1",
+     "type": "sentence",
+     "en": "This field.",
+     "zh": "这块场地。",
+     "audio": "audio/all/4450_this_field.mp3",
+     "slow": "audio/all/4450_this_field.mp3",
+     "image": "img/raz-aa-the_baseball_game-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p2",
+     "type": "sentence",
+     "en": "This base.",
+     "zh": "这个垒。",
+     "audio": "audio/all/4451_this_base.mp3",
+     "slow": "audio/all/4451_this_base.mp3",
+     "image": "img/raz-aa-the_baseball_game-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p3",
+     "type": "sentence",
+     "en": "This bat.",
+     "zh": "这根球棒。",
+     "audio": "audio/all/4452_this_bat.mp3",
+     "slow": "audio/all/4452_this_bat.mp3",
+     "image": "img/raz-aa-the_baseball_game-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p4",
+     "type": "sentence",
+     "en": "This baseball.",
+     "zh": "这个棒球。",
+     "audio": "audio/all/4453_this_baseball.mp3",
+     "slow": "audio/all/4453_this_baseball.mp3",
+     "image": "img/raz-aa-the_baseball_game-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p5",
+     "type": "sentence",
+     "en": "This hat.",
+     "zh": "这顶帽子。",
+     "audio": "audio/all/4454_this_hat.mp3",
+     "slow": "audio/all/4454_this_hat.mp3",
+     "image": "img/raz-aa-the_baseball_game-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p6",
+     "type": "sentence",
+     "en": "This helmet.",
+     "zh": "这顶头盔。",
+     "audio": "audio/all/4455_this_helmet.mp3",
+     "slow": "audio/all/4455_this_helmet.mp3",
+     "image": "img/raz-aa-the_baseball_game-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p7",
+     "type": "sentence",
+     "en": "This uniform.",
+     "zh": "这套队服。",
+     "audio": "audio/all/4456_this_uniform.mp3",
+     "slow": "audio/all/4456_this_uniform.mp3",
+     "image": "img/raz-aa-the_baseball_game-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_baseball_game-p8",
+     "type": "sentence",
+     "en": "This team.",
+     "zh": "这支球队。",
+     "audio": "audio/all/4457_this_team.mp3",
+     "slow": "audio/all/4457_this_team.mp3",
+     "image": "img/raz-aa-the_baseball_game-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

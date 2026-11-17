@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_four",
+ "nameZh": "四",
+ "bookTitle": "Four",
+ "razLevel": "aa",
+ "order": 16,
+ "cover": "img/raz-aa-four-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_four-u1",
+   "band": 2,
+   "title": "Four · 四",
+   "cards": [
+    {
+     "id": "raz_aa_four-p1",
+     "type": "sentence",
+     "en": "Four buses.",
+     "zh": "四辆巴士。",
+     "audio": "audio/all/4114_four_buses.mp3",
+     "slow": "audio/all/4114_four_buses.mp3",
+     "image": "img/raz-aa-four-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_four-p2",
+     "type": "sentence",
+     "en": "Four wagons.",
+     "zh": "四辆马车。",
+     "audio": "audio/all/4115_four_wagons.mp3",
+     "slow": "audio/all/4115_four_wagons.mp3",
+     "image": "img/raz-aa-four-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_four-p3",
+     "type": "sentence",
+     "en": "Four cars.",
+     "zh": "四辆汽车。",
+     "audio": "audio/all/4116_four_cars.mp3",
+     "slow": "audio/all/4116_four_cars.mp3",
+     "image": "img/raz-aa-four-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_four-p4",
+     "type": "sentence",
+     "en": "Four carts.",
+     "zh": "四辆推车。",
+     "audio": "audio/all/4117_four_carts.mp3",
+     "slow": "audio/all/4117_four_carts.mp3",
+     "image": "img/raz-aa-four-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_four-p5",
+     "type": "sentence",
+     "en": "Four airplanes.",
+     "zh": "四架飞机。",
+     "audio": "audio/all/4118_four_airplanes.mp3",
+     "slow": "audio/all/4118_four_airplanes.mp3",
+     "image": "img/raz-aa-four-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_four-p6",
+     "type": "sentence",
+     "en": "Four boats.",
+     "zh": "四艘小船。",
+     "audio": "audio/all/4119_four_boats.mp3",
+     "slow": "audio/all/4119_four_boats.mp3",
+     "image": "img/raz-aa-four-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_four-p7",
+     "type": "sentence",
+     "en": "Four trucks.",
+     "zh": "四辆卡车。",
+     "audio": "audio/all/4120_four_trucks.mp3",
+     "slow": "audio/all/4120_four_trucks.mp3",
+     "image": "img/raz-aa-four-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_four-p8",
+     "type": "sentence",
+     "en": "Four vans.",
+     "zh": "四辆面包车。",
+     "audio": "audio/all/4121_four_vans.mp3",
+     "slow": "audio/all/4121_four_vans.mp3",
+     "image": "img/raz-aa-four-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

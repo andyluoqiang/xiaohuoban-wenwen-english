@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_water",
+ "nameZh": "水",
+ "bookTitle": "Water",
+ "razLevel": "aa",
+ "order": 84,
+ "cover": "img/raz-aa-water-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_water-u1",
+   "band": 2,
+   "title": "Water · 水",
+   "cards": [
+    {
+     "id": "raz_aa_water-p1",
+     "type": "sentence",
+     "en": "Water.",
+     "zh": "水。",
+     "audio": "audio/all/4658_water.mp3",
+     "slow": "audio/all/4658_water.mp3",
+     "image": "img/raz-aa-water-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_water-p2",
+     "type": "sentence",
+     "en": "The ocean.",
+     "zh": "那片海洋。",
+     "audio": "audio/all/4659_the_ocean.mp3",
+     "slow": "audio/all/4659_the_ocean.mp3",
+     "image": "img/raz-aa-water-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_water-p3",
+     "type": "sentence",
+     "en": "The lake.",
+     "zh": "那个湖。",
+     "audio": "audio/all/4660_the_lake.mp3",
+     "slow": "audio/all/4660_the_lake.mp3",
+     "image": "img/raz-aa-water-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_water-p4",
+     "type": "sentence",
+     "en": "The river.",
+     "zh": "那条河。",
+     "audio": "audio/all/4661_the_river.mp3",
+     "slow": "audio/all/4661_the_river.mp3",
+     "image": "img/raz-aa-water-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_water-p5",
+     "type": "sentence",
+     "en": "The rain.",
+     "zh": "那场雨。",
+     "audio": "audio/all/4662_the_rain.mp3",
+     "slow": "audio/all/4662_the_rain.mp3",
+     "image": "img/raz-aa-water-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_water-p6",
+     "type": "sentence",
+     "en": "The snow.",
+     "zh": "那片雪。",
+     "audio": "audio/all/4663_the_snow.mp3",
+     "slow": "audio/all/4663_the_snow.mp3",
+     "image": "img/raz-aa-water-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_water-p7",
+     "type": "sentence",
+     "en": "The ice.",
+     "zh": "那些冰。",
+     "audio": "audio/all/4664_the_ice.mp3",
+     "slow": "audio/all/4664_the_ice.mp3",
+     "image": "img/raz-aa-water-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_water-p8",
+     "type": "sentence",
+     "en": "Water.",
+     "zh": "水。",
+     "audio": "audio/all/4665_water.mp3",
+     "slow": "audio/all/4665_water.mp3",
+     "image": "img/raz-aa-water-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

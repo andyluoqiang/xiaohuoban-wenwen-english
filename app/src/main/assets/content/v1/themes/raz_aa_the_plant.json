@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_plant",
+ "nameZh": "植物",
+ "bookTitle": "The Plant",
+ "razLevel": "aa",
+ "order": 68,
+ "cover": "img/raz-aa-the_plant-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_plant-u1",
+   "band": 2,
+   "title": "The Plant · 植物",
+   "cards": [
+    {
+     "id": "raz_aa_the_plant-p1",
+     "type": "sentence",
+     "en": "The dirt.",
+     "zh": "那些泥土。",
+     "audio": "audio/all/4530_the_dirt.mp3",
+     "slow": "audio/all/4530_the_dirt.mp3",
+     "image": "img/raz-aa-the_plant-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_plant-p2",
+     "type": "sentence",
+     "en": "The shovel.",
+     "zh": "那把铲子。",
+     "audio": "audio/all/4531_the_shovel.mp3",
+     "slow": "audio/all/4531_the_shovel.mp3",
+     "image": "img/raz-aa-the_plant-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_plant-p3",
+     "type": "sentence",
+     "en": "The hole.",
+     "zh": "那个洞。",
+     "audio": "audio/all/4532_the_hole.mp3",
+     "slow": "audio/all/4532_the_hole.mp3",
+     "image": "img/raz-aa-the_plant-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_plant-p4",
+     "type": "sentence",
+     "en": "The seed.",
+     "zh": "那粒种子。",
+     "audio": "audio/all/4533_the_seed.mp3",
+     "slow": "audio/all/4533_the_seed.mp3",
+     "image": "img/raz-aa-the_plant-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_plant-p5",
+     "type": "sentence",
+     "en": "The rain.",
+     "zh": "那场雨。",
+     "audio": "audio/all/4534_the_rain.mp3",
+     "slow": "audio/all/4534_the_rain.mp3",
+     "image": "img/raz-aa-the_plant-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_plant-p6",
+     "type": "sentence",
+     "en": "The sunshine.",
+     "zh": "那缕阳光。",
+     "audio": "audio/all/4535_the_sunshine.mp3",
+     "slow": "audio/all/4535_the_sunshine.mp3",
+     "image": "img/raz-aa-the_plant-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_plant-p7",
+     "type": "sentence",
+     "en": "The baby plant.",
+     "zh": "那株小苗。",
+     "audio": "audio/all/4536_the_baby_plant.mp3",
+     "slow": "audio/all/4536_the_baby_plant.mp3",
+     "image": "img/raz-aa-the_plant-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_plant-p8",
+     "type": "sentence",
+     "en": "The plant.",
+     "zh": "那棵植物。",
+     "audio": "audio/all/4537_the_plant.mp3",
+     "slow": "audio/all/4537_the_plant.mp3",
+     "image": "img/raz-aa-the_plant-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

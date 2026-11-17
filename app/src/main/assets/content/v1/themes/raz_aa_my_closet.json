@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_closet",
+ "nameZh": "我的衣柜",
+ "bookTitle": "My Closet",
+ "razLevel": "aa",
+ "order": 26,
+ "cover": "img/raz-aa-my_closet-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_closet-u1",
+   "band": 2,
+   "title": "My Closet · 我的衣柜",
+   "cards": [
+    {
+     "id": "raz_aa_my_closet-p1",
+     "type": "sentence",
+     "en": "My hangers.",
+     "zh": "我的衣架。",
+     "audio": "audio/all/4194_my_hangers.mp3",
+     "slow": "audio/all/4194_my_hangers.mp3",
+     "image": "img/raz-aa-my_closet-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_closet-p2",
+     "type": "sentence",
+     "en": "My shirts.",
+     "zh": "我的衬衫。",
+     "audio": "audio/all/4195_my_shirts.mp3",
+     "slow": "audio/all/4195_my_shirts.mp3",
+     "image": "img/raz-aa-my_closet-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_closet-p3",
+     "type": "sentence",
+     "en": "My pants.",
+     "zh": "我的裤子。",
+     "audio": "audio/all/4196_my_pants.mp3",
+     "slow": "audio/all/4196_my_pants.mp3",
+     "image": "img/raz-aa-my_closet-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_closet-p4",
+     "type": "sentence",
+     "en": "My dresses.",
+     "zh": "我的裙子。",
+     "audio": "audio/all/4197_my_dresses.mp3",
+     "slow": "audio/all/4197_my_dresses.mp3",
+     "image": "img/raz-aa-my_closet-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_closet-p5",
+     "type": "sentence",
+     "en": "My shoes.",
+     "zh": "我的鞋子。",
+     "audio": "audio/all/4198_my_shoes.mp3",
+     "slow": "audio/all/4198_my_shoes.mp3",
+     "image": "img/raz-aa-my_closet-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_closet-p6",
+     "type": "sentence",
+     "en": "My belts.",
+     "zh": "我的腰带。",
+     "audio": "audio/all/4199_my_belts.mp3",
+     "slow": "audio/all/4199_my_belts.mp3",
+     "image": "img/raz-aa-my_closet-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_closet-p7",
+     "type": "sentence",
+     "en": "My blankets.",
+     "zh": "我的毯子。",
+     "audio": "audio/all/4200_my_blankets.mp3",
+     "slow": "audio/all/4200_my_blankets.mp3",
+     "image": "img/raz-aa-my_closet-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_closet-p8",
+     "type": "sentence",
+     "en": "My closet.",
+     "zh": "我的衣柜。",
+     "audio": "audio/all/4201_my_closet.mp3",
+     "slow": "audio/all/4201_my_closet.mp3",
+     "image": "img/raz-aa-my_closet-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_garden",
+ "nameZh": "我的花园",
+ "bookTitle": "My Garden",
+ "razLevel": "aa",
+ "order": 29,
+ "cover": "img/raz-aa-my_garden-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_garden-u1",
+   "band": 2,
+   "title": "My Garden · 我的花园",
+   "cards": [
+    {
+     "id": "raz_aa_my_garden-p1",
+     "type": "sentence",
+     "en": "My shovel.",
+     "zh": "我的铲子。",
+     "audio": "audio/all/4218_my_shovel.mp3",
+     "slow": "audio/all/4218_my_shovel.mp3",
+     "image": "img/raz-aa-my_garden-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_garden-p2",
+     "type": "sentence",
+     "en": "My dirt.",
+     "zh": "我的泥土。",
+     "audio": "audio/all/4219_my_dirt.mp3",
+     "slow": "audio/all/4219_my_dirt.mp3",
+     "image": "img/raz-aa-my_garden-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_garden-p3",
+     "type": "sentence",
+     "en": "My hoe.",
+     "zh": "我的锄头。",
+     "audio": "audio/all/4220_my_hoe.mp3",
+     "slow": "audio/all/4220_my_hoe.mp3",
+     "image": "img/raz-aa-my_garden-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_garden-p4",
+     "type": "sentence",
+     "en": "My rows.",
+     "zh": "我的田垄。",
+     "audio": "audio/all/4221_my_rows.mp3",
+     "slow": "audio/all/4221_my_rows.mp3",
+     "image": "img/raz-aa-my_garden-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_garden-p5",
+     "type": "sentence",
+     "en": "My seeds.",
+     "zh": "我的种子。",
+     "audio": "audio/all/4222_my_seeds.mp3",
+     "slow": "audio/all/4222_my_seeds.mp3",
+     "image": "img/raz-aa-my_garden-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_garden-p6",
+     "type": "sentence",
+     "en": "My hose.",
+     "zh": "我的水管。",
+     "audio": "audio/all/4223_my_hose.mp3",
+     "slow": "audio/all/4223_my_hose.mp3",
+     "image": "img/raz-aa-my_garden-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_garden-p7",
+     "type": "sentence",
+     "en": "My plants.",
+     "zh": "我的植物。",
+     "audio": "audio/all/4224_my_plants.mp3",
+     "slow": "audio/all/4224_my_plants.mp3",
+     "image": "img/raz-aa-my_garden-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_garden-p8",
+     "type": "sentence",
+     "en": "My garden.",
+     "zh": "我的花园。",
+     "audio": "audio/all/4225_my_garden.mp3",
+     "slow": "audio/all/4225_my_garden.mp3",
+     "image": "img/raz-aa-my_garden-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

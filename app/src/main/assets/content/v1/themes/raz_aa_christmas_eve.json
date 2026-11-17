@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_christmas_eve",
+ "nameZh": "平安夜",
+ "bookTitle": "Christmas Eve",
+ "razLevel": "aa",
+ "order": 6,
+ "cover": "img/raz-aa-christmas_eve-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_christmas_eve-u1",
+   "band": 2,
+   "title": "Christmas Eve · 平安夜",
+   "cards": [
+    {
+     "id": "raz_aa_christmas_eve-p1",
+     "type": "sentence",
+     "en": "The lights.",
+     "zh": "那些彩灯。",
+     "audio": "audio/all/4032_the_lights.mp3",
+     "slow": "audio/all/4032_the_lights.mp3",
+     "image": "img/raz-aa-christmas_eve-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_christmas_eve-p2",
+     "type": "sentence",
+     "en": "The meal.",
+     "zh": "那顿晚餐。",
+     "audio": "audio/all/4033_the_meal.mp3",
+     "slow": "audio/all/4033_the_meal.mp3",
+     "image": "img/raz-aa-christmas_eve-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_christmas_eve-p3",
+     "type": "sentence",
+     "en": "The eggnog.",
+     "zh": "那杯蛋奶酒。",
+     "audio": "audio/all/4034_the_eggnog.mp3",
+     "slow": "audio/all/4034_the_eggnog.mp3",
+     "image": "img/raz-aa-christmas_eve-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_christmas_eve-p4",
+     "type": "sentence",
+     "en": "The tree.",
+     "zh": "那棵圣诞树。",
+     "audio": "audio/all/4035_the_tree.mp3",
+     "slow": "audio/all/4035_the_tree.mp3",
+     "image": "img/raz-aa-christmas_eve-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_christmas_eve-p5",
+     "type": "sentence",
+     "en": "The cards.",
+     "zh": "那些贺卡。",
+     "audio": "audio/all/4036_the_cards.mp3",
+     "slow": "audio/all/4036_the_cards.mp3",
+     "image": "img/raz-aa-christmas_eve-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_christmas_eve-p6",
+     "type": "sentence",
+     "en": "The presents.",
+     "zh": "那些礼物。",
+     "audio": "audio/all/4037_the_presents.mp3",
+     "slow": "audio/all/4037_the_presents.mp3",
+     "image": "img/raz-aa-christmas_eve-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_christmas_eve-p7",
+     "type": "sentence",
+     "en": "The stockings.",
+     "zh": "那些圣诞袜。",
+     "audio": "audio/all/4038_the_stockings.mp3",
+     "slow": "audio/all/4038_the_stockings.mp3",
+     "image": "img/raz-aa-christmas_eve-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_christmas_eve-p8",
+     "type": "sentence",
+     "en": "The cookies.",
+     "zh": "那些饼干。",
+     "audio": "audio/all/4039_the_cookies.mp3",
+     "slow": "audio/all/4039_the_cookies.mp3",
+     "image": "img/raz-aa-christmas_eve-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

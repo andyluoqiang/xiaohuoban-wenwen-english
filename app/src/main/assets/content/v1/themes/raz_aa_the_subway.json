@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_subway",
+ "nameZh": "地铁",
+ "bookTitle": "The Subway",
+ "razLevel": "aa",
+ "order": 72,
+ "cover": "img/raz-aa-the_subway-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_subway-u1",
+   "band": 2,
+   "title": "The Subway · 地铁",
+   "cards": [
+    {
+     "id": "raz_aa_the_subway-p1",
+     "type": "sentence",
+     "en": "The stairs.",
+     "zh": "那些台阶。",
+     "audio": "audio/all/4562_the_stairs.mp3",
+     "slow": "audio/all/4562_the_stairs.mp3",
+     "image": "img/raz-aa-the_subway-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_subway-p2",
+     "type": "sentence",
+     "en": "The ticket.",
+     "zh": "那张车票。",
+     "audio": "audio/all/4563_the_ticket.mp3",
+     "slow": "audio/all/4563_the_ticket.mp3",
+     "image": "img/raz-aa-the_subway-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_subway-p3",
+     "type": "sentence",
+     "en": "The gate.",
+     "zh": "那道闸机。",
+     "audio": "audio/all/4564_the_gate.mp3",
+     "slow": "audio/all/4564_the_gate.mp3",
+     "image": "img/raz-aa-the_subway-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_subway-p4",
+     "type": "sentence",
+     "en": "The people.",
+     "zh": "那些人。",
+     "audio": "audio/all/4565_the_people.mp3",
+     "slow": "audio/all/4565_the_people.mp3",
+     "image": "img/raz-aa-the_subway-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_subway-p5",
+     "type": "sentence",
+     "en": "The time.",
+     "zh": "那个时间。",
+     "audio": "audio/all/4566_the_time.mp3",
+     "slow": "audio/all/4566_the_time.mp3",
+     "image": "img/raz-aa-the_subway-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_subway-p6",
+     "type": "sentence",
+     "en": "The tunnel.",
+     "zh": "那条隧道。",
+     "audio": "audio/all/4567_the_tunnel.mp3",
+     "slow": "audio/all/4567_the_tunnel.mp3",
+     "image": "img/raz-aa-the_subway-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_subway-p7",
+     "type": "sentence",
+     "en": "The doors.",
+     "zh": "那些车门。",
+     "audio": "audio/all/4568_the_doors.mp3",
+     "slow": "audio/all/4568_the_doors.mp3",
+     "image": "img/raz-aa-the_subway-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_subway-p8",
+     "type": "sentence",
+     "en": "The subway.",
+     "zh": "那趟地铁。",
+     "audio": "audio/all/4569_the_subway.mp3",
+     "slow": "audio/all/4569_the_subway.mp3",
+     "image": "img/raz-aa-the_subway-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

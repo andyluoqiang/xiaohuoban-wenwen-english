@@ -8,27 +8,540 @@
    "status": "ready",
    "books": [
     {
-     "themeId": "raz_aa_colors",
-     "title": "I Like Colors",
-     "nameZh": "我喜欢颜色",
-     "officialMeta": null,
+     "themeId": "raz_aa_at_the_lake",
+     "title": "At the Lake",
+     "nameZh": "在湖边",
      "order": 1
+    },
+    {
+     "themeId": "raz_aa_big",
+     "title": "Big",
+     "nameZh": "大",
+     "order": 2
+    },
+    {
+     "themeId": "raz_aa_black",
+     "title": "Black",
+     "nameZh": "黑色",
+     "order": 3
+    },
+    {
+     "themeId": "raz_aa_blue",
+     "title": "Blue",
+     "nameZh": "蓝色",
+     "order": 4
+    },
+    {
+     "themeId": "raz_aa_christmas_eve",
+     "title": "Christmas Eve",
+     "nameZh": "平安夜",
+     "order": 5
+    },
+    {
+     "themeId": "raz_aa_city_street",
+     "title": "City Street",
+     "nameZh": "城市街道",
+     "order": 6
+    },
+    {
+     "themeId": "raz_aa_colorful_eggs",
+     "title": "Colorful Eggs",
+     "nameZh": "彩色蛋",
+     "order": 7
+    },
+    {
+     "themeId": "raz_aa_counting_bugs",
+     "title": "Counting Bugs",
+     "nameZh": "数虫子",
+     "order": 8
+    },
+    {
+     "themeId": "raz_aa_counting_letters",
+     "title": "Counting Letters",
+     "nameZh": "数字母",
+     "order": 9
+    },
+    {
+     "themeId": "raz_aa_eight",
+     "title": "Eight",
+     "nameZh": "八",
+     "order": 10
+    },
+    {
+     "themeId": "raz_aa_eleven",
+     "title": "Eleven",
+     "nameZh": "十一",
+     "order": 11
+    },
+    {
+     "themeId": "raz_aa_farm_animals",
+     "title": "Farm Animals",
+     "nameZh": "农场动物",
+     "order": 12
+    },
+    {
+     "themeId": "raz_aa_fido_gets_dressed",
+     "title": "Fido Gets Dressed",
+     "nameZh": "菲菲穿衣服",
+     "order": 13
+    },
+    {
+     "themeId": "raz_aa_five",
+     "title": "Five",
+     "nameZh": "五",
+     "order": 14
+    },
+    {
+     "themeId": "raz_aa_four",
+     "title": "Four",
+     "nameZh": "四",
+     "order": 15
+    },
+    {
+     "themeId": "raz_aa_go_go_go",
+     "title": "Go, Go, Go",
+     "nameZh": "走走走",
+     "order": 16
+    },
+    {
+     "themeId": "raz_aa_good_night",
+     "title": "Good Night",
+     "nameZh": "晚安",
+     "order": 17
+    },
+    {
+     "themeId": "raz_aa_green",
+     "title": "Green",
+     "nameZh": "绿色",
+     "order": 18
+    },
+    {
+     "themeId": "raz_aa_in",
+     "title": "In",
+     "nameZh": "在里面",
+     "order": 19
+    },
+    {
+     "themeId": "raz_aa_it_is_fall",
+     "title": "It Is Fall",
+     "nameZh": "秋天到了",
+     "order": 20
+    },
+    {
+     "themeId": "raz_aa_jump_over",
+     "title": "Jump Over",
+     "nameZh": "跳过去",
+     "order": 21
+    },
+    {
+     "themeId": "raz_aa_little",
+     "title": "Little",
+     "nameZh": "小",
+     "order": 22
+    },
+    {
+     "themeId": "raz_aa_lunch_at_school",
+     "title": "Lunch at School",
+     "nameZh": "学校午餐",
+     "order": 23
+    },
+    {
+     "themeId": "raz_aa_my_bath",
+     "title": "My Bath",
+     "nameZh": "我的洗澡时间",
+     "order": 24
+    },
+    {
+     "themeId": "raz_aa_my_closet",
+     "title": "My Closet",
+     "nameZh": "我的衣柜",
+     "order": 25
+    },
+    {
+     "themeId": "raz_aa_my_easter",
+     "title": "My Easter",
+     "nameZh": "我的复活节",
+     "order": 26
+    },
+    {
+     "themeId": "raz_aa_my_family",
+     "title": "My Family",
+     "nameZh": "我的家人",
+     "order": 27
+    },
+    {
+     "themeId": "raz_aa_my_garden",
+     "title": "My Garden",
+     "nameZh": "我的花园",
+     "order": 28
+    },
+    {
+     "themeId": "raz_aa_my_gift_for_mom",
+     "title": "My Gift for Mom",
+     "nameZh": "给妈妈的礼物",
+     "order": 29
+    },
+    {
+     "themeId": "raz_aa_my_hanukkah",
+     "title": "My Hanukkah",
+     "nameZh": "我的光明节",
+     "order": 30
+    },
+    {
+     "themeId": "raz_aa_my_school_bus",
+     "title": "My School Bus",
+     "nameZh": "我的校车",
+     "order": 31
+    },
+    {
+     "themeId": "raz_aa_one_insect",
+     "title": "One Insect",
+     "nameZh": "一只昆虫",
+     "order": 32
+    },
+    {
+     "themeId": "raz_aa_nine",
+     "title": "Nine",
+     "nameZh": "九",
+     "order": 33
+    },
+    {
+     "themeId": "raz_aa_off",
+     "title": "Off",
+     "nameZh": "下来",
+     "order": 34
+    },
+    {
+     "themeId": "raz_aa_on",
+     "title": "On",
+     "nameZh": "在上面",
+     "order": 35
+    },
+    {
+     "themeId": "raz_aa_one",
+     "title": "One",
+     "nameZh": "一",
+     "order": 36
+    },
+    {
+     "themeId": "raz_aa_orange",
+     "title": "Orange",
+     "nameZh": "橙色",
+     "order": 37
+    },
+    {
+     "themeId": "raz_aa_out",
+     "title": "Out",
+     "nameZh": "出来",
+     "order": 38
+    },
+    {
+     "themeId": "raz_aa_over",
+     "title": "Over",
+     "nameZh": "越过",
+     "order": 39
+    },
+    {
+     "themeId": "raz_aa_pasta",
+     "title": "Pasta!",
+     "nameZh": "意大利面",
+     "order": 40
+    },
+    {
+     "themeId": "raz_aa_pets",
+     "title": "Pets",
+     "nameZh": "宠物",
+     "order": 41
+    },
+    {
+     "themeId": "raz_aa_picking_apples",
+     "title": "Picking Apples",
+     "nameZh": "摘苹果",
+     "order": 42
+    },
+    {
+     "themeId": "raz_aa_plains_animals",
+     "title": "Plains Animals",
+     "nameZh": "平原动物",
+     "order": 43
+    },
+    {
+     "themeId": "raz_aa_play_ball",
+     "title": "Play Ball!",
+     "nameZh": "玩球",
+     "order": 44
+    },
+    {
+     "themeId": "raz_aa_purple",
+     "title": "Purple",
+     "nameZh": "紫色",
+     "order": 45
+    },
+    {
+     "themeId": "raz_aa_rainforest_animals",
+     "title": "Rainforest Animals",
+     "nameZh": "雨林动物",
+     "order": 46
+    },
+    {
+     "themeId": "raz_aa_red",
+     "title": "Red",
+     "nameZh": "红色",
+     "order": 47
+    },
+    {
+     "themeId": "raz_aa_seven",
+     "title": "Seven",
+     "nameZh": "七",
+     "order": 48
+    },
+    {
+     "themeId": "raz_aa_show_some_love",
+     "title": "Show Some Love",
+     "nameZh": "表达爱意",
+     "order": 49
+    },
+    {
+     "themeId": "raz_aa_six",
+     "title": "Six",
+     "nameZh": "六",
+     "order": 50
+    },
+    {
+     "themeId": "raz_aa_spring",
+     "title": "Spring",
+     "nameZh": "春天",
+     "order": 51
+    },
+    {
+     "themeId": "raz_aa_summer",
+     "title": "Summer",
+     "nameZh": "夏天",
+     "order": 52
+    },
+    {
+     "themeId": "raz_aa_summer_camp",
+     "title": "Summer Camp",
+     "nameZh": "夏令营",
+     "order": 53
+    },
+    {
+     "themeId": "raz_aa_summer_picnics",
+     "title": "Summer Picnics",
+     "nameZh": "夏日野餐",
+     "order": 54
+    },
+    {
+     "themeId": "raz_aa_ten",
+     "title": "Ten",
+     "nameZh": "十",
+     "order": 55
+    },
+    {
+     "themeId": "raz_aa_the_backyard",
+     "title": "The Backyard",
+     "nameZh": "后院",
+     "order": 56
+    },
+    {
+     "themeId": "raz_aa_the_baseball_game",
+     "title": "The Baseball Game",
+     "nameZh": "棒球比赛",
+     "order": 57
+    },
+    {
+     "themeId": "raz_aa_the_birthday_party",
+     "title": "The Birthday Party",
+     "nameZh": "生日聚会",
+     "order": 58
+    },
+    {
+     "themeId": "raz_aa_the_book",
+     "title": "The Book",
+     "nameZh": "书",
+     "order": 59
+    },
+    {
+     "themeId": "raz_aa_the_chicken",
+     "title": "The Chicken",
+     "nameZh": "母鸡",
+     "order": 60
+    },
+    {
+     "themeId": "raz_aa_the_city",
+     "title": "The City",
+     "nameZh": "城市",
+     "order": 61
+    },
+    {
+     "themeId": "raz_aa_the_classroom",
+     "title": "The Classroom",
+     "nameZh": "教室",
+     "order": 62
+    },
+    {
+     "themeId": "raz_aa_the_coast",
+     "title": "The Coast",
+     "nameZh": "海岸",
+     "order": 63
+    },
+    {
+     "themeId": "raz_aa_the_fort",
+     "title": "The Fort",
+     "nameZh": "秘密基地",
+     "order": 64
+    },
+    {
+     "themeId": "raz_aa_the_garden",
+     "title": "The Garden",
+     "nameZh": "菜园",
+     "order": 65
+    },
+    {
+     "themeId": "raz_aa_the_ocean",
+     "title": "The Ocean",
+     "nameZh": "海洋",
+     "order": 66
+    },
+    {
+     "themeId": "raz_aa_the_plant",
+     "title": "The Plant",
+     "nameZh": "植物",
+     "order": 67
+    },
+    {
+     "themeId": "raz_aa_the_playground",
+     "title": "The Playground",
+     "nameZh": "游乐场",
+     "order": 68
+    },
+    {
+     "themeId": "raz_aa_the_school",
+     "title": "The School",
+     "nameZh": "学校",
+     "order": 69
+    },
+    {
+     "themeId": "raz_aa_the_street",
+     "title": "The Street",
+     "nameZh": "街道",
+     "order": 70
+    },
+    {
+     "themeId": "raz_aa_the_subway",
+     "title": "The Subway",
+     "nameZh": "地铁",
+     "order": 71
+    },
+    {
+     "themeId": "raz_aa_the_supermarket",
+     "title": "The Supermarket",
+     "nameZh": "超市",
+     "order": 72
+    },
+    {
+     "themeId": "raz_aa_the_trip",
+     "title": "The Trip",
+     "nameZh": "旅行",
+     "order": 73
+    },
+    {
+     "themeId": "raz_aa_these_birds",
+     "title": "These Birds",
+     "nameZh": "这些鸟",
+     "order": 74
+    },
+    {
+     "themeId": "raz_aa_this_kitchen",
+     "title": "This Kitchen",
+     "nameZh": "这个厨房",
+     "order": 75
+    },
+    {
+     "themeId": "raz_aa_three",
+     "title": "Three",
+     "nameZh": "三",
+     "order": 76
+    },
+    {
+     "themeId": "raz_aa_too_many_sweets",
+     "title": "Too Many Sweets",
+     "nameZh": "太多甜食",
+     "order": 77
+    },
+    {
+     "themeId": "raz_aa_toys",
+     "title": "Toys",
+     "nameZh": "玩具",
+     "order": 78
+    },
+    {
+     "themeId": "raz_aa_twelve",
+     "title": "Twelve",
+     "nameZh": "十二",
+     "order": 79
+    },
+    {
+     "themeId": "raz_aa_two",
+     "title": "Two",
+     "nameZh": "二",
+     "order": 80
+    },
+    {
+     "themeId": "raz_aa_under",
+     "title": "Under",
+     "nameZh": "在下面",
+     "order": 81
+    },
+    {
+     "themeId": "raz_aa_valentines_day_gifts",
+     "title": "Valentine's Day Gifts",
+     "nameZh": "情人节礼物",
+     "order": 82
+    },
+    {
+     "themeId": "raz_aa_water",
+     "title": "Water",
+     "nameZh": "水",
+     "order": 83
+    },
+    {
+     "themeId": "raz_aa_we_build",
+     "title": "We Build",
+     "nameZh": "我们来建造",
+     "order": 84
+    },
+    {
+     "themeId": "raz_aa_we_go_camping",
+     "title": "We Go Camping",
+     "nameZh": "我们去露营",
+     "order": 85
+    },
+    {
+     "themeId": "raz_aa_white",
+     "title": "White",
+     "nameZh": "白色",
+     "order": 86
+    },
+    {
+     "themeId": "raz_aa_winter",
+     "title": "Winter",
+     "nameZh": "冬天",
+     "order": 87
+    },
+    {
+     "themeId": "raz_aa_yellow",
+     "title": "Yellow",
+     "nameZh": "黄色",
+     "order": 88
     }
    ]
   },
   {
    "level": "A",
    "desc": "完整短句 · 起步",
-   "status": "ready",
-   "books": [
-    {
-     "themeId": "raz_a_apples",
-     "title": "How Many Apples?",
-     "nameZh": "数数苹果",
-     "officialMeta": null,
-     "order": 1
-    }
-   ]
+   "status": "empty",
+   "books": []
   },
   {
    "level": "B",

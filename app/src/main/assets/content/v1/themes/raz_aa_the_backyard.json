@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_backyard",
+ "nameZh": "后院",
+ "bookTitle": "The Backyard",
+ "razLevel": "aa",
+ "order": 57,
+ "cover": "img/raz-aa-the_backyard-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_backyard-u1",
+   "band": 2,
+   "title": "The Backyard · 后院",
+   "cards": [
+    {
+     "id": "raz_aa_the_backyard-p1",
+     "type": "sentence",
+     "en": "The fence.",
+     "zh": "那个栅栏。",
+     "audio": "audio/all/4442_the_fence.mp3",
+     "slow": "audio/all/4442_the_fence.mp3",
+     "image": "img/raz-aa-the_backyard-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_backyard-p2",
+     "type": "sentence",
+     "en": "The dog.",
+     "zh": "那只狗。",
+     "audio": "audio/all/4443_the_dog.mp3",
+     "slow": "audio/all/4443_the_dog.mp3",
+     "image": "img/raz-aa-the_backyard-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_backyard-p3",
+     "type": "sentence",
+     "en": "The swing.",
+     "zh": "那个秋千。",
+     "audio": "audio/all/4444_the_swing.mp3",
+     "slow": "audio/all/4444_the_swing.mp3",
+     "image": "img/raz-aa-the_backyard-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_backyard-p4",
+     "type": "sentence",
+     "en": "The ball.",
+     "zh": "那个球。",
+     "audio": "audio/all/4445_the_ball.mp3",
+     "slow": "audio/all/4445_the_ball.mp3",
+     "image": "img/raz-aa-the_backyard-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_backyard-p5",
+     "type": "sentence",
+     "en": "The flowers.",
+     "zh": "那些花。",
+     "audio": "audio/all/4446_the_flowers.mp3",
+     "slow": "audio/all/4446_the_flowers.mp3",
+     "image": "img/raz-aa-the_backyard-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_backyard-p6",
+     "type": "sentence",
+     "en": "The tree.",
+     "zh": "那棵树。",
+     "audio": "audio/all/4447_the_tree.mp3",
+     "slow": "audio/all/4447_the_tree.mp3",
+     "image": "img/raz-aa-the_backyard-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_backyard-p7",
+     "type": "sentence",
+     "en": "The hose.",
+     "zh": "那根水管。",
+     "audio": "audio/all/4448_the_hose.mp3",
+     "slow": "audio/all/4448_the_hose.mp3",
+     "image": "img/raz-aa-the_backyard-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_backyard-p8",
+     "type": "sentence",
+     "en": "The backyard.",
+     "zh": "那个后院。",
+     "audio": "audio/all/4449_the_backyard.mp3",
+     "slow": "audio/all/4449_the_backyard.mp3",
+     "image": "img/raz-aa-the_backyard-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

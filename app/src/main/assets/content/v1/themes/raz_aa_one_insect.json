@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_one_insect",
+ "nameZh": "一只昆虫",
+ "bookTitle": "One Insect",
+ "razLevel": "aa",
+ "order": 33,
+ "cover": "img/raz-aa-one_insect-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_one_insect-u1",
+   "band": 2,
+   "title": "One Insect · 一只昆虫",
+   "cards": [
+    {
+     "id": "raz_aa_one_insect-p1",
+     "type": "sentence",
+     "en": "The head.",
+     "zh": "那个头。",
+     "audio": "audio/all/4250_the_head.mp3",
+     "slow": "audio/all/4250_the_head.mp3",
+     "image": "img/raz-aa-one_insect-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_one_insect-p2",
+     "type": "sentence",
+     "en": "The body.",
+     "zh": "那个身体。",
+     "audio": "audio/all/4251_the_body.mp3",
+     "slow": "audio/all/4251_the_body.mp3",
+     "image": "img/raz-aa-one_insect-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_one_insect-p3",
+     "type": "sentence",
+     "en": "One leg.",
+     "zh": "一条腿。",
+     "audio": "audio/all/4252_one_leg.mp3",
+     "slow": "audio/all/4252_one_leg.mp3",
+     "image": "img/raz-aa-one_insect-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_one_insect-p4",
+     "type": "sentence",
+     "en": "Two legs.",
+     "zh": "两条腿。",
+     "audio": "audio/all/4253_two_legs.mp3",
+     "slow": "audio/all/4253_two_legs.mp3",
+     "image": "img/raz-aa-one_insect-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_one_insect-p5",
+     "type": "sentence",
+     "en": "Three legs.",
+     "zh": "三条腿。",
+     "audio": "audio/all/4254_three_legs.mp3",
+     "slow": "audio/all/4254_three_legs.mp3",
+     "image": "img/raz-aa-one_insect-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_one_insect-p6",
+     "type": "sentence",
+     "en": "Four legs.",
+     "zh": "四条腿。",
+     "audio": "audio/all/4255_four_legs.mp3",
+     "slow": "audio/all/4255_four_legs.mp3",
+     "image": "img/raz-aa-one_insect-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_one_insect-p7",
+     "type": "sentence",
+     "en": "Five legs.",
+     "zh": "五条腿。",
+     "audio": "audio/all/4256_five_legs.mp3",
+     "slow": "audio/all/4256_five_legs.mp3",
+     "image": "img/raz-aa-one_insect-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_one_insect-p8",
+     "type": "sentence",
+     "en": "Six legs.",
+     "zh": "六条腿。",
+     "audio": "audio/all/4257_six_legs.mp3",
+     "slow": "audio/all/4257_six_legs.mp3",
+     "image": "img/raz-aa-one_insect-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

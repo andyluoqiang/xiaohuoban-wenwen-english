@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_good_night",
+ "nameZh": "晚安",
+ "bookTitle": "Good Night",
+ "razLevel": "aa",
+ "order": 18,
+ "cover": "img/raz-aa-good_night-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_good_night-u1",
+   "band": 2,
+   "title": "Good Night · 晚安",
+   "cards": [
+    {
+     "id": "raz_aa_good_night-p1",
+     "type": "sentence",
+     "en": "The story.",
+     "zh": "那个故事。",
+     "audio": "audio/all/4130_the_story.mp3",
+     "slow": "audio/all/4130_the_story.mp3",
+     "image": "img/raz-aa-good_night-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_good_night-p2",
+     "type": "sentence",
+     "en": "The bed.",
+     "zh": "那张床。",
+     "audio": "audio/all/4131_the_bed.mp3",
+     "slow": "audio/all/4131_the_bed.mp3",
+     "image": "img/raz-aa-good_night-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_good_night-p3",
+     "type": "sentence",
+     "en": "The pillow.",
+     "zh": "那个枕头。",
+     "audio": "audio/all/4132_the_pillow.mp3",
+     "slow": "audio/all/4132_the_pillow.mp3",
+     "image": "img/raz-aa-good_night-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_good_night-p4",
+     "type": "sentence",
+     "en": "The bear.",
+     "zh": "那只熊。",
+     "audio": "audio/all/4133_the_bear.mp3",
+     "slow": "audio/all/4133_the_bear.mp3",
+     "image": "img/raz-aa-good_night-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_good_night-p5",
+     "type": "sentence",
+     "en": "The blanket.",
+     "zh": "那条毯子。",
+     "audio": "audio/all/4134_the_blanket.mp3",
+     "slow": "audio/all/4134_the_blanket.mp3",
+     "image": "img/raz-aa-good_night-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_good_night-p6",
+     "type": "sentence",
+     "en": "The kiss.",
+     "zh": "那个晚安吻。",
+     "audio": "audio/all/4135_the_kiss.mp3",
+     "slow": "audio/all/4135_the_kiss.mp3",
+     "image": "img/raz-aa-good_night-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_good_night-p7",
+     "type": "sentence",
+     "en": "The Moon.",
+     "zh": "那个月亮。",
+     "audio": "audio/all/4136_the_moon.mp3",
+     "slow": "audio/all/4136_the_moon.mp3",
+     "image": "img/raz-aa-good_night-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_good_night-p8",
+     "type": "sentence",
+     "en": "The dream.",
+     "zh": "那个梦。",
+     "audio": "audio/all/4137_the_dream.mp3",
+     "slow": "audio/all/4137_the_dream.mp3",
+     "image": "img/raz-aa-good_night-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

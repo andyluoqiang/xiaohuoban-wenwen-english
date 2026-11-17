@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_summer_camp",
+ "nameZh": "夏令营",
+ "bookTitle": "Summer Camp",
+ "razLevel": "aa",
+ "order": 54,
+ "cover": "img/raz-aa-summer_camp-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_summer_camp-u1",
+   "band": 2,
+   "title": "Summer Camp · 夏令营",
+   "cards": [
+    {
+     "id": "raz_aa_summer_camp-p1",
+     "type": "sentence",
+     "en": "The bus.",
+     "zh": "那辆巴士。",
+     "audio": "audio/all/4418_the_bus.mp3",
+     "slow": "audio/all/4418_the_bus.mp3",
+     "image": "img/raz-aa-summer_camp-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_summer_camp-p2",
+     "type": "sentence",
+     "en": "The kids.",
+     "zh": "那些孩子。",
+     "audio": "audio/all/4419_the_kids.mp3",
+     "slow": "audio/all/4419_the_kids.mp3",
+     "image": "img/raz-aa-summer_camp-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_summer_camp-p3",
+     "type": "sentence",
+     "en": "The games.",
+     "zh": "那些游戏。",
+     "audio": "audio/all/4420_the_games.mp3",
+     "slow": "audio/all/4420_the_games.mp3",
+     "image": "img/raz-aa-summer_camp-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_summer_camp-p4",
+     "type": "sentence",
+     "en": "The art.",
+     "zh": "那些美术作品。",
+     "audio": "audio/all/4421_the_art.mp3",
+     "slow": "audio/all/4421_the_art.mp3",
+     "image": "img/raz-aa-summer_camp-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_summer_camp-p5",
+     "type": "sentence",
+     "en": "The lunch.",
+     "zh": "那顿午餐。",
+     "audio": "audio/all/4422_the_lunch.mp3",
+     "slow": "audio/all/4422_the_lunch.mp3",
+     "image": "img/raz-aa-summer_camp-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_summer_camp-p6",
+     "type": "sentence",
+     "en": "The lake.",
+     "zh": "那个湖。",
+     "audio": "audio/all/4423_the_lake.mp3",
+     "slow": "audio/all/4423_the_lake.mp3",
+     "image": "img/raz-aa-summer_camp-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_summer_camp-p7",
+     "type": "sentence",
+     "en": "The songs.",
+     "zh": "那些歌。",
+     "audio": "audio/all/4424_the_songs.mp3",
+     "slow": "audio/all/4424_the_songs.mp3",
+     "image": "img/raz-aa-summer_camp-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_summer_camp-p8",
+     "type": "sentence",
+     "en": "The camp.",
+     "zh": "那个营地。",
+     "audio": "audio/all/4425_the_camp.mp3",
+     "slow": "audio/all/4425_the_camp.mp3",
+     "image": "img/raz-aa-summer_camp-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

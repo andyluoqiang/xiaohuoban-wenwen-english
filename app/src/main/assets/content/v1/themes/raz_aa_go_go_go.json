@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_go_go_go",
+ "nameZh": "走走走",
+ "bookTitle": "Go, Go, Go",
+ "razLevel": "aa",
+ "order": 17,
+ "cover": "img/raz-aa-go_go_go-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_go_go_go-u1",
+   "band": 2,
+   "title": "Go, Go, Go · 走走走",
+   "cards": [
+    {
+     "id": "raz_aa_go_go_go-p1",
+     "type": "sentence",
+     "en": "The dogs go.",
+     "zh": "狗走喽。",
+     "audio": "audio/all/4122_the_dogs_go.mp3",
+     "slow": "audio/all/4122_the_dogs_go.mp3",
+     "image": "img/raz-aa-go_go_go-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_go_go_go-p2",
+     "type": "sentence",
+     "en": "The pigs go.",
+     "zh": "猪走喽。",
+     "audio": "audio/all/4123_the_pigs_go.mp3",
+     "slow": "audio/all/4123_the_pigs_go.mp3",
+     "image": "img/raz-aa-go_go_go-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_go_go_go-p3",
+     "type": "sentence",
+     "en": "The birds go.",
+     "zh": "鸟走喽。",
+     "audio": "audio/all/4124_the_birds_go.mp3",
+     "slow": "audio/all/4124_the_birds_go.mp3",
+     "image": "img/raz-aa-go_go_go-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_go_go_go-p4",
+     "type": "sentence",
+     "en": "The cats go.",
+     "zh": "猫走喽。",
+     "audio": "audio/all/4125_the_cats_go.mp3",
+     "slow": "audio/all/4125_the_cats_go.mp3",
+     "image": "img/raz-aa-go_go_go-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_go_go_go-p5",
+     "type": "sentence",
+     "en": "The goats go.",
+     "zh": "山羊走喽。",
+     "audio": "audio/all/4126_the_goats_go.mp3",
+     "slow": "audio/all/4126_the_goats_go.mp3",
+     "image": "img/raz-aa-go_go_go-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_go_go_go-p6",
+     "type": "sentence",
+     "en": "The cows go.",
+     "zh": "牛走喽。",
+     "audio": "audio/all/4127_the_cows_go.mp3",
+     "slow": "audio/all/4127_the_cows_go.mp3",
+     "image": "img/raz-aa-go_go_go-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_go_go_go-p7",
+     "type": "sentence",
+     "en": "The ducks go.",
+     "zh": "鸭子走喽。",
+     "audio": "audio/all/4128_the_ducks_go.mp3",
+     "slow": "audio/all/4128_the_ducks_go.mp3",
+     "image": "img/raz-aa-go_go_go-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_go_go_go-p8",
+     "type": "sentence",
+     "en": "The animals go.",
+     "zh": "动物们走喽。",
+     "audio": "audio/all/4129_the_animals_go.mp3",
+     "slow": "audio/all/4129_the_animals_go.mp3",
+     "image": "img/raz-aa-go_go_go-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

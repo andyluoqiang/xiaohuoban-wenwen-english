@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_plains_animals",
+ "nameZh": "平原动物",
+ "bookTitle": "Plains Animals",
+ "razLevel": "aa",
+ "order": 44,
+ "cover": "img/raz-aa-plains_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_plains_animals-u1",
+   "band": 2,
+   "title": "Plains Animals · 平原动物",
+   "cards": [
+    {
+     "id": "raz_aa_plains_animals-p1",
+     "type": "sentence",
+     "en": "The fox.",
+     "zh": "那只狐狸。",
+     "audio": "audio/all/4338_the_fox.mp3",
+     "slow": "audio/all/4338_the_fox.mp3",
+     "image": "img/raz-aa-plains_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_plains_animals-p2",
+     "type": "sentence",
+     "en": "The elephant.",
+     "zh": "那头大象。",
+     "audio": "audio/all/4339_the_elephant.mp3",
+     "slow": "audio/all/4339_the_elephant.mp3",
+     "image": "img/raz-aa-plains_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_plains_animals-p3",
+     "type": "sentence",
+     "en": "The giraffe.",
+     "zh": "那只长颈鹿。",
+     "audio": "audio/all/4340_the_giraffe.mp3",
+     "slow": "audio/all/4340_the_giraffe.mp3",
+     "image": "img/raz-aa-plains_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_plains_animals-p4",
+     "type": "sentence",
+     "en": "The lion.",
+     "zh": "那头狮子。",
+     "audio": "audio/all/4341_the_lion.mp3",
+     "slow": "audio/all/4341_the_lion.mp3",
+     "image": "img/raz-aa-plains_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_plains_animals-p5",
+     "type": "sentence",
+     "en": "The zebra.",
+     "zh": "那匹斑马。",
+     "audio": "audio/all/4342_the_zebra.mp3",
+     "slow": "audio/all/4342_the_zebra.mp3",
+     "image": "img/raz-aa-plains_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_plains_animals-p6",
+     "type": "sentence",
+     "en": "The ostrich.",
+     "zh": "那只鸵鸟。",
+     "audio": "audio/all/4343_the_ostrich.mp3",
+     "slow": "audio/all/4343_the_ostrich.mp3",
+     "image": "img/raz-aa-plains_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_plains_animals-p7",
+     "type": "sentence",
+     "en": "The crocodile.",
+     "zh": "那条鳄鱼。",
+     "audio": "audio/all/4344_the_crocodile.mp3",
+     "slow": "audio/all/4344_the_crocodile.mp3",
+     "image": "img/raz-aa-plains_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_plains_animals-p8",
+     "type": "sentence",
+     "en": "The plains.",
+     "zh": "那片平原。",
+     "audio": "audio/all/4345_the_plains.mp3",
+     "slow": "audio/all/4345_the_plains.mp3",
+     "image": "img/raz-aa-plains_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

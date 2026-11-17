@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_my_gift_for_mom",
+ "nameZh": "给妈妈的礼物",
+ "bookTitle": "My Gift for Mom",
+ "razLevel": "aa",
+ "order": 30,
+ "cover": "img/raz-aa-my_gift_for_mom-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_my_gift_for_mom-u1",
+   "band": 2,
+   "title": "My Gift for Mom · 给妈妈的礼物",
+   "cards": [
+    {
+     "id": "raz_aa_my_gift_for_mom-p1",
+     "type": "sentence",
+     "en": "The day.",
+     "zh": "那一天。",
+     "audio": "audio/all/4226_the_day.mp3",
+     "slow": "audio/all/4226_the_day.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p2",
+     "type": "sentence",
+     "en": "The bowl.",
+     "zh": "那个碗。",
+     "audio": "audio/all/4227_the_bowl.mp3",
+     "slow": "audio/all/4227_the_bowl.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p3",
+     "type": "sentence",
+     "en": "The box.",
+     "zh": "那个盒子。",
+     "audio": "audio/all/4228_the_box.mp3",
+     "slow": "audio/all/4228_the_box.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p4",
+     "type": "sentence",
+     "en": "The paper.",
+     "zh": "那张纸。",
+     "audio": "audio/all/4229_the_paper.mp3",
+     "slow": "audio/all/4229_the_paper.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p5",
+     "type": "sentence",
+     "en": "The bow.",
+     "zh": "那个蝴蝶结。",
+     "audio": "audio/all/4230_the_bow.mp3",
+     "slow": "audio/all/4230_the_bow.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p6",
+     "type": "sentence",
+     "en": "The gift.",
+     "zh": "那份礼物。",
+     "audio": "audio/all/4231_the_gift.mp3",
+     "slow": "audio/all/4231_the_gift.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p7",
+     "type": "sentence",
+     "en": "The smile.",
+     "zh": "那个微笑。",
+     "audio": "audio/all/4232_the_smile.mp3",
+     "slow": "audio/all/4232_the_smile.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_my_gift_for_mom-p8",
+     "type": "sentence",
+     "en": "The hug.",
+     "zh": "那个拥抱。",
+     "audio": "audio/all/4233_the_hug.mp3",
+     "slow": "audio/all/4233_the_hug.mp3",
+     "image": "img/raz-aa-my_gift_for_mom-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

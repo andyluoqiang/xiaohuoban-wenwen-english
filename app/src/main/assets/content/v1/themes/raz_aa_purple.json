@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_purple",
+ "nameZh": "紫色",
+ "bookTitle": "Purple",
+ "razLevel": "aa",
+ "order": 46,
+ "cover": "img/raz-aa-purple-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_purple-u1",
+   "band": 2,
+   "title": "Purple · 紫色",
+   "cards": [
+    {
+     "id": "raz_aa_purple-p1",
+     "type": "sentence",
+     "en": "A purple shirt.",
+     "zh": "一件紫衬衫。",
+     "audio": "audio/all/4354_a_purple_shirt.mp3",
+     "slow": "audio/all/4354_a_purple_shirt.mp3",
+     "image": "img/raz-aa-purple-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_purple-p2",
+     "type": "sentence",
+     "en": "A purple hat.",
+     "zh": "一顶紫帽子。",
+     "audio": "audio/all/4355_a_purple_hat.mp3",
+     "slow": "audio/all/4355_a_purple_hat.mp3",
+     "image": "img/raz-aa-purple-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_purple-p3",
+     "type": "sentence",
+     "en": "A purple flip-flop.",
+     "zh": "一只紫人字拖。",
+     "audio": "audio/all/4356_a_purple_flip_flop.mp3",
+     "slow": "audio/all/4356_a_purple_flip_flop.mp3",
+     "image": "img/raz-aa-purple-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_purple-p4",
+     "type": "sentence",
+     "en": "A purple ball.",
+     "zh": "一个紫球。",
+     "audio": "audio/all/4357_a_purple_ball.mp3",
+     "slow": "audio/all/4357_a_purple_ball.mp3",
+     "image": "img/raz-aa-purple-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_purple-p5",
+     "type": "sentence",
+     "en": "A purple towel.",
+     "zh": "一条紫毛巾。",
+     "audio": "audio/all/4358_a_purple_towel.mp3",
+     "slow": "audio/all/4358_a_purple_towel.mp3",
+     "image": "img/raz-aa-purple-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_purple-p6",
+     "type": "sentence",
+     "en": "A purple backpack.",
+     "zh": "一个紫书包。",
+     "audio": "audio/all/4359_a_purple_backpack.mp3",
+     "slow": "audio/all/4359_a_purple_backpack.mp3",
+     "image": "img/raz-aa-purple-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_purple-p7",
+     "type": "sentence",
+     "en": "A purple bucket.",
+     "zh": "一个紫桶。",
+     "audio": "audio/all/4360_a_purple_bucket.mp3",
+     "slow": "audio/all/4360_a_purple_bucket.mp3",
+     "image": "img/raz-aa-purple-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_purple-p8",
+     "type": "sentence",
+     "en": "A purple ice pop.",
+     "zh": "一根紫冰棍。",
+     "audio": "audio/all/4361_a_purple_ice_pop.mp3",
+     "slow": "audio/all/4361_a_purple_ice_pop.mp3",
+     "image": "img/raz-aa-purple-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

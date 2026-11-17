@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_winter",
+ "nameZh": "冬天",
+ "bookTitle": "Winter",
+ "razLevel": "aa",
+ "order": 88,
+ "cover": "img/raz-aa-winter-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_winter-u1",
+   "band": 2,
+   "title": "Winter · 冬天",
+   "cards": [
+    {
+     "id": "raz_aa_winter-p1",
+     "type": "sentence",
+     "en": "The snow.",
+     "zh": "那些雪。",
+     "audio": "audio/all/4690_the_snow.mp3",
+     "slow": "audio/all/4690_the_snow.mp3",
+     "image": "img/raz-aa-winter-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_winter-p2",
+     "type": "sentence",
+     "en": "The ice skates.",
+     "zh": "那双冰鞋。",
+     "audio": "audio/all/4691_the_ice_skates.mp3",
+     "slow": "audio/all/4691_the_ice_skates.mp3",
+     "image": "img/raz-aa-winter-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_winter-p3",
+     "type": "sentence",
+     "en": "The sled.",
+     "zh": "那个雪橇。",
+     "audio": "audio/all/4692_the_sled.mp3",
+     "slow": "audio/all/4692_the_sled.mp3",
+     "image": "img/raz-aa-winter-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_winter-p4",
+     "type": "sentence",
+     "en": "The snowman.",
+     "zh": "那个雪人。",
+     "audio": "audio/all/4693_the_snowman.mp3",
+     "slow": "audio/all/4693_the_snowman.mp3",
+     "image": "img/raz-aa-winter-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_winter-p5",
+     "type": "sentence",
+     "en": "The mittens.",
+     "zh": "那副手套。",
+     "audio": "audio/all/4694_the_mittens.mp3",
+     "slow": "audio/all/4694_the_mittens.mp3",
+     "image": "img/raz-aa-winter-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_winter-p6",
+     "type": "sentence",
+     "en": "The coat.",
+     "zh": "那件外套。",
+     "audio": "audio/all/4695_the_coat.mp3",
+     "slow": "audio/all/4695_the_coat.mp3",
+     "image": "img/raz-aa-winter-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_winter-p7",
+     "type": "sentence",
+     "en": "The fire.",
+     "zh": "那堆炉火。",
+     "audio": "audio/all/4696_the_fire.mp3",
+     "slow": "audio/all/4696_the_fire.mp3",
+     "image": "img/raz-aa-winter-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_winter-p8",
+     "type": "sentence",
+     "en": "The winter.",
+     "zh": "那个冬天。",
+     "audio": "audio/all/4697_the_winter.mp3",
+     "slow": "audio/all/4697_the_winter.mp3",
+     "image": "img/raz-aa-winter-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_trip",
+ "nameZh": "旅行",
+ "bookTitle": "The Trip",
+ "razLevel": "aa",
+ "order": 74,
+ "cover": "img/raz-aa-the_trip-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_trip-u1",
+   "band": 2,
+   "title": "The Trip · 旅行",
+   "cards": [
+    {
+     "id": "raz_aa_the_trip-p1",
+     "type": "sentence",
+     "en": "The clothes.",
+     "zh": "那些衣服。",
+     "audio": "audio/all/4578_the_clothes.mp3",
+     "slow": "audio/all/4578_the_clothes.mp3",
+     "image": "img/raz-aa-the_trip-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_trip-p2",
+     "type": "sentence",
+     "en": "The suitcase.",
+     "zh": "那个行李箱。",
+     "audio": "audio/all/4579_the_suitcase.mp3",
+     "slow": "audio/all/4579_the_suitcase.mp3",
+     "image": "img/raz-aa-the_trip-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_trip-p3",
+     "type": "sentence",
+     "en": "The map.",
+     "zh": "那张地图。",
+     "audio": "audio/all/4580_the_map.mp3",
+     "slow": "audio/all/4580_the_map.mp3",
+     "image": "img/raz-aa-the_trip-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_trip-p4",
+     "type": "sentence",
+     "en": "The car.",
+     "zh": "那辆汽车。",
+     "audio": "audio/all/4581_the_car.mp3",
+     "slow": "audio/all/4581_the_car.mp3",
+     "image": "img/raz-aa-the_trip-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_trip-p5",
+     "type": "sentence",
+     "en": "The seat belt.",
+     "zh": "那条安全带。",
+     "audio": "audio/all/4582_the_seat_belt.mp3",
+     "slow": "audio/all/4582_the_seat_belt.mp3",
+     "image": "img/raz-aa-the_trip-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_trip-p6",
+     "type": "sentence",
+     "en": "The dog.",
+     "zh": "那只狗。",
+     "audio": "audio/all/4583_the_dog.mp3",
+     "slow": "audio/all/4583_the_dog.mp3",
+     "image": "img/raz-aa-the_trip-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_trip-p7",
+     "type": "sentence",
+     "en": "The book.",
+     "zh": "那本书。",
+     "audio": "audio/all/4584_the_book.mp3",
+     "slow": "audio/all/4584_the_book.mp3",
+     "image": "img/raz-aa-the_trip-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_trip-p8",
+     "type": "sentence",
+     "en": "The grandparents.",
+     "zh": "那些祖父母。",
+     "audio": "audio/all/4585_the_grandparents.mp3",
+     "slow": "audio/all/4585_the_grandparents.mp3",
+     "image": "img/raz-aa-the_trip-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

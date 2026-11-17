@@ -1,0 +1,97 @@
+{
+ "theme": "raz_aa_the_birthday_party",
+ "nameZh": "生日聚会",
+ "bookTitle": "The Birthday Party",
+ "razLevel": "aa",
+ "order": 59,
+ "cover": "img/raz-aa-the_birthday_party-cover.jpg",
+ "units": [
+  {
+   "id": "raz_aa_the_birthday_party-u1",
+   "band": 2,
+   "title": "The Birthday Party · 生日聚会",
+   "cards": [
+    {
+     "id": "raz_aa_the_birthday_party-p1",
+     "type": "sentence",
+     "en": "The guests.",
+     "zh": "那些客人。",
+     "audio": "audio/all/4458_the_guests.mp3",
+     "slow": "audio/all/4458_the_guests.mp3",
+     "image": "img/raz-aa-the_birthday_party-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p2",
+     "type": "sentence",
+     "en": "The balloons.",
+     "zh": "那些气球。",
+     "audio": "audio/all/4459_the_balloons.mp3",
+     "slow": "audio/all/4459_the_balloons.mp3",
+     "image": "img/raz-aa-the_birthday_party-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p3",
+     "type": "sentence",
+     "en": "The hats.",
+     "zh": "那些帽子。",
+     "audio": "audio/all/4460_the_hats.mp3",
+     "slow": "audio/all/4460_the_hats.mp3",
+     "image": "img/raz-aa-the_birthday_party-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p4",
+     "type": "sentence",
+     "en": "The gifts.",
+     "zh": "那些礼物。",
+     "audio": "audio/all/4461_the_gifts.mp3",
+     "slow": "audio/all/4461_the_gifts.mp3",
+     "image": "img/raz-aa-the_birthday_party-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p5",
+     "type": "sentence",
+     "en": "The cake.",
+     "zh": "那个蛋糕。",
+     "audio": "audio/all/4462_the_cake.mp3",
+     "slow": "audio/all/4462_the_cake.mp3",
+     "image": "img/raz-aa-the_birthday_party-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p6",
+     "type": "sentence",
+     "en": "The singing.",
+     "zh": "那首生日歌。",
+     "audio": "audio/all/4463_the_singing.mp3",
+     "slow": "audio/all/4463_the_singing.mp3",
+     "image": "img/raz-aa-the_birthday_party-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p7",
+     "type": "sentence",
+     "en": "The candles.",
+     "zh": "那些蜡烛。",
+     "audio": "audio/all/4464_the_candles.mp3",
+     "slow": "audio/all/4464_the_candles.mp3",
+     "image": "img/raz-aa-the_birthday_party-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_aa_the_birthday_party-p8",
+     "type": "sentence",
+     "en": "The birthday party.",
+     "zh": "那个生日聚会。",
+     "audio": "audio/all/4465_the_birthday_party.mp3",
+     "slow": "audio/all/4465_the_birthday_party.mp3",
+     "image": "img/raz-aa-the_birthday_party-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}
