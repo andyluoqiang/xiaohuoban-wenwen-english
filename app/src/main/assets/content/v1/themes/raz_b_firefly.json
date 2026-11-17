@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_firefly",
+ "nameZh": "萤火虫",
+ "bookTitle": "Firefly",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-firefly-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_firefly-u1",
+   "band": 2,
+   "title": "Firefly · 萤火虫",
+   "cards": [
+    {
+     "id": "raz_b_firefly-p1",
+     "type": "sentence",
+     "en": "I tried catching one Monday.",
+     "zh": "星期一我想抓一只。",
+     "audio": "audio/all/3148_i_tried_catching_one_monday.mp3",
+     "slow": "audio/all/3148_i_tried_catching_one_monday.mp3",
+     "image": "img/raz-b-firefly-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_firefly-p2",
+     "type": "sentence",
+     "en": "I tried catching one Tuesday.",
+     "zh": "星期二我想抓一只。",
+     "audio": "audio/all/3149_i_tried_catching_one_tuesday.mp3",
+     "slow": "audio/all/3149_i_tried_catching_one_tuesday.mp3",
+     "image": "img/raz-b-firefly-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_firefly-p3",
+     "type": "sentence",
+     "en": "I tried catching one Wednesday.",
+     "zh": "星期三我想抓一只。",
+     "audio": "audio/all/3150_i_tried_catching_one_wednesday.mp3",
+     "slow": "audio/all/3150_i_tried_catching_one_wednesday.mp3",
+     "image": "img/raz-b-firefly-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_firefly-p4",
+     "type": "sentence",
+     "en": "I tried catching one Thursday.",
+     "zh": "星期四我想抓一只。",
+     "audio": "audio/all/3151_i_tried_catching_one_thursday.mp3",
+     "slow": "audio/all/3151_i_tried_catching_one_thursday.mp3",
+     "image": "img/raz-b-firefly-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_firefly-p5",
+     "type": "sentence",
+     "en": "I tried catching one Friday.",
+     "zh": "星期五我想抓一只。",
+     "audio": "audio/all/3152_i_tried_catching_one_friday.mp3",
+     "slow": "audio/all/3152_i_tried_catching_one_friday.mp3",
+     "image": "img/raz-b-firefly-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_firefly-p6",
+     "type": "sentence",
+     "en": "I tried catching one Saturday.",
+     "zh": "星期六我想抓一只。",
+     "audio": "audio/all/3153_i_tried_catching_one_saturday.mp3",
+     "slow": "audio/all/3153_i_tried_catching_one_saturday.mp3",
+     "image": "img/raz-b-firefly-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_firefly-p7",
+     "type": "sentence",
+     "en": "I tried catching one Sunday.",
+     "zh": "星期日我想抓一只。",
+     "audio": "audio/all/3154_i_tried_catching_one_sunday.mp3",
+     "slow": "audio/all/3154_i_tried_catching_one_sunday.mp3",
+     "image": "img/raz-b-firefly-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_firefly-p8",
+     "type": "sentence",
+     "en": "I caught one and let it go.",
+     "zh": "我抓到一只，又放了它。",
+     "audio": "audio/all/3155_i_caught_one_and_let_it_go.mp3",
+     "slow": "audio/all/3155_i_caught_one_and_let_it_go.mp3",
+     "image": "img/raz-b-firefly-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

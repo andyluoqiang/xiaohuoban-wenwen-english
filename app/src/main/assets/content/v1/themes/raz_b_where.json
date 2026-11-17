@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_where",
+ "nameZh": "在哪里",
+ "bookTitle": "Where",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-where-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_where-u1",
+   "band": 2,
+   "title": "Where · 在哪里",
+   "cards": [
+    {
+     "id": "raz_b_where-p1",
+     "type": "sentence",
+     "en": "“Where?” asked the little brown bear.",
+     "zh": "“在哪里？”小棕熊问。",
+     "audio": "audio/all/3657_where_asked_the_little_brown_bear.mp3",
+     "slow": "audio/all/3657_where_asked_the_little_brown_bear.mp3",
+     "image": "img/raz-b-where-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_where-p2",
+     "type": "sentence",
+     "en": "“Where is my mother?”",
+     "zh": "“我妈妈在哪里？”",
+     "audio": "audio/all/3658_where_is_my_mother.mp3",
+     "slow": "audio/all/3658_where_is_my_mother.mp3",
+     "image": "img/raz-b-where-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_where-p3",
+     "type": "sentence",
+     "en": "“Where is my father?”",
+     "zh": "“我爸爸在哪里？”",
+     "audio": "audio/all/3659_where_is_my_father.mp3",
+     "slow": "audio/all/3659_where_is_my_father.mp3",
+     "image": "img/raz-b-where-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_where-p4",
+     "type": "sentence",
+     "en": "“Where is my house?”",
+     "zh": "“我的家在哪里？”",
+     "audio": "audio/all/3660_where_is_my_house.mp3",
+     "slow": "audio/all/3660_where_is_my_house.mp3",
+     "image": "img/raz-b-where-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_where-p5",
+     "type": "sentence",
+     "en": "“Where is my bed?”",
+     "zh": "“我的床在哪里？”",
+     "audio": "audio/all/3661_where_is_my_bed.mp3",
+     "slow": "audio/all/3661_where_is_my_bed.mp3",
+     "image": "img/raz-b-where-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_where-p6",
+     "type": "sentence",
+     "en": "“Where is my pot of honey?”",
+     "zh": "“我的蜂蜜罐在哪里？”",
+     "audio": "audio/all/3662_where_is_my_pot_of_honey.mp3",
+     "slow": "audio/all/3662_where_is_my_pot_of_honey.mp3",
+     "image": "img/raz-b-where-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_where-p7",
+     "type": "sentence",
+     "en": "“Where am I?”",
+     "zh": "“我在哪里？”",
+     "audio": "audio/all/3663_where_am_i.mp3",
+     "slow": "audio/all/3663_where_am_i.mp3",
+     "image": "img/raz-b-where-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_where-p8",
+     "type": "sentence",
+     "en": "“I am lost. Can you help me?”",
+     "zh": "“我迷路了，你能帮帮我吗？”",
+     "audio": "audio/all/3664_i_am_lost_can_you_help_me.mp3",
+     "slow": "audio/all/3664_i_am_lost_can_you_help_me.mp3",
+     "image": "img/raz-b-where-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

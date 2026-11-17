@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_under_my_bed",
+ "nameZh": "我的床底下",
+ "bookTitle": "Under My Bed",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-under_my_bed-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_under_my_bed-u1",
+   "band": 2,
+   "title": "Under My Bed · 我的床底下",
+   "cards": [
+    {
+     "id": "raz_b_under_my_bed-p1",
+     "type": "sentence",
+     "en": "A sock is under my bed.",
+     "zh": "我床底下有一只袜子。",
+     "audio": "audio/all/3569_a_sock_is_under_my_bed.mp3",
+     "slow": "audio/all/3569_a_sock_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_under_my_bed-p2",
+     "type": "sentence",
+     "en": "A block is under my bed.",
+     "zh": "我床底下有一块积木。",
+     "audio": "audio/all/3570_a_block_is_under_my_bed.mp3",
+     "slow": "audio/all/3570_a_block_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_under_my_bed-p3",
+     "type": "sentence",
+     "en": "A book is under my bed.",
+     "zh": "我床底下有一本书。",
+     "audio": "audio/all/3571_a_book_is_under_my_bed.mp3",
+     "slow": "audio/all/3571_a_book_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_under_my_bed-p4",
+     "type": "sentence",
+     "en": "A toy is under my bed.",
+     "zh": "我床底下有一个玩具。",
+     "audio": "audio/all/3572_a_toy_is_under_my_bed.mp3",
+     "slow": "audio/all/3572_a_toy_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_under_my_bed-p5",
+     "type": "sentence",
+     "en": "A hat is under my bed.",
+     "zh": "我床底下有一顶帽子。",
+     "audio": "audio/all/3573_a_hat_is_under_my_bed.mp3",
+     "slow": "audio/all/3573_a_hat_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_under_my_bed-p6",
+     "type": "sentence",
+     "en": "A bat is under my bed.",
+     "zh": "我床底下有一只球棒。",
+     "audio": "audio/all/3574_a_bat_is_under_my_bed.mp3",
+     "slow": "audio/all/3574_a_bat_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_under_my_bed-p7",
+     "type": "sentence",
+     "en": "A cat is under my bed.",
+     "zh": "我床底下有一只猫。",
+     "audio": "audio/all/3575_a_cat_is_under_my_bed.mp3",
+     "slow": "audio/all/3575_a_cat_is_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_under_my_bed-p8",
+     "type": "sentence",
+     "en": "I am under my bed!",
+     "zh": "我自己在床底下！",
+     "audio": "audio/all/3576_i_am_under_my_bed.mp3",
+     "slow": "audio/all/3576_i_am_under_my_bed.mp3",
+     "image": "img/raz-b-under_my_bed-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

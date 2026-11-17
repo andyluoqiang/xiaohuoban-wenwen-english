@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_carlos_and_his_teacher",
+ "nameZh": "卡洛斯和他的老师",
+ "bookTitle": "Carlos and His Teacher",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-carlos_and_his_teacher-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_carlos_and_his_teacher-u1",
+   "band": 2,
+   "title": "Carlos and His Teacher · 卡洛斯和他的老师",
+   "cards": [
+    {
+     "id": "raz_b_carlos_and_his_teacher-p1",
+     "type": "sentence",
+     "en": "Carlos and his teacher talk.",
+     "zh": "卡洛斯和老师一起说话。",
+     "audio": "audio/all/3132_carlos_and_his_teacher_talk.mp3",
+     "slow": "audio/all/3132_carlos_and_his_teacher_talk.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p2",
+     "type": "sentence",
+     "en": "Carlos and his teacher write.",
+     "zh": "卡洛斯和老师一起写字。",
+     "audio": "audio/all/3133_carlos_and_his_teacher_write.mp3",
+     "slow": "audio/all/3133_carlos_and_his_teacher_write.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p3",
+     "type": "sentence",
+     "en": "Carlos and his teacher read.",
+     "zh": "卡洛斯和老师一起读书。",
+     "audio": "audio/all/3134_carlos_and_his_teacher_read.mp3",
+     "slow": "audio/all/3134_carlos_and_his_teacher_read.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p4",
+     "type": "sentence",
+     "en": "Carlos and his teacher add.",
+     "zh": "卡洛斯和老师一起算数。",
+     "audio": "audio/all/3135_carlos_and_his_teacher_add.mp3",
+     "slow": "audio/all/3135_carlos_and_his_teacher_add.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p5",
+     "type": "sentence",
+     "en": "Carlos and his teacher share.",
+     "zh": "卡洛斯和老师一起分享。",
+     "audio": "audio/all/3136_carlos_and_his_teacher_share.mp3",
+     "slow": "audio/all/3136_carlos_and_his_teacher_share.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p6",
+     "type": "sentence",
+     "en": "Carlos and his teacher paint.",
+     "zh": "卡洛斯和老师一起画画。",
+     "audio": "audio/all/3137_carlos_and_his_teacher_paint.mp3",
+     "slow": "audio/all/3137_carlos_and_his_teacher_paint.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p7",
+     "type": "sentence",
+     "en": "Carlos and his teacher clean.",
+     "zh": "卡洛斯和老师一起打扫。",
+     "audio": "audio/all/3138_carlos_and_his_teacher_clean.mp3",
+     "slow": "audio/all/3138_carlos_and_his_teacher_clean.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_carlos_and_his_teacher-p8",
+     "type": "sentence",
+     "en": "Carlos and his teacher play.",
+     "zh": "卡洛斯和老师一起玩。",
+     "audio": "audio/all/3139_carlos_and_his_teacher_play.mp3",
+     "slow": "audio/all/3139_carlos_and_his_teacher_play.mp3",
+     "image": "img/raz-b-carlos_and_his_teacher-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

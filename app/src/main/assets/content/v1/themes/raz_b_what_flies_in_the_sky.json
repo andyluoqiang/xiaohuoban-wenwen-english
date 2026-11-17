@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_what_flies_in_the_sky",
+ "nameZh": "什么在天上飞",
+ "bookTitle": "What Flies in the Sky",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-what_flies_in_the_sky-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_what_flies_in_the_sky-u1",
+   "band": 2,
+   "title": "What Flies in the Sky · 什么在天上飞",
+   "cards": [
+    {
+     "id": "raz_b_what_flies_in_the_sky-p1",
+     "type": "sentence",
+     "en": "What flies in the sky?",
+     "zh": "什么在天上飞？",
+     "audio": "audio/all/3609_what_flies_in_the_sky.mp3",
+     "slow": "audio/all/3609_what_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p2",
+     "type": "sentence",
+     "en": "A kite flies in the sky.",
+     "zh": "风筝在天上飞。",
+     "audio": "audio/all/3610_a_kite_flies_in_the_sky.mp3",
+     "slow": "audio/all/3610_a_kite_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p3",
+     "type": "sentence",
+     "en": "A bird flies in the sky.",
+     "zh": "小鸟在天上飞。",
+     "audio": "audio/all/3611_a_bird_flies_in_the_sky.mp3",
+     "slow": "audio/all/3611_a_bird_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p4",
+     "type": "sentence",
+     "en": "A balloon flies in the sky.",
+     "zh": "气球在天上飞。",
+     "audio": "audio/all/3612_a_balloon_flies_in_the_sky.mp3",
+     "slow": "audio/all/3612_a_balloon_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p5",
+     "type": "sentence",
+     "en": "A bee flies in the sky.",
+     "zh": "蜜蜂在天上飞。",
+     "audio": "audio/all/3613_a_bee_flies_in_the_sky.mp3",
+     "slow": "audio/all/3613_a_bee_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p6",
+     "type": "sentence",
+     "en": "A rocket flies in the sky.",
+     "zh": "火箭在天上飞。",
+     "audio": "audio/all/3614_a_rocket_flies_in_the_sky.mp3",
+     "slow": "audio/all/3614_a_rocket_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p7",
+     "type": "sentence",
+     "en": "A bat flies in the sky.",
+     "zh": "蝙蝠在天上飞。",
+     "audio": "audio/all/3615_a_bat_flies_in_the_sky.mp3",
+     "slow": "audio/all/3615_a_bat_flies_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_what_flies_in_the_sky-p8",
+     "type": "sentence",
+     "en": "I wish I could fly in the sky!",
+     "zh": "我真想也能在天上飞！",
+     "audio": "audio/all/3616_i_wish_i_could_fly_in_the_sky.mp3",
+     "slow": "audio/all/3616_i_wish_i_could_fly_in_the_sky.mp3",
+     "image": "img/raz-b-what_flies_in_the_sky-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

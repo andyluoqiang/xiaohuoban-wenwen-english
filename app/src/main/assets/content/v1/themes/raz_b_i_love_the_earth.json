@@ -1,0 +1,117 @@
+{
+ "theme": "raz_b_i_love_the_earth",
+ "nameZh": "我爱地球",
+ "bookTitle": "I Love the Earth",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-i_love_the_earth-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_i_love_the_earth-u1",
+   "band": 2,
+   "title": "I Love the Earth · 我爱地球",
+   "cards": [
+    {
+     "id": "raz_b_i_love_the_earth-p1",
+     "type": "sentence",
+     "en": "I love the Earth.",
+     "zh": "我爱地球。",
+     "audio": "audio/all/3236_i_love_the_earth.mp3",
+     "slow": "audio/all/3236_i_love_the_earth.mp3",
+     "image": "img/raz-b-i_love_the_earth-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p2",
+     "type": "sentence",
+     "en": "I love the tall trees.",
+     "zh": "我爱高高的大树。",
+     "audio": "audio/all/3237_i_love_the_tall_trees.mp3",
+     "slow": "audio/all/3237_i_love_the_tall_trees.mp3",
+     "image": "img/raz-b-i_love_the_earth-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p3",
+     "type": "sentence",
+     "en": "I love the bright flowers.",
+     "zh": "我爱鲜艳的花朵。",
+     "audio": "audio/all/3238_i_love_the_bright_flowers.mp3",
+     "slow": "audio/all/3238_i_love_the_bright_flowers.mp3",
+     "image": "img/raz-b-i_love_the_earth-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p4",
+     "type": "sentence",
+     "en": "I love the green hills.",
+     "zh": "我爱绿色的小山。",
+     "audio": "audio/all/3239_i_love_the_green_hills.mp3",
+     "slow": "audio/all/3239_i_love_the_green_hills.mp3",
+     "image": "img/raz-b-i_love_the_earth-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p5",
+     "type": "sentence",
+     "en": "I love the high mountains.",
+     "zh": "我爱高高的山脉。",
+     "audio": "audio/all/3240_i_love_the_high_mountains.mp3",
+     "slow": "audio/all/3240_i_love_the_high_mountains.mp3",
+     "image": "img/raz-b-i_love_the_earth-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p6",
+     "type": "sentence",
+     "en": "I love the long rivers.",
+     "zh": "我爱长长的河流。",
+     "audio": "audio/all/3241_i_love_the_long_rivers.mp3",
+     "slow": "audio/all/3241_i_love_the_long_rivers.mp3",
+     "image": "img/raz-b-i_love_the_earth-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p7",
+     "type": "sentence",
+     "en": "I love the deep lakes.",
+     "zh": "我爱深深的湖泊。",
+     "audio": "audio/all/3242_i_love_the_deep_lakes.mp3",
+     "slow": "audio/all/3242_i_love_the_deep_lakes.mp3",
+     "image": "img/raz-b-i_love_the_earth-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p8",
+     "type": "sentence",
+     "en": "I love the big oceans.",
+     "zh": "我爱大大的海洋。",
+     "audio": "audio/all/3243_i_love_the_big_oceans.mp3",
+     "slow": "audio/all/3243_i_love_the_big_oceans.mp3",
+     "image": "img/raz-b-i_love_the_earth-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p9",
+     "type": "sentence",
+     "en": "I love the dry deserts.",
+     "zh": "我爱干旱的沙漠。",
+     "audio": "audio/all/3244_i_love_the_dry_deserts.mp3",
+     "slow": "audio/all/3244_i_love_the_dry_deserts.mp3",
+     "image": "img/raz-b-i_love_the_earth-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_b_i_love_the_earth-p10",
+     "type": "sentence",
+     "en": "I love the Earth!",
+     "zh": "我爱地球！",
+     "audio": "audio/all/3245_i_love_the_earth.mp3",
+     "slow": "audio/all/3245_i_love_the_earth.mp3",
+     "image": "img/raz-b-i_love_the_earth-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

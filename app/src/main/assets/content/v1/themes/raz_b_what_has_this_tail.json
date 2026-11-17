@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_what_has_this_tail",
+ "nameZh": "谁有这样的尾巴",
+ "bookTitle": "What Has This Tail",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-what_has_this_tail-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_what_has_this_tail-u1",
+   "band": 2,
+   "title": "What Has This Tail · 谁有这样的尾巴",
+   "cards": [
+    {
+     "id": "raz_b_what_has_this_tail-p1",
+     "type": "sentence",
+     "en": "What animal has this tail?",
+     "zh": "什么动物有这样的尾巴？",
+     "audio": "audio/all/3649_what_animal_has_this_tail.mp3",
+     "slow": "audio/all/3649_what_animal_has_this_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p2",
+     "type": "sentence",
+     "en": "A pig has this curly tail.",
+     "zh": "猪有这样卷卷的尾巴。",
+     "audio": "audio/all/3650_a_pig_has_this_curly_tail.mp3",
+     "slow": "audio/all/3650_a_pig_has_this_curly_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p3",
+     "type": "sentence",
+     "en": "What animal has this tail?",
+     "zh": "什么动物有这样的尾巴？",
+     "audio": "audio/all/3651_what_animal_has_this_tail.mp3",
+     "slow": "audio/all/3651_what_animal_has_this_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p4",
+     "type": "sentence",
+     "en": "A horse has this long tail.",
+     "zh": "马有这样长长的尾巴。",
+     "audio": "audio/all/3652_a_horse_has_this_long_tail.mp3",
+     "slow": "audio/all/3652_a_horse_has_this_long_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p5",
+     "type": "sentence",
+     "en": "What animal has this tail?",
+     "zh": "什么动物有这样的尾巴？",
+     "audio": "audio/all/3653_what_animal_has_this_tail.mp3",
+     "slow": "audio/all/3653_what_animal_has_this_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p6",
+     "type": "sentence",
+     "en": "A rabbit has this short tail.",
+     "zh": "兔子有这样短短的尾巴。",
+     "audio": "audio/all/3654_a_rabbit_has_this_short_tail.mp3",
+     "slow": "audio/all/3654_a_rabbit_has_this_short_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p7",
+     "type": "sentence",
+     "en": "What animal has no tail?",
+     "zh": "什么动物没有尾巴？",
+     "audio": "audio/all/3655_what_animal_has_no_tail.mp3",
+     "slow": "audio/all/3655_what_animal_has_no_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_what_has_this_tail-p8",
+     "type": "sentence",
+     "en": "A person has no tail.",
+     "zh": "人没有尾巴。",
+     "audio": "audio/all/3656_a_person_has_no_tail.mp3",
+     "slow": "audio/all/3656_a_person_has_no_tail.mp3",
+     "image": "img/raz-b-what_has_this_tail-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_halloween_costumes",
+ "nameZh": "万圣节装扮",
+ "bookTitle": "Halloween Costumes",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-halloween_costumes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_halloween_costumes-u1",
+   "band": 2,
+   "title": "Halloween Costumes · 万圣节装扮",
+   "cards": [
+    {
+     "id": "raz_b_halloween_costumes-p1",
+     "type": "sentence",
+     "en": "I look like a flower.",
+     "zh": "我扮成一朵花。",
+     "audio": "audio/all/3180_i_look_like_a_flower.mp3",
+     "slow": "audio/all/3180_i_look_like_a_flower.mp3",
+     "image": "img/raz-b-halloween_costumes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_halloween_costumes-p2",
+     "type": "sentence",
+     "en": "I look like a bat.",
+     "zh": "我扮成一只蝙蝠。",
+     "audio": "audio/all/3181_i_look_like_a_bat.mp3",
+     "slow": "audio/all/3181_i_look_like_a_bat.mp3",
+     "image": "img/raz-b-halloween_costumes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_halloween_costumes-p3",
+     "type": "sentence",
+     "en": "I look like a clown.",
+     "zh": "我扮成一个小丑。",
+     "audio": "audio/all/3182_i_look_like_a_clown.mp3",
+     "slow": "audio/all/3182_i_look_like_a_clown.mp3",
+     "image": "img/raz-b-halloween_costumes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_halloween_costumes-p4",
+     "type": "sentence",
+     "en": "I look like a superhero.",
+     "zh": "我扮成一个超人。",
+     "audio": "audio/all/3183_i_look_like_a_superhero.mp3",
+     "slow": "audio/all/3183_i_look_like_a_superhero.mp3",
+     "image": "img/raz-b-halloween_costumes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_halloween_costumes-p5",
+     "type": "sentence",
+     "en": "I look like a tiger.",
+     "zh": "我扮成一只老虎。",
+     "audio": "audio/all/3184_i_look_like_a_tiger.mp3",
+     "slow": "audio/all/3184_i_look_like_a_tiger.mp3",
+     "image": "img/raz-b-halloween_costumes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_halloween_costumes-p6",
+     "type": "sentence",
+     "en": "I look like a pirate.",
+     "zh": "我扮成一个海盗。",
+     "audio": "audio/all/3185_i_look_like_a_pirate.mp3",
+     "slow": "audio/all/3185_i_look_like_a_pirate.mp3",
+     "image": "img/raz-b-halloween_costumes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_halloween_costumes-p7",
+     "type": "sentence",
+     "en": "I look like a dragon.",
+     "zh": "我扮成一条龙。",
+     "audio": "audio/all/3186_i_look_like_a_dragon.mp3",
+     "slow": "audio/all/3186_i_look_like_a_dragon.mp3",
+     "image": "img/raz-b-halloween_costumes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_halloween_costumes-p8",
+     "type": "sentence",
+     "en": "What is this costume?",
+     "zh": "这是什么装扮呢？",
+     "audio": "audio/all/3187_what_is_this_costume.mp3",
+     "slow": "audio/all/3187_what_is_this_costume.mp3",
+     "image": "img/raz-b-halloween_costumes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

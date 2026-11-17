@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_i_love_art_class",
+ "nameZh": "我爱美术课",
+ "bookTitle": "I Love Art Class",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-i_love_art_class-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_i_love_art_class-u1",
+   "band": 2,
+   "title": "I Love Art Class · 我爱美术课",
+   "cards": [
+    {
+     "id": "raz_b_i_love_art_class-p1",
+     "type": "sentence",
+     "en": "I make a drawing.",
+     "zh": "我画了一幅画。",
+     "audio": "audio/all/3228_i_make_a_drawing.mp3",
+     "slow": "audio/all/3228_i_make_a_drawing.mp3",
+     "image": "img/raz-b-i_love_art_class-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_i_love_art_class-p2",
+     "type": "sentence",
+     "en": "I make a hat.",
+     "zh": "我做了一顶帽子。",
+     "audio": "audio/all/3229_i_make_a_hat.mp3",
+     "slow": "audio/all/3229_i_make_a_hat.mp3",
+     "image": "img/raz-b-i_love_art_class-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_i_love_art_class-p3",
+     "type": "sentence",
+     "en": "I make a flower.",
+     "zh": "我做了一朵花。",
+     "audio": "audio/all/3230_i_make_a_flower.mp3",
+     "slow": "audio/all/3230_i_make_a_flower.mp3",
+     "image": "img/raz-b-i_love_art_class-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_i_love_art_class-p4",
+     "type": "sentence",
+     "en": "I make a chain.",
+     "zh": "我做了一条链子。",
+     "audio": "audio/all/3231_i_make_a_chain.mp3",
+     "slow": "audio/all/3231_i_make_a_chain.mp3",
+     "image": "img/raz-b-i_love_art_class-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_i_love_art_class-p5",
+     "type": "sentence",
+     "en": "I make an airplane.",
+     "zh": "我做了一架纸飞机。",
+     "audio": "audio/all/3232_i_make_an_airplane.mp3",
+     "slow": "audio/all/3232_i_make_an_airplane.mp3",
+     "image": "img/raz-b-i_love_art_class-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_i_love_art_class-p6",
+     "type": "sentence",
+     "en": "I make a painting.",
+     "zh": "我画了一张画。",
+     "audio": "audio/all/3233_i_make_a_painting.mp3",
+     "slow": "audio/all/3233_i_make_a_painting.mp3",
+     "image": "img/raz-b-i_love_art_class-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_i_love_art_class-p7",
+     "type": "sentence",
+     "en": "I make a mess!",
+     "zh": "我搞得一团糟！",
+     "audio": "audio/all/3234_i_make_a_mess.mp3",
+     "slow": "audio/all/3234_i_make_a_mess.mp3",
+     "image": "img/raz-b-i_love_art_class-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_i_love_art_class-p8",
+     "type": "sentence",
+     "en": "I love art class!",
+     "zh": "我爱美术课！",
+     "audio": "audio/all/3235_i_love_art_class.mp3",
+     "slow": "audio/all/3235_i_love_art_class.mp3",
+     "image": "img/raz-b-i_love_art_class-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

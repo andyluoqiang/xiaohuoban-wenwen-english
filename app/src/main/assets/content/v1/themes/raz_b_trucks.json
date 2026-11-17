@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_trucks",
+ "nameZh": "大卡车",
+ "bookTitle": "Trucks",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-trucks-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_trucks-u1",
+   "band": 2,
+   "title": "Trucks · 大卡车",
+   "cards": [
+    {
+     "id": "raz_b_trucks-p1",
+     "type": "sentence",
+     "en": "Some trucks carry mail.",
+     "zh": "有些卡车运邮件。",
+     "audio": "audio/all/3553_some_trucks_carry_mail.mp3",
+     "slow": "audio/all/3553_some_trucks_carry_mail.mp3",
+     "image": "img/raz-b-trucks-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_trucks-p2",
+     "type": "sentence",
+     "en": "Some trucks carry animals.",
+     "zh": "有些卡车运动物。",
+     "audio": "audio/all/3554_some_trucks_carry_animals.mp3",
+     "slow": "audio/all/3554_some_trucks_carry_animals.mp3",
+     "image": "img/raz-b-trucks-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_trucks-p3",
+     "type": "sentence",
+     "en": "Some trucks carry garbage.",
+     "zh": "有些卡车运垃圾。",
+     "audio": "audio/all/3555_some_trucks_carry_garbage.mp3",
+     "slow": "audio/all/3555_some_trucks_carry_garbage.mp3",
+     "image": "img/raz-b-trucks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_trucks-p4",
+     "type": "sentence",
+     "en": "Some trucks carry logs.",
+     "zh": "有些卡车运木头。",
+     "audio": "audio/all/3556_some_trucks_carry_logs.mp3",
+     "slow": "audio/all/3556_some_trucks_carry_logs.mp3",
+     "image": "img/raz-b-trucks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_trucks-p5",
+     "type": "sentence",
+     "en": "Some trucks carry cement.",
+     "zh": "有些卡车运水泥。",
+     "audio": "audio/all/3557_some_trucks_carry_cement.mp3",
+     "slow": "audio/all/3557_some_trucks_carry_cement.mp3",
+     "image": "img/raz-b-trucks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_trucks-p6",
+     "type": "sentence",
+     "en": "Some trucks carry ice cream.",
+     "zh": "有些卡车运冰淇淋。",
+     "audio": "audio/all/3558_some_trucks_carry_ice_cream.mp3",
+     "slow": "audio/all/3558_some_trucks_carry_ice_cream.mp3",
+     "image": "img/raz-b-trucks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_trucks-p7",
+     "type": "sentence",
+     "en": "Some trucks carry cars.",
+     "zh": "有些卡车运小汽车。",
+     "audio": "audio/all/3559_some_trucks_carry_cars.mp3",
+     "slow": "audio/all/3559_some_trucks_carry_cars.mp3",
+     "image": "img/raz-b-trucks-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_trucks-p8",
+     "type": "sentence",
+     "en": "Some trucks carry trucks.",
+     "zh": "有些卡车运大卡车。",
+     "audio": "audio/all/3560_some_trucks_carry_trucks.mp3",
+     "slow": "audio/all/3560_some_trucks_carry_trucks.mp3",
+     "image": "img/raz-b-trucks-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

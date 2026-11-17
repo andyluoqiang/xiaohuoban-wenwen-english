@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_my_pet_dinosaur",
+ "nameZh": "我的宠物恐龙",
+ "bookTitle": "My Pet Dinosaur",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-my_pet_dinosaur-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_my_pet_dinosaur-u1",
+   "band": 2,
+   "title": "My Pet Dinosaur · 我的宠物恐龙",
+   "cards": [
+    {
+     "id": "raz_b_my_pet_dinosaur-p1",
+     "type": "sentence",
+     "en": "My pet dinosaur can fetch.",
+     "zh": "我的宠物恐龙会捡东西。",
+     "audio": "audio/all/3321_my_pet_dinosaur_can_fetch.mp3",
+     "slow": "audio/all/3321_my_pet_dinosaur_can_fetch.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p2",
+     "type": "sentence",
+     "en": "My pet dinosaur can sit.",
+     "zh": "我的宠物恐龙会坐下。",
+     "audio": "audio/all/3322_my_pet_dinosaur_can_sit.mp3",
+     "slow": "audio/all/3322_my_pet_dinosaur_can_sit.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p3",
+     "type": "sentence",
+     "en": "My pet dinosaur can shake hands.",
+     "zh": "我的宠物恐龙会握手。",
+     "audio": "audio/all/3323_my_pet_dinosaur_can_shake_hands.mp3",
+     "slow": "audio/all/3323_my_pet_dinosaur_can_shake_hands.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p4",
+     "type": "sentence",
+     "en": "My pet dinosaur can beg.",
+     "zh": "我的宠物恐龙会作揖。",
+     "audio": "audio/all/3324_my_pet_dinosaur_can_beg.mp3",
+     "slow": "audio/all/3324_my_pet_dinosaur_can_beg.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p5",
+     "type": "sentence",
+     "en": "My pet dinosaur can lie down.",
+     "zh": "我的宠物恐龙会趴下。",
+     "audio": "audio/all/3325_my_pet_dinosaur_can_lie_down.mp3",
+     "slow": "audio/all/3325_my_pet_dinosaur_can_lie_down.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p6",
+     "type": "sentence",
+     "en": "My pet dinosaur can roar.",
+     "zh": "我的宠物恐龙会吼叫。",
+     "audio": "audio/all/3326_my_pet_dinosaur_can_roar.mp3",
+     "slow": "audio/all/3326_my_pet_dinosaur_can_roar.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p7",
+     "type": "sentence",
+     "en": "My pet dinosaur can lick.",
+     "zh": "我的宠物恐龙会舔人。",
+     "audio": "audio/all/3327_my_pet_dinosaur_can_lick.mp3",
+     "slow": "audio/all/3327_my_pet_dinosaur_can_lick.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_my_pet_dinosaur-p8",
+     "type": "sentence",
+     "en": "My pet dinosaur cannot hide.",
+     "zh": "我的宠物恐龙可藏不住自己。",
+     "audio": "audio/all/3328_my_pet_dinosaur_cannot_hide.mp3",
+     "slow": "audio/all/3328_my_pet_dinosaur_cannot_hide.mp3",
+     "image": "img/raz-b-my_pet_dinosaur-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

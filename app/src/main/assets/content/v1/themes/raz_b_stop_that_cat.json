@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_stop_that_cat",
+ "nameZh": "拦住那只猫",
+ "bookTitle": "Stop That Cat!",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-stop_that_cat-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_stop_that_cat-u1",
+   "band": 2,
+   "title": "Stop That Cat! · 拦住那只猫",
+   "cards": [
+    {
+     "id": "raz_b_stop_that_cat-p1",
+     "type": "sentence",
+     "en": "Cat zooms past the door.",
+     "zh": "小猫嗖地冲过门口。",
+     "audio": "audio/all/3416_cat_zooms_past_the_door.mp3",
+     "slow": "audio/all/3416_cat_zooms_past_the_door.mp3",
+     "image": "img/raz-b-stop_that_cat-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_stop_that_cat-p2",
+     "type": "sentence",
+     "en": "Cat zooms past the car.",
+     "zh": "小猫嗖地冲过汽车。",
+     "audio": "audio/all/3417_cat_zooms_past_the_car.mp3",
+     "slow": "audio/all/3417_cat_zooms_past_the_car.mp3",
+     "image": "img/raz-b-stop_that_cat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_stop_that_cat-p3",
+     "type": "sentence",
+     "en": "Cat zooms past the yard.",
+     "zh": "小猫嗖地冲过院子。",
+     "audio": "audio/all/3418_cat_zooms_past_the_yard.mp3",
+     "slow": "audio/all/3418_cat_zooms_past_the_yard.mp3",
+     "image": "img/raz-b-stop_that_cat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_stop_that_cat-p4",
+     "type": "sentence",
+     "en": "Cat zooms past the fence.",
+     "zh": "小猫嗖地冲过栅栏。",
+     "audio": "audio/all/3419_cat_zooms_past_the_fence.mp3",
+     "slow": "audio/all/3419_cat_zooms_past_the_fence.mp3",
+     "image": "img/raz-b-stop_that_cat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_stop_that_cat-p5",
+     "type": "sentence",
+     "en": "Cat zooms past the tree.",
+     "zh": "小猫嗖地冲过大树。",
+     "audio": "audio/all/3420_cat_zooms_past_the_tree.mp3",
+     "slow": "audio/all/3420_cat_zooms_past_the_tree.mp3",
+     "image": "img/raz-b-stop_that_cat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_stop_that_cat-p6",
+     "type": "sentence",
+     "en": "Cat zooms past the dog.",
+     "zh": "小猫嗖地冲过小狗。",
+     "audio": "audio/all/3421_cat_zooms_past_the_dog.mp3",
+     "slow": "audio/all/3421_cat_zooms_past_the_dog.mp3",
+     "image": "img/raz-b-stop_that_cat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_stop_that_cat-p7",
+     "type": "sentence",
+     "en": "Cat zooms past the boy.",
+     "zh": "小猫嗖地冲过小男孩。",
+     "audio": "audio/all/3422_cat_zooms_past_the_boy.mp3",
+     "slow": "audio/all/3422_cat_zooms_past_the_boy.mp3",
+     "image": "img/raz-b-stop_that_cat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_stop_that_cat-p8",
+     "type": "sentence",
+     "en": "Cat needs a long nap!",
+     "zh": "小猫这回要好好睡一觉啦！",
+     "audio": "audio/all/3423_cat_needs_a_long_nap.mp3",
+     "slow": "audio/all/3423_cat_needs_a_long_nap.mp3",
+     "image": "img/raz-b-stop_that_cat-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

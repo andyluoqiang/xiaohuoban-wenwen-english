@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_healthy_snacks",
+ "nameZh": "健康零食",
+ "bookTitle": "Healthy Snacks",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-healthy_snacks-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_healthy_snacks-u1",
+   "band": 2,
+   "title": "Healthy Snacks · 健康零食",
+   "cards": [
+    {
+     "id": "raz_b_healthy_snacks-p1",
+     "type": "sentence",
+     "en": "Apples can be healthy.",
+     "zh": "苹果很健康。",
+     "audio": "audio/all/3188_apples_can_be_healthy.mp3",
+     "slow": "audio/all/3188_apples_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_healthy_snacks-p2",
+     "type": "sentence",
+     "en": "Celery can be healthy.",
+     "zh": "芹菜很健康。",
+     "audio": "audio/all/3189_celery_can_be_healthy.mp3",
+     "slow": "audio/all/3189_celery_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_healthy_snacks-p3",
+     "type": "sentence",
+     "en": "Nuts can be healthy.",
+     "zh": "坚果很健康。",
+     "audio": "audio/all/3190_nuts_can_be_healthy.mp3",
+     "slow": "audio/all/3190_nuts_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_healthy_snacks-p4",
+     "type": "sentence",
+     "en": "Seeds can be healthy.",
+     "zh": "瓜子很健康。",
+     "audio": "audio/all/3191_seeds_can_be_healthy.mp3",
+     "slow": "audio/all/3191_seeds_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_healthy_snacks-p5",
+     "type": "sentence",
+     "en": "Cheese can be healthy.",
+     "zh": "奶酪很健康。",
+     "audio": "audio/all/3192_cheese_can_be_healthy.mp3",
+     "slow": "audio/all/3192_cheese_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_healthy_snacks-p6",
+     "type": "sentence",
+     "en": "Carrots can be healthy.",
+     "zh": "胡萝卜很健康。",
+     "audio": "audio/all/3193_carrots_can_be_healthy.mp3",
+     "slow": "audio/all/3193_carrots_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_healthy_snacks-p7",
+     "type": "sentence",
+     "en": "Cereal can be healthy.",
+     "zh": "麦片很健康。",
+     "audio": "audio/all/3194_cereal_can_be_healthy.mp3",
+     "slow": "audio/all/3194_cereal_can_be_healthy.mp3",
+     "image": "img/raz-b-healthy_snacks-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_healthy_snacks-p8",
+     "type": "sentence",
+     "en": "Healthy snacks taste good!",
+     "zh": "健康零食真好吃！",
+     "audio": "audio/all/3195_healthy_snacks_taste_good.mp3",
+     "slow": "audio/all/3195_healthy_snacks_taste_good.mp3",
+     "image": "img/raz-b-healthy_snacks-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

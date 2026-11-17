@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_too_high",
+ "nameZh": "太高了",
+ "bookTitle": "Too High",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-too_high-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_too_high-u1",
+   "band": 2,
+   "title": "Too High · 太高了",
+   "cards": [
+    {
+     "id": "raz_b_too_high-p1",
+     "type": "sentence",
+     "en": "This chair is too high.",
+     "zh": "这把椅子太高了。",
+     "audio": "audio/all/3537_this_chair_is_too_high.mp3",
+     "slow": "audio/all/3537_this_chair_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_too_high-p2",
+     "type": "sentence",
+     "en": "This hook is too high.",
+     "zh": "这个挂钩太高了。",
+     "audio": "audio/all/3538_this_hook_is_too_high.mp3",
+     "slow": "audio/all/3538_this_hook_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_too_high-p3",
+     "type": "sentence",
+     "en": "This shelf is too high.",
+     "zh": "这个架子太高了。",
+     "audio": "audio/all/3539_this_shelf_is_too_high.mp3",
+     "slow": "audio/all/3539_this_shelf_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_too_high-p4",
+     "type": "sentence",
+     "en": "This sink is too high.",
+     "zh": "这个洗手池太高了。",
+     "audio": "audio/all/3540_this_sink_is_too_high.mp3",
+     "slow": "audio/all/3540_this_sink_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_too_high-p5",
+     "type": "sentence",
+     "en": "This tree is too high.",
+     "zh": "这棵树太高了。",
+     "audio": "audio/all/3541_this_tree_is_too_high.mp3",
+     "slow": "audio/all/3541_this_tree_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_too_high-p6",
+     "type": "sentence",
+     "en": "This roof is too high.",
+     "zh": "这个屋顶太高了。",
+     "audio": "audio/all/3542_this_roof_is_too_high.mp3",
+     "slow": "audio/all/3542_this_roof_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_too_high-p7",
+     "type": "sentence",
+     "en": "This hoop is too high.",
+     "zh": "这个篮筐太高了。",
+     "audio": "audio/all/3543_this_hoop_is_too_high.mp3",
+     "slow": "audio/all/3543_this_hoop_is_too_high.mp3",
+     "image": "img/raz-b-too_high-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_too_high-p8",
+     "type": "sentence",
+     "en": "This head is just right!",
+     "zh": "这个肩膀刚刚好！",
+     "audio": "audio/all/3544_this_head_is_just_right.mp3",
+     "slow": "audio/all/3544_this_head_is_just_right.mp3",
+     "image": "img/raz-b-too_high-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

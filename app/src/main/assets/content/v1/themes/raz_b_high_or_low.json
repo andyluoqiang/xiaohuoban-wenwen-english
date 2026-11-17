@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_high_or_low",
+ "nameZh": "高还是低",
+ "bookTitle": "High or Low",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-high_or_low-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_high_or_low-u1",
+   "band": 2,
+   "title": "High or Low · 高还是低",
+   "cards": [
+    {
+     "id": "raz_b_high_or_low-p1",
+     "type": "sentence",
+     "en": "Are these balloons high or low?",
+     "zh": "这些气球高还是低？",
+     "audio": "audio/all/3204_are_these_balloons_high_or_low.mp3",
+     "slow": "audio/all/3204_are_these_balloons_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_high_or_low-p2",
+     "type": "sentence",
+     "en": "Are these slides high or low?",
+     "zh": "这些滑梯高还是低？",
+     "audio": "audio/all/3205_are_these_slides_high_or_low.mp3",
+     "slow": "audio/all/3205_are_these_slides_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_high_or_low-p3",
+     "type": "sentence",
+     "en": "Are these birds high or low?",
+     "zh": "这些鸟儿高还是低？",
+     "audio": "audio/all/3206_are_these_birds_high_or_low.mp3",
+     "slow": "audio/all/3206_are_these_birds_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_high_or_low-p4",
+     "type": "sentence",
+     "en": "Are these boards high or low?",
+     "zh": "这些跷跷板高还是低？",
+     "audio": "audio/all/3207_are_these_boards_high_or_low.mp3",
+     "slow": "audio/all/3207_are_these_boards_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_high_or_low-p5",
+     "type": "sentence",
+     "en": "Are these kites high or low?",
+     "zh": "这些风筝高还是低？",
+     "audio": "audio/all/3208_are_these_kites_high_or_low.mp3",
+     "slow": "audio/all/3208_are_these_kites_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_high_or_low-p6",
+     "type": "sentence",
+     "en": "Are these hoops high or low?",
+     "zh": "这些篮筐高还是低？",
+     "audio": "audio/all/3209_are_these_hoops_high_or_low.mp3",
+     "slow": "audio/all/3209_are_these_hoops_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_high_or_low-p7",
+     "type": "sentence",
+     "en": "Are these cats high or low?",
+     "zh": "这些猫高还是低？",
+     "audio": "audio/all/3210_are_these_cats_high_or_low.mp3",
+     "slow": "audio/all/3210_are_these_cats_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_high_or_low-p8",
+     "type": "sentence",
+     "en": "Are these people high or low?",
+     "zh": "这些人高还是低？",
+     "audio": "audio/all/3211_are_these_people_high_or_low.mp3",
+     "slow": "audio/all/3211_are_these_people_high_or_low.mp3",
+     "image": "img/raz-b-high_or_low-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

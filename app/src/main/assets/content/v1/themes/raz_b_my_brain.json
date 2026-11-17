@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_my_brain",
+ "nameZh": "我的大脑",
+ "bookTitle": "My Brain",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-my_brain-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_my_brain-u1",
+   "band": 2,
+   "title": "My Brain · 我的大脑",
+   "cards": [
+    {
+     "id": "raz_b_my_brain-p1",
+     "type": "sentence",
+     "en": "I use my brain to think.",
+     "zh": "我用大脑思考。",
+     "audio": "audio/all/3313_i_use_my_brain_to_think.mp3",
+     "slow": "audio/all/3313_i_use_my_brain_to_think.mp3",
+     "image": "img/raz-b-my_brain-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_my_brain-p2",
+     "type": "sentence",
+     "en": "I use my brain to see.",
+     "zh": "我用大脑看东西。",
+     "audio": "audio/all/3314_i_use_my_brain_to_see.mp3",
+     "slow": "audio/all/3314_i_use_my_brain_to_see.mp3",
+     "image": "img/raz-b-my_brain-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_my_brain-p3",
+     "type": "sentence",
+     "en": "I use my brain to talk.",
+     "zh": "我用大脑说话。",
+     "audio": "audio/all/3315_i_use_my_brain_to_talk.mp3",
+     "slow": "audio/all/3315_i_use_my_brain_to_talk.mp3",
+     "image": "img/raz-b-my_brain-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_my_brain-p4",
+     "type": "sentence",
+     "en": "I use my brain to listen.",
+     "zh": "我用大脑听声音。",
+     "audio": "audio/all/3316_i_use_my_brain_to_listen.mp3",
+     "slow": "audio/all/3316_i_use_my_brain_to_listen.mp3",
+     "image": "img/raz-b-my_brain-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_my_brain-p5",
+     "type": "sentence",
+     "en": "I use my brain to move.",
+     "zh": "我用大脑做动作。",
+     "audio": "audio/all/3317_i_use_my_brain_to_move.mp3",
+     "slow": "audio/all/3317_i_use_my_brain_to_move.mp3",
+     "image": "img/raz-b-my_brain-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_my_brain-p6",
+     "type": "sentence",
+     "en": "I use my brain to sleep.",
+     "zh": "我用大脑睡觉。",
+     "audio": "audio/all/3318_i_use_my_brain_to_sleep.mp3",
+     "slow": "audio/all/3318_i_use_my_brain_to_sleep.mp3",
+     "image": "img/raz-b-my_brain-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_my_brain-p7",
+     "type": "sentence",
+     "en": "I use my brain to laugh.",
+     "zh": "我用大脑哈哈笑。",
+     "audio": "audio/all/3319_i_use_my_brain_to_laugh.mp3",
+     "slow": "audio/all/3319_i_use_my_brain_to_laugh.mp3",
+     "image": "img/raz-b-my_brain-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_my_brain-p8",
+     "type": "sentence",
+     "en": "I use my brain for everything!",
+     "zh": "我的大脑什么都管！",
+     "audio": "audio/all/3320_i_use_my_brain_for_everything.mp3",
+     "slow": "audio/all/3320_i_use_my_brain_for_everything.mp3",
+     "image": "img/raz-b-my_brain-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

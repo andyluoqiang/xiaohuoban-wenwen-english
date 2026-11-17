@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_taking_care_of_chase",
+ "nameZh": "照顾小蔡斯",
+ "bookTitle": "Taking Care of Chase",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-taking_care_of_chase-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_taking_care_of_chase-u1",
+   "band": 2,
+   "title": "Taking Care of Chase · 照顾小蔡斯",
+   "cards": [
+    {
+     "id": "raz_b_taking_care_of_chase-p1",
+     "type": "sentence",
+     "en": "I feed my new dog.",
+     "zh": "我喂我的新狗狗。",
+     "audio": "audio/all/3432_i_feed_my_new_dog.mp3",
+     "slow": "audio/all/3432_i_feed_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p2",
+     "type": "sentence",
+     "en": "I walk my new dog.",
+     "zh": "我遛我的新狗狗。",
+     "audio": "audio/all/3433_i_walk_my_new_dog.mp3",
+     "slow": "audio/all/3433_i_walk_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p3",
+     "type": "sentence",
+     "en": "I wash my new dog.",
+     "zh": "我给我的新狗狗洗澡。",
+     "audio": "audio/all/3434_i_wash_my_new_dog.mp3",
+     "slow": "audio/all/3434_i_wash_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p4",
+     "type": "sentence",
+     "en": "I dry my new dog.",
+     "zh": "我给新狗狗擦干。",
+     "audio": "audio/all/3435_i_dry_my_new_dog.mp3",
+     "slow": "audio/all/3435_i_dry_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p5",
+     "type": "sentence",
+     "en": "I brush my new dog.",
+     "zh": "我给新狗狗梳毛。",
+     "audio": "audio/all/3436_i_brush_my_new_dog.mp3",
+     "slow": "audio/all/3436_i_brush_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p6",
+     "type": "sentence",
+     "en": "I pet my new dog.",
+     "zh": "我摸摸我的新狗狗。",
+     "audio": "audio/all/3437_i_pet_my_new_dog.mp3",
+     "slow": "audio/all/3437_i_pet_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p7",
+     "type": "sentence",
+     "en": "I love my new dog.",
+     "zh": "我爱我的新狗狗。",
+     "audio": "audio/all/3438_i_love_my_new_dog.mp3",
+     "slow": "audio/all/3438_i_love_my_new_dog.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_taking_care_of_chase-p8",
+     "type": "sentence",
+     "en": "My new dog loves me!",
+     "zh": "我的新狗狗也爱我！",
+     "audio": "audio/all/3439_my_new_dog_loves_me.mp3",
+     "slow": "audio/all/3439_my_new_dog_loves_me.mp3",
+     "image": "img/raz-b-taking_care_of_chase-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

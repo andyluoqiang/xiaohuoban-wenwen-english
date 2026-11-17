@@ -97,6 +97,9 @@ class MainActivity : AppCompatActivity() {
     private var tabletMode = false
     private val prefs get() = getSharedPreferences("ls_prefs", MODE_PRIVATE)
 
+    // ===== RAZ 分级阅读馆（v0.2.22）：独立模块，入口在难度档首页 =====
+    private var razShelf: RazShelf? = null
+
     // ===== 登录态 / 星星累计（v0.2.15）：账号绑定 childId，总星数以服务器为权威 =====
     private val KEY_USER = "login_username"          // 当前登录账号（空=未登录）
     private val KEY_UID = "server_user_id"            // VPS 后台 user_id
@@ -368,7 +371,7 @@ class MainActivity : AppCompatActivity() {
         col.addView(textTv("稳稳学英语", 40f, brown()).also { it.gravity = Gravity.CENTER })
         // 版本指纹：装对/装错一眼可辨（内容改版后递增，主题数随 manifest 更新）
         col.addView(TextView(this).apply {
-            text = "v0.2.21 · 29主题"
+            text = "v0.2.22 · 29主题+阅读馆"
             textSize = 12f; setTextColor(hintColor()); gravity = Gravity.CENTER
         })
         // 用户信息卡：账号 + 累计星数（每次学完自动累加并同步云端）
@@ -394,9 +397,41 @@ class MainActivity : AppCompatActivity() {
             col.addView(levelRow(lv) { showThemePicker(lv.key) }, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
         }
         col.addView(levelRowAll { showThemePicker("all") }, lp(mp(), wrapPx()).also { it.topMargin = dp(12) })
+        // RAZ 分级阅读馆入口（独立于 L1-L6，绿色描边卡片区分）
+        col.addView(razEntryRow(), lp(mp(), wrapPx()).also { it.topMargin = dp(16) })
         col.addView(modeToggle(), lp(mp()).also { it.topMargin = dp(16) })
         sc.addView(col)
         setView(sc)
+    }
+
+    /** RAZ 分级阅读馆入口行：� books 可读，绿色描边与其他档位区分 */
+    private fun razEntryRow(): View {
+        val n = com.family.listenspeak.data.RazCatalog.readyBookCount()
+        val row = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL; gravity = Gravity.CENTER_VERTICAL
+            setPadding(dp(16), dp(14), dp(16), dp(14))
+            background = rounded(0xFFEAF7F1.toInt(), dp(20)).apply {
+                setStroke(dp(2), green())
+            }
+            setOnClickListener { openRazShelf() }
+        }
+        row.addView(textTv("📚", 32f, brown()), LinearLayout.LayoutParams(wrapPx(), wrapPx()).also { it.rightMargin = dp(12) })
+        val r = vBox()
+        r.addView(textTv("分级阅读馆", 20f, greenDark()))
+        r.addView(textTv("RAZ 分级绘本 · $n 本 · 三步精读（看图→认词→跟读）", 13f, hintColor()))
+        row.addView(r, LinearLayout.LayoutParams(0, wrapPx()).apply { weight = 1f })
+        row.addView(textTv("›", 22f, greenDark()))
+        return row
+    }
+
+    /** 打开 RAZ 阅读馆：单例持有，退出时回收录音器 */
+    private fun openRazShelf() {
+        if (razShelf == null) {
+            razShelf = RazShelf(this, app, container, childId, onExit = {
+                showDifficultyMap()
+            }, onStarsGained = { delta -> addSessionStars(delta) })
+        }
+        razShelf?.showLevels()
     }
 
     // =============== ② 难度档 → 主题选择 ===============
@@ -1286,6 +1321,7 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy() {
         app.player.stop()
         recorder.stop()
+        razShelf?.onDestroy()
         super.onDestroy()
     }
 }

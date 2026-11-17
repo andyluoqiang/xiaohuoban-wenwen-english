@@ -1,0 +1,117 @@
+{
+ "theme": "raz_b_animal_caution_signs",
+ "nameZh": "动物警示牌",
+ "bookTitle": "Animal Caution Signs",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-animal_caution_signs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_animal_caution_signs-u1",
+   "band": 2,
+   "title": "Animal Caution Signs · 动物警示牌",
+   "cards": [
+    {
+     "id": "raz_b_animal_caution_signs-p1",
+     "type": "sentence",
+     "en": "Caution. Watch for ducks.",
+     "zh": "小心，注意鸭子。",
+     "audio": "audio/all/3032_caution_watch_for_ducks.mp3",
+     "slow": "audio/all/3032_caution_watch_for_ducks.mp3",
+     "image": "img/raz-b-animal_caution_signs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p2",
+     "type": "sentence",
+     "en": "Caution. Watch for cattle.",
+     "zh": "小心，注意牛。",
+     "audio": "audio/all/3033_caution_watch_for_cattle.mp3",
+     "slow": "audio/all/3033_caution_watch_for_cattle.mp3",
+     "image": "img/raz-b-animal_caution_signs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p3",
+     "type": "sentence",
+     "en": "Caution. Watch for deer.",
+     "zh": "小心，注意鹿。",
+     "audio": "audio/all/3034_caution_watch_for_deer.mp3",
+     "slow": "audio/all/3034_caution_watch_for_deer.mp3",
+     "image": "img/raz-b-animal_caution_signs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p4",
+     "type": "sentence",
+     "en": "Caution. Watch for moose.",
+     "zh": "小心，注意驼鹿。",
+     "audio": "audio/all/3035_caution_watch_for_moose.mp3",
+     "slow": "audio/all/3035_caution_watch_for_moose.mp3",
+     "image": "img/raz-b-animal_caution_signs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p5",
+     "type": "sentence",
+     "en": "Caution. Watch for kangaroos.",
+     "zh": "小心，注意袋鼠。",
+     "audio": "audio/all/3036_caution_watch_for_kangaroos.mp3",
+     "slow": "audio/all/3036_caution_watch_for_kangaroos.mp3",
+     "image": "img/raz-b-animal_caution_signs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p6",
+     "type": "sentence",
+     "en": "Caution. Watch for elephants.",
+     "zh": "小心，注意大象。",
+     "audio": "audio/all/3037_caution_watch_for_elephants.mp3",
+     "slow": "audio/all/3037_caution_watch_for_elephants.mp3",
+     "image": "img/raz-b-animal_caution_signs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p7",
+     "type": "sentence",
+     "en": "Caution. Watch for monkeys.",
+     "zh": "小心，注意猴子。",
+     "audio": "audio/all/3038_caution_watch_for_monkeys.mp3",
+     "slow": "audio/all/3038_caution_watch_for_monkeys.mp3",
+     "image": "img/raz-b-animal_caution_signs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p8",
+     "type": "sentence",
+     "en": "Caution. Watch for turtles.",
+     "zh": "小心，注意乌龟。",
+     "audio": "audio/all/3039_caution_watch_for_turtles.mp3",
+     "slow": "audio/all/3039_caution_watch_for_turtles.mp3",
+     "image": "img/raz-b-animal_caution_signs-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p9",
+     "type": "sentence",
+     "en": "Caution. Watch for chickens.",
+     "zh": "小心，注意小鸡。",
+     "audio": "audio/all/3040_caution_watch_for_chickens.mp3",
+     "slow": "audio/all/3040_caution_watch_for_chickens.mp3",
+     "image": "img/raz-b-animal_caution_signs-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_b_animal_caution_signs-p10",
+     "type": "sentence",
+     "en": "Caution. Watch for animals.",
+     "zh": "小心，注意小动物。",
+     "audio": "audio/all/3041_caution_watch_for_animals.mp3",
+     "slow": "audio/all/3041_caution_watch_for_animals.mp3",
+     "image": "img/raz-b-animal_caution_signs-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

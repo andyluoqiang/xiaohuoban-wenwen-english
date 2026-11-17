@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_bridges",
+ "nameZh": "各式各样的桥",
+ "bookTitle": "Bridges",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-bridges-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_bridges-u1",
+   "band": 2,
+   "title": "Bridges · 各式各样的桥",
+   "cards": [
+    {
+     "id": "raz_b_bridges-p1",
+     "type": "sentence",
+     "en": "Some bridges are big.",
+     "zh": "有些桥很大。",
+     "audio": "audio/all/3124_some_bridges_are_big.mp3",
+     "slow": "audio/all/3124_some_bridges_are_big.mp3",
+     "image": "img/raz-b-bridges-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_bridges-p2",
+     "type": "sentence",
+     "en": "Some bridges are small.",
+     "zh": "有些桥很小。",
+     "audio": "audio/all/3125_some_bridges_are_small.mp3",
+     "slow": "audio/all/3125_some_bridges_are_small.mp3",
+     "image": "img/raz-b-bridges-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_bridges-p3",
+     "type": "sentence",
+     "en": "Some bridges are old.",
+     "zh": "有些桥很旧。",
+     "audio": "audio/all/3126_some_bridges_are_old.mp3",
+     "slow": "audio/all/3126_some_bridges_are_old.mp3",
+     "image": "img/raz-b-bridges-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_bridges-p4",
+     "type": "sentence",
+     "en": "Some bridges are new.",
+     "zh": "有些桥很新。",
+     "audio": "audio/all/3127_some_bridges_are_new.mp3",
+     "slow": "audio/all/3127_some_bridges_are_new.mp3",
+     "image": "img/raz-b-bridges-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_bridges-p5",
+     "type": "sentence",
+     "en": "Some bridges are made from wood.",
+     "zh": "有些桥是木头做的。",
+     "audio": "audio/all/3128_some_bridges_are_made_from_wood.mp3",
+     "slow": "audio/all/3128_some_bridges_are_made_from_wood.mp3",
+     "image": "img/raz-b-bridges-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_bridges-p6",
+     "type": "sentence",
+     "en": "Some bridges are made from stone.",
+     "zh": "有些桥是石头做的。",
+     "audio": "audio/all/3129_some_bridges_are_made_from_stone.mp3",
+     "slow": "audio/all/3129_some_bridges_are_made_from_stone.mp3",
+     "image": "img/raz-b-bridges-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_bridges-p7",
+     "type": "sentence",
+     "en": "Some bridges are made from metal.",
+     "zh": "有些桥是金属做的。",
+     "audio": "audio/all/3130_some_bridges_are_made_from_metal.mp3",
+     "slow": "audio/all/3130_some_bridges_are_made_from_metal.mp3",
+     "image": "img/raz-b-bridges-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_bridges-p8",
+     "type": "sentence",
+     "en": "Some bridges are made from rope!",
+     "zh": "有些桥是绳子做的！",
+     "audio": "audio/all/3131_some_bridges_are_made_from_rope.mp3",
+     "slow": "audio/all/3131_some_bridges_are_made_from_rope.mp3",
+     "image": "img/raz-b-bridges-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_all_by_myself",
+ "nameZh": "全都自己做",
+ "bookTitle": "All By Myself",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-all_by_myself-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_all_by_myself-u1",
+   "band": 2,
+   "title": "All By Myself · 全都自己做",
+   "cards": [
+    {
+     "id": "raz_b_all_by_myself-p1",
+     "type": "sentence",
+     "en": "I read all by myself.",
+     "zh": "我自己读书。",
+     "audio": "audio/all/3016_i_read_all_by_myself.mp3",
+     "slow": "audio/all/3016_i_read_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_all_by_myself-p2",
+     "type": "sentence",
+     "en": "I color all by myself.",
+     "zh": "我自己涂色。",
+     "audio": "audio/all/3017_i_color_all_by_myself.mp3",
+     "slow": "audio/all/3017_i_color_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_all_by_myself-p3",
+     "type": "sentence",
+     "en": "I sing all by myself.",
+     "zh": "我自己唱歌。",
+     "audio": "audio/all/3018_i_sing_all_by_myself.mp3",
+     "slow": "audio/all/3018_i_sing_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_all_by_myself-p4",
+     "type": "sentence",
+     "en": "I play all by myself.",
+     "zh": "我自己玩。",
+     "audio": "audio/all/3019_i_play_all_by_myself.mp3",
+     "slow": "audio/all/3019_i_play_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_all_by_myself-p5",
+     "type": "sentence",
+     "en": "I build all by myself.",
+     "zh": "我自己搭积木。",
+     "audio": "audio/all/3020_i_build_all_by_myself.mp3",
+     "slow": "audio/all/3020_i_build_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_all_by_myself-p6",
+     "type": "sentence",
+     "en": "I listen all by myself.",
+     "zh": "我自己听。",
+     "audio": "audio/all/3021_i_listen_all_by_myself.mp3",
+     "slow": "audio/all/3021_i_listen_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_all_by_myself-p7",
+     "type": "sentence",
+     "en": "I dress all by myself.",
+     "zh": "我自己穿衣服。",
+     "audio": "audio/all/3022_i_dress_all_by_myself.mp3",
+     "slow": "audio/all/3022_i_dress_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_all_by_myself-p8",
+     "type": "sentence",
+     "en": "I think all by myself.",
+     "zh": "我自己思考。",
+     "audio": "audio/all/3023_i_think_all_by_myself.mp3",
+     "slow": "audio/all/3023_i_think_all_by_myself.mp3",
+     "image": "img/raz-b-all_by_myself-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

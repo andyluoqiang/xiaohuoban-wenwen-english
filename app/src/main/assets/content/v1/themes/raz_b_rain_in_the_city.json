@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_rain_in_the_city",
+ "nameZh": "城市里的雨",
+ "bookTitle": "Rain in the City",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-rain_in_the_city-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_rain_in_the_city-u1",
+   "band": 2,
+   "title": "Rain in the City · 城市里的雨",
+   "cards": [
+    {
+     "id": "raz_b_rain_in_the_city-p1",
+     "type": "sentence",
+     "en": "I see the clouds.",
+     "zh": "我看见乌云。",
+     "audio": "audio/all/3392_i_see_the_clouds.mp3",
+     "slow": "audio/all/3392_i_see_the_clouds.mp3",
+     "image": "img/raz-b-rain_in_the_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p2",
+     "type": "sentence",
+     "en": "I see the rain.",
+     "zh": "我看见雨。",
+     "audio": "audio/all/3393_i_see_the_rain.mp3",
+     "slow": "audio/all/3393_i_see_the_rain.mp3",
+     "image": "img/raz-b-rain_in_the_city-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p3",
+     "type": "sentence",
+     "en": "I see the lightning.",
+     "zh": "我看见闪电。",
+     "audio": "audio/all/3394_i_see_the_lightning.mp3",
+     "slow": "audio/all/3394_i_see_the_lightning.mp3",
+     "image": "img/raz-b-rain_in_the_city-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p4",
+     "type": "sentence",
+     "en": "I see the umbrellas.",
+     "zh": "我看见雨伞。",
+     "audio": "audio/all/3395_i_see_the_umbrellas.mp3",
+     "slow": "audio/all/3395_i_see_the_umbrellas.mp3",
+     "image": "img/raz-b-rain_in_the_city-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p5",
+     "type": "sentence",
+     "en": "I see the puddle.",
+     "zh": "我看见水坑。",
+     "audio": "audio/all/3396_i_see_the_puddle.mp3",
+     "slow": "audio/all/3396_i_see_the_puddle.mp3",
+     "image": "img/raz-b-rain_in_the_city-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p6",
+     "type": "sentence",
+     "en": "I see the drain.",
+     "zh": "我看见下水道。",
+     "audio": "audio/all/3397_i_see_the_drain.mp3",
+     "slow": "audio/all/3397_i_see_the_drain.mp3",
+     "image": "img/raz-b-rain_in_the_city-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p7",
+     "type": "sentence",
+     "en": "I see the rainbow.",
+     "zh": "我看见彩虹。",
+     "audio": "audio/all/3398_i_see_the_rainbow.mp3",
+     "slow": "audio/all/3398_i_see_the_rainbow.mp3",
+     "image": "img/raz-b-rain_in_the_city-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_rain_in_the_city-p8",
+     "type": "sentence",
+     "en": "I see the Sun.",
+     "zh": "我看见太阳。",
+     "audio": "audio/all/3399_i_see_the_sun.mp3",
+     "slow": "audio/all/3399_i_see_the_sun.mp3",
+     "image": "img/raz-b-rain_in_the_city-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

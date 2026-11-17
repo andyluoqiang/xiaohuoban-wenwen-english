@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_games_we_play",
+ "nameZh": "我们玩的游戏",
+ "bookTitle": "Games We Play",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-games_we_play-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_games_we_play-u1",
+   "band": 2,
+   "title": "Games We Play · 我们玩的游戏",
+   "cards": [
+    {
+     "id": "raz_b_games_we_play-p1",
+     "type": "sentence",
+     "en": "We like to play tag.",
+     "zh": "我们喜欢玩捉人游戏。",
+     "audio": "audio/all/3156_we_like_to_play_tag.mp3",
+     "slow": "audio/all/3156_we_like_to_play_tag.mp3",
+     "image": "img/raz-b-games_we_play-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_games_we_play-p2",
+     "type": "sentence",
+     "en": "We like to play baseball.",
+     "zh": "我们喜欢玩棒球。",
+     "audio": "audio/all/3157_we_like_to_play_baseball.mp3",
+     "slow": "audio/all/3157_we_like_to_play_baseball.mp3",
+     "image": "img/raz-b-games_we_play-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_games_we_play-p3",
+     "type": "sentence",
+     "en": "We like to play soccer.",
+     "zh": "我们喜欢踢足球。",
+     "audio": "audio/all/3158_we_like_to_play_soccer.mp3",
+     "slow": "audio/all/3158_we_like_to_play_soccer.mp3",
+     "image": "img/raz-b-games_we_play-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_games_we_play-p4",
+     "type": "sentence",
+     "en": "We like to play dress-up.",
+     "zh": "我们喜欢玩化妆游戏。",
+     "audio": "audio/all/3159_we_like_to_play_dress_up.mp3",
+     "slow": "audio/all/3159_we_like_to_play_dress_up.mp3",
+     "image": "img/raz-b-games_we_play-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_games_we_play-p5",
+     "type": "sentence",
+     "en": "We like to play house.",
+     "zh": "我们喜欢玩过家家。",
+     "audio": "audio/all/3160_we_like_to_play_house.mp3",
+     "slow": "audio/all/3160_we_like_to_play_house.mp3",
+     "image": "img/raz-b-games_we_play-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_games_we_play-p6",
+     "type": "sentence",
+     "en": "We like to play hide-and-seek.",
+     "zh": "我们喜欢玩捉迷藏。",
+     "audio": "audio/all/3161_we_like_to_play_hide_and_seek.mp3",
+     "slow": "audio/all/3161_we_like_to_play_hide_and_seek.mp3",
+     "image": "img/raz-b-games_we_play-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_games_we_play-p7",
+     "type": "sentence",
+     "en": "We like to play video games.",
+     "zh": "我们喜欢玩电子游戏。",
+     "audio": "audio/all/3162_we_like_to_play_video_games.mp3",
+     "slow": "audio/all/3162_we_like_to_play_video_games.mp3",
+     "image": "img/raz-b-games_we_play-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_games_we_play-p8",
+     "type": "sentence",
+     "en": "But we do not play with fire.",
+     "zh": "但是我们不玩火。",
+     "audio": "audio/all/3163_but_we_do_not_play_with_fire.mp3",
+     "slow": "audio/all/3163_but_we_do_not_play_with_fire.mp3",
+     "image": "img/raz-b-games_we_play-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

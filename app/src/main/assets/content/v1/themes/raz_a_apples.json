@@ -1,0 +1,96 @@
+{
+ "theme": "raz_a_apples",
+ "nameZh": "数数苹果",
+ "bookTitle": "How Many Apples?",
+ "razLevel": "A",
+ "order": 1,
+ "units": [
+  {
+   "id": "raz_a_apples-u1",
+   "band": 2,
+   "title": "How Many Apples? · 数数苹果",
+   "cards": [
+    {
+     "id": "raz_a_apples-p1",
+     "type": "sentence",
+     "en": "One apple.",
+     "zh": "一个苹果。",
+     "audio": "audio/all/2408_one_apple.mp3",
+     "slow": "audio/all/2408_one_apple.mp3",
+     "image": "img/raz-a-apples-01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_apples-p2",
+     "type": "sentence",
+     "en": "Two apples.",
+     "zh": "两个苹果。",
+     "audio": "audio/all/2409_two_apples.mp3",
+     "slow": "audio/all/2409_two_apples.mp3",
+     "image": "img/raz-a-apples-02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_apples-p3",
+     "type": "sentence",
+     "en": "Three apples.",
+     "zh": "三个苹果。",
+     "audio": "audio/all/2410_three_apples.mp3",
+     "slow": "audio/all/2410_three_apples.mp3",
+     "image": "img/raz-a-apples-03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_apples-p4",
+     "type": "sentence",
+     "en": "Four apples.",
+     "zh": "四个苹果。",
+     "audio": "audio/all/2411_four_apples.mp3",
+     "slow": "audio/all/2411_four_apples.mp3",
+     "image": "img/raz-a-apples-04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_apples-p5",
+     "type": "sentence",
+     "en": "Five apples.",
+     "zh": "五个苹果。",
+     "audio": "audio/all/2412_five_apples.mp3",
+     "slow": "audio/all/2412_five_apples.mp3",
+     "image": "img/raz-a-apples-05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_apples-p6",
+     "type": "sentence",
+     "en": "Six apples.",
+     "zh": "六个苹果。",
+     "audio": "audio/all/2413_six_apples.mp3",
+     "slow": "audio/all/2413_six_apples.mp3",
+     "image": "img/raz-a-apples-06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_apples-p7",
+     "type": "sentence",
+     "en": "Seven apples.",
+     "zh": "七个苹果。",
+     "audio": "audio/all/2414_seven_apples.mp3",
+     "slow": "audio/all/2414_seven_apples.mp3",
+     "image": "img/raz-a-apples-07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_apples-p8",
+     "type": "sentence",
+     "en": "Eight apples.",
+     "zh": "八个苹果。",
+     "audio": "audio/all/2415_eight_apples.mp3",
+     "slow": "audio/all/2415_eight_apples.mp3",
+     "image": "img/raz-a-apples-08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

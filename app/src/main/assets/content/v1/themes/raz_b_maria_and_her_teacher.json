@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_maria_and_her_teacher",
+ "nameZh": "玛丽亚和她的老师",
+ "bookTitle": "Maria and Her Teacher",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-maria_and_her_teacher-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_maria_and_her_teacher-u1",
+   "band": 2,
+   "title": "Maria and Her Teacher · 玛丽亚和她的老师",
+   "cards": [
+    {
+     "id": "raz_b_maria_and_her_teacher-p1",
+     "type": "sentence",
+     "en": "Maria and her teacher talk.",
+     "zh": "玛丽亚和老师一起说话。",
+     "audio": "audio/all/3297_maria_and_her_teacher_talk.mp3",
+     "slow": "audio/all/3297_maria_and_her_teacher_talk.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p2",
+     "type": "sentence",
+     "en": "Maria and her teacher write.",
+     "zh": "玛丽亚和老师一起写字。",
+     "audio": "audio/all/3298_maria_and_her_teacher_write.mp3",
+     "slow": "audio/all/3298_maria_and_her_teacher_write.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p3",
+     "type": "sentence",
+     "en": "Maria and her teacher read.",
+     "zh": "玛丽亚和老师一起读书。",
+     "audio": "audio/all/3299_maria_and_her_teacher_read.mp3",
+     "slow": "audio/all/3299_maria_and_her_teacher_read.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p4",
+     "type": "sentence",
+     "en": "Maria and her teacher add.",
+     "zh": "玛丽亚和老师一起算数。",
+     "audio": "audio/all/3300_maria_and_her_teacher_add.mp3",
+     "slow": "audio/all/3300_maria_and_her_teacher_add.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p5",
+     "type": "sentence",
+     "en": "Maria and her teacher smile.",
+     "zh": "玛丽亚和老师一起微笑。",
+     "audio": "audio/all/3301_maria_and_her_teacher_smile.mp3",
+     "slow": "audio/all/3301_maria_and_her_teacher_smile.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p6",
+     "type": "sentence",
+     "en": "Maria and her teacher paint.",
+     "zh": "玛丽亚和老师一起画画。",
+     "audio": "audio/all/3302_maria_and_her_teacher_paint.mp3",
+     "slow": "audio/all/3302_maria_and_her_teacher_paint.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p7",
+     "type": "sentence",
+     "en": "Maria and her teacher clean.",
+     "zh": "玛丽亚和老师一起打扫。",
+     "audio": "audio/all/3303_maria_and_her_teacher_clean.mp3",
+     "slow": "audio/all/3303_maria_and_her_teacher_clean.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_maria_and_her_teacher-p8",
+     "type": "sentence",
+     "en": "Maria and her teacher play.",
+     "zh": "玛丽亚和老师一起玩。",
+     "audio": "audio/all/3304_maria_and_her_teacher_play.mp3",
+     "slow": "audio/all/3304_maria_and_her_teacher_play.mp3",
+     "image": "img/raz-b-maria_and_her_teacher-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

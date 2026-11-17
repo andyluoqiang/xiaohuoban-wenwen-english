@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_boats",
+ "nameZh": "各式各样的船",
+ "bookTitle": "Boats",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-boats-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_boats-u1",
+   "band": 2,
+   "title": "Boats · 各式各样的船",
+   "cards": [
+    {
+     "id": "raz_b_boats-p1",
+     "type": "sentence",
+     "en": "This boat carries people.",
+     "zh": "这艘船载人。",
+     "audio": "audio/all/3108_this_boat_carries_people.mp3",
+     "slow": "audio/all/3108_this_boat_carries_people.mp3",
+     "image": "img/raz-b-boats-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_boats-p2",
+     "type": "sentence",
+     "en": "This boat carries police.",
+     "zh": "这艘船载警察。",
+     "audio": "audio/all/3109_this_boat_carries_police.mp3",
+     "slow": "audio/all/3109_this_boat_carries_police.mp3",
+     "image": "img/raz-b-boats-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_boats-p3",
+     "type": "sentence",
+     "en": "This boat carries food.",
+     "zh": "这艘船运食物。",
+     "audio": "audio/all/3110_this_boat_carries_food.mp3",
+     "slow": "audio/all/3110_this_boat_carries_food.mp3",
+     "image": "img/raz-b-boats-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_boats-p4",
+     "type": "sentence",
+     "en": "This boat carries logs.",
+     "zh": "这艘船运木头。",
+     "audio": "audio/all/3111_this_boat_carries_logs.mp3",
+     "slow": "audio/all/3111_this_boat_carries_logs.mp3",
+     "image": "img/raz-b-boats-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_boats-p5",
+     "type": "sentence",
+     "en": "This boat carries trash.",
+     "zh": "这艘船运垃圾。",
+     "audio": "audio/all/3112_this_boat_carries_trash.mp3",
+     "slow": "audio/all/3112_this_boat_carries_trash.mp3",
+     "image": "img/raz-b-boats-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_boats-p6",
+     "type": "sentence",
+     "en": "This boat carries cars.",
+     "zh": "这艘船运汽车。",
+     "audio": "audio/all/3113_this_boat_carries_cars.mp3",
+     "slow": "audio/all/3113_this_boat_carries_cars.mp3",
+     "image": "img/raz-b-boats-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_boats-p7",
+     "type": "sentence",
+     "en": "This boat carries planes.",
+     "zh": "这艘船运飞机。",
+     "audio": "audio/all/3114_this_boat_carries_planes.mp3",
+     "slow": "audio/all/3114_this_boat_carries_planes.mp3",
+     "image": "img/raz-b-boats-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_boats-p8",
+     "type": "sentence",
+     "en": "This boat carries boats.",
+     "zh": "这艘船运小船。",
+     "audio": "audio/all/3115_this_boat_carries_boats.mp3",
+     "slow": "audio/all/3115_this_boat_carries_boats.mp3",
+     "image": "img/raz-b-boats-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

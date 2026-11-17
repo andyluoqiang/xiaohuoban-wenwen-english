@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_mixing_colors",
+ "nameZh": "颜色混合",
+ "bookTitle": "Mixing Colors",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-mixing_colors-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_mixing_colors-u1",
+   "band": 2,
+   "title": "Mixing Colors · 颜色混合",
+   "cards": [
+    {
+     "id": "raz_b_mixing_colors-p1",
+     "type": "sentence",
+     "en": "Mix the red and blue colors.",
+     "zh": "把红色和蓝色混在一起。",
+     "audio": "audio/all/3305_mix_the_red_and_blue_colors.mp3",
+     "slow": "audio/all/3305_mix_the_red_and_blue_colors.mp3",
+     "image": "img/raz-b-mixing_colors-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_mixing_colors-p2",
+     "type": "sentence",
+     "en": "They turn into purple.",
+     "zh": "它们变成了紫色。",
+     "audio": "audio/all/3306_they_turn_into_purple.mp3",
+     "slow": "audio/all/3306_they_turn_into_purple.mp3",
+     "image": "img/raz-b-mixing_colors-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_mixing_colors-p3",
+     "type": "sentence",
+     "en": "Mix the yellow and red colors.",
+     "zh": "把黄色和红色混在一起。",
+     "audio": "audio/all/3307_mix_the_yellow_and_red_colors.mp3",
+     "slow": "audio/all/3307_mix_the_yellow_and_red_colors.mp3",
+     "image": "img/raz-b-mixing_colors-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_mixing_colors-p4",
+     "type": "sentence",
+     "en": "They turn into orange.",
+     "zh": "它们变成了橙色。",
+     "audio": "audio/all/3308_they_turn_into_orange.mp3",
+     "slow": "audio/all/3308_they_turn_into_orange.mp3",
+     "image": "img/raz-b-mixing_colors-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_mixing_colors-p5",
+     "type": "sentence",
+     "en": "Mix the blue and yellow colors.",
+     "zh": "把蓝色和黄色混在一起。",
+     "audio": "audio/all/3309_mix_the_blue_and_yellow_colors.mp3",
+     "slow": "audio/all/3309_mix_the_blue_and_yellow_colors.mp3",
+     "image": "img/raz-b-mixing_colors-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_mixing_colors-p6",
+     "type": "sentence",
+     "en": "They turn into green.",
+     "zh": "它们变成了绿色。",
+     "audio": "audio/all/3310_they_turn_into_green.mp3",
+     "slow": "audio/all/3310_they_turn_into_green.mp3",
+     "image": "img/raz-b-mixing_colors-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_mixing_colors-p7",
+     "type": "sentence",
+     "en": "Mix the green and purple colors.",
+     "zh": "把绿色和紫色混在一起。",
+     "audio": "audio/all/3311_mix_the_green_and_purple_colors.mp3",
+     "slow": "audio/all/3311_mix_the_green_and_purple_colors.mp3",
+     "image": "img/raz-b-mixing_colors-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_mixing_colors-p8",
+     "type": "sentence",
+     "en": "They turn into brown.",
+     "zh": "它们变成了棕色。",
+     "audio": "audio/all/3312_they_turn_into_brown.mp3",
+     "slow": "audio/all/3312_they_turn_into_brown.mp3",
+     "image": "img/raz-b-mixing_colors-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

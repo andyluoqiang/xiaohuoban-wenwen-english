@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_bonkers_likes_to_bark",
+ "nameZh": "邦克斯爱叫",
+ "bookTitle": "Bonkers Likes to Bark",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-bonkers_likes_to_bark-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_bonkers_likes_to_bark-u1",
+   "band": 2,
+   "title": "Bonkers Likes to Bark · 邦克斯爱叫",
+   "cards": [
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p1",
+     "type": "sentence",
+     "en": "Bonkers likes to bark.",
+     "zh": "邦克斯喜欢叫。",
+     "audio": "audio/all/3116_bonkers_likes_to_bark.mp3",
+     "slow": "audio/all/3116_bonkers_likes_to_bark.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p2",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at cars.",
+     "zh": "邦克斯见到汽车就叫。",
+     "audio": "audio/all/3117_bonkers_likes_to_bark_at_cars.mp3",
+     "slow": "audio/all/3117_bonkers_likes_to_bark_at_cars.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p3",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at cats.",
+     "zh": "邦克斯见到猫就叫。",
+     "audio": "audio/all/3118_bonkers_likes_to_bark_at_cats.mp3",
+     "slow": "audio/all/3118_bonkers_likes_to_bark_at_cats.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p4",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at bikes.",
+     "zh": "邦克斯见到自行车就叫。",
+     "audio": "audio/all/3119_bonkers_likes_to_bark_at_bikes.mp3",
+     "slow": "audio/all/3119_bonkers_likes_to_bark_at_bikes.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p5",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at squirrels.",
+     "zh": "邦克斯见到松鼠就叫。",
+     "audio": "audio/all/3120_bonkers_likes_to_bark_at_squirrels.mp3",
+     "slow": "audio/all/3120_bonkers_likes_to_bark_at_squirrels.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p6",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at kids.",
+     "zh": "邦克斯见到小朋友就叫。",
+     "audio": "audio/all/3121_bonkers_likes_to_bark_at_kids.mp3",
+     "slow": "audio/all/3121_bonkers_likes_to_bark_at_kids.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p7",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at birds.",
+     "zh": "邦克斯见到小鸟就叫。",
+     "audio": "audio/all/3122_bonkers_likes_to_bark_at_birds.mp3",
+     "slow": "audio/all/3122_bonkers_likes_to_bark_at_birds.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_bonkers_likes_to_bark-p8",
+     "type": "sentence",
+     "en": "Bonkers likes to bark at Bonkers!",
+     "zh": "邦克斯见到自己也要叫！",
+     "audio": "audio/all/3123_bonkers_likes_to_bark_at_bonkers.mp3",
+     "slow": "audio/all/3123_bonkers_likes_to_bark_at_bonkers.mp3",
+     "image": "img/raz-b-bonkers_likes_to_bark-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

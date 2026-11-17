@@ -1,0 +1,87 @@
+{
+ "theme": "raz_b_animals_can_move",
+ "nameZh": "动物会动",
+ "bookTitle": "Animals Can Move",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-animals_can_move-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_animals_can_move-u1",
+   "band": 2,
+   "title": "Animals Can Move · 动物会动",
+   "cards": [
+    {
+     "id": "raz_b_animals_can_move-p1",
+     "type": "sentence",
+     "en": "The camel can walk.",
+     "zh": "骆驼会走。",
+     "audio": "audio/all/3068_the_camel_can_walk.mp3",
+     "slow": "audio/all/3068_the_camel_can_walk.mp3",
+     "image": "img/raz-b-animals_can_move-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_animals_can_move-p2",
+     "type": "sentence",
+     "en": "The horse can run.",
+     "zh": "马儿会跑。",
+     "audio": "audio/all/3069_the_horse_can_run.mp3",
+     "slow": "audio/all/3069_the_horse_can_run.mp3",
+     "image": "img/raz-b-animals_can_move-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_animals_can_move-p3",
+     "type": "sentence",
+     "en": "The snake can slither.",
+     "zh": "蛇会爬行。",
+     "audio": "audio/all/3070_the_snake_can_slither.mp3",
+     "slow": "audio/all/3070_the_snake_can_slither.mp3",
+     "image": "img/raz-b-animals_can_move-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_animals_can_move-p4",
+     "type": "sentence",
+     "en": "The rabbit can hop.",
+     "zh": "兔子会蹦跳。",
+     "audio": "audio/all/3071_the_rabbit_can_hop.mp3",
+     "slow": "audio/all/3071_the_rabbit_can_hop.mp3",
+     "image": "img/raz-b-animals_can_move-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_animals_can_move-p5",
+     "type": "sentence",
+     "en": "The polar bear can swim.",
+     "zh": "北极熊会游泳。",
+     "audio": "audio/all/3072_the_polar_bear_can_swim.mp3",
+     "slow": "audio/all/3072_the_polar_bear_can_swim.mp3",
+     "image": "img/raz-b-animals_can_move-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_animals_can_move-p6",
+     "type": "sentence",
+     "en": "The bird can fly.",
+     "zh": "小鸟会飞。",
+     "audio": "audio/all/3073_the_bird_can_fly.mp3",
+     "slow": "audio/all/3073_the_bird_can_fly.mp3",
+     "image": "img/raz-b-animals_can_move-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_animals_can_move-p7",
+     "type": "sentence",
+     "en": "The bug can crawl.",
+     "zh": "小虫会爬。",
+     "audio": "audio/all/3074_the_bug_can_crawl.mp3",
+     "slow": "audio/all/3074_the_bug_can_crawl.mp3",
+     "image": "img/raz-b-animals_can_move-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

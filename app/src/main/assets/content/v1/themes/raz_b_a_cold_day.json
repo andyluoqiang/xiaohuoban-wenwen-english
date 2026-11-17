@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_a_cold_day",
+ "nameZh": "寒冷的一天",
+ "bookTitle": "A Cold Day",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-a_cold_day-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_a_cold_day-u1",
+   "band": 2,
+   "title": "A Cold Day · 寒冷的一天",
+   "cards": [
+    {
+     "id": "raz_b_a_cold_day-p1",
+     "type": "sentence",
+     "en": "The air feels cold today.",
+     "zh": "今天空气凉凉的。",
+     "audio": "audio/all/3000_the_air_feels_cold_today.mp3",
+     "slow": "audio/all/3000_the_air_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_a_cold_day-p2",
+     "type": "sentence",
+     "en": "The car feels cold today.",
+     "zh": "今天汽车凉凉的。",
+     "audio": "audio/all/3001_the_car_feels_cold_today.mp3",
+     "slow": "audio/all/3001_the_car_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_a_cold_day-p3",
+     "type": "sentence",
+     "en": "The tree feels cold today.",
+     "zh": "今天大树凉凉的。",
+     "audio": "audio/all/3002_the_tree_feels_cold_today.mp3",
+     "slow": "audio/all/3002_the_tree_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_a_cold_day-p4",
+     "type": "sentence",
+     "en": "The fence feels cold today.",
+     "zh": "今天栅栏凉凉的。",
+     "audio": "audio/all/3003_the_fence_feels_cold_today.mp3",
+     "slow": "audio/all/3003_the_fence_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_a_cold_day-p5",
+     "type": "sentence",
+     "en": "The mailbox feels cold today.",
+     "zh": "今天邮筒凉凉的。",
+     "audio": "audio/all/3004_the_mailbox_feels_cold_today.mp3",
+     "slow": "audio/all/3004_the_mailbox_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_a_cold_day-p6",
+     "type": "sentence",
+     "en": "The mail feels cold today.",
+     "zh": "今天信件凉凉的。",
+     "audio": "audio/all/3005_the_mail_feels_cold_today.mp3",
+     "slow": "audio/all/3005_the_mail_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_a_cold_day-p7",
+     "type": "sentence",
+     "en": "The door handle feels cold today.",
+     "zh": "今天门把手凉凉的。",
+     "audio": "audio/all/3006_the_door_handle_feels_cold_today.mp3",
+     "slow": "audio/all/3006_the_door_handle_feels_cold_today.mp3",
+     "image": "img/raz-b-a_cold_day-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_a_cold_day-p8",
+     "type": "sentence",
+     "en": "The hot chocolate feels good today!",
+     "zh": "今天热乎乎的可可真舒服！",
+     "audio": "audio/all/3007_the_hot_chocolate_feels_good_today.mp3",
+     "slow": "audio/all/3007_the_hot_chocolate_feels_good_today.mp3",
+     "image": "img/raz-b-a_cold_day-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_rain_in_the_country",
+ "nameZh": "乡村里的雨",
+ "bookTitle": "Rain in the Country",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-rain_in_the_country-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_rain_in_the_country-u1",
+   "band": 2,
+   "title": "Rain in the Country · 乡村里的雨",
+   "cards": [
+    {
+     "id": "raz_b_rain_in_the_country-p1",
+     "type": "sentence",
+     "en": "I see the clouds.",
+     "zh": "我看见乌云。",
+     "audio": "audio/all/3400_i_see_the_clouds.mp3",
+     "slow": "audio/all/3400_i_see_the_clouds.mp3",
+     "image": "img/raz-b-rain_in_the_country-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p2",
+     "type": "sentence",
+     "en": "I see the rain.",
+     "zh": "我看见雨。",
+     "audio": "audio/all/3401_i_see_the_rain.mp3",
+     "slow": "audio/all/3401_i_see_the_rain.mp3",
+     "image": "img/raz-b-rain_in_the_country-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p3",
+     "type": "sentence",
+     "en": "I see the lightning.",
+     "zh": "我看见闪电。",
+     "audio": "audio/all/3402_i_see_the_lightning.mp3",
+     "slow": "audio/all/3402_i_see_the_lightning.mp3",
+     "image": "img/raz-b-rain_in_the_country-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p4",
+     "type": "sentence",
+     "en": "I see the horse.",
+     "zh": "我看见小马。",
+     "audio": "audio/all/3403_i_see_the_horse.mp3",
+     "slow": "audio/all/3403_i_see_the_horse.mp3",
+     "image": "img/raz-b-rain_in_the_country-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p5",
+     "type": "sentence",
+     "en": "I see the puddle.",
+     "zh": "我看见水坑。",
+     "audio": "audio/all/3404_i_see_the_puddle.mp3",
+     "slow": "audio/all/3404_i_see_the_puddle.mp3",
+     "image": "img/raz-b-rain_in_the_country-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p6",
+     "type": "sentence",
+     "en": "I see the mud.",
+     "zh": "我看见泥巴。",
+     "audio": "audio/all/3405_i_see_the_mud.mp3",
+     "slow": "audio/all/3405_i_see_the_mud.mp3",
+     "image": "img/raz-b-rain_in_the_country-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p7",
+     "type": "sentence",
+     "en": "I see the rainbow.",
+     "zh": "我看见彩虹。",
+     "audio": "audio/all/3406_i_see_the_rainbow.mp3",
+     "slow": "audio/all/3406_i_see_the_rainbow.mp3",
+     "image": "img/raz-b-rain_in_the_country-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_rain_in_the_country-p8",
+     "type": "sentence",
+     "en": "I see the Sun.",
+     "zh": "我看见太阳。",
+     "audio": "audio/all/3407_i_see_the_sun.mp3",
+     "slow": "audio/all/3407_i_see_the_sun.mp3",
+     "image": "img/raz-b-rain_in_the_country-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

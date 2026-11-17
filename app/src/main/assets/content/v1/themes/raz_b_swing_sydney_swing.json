@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_swing_sydney_swing",
+ "nameZh": "荡起来，悉尼",
+ "bookTitle": "Swing, Sydney, Swing!",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-swing_sydney_swing-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_swing_sydney_swing-u1",
+   "band": 2,
+   "title": "Swing, Sydney, Swing! · 荡起来，悉尼",
+   "cards": [
+    {
+     "id": "raz_b_swing_sydney_swing-p1",
+     "type": "sentence",
+     "en": "Sydney loves to swing.",
+     "zh": "悉尼喜欢荡秋千。",
+     "audio": "audio/all/3424_sydney_loves_to_swing.mp3",
+     "slow": "audio/all/3424_sydney_loves_to_swing.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p2",
+     "type": "sentence",
+     "en": "Sydney swings above the grass.",
+     "zh": "悉尼荡在草地上方。",
+     "audio": "audio/all/3425_sydney_swings_above_the_grass.mp3",
+     "slow": "audio/all/3425_sydney_swings_above_the_grass.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p3",
+     "type": "sentence",
+     "en": "Sydney swings below the tree.",
+     "zh": "悉尼荡在大树下方。",
+     "audio": "audio/all/3426_sydney_swings_below_the_tree.mp3",
+     "slow": "audio/all/3426_sydney_swings_below_the_tree.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p4",
+     "type": "sentence",
+     "en": "Sydney swings over the mud.",
+     "zh": "悉尼荡过泥坑。",
+     "audio": "audio/all/3427_sydney_swings_over_the_mud.mp3",
+     "slow": "audio/all/3427_sydney_swings_over_the_mud.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p5",
+     "type": "sentence",
+     "en": "Sydney swings under the nest.",
+     "zh": "悉尼荡到鸟窝下面。",
+     "audio": "audio/all/3428_sydney_swings_under_the_nest.mp3",
+     "slow": "audio/all/3428_sydney_swings_under_the_nest.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p6",
+     "type": "sentence",
+     "en": "Sydney swings beside the goat.",
+     "zh": "悉尼荡在小山羊旁边。",
+     "audio": "audio/all/3429_sydney_swings_beside_the_goat.mp3",
+     "slow": "audio/all/3429_sydney_swings_beside_the_goat.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p7",
+     "type": "sentence",
+     "en": "Sydney swings between the chickens.",
+     "zh": "悉尼荡在小鸡们中间。",
+     "audio": "audio/all/3430_sydney_swings_between_the_chickens.mp3",
+     "slow": "audio/all/3430_sydney_swings_between_the_chickens.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_swing_sydney_swing-p8",
+     "type": "sentence",
+     "en": "Sydney swings at the farm.",
+     "zh": "悉尼在农场里荡秋千。",
+     "audio": "audio/all/3431_sydney_swings_at_the_farm.mp3",
+     "slow": "audio/all/3431_sydney_swings_at_the_farm.mp3",
+     "image": "img/raz-b-swing_sydney_swing-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

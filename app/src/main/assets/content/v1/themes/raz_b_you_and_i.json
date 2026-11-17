@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_you_and_i",
+ "nameZh": "你和我",
+ "bookTitle": "You and I",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-you_and_i-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_you_and_i-u1",
+   "band": 2,
+   "title": "You and I · 你和我",
+   "cards": [
+    {
+     "id": "raz_b_you_and_i-p1",
+     "type": "sentence",
+     "en": "You and I swing.",
+     "zh": "你和我一起荡秋千。",
+     "audio": "audio/all/3689_you_and_i_swing.mp3",
+     "slow": "audio/all/3689_you_and_i_swing.mp3",
+     "image": "img/raz-b-you_and_i-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_you_and_i-p2",
+     "type": "sentence",
+     "en": "You and I slide.",
+     "zh": "你和我一起滑滑梯。",
+     "audio": "audio/all/3690_you_and_i_slide.mp3",
+     "slow": "audio/all/3690_you_and_i_slide.mp3",
+     "image": "img/raz-b-you_and_i-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_you_and_i-p3",
+     "type": "sentence",
+     "en": "You and I ride.",
+     "zh": "你和我一起骑车。",
+     "audio": "audio/all/3691_you_and_i_ride.mp3",
+     "slow": "audio/all/3691_you_and_i_ride.mp3",
+     "image": "img/raz-b-you_and_i-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_you_and_i-p4",
+     "type": "sentence",
+     "en": "You and I hike.",
+     "zh": "你和我一起远足。",
+     "audio": "audio/all/3692_you_and_i_hike.mp3",
+     "slow": "audio/all/3692_you_and_i_hike.mp3",
+     "image": "img/raz-b-you_and_i-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_you_and_i-p5",
+     "type": "sentence",
+     "en": "You and I bike.",
+     "zh": "你和我一起骑单车。",
+     "audio": "audio/all/3693_you_and_i_bike.mp3",
+     "slow": "audio/all/3693_you_and_i_bike.mp3",
+     "image": "img/raz-b-you_and_i-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_you_and_i-p6",
+     "type": "sentence",
+     "en": "You and I run.",
+     "zh": "你和我一起跑步。",
+     "audio": "audio/all/3694_you_and_i_run.mp3",
+     "slow": "audio/all/3694_you_and_i_run.mp3",
+     "image": "img/raz-b-you_and_i-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_you_and_i-p7",
+     "type": "sentence",
+     "en": "You and I dance.",
+     "zh": "你和我一起跳舞。",
+     "audio": "audio/all/3695_you_and_i_dance.mp3",
+     "slow": "audio/all/3695_you_and_i_dance.mp3",
+     "image": "img/raz-b-you_and_i-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_you_and_i-p8",
+     "type": "sentence",
+     "en": "You and I have lots of fun.",
+     "zh": "你和我一起玩得真开心。",
+     "audio": "audio/all/3696_you_and_i_have_lots_of_fun.mp3",
+     "slow": "audio/all/3696_you_and_i_have_lots_of_fun.mp3",
+     "image": "img/raz-b-you_and_i-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

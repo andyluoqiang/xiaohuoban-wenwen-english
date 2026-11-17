@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_the_big_game",
+ "nameZh": "大赛日",
+ "bookTitle": "The Big Game",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-the_big_game-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_the_big_game-u1",
+   "band": 2,
+   "title": "The Big Game · 大赛日",
+   "cards": [
+    {
+     "id": "raz_b_the_big_game-p1",
+     "type": "sentence",
+     "en": "We clean on game day.",
+     "zh": "大赛日我们来打扫。",
+     "audio": "audio/all/3464_we_clean_on_game_day.mp3",
+     "slow": "audio/all/3464_we_clean_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_the_big_game-p2",
+     "type": "sentence",
+     "en": "We dress up on game day.",
+     "zh": "大赛日我们盛装打扮。",
+     "audio": "audio/all/3465_we_dress_up_on_game_day.mp3",
+     "slow": "audio/all/3465_we_dress_up_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_the_big_game-p3",
+     "type": "sentence",
+     "en": "We see friends on game day.",
+     "zh": "大赛日我们见朋友。",
+     "audio": "audio/all/3466_we_see_friends_on_game_day.mp3",
+     "slow": "audio/all/3466_we_see_friends_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_the_big_game-p4",
+     "type": "sentence",
+     "en": "We paint faces on game day.",
+     "zh": "大赛日我们画花脸。",
+     "audio": "audio/all/3467_we_paint_faces_on_game_day.mp3",
+     "slow": "audio/all/3467_we_paint_faces_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_the_big_game-p5",
+     "type": "sentence",
+     "en": "We eat snacks on game day.",
+     "zh": "大赛日我们吃零食。",
+     "audio": "audio/all/3468_we_eat_snacks_on_game_day.mp3",
+     "slow": "audio/all/3468_we_eat_snacks_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_the_big_game-p6",
+     "type": "sentence",
+     "en": "We watch football on game day.",
+     "zh": "大赛日我们看橄榄球。",
+     "audio": "audio/all/3469_we_watch_football_on_game_day.mp3",
+     "slow": "audio/all/3469_we_watch_football_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_the_big_game-p7",
+     "type": "sentence",
+     "en": "We cheer on game day.",
+     "zh": "大赛日我们欢呼。",
+     "audio": "audio/all/3470_we_cheer_on_game_day.mp3",
+     "slow": "audio/all/3470_we_cheer_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_the_big_game-p8",
+     "type": "sentence",
+     "en": "We play football on game day!",
+     "zh": "大赛日我们自己上场打橄榄球！",
+     "audio": "audio/all/3471_we_play_football_on_game_day.mp3",
+     "slow": "audio/all/3471_we_play_football_on_game_day.mp3",
+     "image": "img/raz-b-the_big_game-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

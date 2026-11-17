@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_henrys_hike",
+ "nameZh": "亨利去远足",
+ "bookTitle": "Henry's Hike",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-henrys_hike-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_henrys_hike-u1",
+   "band": 2,
+   "title": "Henry's Hike · 亨利去远足",
+   "cards": [
+    {
+     "id": "raz_b_henrys_hike-p1",
+     "type": "sentence",
+     "en": "Henry hikes into the park.",
+     "zh": "亨利走进公园。",
+     "audio": "audio/all/3196_henry_hikes_into_the_park.mp3",
+     "slow": "audio/all/3196_henry_hikes_into_the_park.mp3",
+     "image": "img/raz-b-henrys_hike-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_henrys_hike-p2",
+     "type": "sentence",
+     "en": "Henry hikes on the trail.",
+     "zh": "亨利在小路上走。",
+     "audio": "audio/all/3197_henry_hikes_on_the_trail.mp3",
+     "slow": "audio/all/3197_henry_hikes_on_the_trail.mp3",
+     "image": "img/raz-b-henrys_hike-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_henrys_hike-p3",
+     "type": "sentence",
+     "en": "Henry hikes around the pond.",
+     "zh": "亨利绕着池塘走。",
+     "audio": "audio/all/3198_henry_hikes_around_the_pond.mp3",
+     "slow": "audio/all/3198_henry_hikes_around_the_pond.mp3",
+     "image": "img/raz-b-henrys_hike-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_henrys_hike-p4",
+     "type": "sentence",
+     "en": "Henry hikes in the mud.",
+     "zh": "亨利在泥地里走。",
+     "audio": "audio/all/3199_henry_hikes_in_the_mud.mp3",
+     "slow": "audio/all/3199_henry_hikes_in_the_mud.mp3",
+     "image": "img/raz-b-henrys_hike-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_henrys_hike-p5",
+     "type": "sentence",
+     "en": "Henry hikes up the hill.",
+     "zh": "亨利爬上小山。",
+     "audio": "audio/all/3200_henry_hikes_up_the_hill.mp3",
+     "slow": "audio/all/3200_henry_hikes_up_the_hill.mp3",
+     "image": "img/raz-b-henrys_hike-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_henrys_hike-p6",
+     "type": "sentence",
+     "en": "Henry hikes past the deer.",
+     "zh": "亨利路过小鹿。",
+     "audio": "audio/all/3201_henry_hikes_past_the_deer.mp3",
+     "slow": "audio/all/3201_henry_hikes_past_the_deer.mp3",
+     "image": "img/raz-b-henrys_hike-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_henrys_hike-p7",
+     "type": "sentence",
+     "en": "Henry hikes down the hill.",
+     "zh": "亨利走下山。",
+     "audio": "audio/all/3202_henry_hikes_down_the_hill.mp3",
+     "slow": "audio/all/3202_henry_hikes_down_the_hill.mp3",
+     "image": "img/raz-b-henrys_hike-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_henrys_hike-p8",
+     "type": "sentence",
+     "en": "Henry hikes to the car.",
+     "zh": "亨利走回汽车。",
+     "audio": "audio/all/3203_henry_hikes_to_the_car.mp3",
+     "slow": "audio/all/3203_henry_hikes_to_the_car.mp3",
+     "image": "img/raz-b-henrys_hike-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

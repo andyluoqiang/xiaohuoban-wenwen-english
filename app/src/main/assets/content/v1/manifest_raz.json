@@ -1,0 +1,719 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-17",
+ "levels": [
+  {
+   "level": "aa",
+   "desc": "看图说话 · 名词短语",
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_aa_colors",
+     "title": "I Like Colors",
+     "nameZh": "我喜欢颜色",
+     "officialMeta": null,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "level": "A",
+   "desc": "完整短句 · 起步",
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_a_apples",
+     "title": "How Many Apples?",
+     "nameZh": "数数苹果",
+     "officialMeta": null,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "level": "B",
+   "desc": "重复句型 · 巩固",
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_b_a_cold_day",
+     "title": "A Cold Day",
+     "nameZh": "寒冷的一天",
+     "order": 1
+    },
+    {
+     "themeId": "raz_b_after_school",
+     "title": "After School",
+     "nameZh": "放学以后",
+     "order": 2
+    },
+    {
+     "themeId": "raz_b_all_by_myself",
+     "title": "All By Myself",
+     "nameZh": "全都自己做",
+     "order": 3
+    },
+    {
+     "themeId": "raz_b_amazing_caves",
+     "title": "Amazing Caves",
+     "nameZh": "神奇的洞穴",
+     "order": 4
+    },
+    {
+     "themeId": "raz_b_animal_caution_signs",
+     "title": "Animal Caution Signs",
+     "nameZh": "动物警示牌",
+     "order": 5
+    },
+    {
+     "themeId": "raz_b_animal_coverings",
+     "title": "Animal Coverings",
+     "nameZh": "动物的外衣",
+     "order": 6
+    },
+    {
+     "themeId": "raz_b_animal_ears",
+     "title": "Animal Ears",
+     "nameZh": "动物的耳朵",
+     "order": 7
+    },
+    {
+     "themeId": "raz_b_animal_sounds",
+     "title": "Animal Sounds",
+     "nameZh": "动物的声音",
+     "order": 8
+    },
+    {
+     "themeId": "raz_b_animals_can_move",
+     "title": "Animals Can Move",
+     "nameZh": "动物会动",
+     "order": 9
+    },
+    {
+     "themeId": "raz_b_applesauce",
+     "title": "Applesauce",
+     "nameZh": "苹果酱",
+     "order": 10
+    },
+    {
+     "themeId": "raz_b_are_these_his_or_hers",
+     "title": "Are These His or Hers",
+     "nameZh": "这是他的还是她的",
+     "order": 11
+    },
+    {
+     "themeId": "raz_b_bananas_sometimes",
+     "title": "Bananas Sometimes",
+     "nameZh": "香蕉有时候",
+     "order": 12
+    },
+    {
+     "themeId": "raz_b_beach_fun",
+     "title": "Beach Fun",
+     "nameZh": "海边真好玩",
+     "order": 13
+    },
+    {
+     "themeId": "raz_b_boats",
+     "title": "Boats",
+     "nameZh": "各式各样的船",
+     "order": 14
+    },
+    {
+     "themeId": "raz_b_bonkers_likes_to_bark",
+     "title": "Bonkers Likes to Bark",
+     "nameZh": "邦克斯爱叫",
+     "order": 15
+    },
+    {
+     "themeId": "raz_b_bridges",
+     "title": "Bridges",
+     "nameZh": "各式各样的桥",
+     "order": 16
+    },
+    {
+     "themeId": "raz_b_carlos_and_his_teacher",
+     "title": "Carlos and His Teacher",
+     "nameZh": "卡洛斯和他的老师",
+     "order": 17
+    },
+    {
+     "themeId": "raz_b_clean_is_not_for_me",
+     "title": "Clean Is Not for Me!",
+     "nameZh": "干净可不适合我",
+     "order": 18
+    },
+    {
+     "themeId": "raz_b_firefly",
+     "title": "Firefly",
+     "nameZh": "萤火虫",
+     "order": 19
+    },
+    {
+     "themeId": "raz_b_games_we_play",
+     "title": "Games We Play",
+     "nameZh": "我们玩的游戏",
+     "order": 20
+    },
+    {
+     "themeId": "raz_b_go_animals_go",
+     "title": "Go Animals Go",
+     "nameZh": "动物们出发啦",
+     "order": 21
+    },
+    {
+     "themeId": "raz_b_gracies_nose",
+     "title": "Gracie's Nose",
+     "nameZh": "格雷西的鼻子",
+     "order": 22
+    },
+    {
+     "themeId": "raz_b_halloween_costumes",
+     "title": "Halloween Costumes",
+     "nameZh": "万圣节装扮",
+     "order": 23
+    },
+    {
+     "themeId": "raz_b_healthy_snacks",
+     "title": "Healthy Snacks",
+     "nameZh": "健康零食",
+     "order": 24
+    },
+    {
+     "themeId": "raz_b_henrys_hike",
+     "title": "Henry's Hike",
+     "nameZh": "亨利去远足",
+     "order": 25
+    },
+    {
+     "themeId": "raz_b_high_or_low",
+     "title": "High or Low",
+     "nameZh": "高还是低",
+     "order": 26
+    },
+    {
+     "themeId": "raz_b_how_many_legs",
+     "title": "How Many Legs",
+     "nameZh": "有几条腿",
+     "order": 27
+    },
+    {
+     "themeId": "raz_b_i_am_a_community_worker",
+     "title": "I Am a Community Worker",
+     "nameZh": "我是社区工作者",
+     "order": 28
+    },
+    {
+     "themeId": "raz_b_i_love_art_class",
+     "title": "I Love Art Class",
+     "nameZh": "我爱美术课",
+     "order": 29
+    },
+    {
+     "themeId": "raz_b_i_love_the_earth",
+     "title": "I Love the Earth",
+     "nameZh": "我爱地球",
+     "order": 30
+    },
+    {
+     "themeId": "raz_b_i_pick_up",
+     "title": "I Pick Up",
+     "nameZh": "我来收拾",
+     "order": 31
+    },
+    {
+     "themeId": "raz_b_i_read_a_book",
+     "title": "I Read a Book",
+     "nameZh": "我读一本书",
+     "order": 32
+    },
+    {
+     "themeId": "raz_b_it_is_school_time",
+     "title": "It Is School Time",
+     "nameZh": "上学时间到",
+     "order": 33
+    },
+    {
+     "themeId": "raz_b_it_is_spring",
+     "title": "It Is Spring",
+     "nameZh": "春天来啦",
+     "order": 34
+    },
+    {
+     "themeId": "raz_b_lazy_lulu",
+     "title": "Lazy Lulu",
+     "nameZh": "懒懒的露露",
+     "order": 35
+    },
+    {
+     "themeId": "raz_b_light_and_heavy",
+     "title": "Light and Heavy",
+     "nameZh": "轻和重",
+     "order": 36
+    },
+    {
+     "themeId": "raz_b_maria_and_her_teacher",
+     "title": "Maria and Her Teacher",
+     "nameZh": "玛丽亚和她的老师",
+     "order": 37
+    },
+    {
+     "themeId": "raz_b_mixing_colors",
+     "title": "Mixing Colors",
+     "nameZh": "颜色混合",
+     "order": 38
+    },
+    {
+     "themeId": "raz_b_my_brain",
+     "title": "My Brain",
+     "nameZh": "我的大脑",
+     "order": 39
+    },
+    {
+     "themeId": "raz_b_my_pet_dinosaur",
+     "title": "My Pet Dinosaur",
+     "nameZh": "我的宠物恐龙",
+     "order": 40
+    },
+    {
+     "themeId": "raz_b_near_and_far_away",
+     "title": "Near and Far Away",
+     "nameZh": "近和远",
+     "order": 41
+    },
+    {
+     "themeId": "raz_b_old_and_new",
+     "title": "Old and New",
+     "nameZh": "旧和新",
+     "order": 42
+    },
+    {
+     "themeId": "raz_b_on_thanksgiving",
+     "title": "On Thanksgiving",
+     "nameZh": "感恩节这一天",
+     "order": 43
+    },
+    {
+     "themeId": "raz_b_on_the_farm",
+     "title": "On the Farm",
+     "nameZh": "在农场",
+     "order": 44
+    },
+    {
+     "themeId": "raz_b_our_show",
+     "title": "Our Show",
+     "nameZh": "我们的演出",
+     "order": 45
+    },
+    {
+     "themeId": "raz_b_paint_it_purple",
+     "title": "Paint It Purple",
+     "nameZh": "刷成紫色",
+     "order": 46
+    },
+    {
+     "themeId": "raz_b_playful_puppy",
+     "title": "Playful Puppy",
+     "nameZh": "顽皮的小狗",
+     "order": 47
+    },
+    {
+     "themeId": "raz_b_pond_life",
+     "title": "Pond Life",
+     "nameZh": "池塘里的生命",
+     "order": 48
+    },
+    {
+     "themeId": "raz_b_rain_in_the_city",
+     "title": "Rain in the City",
+     "nameZh": "城市里的雨",
+     "order": 49
+    },
+    {
+     "themeId": "raz_b_rain_in_the_country",
+     "title": "Rain in the Country",
+     "nameZh": "乡村里的雨",
+     "order": 50
+    },
+    {
+     "themeId": "raz_b_sophie_goes_for_a_walk",
+     "title": "Sophie Goes for a Walk",
+     "nameZh": "苏菲去散步",
+     "order": 51
+    },
+    {
+     "themeId": "raz_b_stop_that_cat",
+     "title": "Stop That Cat!",
+     "nameZh": "拦住那只猫",
+     "order": 52
+    },
+    {
+     "themeId": "raz_b_swing_sydney_swing",
+     "title": "Swing, Sydney, Swing!",
+     "nameZh": "荡起来，悉尼",
+     "order": 53
+    },
+    {
+     "themeId": "raz_b_taking_care_of_chase",
+     "title": "Taking Care of Chase",
+     "nameZh": "照顾小蔡斯",
+     "order": 54
+    },
+    {
+     "themeId": "raz_b_taking_the_bus",
+     "title": "Taking the Bus",
+     "nameZh": "坐公交",
+     "order": 55
+    },
+    {
+     "themeId": "raz_b_ten",
+     "title": "Ten",
+     "nameZh": "十",
+     "order": 56
+    },
+    {
+     "themeId": "raz_b_the_aquarium",
+     "title": "The Aquarium",
+     "nameZh": "海洋馆",
+     "order": 57
+    },
+    {
+     "themeId": "raz_b_the_big_game",
+     "title": "The Big Game",
+     "nameZh": "大赛日",
+     "order": 58
+    },
+    {
+     "themeId": "raz_b_the_hungry_goat",
+     "title": "The Hungry Goat",
+     "nameZh": "饥饿的山羊",
+     "order": 59
+    },
+    {
+     "themeId": "raz_b_the_kids_built_it",
+     "title": "The Kids Built It",
+     "nameZh": "孩子们建起来",
+     "order": 60
+    },
+    {
+     "themeId": "raz_b_the_new_forest_path",
+     "title": "The New Forest Path",
+     "nameZh": "新的森林小路",
+     "order": 61
+    },
+    {
+     "themeId": "raz_b_the_pet_rats",
+     "title": "The Pet Rats",
+     "nameZh": "宠物鼠",
+     "order": 62
+    },
+    {
+     "themeId": "raz_b_the_picnic",
+     "title": "The Picnic",
+     "nameZh": "野餐",
+     "order": 63
+    },
+    {
+     "themeId": "raz_b_things_made_of_wood",
+     "title": "Things Made of Wood",
+     "nameZh": "木头做的东西",
+     "order": 64
+    },
+    {
+     "themeId": "raz_b_three_baby_birds",
+     "title": "Three Baby Birds",
+     "nameZh": "三只鸟宝宝",
+     "order": 65
+    },
+    {
+     "themeId": "raz_b_time_for_soccer",
+     "title": "Time for Soccer",
+     "nameZh": "足球时间",
+     "order": 66
+    },
+    {
+     "themeId": "raz_b_too_high",
+     "title": "Too High",
+     "nameZh": "太高了",
+     "order": 67
+    },
+    {
+     "themeId": "raz_b_too_many_leaves",
+     "title": "Too Many Leaves",
+     "nameZh": "太多落叶啦",
+     "order": 68
+    },
+    {
+     "themeId": "raz_b_trucks",
+     "title": "Trucks",
+     "nameZh": "大卡车",
+     "order": 69
+    },
+    {
+     "themeId": "raz_b_two_little_dicky_birds",
+     "title": "Two Little Dicky Birds",
+     "nameZh": "两只小小鸟",
+     "order": 70
+    },
+    {
+     "themeId": "raz_b_under_my_bed",
+     "title": "Under My Bed",
+     "nameZh": "我的床底下",
+     "order": 71
+    },
+    {
+     "themeId": "raz_b_valentines_all_around",
+     "title": "Valentines All Around",
+     "nameZh": "到处都是爱心卡片",
+     "order": 72
+    },
+    {
+     "themeId": "raz_b_we_do_not_share",
+     "title": "We Do Not Share",
+     "nameZh": "我们不共享",
+     "order": 73
+    },
+    {
+     "themeId": "raz_b_we_make_cookies",
+     "title": "We Make Cookies",
+     "nameZh": "我们做饼干",
+     "order": 74
+    },
+    {
+     "themeId": "raz_b_we_pack_a_picnic",
+     "title": "We Pack a Picnic",
+     "nameZh": "我们打包野餐",
+     "order": 75
+    },
+    {
+     "themeId": "raz_b_what_flies_in_the_sky",
+     "title": "What Flies in the Sky",
+     "nameZh": "什么在天上飞",
+     "order": 76
+    },
+    {
+     "themeId": "raz_b_what_gives_cover",
+     "title": "What Gives Cover",
+     "nameZh": "什么能遮风挡雨",
+     "order": 77
+    },
+    {
+     "themeId": "raz_b_what_has_these_feet",
+     "title": "What Has These Feet",
+     "nameZh": "谁有这样的脚",
+     "order": 78
+    },
+    {
+     "themeId": "raz_b_what_has_these_spots",
+     "title": "What Has These Spots",
+     "nameZh": "谁有这样的斑点",
+     "order": 79
+    },
+    {
+     "themeId": "raz_b_what_has_these_stripes",
+     "title": "What Has These Stripes",
+     "nameZh": "谁有这样的条纹",
+     "order": 80
+    },
+    {
+     "themeId": "raz_b_what_has_this_tail",
+     "title": "What Has This Tail",
+     "nameZh": "谁有这样的尾巴",
+     "order": 81
+    },
+    {
+     "themeId": "raz_b_where",
+     "title": "Where",
+     "nameZh": "在哪里",
+     "order": 82
+    },
+    {
+     "themeId": "raz_b_where_is_water",
+     "title": "Where Is Water",
+     "nameZh": "水在哪里",
+     "order": 83
+    },
+    {
+     "themeId": "raz_b_winter_fun",
+     "title": "Winter Fun",
+     "nameZh": "冬天的乐趣",
+     "order": 84
+    },
+    {
+     "themeId": "raz_b_you_can_go",
+     "title": "You Can Go",
+     "nameZh": "你可以这样走",
+     "order": 85
+    },
+    {
+     "themeId": "raz_b_you_and_i",
+     "title": "You and I",
+     "nameZh": "你和我",
+     "order": 86
+    },
+    {
+     "themeId": "raz_b_yours_or_mine",
+     "title": "Yours or Mine",
+     "nameZh": "你的还是我的",
+     "order": 87
+    }
+   ]
+  },
+  {
+   "level": "C",
+   "desc": "句式变化 · 进阶",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "D",
+   "desc": "多样句型",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "E",
+   "desc": "情节展开",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "F",
+   "desc": "初章前哨",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "G",
+   "desc": "桥梁书",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "H",
+   "desc": "篇章起步",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "I",
+   "desc": "段落阅读",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "J",
+   "desc": "流畅阅读",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "K",
+   "desc": "章节书入门",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "L",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "M",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "N",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "O",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "P",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "Q",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "R",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "S",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "T",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "U",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "V",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "W",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "X",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "Y",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "Z",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "Z1",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  },
+  {
+   "level": "Z2",
+   "desc": "待解锁",
+   "status": "empty",
+   "books": []
+  }
+ ]
+}

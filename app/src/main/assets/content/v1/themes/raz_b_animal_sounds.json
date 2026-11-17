@@ -1,0 +1,117 @@
+{
+ "theme": "raz_b_animal_sounds",
+ "nameZh": "动物的声音",
+ "bookTitle": "Animal Sounds",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-animal_sounds-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_animal_sounds-u1",
+   "band": 2,
+   "title": "Animal Sounds · 动物的声音",
+   "cards": [
+    {
+     "id": "raz_b_animal_sounds-p1",
+     "type": "sentence",
+     "en": "Dogs bark.",
+     "zh": "狗汪汪叫。",
+     "audio": "audio/all/3058_dogs_bark.mp3",
+     "slow": "audio/all/3058_dogs_bark.mp3",
+     "image": "img/raz-b-animal_sounds-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_animal_sounds-p2",
+     "type": "sentence",
+     "en": "Cats meow.",
+     "zh": "猫喵喵叫。",
+     "audio": "audio/all/3059_cats_meow.mp3",
+     "slow": "audio/all/3059_cats_meow.mp3",
+     "image": "img/raz-b-animal_sounds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_animal_sounds-p3",
+     "type": "sentence",
+     "en": "Cows moo.",
+     "zh": "牛哞哞叫。",
+     "audio": "audio/all/3060_cows_moo.mp3",
+     "slow": "audio/all/3060_cows_moo.mp3",
+     "image": "img/raz-b-animal_sounds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_animal_sounds-p4",
+     "type": "sentence",
+     "en": "Pigs oink.",
+     "zh": "猪哼哼叫。",
+     "audio": "audio/all/3061_pigs_oink.mp3",
+     "slow": "audio/all/3061_pigs_oink.mp3",
+     "image": "img/raz-b-animal_sounds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_animal_sounds-p5",
+     "type": "sentence",
+     "en": "Birds chirp.",
+     "zh": "小鸟唧唧叫。",
+     "audio": "audio/all/3062_birds_chirp.mp3",
+     "slow": "audio/all/3062_birds_chirp.mp3",
+     "image": "img/raz-b-animal_sounds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_animal_sounds-p6",
+     "type": "sentence",
+     "en": "Ducks quack.",
+     "zh": "鸭子嘎嘎叫。",
+     "audio": "audio/all/3063_ducks_quack.mp3",
+     "slow": "audio/all/3063_ducks_quack.mp3",
+     "image": "img/raz-b-animal_sounds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_animal_sounds-p7",
+     "type": "sentence",
+     "en": "Snakes hiss.",
+     "zh": "蛇嘶嘶响。",
+     "audio": "audio/all/3064_snakes_hiss.mp3",
+     "slow": "audio/all/3064_snakes_hiss.mp3",
+     "image": "img/raz-b-animal_sounds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_animal_sounds-p8",
+     "type": "sentence",
+     "en": "Bees buzz.",
+     "zh": "蜜蜂嗡嗡叫。",
+     "audio": "audio/all/3065_bees_buzz.mp3",
+     "slow": "audio/all/3065_bees_buzz.mp3",
+     "image": "img/raz-b-animal_sounds-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_b_animal_sounds-p9",
+     "type": "sentence",
+     "en": "Lions roar.",
+     "zh": "狮子吼吼叫。",
+     "audio": "audio/all/3066_lions_roar.mp3",
+     "slow": "audio/all/3066_lions_roar.mp3",
+     "image": "img/raz-b-animal_sounds-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_b_animal_sounds-p10",
+     "type": "sentence",
+     "en": "Dads snore.",
+     "zh": "爸爸呼噜噜打鼾。",
+     "audio": "audio/all/3067_dads_snore.mp3",
+     "slow": "audio/all/3067_dads_snore.mp3",
+     "image": "img/raz-b-animal_sounds-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

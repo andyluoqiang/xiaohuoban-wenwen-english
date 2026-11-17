@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_after_school",
+ "nameZh": "放学以后",
+ "bookTitle": "After School",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-after_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_after_school-u1",
+   "band": 2,
+   "title": "After School · 放学以后",
+   "cards": [
+    {
+     "id": "raz_b_after_school-p1",
+     "type": "sentence",
+     "en": "I like to study after school.",
+     "zh": "放学后我喜欢学习。",
+     "audio": "audio/all/3008_i_like_to_study_after_school.mp3",
+     "slow": "audio/all/3008_i_like_to_study_after_school.mp3",
+     "image": "img/raz-b-after_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_after_school-p2",
+     "type": "sentence",
+     "en": "I like to play after school.",
+     "zh": "放学后我喜欢玩。",
+     "audio": "audio/all/3009_i_like_to_play_after_school.mp3",
+     "slow": "audio/all/3009_i_like_to_play_after_school.mp3",
+     "image": "img/raz-b-after_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_after_school-p3",
+     "type": "sentence",
+     "en": "I like to dance after school.",
+     "zh": "放学后我喜欢跳舞。",
+     "audio": "audio/all/3010_i_like_to_dance_after_school.mp3",
+     "slow": "audio/all/3010_i_like_to_dance_after_school.mp3",
+     "image": "img/raz-b-after_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_after_school-p4",
+     "type": "sentence",
+     "en": "I like to act after school.",
+     "zh": "放学后我喜欢表演。",
+     "audio": "audio/all/3011_i_like_to_act_after_school.mp3",
+     "slow": "audio/all/3011_i_like_to_act_after_school.mp3",
+     "image": "img/raz-b-after_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_after_school-p5",
+     "type": "sentence",
+     "en": "I like to read after school.",
+     "zh": "放学后我喜欢读书。",
+     "audio": "audio/all/3012_i_like_to_read_after_school.mp3",
+     "slow": "audio/all/3012_i_like_to_read_after_school.mp3",
+     "image": "img/raz-b-after_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_after_school-p6",
+     "type": "sentence",
+     "en": "I like to sing after school.",
+     "zh": "放学后我喜欢唱歌。",
+     "audio": "audio/all/3013_i_like_to_sing_after_school.mp3",
+     "slow": "audio/all/3013_i_like_to_sing_after_school.mp3",
+     "image": "img/raz-b-after_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_after_school-p7",
+     "type": "sentence",
+     "en": "I like to bike after school.",
+     "zh": "放学后我喜欢骑车。",
+     "audio": "audio/all/3014_i_like_to_bike_after_school.mp3",
+     "slow": "audio/all/3014_i_like_to_bike_after_school.mp3",
+     "image": "img/raz-b-after_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_after_school-p8",
+     "type": "sentence",
+     "en": "We like to have fun after school.",
+     "zh": "放学后我们一起玩得真开心。",
+     "audio": "audio/all/3015_we_like_to_have_fun_after_school.mp3",
+     "slow": "audio/all/3015_we_like_to_have_fun_after_school.mp3",
+     "image": "img/raz-b-after_school-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

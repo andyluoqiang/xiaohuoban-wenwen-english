@@ -1,0 +1,107 @@
+{
+ "theme": "raz_b_the_kids_built_it",
+ "nameZh": "孩子们建起来",
+ "bookTitle": "The Kids Built It",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-the_kids_built_it-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_the_kids_built_it-u1",
+   "band": 2,
+   "title": "The Kids Built It · 孩子们建起来",
+   "cards": [
+    {
+     "id": "raz_b_the_kids_built_it-p1",
+     "type": "sentence",
+     "en": "The kids built a road.",
+     "zh": "孩子们修了一条路。",
+     "audio": "audio/all/3480_the_kids_built_a_road.mp3",
+     "slow": "audio/all/3480_the_kids_built_a_road.mp3",
+     "image": "img/raz-b-the_kids_built_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p2",
+     "type": "sentence",
+     "en": "The kids built a car.",
+     "zh": "孩子们造了一辆汽车。",
+     "audio": "audio/all/3481_the_kids_built_a_car.mp3",
+     "slow": "audio/all/3481_the_kids_built_a_car.mp3",
+     "image": "img/raz-b-the_kids_built_it-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p3",
+     "type": "sentence",
+     "en": "The kids built a bus.",
+     "zh": "孩子们造了一辆公交车。",
+     "audio": "audio/all/3482_the_kids_built_a_bus.mp3",
+     "slow": "audio/all/3482_the_kids_built_a_bus.mp3",
+     "image": "img/raz-b-the_kids_built_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p4",
+     "type": "sentence",
+     "en": "The kids built a house.",
+     "zh": "孩子们盖了一座房子。",
+     "audio": "audio/all/3483_the_kids_built_a_house.mp3",
+     "slow": "audio/all/3483_the_kids_built_a_house.mp3",
+     "image": "img/raz-b-the_kids_built_it-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p5",
+     "type": "sentence",
+     "en": "The kids built a school.",
+     "zh": "孩子们盖了一所学校。",
+     "audio": "audio/all/3484_the_kids_built_a_school.mp3",
+     "slow": "audio/all/3484_the_kids_built_a_school.mp3",
+     "image": "img/raz-b-the_kids_built_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p6",
+     "type": "sentence",
+     "en": "The kids built a park.",
+     "zh": "孩子们建了一座公园。",
+     "audio": "audio/all/3485_the_kids_built_a_park.mp3",
+     "slow": "audio/all/3485_the_kids_built_a_park.mp3",
+     "image": "img/raz-b-the_kids_built_it-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p7",
+     "type": "sentence",
+     "en": "The kids built a store.",
+     "zh": "孩子们开了一家商店。",
+     "audio": "audio/all/3486_the_kids_built_a_store.mp3",
+     "slow": "audio/all/3486_the_kids_built_a_store.mp3",
+     "image": "img/raz-b-the_kids_built_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p8",
+     "type": "sentence",
+     "en": "Look at what the kids built!",
+     "zh": "快看孩子们建成了什么！",
+     "audio": "audio/all/3487_look_at_what_the_kids_built.mp3",
+     "slow": "audio/all/3487_look_at_what_the_kids_built.mp3",
+     "image": "img/raz-b-the_kids_built_it-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_b_the_kids_built_it-p9",
+     "type": "sentence",
+     "en": "The kids built a city.",
+     "zh": "孩子们建起了一座城市。",
+     "audio": "audio/all/3488_the_kids_built_a_city.mp3",
+     "slow": "audio/all/3488_the_kids_built_a_city.mp3",
+     "image": "img/raz-b-the_kids_built_it-p09.jpg",
+     "page": 9
+    }
+   ]
+  }
+ ]
+}

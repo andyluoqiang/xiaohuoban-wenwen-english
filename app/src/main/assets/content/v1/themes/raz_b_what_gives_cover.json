@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_what_gives_cover",
+ "nameZh": "什么能遮风挡雨",
+ "bookTitle": "What Gives Cover",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-what_gives_cover-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_what_gives_cover-u1",
+   "band": 2,
+   "title": "What Gives Cover · 什么能遮风挡雨",
+   "cards": [
+    {
+     "id": "raz_b_what_gives_cover-p1",
+     "type": "sentence",
+     "en": "A tent gives cover.",
+     "zh": "帐篷能遮挡。",
+     "audio": "audio/all/3617_a_tent_gives_cover.mp3",
+     "slow": "audio/all/3617_a_tent_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_what_gives_cover-p2",
+     "type": "sentence",
+     "en": "A tree gives cover.",
+     "zh": "大树能遮挡。",
+     "audio": "audio/all/3618_a_tree_gives_cover.mp3",
+     "slow": "audio/all/3618_a_tree_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_what_gives_cover-p3",
+     "type": "sentence",
+     "en": "A cave gives cover.",
+     "zh": "山洞能遮挡。",
+     "audio": "audio/all/3619_a_cave_gives_cover.mp3",
+     "slow": "audio/all/3619_a_cave_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_what_gives_cover-p4",
+     "type": "sentence",
+     "en": "A log gives cover.",
+     "zh": "圆木能遮挡。",
+     "audio": "audio/all/3620_a_log_gives_cover.mp3",
+     "slow": "audio/all/3620_a_log_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_what_gives_cover-p5",
+     "type": "sentence",
+     "en": "An umbrella gives cover.",
+     "zh": "雨伞能遮挡。",
+     "audio": "audio/all/3621_an_umbrella_gives_cover.mp3",
+     "slow": "audio/all/3621_an_umbrella_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_what_gives_cover-p6",
+     "type": "sentence",
+     "en": "A mushroom gives cover.",
+     "zh": "蘑菇能遮挡。",
+     "audio": "audio/all/3622_a_mushroom_gives_cover.mp3",
+     "slow": "audio/all/3622_a_mushroom_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_what_gives_cover-p7",
+     "type": "sentence",
+     "en": "A house gives cover.",
+     "zh": "房子能遮挡。",
+     "audio": "audio/all/3623_a_house_gives_cover.mp3",
+     "slow": "audio/all/3623_a_house_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_what_gives_cover-p8",
+     "type": "sentence",
+     "en": "Even a leaf gives cover.",
+     "zh": "连一片叶子也能遮挡。",
+     "audio": "audio/all/3624_even_a_leaf_gives_cover.mp3",
+     "slow": "audio/all/3624_even_a_leaf_gives_cover.mp3",
+     "image": "img/raz-b-what_gives_cover-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

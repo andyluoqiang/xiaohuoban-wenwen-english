@@ -1,0 +1,117 @@
+{
+ "theme": "raz_b_it_is_school_time",
+ "nameZh": "上学时间到",
+ "bookTitle": "It Is School Time",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-it_is_school_time-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_it_is_school_time-u1",
+   "band": 2,
+   "title": "It Is School Time · 上学时间到",
+   "cards": [
+    {
+     "id": "raz_b_it_is_school_time-p1",
+     "type": "sentence",
+     "en": "It is time for breakfast.",
+     "zh": "该吃早餐啦。",
+     "audio": "audio/all/3262_it_is_time_for_breakfast.mp3",
+     "slow": "audio/all/3262_it_is_time_for_breakfast.mp3",
+     "image": "img/raz-b-it_is_school_time-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_it_is_school_time-p2",
+     "type": "sentence",
+     "en": "It is time for the bus.",
+     "zh": "该等校车啦。",
+     "audio": "audio/all/3263_it_is_time_for_the_bus.mp3",
+     "slow": "audio/all/3263_it_is_time_for_the_bus.mp3",
+     "image": "img/raz-b-it_is_school_time-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_it_is_school_time-p3",
+     "type": "sentence",
+     "en": "It is school time.",
+     "zh": "上学时间到。",
+     "audio": "audio/all/3264_it_is_school_time.mp3",
+     "slow": "audio/all/3264_it_is_school_time.mp3",
+     "image": "img/raz-b-it_is_school_time-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_it_is_school_time-p4",
+     "type": "sentence",
+     "en": "It is time for reading.",
+     "zh": "该阅读啦。",
+     "audio": "audio/all/3265_it_is_time_for_reading.mp3",
+     "slow": "audio/all/3265_it_is_time_for_reading.mp3",
+     "image": "img/raz-b-it_is_school_time-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_it_is_school_time-p5",
+     "type": "sentence",
+     "en": "It is recess time.",
+     "zh": "课间休息时间到。",
+     "audio": "audio/all/3266_it_is_recess_time.mp3",
+     "slow": "audio/all/3266_it_is_recess_time.mp3",
+     "image": "img/raz-b-it_is_school_time-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_it_is_school_time-p6",
+     "type": "sentence",
+     "en": "It is time for math.",
+     "zh": "该上数学课啦。",
+     "audio": "audio/all/3267_it_is_time_for_math.mp3",
+     "slow": "audio/all/3267_it_is_time_for_math.mp3",
+     "image": "img/raz-b-it_is_school_time-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_it_is_school_time-p7",
+     "type": "sentence",
+     "en": "It is time for lunch.",
+     "zh": "该吃午饭啦。",
+     "audio": "audio/all/3268_it_is_time_for_lunch.mp3",
+     "slow": "audio/all/3268_it_is_time_for_lunch.mp3",
+     "image": "img/raz-b-it_is_school_time-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_it_is_school_time-p8",
+     "type": "sentence",
+     "en": "It is music time.",
+     "zh": "音乐课时间到。",
+     "audio": "audio/all/3269_it_is_music_time.mp3",
+     "slow": "audio/all/3269_it_is_music_time.mp3",
+     "image": "img/raz-b-it_is_school_time-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_b_it_is_school_time-p9",
+     "type": "sentence",
+     "en": "It is time for science.",
+     "zh": "该上科学课啦。",
+     "audio": "audio/all/3270_it_is_time_for_science.mp3",
+     "slow": "audio/all/3270_it_is_time_for_science.mp3",
+     "image": "img/raz-b-it_is_school_time-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_b_it_is_school_time-p10",
+     "type": "sentence",
+     "en": "It is time for home!",
+     "zh": "该回家啦！",
+     "audio": "audio/all/3271_it_is_time_for_home.mp3",
+     "slow": "audio/all/3271_it_is_time_for_home.mp3",
+     "image": "img/raz-b-it_is_school_time-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

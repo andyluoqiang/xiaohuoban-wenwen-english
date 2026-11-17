@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_gracies_nose",
+ "nameZh": "格雷西的鼻子",
+ "bookTitle": "Gracie's Nose",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-gracies_nose-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_gracies_nose-u1",
+   "band": 2,
+   "title": "Gracie's Nose · 格雷西的鼻子",
+   "cards": [
+    {
+     "id": "raz_b_gracies_nose-p1",
+     "type": "sentence",
+     "en": "Gracie's nose is very busy.",
+     "zh": "格雷西的鼻子真忙。",
+     "audio": "audio/all/3172_gracie_s_nose_is_very_busy.mp3",
+     "slow": "audio/all/3172_gracie_s_nose_is_very_busy.mp3",
+     "image": "img/raz-b-gracies_nose-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_gracies_nose-p2",
+     "type": "sentence",
+     "en": "Gracie's nose sniffs everything.",
+     "zh": "格雷西的鼻子什么都闻。",
+     "audio": "audio/all/3173_gracie_s_nose_sniffs_everything.mp3",
+     "slow": "audio/all/3173_gracie_s_nose_sniffs_everything.mp3",
+     "image": "img/raz-b-gracies_nose-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_gracies_nose-p3",
+     "type": "sentence",
+     "en": "Gracie sniffs roses.",
+     "zh": "格雷西闻玫瑰花。",
+     "audio": "audio/all/3174_gracie_sniffs_roses.mp3",
+     "slow": "audio/all/3174_gracie_sniffs_roses.mp3",
+     "image": "img/raz-b-gracies_nose-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_gracies_nose-p4",
+     "type": "sentence",
+     "en": "Gracie sniffs bugs.",
+     "zh": "格雷西闻小虫子。",
+     "audio": "audio/all/3175_gracie_sniffs_bugs.mp3",
+     "slow": "audio/all/3175_gracie_sniffs_bugs.mp3",
+     "image": "img/raz-b-gracies_nose-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_gracies_nose-p5",
+     "type": "sentence",
+     "en": "Gracie sniffs birds.",
+     "zh": "格雷西闻小鸟。",
+     "audio": "audio/all/3176_gracie_sniffs_birds.mp3",
+     "slow": "audio/all/3176_gracie_sniffs_birds.mp3",
+     "image": "img/raz-b-gracies_nose-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_gracies_nose-p6",
+     "type": "sentence",
+     "en": "Gracie sniffs my lunch.",
+     "zh": "格雷西闻我的午餐。",
+     "audio": "audio/all/3177_gracie_sniffs_my_lunch.mp3",
+     "slow": "audio/all/3177_gracie_sniffs_my_lunch.mp3",
+     "image": "img/raz-b-gracies_nose-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_gracies_nose-p7",
+     "type": "sentence",
+     "en": "Gracie sniffs my ear.",
+     "zh": "格雷西闻我的耳朵。",
+     "audio": "audio/all/3178_gracie_sniffs_my_ear.mp3",
+     "slow": "audio/all/3178_gracie_sniffs_my_ear.mp3",
+     "image": "img/raz-b-gracies_nose-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_gracies_nose-p8",
+     "type": "sentence",
+     "en": "Gracie sniffs my toes!",
+     "zh": "格雷西闻我的脚趾头！",
+     "audio": "audio/all/3179_gracie_sniffs_my_toes.mp3",
+     "slow": "audio/all/3179_gracie_sniffs_my_toes.mp3",
+     "image": "img/raz-b-gracies_nose-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

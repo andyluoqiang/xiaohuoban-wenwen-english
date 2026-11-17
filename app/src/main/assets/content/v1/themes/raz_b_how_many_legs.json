@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_how_many_legs",
+ "nameZh": "有几条腿",
+ "bookTitle": "How Many Legs",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-how_many_legs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_how_many_legs-u1",
+   "band": 2,
+   "title": "How Many Legs · 有几条腿",
+   "cards": [
+    {
+     "id": "raz_b_how_many_legs-p1",
+     "type": "sentence",
+     "en": "Many animals have legs.",
+     "zh": "很多动物都有腿。",
+     "audio": "audio/all/3212_many_animals_have_legs.mp3",
+     "slow": "audio/all/3212_many_animals_have_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_how_many_legs-p2",
+     "type": "sentence",
+     "en": "These animals have two legs.",
+     "zh": "这些动物有两条腿。",
+     "audio": "audio/all/3213_these_animals_have_two_legs.mp3",
+     "slow": "audio/all/3213_these_animals_have_two_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_how_many_legs-p3",
+     "type": "sentence",
+     "en": "These animals have four legs.",
+     "zh": "这些动物有四条腿。",
+     "audio": "audio/all/3214_these_animals_have_four_legs.mp3",
+     "slow": "audio/all/3214_these_animals_have_four_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_how_many_legs-p4",
+     "type": "sentence",
+     "en": "These animals have six legs.",
+     "zh": "这些动物有六条腿。",
+     "audio": "audio/all/3215_these_animals_have_six_legs.mp3",
+     "slow": "audio/all/3215_these_animals_have_six_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_how_many_legs-p5",
+     "type": "sentence",
+     "en": "These animals have eight legs.",
+     "zh": "这些动物有八条腿。",
+     "audio": "audio/all/3216_these_animals_have_eight_legs.mp3",
+     "slow": "audio/all/3216_these_animals_have_eight_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_how_many_legs-p6",
+     "type": "sentence",
+     "en": "These animals have ten legs.",
+     "zh": "这些动物有十条腿。",
+     "audio": "audio/all/3217_these_animals_have_ten_legs.mp3",
+     "slow": "audio/all/3217_these_animals_have_ten_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_how_many_legs-p7",
+     "type": "sentence",
+     "en": "These animals have many legs.",
+     "zh": "这些动物有很多很多腿。",
+     "audio": "audio/all/3218_these_animals_have_many_legs.mp3",
+     "slow": "audio/all/3218_these_animals_have_many_legs.mp3",
+     "image": "img/raz-b-how_many_legs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_how_many_legs-p8",
+     "type": "sentence",
+     "en": "How many legs do these animals have?",
+     "zh": "这些动物有几条腿呢？",
+     "audio": "audio/all/3219_how_many_legs_do_these_animals_have.mp3",
+     "slow": "audio/all/3219_how_many_legs_do_these_animals_have.mp3",
+     "image": "img/raz-b-how_many_legs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

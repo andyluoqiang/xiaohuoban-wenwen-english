@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_light_and_heavy",
+ "nameZh": "轻和重",
+ "bookTitle": "Light and Heavy",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-light_and_heavy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_light_and_heavy-u1",
+   "band": 2,
+   "title": "Light and Heavy · 轻和重",
+   "cards": [
+    {
+     "id": "raz_b_light_and_heavy-p1",
+     "type": "sentence",
+     "en": "This dog is heavy. I cannot lift it.",
+     "zh": "这只狗很重，我抱不动。",
+     "audio": "audio/all/3289_this_dog_is_heavy_i_cannot_lift_it.mp3",
+     "slow": "audio/all/3289_this_dog_is_heavy_i_cannot_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_light_and_heavy-p2",
+     "type": "sentence",
+     "en": "This dog is light. I can lift it.",
+     "zh": "这只狗很轻，我抱得动。",
+     "audio": "audio/all/3290_this_dog_is_light_i_can_lift_it.mp3",
+     "slow": "audio/all/3290_this_dog_is_light_i_can_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_light_and_heavy-p3",
+     "type": "sentence",
+     "en": "This rock is heavy. I cannot lift it.",
+     "zh": "这块石头很重，我搬不动。",
+     "audio": "audio/all/3291_this_rock_is_heavy_i_cannot_lift_it.mp3",
+     "slow": "audio/all/3291_this_rock_is_heavy_i_cannot_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_light_and_heavy-p4",
+     "type": "sentence",
+     "en": "This rock is light. I can lift it.",
+     "zh": "这块石头很轻，我搬得动。",
+     "audio": "audio/all/3292_this_rock_is_light_i_can_lift_it.mp3",
+     "slow": "audio/all/3292_this_rock_is_light_i_can_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_light_and_heavy-p5",
+     "type": "sentence",
+     "en": "This log is heavy. I cannot lift it.",
+     "zh": "这根木头很重，我抬不动。",
+     "audio": "audio/all/3293_this_log_is_heavy_i_cannot_lift_it.mp3",
+     "slow": "audio/all/3293_this_log_is_heavy_i_cannot_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_light_and_heavy-p6",
+     "type": "sentence",
+     "en": "This stick is light. I can lift it.",
+     "zh": "这根小棍很轻，我拿得动。",
+     "audio": "audio/all/3294_this_stick_is_light_i_can_lift_it.mp3",
+     "slow": "audio/all/3294_this_stick_is_light_i_can_lift_it.mp3",
+     "image": "img/raz-b-light_and_heavy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_light_and_heavy-p7",
+     "type": "sentence",
+     "en": "Dad is heavy. I cannot lift him.",
+     "zh": "爸爸很重，我抱不动他。",
+     "audio": "audio/all/3295_dad_is_heavy_i_cannot_lift_him.mp3",
+     "slow": "audio/all/3295_dad_is_heavy_i_cannot_lift_him.mp3",
+     "image": "img/raz-b-light_and_heavy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_light_and_heavy-p8",
+     "type": "sentence",
+     "en": "I am light. Dad can lift me!",
+     "zh": "我很轻，爸爸抱得动我！",
+     "audio": "audio/all/3296_i_am_light_dad_can_lift_me.mp3",
+     "slow": "audio/all/3296_i_am_light_dad_can_lift_me.mp3",
+     "image": "img/raz-b-light_and_heavy-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

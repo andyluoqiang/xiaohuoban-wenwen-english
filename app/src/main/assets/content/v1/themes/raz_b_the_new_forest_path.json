@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_the_new_forest_path",
+ "nameZh": "新的森林小路",
+ "bookTitle": "The New Forest Path",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-the_new_forest_path-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_the_new_forest_path-u1",
+   "band": 2,
+   "title": "The New Forest Path · 新的森林小路",
+   "cards": [
+    {
+     "id": "raz_b_the_new_forest_path-p1",
+     "type": "sentence",
+     "en": "We see a new forest path.",
+     "zh": "我们看到一条新的森林小路。",
+     "audio": "audio/all/3489_we_see_a_new_forest_path.mp3",
+     "slow": "audio/all/3489_we_see_a_new_forest_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p2",
+     "type": "sentence",
+     "en": "We see big trees by the path.",
+     "zh": "我们看到小路旁的大树。",
+     "audio": "audio/all/3490_we_see_big_trees_by_the_path.mp3",
+     "slow": "audio/all/3490_we_see_big_trees_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p3",
+     "type": "sentence",
+     "en": "We see small bugs by the path.",
+     "zh": "我们看到小路旁的小虫。",
+     "audio": "audio/all/3491_we_see_small_bugs_by_the_path.mp3",
+     "slow": "audio/all/3491_we_see_small_bugs_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p4",
+     "type": "sentence",
+     "en": "We see green moss by the path.",
+     "zh": "我们看到小路旁的绿苔。",
+     "audio": "audio/all/3492_we_see_green_moss_by_the_path.mp3",
+     "slow": "audio/all/3492_we_see_green_moss_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p5",
+     "type": "sentence",
+     "en": "We see brown birds by the path.",
+     "zh": "我们看到小路旁的棕色小鸟。",
+     "audio": "audio/all/3493_we_see_brown_birds_by_the_path.mp3",
+     "slow": "audio/all/3493_we_see_brown_birds_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p6",
+     "type": "sentence",
+     "en": "We see old leaves by the path.",
+     "zh": "我们看到小路旁的落叶。",
+     "audio": "audio/all/3494_we_see_old_leaves_by_the_path.mp3",
+     "slow": "audio/all/3494_we_see_old_leaves_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p7",
+     "type": "sentence",
+     "en": "We see new flowers by the path.",
+     "zh": "我们看到小路旁的新花。",
+     "audio": "audio/all/3495_we_see_new_flowers_by_the_path.mp3",
+     "slow": "audio/all/3495_we_see_new_flowers_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_the_new_forest_path-p8",
+     "type": "sentence",
+     "en": "We see our dog by the path.",
+     "zh": "我们看到小路旁我们家的狗。",
+     "audio": "audio/all/3496_we_see_our_dog_by_the_path.mp3",
+     "slow": "audio/all/3496_we_see_our_dog_by_the_path.mp3",
+     "image": "img/raz-b-the_new_forest_path-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

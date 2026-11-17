@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_what_has_these_stripes",
+ "nameZh": "谁有这样的条纹",
+ "bookTitle": "What Has These Stripes",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-what_has_these_stripes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_what_has_these_stripes-u1",
+   "band": 2,
+   "title": "What Has These Stripes · 谁有这样的条纹",
+   "cards": [
+    {
+     "id": "raz_b_what_has_these_stripes-p1",
+     "type": "sentence",
+     "en": "What kind of animal has these stripes?",
+     "zh": "什么动物有这样的条纹？",
+     "audio": "audio/all/3641_what_kind_of_animal_has_these_stripes.mp3",
+     "slow": "audio/all/3641_what_kind_of_animal_has_these_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p2",
+     "type": "sentence",
+     "en": "A zebra has these smooth stripes.",
+     "zh": "斑马有这样的光滑条纹。",
+     "audio": "audio/all/3642_a_zebra_has_these_smooth_stripes.mp3",
+     "slow": "audio/all/3642_a_zebra_has_these_smooth_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p3",
+     "type": "sentence",
+     "en": "What kind of animal has these stripes?",
+     "zh": "什么动物有这样的条纹？",
+     "audio": "audio/all/3643_what_kind_of_animal_has_these_stripes.mp3",
+     "slow": "audio/all/3643_what_kind_of_animal_has_these_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p4",
+     "type": "sentence",
+     "en": "A fish has these thin stripes.",
+     "zh": "鱼有这样的细条纹。",
+     "audio": "audio/all/3644_a_fish_has_these_thin_stripes.mp3",
+     "slow": "audio/all/3644_a_fish_has_these_thin_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p5",
+     "type": "sentence",
+     "en": "What kind of animal has these stripes?",
+     "zh": "什么动物有这样的条纹？",
+     "audio": "audio/all/3645_what_kind_of_animal_has_these_stripes.mp3",
+     "slow": "audio/all/3645_what_kind_of_animal_has_these_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p6",
+     "type": "sentence",
+     "en": "A snake has these long stripes.",
+     "zh": "蛇有这样的长条纹。",
+     "audio": "audio/all/3646_a_snake_has_these_long_stripes.mp3",
+     "slow": "audio/all/3646_a_snake_has_these_long_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p7",
+     "type": "sentence",
+     "en": "What kinds of animals have no stripes?",
+     "zh": "什么动物没有条纹？",
+     "audio": "audio/all/3647_what_kinds_of_animals_have_no_stripes.mp3",
+     "slow": "audio/all/3647_what_kinds_of_animals_have_no_stripes.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_what_has_these_stripes-p8",
+     "type": "sentence",
+     "en": "These animals have no stripes. What other animals have no stripes?",
+     "zh": "这些动物没有条纹。还有哪些动物没有条纹呢？",
+     "audio": "audio/all/3648_these_animals_have_no_stripes_what_oth.mp3",
+     "slow": "audio/all/3648_these_animals_have_no_stripes_what_oth.mp3",
+     "image": "img/raz-b-what_has_these_stripes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

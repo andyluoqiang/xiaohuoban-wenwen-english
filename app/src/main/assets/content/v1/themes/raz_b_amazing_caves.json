@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_amazing_caves",
+ "nameZh": "神奇的洞穴",
+ "bookTitle": "Amazing Caves",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-amazing_caves-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_amazing_caves-u1",
+   "band": 2,
+   "title": "Amazing Caves · 神奇的洞穴",
+   "cards": [
+    {
+     "id": "raz_b_amazing_caves-p1",
+     "type": "sentence",
+     "en": "This cave has sharp rocks.",
+     "zh": "这个洞穴有尖尖的岩石。",
+     "audio": "audio/all/3024_this_cave_has_sharp_rocks.mp3",
+     "slow": "audio/all/3024_this_cave_has_sharp_rocks.mp3",
+     "image": "img/raz-b-amazing_caves-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_amazing_caves-p2",
+     "type": "sentence",
+     "en": "This cave has blue water.",
+     "zh": "这个洞穴有蓝色的水。",
+     "audio": "audio/all/3025_this_cave_has_blue_water.mp3",
+     "slow": "audio/all/3025_this_cave_has_blue_water.mp3",
+     "image": "img/raz-b-amazing_caves-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_amazing_caves-p3",
+     "type": "sentence",
+     "en": "This cave has black bats.",
+     "zh": "这个洞穴有黑色的蝙蝠。",
+     "audio": "audio/all/3026_this_cave_has_black_bats.mp3",
+     "slow": "audio/all/3026_this_cave_has_black_bats.mp3",
+     "image": "img/raz-b-amazing_caves-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_amazing_caves-p4",
+     "type": "sentence",
+     "en": "This cave has big crystals.",
+     "zh": "这个洞穴有大大的水晶。",
+     "audio": "audio/all/3027_this_cave_has_big_crystals.mp3",
+     "slow": "audio/all/3027_this_cave_has_big_crystals.mp3",
+     "image": "img/raz-b-amazing_caves-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_amazing_caves-p5",
+     "type": "sentence",
+     "en": "This cave has bright worms.",
+     "zh": "这个洞穴有亮亮的虫子。",
+     "audio": "audio/all/3028_this_cave_has_bright_worms.mp3",
+     "slow": "audio/all/3028_this_cave_has_bright_worms.mp3",
+     "image": "img/raz-b-amazing_caves-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_amazing_caves-p6",
+     "type": "sentence",
+     "en": "This cave has old drawings.",
+     "zh": "这个洞穴有古老的画。",
+     "audio": "audio/all/3029_this_cave_has_old_drawings.mp3",
+     "slow": "audio/all/3029_this_cave_has_old_drawings.mp3",
+     "image": "img/raz-b-amazing_caves-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_amazing_caves-p7",
+     "type": "sentence",
+     "en": "This cave has shiny fish.",
+     "zh": "这个洞穴有闪闪的鱼。",
+     "audio": "audio/all/3030_this_cave_has_shiny_fish.mp3",
+     "slow": "audio/all/3030_this_cave_has_shiny_fish.mp3",
+     "image": "img/raz-b-amazing_caves-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_amazing_caves-p8",
+     "type": "sentence",
+     "en": "What does this cave have?",
+     "zh": "这个洞穴有什么呢？",
+     "audio": "audio/all/3031_what_does_this_cave_have.mp3",
+     "slow": "audio/all/3031_what_does_this_cave_have.mp3",
+     "image": "img/raz-b-amazing_caves-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

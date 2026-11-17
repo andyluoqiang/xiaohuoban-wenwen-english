@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_playful_puppy",
+ "nameZh": "顽皮的小狗",
+ "bookTitle": "Playful Puppy",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-playful_puppy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_playful_puppy-u1",
+   "band": 2,
+   "title": "Playful Puppy · 顽皮的小狗",
+   "cards": [
+    {
+     "id": "raz_b_playful_puppy-p1",
+     "type": "sentence",
+     "en": "Puppy sees a little mouse.",
+     "zh": "小狗看见一只小老鼠。",
+     "audio": "audio/all/3376_puppy_sees_a_little_mouse.mp3",
+     "slow": "audio/all/3376_puppy_sees_a_little_mouse.mp3",
+     "image": "img/raz-b-playful_puppy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_playful_puppy-p2",
+     "type": "sentence",
+     "en": "Let it be, Puppy.",
+     "zh": "别追它，小狗。",
+     "audio": "audio/all/3377_let_it_be_puppy.mp3",
+     "slow": "audio/all/3377_let_it_be_puppy.mp3",
+     "image": "img/raz-b-playful_puppy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_playful_puppy-p3",
+     "type": "sentence",
+     "en": "Puppy sees a little frog.",
+     "zh": "小狗看见一只小青蛙。",
+     "audio": "audio/all/3378_puppy_sees_a_little_frog.mp3",
+     "slow": "audio/all/3378_puppy_sees_a_little_frog.mp3",
+     "image": "img/raz-b-playful_puppy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_playful_puppy-p4",
+     "type": "sentence",
+     "en": "Let it be, Puppy.",
+     "zh": "别追它，小狗。",
+     "audio": "audio/all/3379_let_it_be_puppy.mp3",
+     "slow": "audio/all/3379_let_it_be_puppy.mp3",
+     "image": "img/raz-b-playful_puppy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_playful_puppy-p5",
+     "type": "sentence",
+     "en": "Puppy sees a little turtle.",
+     "zh": "小狗看见一只小乌龟。",
+     "audio": "audio/all/3380_puppy_sees_a_little_turtle.mp3",
+     "slow": "audio/all/3380_puppy_sees_a_little_turtle.mp3",
+     "image": "img/raz-b-playful_puppy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_playful_puppy-p6",
+     "type": "sentence",
+     "en": "Let it be, Puppy.",
+     "zh": "别追它，小狗。",
+     "audio": "audio/all/3381_let_it_be_puppy.mp3",
+     "slow": "audio/all/3381_let_it_be_puppy.mp3",
+     "image": "img/raz-b-playful_puppy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_playful_puppy-p7",
+     "type": "sentence",
+     "en": "Puppy sees a little ball.",
+     "zh": "小狗看见一个小球。",
+     "audio": "audio/all/3382_puppy_sees_a_little_ball.mp3",
+     "slow": "audio/all/3382_puppy_sees_a_little_ball.mp3",
+     "image": "img/raz-b-playful_puppy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_playful_puppy-p8",
+     "type": "sentence",
+     "en": "Get the ball, Puppy.",
+     "zh": "去捡球，小狗。",
+     "audio": "audio/all/3383_get_the_ball_puppy.mp3",
+     "slow": "audio/all/3383_get_the_ball_puppy.mp3",
+     "image": "img/raz-b-playful_puppy-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

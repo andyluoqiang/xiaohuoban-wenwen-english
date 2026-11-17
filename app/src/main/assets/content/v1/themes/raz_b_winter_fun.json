@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_winter_fun",
+ "nameZh": "冬天的乐趣",
+ "bookTitle": "Winter Fun",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-winter_fun-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_winter_fun-u1",
+   "band": 2,
+   "title": "Winter Fun · 冬天的乐趣",
+   "cards": [
+    {
+     "id": "raz_b_winter_fun-p1",
+     "type": "sentence",
+     "en": "These are winter hats.",
+     "zh": "这些是冬季的帽子。",
+     "audio": "audio/all/3673_these_are_winter_hats.mp3",
+     "slow": "audio/all/3673_these_are_winter_hats.mp3",
+     "image": "img/raz-b-winter_fun-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_winter_fun-p2",
+     "type": "sentence",
+     "en": "These are winter boots.",
+     "zh": "这些是冬季的靴子。",
+     "audio": "audio/all/3674_these_are_winter_boots.mp3",
+     "slow": "audio/all/3674_these_are_winter_boots.mp3",
+     "image": "img/raz-b-winter_fun-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_winter_fun-p3",
+     "type": "sentence",
+     "en": "These are winter scarves.",
+     "zh": "这些是冬季的围巾。",
+     "audio": "audio/all/3675_these_are_winter_scarves.mp3",
+     "slow": "audio/all/3675_these_are_winter_scarves.mp3",
+     "image": "img/raz-b-winter_fun-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_winter_fun-p4",
+     "type": "sentence",
+     "en": "These are winter mittens.",
+     "zh": "这些是冬季的手套。",
+     "audio": "audio/all/3676_these_are_winter_mittens.mp3",
+     "slow": "audio/all/3676_these_are_winter_mittens.mp3",
+     "image": "img/raz-b-winter_fun-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_winter_fun-p5",
+     "type": "sentence",
+     "en": "These are winter pants.",
+     "zh": "这些是冬季的棉裤。",
+     "audio": "audio/all/3677_these_are_winter_pants.mp3",
+     "slow": "audio/all/3677_these_are_winter_pants.mp3",
+     "image": "img/raz-b-winter_fun-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_winter_fun-p6",
+     "type": "sentence",
+     "en": "These are winter coats.",
+     "zh": "这些是冬季的外套。",
+     "audio": "audio/all/3678_these_are_winter_coats.mp3",
+     "slow": "audio/all/3678_these_are_winter_coats.mp3",
+     "image": "img/raz-b-winter_fun-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_winter_fun-p7",
+     "type": "sentence",
+     "en": "These are winter sleds.",
+     "zh": "这些是冬季的雪橇。",
+     "audio": "audio/all/3679_these_are_winter_sleds.mp3",
+     "slow": "audio/all/3679_these_are_winter_sleds.mp3",
+     "image": "img/raz-b-winter_fun-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_winter_fun-p8",
+     "type": "sentence",
+     "en": "This is winter fun.",
+     "zh": "这就是冬天的乐趣。",
+     "audio": "audio/all/3680_this_is_winter_fun.mp3",
+     "slow": "audio/all/3680_this_is_winter_fun.mp3",
+     "image": "img/raz-b-winter_fun-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

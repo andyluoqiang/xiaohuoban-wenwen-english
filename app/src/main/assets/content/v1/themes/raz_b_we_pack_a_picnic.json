@@ -1,0 +1,97 @@
+{
+ "theme": "raz_b_we_pack_a_picnic",
+ "nameZh": "我们打包野餐",
+ "bookTitle": "We Pack a Picnic",
+ "razLevel": "B",
+ "order": null,
+ "cover": "img/raz-b-we_pack_a_picnic-cover.jpg",
+ "units": [
+  {
+   "id": "raz_b_we_pack_a_picnic-u1",
+   "band": 2,
+   "title": "We Pack a Picnic · 我们打包野餐",
+   "cards": [
+    {
+     "id": "raz_b_we_pack_a_picnic-p1",
+     "type": "sentence",
+     "en": "We pack grapes.",
+     "zh": "我们装上葡萄。",
+     "audio": "audio/all/3601_we_pack_grapes.mp3",
+     "slow": "audio/all/3601_we_pack_grapes.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p2",
+     "type": "sentence",
+     "en": "We pack sandwiches.",
+     "zh": "我们装上三明治。",
+     "audio": "audio/all/3602_we_pack_sandwiches.mp3",
+     "slow": "audio/all/3602_we_pack_sandwiches.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p3",
+     "type": "sentence",
+     "en": "We pack drinks.",
+     "zh": "我们装上饮料。",
+     "audio": "audio/all/3603_we_pack_drinks.mp3",
+     "slow": "audio/all/3603_we_pack_drinks.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p4",
+     "type": "sentence",
+     "en": "We pack apples.",
+     "zh": "我们装上苹果。",
+     "audio": "audio/all/3604_we_pack_apples.mp3",
+     "slow": "audio/all/3604_we_pack_apples.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p5",
+     "type": "sentence",
+     "en": "We pack cheese.",
+     "zh": "我们装上奶酪。",
+     "audio": "audio/all/3605_we_pack_cheese.mp3",
+     "slow": "audio/all/3605_we_pack_cheese.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p6",
+     "type": "sentence",
+     "en": "We pack carrots.",
+     "zh": "我们装上胡萝卜。",
+     "audio": "audio/all/3606_we_pack_carrots.mp3",
+     "slow": "audio/all/3606_we_pack_carrots.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p7",
+     "type": "sentence",
+     "en": "We pack crackers.",
+     "zh": "我们装上饼干。",
+     "audio": "audio/all/3607_we_pack_crackers.mp3",
+     "slow": "audio/all/3607_we_pack_crackers.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_b_we_pack_a_picnic-p8",
+     "type": "sentence",
+     "en": "We pack a picnic!",
+     "zh": "我们打包好一顿野餐！",
+     "audio": "audio/all/3608_we_pack_a_picnic.mp3",
+     "slow": "audio/all/3608_we_pack_a_picnic.mp3",
+     "image": "img/raz-b-we_pack_a_picnic-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}
