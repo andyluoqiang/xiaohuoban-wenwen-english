@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_room",
+ "nameZh": "我的房间",
+ "bookTitle": "My Room",
+ "razLevel": "A",
+ "order": 48,
+ "cover": "img/raz-a-my_room-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_room-u1",
+   "band": 2,
+   "title": "My Room · 我的房间",
+   "cards": [
+    {
+     "id": "raz_a_my_room-p1",
+     "type": "sentence",
+     "en": "Here is my room.",
+     "zh": "这是我的房间。",
+     "audio": "audio/all/5481_here_is_my_room.mp3",
+     "slow": "audio/all/5481_here_is_my_room.mp3",
+     "image": "img/raz-a-my_room-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_room-p2",
+     "type": "sentence",
+     "en": "Here is my bed.",
+     "zh": "这是我的床。",
+     "audio": "audio/all/5482_here_is_my_bed.mp3",
+     "slow": "audio/all/5482_here_is_my_bed.mp3",
+     "image": "img/raz-a-my_room-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_room-p3",
+     "type": "sentence",
+     "en": "Here is my desk.",
+     "zh": "这是我的书桌。",
+     "audio": "audio/all/5483_here_is_my_desk.mp3",
+     "slow": "audio/all/5483_here_is_my_desk.mp3",
+     "image": "img/raz-a-my_room-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_room-p4",
+     "type": "sentence",
+     "en": "Here is my fish.",
+     "zh": "这是我的鱼。",
+     "audio": "audio/all/5484_here_is_my_fish.mp3",
+     "slow": "audio/all/5484_here_is_my_fish.mp3",
+     "image": "img/raz-a-my_room-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_room-p5",
+     "type": "sentence",
+     "en": "Here are my books.",
+     "zh": "这些是我的书。",
+     "audio": "audio/all/5485_here_are_my_books.mp3",
+     "slow": "audio/all/5485_here_are_my_books.mp3",
+     "image": "img/raz-a-my_room-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_room-p6",
+     "type": "sentence",
+     "en": "Here are my toys.",
+     "zh": "这些是我的玩具。",
+     "audio": "audio/all/5486_here_are_my_toys.mp3",
+     "slow": "audio/all/5486_here_are_my_toys.mp3",
+     "image": "img/raz-a-my_room-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_room-p7",
+     "type": "sentence",
+     "en": "Here are my shoes.",
+     "zh": "这些是我的鞋。",
+     "audio": "audio/all/5487_here_are_my_shoes.mp3",
+     "slow": "audio/all/5487_here_are_my_shoes.mp3",
+     "image": "img/raz-a-my_room-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_room-p8",
+     "type": "sentence",
+     "en": "Here are my clothes.",
+     "zh": "这些是我的衣服。",
+     "audio": "audio/all/5488_here_are_my_clothes.mp3",
+     "slow": "audio/all/5488_here_are_my_clothes.mp3",
+     "image": "img/raz-a-my_room-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

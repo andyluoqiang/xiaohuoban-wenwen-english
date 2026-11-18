@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_smells_like_thanksgiving",
+ "nameZh": "闻起来像感恩节",
+ "bookTitle": "Smells Like Thanksgiving",
+ "razLevel": "A",
+ "order": 57,
+ "cover": "img/raz-a-smells_like_thanksgiving-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_smells_like_thanksgiving-u1",
+   "band": 2,
+   "title": "Smells Like Thanksgiving · 闻起来像感恩节",
+   "cards": [
+    {
+     "id": "raz_a_smells_like_thanksgiving-p1",
+     "type": "sentence",
+     "en": "I smell turkey.",
+     "zh": "我闻到火鸡。",
+     "audio": "audio/all/5553_i_smell_turkey.mp3",
+     "slow": "audio/all/5553_i_smell_turkey.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p2",
+     "type": "sentence",
+     "en": "I smell stuffing.",
+     "zh": "我闻到填料。",
+     "audio": "audio/all/5554_i_smell_stuffing.mp3",
+     "slow": "audio/all/5554_i_smell_stuffing.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p3",
+     "type": "sentence",
+     "en": "I smell rolls.",
+     "zh": "我闻到小圆面包。",
+     "audio": "audio/all/5555_i_smell_rolls.mp3",
+     "slow": "audio/all/5555_i_smell_rolls.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p4",
+     "type": "sentence",
+     "en": "I smell yams.",
+     "zh": "我闻到红薯。",
+     "audio": "audio/all/5556_i_smell_yams.mp3",
+     "slow": "audio/all/5556_i_smell_yams.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p5",
+     "type": "sentence",
+     "en": "I smell potatoes.",
+     "zh": "我闻到土豆。",
+     "audio": "audio/all/5557_i_smell_potatoes.mp3",
+     "slow": "audio/all/5557_i_smell_potatoes.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p6",
+     "type": "sentence",
+     "en": "I smell gravy.",
+     "zh": "我闻到肉汁。",
+     "audio": "audio/all/5558_i_smell_gravy.mp3",
+     "slow": "audio/all/5558_i_smell_gravy.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p7",
+     "type": "sentence",
+     "en": "I smell pie.",
+     "zh": "我闻到派。",
+     "audio": "audio/all/5559_i_smell_pie.mp3",
+     "slow": "audio/all/5559_i_smell_pie.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_smells_like_thanksgiving-p8",
+     "type": "sentence",
+     "en": "I smell Thanksgiving!",
+     "zh": "我闻到感恩节的味道！",
+     "audio": "audio/all/5560_i_smell_thanksgiving.mp3",
+     "slow": "audio/all/5560_i_smell_thanksgiving.mp3",
+     "image": "img/raz-a-smells_like_thanksgiving-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

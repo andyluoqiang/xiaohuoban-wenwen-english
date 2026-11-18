@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_winter_hats",
+ "nameZh": "冬天的帽子",
+ "bookTitle": "Winter Hats",
+ "razLevel": "C",
+ "order": 85,
+ "cover": "img/raz-c-winter_hats-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_winter_hats-u1",
+   "band": 2,
+   "title": "Winter Hats · 冬天的帽子",
+   "cards": [
+    {
+     "id": "raz_c_winter_hats-p1",
+     "type": "sentence",
+     "en": "Winter is here!",
+     "zh": "冬天到了！",
+     "audio": "audio/all/6950_winter_is_here.mp3",
+     "slow": "audio/all/6950_winter_is_here.mp3",
+     "image": "img/raz-c-winter_hats-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_winter_hats-p2",
+     "type": "sentence",
+     "en": "It's time to wear a winter hat.",
+     "zh": "是戴冬帽的时候了。",
+     "audio": "audio/all/6951_it_s_time_to_wear_a_winter_hat.mp3",
+     "slow": "audio/all/6951_it_s_time_to_wear_a_winter_hat.mp3",
+     "image": "img/raz-c-winter_hats-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_winter_hats-p3",
+     "type": "sentence",
+     "en": "This winter hat has long strings.",
+     "zh": "这顶冬帽有长长的系带。",
+     "audio": "audio/all/6952_this_winter_hat_has_long_strings.mp3",
+     "slow": "audio/all/6952_this_winter_hat_has_long_strings.mp3",
+     "image": "img/raz-c-winter_hats-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_winter_hats-p4",
+     "type": "sentence",
+     "en": "This winter hat has floppy ears.",
+     "zh": "这顶冬帽有耷拉耳朵。",
+     "audio": "audio/all/6953_this_winter_hat_has_floppy_ears.mp3",
+     "slow": "audio/all/6953_this_winter_hat_has_floppy_ears.mp3",
+     "image": "img/raz-c-winter_hats-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_winter_hats-p5",
+     "type": "sentence",
+     "en": "This winter hat has fuzzy puffs.",
+     "zh": "这顶冬帽有毛绒绒的绒球。",
+     "audio": "audio/all/6954_this_winter_hat_has_fuzzy_puffs.mp3",
+     "slow": "audio/all/6954_this_winter_hat_has_fuzzy_puffs.mp3",
+     "image": "img/raz-c-winter_hats-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_winter_hats-p6",
+     "type": "sentence",
+     "en": "This winter hat has a silly face.",
+     "zh": "这顶冬帽有一张傻傻的脸。",
+     "audio": "audio/all/6955_this_winter_hat_has_a_silly_face.mp3",
+     "slow": "audio/all/6955_this_winter_hat_has_a_silly_face.mp3",
+     "image": "img/raz-c-winter_hats-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_winter_hats-p7",
+     "type": "sentence",
+     "en": "This winter hat has furry earflaps.",
+     "zh": "这顶冬帽有毛毛的耳罩。",
+     "audio": "audio/all/6956_this_winter_hat_has_furry_earflaps.mp3",
+     "slow": "audio/all/6956_this_winter_hat_has_furry_earflaps.mp3",
+     "image": "img/raz-c-winter_hats-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_winter_hats-p8",
+     "type": "sentence",
+     "en": "This winter hat has a funny tail.",
+     "zh": "这顶冬帽有一条有趣的尾巴。",
+     "audio": "audio/all/6957_this_winter_hat_has_a_funny_tail.mp3",
+     "slow": "audio/all/6957_this_winter_hat_has_a_funny_tail.mp3",
+     "image": "img/raz-c-winter_hats-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_winter_hats-p9",
+     "type": "sentence",
+     "en": "Winter is here!",
+     "zh": "冬天到了！",
+     "audio": "audio/all/6958_winter_is_here.mp3",
+     "slow": "audio/all/6958_winter_is_here.mp3",
+     "image": "img/raz-c-winter_hats-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_winter_hats-p10",
+     "type": "sentence",
+     "en": "Which winter hat do you like best?",
+     "zh": "你最喜欢哪顶冬帽呢？",
+     "audio": "audio/all/6959_which_winter_hat_do_you_like_best.mp3",
+     "slow": "audio/all/6959_which_winter_hat_do_you_like_best.mp3",
+     "image": "img/raz-c-winter_hats-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

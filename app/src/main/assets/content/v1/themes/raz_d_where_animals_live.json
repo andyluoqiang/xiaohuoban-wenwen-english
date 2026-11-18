@@ -1,0 +1,207 @@
+{
+ "theme": "raz_d_where_animals_live",
+ "nameZh": "动物住在哪里",
+ "bookTitle": "Where Animals Live",
+ "razLevel": "D",
+ "order": 78,
+ "cover": "img/raz-d-where_animals_live-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_where_animals_live-u1",
+   "band": 2,
+   "title": "Where Animals Live · 动物住在哪里",
+   "cards": [
+    {
+     "id": "raz_d_where_animals_live-p1",
+     "type": "sentence",
+     "en": "Animals live in many different places.",
+     "zh": "动物住在很多不同的地方。",
+     "audio": "audio/all/8192_animals_live_in_many_different_places.mp3",
+     "slow": "audio/all/8192_animals_live_in_many_different_places.mp3",
+     "image": "img/raz-d-where_animals_live-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_animals_live-p2",
+     "type": "sentence",
+     "en": "Some live above the ground.",
+     "zh": "有些住在地面上方。",
+     "audio": "audio/all/8193_some_live_above_the_ground.mp3",
+     "slow": "audio/all/8193_some_live_above_the_ground.mp3",
+     "image": "img/raz-d-where_animals_live-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_animals_live-p3",
+     "type": "sentence",
+     "en": "Some live in the ground.",
+     "zh": "有些住在地下。",
+     "audio": "audio/all/8194_some_live_in_the_ground.mp3",
+     "slow": "audio/all/8194_some_live_in_the_ground.mp3",
+     "image": "img/raz-d-where_animals_live-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_animals_live-p4",
+     "type": "sentence",
+     "en": "Some live on the ground.",
+     "zh": "有些住在地面上。",
+     "audio": "audio/all/8195_some_live_on_the_ground.mp3",
+     "slow": "audio/all/8195_some_live_on_the_ground.mp3",
+     "image": "img/raz-d-where_animals_live-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_animals_live-p5",
+     "type": "sentence",
+     "en": "Some live in the water.",
+     "zh": "有些住在水里。",
+     "audio": "audio/all/8196_some_live_in_the_water.mp3",
+     "slow": "audio/all/8196_some_live_in_the_water.mp3",
+     "image": "img/raz-d-where_animals_live-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_animals_live-p6",
+     "type": "sentence",
+     "en": "This bird lives in the trees.",
+     "zh": "这只鸟住在树上。",
+     "audio": "audio/all/8197_this_bird_lives_in_the_trees.mp3",
+     "slow": "audio/all/8197_this_bird_lives_in_the_trees.mp3",
+     "image": "img/raz-d-where_animals_live-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_where_animals_live-p7",
+     "type": "sentence",
+     "en": "The monkey lives in the trees, too.",
+     "zh": "猴子也住在树上。",
+     "audio": "audio/all/8198_the_monkey_lives_in_the_trees_too.mp3",
+     "slow": "audio/all/8198_the_monkey_lives_in_the_trees_too.mp3",
+     "image": "img/raz-d-where_animals_live-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_where_animals_live-p8",
+     "type": "sentence",
+     "en": "This frog lives in a pond.",
+     "zh": "这只青蛙住在池塘里。",
+     "audio": "audio/all/8199_this_frog_lives_in_a_pond.mp3",
+     "slow": "audio/all/8199_this_frog_lives_in_a_pond.mp3",
+     "image": "img/raz-d-where_animals_live-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_where_animals_live-p9",
+     "type": "sentence",
+     "en": "The turtle lives in a pond, too.",
+     "zh": "乌龟也住在池塘里。",
+     "audio": "audio/all/8200_the_turtle_lives_in_a_pond_too.mp3",
+     "slow": "audio/all/8200_the_turtle_lives_in_a_pond_too.mp3",
+     "image": "img/raz-d-where_animals_live-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_where_animals_live-p10",
+     "type": "sentence",
+     "en": "This prairie dog lives in a burrow.",
+     "zh": "这只草原犬鼠住在地洞里。",
+     "audio": "audio/all/8201_this_prairie_dog_lives_in_a_burrow.mp3",
+     "slow": "audio/all/8201_this_prairie_dog_lives_in_a_burrow.mp3",
+     "image": "img/raz-d-where_animals_live-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_where_animals_live-p11",
+     "type": "sentence",
+     "en": "The woodchuck lives in a burrow, too.",
+     "zh": "土拨鼠也住在地洞里。",
+     "audio": "audio/all/8202_the_woodchuck_lives_in_a_burrow_too.mp3",
+     "slow": "audio/all/8202_the_woodchuck_lives_in_a_burrow_too.mp3",
+     "image": "img/raz-d-where_animals_live-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_where_animals_live-p12",
+     "type": "sentence",
+     "en": "These bats live in a cave.",
+     "zh": "这些蝙蝠住在山洞里。",
+     "audio": "audio/all/8203_these_bats_live_in_a_cave.mp3",
+     "slow": "audio/all/8203_these_bats_live_in_a_cave.mp3",
+     "image": "img/raz-d-where_animals_live-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_where_animals_live-p13",
+     "type": "sentence",
+     "en": "This bear lives in a cave, too.",
+     "zh": "这只熊也住在山洞里。",
+     "audio": "audio/all/8204_this_bear_lives_in_a_cave_too.mp3",
+     "slow": "audio/all/8204_this_bear_lives_in_a_cave_too.mp3",
+     "image": "img/raz-d-where_animals_live-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_where_animals_live-p14",
+     "type": "sentence",
+     "en": "This deer lives in the woods.",
+     "zh": "这只鹿住在树林里。",
+     "audio": "audio/all/8205_this_deer_lives_in_the_woods.mp3",
+     "slow": "audio/all/8205_this_deer_lives_in_the_woods.mp3",
+     "image": "img/raz-d-where_animals_live-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_where_animals_live-p15",
+     "type": "sentence",
+     "en": "The fox lives in the woods, too.",
+     "zh": "狐狸也住在树林里。",
+     "audio": "audio/all/8206_the_fox_lives_in_the_woods_too.mp3",
+     "slow": "audio/all/8206_the_fox_lives_in_the_woods_too.mp3",
+     "image": "img/raz-d-where_animals_live-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_where_animals_live-p16",
+     "type": "sentence",
+     "en": "This octopus lives in the ocean.",
+     "zh": "这只章鱼住在大海里。",
+     "audio": "audio/all/8207_this_octopus_lives_in_the_ocean.mp3",
+     "slow": "audio/all/8207_this_octopus_lives_in_the_ocean.mp3",
+     "image": "img/raz-d-where_animals_live-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_where_animals_live-p17",
+     "type": "sentence",
+     "en": "The whale lives in the ocean, too.",
+     "zh": "鲸鱼也住在大海里。",
+     "audio": "audio/all/8208_the_whale_lives_in_the_ocean_too.mp3",
+     "slow": "audio/all/8208_the_whale_lives_in_the_ocean_too.mp3",
+     "image": "img/raz-d-where_animals_live-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_where_animals_live-p18",
+     "type": "sentence",
+     "en": "Mandy and Michael live in a house.",
+     "zh": "曼迪和迈克尔住在房子里。",
+     "audio": "audio/all/8209_mandy_and_michael_live_in_a_house.mp3",
+     "slow": "audio/all/8209_mandy_and_michael_live_in_a_house.mp3",
+     "image": "img/raz-d-where_animals_live-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_where_animals_live-p19",
+     "type": "sentence",
+     "en": "People are animals, too.",
+     "zh": "人也是动物哦。",
+     "audio": "audio/all/8210_people_are_animals_too.mp3",
+     "slow": "audio/all/8210_people_are_animals_too.mp3",
+     "image": "img/raz-d-where_animals_live-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

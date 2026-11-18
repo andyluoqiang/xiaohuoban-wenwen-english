@@ -1,0 +1,107 @@
+{
+ "theme": "raz_d_animal_tongues",
+ "nameZh": "动物的舌头",
+ "bookTitle": "Animal Tongues",
+ "razLevel": "D",
+ "order": 6,
+ "cover": "img/raz-d-animal_tongues-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_animal_tongues-u1",
+   "band": 2,
+   "title": "Animal Tongues · 动物的舌头",
+   "cards": [
+    {
+     "id": "raz_d_animal_tongues-p1",
+     "type": "sentence",
+     "en": "Animals have many kinds of tongues.",
+     "zh": "动物的舌头有很多种。",
+     "audio": "audio/all/7154_animals_have_many_kinds_of_tongues.mp3",
+     "slow": "audio/all/7154_animals_have_many_kinds_of_tongues.mp3",
+     "image": "img/raz-d-animal_tongues-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_tongues-p2",
+     "type": "sentence",
+     "en": "They use their tongues to get and eat food.",
+     "zh": "它们用舌头获取和吃食物。",
+     "audio": "audio/all/7155_they_use_their_tongues_to_get_and_eat_.mp3",
+     "slow": "audio/all/7155_they_use_their_tongues_to_get_and_eat_.mp3",
+     "image": "img/raz-d-animal_tongues-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_tongues-p3",
+     "type": "sentence",
+     "en": "This anteater has a long, thin tongue.",
+     "zh": "这只食蚁兽有又长又细的舌头。",
+     "audio": "audio/all/7156_this_anteater_has_a_long_thin_tongue.mp3",
+     "slow": "audio/all/7156_this_anteater_has_a_long_thin_tongue.mp3",
+     "image": "img/raz-d-animal_tongues-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_tongues-p4",
+     "type": "sentence",
+     "en": "This lizard has a tongue with two parts.",
+     "zh": "这只蜥蜴的舌头分两叉。",
+     "audio": "audio/all/7157_this_lizard_has_a_tongue_with_two_part.mp3",
+     "slow": "audio/all/7157_this_lizard_has_a_tongue_with_two_part.mp3",
+     "image": "img/raz-d-animal_tongues-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_animal_tongues-p5",
+     "type": "sentence",
+     "en": "This giraffe has a dark, strong tongue.",
+     "zh": "这只长颈鹿有深色的有力舌头。",
+     "audio": "audio/all/7158_this_giraffe_has_a_dark_strong_tongue.mp3",
+     "slow": "audio/all/7158_this_giraffe_has_a_dark_strong_tongue.mp3",
+     "image": "img/raz-d-animal_tongues-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_animal_tongues-p6",
+     "type": "sentence",
+     "en": "This turtle has a tongue like a worm.",
+     "zh": "这只乌龟的舌头像虫子。",
+     "audio": "audio/all/7159_this_turtle_has_a_tongue_like_a_worm.mp3",
+     "slow": "audio/all/7159_this_turtle_has_a_tongue_like_a_worm.mp3",
+     "image": "img/raz-d-animal_tongues-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_animal_tongues-p7",
+     "type": "sentence",
+     "en": "This frog has a long, sticky tongue.",
+     "zh": "这只青蛙有长长的黏黏的舌头。",
+     "audio": "audio/all/7160_this_frog_has_a_long_sticky_tongue.mp3",
+     "slow": "audio/all/7160_this_frog_has_a_long_sticky_tongue.mp3",
+     "image": "img/raz-d-animal_tongues-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_animal_tongues-p8",
+     "type": "sentence",
+     "en": "This cat has a tongue like a brush.",
+     "zh": "这只猫的舌头像刷子。",
+     "audio": "audio/all/7161_this_cat_has_a_tongue_like_a_brush.mp3",
+     "slow": "audio/all/7161_this_cat_has_a_tongue_like_a_brush.mp3",
+     "image": "img/raz-d-animal_tongues-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_animal_tongues-p9",
+     "type": "sentence",
+     "en": "What is your tongue like?",
+     "zh": "你的舌头是什么样的？",
+     "audio": "audio/all/7162_what_is_your_tongue_like.mp3",
+     "slow": "audio/all/7162_what_is_your_tongue_like.mp3",
+     "image": "img/raz-d-animal_tongues-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

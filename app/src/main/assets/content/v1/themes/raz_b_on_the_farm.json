@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "A dog is in a house.",
      "zh": "小狗在房子里。",
-     "audio": "audio/all/3352_a_dog_is_in_a_house.mp3",
-     "slow": "audio/all/3352_a_dog_is_in_a_house.mp3",
+     "audio": "audio/all/8752_a_dog_is_in_a_house.mp3",
+     "slow": "audio/all/8752_a_dog_is_in_a_house.mp3",
      "image": "img/raz-b-on_the_farm-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "A cow is in a barn.",
      "zh": "奶牛在牛棚里。",
-     "audio": "audio/all/3353_a_cow_is_in_a_barn.mp3",
-     "slow": "audio/all/3353_a_cow_is_in_a_barn.mp3",
+     "audio": "audio/all/8753_a_cow_is_in_a_barn.mp3",
+     "slow": "audio/all/8753_a_cow_is_in_a_barn.mp3",
      "image": "img/raz-b-on_the_farm-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "A pig is in the mud.",
      "zh": "小猪在泥巴里。",
-     "audio": "audio/all/3354_a_pig_is_in_the_mud.mp3",
-     "slow": "audio/all/3354_a_pig_is_in_the_mud.mp3",
+     "audio": "audio/all/8754_a_pig_is_in_the_mud.mp3",
+     "slow": "audio/all/8754_a_pig_is_in_the_mud.mp3",
      "image": "img/raz-b-on_the_farm-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "A chicken is in the hay.",
      "zh": "母鸡在干草堆里。",
-     "audio": "audio/all/3355_a_chicken_is_in_the_hay.mp3",
-     "slow": "audio/all/3355_a_chicken_is_in_the_hay.mp3",
+     "audio": "audio/all/8755_a_chicken_is_in_the_hay.mp3",
+     "slow": "audio/all/8755_a_chicken_is_in_the_hay.mp3",
      "image": "img/raz-b-on_the_farm-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "A goat is in a field.",
      "zh": "山羊在田野里。",
-     "audio": "audio/all/3356_a_goat_is_in_a_field.mp3",
-     "slow": "audio/all/3356_a_goat_is_in_a_field.mp3",
+     "audio": "audio/all/8756_a_goat_is_in_a_field.mp3",
+     "slow": "audio/all/8756_a_goat_is_in_a_field.mp3",
      "image": "img/raz-b-on_the_farm-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "A duck is on a pond.",
      "zh": "鸭子在池塘上。",
-     "audio": "audio/all/3357_a_duck_is_on_a_pond.mp3",
-     "slow": "audio/all/3357_a_duck_is_on_a_pond.mp3",
+     "audio": "audio/all/8757_a_duck_is_on_a_pond.mp3",
+     "slow": "audio/all/8757_a_duck_is_on_a_pond.mp3",
      "image": "img/raz-b-on_the_farm-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "A sheep is on a hill.",
      "zh": "绵羊在小山上。",
-     "audio": "audio/all/3358_a_sheep_is_on_a_hill.mp3",
-     "slow": "audio/all/3358_a_sheep_is_on_a_hill.mp3",
+     "audio": "audio/all/8758_a_sheep_is_on_a_hill.mp3",
+     "slow": "audio/all/8758_a_sheep_is_on_a_hill.mp3",
      "image": "img/raz-b-on_the_farm-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "Animals are on a farm.",
      "zh": "动物们在农场里。",
-     "audio": "audio/all/3359_animals_are_on_a_farm.mp3",
-     "slow": "audio/all/3359_animals_are_on_a_farm.mp3",
+     "audio": "audio/all/8759_animals_are_on_a_farm.mp3",
+     "slow": "audio/all/8759_animals_are_on_a_farm.mp3",
      "image": "img/raz-b-on_the_farm-p08.jpg",
      "page": 8
     }

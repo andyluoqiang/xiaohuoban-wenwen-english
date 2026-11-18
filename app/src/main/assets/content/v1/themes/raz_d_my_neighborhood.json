@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_my_neighborhood",
+ "nameZh": "我的街区",
+ "bookTitle": "My Neighborhood",
+ "razLevel": "D",
+ "order": 45,
+ "cover": "img/raz-d-my_neighborhood-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_my_neighborhood-u1",
+   "band": 2,
+   "title": "My Neighborhood · 我的街区",
+   "cards": [
+    {
+     "id": "raz_d_my_neighborhood-p1",
+     "type": "sentence",
+     "en": "This is my neighborhood.",
+     "zh": "这是我的街区。",
+     "audio": "audio/all/7710_this_is_my_neighborhood.mp3",
+     "slow": "audio/all/7710_this_is_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_neighborhood-p2",
+     "type": "sentence",
+     "en": "There are houses in my neighborhood.",
+     "zh": "我的街区有房子。",
+     "audio": "audio/all/7711_there_are_houses_in_my_neighborhood.mp3",
+     "slow": "audio/all/7711_there_are_houses_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_my_neighborhood-p3",
+     "type": "sentence",
+     "en": "There are streets in my neighborhood.",
+     "zh": "我的街区有街道。",
+     "audio": "audio/all/7712_there_are_streets_in_my_neighborhood.mp3",
+     "slow": "audio/all/7712_there_are_streets_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_my_neighborhood-p4",
+     "type": "sentence",
+     "en": "There is a school in my neighborhood.",
+     "zh": "我的街区有一所学校。",
+     "audio": "audio/all/7713_there_is_a_school_in_my_neighborhood.mp3",
+     "slow": "audio/all/7713_there_is_a_school_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_my_neighborhood-p5",
+     "type": "sentence",
+     "en": "There is a park in my neighborhood.",
+     "zh": "我的街区有一个公园。",
+     "audio": "audio/all/7714_there_is_a_park_in_my_neighborhood.mp3",
+     "slow": "audio/all/7714_there_is_a_park_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_my_neighborhood-p6",
+     "type": "sentence",
+     "en": "There is a library in my neighborhood.",
+     "zh": "我的街区有一个图书馆。",
+     "audio": "audio/all/7715_there_is_a_library_in_my_neighborhood.mp3",
+     "slow": "audio/all/7715_there_is_a_library_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_my_neighborhood-p7",
+     "type": "sentence",
+     "en": "There is a fire station in my neighborhood.",
+     "zh": "我的街区有一个消防站。",
+     "audio": "audio/all/7716_there_is_a_fire_station_in_my_neighbor.mp3",
+     "slow": "audio/all/7716_there_is_a_fire_station_in_my_neighbor.mp3",
+     "image": "img/raz-d-my_neighborhood-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_my_neighborhood-p8",
+     "type": "sentence",
+     "en": "There is a grocery store in my neighborhood.",
+     "zh": "我的街区有一家杂货店。",
+     "audio": "audio/all/7717_there_is_a_grocery_store_in_my_neighbo.mp3",
+     "slow": "audio/all/7717_there_is_a_grocery_store_in_my_neighbo.mp3",
+     "image": "img/raz-d-my_neighborhood-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_my_neighborhood-p9",
+     "type": "sentence",
+     "en": "There is a bakery in my neighborhood.",
+     "zh": "我的街区有一家面包店。",
+     "audio": "audio/all/7718_there_is_a_bakery_in_my_neighborhood.mp3",
+     "slow": "audio/all/7718_there_is_a_bakery_in_my_neighborhood.mp3",
+     "image": "img/raz-d-my_neighborhood-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_my_neighborhood-p10",
+     "type": "sentence",
+     "en": "I love where I live.",
+     "zh": "我爱我住的地方。",
+     "audio": "audio/all/7719_i_love_where_i_live.mp3",
+     "slow": "audio/all/7719_i_love_where_i_live.mp3",
+     "image": "img/raz-d-my_neighborhood-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

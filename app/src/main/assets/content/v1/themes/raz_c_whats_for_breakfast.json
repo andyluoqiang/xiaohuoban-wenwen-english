@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_whats_for_breakfast",
+ "nameZh": "早餐吃什么",
+ "bookTitle": "What's for Breakfast?",
+ "razLevel": "C",
+ "order": 80,
+ "cover": "img/raz-c-whats_for_breakfast-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_whats_for_breakfast-u1",
+   "band": 2,
+   "title": "What's for Breakfast? · 早餐吃什么",
+   "cards": [
+    {
+     "id": "raz_c_whats_for_breakfast-p1",
+     "type": "sentence",
+     "en": "Some kids eat cereal for breakfast.",
+     "zh": "有些孩子早餐吃麦片。",
+     "audio": "audio/all/6908_some_kids_eat_cereal_for_breakfast.mp3",
+     "slow": "audio/all/6908_some_kids_eat_cereal_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p2",
+     "type": "sentence",
+     "en": "Some kids eat eggs for breakfast.",
+     "zh": "有些孩子早餐吃鸡蛋。",
+     "audio": "audio/all/6909_some_kids_eat_eggs_for_breakfast.mp3",
+     "slow": "audio/all/6909_some_kids_eat_eggs_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p3",
+     "type": "sentence",
+     "en": "Some kids eat toast for breakfast.",
+     "zh": "有些孩子早餐吃吐司。",
+     "audio": "audio/all/6910_some_kids_eat_toast_for_breakfast.mp3",
+     "slow": "audio/all/6910_some_kids_eat_toast_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p4",
+     "type": "sentence",
+     "en": "Some kids eat yogurt for breakfast.",
+     "zh": "有些孩子早餐吃酸奶。",
+     "audio": "audio/all/6911_some_kids_eat_yogurt_for_breakfast.mp3",
+     "slow": "audio/all/6911_some_kids_eat_yogurt_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p5",
+     "type": "sentence",
+     "en": "Some kids eat muffins for breakfast.",
+     "zh": "有些孩子早餐吃玛芬。",
+     "audio": "audio/all/6912_some_kids_eat_muffins_for_breakfast.mp3",
+     "slow": "audio/all/6912_some_kids_eat_muffins_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p6",
+     "type": "sentence",
+     "en": "Some kids eat bacon for breakfast.",
+     "zh": "有些孩子早餐吃培根。",
+     "audio": "audio/all/6913_some_kids_eat_bacon_for_breakfast.mp3",
+     "slow": "audio/all/6913_some_kids_eat_bacon_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p7",
+     "type": "sentence",
+     "en": "Some kids eat fruit for breakfast.",
+     "zh": "有些孩子早餐吃水果。",
+     "audio": "audio/all/6914_some_kids_eat_fruit_for_breakfast.mp3",
+     "slow": "audio/all/6914_some_kids_eat_fruit_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_whats_for_breakfast-p8",
+     "type": "sentence",
+     "en": "What do you eat for breakfast?",
+     "zh": "你早餐吃什么？",
+     "audio": "audio/all/6915_what_do_you_eat_for_breakfast.mp3",
+     "slow": "audio/all/6915_what_do_you_eat_for_breakfast.mp3",
+     "image": "img/raz-c-whats_for_breakfast-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

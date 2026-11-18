@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_where_they_hid",
+ "nameZh": "他们藏哪儿",
+ "bookTitle": "Where They Hid",
+ "razLevel": "A",
+ "order": 82,
+ "cover": "img/raz-a-where_they_hid-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_where_they_hid-u1",
+   "band": 2,
+   "title": "Where They Hid · 他们藏哪儿",
+   "cards": [
+    {
+     "id": "raz_a_where_they_hid-p1",
+     "type": "sentence",
+     "en": "He hid inside.",
+     "zh": "他藏在里面。",
+     "audio": "audio/all/5753_he_hid_inside.mp3",
+     "slow": "audio/all/5753_he_hid_inside.mp3",
+     "image": "img/raz-a-where_they_hid-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_where_they_hid-p2",
+     "type": "sentence",
+     "en": "She hid outside.",
+     "zh": "她藏在外面。",
+     "audio": "audio/all/5754_she_hid_outside.mp3",
+     "slow": "audio/all/5754_she_hid_outside.mp3",
+     "image": "img/raz-a-where_they_hid-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_where_they_hid-p3",
+     "type": "sentence",
+     "en": "He hid below.",
+     "zh": "他藏在下面。",
+     "audio": "audio/all/5755_he_hid_below.mp3",
+     "slow": "audio/all/5755_he_hid_below.mp3",
+     "image": "img/raz-a-where_they_hid-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_where_they_hid-p4",
+     "type": "sentence",
+     "en": "She hid above.",
+     "zh": "她藏在上面。",
+     "audio": "audio/all/5756_she_hid_above.mp3",
+     "slow": "audio/all/5756_she_hid_above.mp3",
+     "image": "img/raz-a-where_they_hid-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_where_they_hid-p5",
+     "type": "sentence",
+     "en": "He hid between.",
+     "zh": "他藏在中间。",
+     "audio": "audio/all/5757_he_hid_between.mp3",
+     "slow": "audio/all/5757_he_hid_between.mp3",
+     "image": "img/raz-a-where_they_hid-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_where_they_hid-p6",
+     "type": "sentence",
+     "en": "She hid behind.",
+     "zh": "她藏在后面。",
+     "audio": "audio/all/5758_she_hid_behind.mp3",
+     "slow": "audio/all/5758_she_hid_behind.mp3",
+     "image": "img/raz-a-where_they_hid-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_where_they_hid-p7",
+     "type": "sentence",
+     "en": "He hid far.",
+     "zh": "他藏得远。",
+     "audio": "audio/all/5759_he_hid_far.mp3",
+     "slow": "audio/all/5759_he_hid_far.mp3",
+     "image": "img/raz-a-where_they_hid-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_where_they_hid-p8",
+     "type": "sentence",
+     "en": "She hid near.",
+     "zh": "她藏得近。",
+     "audio": "audio/all/5760_she_hid_near.mp3",
+     "slow": "audio/all/5760_she_hid_near.mp3",
+     "image": "img/raz-a-where_they_hid-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

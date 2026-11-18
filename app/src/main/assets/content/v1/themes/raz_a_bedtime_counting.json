@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_bedtime_counting",
+ "nameZh": "睡前数数",
+ "bookTitle": "Bedtime Counting",
+ "razLevel": "A",
+ "order": 5,
+ "cover": "img/raz-a-bedtime_counting-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_bedtime_counting-u1",
+   "band": 2,
+   "title": "Bedtime Counting · 睡前数数",
+   "cards": [
+    {
+     "id": "raz_a_bedtime_counting-p1",
+     "type": "sentence",
+     "en": "I count one sheep.",
+     "zh": "我数一只羊。",
+     "audio": "audio/all/5132_i_count_one_sheep.mp3",
+     "slow": "audio/all/5132_i_count_one_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_bedtime_counting-p2",
+     "type": "sentence",
+     "en": "I count two sheep.",
+     "zh": "我数两只羊。",
+     "audio": "audio/all/5133_i_count_two_sheep.mp3",
+     "slow": "audio/all/5133_i_count_two_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_bedtime_counting-p3",
+     "type": "sentence",
+     "en": "I count three sheep.",
+     "zh": "我数三只羊。",
+     "audio": "audio/all/5134_i_count_three_sheep.mp3",
+     "slow": "audio/all/5134_i_count_three_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_bedtime_counting-p4",
+     "type": "sentence",
+     "en": "I count four sheep.",
+     "zh": "我数四只羊。",
+     "audio": "audio/all/5135_i_count_four_sheep.mp3",
+     "slow": "audio/all/5135_i_count_four_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_bedtime_counting-p5",
+     "type": "sentence",
+     "en": "I count five sheep.",
+     "zh": "我数五只羊。",
+     "audio": "audio/all/5136_i_count_five_sheep.mp3",
+     "slow": "audio/all/5136_i_count_five_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_bedtime_counting-p6",
+     "type": "sentence",
+     "en": "I count six sheep.",
+     "zh": "我数六只羊。",
+     "audio": "audio/all/5137_i_count_six_sheep.mp3",
+     "slow": "audio/all/5137_i_count_six_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_bedtime_counting-p7",
+     "type": "sentence",
+     "en": "I count seven sheep.",
+     "zh": "我数七只羊。",
+     "audio": "audio/all/5138_i_count_seven_sheep.mp3",
+     "slow": "audio/all/5138_i_count_seven_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_bedtime_counting-p8",
+     "type": "sentence",
+     "en": "I count many sheep!",
+     "zh": "我数好多好多羊！",
+     "audio": "audio/all/5139_i_count_many_sheep.mp3",
+     "slow": "audio/all/5139_i_count_many_sheep.mp3",
+     "image": "img/raz-a-bedtime_counting-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_swamps",
+ "nameZh": "沼泽",
+ "bookTitle": "Swamps",
+ "razLevel": "D",
+ "order": 62,
+ "cover": "img/raz-d-swamps-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_swamps-u1",
+   "band": 2,
+   "title": "Swamps · 沼泽",
+   "cards": [
+    {
+     "id": "raz_d_swamps-p1",
+     "type": "sentence",
+     "en": "Swamps are areas of wet and dry land.",
+     "zh": "沼泽是有干有湿的土地。",
+     "audio": "audio/all/7957_swamps_are_areas_of_wet_and_dry_land.mp3",
+     "slow": "audio/all/7957_swamps_are_areas_of_wet_and_dry_land.mp3",
+     "image": "img/raz-d-swamps-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_swamps-p2",
+     "type": "sentence",
+     "en": "Swamps can have fresh water.",
+     "zh": "沼泽里可以有淡水。",
+     "audio": "audio/all/7958_swamps_can_have_fresh_water.mp3",
+     "slow": "audio/all/7958_swamps_can_have_fresh_water.mp3",
+     "image": "img/raz-d-swamps-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_swamps-p3",
+     "type": "sentence",
+     "en": "Swamps can have salt water.",
+     "zh": "沼泽里也可以有咸水。",
+     "audio": "audio/all/7959_swamps_can_have_salt_water.mp3",
+     "slow": "audio/all/7959_swamps_can_have_salt_water.mp3",
+     "image": "img/raz-d-swamps-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_swamps-p4",
+     "type": "sentence",
+     "en": "Swamps can have many plants.",
+     "zh": "沼泽里可以有很多植物。",
+     "audio": "audio/all/7960_swamps_can_have_many_plants.mp3",
+     "slow": "audio/all/7960_swamps_can_have_many_plants.mp3",
+     "image": "img/raz-d-swamps-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_swamps-p5",
+     "type": "sentence",
+     "en": "Swamps can have many animals.",
+     "zh": "沼泽里可以有很多动物。",
+     "audio": "audio/all/7961_swamps_can_have_many_animals.mp3",
+     "slow": "audio/all/7961_swamps_can_have_many_animals.mp3",
+     "image": "img/raz-d-swamps-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_swamps-p6",
+     "type": "sentence",
+     "en": "Swamps help the soil stay healthy.",
+     "zh": "沼泽帮助土壤保持健康。",
+     "audio": "audio/all/7962_swamps_help_the_soil_stay_healthy.mp3",
+     "slow": "audio/all/7962_swamps_help_the_soil_stay_healthy.mp3",
+     "image": "img/raz-d-swamps-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_swamps-p7",
+     "type": "sentence",
+     "en": "Swamps help the air stay clean.",
+     "zh": "沼泽帮助空气保持清洁。",
+     "audio": "audio/all/7963_swamps_help_the_air_stay_clean.mp3",
+     "slow": "audio/all/7963_swamps_help_the_air_stay_clean.mp3",
+     "image": "img/raz-d-swamps-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_swamps-p8",
+     "type": "sentence",
+     "en": "Swamps help the water stay clean.",
+     "zh": "沼泽帮助水保持干净。",
+     "audio": "audio/all/7964_swamps_help_the_water_stay_clean.mp3",
+     "slow": "audio/all/7964_swamps_help_the_water_stay_clean.mp3",
+     "image": "img/raz-d-swamps-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_swamps-p9",
+     "type": "sentence",
+     "en": "Swamps help the land stay dry.",
+     "zh": "沼泽帮助陆地保持干爽。",
+     "audio": "audio/all/7965_swamps_help_the_land_stay_dry.mp3",
+     "slow": "audio/all/7965_swamps_help_the_land_stay_dry.mp3",
+     "image": "img/raz-d-swamps-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_swamps-p10",
+     "type": "sentence",
+     "en": "Swamps help Earth stay healthy.",
+     "zh": "沼泽帮助地球保持健康。",
+     "audio": "audio/all/7966_swamps_help_earth_stay_healthy.mp3",
+     "slow": "audio/all/7966_swamps_help_earth_stay_healthy.mp3",
+     "image": "img/raz-d-swamps-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

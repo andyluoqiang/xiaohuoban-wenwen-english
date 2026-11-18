@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_this_is_my_bear",
+ "nameZh": "这是我的熊",
+ "bookTitle": "This Is My Bear",
+ "razLevel": "A",
+ "order": 71,
+ "cover": "img/raz-a-this_is_my_bear-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_this_is_my_bear-u1",
+   "band": 2,
+   "title": "This Is My Bear · 这是我的熊",
+   "cards": [
+    {
+     "id": "raz_a_this_is_my_bear-p1",
+     "type": "sentence",
+     "en": "This is my bear.",
+     "zh": "这是我的熊。",
+     "audio": "audio/all/5665_this_is_my_bear.mp3",
+     "slow": "audio/all/5665_this_is_my_bear.mp3",
+     "image": "img/raz-a-this_is_my_bear-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p2",
+     "type": "sentence",
+     "en": "My bear is soft.",
+     "zh": "我的熊很软。",
+     "audio": "audio/all/5666_my_bear_is_soft.mp3",
+     "slow": "audio/all/5666_my_bear_is_soft.mp3",
+     "image": "img/raz-a-this_is_my_bear-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p3",
+     "type": "sentence",
+     "en": "My bear has fur.",
+     "zh": "我的熊有毛。",
+     "audio": "audio/all/5667_my_bear_has_fur.mp3",
+     "slow": "audio/all/5667_my_bear_has_fur.mp3",
+     "image": "img/raz-a-this_is_my_bear-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p4",
+     "type": "sentence",
+     "en": "My bear is fat.",
+     "zh": "我的熊胖胖的。",
+     "audio": "audio/all/5668_my_bear_is_fat.mp3",
+     "slow": "audio/all/5668_my_bear_is_fat.mp3",
+     "image": "img/raz-a-this_is_my_bear-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p5",
+     "type": "sentence",
+     "en": "My bear is brown.",
+     "zh": "我的熊是棕色的。",
+     "audio": "audio/all/5669_my_bear_is_brown.mp3",
+     "slow": "audio/all/5669_my_bear_is_brown.mp3",
+     "image": "img/raz-a-this_is_my_bear-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p6",
+     "type": "sentence",
+     "en": "My bear has ears.",
+     "zh": "我的熊有耳朵。",
+     "audio": "audio/all/5670_my_bear_has_ears.mp3",
+     "slow": "audio/all/5670_my_bear_has_ears.mp3",
+     "image": "img/raz-a-this_is_my_bear-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p7",
+     "type": "sentence",
+     "en": "My bear has feet.",
+     "zh": "我的熊有脚。",
+     "audio": "audio/all/5671_my_bear_has_feet.mp3",
+     "slow": "audio/all/5671_my_bear_has_feet.mp3",
+     "image": "img/raz-a-this_is_my_bear-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_this_is_my_bear-p8",
+     "type": "sentence",
+     "en": "I love my bear.",
+     "zh": "我爱我的熊。",
+     "audio": "audio/all/5672_i_love_my_bear.mp3",
+     "slow": "audio/all/5672_i_love_my_bear.mp3",
+     "image": "img/raz-a-this_is_my_bear-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

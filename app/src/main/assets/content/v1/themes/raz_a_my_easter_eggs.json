@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_easter_eggs",
+ "nameZh": "我的复活节彩蛋",
+ "bookTitle": "My Easter Eggs",
+ "razLevel": "A",
+ "order": 43,
+ "cover": "img/raz-a-my_easter_eggs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_easter_eggs-u1",
+   "band": 2,
+   "title": "My Easter Eggs · 我的复活节彩蛋",
+   "cards": [
+    {
+     "id": "raz_a_my_easter_eggs-p1",
+     "type": "sentence",
+     "en": "This egg is plain.",
+     "zh": "这颗蛋是朴素的。",
+     "audio": "audio/all/5441_this_egg_is_plain.mp3",
+     "slow": "audio/all/5441_this_egg_is_plain.mp3",
+     "image": "img/raz-a-my_easter_eggs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p2",
+     "type": "sentence",
+     "en": "This egg is fancy.",
+     "zh": "这颗蛋是华丽的。",
+     "audio": "audio/all/5442_this_egg_is_fancy.mp3",
+     "slow": "audio/all/5442_this_egg_is_fancy.mp3",
+     "image": "img/raz-a-my_easter_eggs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p3",
+     "type": "sentence",
+     "en": "This egg is sunny.",
+     "zh": "这颗蛋是阳光的。",
+     "audio": "audio/all/5443_this_egg_is_sunny.mp3",
+     "slow": "audio/all/5443_this_egg_is_sunny.mp3",
+     "image": "img/raz-a-my_easter_eggs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p4",
+     "type": "sentence",
+     "en": "This egg is stormy.",
+     "zh": "这颗蛋是暴风雨的。",
+     "audio": "audio/all/5444_this_egg_is_stormy.mp3",
+     "slow": "audio/all/5444_this_egg_is_stormy.mp3",
+     "image": "img/raz-a-my_easter_eggs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p5",
+     "type": "sentence",
+     "en": "This egg is starry.",
+     "zh": "这颗蛋是星星的。",
+     "audio": "audio/all/5445_this_egg_is_starry.mp3",
+     "slow": "audio/all/5445_this_egg_is_starry.mp3",
+     "image": "img/raz-a-my_easter_eggs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p6",
+     "type": "sentence",
+     "en": "This egg is spooky.",
+     "zh": "这颗蛋是幽灵的。",
+     "audio": "audio/all/5446_this_egg_is_spooky.mp3",
+     "slow": "audio/all/5446_this_egg_is_spooky.mp3",
+     "image": "img/raz-a-my_easter_eggs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p7",
+     "type": "sentence",
+     "en": "This egg is silly.",
+     "zh": "这颗蛋是傻傻的。",
+     "audio": "audio/all/5447_this_egg_is_silly.mp3",
+     "slow": "audio/all/5447_this_egg_is_silly.mp3",
+     "image": "img/raz-a-my_easter_eggs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_easter_eggs-p8",
+     "type": "sentence",
+     "en": "This egg is yummy.",
+     "zh": "这颗蛋很好吃。",
+     "audio": "audio/all/5448_this_egg_is_yummy.mp3",
+     "slow": "audio/all/5448_this_egg_is_yummy.mp3",
+     "image": "img/raz-a-my_easter_eggs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

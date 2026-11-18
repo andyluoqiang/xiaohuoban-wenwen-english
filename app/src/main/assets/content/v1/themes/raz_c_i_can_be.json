@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_i_can_be",
+ "nameZh": "我可以像",
+ "bookTitle": "I Can Be",
+ "razLevel": "C",
+ "order": 23,
+ "cover": "img/raz-c-i_can_be-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_i_can_be-u1",
+   "band": 2,
+   "title": "I Can Be · 我可以像",
+   "cards": [
+    {
+     "id": "raz_c_i_can_be-p1",
+     "type": "sentence",
+     "en": "I can be like many things.",
+     "zh": "我可以像很多东西。",
+     "audio": "audio/all/6271_i_can_be_like_many_things.mp3",
+     "slow": "audio/all/6271_i_can_be_like_many_things.mp3",
+     "image": "img/raz-c-i_can_be-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_can_be-p2",
+     "type": "sentence",
+     "en": "I can be as loud as a lion.",
+     "zh": "我可以像狮子一样大声。",
+     "audio": "audio/all/6272_i_can_be_as_loud_as_a_lion.mp3",
+     "slow": "audio/all/6272_i_can_be_as_loud_as_a_lion.mp3",
+     "image": "img/raz-c-i_can_be-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_can_be-p3",
+     "type": "sentence",
+     "en": "I can be as silent as a snake.",
+     "zh": "我可以像蛇一样安静。",
+     "audio": "audio/all/6273_i_can_be_as_silent_as_a_snake.mp3",
+     "slow": "audio/all/6273_i_can_be_as_silent_as_a_snake.mp3",
+     "image": "img/raz-c-i_can_be-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_i_can_be-p4",
+     "type": "sentence",
+     "en": "I can be as proud as a peacock.",
+     "zh": "我可以像孔雀一样骄傲。",
+     "audio": "audio/all/6274_i_can_be_as_proud_as_a_peacock.mp3",
+     "slow": "audio/all/6274_i_can_be_as_proud_as_a_peacock.mp3",
+     "image": "img/raz-c-i_can_be-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_can_be-p5",
+     "type": "sentence",
+     "en": "I can be as meek as a mouse.",
+     "zh": "我可以像老鼠一样温顺。",
+     "audio": "audio/all/6275_i_can_be_as_meek_as_a_mouse.mp3",
+     "slow": "audio/all/6275_i_can_be_as_meek_as_a_mouse.mp3",
+     "image": "img/raz-c-i_can_be-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_i_can_be-p6",
+     "type": "sentence",
+     "en": "I can be as fast as a cheetah.",
+     "zh": "我可以像猎豹一样快。",
+     "audio": "audio/all/6276_i_can_be_as_fast_as_a_cheetah.mp3",
+     "slow": "audio/all/6276_i_can_be_as_fast_as_a_cheetah.mp3",
+     "image": "img/raz-c-i_can_be-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_can_be-p7",
+     "type": "sentence",
+     "en": "I can be as slow as a slug.",
+     "zh": "我可以像鼻涕虫一样慢。",
+     "audio": "audio/all/6277_i_can_be_as_slow_as_a_slug.mp3",
+     "slow": "audio/all/6277_i_can_be_as_slow_as_a_slug.mp3",
+     "image": "img/raz-c-i_can_be-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_i_can_be-p8",
+     "type": "sentence",
+     "en": "I can also be just me!",
+     "zh": "我也可以就做我自己！",
+     "audio": "audio/all/6278_i_can_also_be_just_me.mp3",
+     "slow": "audio/all/6278_i_can_also_be_just_me.mp3",
+     "image": "img/raz-c-i_can_be-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

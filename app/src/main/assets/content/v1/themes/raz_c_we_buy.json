@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_we_buy",
+ "nameZh": "我们去买东西",
+ "bookTitle": "We Buy",
+ "razLevel": "C",
+ "order": 68,
+ "cover": "img/raz-c-we_buy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_we_buy-u1",
+   "band": 2,
+   "title": "We Buy · 我们去买东西",
+   "cards": [
+    {
+     "id": "raz_c_we_buy-p1",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6761_we_go_to_a_store.mp3",
+     "slow": "audio/all/6761_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_buy-p2",
+     "type": "sentence",
+     "en": "Mom buys food.",
+     "zh": "妈妈买食物。",
+     "audio": "audio/all/6762_mom_buys_food.mp3",
+     "slow": "audio/all/6762_mom_buys_food.mp3",
+     "image": "img/raz-c-we_buy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_buy-p3",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6763_we_go_to_a_store.mp3",
+     "slow": "audio/all/6763_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_buy-p4",
+     "type": "sentence",
+     "en": "I buy candy.",
+     "zh": "我买糖果。",
+     "audio": "audio/all/6764_i_buy_candy.mp3",
+     "slow": "audio/all/6764_i_buy_candy.mp3",
+     "image": "img/raz-c-we_buy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_buy-p5",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6765_we_go_to_a_store.mp3",
+     "slow": "audio/all/6765_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_buy-p6",
+     "type": "sentence",
+     "en": "Dad buys clothes.",
+     "zh": "爸爸买衣服。",
+     "audio": "audio/all/6766_dad_buys_clothes.mp3",
+     "slow": "audio/all/6766_dad_buys_clothes.mp3",
+     "image": "img/raz-c-we_buy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_buy-p7",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6767_we_go_to_a_store.mp3",
+     "slow": "audio/all/6767_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_buy-p8",
+     "type": "sentence",
+     "en": "I buy toys.",
+     "zh": "我买玩具。",
+     "audio": "audio/all/6768_i_buy_toys.mp3",
+     "slow": "audio/all/6768_i_buy_toys.mp3",
+     "image": "img/raz-c-we_buy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_buy-p9",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6769_we_go_to_a_store.mp3",
+     "slow": "audio/all/6769_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_buy-p10",
+     "type": "sentence",
+     "en": "Mom buys tools.",
+     "zh": "妈妈买工具。",
+     "audio": "audio/all/6770_mom_buys_tools.mp3",
+     "slow": "audio/all/6770_mom_buys_tools.mp3",
+     "image": "img/raz-c-we_buy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_buy-p11",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6771_we_go_to_a_store.mp3",
+     "slow": "audio/all/6771_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_buy-p12",
+     "type": "sentence",
+     "en": "I buy crayons.",
+     "zh": "我买蜡笔。",
+     "audio": "audio/all/6772_i_buy_crayons.mp3",
+     "slow": "audio/all/6772_i_buy_crayons.mp3",
+     "image": "img/raz-c-we_buy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_buy-p13",
+     "type": "sentence",
+     "en": "We go to a store.",
+     "zh": "我们去商店。",
+     "audio": "audio/all/6773_we_go_to_a_store.mp3",
+     "slow": "audio/all/6773_we_go_to_a_store.mp3",
+     "image": "img/raz-c-we_buy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_buy-p14",
+     "type": "sentence",
+     "en": "Dad buys furniture.",
+     "zh": "爸爸买家具。",
+     "audio": "audio/all/6774_dad_buys_furniture.mp3",
+     "slow": "audio/all/6774_dad_buys_furniture.mp3",
+     "image": "img/raz-c-we_buy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_buy-p15",
+     "type": "sentence",
+     "en": "We need more money!",
+     "zh": "我们需要更多的钱！",
+     "audio": "audio/all/6775_we_need_more_money.mp3",
+     "slow": "audio/all/6775_we_need_more_money.mp3",
+     "image": "img/raz-c-we_buy-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_we_buy-p16",
+     "type": "sentence",
+     "en": "We go to the bank.",
+     "zh": "我们去银行。",
+     "audio": "audio/all/6776_we_go_to_the_bank.mp3",
+     "slow": "audio/all/6776_we_go_to_the_bank.mp3",
+     "image": "img/raz-c-we_buy-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

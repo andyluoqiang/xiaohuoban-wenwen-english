@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_getting_around_the_city",
+ "nameZh": "城市出行",
+ "bookTitle": "Getting Around the City",
+ "razLevel": "D",
+ "order": 25,
+ "cover": "img/raz-d-getting_around_the_city-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_getting_around_the_city-u1",
+   "band": 2,
+   "title": "Getting Around the City · 城市出行",
+   "cards": [
+    {
+     "id": "raz_d_getting_around_the_city-p1",
+     "type": "sentence",
+     "en": "I go to my friend's house.",
+     "zh": "我去朋友家。",
+     "audio": "audio/all/7418_i_go_to_my_friend_s_house.mp3",
+     "slow": "audio/all/7418_i_go_to_my_friend_s_house.mp3",
+     "image": "img/raz-d-getting_around_the_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p2",
+     "type": "sentence",
+     "en": "I go on my skateboard.",
+     "zh": "我踩滑板去。",
+     "audio": "audio/all/7419_i_go_on_my_skateboard.mp3",
+     "slow": "audio/all/7419_i_go_on_my_skateboard.mp3",
+     "image": "img/raz-d-getting_around_the_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p3",
+     "type": "sentence",
+     "en": "My sister goes to school.",
+     "zh": "我姐姐去上学。",
+     "audio": "audio/all/7420_my_sister_goes_to_school.mp3",
+     "slow": "audio/all/7420_my_sister_goes_to_school.mp3",
+     "image": "img/raz-d-getting_around_the_city-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p4",
+     "type": "sentence",
+     "en": "She goes on a bike.",
+     "zh": "她骑自行车去。",
+     "audio": "audio/all/7421_she_goes_on_a_bike.mp3",
+     "slow": "audio/all/7421_she_goes_on_a_bike.mp3",
+     "image": "img/raz-d-getting_around_the_city-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p5",
+     "type": "sentence",
+     "en": "My mom goes to work.",
+     "zh": "我妈妈去上班。",
+     "audio": "audio/all/7422_my_mom_goes_to_work.mp3",
+     "slow": "audio/all/7422_my_mom_goes_to_work.mp3",
+     "image": "img/raz-d-getting_around_the_city-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p6",
+     "type": "sentence",
+     "en": "She goes in a car.",
+     "zh": "她坐汽车去。",
+     "audio": "audio/all/7423_she_goes_in_a_car.mp3",
+     "slow": "audio/all/7423_she_goes_in_a_car.mp3",
+     "image": "img/raz-d-getting_around_the_city-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p7",
+     "type": "sentence",
+     "en": "My dad goes to work.",
+     "zh": "我爸爸去上班。",
+     "audio": "audio/all/7424_my_dad_goes_to_work.mp3",
+     "slow": "audio/all/7424_my_dad_goes_to_work.mp3",
+     "image": "img/raz-d-getting_around_the_city-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p8",
+     "type": "sentence",
+     "en": "He goes on the subway.",
+     "zh": "他坐地铁去。",
+     "audio": "audio/all/7425_he_goes_on_the_subway.mp3",
+     "slow": "audio/all/7425_he_goes_on_the_subway.mp3",
+     "image": "img/raz-d-getting_around_the_city-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p9",
+     "type": "sentence",
+     "en": "My grandpa goes to the airport.",
+     "zh": "我爷爷去机场。",
+     "audio": "audio/all/7426_my_grandpa_goes_to_the_airport.mp3",
+     "slow": "audio/all/7426_my_grandpa_goes_to_the_airport.mp3",
+     "image": "img/raz-d-getting_around_the_city-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p10",
+     "type": "sentence",
+     "en": "He goes in a taxi.",
+     "zh": "他坐出租车去。",
+     "audio": "audio/all/7427_he_goes_in_a_taxi.mp3",
+     "slow": "audio/all/7427_he_goes_in_a_taxi.mp3",
+     "image": "img/raz-d-getting_around_the_city-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p11",
+     "type": "sentence",
+     "en": "My aunt goes to the store.",
+     "zh": "我姑姑去商店。",
+     "audio": "audio/all/7428_my_aunt_goes_to_the_store.mp3",
+     "slow": "audio/all/7428_my_aunt_goes_to_the_store.mp3",
+     "image": "img/raz-d-getting_around_the_city-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p12",
+     "type": "sentence",
+     "en": "She goes on a bus.",
+     "zh": "她坐公交车去。",
+     "audio": "audio/all/7429_she_goes_on_a_bus.mp3",
+     "slow": "audio/all/7429_she_goes_on_a_bus.mp3",
+     "image": "img/raz-d-getting_around_the_city-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p13",
+     "type": "sentence",
+     "en": "My uncle goes to his office.",
+     "zh": "我叔叔去办公室。",
+     "audio": "audio/all/7430_my_uncle_goes_to_his_office.mp3",
+     "slow": "audio/all/7430_my_uncle_goes_to_his_office.mp3",
+     "image": "img/raz-d-getting_around_the_city-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p14",
+     "type": "sentence",
+     "en": "He goes on a ferry boat.",
+     "zh": "他坐渡船去。",
+     "audio": "audio/all/7431_he_goes_on_a_ferry_boat.mp3",
+     "slow": "audio/all/7431_he_goes_on_a_ferry_boat.mp3",
+     "image": "img/raz-d-getting_around_the_city-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p15",
+     "type": "sentence",
+     "en": "We all go to the park.",
+     "zh": "我们都去公园。",
+     "audio": "audio/all/7432_we_all_go_to_the_park.mp3",
+     "slow": "audio/all/7432_we_all_go_to_the_park.mp3",
+     "image": "img/raz-d-getting_around_the_city-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_getting_around_the_city-p16",
+     "type": "sentence",
+     "en": "We walk.",
+     "zh": "我们走路去。",
+     "audio": "audio/all/7433_we_walk.mp3",
+     "slow": "audio/all/7433_we_walk.mp3",
+     "image": "img/raz-d-getting_around_the_city-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

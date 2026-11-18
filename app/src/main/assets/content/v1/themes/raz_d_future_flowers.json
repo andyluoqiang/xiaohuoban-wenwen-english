@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_future_flowers",
+ "nameZh": "未来的花",
+ "bookTitle": "Future Flowers",
+ "razLevel": "D",
+ "order": 24,
+ "cover": "img/raz-d-future_flowers-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_future_flowers-u1",
+   "band": 2,
+   "title": "Future Flowers · 未来的花",
+   "cards": [
+    {
+     "id": "raz_d_future_flowers-p1",
+     "type": "sentence",
+     "en": "Fall is the time to plan for flowers.",
+     "zh": "秋天是计划种花的时候。",
+     "audio": "audio/all/7408_fall_is_the_time_to_plan_for_flowers.mp3",
+     "slow": "audio/all/7408_fall_is_the_time_to_plan_for_flowers.mp3",
+     "image": "img/raz-d-future_flowers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_future_flowers-p2",
+     "type": "sentence",
+     "en": "But winter is coming, Rex said.",
+     "zh": "可是冬天快来了，雷克斯说。",
+     "audio": "audio/all/7409_but_winter_is_coming_rex_said.mp3",
+     "slow": "audio/all/7409_but_winter_is_coming_rex_said.mp3",
+     "image": "img/raz-d-future_flowers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_future_flowers-p3",
+     "type": "sentence",
+     "en": "Fall is the time to get busy outside.",
+     "zh": "秋天是出门忙活的时候。",
+     "audio": "audio/all/7410_fall_is_the_time_to_get_busy_outside.mp3",
+     "slow": "audio/all/7410_fall_is_the_time_to_get_busy_outside.mp3",
+     "image": "img/raz-d-future_flowers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_future_flowers-p4",
+     "type": "sentence",
+     "en": "But winter is coming, Rex said.",
+     "zh": "可是冬天快来了，雷克斯说。",
+     "audio": "audio/all/7411_but_winter_is_coming_rex_said.mp3",
+     "slow": "audio/all/7411_but_winter_is_coming_rex_said.mp3",
+     "image": "img/raz-d-future_flowers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_future_flowers-p5",
+     "type": "sentence",
+     "en": "Fall is the time to dig in the dirt.",
+     "zh": "秋天是挖土的时候。",
+     "audio": "audio/all/7412_fall_is_the_time_to_dig_in_the_dirt.mp3",
+     "slow": "audio/all/7412_fall_is_the_time_to_dig_in_the_dirt.mp3",
+     "image": "img/raz-d-future_flowers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_future_flowers-p6",
+     "type": "sentence",
+     "en": "But winter is coming, Rex said.",
+     "zh": "可是冬天快来了，雷克斯说。",
+     "audio": "audio/all/7413_but_winter_is_coming_rex_said.mp3",
+     "slow": "audio/all/7413_but_winter_is_coming_rex_said.mp3",
+     "image": "img/raz-d-future_flowers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_future_flowers-p7",
+     "type": "sentence",
+     "en": "Fall is the time to plant some bulbs.",
+     "zh": "秋天是种球茎的时候。",
+     "audio": "audio/all/7414_fall_is_the_time_to_plant_some_bulbs.mp3",
+     "slow": "audio/all/7414_fall_is_the_time_to_plant_some_bulbs.mp3",
+     "image": "img/raz-d-future_flowers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_future_flowers-p8",
+     "type": "sentence",
+     "en": "But winter is coming! Rex said.",
+     "zh": "可是冬天要来啦！雷克斯说。",
+     "audio": "audio/all/7415_but_winter_is_coming_rex_said.mp3",
+     "slow": "audio/all/7415_but_winter_is_coming_rex_said.mp3",
+     "image": "img/raz-d-future_flowers-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_future_flowers-p9",
+     "type": "sentence",
+     "en": "Winter will come with snow and cold.",
+     "zh": "冬天会带着雪和寒冷到来。",
+     "audio": "audio/all/7416_winter_will_come_with_snow_and_cold.mp3",
+     "slow": "audio/all/7416_winter_will_come_with_snow_and_cold.mp3",
+     "image": "img/raz-d-future_flowers-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_future_flowers-p10",
+     "type": "sentence",
+     "en": "Then comes spring.",
+     "zh": "然后春天就来了。",
+     "audio": "audio/all/7417_then_comes_spring.mp3",
+     "slow": "audio/all/7417_then_comes_spring.mp3",
+     "image": "img/raz-d-future_flowers-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

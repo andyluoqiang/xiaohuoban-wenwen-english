@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "Some are red.",
      "zh": "有些是红色的。",
-     "audio": "audio/all/3075_some_are_red.mp3",
-     "slow": "audio/all/3075_some_are_red.mp3",
+     "audio": "audio/all/8475_some_are_red.mp3",
+     "slow": "audio/all/8475_some_are_red.mp3",
      "image": "img/raz-b-applesauce-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "Some are green.",
      "zh": "有些是绿色的。",
-     "audio": "audio/all/3076_some_are_green.mp3",
-     "slow": "audio/all/3076_some_are_green.mp3",
+     "audio": "audio/all/8476_some_are_green.mp3",
+     "slow": "audio/all/8476_some_are_green.mp3",
      "image": "img/raz-b-applesauce-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "Some are yellow.",
      "zh": "有些是黄色的。",
-     "audio": "audio/all/3077_some_are_yellow.mp3",
-     "slow": "audio/all/3077_some_are_yellow.mp3",
+     "audio": "audio/all/8477_some_are_yellow.mp3",
+     "slow": "audio/all/8477_some_are_yellow.mp3",
      "image": "img/raz-b-applesauce-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "Cut the apples.",
      "zh": "切苹果。",
-     "audio": "audio/all/3078_cut_the_apples.mp3",
-     "slow": "audio/all/3078_cut_the_apples.mp3",
+     "audio": "audio/all/8478_cut_the_apples.mp3",
+     "slow": "audio/all/8478_cut_the_apples.mp3",
      "image": "img/raz-b-applesauce-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "Cook the apples.",
      "zh": "煮苹果。",
-     "audio": "audio/all/3079_cook_the_apples.mp3",
-     "slow": "audio/all/3079_cook_the_apples.mp3",
+     "audio": "audio/all/8479_cook_the_apples.mp3",
+     "slow": "audio/all/8479_cook_the_apples.mp3",
      "image": "img/raz-b-applesauce-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "Mash the apples.",
      "zh": "捣苹果。",
-     "audio": "audio/all/3080_mash_the_apples.mp3",
-     "slow": "audio/all/3080_mash_the_apples.mp3",
+     "audio": "audio/all/8480_mash_the_apples.mp3",
+     "slow": "audio/all/8480_mash_the_apples.mp3",
      "image": "img/raz-b-applesauce-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "Add cinnamon?",
      "zh": "加点肉桂？",
-     "audio": "audio/all/3081_add_cinnamon.mp3",
-     "slow": "audio/all/3081_add_cinnamon.mp3",
+     "audio": "audio/all/8481_add_cinnamon.mp3",
+     "slow": "audio/all/8481_add_cinnamon.mp3",
      "image": "img/raz-b-applesauce-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "Applesauce!",
      "zh": "苹果酱做好啦！",
-     "audio": "audio/all/3082_applesauce.mp3",
-     "slow": "audio/all/3082_applesauce.mp3",
+     "audio": "audio/all/8482_applesauce.mp3",
+     "slow": "audio/all/8482_applesauce.mp3",
      "image": "img/raz-b-applesauce-p08.jpg",
      "page": 8
     }

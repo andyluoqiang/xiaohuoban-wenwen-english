@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "We can put on a show.",
      "zh": "我们能演一场戏。",
-     "audio": "audio/all/3360_we_can_put_on_a_show.mp3",
-     "slow": "audio/all/3360_we_can_put_on_a_show.mp3",
+     "audio": "audio/all/8760_we_can_put_on_a_show.mp3",
+     "slow": "audio/all/8760_we_can_put_on_a_show.mp3",
      "image": "img/raz-b-our_show-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "We can sing in our show.",
      "zh": "我们能在演出里唱歌。",
-     "audio": "audio/all/3361_we_can_sing_in_our_show.mp3",
-     "slow": "audio/all/3361_we_can_sing_in_our_show.mp3",
+     "audio": "audio/all/8761_we_can_sing_in_our_show.mp3",
+     "slow": "audio/all/8761_we_can_sing_in_our_show.mp3",
      "image": "img/raz-b-our_show-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "We can dance in our show.",
      "zh": "我们能在演出里跳舞。",
-     "audio": "audio/all/3362_we_can_dance_in_our_show.mp3",
-     "slow": "audio/all/3362_we_can_dance_in_our_show.mp3",
+     "audio": "audio/all/8762_we_can_dance_in_our_show.mp3",
+     "slow": "audio/all/8762_we_can_dance_in_our_show.mp3",
      "image": "img/raz-b-our_show-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "We can act in our show.",
      "zh": "我们能在演出里表演。",
-     "audio": "audio/all/3363_we_can_act_in_our_show.mp3",
-     "slow": "audio/all/3363_we_can_act_in_our_show.mp3",
+     "audio": "audio/all/8763_we_can_act_in_our_show.mp3",
+     "slow": "audio/all/8763_we_can_act_in_our_show.mp3",
      "image": "img/raz-b-our_show-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "We can juggle in our show.",
      "zh": "我们能在演出里耍杂技。",
-     "audio": "audio/all/3364_we_can_juggle_in_our_show.mp3",
-     "slow": "audio/all/3364_we_can_juggle_in_our_show.mp3",
+     "audio": "audio/all/8764_we_can_juggle_in_our_show.mp3",
+     "slow": "audio/all/8764_we_can_juggle_in_our_show.mp3",
      "image": "img/raz-b-our_show-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "We can take bows in our show.",
      "zh": "我们能在演出里鞠躬。",
-     "audio": "audio/all/3365_we_can_take_bows_in_our_show.mp3",
-     "slow": "audio/all/3365_we_can_take_bows_in_our_show.mp3",
+     "audio": "audio/all/8765_we_can_take_bows_in_our_show.mp3",
+     "slow": "audio/all/8765_we_can_take_bows_in_our_show.mp3",
      "image": "img/raz-b-our_show-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "We can be stars in our show!",
      "zh": "我们能在演出里当大明星！",
-     "audio": "audio/all/3366_we_can_be_stars_in_our_show.mp3",
-     "slow": "audio/all/3366_we_can_be_stars_in_our_show.mp3",
+     "audio": "audio/all/8766_we_can_be_stars_in_our_show.mp3",
+     "slow": "audio/all/8766_we_can_be_stars_in_our_show.mp3",
      "image": "img/raz-b-our_show-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "All we need is you.",
      "zh": "我们只差你一个。",
-     "audio": "audio/all/3367_all_we_need_is_you.mp3",
-     "slow": "audio/all/3367_all_we_need_is_you.mp3",
+     "audio": "audio/all/8767_all_we_need_is_you.mp3",
+     "slow": "audio/all/8767_all_we_need_is_you.mp3",
      "image": "img/raz-b-our_show-p08.jpg",
      "page": 8
     }

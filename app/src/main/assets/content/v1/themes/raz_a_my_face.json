@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_face",
+ "nameZh": "我的脸",
+ "bookTitle": "My Face",
+ "razLevel": "A",
+ "order": 44,
+ "cover": "img/raz-a-my_face-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_face-u1",
+   "band": 2,
+   "title": "My Face · 我的脸",
+   "cards": [
+    {
+     "id": "raz_a_my_face-p1",
+     "type": "sentence",
+     "en": "This is my eye.",
+     "zh": "这是我的眼睛。",
+     "audio": "audio/all/5449_this_is_my_eye.mp3",
+     "slow": "audio/all/5449_this_is_my_eye.mp3",
+     "image": "img/raz-a-my_face-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_face-p2",
+     "type": "sentence",
+     "en": "This is my eyebrow.",
+     "zh": "这是我的眉毛。",
+     "audio": "audio/all/5450_this_is_my_eyebrow.mp3",
+     "slow": "audio/all/5450_this_is_my_eyebrow.mp3",
+     "image": "img/raz-a-my_face-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_face-p3",
+     "type": "sentence",
+     "en": "This is my ear.",
+     "zh": "这是我的耳朵。",
+     "audio": "audio/all/5451_this_is_my_ear.mp3",
+     "slow": "audio/all/5451_this_is_my_ear.mp3",
+     "image": "img/raz-a-my_face-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_face-p4",
+     "type": "sentence",
+     "en": "This is my cheek.",
+     "zh": "这是我的脸颊。",
+     "audio": "audio/all/5452_this_is_my_cheek.mp3",
+     "slow": "audio/all/5452_this_is_my_cheek.mp3",
+     "image": "img/raz-a-my_face-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_face-p5",
+     "type": "sentence",
+     "en": "This is my nose.",
+     "zh": "这是我的鼻子。",
+     "audio": "audio/all/5453_this_is_my_nose.mp3",
+     "slow": "audio/all/5453_this_is_my_nose.mp3",
+     "image": "img/raz-a-my_face-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_face-p6",
+     "type": "sentence",
+     "en": "This is my mouth.",
+     "zh": "这是我的嘴巴。",
+     "audio": "audio/all/5454_this_is_my_mouth.mp3",
+     "slow": "audio/all/5454_this_is_my_mouth.mp3",
+     "image": "img/raz-a-my_face-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_face-p7",
+     "type": "sentence",
+     "en": "This is my chin.",
+     "zh": "这是我的下巴。",
+     "audio": "audio/all/5455_this_is_my_chin.mp3",
+     "slow": "audio/all/5455_this_is_my_chin.mp3",
+     "image": "img/raz-a-my_face-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_face-p8",
+     "type": "sentence",
+     "en": "This is my face.",
+     "zh": "这是我的脸。",
+     "audio": "audio/all/5456_this_is_my_face.mp3",
+     "slow": "audio/all/5456_this_is_my_face.mp3",
+     "image": "img/raz-a-my_face-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

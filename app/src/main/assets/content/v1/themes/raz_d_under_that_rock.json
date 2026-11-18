@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_under_that_rock",
+ "nameZh": "岩石下面",
+ "bookTitle": "Under That Rock",
+ "razLevel": "D",
+ "order": 72,
+ "cover": "img/raz-d-under_that_rock-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_under_that_rock-u1",
+   "band": 2,
+   "title": "Under That Rock · 岩石下面",
+   "cards": [
+    {
+     "id": "raz_d_under_that_rock-p1",
+     "type": "sentence",
+     "en": "Look under that rock.",
+     "zh": "看看那块岩石下面。",
+     "audio": "audio/all/8103_look_under_that_rock.mp3",
+     "slow": "audio/all/8103_look_under_that_rock.mp3",
+     "image": "img/raz-d-under_that_rock-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_under_that_rock-p2",
+     "type": "sentence",
+     "en": "What will you find?",
+     "zh": "你会找到什么呢？",
+     "audio": "audio/all/8104_what_will_you_find.mp3",
+     "slow": "audio/all/8104_what_will_you_find.mp3",
+     "image": "img/raz-d-under_that_rock-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_under_that_rock-p3",
+     "type": "sentence",
+     "en": "You may find a wiggly worm.",
+     "zh": "你可能找到一条扭来扭去的虫子。",
+     "audio": "audio/all/8105_you_may_find_a_wiggly_worm.mp3",
+     "slow": "audio/all/8105_you_may_find_a_wiggly_worm.mp3",
+     "image": "img/raz-d-under_that_rock-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_under_that_rock-p4",
+     "type": "sentence",
+     "en": "You may find a smooth stick.",
+     "zh": "你可能找到一根光滑的树枝。",
+     "audio": "audio/all/8106_you_may_find_a_smooth_stick.mp3",
+     "slow": "audio/all/8106_you_may_find_a_smooth_stick.mp3",
+     "image": "img/raz-d-under_that_rock-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_under_that_rock-p5",
+     "type": "sentence",
+     "en": "You may find a brown beetle.",
+     "zh": "你可能找到一只棕色的甲虫。",
+     "audio": "audio/all/8107_you_may_find_a_brown_beetle.mp3",
+     "slow": "audio/all/8107_you_may_find_a_brown_beetle.mp3",
+     "image": "img/raz-d-under_that_rock-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_under_that_rock-p6",
+     "type": "sentence",
+     "en": "You may find a silky spider.",
+     "zh": "你可能找到一只丝滑的蜘蛛。",
+     "audio": "audio/all/8108_you_may_find_a_silky_spider.mp3",
+     "slow": "audio/all/8108_you_may_find_a_silky_spider.mp3",
+     "image": "img/raz-d-under_that_rock-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_under_that_rock-p7",
+     "type": "sentence",
+     "en": "You may find a slow snail.",
+     "zh": "你可能找到一只慢吞吞的蜗牛。",
+     "audio": "audio/all/8109_you_may_find_a_slow_snail.mp3",
+     "slow": "audio/all/8109_you_may_find_a_slow_snail.mp3",
+     "image": "img/raz-d-under_that_rock-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_under_that_rock-p8",
+     "type": "sentence",
+     "en": "You may find a green grub.",
+     "zh": "你可能找到一条绿色的蛴螬。",
+     "audio": "audio/all/8110_you_may_find_a_green_grub.mp3",
+     "slow": "audio/all/8110_you_may_find_a_green_grub.mp3",
+     "image": "img/raz-d-under_that_rock-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_under_that_rock-p9",
+     "type": "sentence",
+     "en": "Look under that rock.",
+     "zh": "看看那块岩石下面。",
+     "audio": "audio/all/8111_look_under_that_rock.mp3",
+     "slow": "audio/all/8111_look_under_that_rock.mp3",
+     "image": "img/raz-d-under_that_rock-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_under_that_rock-p10",
+     "type": "sentence",
+     "en": "You may find many small surprises.",
+     "zh": "你可能找到很多小小的惊喜。",
+     "audio": "audio/all/8112_you_may_find_many_small_surprises.mp3",
+     "slow": "audio/all/8112_you_may_find_many_small_surprises.mp3",
+     "image": "img/raz-d-under_that_rock-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_there_is_a_mouse_in_the_house",
+ "nameZh": "房子里有只老鼠",
+ "bookTitle": "There Is a Mouse in the House",
+ "razLevel": "C",
+ "order": 64,
+ "cover": "img/raz-c-there_is_a_mouse_in_the_house-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_there_is_a_mouse_in_the_house-u1",
+   "band": 2,
+   "title": "There Is a Mouse in the House · 房子里有只老鼠",
+   "cards": [
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p1",
+     "type": "sentence",
+     "en": "There is a mouse in the house.",
+     "zh": "房子里有只老鼠。",
+     "audio": "audio/all/6720_there_is_a_mouse_in_the_house.mp3",
+     "slow": "audio/all/6720_there_is_a_mouse_in_the_house.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p2",
+     "type": "sentence",
+     "en": "There is a bee in the tea.",
+     "zh": "茶里有只蜜蜂。",
+     "audio": "audio/all/6721_there_is_a_bee_in_the_tea.mp3",
+     "slow": "audio/all/6721_there_is_a_bee_in_the_tea.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p3",
+     "type": "sentence",
+     "en": "There is a bat on the hat.",
+     "zh": "帽子上有只蝙蝠。",
+     "audio": "audio/all/6722_there_is_a_bat_on_the_hat.mp3",
+     "slow": "audio/all/6722_there_is_a_bat_on_the_hat.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p4",
+     "type": "sentence",
+     "en": "There is a pup in the cup.",
+     "zh": "杯子里有只小狗。",
+     "audio": "audio/all/6723_there_is_a_pup_in_the_cup.mp3",
+     "slow": "audio/all/6723_there_is_a_pup_in_the_cup.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p5",
+     "type": "sentence",
+     "en": "There is a bug on the rug.",
+     "zh": "地毯上有只虫子。",
+     "audio": "audio/all/6724_there_is_a_bug_on_the_rug.mp3",
+     "slow": "audio/all/6724_there_is_a_bug_on_the_rug.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p6",
+     "type": "sentence",
+     "en": "There is a fox in the box.",
+     "zh": "盒子里有只狐狸。",
+     "audio": "audio/all/6725_there_is_a_fox_in_the_box.mp3",
+     "slow": "audio/all/6725_there_is_a_fox_in_the_box.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p7",
+     "type": "sentence",
+     "en": "There is a goat on the boat.",
+     "zh": "船上有只山羊。",
+     "audio": "audio/all/6726_there_is_a_goat_on_the_boat.mp3",
+     "slow": "audio/all/6726_there_is_a_goat_on_the_boat.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_there_is_a_mouse_in_the_house-p8",
+     "type": "sentence",
+     "en": "There is a bear in the air!",
+     "zh": "空中有一头熊！",
+     "audio": "audio/all/6727_there_is_a_bear_in_the_air.mp3",
+     "slow": "audio/all/6727_there_is_a_bear_in_the_air.mp3",
+     "image": "img/raz-c-there_is_a_mouse_in_the_house-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

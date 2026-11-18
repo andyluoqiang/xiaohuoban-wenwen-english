@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_set_the_table",
+ "nameZh": "我摆餐具",
+ "bookTitle": "I Set the Table",
+ "razLevel": "A",
+ "order": 35,
+ "cover": "img/raz-a-i_set_the_table-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_set_the_table-u1",
+   "band": 2,
+   "title": "I Set the Table · 我摆餐具",
+   "cards": [
+    {
+     "id": "raz_a_i_set_the_table-p1",
+     "type": "sentence",
+     "en": "I put the cloth here.",
+     "zh": "我把桌布放这里。",
+     "audio": "audio/all/5375_i_put_the_cloth_here.mp3",
+     "slow": "audio/all/5375_i_put_the_cloth_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_set_the_table-p2",
+     "type": "sentence",
+     "en": "I put the plate here.",
+     "zh": "我把盘子放这里。",
+     "audio": "audio/all/5376_i_put_the_plate_here.mp3",
+     "slow": "audio/all/5376_i_put_the_plate_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_set_the_table-p3",
+     "type": "sentence",
+     "en": "I put the napkin here.",
+     "zh": "我把餐巾放这里。",
+     "audio": "audio/all/5377_i_put_the_napkin_here.mp3",
+     "slow": "audio/all/5377_i_put_the_napkin_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_set_the_table-p4",
+     "type": "sentence",
+     "en": "I put the fork here.",
+     "zh": "我把叉子放这里。",
+     "audio": "audio/all/5378_i_put_the_fork_here.mp3",
+     "slow": "audio/all/5378_i_put_the_fork_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_set_the_table-p5",
+     "type": "sentence",
+     "en": "I put the knife here.",
+     "zh": "我把刀放这里。",
+     "audio": "audio/all/5379_i_put_the_knife_here.mp3",
+     "slow": "audio/all/5379_i_put_the_knife_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_set_the_table-p6",
+     "type": "sentence",
+     "en": "I put the spoon here.",
+     "zh": "我把勺子放这里。",
+     "audio": "audio/all/5380_i_put_the_spoon_here.mp3",
+     "slow": "audio/all/5380_i_put_the_spoon_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_set_the_table-p7",
+     "type": "sentence",
+     "en": "I put the glass here.",
+     "zh": "我把杯子放这里。",
+     "audio": "audio/all/5381_i_put_the_glass_here.mp3",
+     "slow": "audio/all/5381_i_put_the_glass_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_set_the_table-p8",
+     "type": "sentence",
+     "en": "I put the flowers here.",
+     "zh": "我把花放这里。",
+     "audio": "audio/all/5382_i_put_the_flowers_here.mp3",
+     "slow": "audio/all/5382_i_put_the_flowers_here.mp3",
+     "image": "img/raz-a-i_set_the_table-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

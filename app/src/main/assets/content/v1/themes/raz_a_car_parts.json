@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_car_parts",
+ "nameZh": "汽车部件",
+ "bookTitle": "Car Parts",
+ "razLevel": "A",
+ "order": 9,
+ "cover": "img/raz-a-car_parts-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_car_parts-u1",
+   "band": 2,
+   "title": "Car Parts · 汽车部件",
+   "cards": [
+    {
+     "id": "raz_a_car_parts-p1",
+     "type": "sentence",
+     "en": "A car has an engine.",
+     "zh": "汽车有发动机。",
+     "audio": "audio/all/5166_a_car_has_an_engine.mp3",
+     "slow": "audio/all/5166_a_car_has_an_engine.mp3",
+     "image": "img/raz-a-car_parts-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_car_parts-p2",
+     "type": "sentence",
+     "en": "A car has a trunk.",
+     "zh": "汽车有后备箱。",
+     "audio": "audio/all/5167_a_car_has_a_trunk.mp3",
+     "slow": "audio/all/5167_a_car_has_a_trunk.mp3",
+     "image": "img/raz-a-car_parts-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_car_parts-p3",
+     "type": "sentence",
+     "en": "A car has lights.",
+     "zh": "汽车有车灯。",
+     "audio": "audio/all/5168_a_car_has_lights.mp3",
+     "slow": "audio/all/5168_a_car_has_lights.mp3",
+     "image": "img/raz-a-car_parts-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_car_parts-p4",
+     "type": "sentence",
+     "en": "A car has wheels.",
+     "zh": "汽车有车轮。",
+     "audio": "audio/all/5169_a_car_has_wheels.mp3",
+     "slow": "audio/all/5169_a_car_has_wheels.mp3",
+     "image": "img/raz-a-car_parts-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_car_parts-p5",
+     "type": "sentence",
+     "en": "A car has doors.",
+     "zh": "汽车有车门。",
+     "audio": "audio/all/5170_a_car_has_doors.mp3",
+     "slow": "audio/all/5170_a_car_has_doors.mp3",
+     "image": "img/raz-a-car_parts-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_car_parts-p6",
+     "type": "sentence",
+     "en": "A car has windows.",
+     "zh": "汽车有车窗。",
+     "audio": "audio/all/5171_a_car_has_windows.mp3",
+     "slow": "audio/all/5171_a_car_has_windows.mp3",
+     "image": "img/raz-a-car_parts-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_car_parts-p7",
+     "type": "sentence",
+     "en": "A car has seats.",
+     "zh": "汽车有座椅。",
+     "audio": "audio/all/5172_a_car_has_seats.mp3",
+     "slow": "audio/all/5172_a_car_has_seats.mp3",
+     "image": "img/raz-a-car_parts-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_car_parts-p8",
+     "type": "sentence",
+     "en": "A car has seat belts.",
+     "zh": "汽车有安全带。",
+     "audio": "audio/all/5173_a_car_has_seat_belts.mp3",
+     "slow": "audio/all/5173_a_car_has_seat_belts.mp3",
+     "image": "img/raz-a-car_parts-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

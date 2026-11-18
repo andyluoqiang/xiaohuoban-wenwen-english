@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_teeth_brushing_fun",
+ "nameZh": "刷牙真有趣",
+ "bookTitle": "Teeth Brushing Fun",
+ "razLevel": "C",
+ "order": 56,
+ "cover": "img/raz-c-teeth_brushing_fun-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_teeth_brushing_fun-u1",
+   "band": 2,
+   "title": "Teeth Brushing Fun · 刷牙真有趣",
+   "cards": [
+    {
+     "id": "raz_c_teeth_brushing_fun-p1",
+     "type": "sentence",
+     "en": "I brush my teeth twice a day.",
+     "zh": "我每天刷两次牙。",
+     "audio": "audio/all/6622_i_brush_my_teeth_twice_a_day.mp3",
+     "slow": "audio/all/6622_i_brush_my_teeth_twice_a_day.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p2",
+     "type": "sentence",
+     "en": "I brush my teeth with toothpaste.",
+     "zh": "我用牙膏刷牙。",
+     "audio": "audio/all/6623_i_brush_my_teeth_with_toothpaste.mp3",
+     "slow": "audio/all/6623_i_brush_my_teeth_with_toothpaste.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p3",
+     "type": "sentence",
+     "en": "I brush my teeth for two minutes.",
+     "zh": "我刷牙刷两分钟。",
+     "audio": "audio/all/6624_i_brush_my_teeth_for_two_minutes.mp3",
+     "slow": "audio/all/6624_i_brush_my_teeth_for_two_minutes.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p4",
+     "type": "sentence",
+     "en": "I brush my teeth in the front.",
+     "zh": "我刷前面的牙。",
+     "audio": "audio/all/6625_i_brush_my_teeth_in_the_front.mp3",
+     "slow": "audio/all/6625_i_brush_my_teeth_in_the_front.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p5",
+     "type": "sentence",
+     "en": "I brush my teeth in the back.",
+     "zh": "我刷后面的牙。",
+     "audio": "audio/all/6626_i_brush_my_teeth_in_the_back.mp3",
+     "slow": "audio/all/6626_i_brush_my_teeth_in_the_back.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p6",
+     "type": "sentence",
+     "en": "I brush my teeth on the top.",
+     "zh": "我刷上面的牙。",
+     "audio": "audio/all/6627_i_brush_my_teeth_on_the_top.mp3",
+     "slow": "audio/all/6627_i_brush_my_teeth_on_the_top.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p7",
+     "type": "sentence",
+     "en": "I brush my teeth on the bottom.",
+     "zh": "我刷下面的牙。",
+     "audio": "audio/all/6628_i_brush_my_teeth_on_the_bottom.mp3",
+     "slow": "audio/all/6628_i_brush_my_teeth_on_the_bottom.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_teeth_brushing_fun-p8",
+     "type": "sentence",
+     "en": "Brushing my teeth is fun!",
+     "zh": "刷牙真有趣！",
+     "audio": "audio/all/6629_brushing_my_teeth_is_fun.mp3",
+     "slow": "audio/all/6629_brushing_my_teeth_is_fun.mp3",
+     "image": "img/raz-c-teeth_brushing_fun-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

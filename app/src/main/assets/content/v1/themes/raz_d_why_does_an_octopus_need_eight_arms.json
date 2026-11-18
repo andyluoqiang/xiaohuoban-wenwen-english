@@ -1,0 +1,97 @@
+{
+ "theme": "raz_d_why_does_an_octopus_need_eight_arms",
+ "nameZh": "章鱼为什么需要八条腕",
+ "bookTitle": "Why Does an Octopus Need Eight Arms?",
+ "razLevel": "D",
+ "order": 82,
+ "cover": "img/raz-d-why_does_an_octopus_need_eight_arms-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_why_does_an_octopus_need_eight_arms-u1",
+   "band": 2,
+   "title": "Why Does an Octopus Need Eight Arms? · 章鱼为什么需要八条腕",
+   "cards": [
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p1",
+     "type": "sentence",
+     "en": "Why does an octopus need eight arms?",
+     "zh": "章鱼为什么需要八条腕呢？",
+     "audio": "audio/all/8253_why_does_an_octopus_need_eight_arms.mp3",
+     "slow": "audio/all/8253_why_does_an_octopus_need_eight_arms.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p2",
+     "type": "sentence",
+     "en": "The first arm is for brushing her teeth.",
+     "zh": "第一条腕用来刷牙。",
+     "audio": "audio/all/8254_the_first_arm_is_for_brushing_her_teet.mp3",
+     "slow": "audio/all/8254_the_first_arm_is_for_brushing_her_teet.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p3",
+     "type": "sentence",
+     "en": "The second arm is for combing her hair.",
+     "zh": "第二条腕用来梳头。",
+     "audio": "audio/all/8255_the_second_arm_is_for_combing_her_hair.mp3",
+     "slow": "audio/all/8255_the_second_arm_is_for_combing_her_hair.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p4",
+     "type": "sentence",
+     "en": "The third arm is for playing catch.",
+     "zh": "第三条腕用来玩接球。",
+     "audio": "audio/all/8256_the_third_arm_is_for_playing_catch.mp3",
+     "slow": "audio/all/8256_the_third_arm_is_for_playing_catch.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p5",
+     "type": "sentence",
+     "en": "The fourth arm is for giving high fives.",
+     "zh": "第四条腕用来击掌。",
+     "audio": "audio/all/8257_the_fourth_arm_is_for_giving_high_five.mp3",
+     "slow": "audio/all/8257_the_fourth_arm_is_for_giving_high_five.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p6",
+     "type": "sentence",
+     "en": "The fifth arm is for holding an umbrella.",
+     "zh": "第五条腕用来撑伞。",
+     "audio": "audio/all/8258_the_fifth_arm_is_for_holding_an_umbrel.mp3",
+     "slow": "audio/all/8258_the_fifth_arm_is_for_holding_an_umbrel.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p7",
+     "type": "sentence",
+     "en": "The sixth arm is for carrying a bag.",
+     "zh": "第六条腕用来拎包。",
+     "audio": "audio/all/8259_the_sixth_arm_is_for_carrying_a_bag.mp3",
+     "slow": "audio/all/8259_the_sixth_arm_is_for_carrying_a_bag.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_why_does_an_octopus_need_eight_arms-p8",
+     "type": "sentence",
+     "en": "The seventh and eighth arms are for giving hugs.",
+     "zh": "第七条和第八条腕用来拥抱。",
+     "audio": "audio/all/8260_the_seventh_and_eighth_arms_are_for_gi.mp3",
+     "slow": "audio/all/8260_the_seventh_and_eighth_arms_are_for_gi.mp3",
+     "image": "img/raz-d-why_does_an_octopus_need_eight_arms-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

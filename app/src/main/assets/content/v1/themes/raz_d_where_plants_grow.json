@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_where_plants_grow",
+ "nameZh": "植物长在哪里",
+ "bookTitle": "Where Plants Grow",
+ "razLevel": "D",
+ "order": 79,
+ "cover": "img/raz-d-where_plants_grow-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_where_plants_grow-u1",
+   "band": 2,
+   "title": "Where Plants Grow · 植物长在哪里",
+   "cards": [
+    {
+     "id": "raz_d_where_plants_grow-p1",
+     "type": "sentence",
+     "en": "Plants grow in many places.",
+     "zh": "植物在很多地方生长。",
+     "audio": "audio/all/8211_plants_grow_in_many_places.mp3",
+     "slow": "audio/all/8211_plants_grow_in_many_places.mp3",
+     "image": "img/raz-d-where_plants_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_plants_grow-p2",
+     "type": "sentence",
+     "en": "They can grow outside.",
+     "zh": "它们可以在室外生长。",
+     "audio": "audio/all/8212_they_can_grow_outside.mp3",
+     "slow": "audio/all/8212_they_can_grow_outside.mp3",
+     "image": "img/raz-d-where_plants_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_plants_grow-p3",
+     "type": "sentence",
+     "en": "They can grow inside, too.",
+     "zh": "它们也可以在室内生长。",
+     "audio": "audio/all/8213_they_can_grow_inside_too.mp3",
+     "slow": "audio/all/8213_they_can_grow_inside_too.mp3",
+     "image": "img/raz-d-where_plants_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_where_plants_grow-p4",
+     "type": "sentence",
+     "en": "Most plants grow in soil.",
+     "zh": "大多数植物长在土壤里。",
+     "audio": "audio/all/8214_most_plants_grow_in_soil.mp3",
+     "slow": "audio/all/8214_most_plants_grow_in_soil.mp3",
+     "image": "img/raz-d-where_plants_grow-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_where_plants_grow-p5",
+     "type": "sentence",
+     "en": "Some plants grow in pots.",
+     "zh": "有些植物长在花盆里。",
+     "audio": "audio/all/8215_some_plants_grow_in_pots.mp3",
+     "slow": "audio/all/8215_some_plants_grow_in_pots.mp3",
+     "image": "img/raz-d-where_plants_grow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_where_plants_grow-p6",
+     "type": "sentence",
+     "en": "There is soil inside the pots.",
+     "zh": "花盆里面有土壤。",
+     "audio": "audio/all/8216_there_is_soil_inside_the_pots.mp3",
+     "slow": "audio/all/8216_there_is_soil_inside_the_pots.mp3",
+     "image": "img/raz-d-where_plants_grow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_where_plants_grow-p7",
+     "type": "sentence",
+     "en": "Some plants grow in sand.",
+     "zh": "有些植物长在沙子里。",
+     "audio": "audio/all/8217_some_plants_grow_in_sand.mp3",
+     "slow": "audio/all/8217_some_plants_grow_in_sand.mp3",
+     "image": "img/raz-d-where_plants_grow-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_where_plants_grow-p8",
+     "type": "sentence",
+     "en": "Some plants grow in water.",
+     "zh": "有些植物长在水里。",
+     "audio": "audio/all/8218_some_plants_grow_in_water.mp3",
+     "slow": "audio/all/8218_some_plants_grow_in_water.mp3",
+     "image": "img/raz-d-where_plants_grow-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_where_plants_grow-p9",
+     "type": "sentence",
+     "en": "Some plants grow on rocks.",
+     "zh": "有些植物长在岩石上。",
+     "audio": "audio/all/8219_some_plants_grow_on_rocks.mp3",
+     "slow": "audio/all/8219_some_plants_grow_on_rocks.mp3",
+     "image": "img/raz-d-where_plants_grow-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_where_plants_grow-p10",
+     "type": "sentence",
+     "en": "Some plants even grow on other plants.",
+     "zh": "有些植物甚至长在其他植物上。",
+     "audio": "audio/all/8220_some_plants_even_grow_on_other_plants.mp3",
+     "slow": "audio/all/8220_some_plants_even_grow_on_other_plants.mp3",
+     "image": "img/raz-d-where_plants_grow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_where_plants_grow-p11",
+     "type": "sentence",
+     "en": "Plants need three things to grow.",
+     "zh": "植物生长需要三样东西。",
+     "audio": "audio/all/8221_plants_need_three_things_to_grow.mp3",
+     "slow": "audio/all/8221_plants_need_three_things_to_grow.mp3",
+     "image": "img/raz-d-where_plants_grow-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_where_plants_grow-p12",
+     "type": "sentence",
+     "en": "They need water, air, and sunlight.",
+     "zh": "它们需要水、空气和阳光。",
+     "audio": "audio/all/8222_they_need_water_air_and_sunlight.mp3",
+     "slow": "audio/all/8222_they_need_water_air_and_sunlight.mp3",
+     "image": "img/raz-d-where_plants_grow-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

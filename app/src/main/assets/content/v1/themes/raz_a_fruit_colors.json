@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_fruit_colors",
+ "nameZh": "水果的颜色",
+ "bookTitle": "Fruit Colors",
+ "razLevel": "A",
+ "order": 16,
+ "cover": "img/raz-a-fruit_colors-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_fruit_colors-u1",
+   "band": 2,
+   "title": "Fruit Colors · 水果的颜色",
+   "cards": [
+    {
+     "id": "raz_a_fruit_colors-p1",
+     "type": "sentence",
+     "en": "Fruits can be red.",
+     "zh": "水果可以是红色的。",
+     "audio": "audio/all/5224_fruits_can_be_red.mp3",
+     "slow": "audio/all/5224_fruits_can_be_red.mp3",
+     "image": "img/raz-a-fruit_colors-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_fruit_colors-p2",
+     "type": "sentence",
+     "en": "Fruits can be green.",
+     "zh": "水果可以是绿色的。",
+     "audio": "audio/all/5225_fruits_can_be_green.mp3",
+     "slow": "audio/all/5225_fruits_can_be_green.mp3",
+     "image": "img/raz-a-fruit_colors-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_fruit_colors-p3",
+     "type": "sentence",
+     "en": "Fruits can be yellow.",
+     "zh": "水果可以是黄色的。",
+     "audio": "audio/all/5226_fruits_can_be_yellow.mp3",
+     "slow": "audio/all/5226_fruits_can_be_yellow.mp3",
+     "image": "img/raz-a-fruit_colors-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_fruit_colors-p4",
+     "type": "sentence",
+     "en": "Fruits can be orange.",
+     "zh": "水果可以是橙色的。",
+     "audio": "audio/all/5227_fruits_can_be_orange.mp3",
+     "slow": "audio/all/5227_fruits_can_be_orange.mp3",
+     "image": "img/raz-a-fruit_colors-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_fruit_colors-p5",
+     "type": "sentence",
+     "en": "Fruits can be purple.",
+     "zh": "水果可以是紫色的。",
+     "audio": "audio/all/5228_fruits_can_be_purple.mp3",
+     "slow": "audio/all/5228_fruits_can_be_purple.mp3",
+     "image": "img/raz-a-fruit_colors-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_fruit_colors-p6",
+     "type": "sentence",
+     "en": "Fruits can be pink.",
+     "zh": "水果可以是粉色的。",
+     "audio": "audio/all/5229_fruits_can_be_pink.mp3",
+     "slow": "audio/all/5229_fruits_can_be_pink.mp3",
+     "image": "img/raz-a-fruit_colors-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_fruit_colors-p7",
+     "type": "sentence",
+     "en": "Can fruits be blue?",
+     "zh": "水果可以是蓝色的吗？",
+     "audio": "audio/all/5230_can_fruits_be_blue.mp3",
+     "slow": "audio/all/5230_can_fruits_be_blue.mp3",
+     "image": "img/raz-a-fruit_colors-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_fruit_colors-p8",
+     "type": "sentence",
+     "en": "Yes, they can!",
+     "zh": "是的，可以的！",
+     "audio": "audio/all/5231_yes_they_can.mp3",
+     "slow": "audio/all/5231_yes_they_can.mp3",
+     "image": "img/raz-a-fruit_colors-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

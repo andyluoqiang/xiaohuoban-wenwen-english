@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_backyard_camping",
+ "nameZh": "后院露营",
+ "bookTitle": "Backyard Camping",
+ "razLevel": "D",
+ "order": 9,
+ "cover": "img/raz-d-backyard_camping-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_backyard_camping-u1",
+   "band": 2,
+   "title": "Backyard Camping · 后院露营",
+   "cards": [
+    {
+     "id": "raz_d_backyard_camping-p1",
+     "type": "sentence",
+     "en": "We are camping in the backyard.",
+     "zh": "我们在后院露营。",
+     "audio": "audio/all/7181_we_are_camping_in_the_backyard.mp3",
+     "slow": "audio/all/7181_we_are_camping_in_the_backyard.mp3",
+     "image": "img/raz-d-backyard_camping-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_backyard_camping-p2",
+     "type": "sentence",
+     "en": "What do we need to camp?",
+     "zh": "露营需要什么呢？",
+     "audio": "audio/all/7182_what_do_we_need_to_camp.mp3",
+     "slow": "audio/all/7182_what_do_we_need_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_backyard_camping-p3",
+     "type": "sentence",
+     "en": "We need our tent to camp.",
+     "zh": "露营需要帐篷。",
+     "audio": "audio/all/7183_we_need_our_tent_to_camp.mp3",
+     "slow": "audio/all/7183_we_need_our_tent_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_backyard_camping-p4",
+     "type": "sentence",
+     "en": "We need our snacks to camp.",
+     "zh": "露营需要零食。",
+     "audio": "audio/all/7184_we_need_our_snacks_to_camp.mp3",
+     "slow": "audio/all/7184_we_need_our_snacks_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_backyard_camping-p5",
+     "type": "sentence",
+     "en": "We need our sleeping bags to camp.",
+     "zh": "露营需要睡袋。",
+     "audio": "audio/all/7185_we_need_our_sleeping_bags_to_camp.mp3",
+     "slow": "audio/all/7185_we_need_our_sleeping_bags_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_backyard_camping-p6",
+     "type": "sentence",
+     "en": "We need our pajamas to camp.",
+     "zh": "露营需要睡衣。",
+     "audio": "audio/all/7186_we_need_our_pajamas_to_camp.mp3",
+     "slow": "audio/all/7186_we_need_our_pajamas_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_backyard_camping-p7",
+     "type": "sentence",
+     "en": "We need our flashlights to camp.",
+     "zh": "露营需要手电筒。",
+     "audio": "audio/all/7187_we_need_our_flashlights_to_camp.mp3",
+     "slow": "audio/all/7187_we_need_our_flashlights_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_backyard_camping-p8",
+     "type": "sentence",
+     "en": "Are we forgetting something?",
+     "zh": "我们是不是忘了什么？",
+     "audio": "audio/all/7188_are_we_forgetting_something.mp3",
+     "slow": "audio/all/7188_are_we_forgetting_something.mp3",
+     "image": "img/raz-d-backyard_camping-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_backyard_camping-p9",
+     "type": "sentence",
+     "en": "What else do we need to camp?",
+     "zh": "露营还需要什么呢？",
+     "audio": "audio/all/7189_what_else_do_we_need_to_camp.mp3",
+     "slow": "audio/all/7189_what_else_do_we_need_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_backyard_camping-p10",
+     "type": "sentence",
+     "en": "You need your sleep to camp.",
+     "zh": "露营需要好好睡觉。",
+     "audio": "audio/all/7190_you_need_your_sleep_to_camp.mp3",
+     "slow": "audio/all/7190_you_need_your_sleep_to_camp.mp3",
+     "image": "img/raz-d-backyard_camping-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_backyard_camping-p11",
+     "type": "sentence",
+     "en": "Mom says.",
+     "zh": "妈妈说。",
+     "audio": "audio/all/7191_mom_says.mp3",
+     "slow": "audio/all/7191_mom_says.mp3",
+     "image": "img/raz-d-backyard_camping-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

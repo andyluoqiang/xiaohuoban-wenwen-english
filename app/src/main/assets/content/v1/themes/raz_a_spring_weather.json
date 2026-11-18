@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_spring_weather",
+ "nameZh": "春天的天气",
+ "bookTitle": "Spring Weather",
+ "razLevel": "A",
+ "order": 61,
+ "cover": "img/raz-a-spring_weather-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_spring_weather-u1",
+   "band": 2,
+   "title": "Spring Weather · 春天的天气",
+   "cards": [
+    {
+     "id": "raz_a_spring_weather-p1",
+     "type": "sentence",
+     "en": "The fog comes.",
+     "zh": "雾来了。",
+     "audio": "audio/all/5585_the_fog_comes.mp3",
+     "slow": "audio/all/5585_the_fog_comes.mp3",
+     "image": "img/raz-a-spring_weather-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_spring_weather-p2",
+     "type": "sentence",
+     "en": "The clouds come.",
+     "zh": "云来了。",
+     "audio": "audio/all/5586_the_clouds_come.mp3",
+     "slow": "audio/all/5586_the_clouds_come.mp3",
+     "image": "img/raz-a-spring_weather-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_spring_weather-p3",
+     "type": "sentence",
+     "en": "The storm comes.",
+     "zh": "暴风雨来了。",
+     "audio": "audio/all/5587_the_storm_comes.mp3",
+     "slow": "audio/all/5587_the_storm_comes.mp3",
+     "image": "img/raz-a-spring_weather-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_spring_weather-p4",
+     "type": "sentence",
+     "en": "The rain comes.",
+     "zh": "雨来了。",
+     "audio": "audio/all/5588_the_rain_comes.mp3",
+     "slow": "audio/all/5588_the_rain_comes.mp3",
+     "image": "img/raz-a-spring_weather-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_spring_weather-p5",
+     "type": "sentence",
+     "en": "The wind comes.",
+     "zh": "风来了。",
+     "audio": "audio/all/5589_the_wind_comes.mp3",
+     "slow": "audio/all/5589_the_wind_comes.mp3",
+     "image": "img/raz-a-spring_weather-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_spring_weather-p6",
+     "type": "sentence",
+     "en": "The sun comes.",
+     "zh": "太阳来了。",
+     "audio": "audio/all/5590_the_sun_comes.mp3",
+     "slow": "audio/all/5590_the_sun_comes.mp3",
+     "image": "img/raz-a-spring_weather-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_spring_weather-p7",
+     "type": "sentence",
+     "en": "The flowers come.",
+     "zh": "花开了。",
+     "audio": "audio/all/5591_the_flowers_come.mp3",
+     "slow": "audio/all/5591_the_flowers_come.mp3",
+     "image": "img/raz-a-spring_weather-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_spring_weather-p8",
+     "type": "sentence",
+     "en": "The spring comes.",
+     "zh": "春天来了。",
+     "audio": "audio/all/5592_the_spring_comes.mp3",
+     "slow": "audio/all/5592_the_spring_comes.mp3",
+     "image": "img/raz-a-spring_weather-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

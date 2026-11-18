@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_house",
+ "nameZh": "我的房子",
+ "bookTitle": "My House",
+ "razLevel": "A",
+ "order": 46,
+ "cover": "img/raz-a-my_house-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_house-u1",
+   "band": 2,
+   "title": "My House · 我的房子",
+   "cards": [
+    {
+     "id": "raz_a_my_house-p1",
+     "type": "sentence",
+     "en": "This is my house.",
+     "zh": "这是我的房子。",
+     "audio": "audio/all/5465_this_is_my_house.mp3",
+     "slow": "audio/all/5465_this_is_my_house.mp3",
+     "image": "img/raz-a-my_house-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_house-p2",
+     "type": "sentence",
+     "en": "This is the door.",
+     "zh": "这是门。",
+     "audio": "audio/all/5466_this_is_the_door.mp3",
+     "slow": "audio/all/5466_this_is_the_door.mp3",
+     "image": "img/raz-a-my_house-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_house-p3",
+     "type": "sentence",
+     "en": "This is the living room.",
+     "zh": "这是客厅。",
+     "audio": "audio/all/5467_this_is_the_living_room.mp3",
+     "slow": "audio/all/5467_this_is_the_living_room.mp3",
+     "image": "img/raz-a-my_house-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_house-p4",
+     "type": "sentence",
+     "en": "This is the kitchen.",
+     "zh": "这是厨房。",
+     "audio": "audio/all/5468_this_is_the_kitchen.mp3",
+     "slow": "audio/all/5468_this_is_the_kitchen.mp3",
+     "image": "img/raz-a-my_house-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_house-p5",
+     "type": "sentence",
+     "en": "This is the dining room.",
+     "zh": "这是餐厅。",
+     "audio": "audio/all/5469_this_is_the_dining_room.mp3",
+     "slow": "audio/all/5469_this_is_the_dining_room.mp3",
+     "image": "img/raz-a-my_house-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_house-p6",
+     "type": "sentence",
+     "en": "This is the hall.",
+     "zh": "这是走廊。",
+     "audio": "audio/all/5470_this_is_the_hall.mp3",
+     "slow": "audio/all/5470_this_is_the_hall.mp3",
+     "image": "img/raz-a-my_house-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_house-p7",
+     "type": "sentence",
+     "en": "This is the bathroom.",
+     "zh": "这是浴室。",
+     "audio": "audio/all/5471_this_is_the_bathroom.mp3",
+     "slow": "audio/all/5471_this_is_the_bathroom.mp3",
+     "image": "img/raz-a-my_house-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_house-p8",
+     "type": "sentence",
+     "en": "This is my bedroom!",
+     "zh": "这是我的卧室！",
+     "audio": "audio/all/5472_this_is_my_bedroom.mp3",
+     "slow": "audio/all/5472_this_is_my_bedroom.mp3",
+     "image": "img/raz-a-my_house-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

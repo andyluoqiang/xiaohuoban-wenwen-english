@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_a_fish_sees",
+ "nameZh": "小鱼看见了",
+ "bookTitle": "A Fish Sees",
+ "razLevel": "A",
+ "order": 1,
+ "cover": "img/raz-a-a_fish_sees-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_a_fish_sees-u1",
+   "band": 2,
+   "title": "A Fish Sees · 小鱼看见了",
+   "cards": [
+    {
+     "id": "raz_a_a_fish_sees-p1",
+     "type": "sentence",
+     "en": "Fred sees a bed.",
+     "zh": "弗雷德看见一张床。",
+     "audio": "audio/all/5100_fred_sees_a_bed.mp3",
+     "slow": "audio/all/5100_fred_sees_a_bed.mp3",
+     "image": "img/raz-a-a_fish_sees-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_a_fish_sees-p2",
+     "type": "sentence",
+     "en": "Fred sees a hat.",
+     "zh": "弗雷德看见一顶帽子。",
+     "audio": "audio/all/5101_fred_sees_a_hat.mp3",
+     "slow": "audio/all/5101_fred_sees_a_hat.mp3",
+     "image": "img/raz-a-a_fish_sees-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_a_fish_sees-p3",
+     "type": "sentence",
+     "en": "Fred sees a toy.",
+     "zh": "弗雷德看见一个玩具。",
+     "audio": "audio/all/5102_fred_sees_a_toy.mp3",
+     "slow": "audio/all/5102_fred_sees_a_toy.mp3",
+     "image": "img/raz-a-a_fish_sees-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_a_fish_sees-p4",
+     "type": "sentence",
+     "en": "Fred sees a picture.",
+     "zh": "弗雷德看见一幅画。",
+     "audio": "audio/all/5103_fred_sees_a_picture.mp3",
+     "slow": "audio/all/5103_fred_sees_a_picture.mp3",
+     "image": "img/raz-a-a_fish_sees-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_a_fish_sees-p5",
+     "type": "sentence",
+     "en": "Fred sees a lamp.",
+     "zh": "弗雷德看见一盏灯。",
+     "audio": "audio/all/5104_fred_sees_a_lamp.mp3",
+     "slow": "audio/all/5104_fred_sees_a_lamp.mp3",
+     "image": "img/raz-a-a_fish_sees-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_a_fish_sees-p6",
+     "type": "sentence",
+     "en": "Fred sees a cat.",
+     "zh": "弗雷德看见一只猫。",
+     "audio": "audio/all/5105_fred_sees_a_cat.mp3",
+     "slow": "audio/all/5105_fred_sees_a_cat.mp3",
+     "image": "img/raz-a-a_fish_sees-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_a_fish_sees-p7",
+     "type": "sentence",
+     "en": "Fred sees a book.",
+     "zh": "弗雷德看见一本书。",
+     "audio": "audio/all/5106_fred_sees_a_book.mp3",
+     "slow": "audio/all/5106_fred_sees_a_book.mp3",
+     "image": "img/raz-a-a_fish_sees-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_a_fish_sees-p8",
+     "type": "sentence",
+     "en": "Fred sees a friend.",
+     "zh": "弗雷德看见一位朋友。",
+     "audio": "audio/all/5107_fred_sees_a_friend.mp3",
+     "slow": "audio/all/5107_fred_sees_a_friend.mp3",
+     "image": "img/raz-a-a_fish_sees-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

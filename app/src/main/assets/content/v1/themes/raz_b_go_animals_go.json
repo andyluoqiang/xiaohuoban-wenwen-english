@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "The cow is in a car.",
      "zh": "奶牛坐在汽车里。",
-     "audio": "audio/all/3164_the_cow_is_in_a_car.mp3",
-     "slow": "audio/all/3164_the_cow_is_in_a_car.mp3",
+     "audio": "audio/all/8564_the_cow_is_in_a_car.mp3",
+     "slow": "audio/all/8564_the_cow_is_in_a_car.mp3",
      "image": "img/raz-b-go_animals_go-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "The pig is on a bike.",
      "zh": "小猪骑在自行车上。",
-     "audio": "audio/all/3165_the_pig_is_on_a_bike.mp3",
-     "slow": "audio/all/3165_the_pig_is_on_a_bike.mp3",
+     "audio": "audio/all/8565_the_pig_is_on_a_bike.mp3",
+     "slow": "audio/all/8565_the_pig_is_on_a_bike.mp3",
      "image": "img/raz-b-go_animals_go-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "The goat is in a boat.",
      "zh": "山羊坐在小船里。",
-     "audio": "audio/all/3166_the_goat_is_in_a_boat.mp3",
-     "slow": "audio/all/3166_the_goat_is_in_a_boat.mp3",
+     "audio": "audio/all/8566_the_goat_is_in_a_boat.mp3",
+     "slow": "audio/all/8566_the_goat_is_in_a_boat.mp3",
      "image": "img/raz-b-go_animals_go-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "The dog is on a train.",
      "zh": "小狗坐在火车上。",
-     "audio": "audio/all/3167_the_dog_is_on_a_train.mp3",
-     "slow": "audio/all/3167_the_dog_is_on_a_train.mp3",
+     "audio": "audio/all/8567_the_dog_is_on_a_train.mp3",
+     "slow": "audio/all/8567_the_dog_is_on_a_train.mp3",
      "image": "img/raz-b-go_animals_go-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "The bird is on skates.",
      "zh": "小鸟穿着溜冰鞋。",
-     "audio": "audio/all/3168_the_bird_is_on_skates.mp3",
-     "slow": "audio/all/3168_the_bird_is_on_skates.mp3",
+     "audio": "audio/all/8568_the_bird_is_on_skates.mp3",
+     "slow": "audio/all/8568_the_bird_is_on_skates.mp3",
      "image": "img/raz-b-go_animals_go-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "The duck is in a plane.",
      "zh": "鸭子坐在飞机里。",
-     "audio": "audio/all/3169_the_duck_is_in_a_plane.mp3",
-     "slow": "audio/all/3169_the_duck_is_in_a_plane.mp3",
+     "audio": "audio/all/8569_the_duck_is_in_a_plane.mp3",
+     "slow": "audio/all/8569_the_duck_is_in_a_plane.mp3",
      "image": "img/raz-b-go_animals_go-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "The cat is on a horse.",
      "zh": "小猫骑在马上。",
-     "audio": "audio/all/3170_the_cat_is_on_a_horse.mp3",
-     "slow": "audio/all/3170_the_cat_is_on_a_horse.mp3",
+     "audio": "audio/all/8570_the_cat_is_on_a_horse.mp3",
+     "slow": "audio/all/8570_the_cat_is_on_a_horse.mp3",
      "image": "img/raz-b-go_animals_go-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "Go animals go.",
      "zh": "动物们出发啦。",
-     "audio": "audio/all/3171_go_animals_go.mp3",
-     "slow": "audio/all/3171_go_animals_go.mp3",
+     "audio": "audio/all/8571_go_animals_go.mp3",
+     "slow": "audio/all/8571_go_animals_go.mp3",
      "image": "img/raz-b-go_animals_go-p08.jpg",
      "page": 8
     }

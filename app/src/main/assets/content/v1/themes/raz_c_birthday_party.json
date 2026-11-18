@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_birthday_party",
+ "nameZh": "生日聚会",
+ "bookTitle": "The Birthday Party",
+ "razLevel": "C",
+ "order": 8,
+ "cover": "img/raz-c-birthday_party-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_birthday_party-u1",
+   "band": 2,
+   "title": "The Birthday Party · 生日聚会",
+   "cards": [
+    {
+     "id": "raz_c_birthday_party-p1",
+     "type": "sentence",
+     "en": "We go shopping.",
+     "zh": "我们去购物。",
+     "audio": "audio/all/6076_we_go_shopping.mp3",
+     "slow": "audio/all/6076_we_go_shopping.mp3",
+     "image": "img/raz-c-birthday_party-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_birthday_party-p2",
+     "type": "sentence",
+     "en": "It is birthday party time.",
+     "zh": "生日聚会时间到了。",
+     "audio": "audio/all/6077_it_is_birthday_party_time.mp3",
+     "slow": "audio/all/6077_it_is_birthday_party_time.mp3",
+     "image": "img/raz-c-birthday_party-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_birthday_party-p3",
+     "type": "sentence",
+     "en": "We go to the card shop.",
+     "zh": "我们去卡片店。",
+     "audio": "audio/all/6078_we_go_to_the_card_shop.mp3",
+     "slow": "audio/all/6078_we_go_to_the_card_shop.mp3",
+     "image": "img/raz-c-birthday_party-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_birthday_party-p4",
+     "type": "sentence",
+     "en": "We get a card.",
+     "zh": "我们买一张卡片。",
+     "audio": "audio/all/6079_we_get_a_card.mp3",
+     "slow": "audio/all/6079_we_get_a_card.mp3",
+     "image": "img/raz-c-birthday_party-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_birthday_party-p5",
+     "type": "sentence",
+     "en": "We go to the balloon shop.",
+     "zh": "我们去气球店。",
+     "audio": "audio/all/6080_we_go_to_the_balloon_shop.mp3",
+     "slow": "audio/all/6080_we_go_to_the_balloon_shop.mp3",
+     "image": "img/raz-c-birthday_party-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_birthday_party-p6",
+     "type": "sentence",
+     "en": "We get balloons.",
+     "zh": "我们买气球。",
+     "audio": "audio/all/6081_we_get_balloons.mp3",
+     "slow": "audio/all/6081_we_get_balloons.mp3",
+     "image": "img/raz-c-birthday_party-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_birthday_party-p7",
+     "type": "sentence",
+     "en": "We go to the bakery.",
+     "zh": "我们去面包店。",
+     "audio": "audio/all/6082_we_go_to_the_bakery.mp3",
+     "slow": "audio/all/6082_we_go_to_the_bakery.mp3",
+     "image": "img/raz-c-birthday_party-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_birthday_party-p8",
+     "type": "sentence",
+     "en": "We get a cake.",
+     "zh": "我们买蛋糕。",
+     "audio": "audio/all/6083_we_get_a_cake.mp3",
+     "slow": "audio/all/6083_we_get_a_cake.mp3",
+     "image": "img/raz-c-birthday_party-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_birthday_party-p9",
+     "type": "sentence",
+     "en": "We go to the ice cream shop.",
+     "zh": "我们去冰淇淋店。",
+     "audio": "audio/all/6084_we_go_to_the_ice_cream_shop.mp3",
+     "slow": "audio/all/6084_we_go_to_the_ice_cream_shop.mp3",
+     "image": "img/raz-c-birthday_party-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_birthday_party-p10",
+     "type": "sentence",
+     "en": "We get ice cream.",
+     "zh": "我们买冰淇淋。",
+     "audio": "audio/all/6085_we_get_ice_cream.mp3",
+     "slow": "audio/all/6085_we_get_ice_cream.mp3",
+     "image": "img/raz-c-birthday_party-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_birthday_party-p11",
+     "type": "sentence",
+     "en": "We go to the toy store.",
+     "zh": "我们去玩具店。",
+     "audio": "audio/all/6086_we_go_to_the_toy_store.mp3",
+     "slow": "audio/all/6086_we_go_to_the_toy_store.mp3",
+     "image": "img/raz-c-birthday_party-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_birthday_party-p12",
+     "type": "sentence",
+     "en": "We get a toy.",
+     "zh": "我们买玩具。",
+     "audio": "audio/all/6087_we_get_a_toy.mp3",
+     "slow": "audio/all/6087_we_get_a_toy.mp3",
+     "image": "img/raz-c-birthday_party-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_birthday_party-p13",
+     "type": "sentence",
+     "en": "We go to the birthday party.",
+     "zh": "我们去参加生日聚会。",
+     "audio": "audio/all/6088_we_go_to_the_birthday_party.mp3",
+     "slow": "audio/all/6088_we_go_to_the_birthday_party.mp3",
+     "image": "img/raz-c-birthday_party-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_birthday_party-p14",
+     "type": "sentence",
+     "en": "We play games.",
+     "zh": "我们玩游戏。",
+     "audio": "audio/all/6089_we_play_games.mp3",
+     "slow": "audio/all/6089_we_play_games.mp3",
+     "image": "img/raz-c-birthday_party-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_birthday_party-p15",
+     "type": "sentence",
+     "en": "We sing happy birthday.",
+     "zh": "我们唱生日快乐歌。",
+     "audio": "audio/all/6090_we_sing_happy_birthday.mp3",
+     "slow": "audio/all/6090_we_sing_happy_birthday.mp3",
+     "image": "img/raz-c-birthday_party-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_birthday_party-p16",
+     "type": "sentence",
+     "en": "We have fun.",
+     "zh": "我们玩得开心。",
+     "audio": "audio/all/6091_we_have_fun.mp3",
+     "slow": "audio/all/6091_we_have_fun.mp3",
+     "image": "img/raz-c-birthday_party-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

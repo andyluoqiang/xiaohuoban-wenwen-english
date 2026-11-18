@@ -1,0 +1,237 @@
+{
+ "theme": "raz_d_community_helpers",
+ "nameZh": "社区帮手",
+ "bookTitle": "Community Helpers",
+ "razLevel": "D",
+ "order": 18,
+ "cover": "img/raz-d-community_helpers-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_community_helpers-u1",
+   "band": 2,
+   "title": "Community Helpers · 社区帮手",
+   "cards": [
+    {
+     "id": "raz_d_community_helpers-p1",
+     "type": "sentence",
+     "en": "Who are the helpers in our community?",
+     "zh": "谁是社区里的帮手？",
+     "audio": "audio/all/7301_who_are_the_helpers_in_our_community.mp3",
+     "slow": "audio/all/7301_who_are_the_helpers_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_community_helpers-p2",
+     "type": "sentence",
+     "en": "Let's meet some of them.",
+     "zh": "我们来认识几位。",
+     "audio": "audio/all/7302_let_s_meet_some_of_them.mp3",
+     "slow": "audio/all/7302_let_s_meet_some_of_them.mp3",
+     "image": "img/raz-d-community_helpers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_community_helpers-p3",
+     "type": "sentence",
+     "en": "This is a police officer.",
+     "zh": "这是一位警察。",
+     "audio": "audio/all/7303_this_is_a_police_officer.mp3",
+     "slow": "audio/all/7303_this_is_a_police_officer.mp3",
+     "image": "img/raz-d-community_helpers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_community_helpers-p4",
+     "type": "sentence",
+     "en": "She is an important helper.",
+     "zh": "她是重要的帮手。",
+     "audio": "audio/all/7304_she_is_an_important_helper.mp3",
+     "slow": "audio/all/7304_she_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_community_helpers-p5",
+     "type": "sentence",
+     "en": "She lives in our community.",
+     "zh": "她住在我们社区。",
+     "audio": "audio/all/7305_she_lives_in_our_community.mp3",
+     "slow": "audio/all/7305_she_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_community_helpers-p6",
+     "type": "sentence",
+     "en": "This is a construction worker.",
+     "zh": "这是一位建筑工人。",
+     "audio": "audio/all/7306_this_is_a_construction_worker.mp3",
+     "slow": "audio/all/7306_this_is_a_construction_worker.mp3",
+     "image": "img/raz-d-community_helpers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_community_helpers-p7",
+     "type": "sentence",
+     "en": "He is an important helper.",
+     "zh": "他是重要的帮手。",
+     "audio": "audio/all/7307_he_is_an_important_helper.mp3",
+     "slow": "audio/all/7307_he_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_community_helpers-p8",
+     "type": "sentence",
+     "en": "He lives in our community.",
+     "zh": "他住在我们社区。",
+     "audio": "audio/all/7308_he_lives_in_our_community.mp3",
+     "slow": "audio/all/7308_he_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_community_helpers-p9",
+     "type": "sentence",
+     "en": "This is a doctor.",
+     "zh": "这是一位医生。",
+     "audio": "audio/all/7309_this_is_a_doctor.mp3",
+     "slow": "audio/all/7309_this_is_a_doctor.mp3",
+     "image": "img/raz-d-community_helpers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_community_helpers-p10",
+     "type": "sentence",
+     "en": "She is an important helper.",
+     "zh": "她是重要的帮手。",
+     "audio": "audio/all/7310_she_is_an_important_helper.mp3",
+     "slow": "audio/all/7310_she_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_community_helpers-p11",
+     "type": "sentence",
+     "en": "She lives in our community.",
+     "zh": "她住在我们社区。",
+     "audio": "audio/all/7311_she_lives_in_our_community.mp3",
+     "slow": "audio/all/7311_she_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_community_helpers-p12",
+     "type": "sentence",
+     "en": "This is a teacher.",
+     "zh": "这是一位老师。",
+     "audio": "audio/all/7312_this_is_a_teacher.mp3",
+     "slow": "audio/all/7312_this_is_a_teacher.mp3",
+     "image": "img/raz-d-community_helpers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_community_helpers-p13",
+     "type": "sentence",
+     "en": "He is an important helper.",
+     "zh": "他是重要的帮手。",
+     "audio": "audio/all/7313_he_is_an_important_helper.mp3",
+     "slow": "audio/all/7313_he_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_community_helpers-p14",
+     "type": "sentence",
+     "en": "He lives in our community.",
+     "zh": "他住在我们社区。",
+     "audio": "audio/all/7314_he_lives_in_our_community.mp3",
+     "slow": "audio/all/7314_he_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_community_helpers-p15",
+     "type": "sentence",
+     "en": "This is a firefighter.",
+     "zh": "这是一位消防员。",
+     "audio": "audio/all/7315_this_is_a_firefighter.mp3",
+     "slow": "audio/all/7315_this_is_a_firefighter.mp3",
+     "image": "img/raz-d-community_helpers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_community_helpers-p16",
+     "type": "sentence",
+     "en": "He is an important helper.",
+     "zh": "他是重要的帮手。",
+     "audio": "audio/all/7316_he_is_an_important_helper.mp3",
+     "slow": "audio/all/7316_he_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_community_helpers-p17",
+     "type": "sentence",
+     "en": "He lives in our community.",
+     "zh": "他住在我们社区。",
+     "audio": "audio/all/7317_he_lives_in_our_community.mp3",
+     "slow": "audio/all/7317_he_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_community_helpers-p18",
+     "type": "sentence",
+     "en": "This is a baker.",
+     "zh": "这是一位面包师。",
+     "audio": "audio/all/7318_this_is_a_baker.mp3",
+     "slow": "audio/all/7318_this_is_a_baker.mp3",
+     "image": "img/raz-d-community_helpers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_community_helpers-p19",
+     "type": "sentence",
+     "en": "He is an important helper.",
+     "zh": "他是重要的帮手。",
+     "audio": "audio/all/7319_he_is_an_important_helper.mp3",
+     "slow": "audio/all/7319_he_is_an_important_helper.mp3",
+     "image": "img/raz-d-community_helpers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_community_helpers-p20",
+     "type": "sentence",
+     "en": "He lives in our community.",
+     "zh": "他住在我们社区。",
+     "audio": "audio/all/7320_he_lives_in_our_community.mp3",
+     "slow": "audio/all/7320_he_lives_in_our_community.mp3",
+     "image": "img/raz-d-community_helpers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_community_helpers-p21",
+     "type": "sentence",
+     "en": "This is a service dog.",
+     "zh": "这是一只服务犬。",
+     "audio": "audio/all/7321_this_is_a_service_dog.mp3",
+     "slow": "audio/all/7321_this_is_a_service_dog.mp3",
+     "image": "img/raz-d-community_helpers-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_community_helpers-p22",
+     "type": "sentence",
+     "en": "She is an important helper, too.",
+     "zh": "她也是重要的帮手。",
+     "audio": "audio/all/7322_she_is_an_important_helper_too.mp3",
+     "slow": "audio/all/7322_she_is_an_important_helper_too.mp3",
+     "image": "img/raz-d-community_helpers-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

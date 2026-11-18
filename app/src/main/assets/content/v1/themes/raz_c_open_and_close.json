@@ -1,0 +1,167 @@
+{
+ "theme": "raz_c_open_and_close",
+ "nameZh": "打开和关上",
+ "bookTitle": "Open and Close",
+ "razLevel": "C",
+ "order": 41,
+ "cover": "img/raz-c-open_and_close-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_open_and_close-u1",
+   "band": 2,
+   "title": "Open and Close · 打开和关上",
+   "cards": [
+    {
+     "id": "raz_c_open_and_close-p1",
+     "type": "sentence",
+     "en": "I open the door.",
+     "zh": "我打开门。",
+     "audio": "audio/all/6463_i_open_the_door.mp3",
+     "slow": "audio/all/6463_i_open_the_door.mp3",
+     "image": "img/raz-c-open_and_close-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_open_and_close-p2",
+     "type": "sentence",
+     "en": "You close the door.",
+     "zh": "你关上门。",
+     "audio": "audio/all/6464_you_close_the_door.mp3",
+     "slow": "audio/all/6464_you_close_the_door.mp3",
+     "image": "img/raz-c-open_and_close-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_open_and_close-p3",
+     "type": "sentence",
+     "en": "I open the window.",
+     "zh": "我打开窗。",
+     "audio": "audio/all/6465_i_open_the_window.mp3",
+     "slow": "audio/all/6465_i_open_the_window.mp3",
+     "image": "img/raz-c-open_and_close-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_open_and_close-p4",
+     "type": "sentence",
+     "en": "You close the window.",
+     "zh": "你关上窗。",
+     "audio": "audio/all/6466_you_close_the_window.mp3",
+     "slow": "audio/all/6466_you_close_the_window.mp3",
+     "image": "img/raz-c-open_and_close-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_open_and_close-p5",
+     "type": "sentence",
+     "en": "I open the drawer.",
+     "zh": "我打开抽屉。",
+     "audio": "audio/all/6467_i_open_the_drawer.mp3",
+     "slow": "audio/all/6467_i_open_the_drawer.mp3",
+     "image": "img/raz-c-open_and_close-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_open_and_close-p6",
+     "type": "sentence",
+     "en": "You close the drawer.",
+     "zh": "你关上抽屉。",
+     "audio": "audio/all/6468_you_close_the_drawer.mp3",
+     "slow": "audio/all/6468_you_close_the_drawer.mp3",
+     "image": "img/raz-c-open_and_close-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_open_and_close-p7",
+     "type": "sentence",
+     "en": "I open the box.",
+     "zh": "我打开盒子。",
+     "audio": "audio/all/6469_i_open_the_box.mp3",
+     "slow": "audio/all/6469_i_open_the_box.mp3",
+     "image": "img/raz-c-open_and_close-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_open_and_close-p8",
+     "type": "sentence",
+     "en": "You close the box.",
+     "zh": "你关上盒子。",
+     "audio": "audio/all/6470_you_close_the_box.mp3",
+     "slow": "audio/all/6470_you_close_the_box.mp3",
+     "image": "img/raz-c-open_and_close-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_open_and_close-p9",
+     "type": "sentence",
+     "en": "I open the book.",
+     "zh": "我打开书。",
+     "audio": "audio/all/6471_i_open_the_book.mp3",
+     "slow": "audio/all/6471_i_open_the_book.mp3",
+     "image": "img/raz-c-open_and_close-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_open_and_close-p10",
+     "type": "sentence",
+     "en": "You close the book.",
+     "zh": "你合上书。",
+     "audio": "audio/all/6472_you_close_the_book.mp3",
+     "slow": "audio/all/6472_you_close_the_book.mp3",
+     "image": "img/raz-c-open_and_close-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_open_and_close-p11",
+     "type": "sentence",
+     "en": "I open the jar.",
+     "zh": "我打开罐子。",
+     "audio": "audio/all/6473_i_open_the_jar.mp3",
+     "slow": "audio/all/6473_i_open_the_jar.mp3",
+     "image": "img/raz-c-open_and_close-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_open_and_close-p12",
+     "type": "sentence",
+     "en": "You close the jar.",
+     "zh": "你拧上罐子。",
+     "audio": "audio/all/6474_you_close_the_jar.mp3",
+     "slow": "audio/all/6474_you_close_the_jar.mp3",
+     "image": "img/raz-c-open_and_close-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_open_and_close-p13",
+     "type": "sentence",
+     "en": "I open the cage.",
+     "zh": "我打开笼子。",
+     "audio": "audio/all/6475_i_open_the_cage.mp3",
+     "slow": "audio/all/6475_i_open_the_cage.mp3",
+     "image": "img/raz-c-open_and_close-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_open_and_close-p14",
+     "type": "sentence",
+     "en": "Quick, quick!",
+     "zh": "快，快！",
+     "audio": "audio/all/6476_quick_quick.mp3",
+     "slow": "audio/all/6476_quick_quick.mp3",
+     "image": "img/raz-c-open_and_close-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_open_and_close-p15",
+     "type": "sentence",
+     "en": "Close the cage!",
+     "zh": "把笼子关上！",
+     "audio": "audio/all/6477_close_the_cage.mp3",
+     "slow": "audio/all/6477_close_the_cage.mp3",
+     "image": "img/raz-c-open_and_close-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

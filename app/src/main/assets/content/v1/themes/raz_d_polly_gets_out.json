@@ -1,0 +1,217 @@
+{
+ "theme": "raz_d_polly_gets_out",
+ "nameZh": "波莉飞出去了",
+ "bookTitle": "Polly Gets Out",
+ "razLevel": "D",
+ "order": 53,
+ "cover": "img/raz-d-polly_gets_out-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_polly_gets_out-u1",
+   "band": 2,
+   "title": "Polly Gets Out · 波莉飞出去了",
+   "cards": [
+    {
+     "id": "raz_d_polly_gets_out-p1",
+     "type": "sentence",
+     "en": "Polly got out of her cage.",
+     "zh": "波莉从笼子里出来了。",
+     "audio": "audio/all/7815_polly_got_out_of_her_cage.mp3",
+     "slow": "audio/all/7815_polly_got_out_of_her_cage.mp3",
+     "image": "img/raz-d-polly_gets_out-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_polly_gets_out-p2",
+     "type": "sentence",
+     "en": "She flew out the door.",
+     "zh": "她从门口飞了出去。",
+     "audio": "audio/all/7816_she_flew_out_the_door.mp3",
+     "slow": "audio/all/7816_she_flew_out_the_door.mp3",
+     "image": "img/raz-d-polly_gets_out-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_polly_gets_out-p3",
+     "type": "sentence",
+     "en": "Polly flew over the trees.",
+     "zh": "波莉飞过大树。",
+     "audio": "audio/all/7817_polly_flew_over_the_trees.mp3",
+     "slow": "audio/all/7817_polly_flew_over_the_trees.mp3",
+     "image": "img/raz-d-polly_gets_out-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_polly_gets_out-p4",
+     "type": "sentence",
+     "en": "She saw some houses.",
+     "zh": "她看见一些房子。",
+     "audio": "audio/all/7818_she_saw_some_houses.mp3",
+     "slow": "audio/all/7818_she_saw_some_houses.mp3",
+     "image": "img/raz-d-polly_gets_out-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_polly_gets_out-p5",
+     "type": "sentence",
+     "en": "Polly flew over the houses.",
+     "zh": "波莉飞过房子。",
+     "audio": "audio/all/7819_polly_flew_over_the_houses.mp3",
+     "slow": "audio/all/7819_polly_flew_over_the_houses.mp3",
+     "image": "img/raz-d-polly_gets_out-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_polly_gets_out-p6",
+     "type": "sentence",
+     "en": "She saw a path.",
+     "zh": "她看见一条小路。",
+     "audio": "audio/all/7820_she_saw_a_path.mp3",
+     "slow": "audio/all/7820_she_saw_a_path.mp3",
+     "image": "img/raz-d-polly_gets_out-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_polly_gets_out-p7",
+     "type": "sentence",
+     "en": "Polly flew over the path.",
+     "zh": "波莉飞过小路。",
+     "audio": "audio/all/7821_polly_flew_over_the_path.mp3",
+     "slow": "audio/all/7821_polly_flew_over_the_path.mp3",
+     "image": "img/raz-d-polly_gets_out-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_polly_gets_out-p8",
+     "type": "sentence",
+     "en": "She saw a pond.",
+     "zh": "她看见一个池塘。",
+     "audio": "audio/all/7822_she_saw_a_pond.mp3",
+     "slow": "audio/all/7822_she_saw_a_pond.mp3",
+     "image": "img/raz-d-polly_gets_out-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_polly_gets_out-p9",
+     "type": "sentence",
+     "en": "Polly flew over the pond.",
+     "zh": "波莉飞过池塘。",
+     "audio": "audio/all/7823_polly_flew_over_the_pond.mp3",
+     "slow": "audio/all/7823_polly_flew_over_the_pond.mp3",
+     "image": "img/raz-d-polly_gets_out-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_polly_gets_out-p10",
+     "type": "sentence",
+     "en": "She saw a playground.",
+     "zh": "她看见一个游乐场。",
+     "audio": "audio/all/7824_she_saw_a_playground.mp3",
+     "slow": "audio/all/7824_she_saw_a_playground.mp3",
+     "image": "img/raz-d-polly_gets_out-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_polly_gets_out-p11",
+     "type": "sentence",
+     "en": "Polly flew over the playground.",
+     "zh": "波莉飞过游乐场。",
+     "audio": "audio/all/7825_polly_flew_over_the_playground.mp3",
+     "slow": "audio/all/7825_polly_flew_over_the_playground.mp3",
+     "image": "img/raz-d-polly_gets_out-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_polly_gets_out-p12",
+     "type": "sentence",
+     "en": "She saw some flowers.",
+     "zh": "她看见一些花朵。",
+     "audio": "audio/all/7826_she_saw_some_flowers.mp3",
+     "slow": "audio/all/7826_she_saw_some_flowers.mp3",
+     "image": "img/raz-d-polly_gets_out-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_polly_gets_out-p13",
+     "type": "sentence",
+     "en": "Polly flew over the flowers.",
+     "zh": "波莉飞过花朵。",
+     "audio": "audio/all/7827_polly_flew_over_the_flowers.mp3",
+     "slow": "audio/all/7827_polly_flew_over_the_flowers.mp3",
+     "image": "img/raz-d-polly_gets_out-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_polly_gets_out-p14",
+     "type": "sentence",
+     "en": "She saw some children.",
+     "zh": "她看见一些孩子。",
+     "audio": "audio/all/7828_she_saw_some_children.mp3",
+     "slow": "audio/all/7828_she_saw_some_children.mp3",
+     "image": "img/raz-d-polly_gets_out-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_polly_gets_out-p15",
+     "type": "sentence",
+     "en": "Polly flew over the children.",
+     "zh": "波莉飞过孩子们。",
+     "audio": "audio/all/7829_polly_flew_over_the_children.mp3",
+     "slow": "audio/all/7829_polly_flew_over_the_children.mp3",
+     "image": "img/raz-d-polly_gets_out-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_polly_gets_out-p16",
+     "type": "sentence",
+     "en": "She saw a cat.",
+     "zh": "她看见一只猫。",
+     "audio": "audio/all/7830_she_saw_a_cat.mp3",
+     "slow": "audio/all/7830_she_saw_a_cat.mp3",
+     "image": "img/raz-d-polly_gets_out-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_polly_gets_out-p17",
+     "type": "sentence",
+     "en": "Squawk, said Polly.",
+     "zh": "“嘎！”波莉叫道。",
+     "audio": "audio/all/7831_squawk_said_polly.mp3",
+     "slow": "audio/all/7831_squawk_said_polly.mp3",
+     "image": "img/raz-d-polly_gets_out-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_polly_gets_out-p18",
+     "type": "sentence",
+     "en": "Polly flew back home.",
+     "zh": "波莉飞回了家。",
+     "audio": "audio/all/7832_polly_flew_back_home.mp3",
+     "slow": "audio/all/7832_polly_flew_back_home.mp3",
+     "image": "img/raz-d-polly_gets_out-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_polly_gets_out-p19",
+     "type": "sentence",
+     "en": "Polly flew into her cage.",
+     "zh": "波莉飞进了笼子。",
+     "audio": "audio/all/7833_polly_flew_into_her_cage.mp3",
+     "slow": "audio/all/7833_polly_flew_into_her_cage.mp3",
+     "image": "img/raz-d-polly_gets_out-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_polly_gets_out-p20",
+     "type": "sentence",
+     "en": "Phew! Polly was safe.",
+     "zh": "呼！波莉安全了。",
+     "audio": "audio/all/7834_phew_polly_was_safe.mp3",
+     "slow": "audio/all/7834_phew_polly_was_safe.mp3",
+     "image": "img/raz-d-polly_gets_out-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

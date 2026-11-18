@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_we_can_make_sounds",
+ "nameZh": "我们能发出声音",
+ "bookTitle": "We Can Make Sounds",
+ "razLevel": "A",
+ "order": 77,
+ "cover": "img/raz-a-we_can_make_sounds-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_we_can_make_sounds-u1",
+   "band": 2,
+   "title": "We Can Make Sounds · 我们能发出声音",
+   "cards": [
+    {
+     "id": "raz_a_we_can_make_sounds-p1",
+     "type": "sentence",
+     "en": "We can clap.",
+     "zh": "我们能拍手。",
+     "audio": "audio/all/5713_we_can_clap.mp3",
+     "slow": "audio/all/5713_we_can_clap.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p2",
+     "type": "sentence",
+     "en": "We can snap.",
+     "zh": "我们能打响指。",
+     "audio": "audio/all/5714_we_can_snap.mp3",
+     "slow": "audio/all/5714_we_can_snap.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p3",
+     "type": "sentence",
+     "en": "We can pop.",
+     "zh": "我们能啪的一声。",
+     "audio": "audio/all/5715_we_can_pop.mp3",
+     "slow": "audio/all/5715_we_can_pop.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p4",
+     "type": "sentence",
+     "en": "We can tap.",
+     "zh": "我们能轻敲。",
+     "audio": "audio/all/5716_we_can_tap.mp3",
+     "slow": "audio/all/5716_we_can_tap.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p5",
+     "type": "sentence",
+     "en": "We can rap.",
+     "zh": "我们能说唱。",
+     "audio": "audio/all/5717_we_can_rap.mp3",
+     "slow": "audio/all/5717_we_can_rap.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p6",
+     "type": "sentence",
+     "en": "We can slap.",
+     "zh": "我们能拍打。",
+     "audio": "audio/all/5718_we_can_slap.mp3",
+     "slow": "audio/all/5718_we_can_slap.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p7",
+     "type": "sentence",
+     "en": "We can stomp.",
+     "zh": "我们能跺脚。",
+     "audio": "audio/all/5719_we_can_stomp.mp3",
+     "slow": "audio/all/5719_we_can_stomp.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_we_can_make_sounds-p8",
+     "type": "sentence",
+     "en": "We can make sounds.",
+     "zh": "我们能发出声音。",
+     "audio": "audio/all/5720_we_can_make_sounds.mp3",
+     "slow": "audio/all/5720_we_can_make_sounds.mp3",
+     "image": "img/raz-a-we_can_make_sounds-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "theme": "raz_c_i_looked_everywhere",
+ "nameZh": "我到处都找了",
+ "bookTitle": "I Looked Everywhere",
+ "razLevel": "C",
+ "order": 24,
+ "cover": "img/raz-c-i_looked_everywhere-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_i_looked_everywhere-u1",
+   "band": 2,
+   "title": "I Looked Everywhere · 我到处都找了",
+   "cards": [
+    {
+     "id": "raz_c_i_looked_everywhere-p1",
+     "type": "sentence",
+     "en": "Did you look for your shoe?",
+     "zh": "你找过你的鞋了吗？",
+     "audio": "audio/all/6279_did_you_look_for_your_shoe.mp3",
+     "slow": "audio/all/6279_did_you_look_for_your_shoe.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p2",
+     "type": "sentence",
+     "en": "I looked everywhere.",
+     "zh": "我到处都找了。",
+     "audio": "audio/all/6280_i_looked_everywhere.mp3",
+     "slow": "audio/all/6280_i_looked_everywhere.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p3",
+     "type": "sentence",
+     "en": "My shoe is not there.",
+     "zh": "我的鞋不在那儿。",
+     "audio": "audio/all/6281_my_shoe_is_not_there.mp3",
+     "slow": "audio/all/6281_my_shoe_is_not_there.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p4",
+     "type": "sentence",
+     "en": "Did you look under the bed?",
+     "zh": "你在床底下找过吗？",
+     "audio": "audio/all/6282_did_you_look_under_the_bed.mp3",
+     "slow": "audio/all/6282_did_you_look_under_the_bed.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p5",
+     "type": "sentence",
+     "en": "I looked everywhere.",
+     "zh": "我到处都找了。",
+     "audio": "audio/all/6283_i_looked_everywhere.mp3",
+     "slow": "audio/all/6283_i_looked_everywhere.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p6",
+     "type": "sentence",
+     "en": "My shoe is not there.",
+     "zh": "我的鞋不在那儿。",
+     "audio": "audio/all/6284_my_shoe_is_not_there.mp3",
+     "slow": "audio/all/6284_my_shoe_is_not_there.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p7",
+     "type": "sentence",
+     "en": "Did you look in your toy box?",
+     "zh": "你在玩具箱里找过吗？",
+     "audio": "audio/all/6285_did_you_look_in_your_toy_box.mp3",
+     "slow": "audio/all/6285_did_you_look_in_your_toy_box.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p8",
+     "type": "sentence",
+     "en": "I looked everywhere.",
+     "zh": "我到处都找了。",
+     "audio": "audio/all/6286_i_looked_everywhere.mp3",
+     "slow": "audio/all/6286_i_looked_everywhere.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p9",
+     "type": "sentence",
+     "en": "My shoe is not there.",
+     "zh": "我的鞋不在那儿。",
+     "audio": "audio/all/6287_my_shoe_is_not_there.mp3",
+     "slow": "audio/all/6287_my_shoe_is_not_there.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p10",
+     "type": "sentence",
+     "en": "Did you look in your closet?",
+     "zh": "你在衣柜里找过吗？",
+     "audio": "audio/all/6288_did_you_look_in_your_closet.mp3",
+     "slow": "audio/all/6288_did_you_look_in_your_closet.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p11",
+     "type": "sentence",
+     "en": "Oh, no!",
+     "zh": "哦，不！",
+     "audio": "audio/all/6289_oh_no.mp3",
+     "slow": "audio/all/6289_oh_no.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p12",
+     "type": "sentence",
+     "en": "I did not look everywhere.",
+     "zh": "我没有到处都找。",
+     "audio": "audio/all/6290_i_did_not_look_everywhere.mp3",
+     "slow": "audio/all/6290_i_did_not_look_everywhere.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_i_looked_everywhere-p13",
+     "type": "sentence",
+     "en": "I did not look there.",
+     "zh": "我没在那儿找过。",
+     "audio": "audio/all/6291_i_did_not_look_there.mp3",
+     "slow": "audio/all/6291_i_did_not_look_there.mp3",
+     "image": "img/raz-c-i_looked_everywhere-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

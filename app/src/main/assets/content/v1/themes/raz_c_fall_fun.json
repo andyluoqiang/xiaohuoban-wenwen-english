@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_fall_fun",
+ "nameZh": "秋天的乐趣",
+ "bookTitle": "Fall Fun",
+ "razLevel": "C",
+ "order": 15,
+ "cover": "img/raz-c-fall_fun-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_fall_fun-u1",
+   "band": 2,
+   "title": "Fall Fun · 秋天的乐趣",
+   "cards": [
+    {
+     "id": "raz_c_fall_fun-p1",
+     "type": "sentence",
+     "en": "My friends and I love fall.",
+     "zh": "我和朋友们爱秋天。",
+     "audio": "audio/all/6157_my_friends_and_i_love_fall.mp3",
+     "slow": "audio/all/6157_my_friends_and_i_love_fall.mp3",
+     "image": "img/raz-c-fall_fun-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall_fun-p2",
+     "type": "sentence",
+     "en": "We find many fun things to do.",
+     "zh": "我们找到很多好玩的事。",
+     "audio": "audio/all/6158_we_find_many_fun_things_to_do.mp3",
+     "slow": "audio/all/6158_we_find_many_fun_things_to_do.mp3",
+     "image": "img/raz-c-fall_fun-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall_fun-p3",
+     "type": "sentence",
+     "en": "My friends and I rake leaves.",
+     "zh": "我和朋友们耙树叶。",
+     "audio": "audio/all/6159_my_friends_and_i_rake_leaves.mp3",
+     "slow": "audio/all/6159_my_friends_and_i_rake_leaves.mp3",
+     "image": "img/raz-c-fall_fun-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall_fun-p4",
+     "type": "sentence",
+     "en": "Then, we jump in!",
+     "zh": "然后，我们跳进去！",
+     "audio": "audio/all/6160_then_we_jump_in.mp3",
+     "slow": "audio/all/6160_then_we_jump_in.mp3",
+     "image": "img/raz-c-fall_fun-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_fall_fun-p5",
+     "type": "sentence",
+     "en": "My friends and I pick apples.",
+     "zh": "我和朋友们摘苹果。",
+     "audio": "audio/all/6161_my_friends_and_i_pick_apples.mp3",
+     "slow": "audio/all/6161_my_friends_and_i_pick_apples.mp3",
+     "image": "img/raz-c-fall_fun-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_fall_fun-p6",
+     "type": "sentence",
+     "en": "Then, we bake a pie.",
+     "zh": "然后，我们烤一个派。",
+     "audio": "audio/all/6162_then_we_bake_a_pie.mp3",
+     "slow": "audio/all/6162_then_we_bake_a_pie.mp3",
+     "image": "img/raz-c-fall_fun-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_fall_fun-p7",
+     "type": "sentence",
+     "en": "My friends and I carve pumpkins.",
+     "zh": "我和朋友们刻南瓜。",
+     "audio": "audio/all/6163_my_friends_and_i_carve_pumpkins.mp3",
+     "slow": "audio/all/6163_my_friends_and_i_carve_pumpkins.mp3",
+     "image": "img/raz-c-fall_fun-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_fall_fun-p8",
+     "type": "sentence",
+     "en": "Then, we eat roasted seeds.",
+     "zh": "然后，我们吃烤南瓜子。",
+     "audio": "audio/all/6164_then_we_eat_roasted_seeds.mp3",
+     "slow": "audio/all/6164_then_we_eat_roasted_seeds.mp3",
+     "image": "img/raz-c-fall_fun-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_fall_fun-p9",
+     "type": "sentence",
+     "en": "We all have fun in the fall.",
+     "zh": "我们在秋天都玩得很开心。",
+     "audio": "audio/all/6165_we_all_have_fun_in_the_fall.mp3",
+     "slow": "audio/all/6165_we_all_have_fun_in_the_fall.mp3",
+     "image": "img/raz-c-fall_fun-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

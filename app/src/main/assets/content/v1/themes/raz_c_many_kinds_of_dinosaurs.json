@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_many_kinds_of_dinosaurs",
+ "nameZh": "各种各样的恐龙",
+ "bookTitle": "Many Kinds of Dinosaurs",
+ "razLevel": "C",
+ "order": 32,
+ "cover": "img/raz-c-many_kinds_of_dinosaurs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_many_kinds_of_dinosaurs-u1",
+   "band": 2,
+   "title": "Many Kinds of Dinosaurs · 各种各样的恐龙",
+   "cards": [
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p1",
+     "type": "sentence",
+     "en": "Dinosaurs lived long ago.",
+     "zh": "恐龙很久以前生活着。",
+     "audio": "audio/all/6378_dinosaurs_lived_long_ago.mp3",
+     "slow": "audio/all/6378_dinosaurs_lived_long_ago.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p2",
+     "type": "sentence",
+     "en": "There were many kinds of dinosaurs.",
+     "zh": "恐龙有很多种。",
+     "audio": "audio/all/6379_there_were_many_kinds_of_dinosaurs.mp3",
+     "slow": "audio/all/6379_there_were_many_kinds_of_dinosaurs.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p3",
+     "type": "sentence",
+     "en": "Some dinosaurs had large heads.",
+     "zh": "有些恐龙头很大。",
+     "audio": "audio/all/6380_some_dinosaurs_had_large_heads.mp3",
+     "slow": "audio/all/6380_some_dinosaurs_had_large_heads.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p4",
+     "type": "sentence",
+     "en": "Some dinosaurs had small heads.",
+     "zh": "有些恐龙头很小。",
+     "audio": "audio/all/6381_some_dinosaurs_had_small_heads.mp3",
+     "slow": "audio/all/6381_some_dinosaurs_had_small_heads.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p5",
+     "type": "sentence",
+     "en": "Some dinosaurs had short teeth.",
+     "zh": "有些恐龙牙齿短。",
+     "audio": "audio/all/6382_some_dinosaurs_had_short_teeth.mp3",
+     "slow": "audio/all/6382_some_dinosaurs_had_short_teeth.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p6",
+     "type": "sentence",
+     "en": "Some dinosaurs had long teeth.",
+     "zh": "有些恐龙牙齿长。",
+     "audio": "audio/all/6383_some_dinosaurs_had_long_teeth.mp3",
+     "slow": "audio/all/6383_some_dinosaurs_had_long_teeth.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p7",
+     "type": "sentence",
+     "en": "Some dinosaurs had two legs.",
+     "zh": "有些恐龙两条腿。",
+     "audio": "audio/all/6384_some_dinosaurs_had_two_legs.mp3",
+     "slow": "audio/all/6384_some_dinosaurs_had_two_legs.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_many_kinds_of_dinosaurs-p8",
+     "type": "sentence",
+     "en": "Some dinosaurs had four legs.",
+     "zh": "有些恐龙四条腿。",
+     "audio": "audio/all/6385_some_dinosaurs_had_four_legs.mp3",
+     "slow": "audio/all/6385_some_dinosaurs_had_four_legs.mp3",
+     "image": "img/raz-c-many_kinds_of_dinosaurs-p06.jpg",
+     "page": 6
+    }
+   ]
+  }
+ ]
+}

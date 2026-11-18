@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_best_friends_q_and_u",
+ "nameZh": "好朋友 Q 和 U",
+ "bookTitle": "Best Friends Q and U",
+ "razLevel": "D",
+ "order": 13,
+ "cover": "img/raz-d-best_friends_q_and_u-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_best_friends_q_and_u-u1",
+   "band": 2,
+   "title": "Best Friends Q and U · 好朋友 Q 和 U",
+   "cards": [
+    {
+     "id": "raz_d_best_friends_q_and_u-p1",
+     "type": "sentence",
+     "en": "Q and U are quite a team.",
+     "zh": "Q 和 U 是很棒的搭档。",
+     "audio": "audio/all/7230_q_and_u_are_quite_a_team.mp3",
+     "slow": "audio/all/7230_q_and_u_are_quite_a_team.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p2",
+     "type": "sentence",
+     "en": "They quack together at some quail.",
+     "zh": "它们一起对着鹌鹑嘎嘎叫。",
+     "audio": "audio/all/7231_they_quack_together_at_some_quail.mp3",
+     "slow": "audio/all/7231_they_quack_together_at_some_quail.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p3",
+     "type": "sentence",
+     "en": "They quilt together in the square.",
+     "zh": "它们一起在广场上拼被子。",
+     "audio": "audio/all/7232_they_quilt_together_in_the_square.mp3",
+     "slow": "audio/all/7232_they_quilt_together_in_the_square.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p4",
+     "type": "sentence",
+     "en": "They squeeze together on the bus.",
+     "zh": "它们一起挤公交车。",
+     "audio": "audio/all/7233_they_squeeze_together_on_the_bus.mp3",
+     "slow": "audio/all/7233_they_squeeze_together_on_the_bus.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p5",
+     "type": "sentence",
+     "en": "They search together for a quarter.",
+     "zh": "它们一起找二角五分硬币。",
+     "audio": "audio/all/7234_they_search_together_for_a_quarter.mp3",
+     "slow": "audio/all/7234_they_search_together_for_a_quarter.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p6",
+     "type": "sentence",
+     "en": "They squeal together at the queen.",
+     "zh": "它们一起对着女王尖叫。",
+     "audio": "audio/all/7235_they_squeal_together_at_the_queen.mp3",
+     "slow": "audio/all/7235_they_squeal_together_at_the_queen.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p7",
+     "type": "sentence",
+     "en": "They sigh together during a quiz.",
+     "zh": "它们一起在测验时叹气。",
+     "audio": "audio/all/7236_they_sigh_together_during_a_quiz.mp3",
+     "slow": "audio/all/7236_they_sigh_together_during_a_quiz.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p8",
+     "type": "sentence",
+     "en": "They squish together in the mud.",
+     "zh": "它们一起在泥里挤来挤去。",
+     "audio": "audio/all/7237_they_squish_together_in_the_mud.mp3",
+     "slow": "audio/all/7237_they_squish_together_in_the_mud.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p9",
+     "type": "sentence",
+     "en": "They squint together at some squid.",
+     "zh": "它们一起眯眼看鱿鱼。",
+     "audio": "audio/all/7238_they_squint_together_at_some_squid.mp3",
+     "slow": "audio/all/7238_they_squint_together_at_some_squid.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p10",
+     "type": "sentence",
+     "en": "They stick together in an earthquake.",
+     "zh": "它们在地震中也黏在一起。",
+     "audio": "audio/all/7239_they_stick_together_in_an_earthquake.mp3",
+     "slow": "audio/all/7239_they_stick_together_in_an_earthquake.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_best_friends_q_and_u-p11",
+     "type": "sentence",
+     "en": "Q and U are quite a team!",
+     "zh": "Q 和 U 是很棒的搭档！",
+     "audio": "audio/all/7240_q_and_u_are_quite_a_team.mp3",
+     "slow": "audio/all/7240_q_and_u_are_quite_a_team.mp3",
+     "image": "img/raz-d-best_friends_q_and_u-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

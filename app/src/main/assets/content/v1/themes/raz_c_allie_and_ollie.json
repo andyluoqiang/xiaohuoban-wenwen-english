@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_allie_and_ollie",
+ "nameZh": "艾莉和奥莉",
+ "bookTitle": "Allie and Ollie",
+ "razLevel": "C",
+ "order": 5,
+ "cover": "img/raz-c-allie_and_ollie-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_allie_and_ollie-u1",
+   "band": 2,
+   "title": "Allie and Ollie · 艾莉和奥莉",
+   "cards": [
+    {
+     "id": "raz_c_allie_and_ollie-p1",
+     "type": "sentence",
+     "en": "Allie and Ollie are dogs.",
+     "zh": "艾莉和奥莉是狗。",
+     "audio": "audio/all/6050_allie_and_ollie_are_dogs.mp3",
+     "slow": "audio/all/6050_allie_and_ollie_are_dogs.mp3",
+     "image": "img/raz-c-allie_and_ollie-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p2",
+     "type": "sentence",
+     "en": "Allie and Ollie are sisters.",
+     "zh": "艾莉和奥莉是姐妹。",
+     "audio": "audio/all/6051_allie_and_ollie_are_sisters.mp3",
+     "slow": "audio/all/6051_allie_and_ollie_are_sisters.mp3",
+     "image": "img/raz-c-allie_and_ollie-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p3",
+     "type": "sentence",
+     "en": "Allie and Ollie think they are people.",
+     "zh": "艾莉和奥莉觉得它们是人。",
+     "audio": "audio/all/6052_allie_and_ollie_think_they_are_people.mp3",
+     "slow": "audio/all/6052_allie_and_ollie_think_they_are_people.mp3",
+     "image": "img/raz-c-allie_and_ollie-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p4",
+     "type": "sentence",
+     "en": "Allie and Ollie sit like people.",
+     "zh": "艾莉和奥莉像人一样坐。",
+     "audio": "audio/all/6053_allie_and_ollie_sit_like_people.mp3",
+     "slow": "audio/all/6053_allie_and_ollie_sit_like_people.mp3",
+     "image": "img/raz-c-allie_and_ollie-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p5",
+     "type": "sentence",
+     "en": "Allie and Ollie eat like people.",
+     "zh": "艾莉和奥莉像人一样吃饭。",
+     "audio": "audio/all/6054_allie_and_ollie_eat_like_people.mp3",
+     "slow": "audio/all/6054_allie_and_ollie_eat_like_people.mp3",
+     "image": "img/raz-c-allie_and_ollie-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p6",
+     "type": "sentence",
+     "en": "Allie and Ollie run like people.",
+     "zh": "艾莉和奥莉像人一样跑步。",
+     "audio": "audio/all/6055_allie_and_ollie_run_like_people.mp3",
+     "slow": "audio/all/6055_allie_and_ollie_run_like_people.mp3",
+     "image": "img/raz-c-allie_and_ollie-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p7",
+     "type": "sentence",
+     "en": "Allie and Ollie sleep like people.",
+     "zh": "艾莉和奥莉像人一样睡觉。",
+     "audio": "audio/all/6056_allie_and_ollie_sleep_like_people.mp3",
+     "slow": "audio/all/6056_allie_and_ollie_sleep_like_people.mp3",
+     "image": "img/raz-c-allie_and_ollie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_allie_and_ollie-p8",
+     "type": "sentence",
+     "en": "But Allie and Ollie chase cats just like dogs!",
+     "zh": "但艾莉和奥莉追猫时就像狗一样！",
+     "audio": "audio/all/6057_but_allie_and_ollie_chase_cats_just_li.mp3",
+     "slow": "audio/all/6057_but_allie_and_ollie_chase_cats_just_li.mp3",
+     "image": "img/raz-c-allie_and_ollie-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

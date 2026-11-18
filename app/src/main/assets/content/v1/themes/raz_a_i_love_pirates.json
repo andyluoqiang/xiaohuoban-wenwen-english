@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_love_pirates",
+ "nameZh": "我爱海盗",
+ "bookTitle": "I Love Pirates",
+ "razLevel": "A",
+ "order": 32,
+ "cover": "img/raz-a-i_love_pirates-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_love_pirates-u1",
+   "band": 2,
+   "title": "I Love Pirates · 我爱海盗",
+   "cards": [
+    {
+     "id": "raz_a_i_love_pirates-p1",
+     "type": "sentence",
+     "en": "I love the ships.",
+     "zh": "我爱那些船。",
+     "audio": "audio/all/5351_i_love_the_ships.mp3",
+     "slow": "audio/all/5351_i_love_the_ships.mp3",
+     "image": "img/raz-a-i_love_pirates-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_love_pirates-p2",
+     "type": "sentence",
+     "en": "I love the sails.",
+     "zh": "我爱那些帆。",
+     "audio": "audio/all/5352_i_love_the_sails.mp3",
+     "slow": "audio/all/5352_i_love_the_sails.mp3",
+     "image": "img/raz-a-i_love_pirates-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_love_pirates-p3",
+     "type": "sentence",
+     "en": "I love the parrots.",
+     "zh": "我爱那些鹦鹉。",
+     "audio": "audio/all/5353_i_love_the_parrots.mp3",
+     "slow": "audio/all/5353_i_love_the_parrots.mp3",
+     "image": "img/raz-a-i_love_pirates-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_love_pirates-p4",
+     "type": "sentence",
+     "en": "I love the songs.",
+     "zh": "我爱那些歌。",
+     "audio": "audio/all/5354_i_love_the_songs.mp3",
+     "slow": "audio/all/5354_i_love_the_songs.mp3",
+     "image": "img/raz-a-i_love_pirates-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_love_pirates-p5",
+     "type": "sentence",
+     "en": "I love the gold.",
+     "zh": "我爱那些金子。",
+     "audio": "audio/all/5355_i_love_the_gold.mp3",
+     "slow": "audio/all/5355_i_love_the_gold.mp3",
+     "image": "img/raz-a-i_love_pirates-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_love_pirates-p6",
+     "type": "sentence",
+     "en": "I love the flags.",
+     "zh": "我爱那些旗子。",
+     "audio": "audio/all/5356_i_love_the_flags.mp3",
+     "slow": "audio/all/5356_i_love_the_flags.mp3",
+     "image": "img/raz-a-i_love_pirates-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_love_pirates-p7",
+     "type": "sentence",
+     "en": "I love the ropes.",
+     "zh": "我爱那些绳索。",
+     "audio": "audio/all/5357_i_love_the_ropes.mp3",
+     "slow": "audio/all/5357_i_love_the_ropes.mp3",
+     "image": "img/raz-a-i_love_pirates-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_love_pirates-p8",
+     "type": "sentence",
+     "en": "I love the sea.",
+     "zh": "我爱大海。",
+     "audio": "audio/all/5358_i_love_the_sea.mp3",
+     "slow": "audio/all/5358_i_love_the_sea.mp3",
+     "image": "img/raz-a-i_love_pirates-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

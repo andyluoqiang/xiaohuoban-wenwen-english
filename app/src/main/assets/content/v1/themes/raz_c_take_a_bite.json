@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_take_a_bite",
+ "nameZh": "咬一口",
+ "bookTitle": "Take a Bite",
+ "razLevel": "C",
+ "order": 54,
+ "cover": "img/raz-c-take_a_bite-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_take_a_bite-u1",
+   "band": 2,
+   "title": "Take a Bite · 咬一口",
+   "cards": [
+    {
+     "id": "raz_c_take_a_bite-p1",
+     "type": "sentence",
+     "en": "Manny hated all the food on his plate.",
+     "zh": "曼尼讨厌盘子里的所有食物。",
+     "audio": "audio/all/6602_manny_hated_all_the_food_on_his_plate.mp3",
+     "slow": "audio/all/6602_manny_hated_all_the_food_on_his_plate.mp3",
+     "image": "img/raz-c-take_a_bite-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_take_a_bite-p2",
+     "type": "sentence",
+     "en": "Take a bite, his parents said.",
+     "zh": "咬一口，他爸爸妈妈说。",
+     "audio": "audio/all/6603_take_a_bite_his_parents_said.mp3",
+     "slow": "audio/all/6603_take_a_bite_his_parents_said.mp3",
+     "image": "img/raz-c-take_a_bite-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_take_a_bite-p3",
+     "type": "sentence",
+     "en": "Manny took one bite of chicken.",
+     "zh": "曼尼咬了一口鸡肉。",
+     "audio": "audio/all/6604_manny_took_one_bite_of_chicken.mp3",
+     "slow": "audio/all/6604_manny_took_one_bite_of_chicken.mp3",
+     "image": "img/raz-c-take_a_bite-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_take_a_bite-p4",
+     "type": "sentence",
+     "en": "Take a bite, his parents said.",
+     "zh": "咬一口，他爸爸妈妈说。",
+     "audio": "audio/all/6605_take_a_bite_his_parents_said.mp3",
+     "slow": "audio/all/6605_take_a_bite_his_parents_said.mp3",
+     "image": "img/raz-c-take_a_bite-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_take_a_bite-p5",
+     "type": "sentence",
+     "en": "Manny took one bite of peas.",
+     "zh": "曼尼咬了一口豌豆。",
+     "audio": "audio/all/6606_manny_took_one_bite_of_peas.mp3",
+     "slow": "audio/all/6606_manny_took_one_bite_of_peas.mp3",
+     "image": "img/raz-c-take_a_bite-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_take_a_bite-p6",
+     "type": "sentence",
+     "en": "Take a bite, his parents said.",
+     "zh": "咬一口，他爸爸妈妈说。",
+     "audio": "audio/all/6607_take_a_bite_his_parents_said.mp3",
+     "slow": "audio/all/6607_take_a_bite_his_parents_said.mp3",
+     "image": "img/raz-c-take_a_bite-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_take_a_bite-p7",
+     "type": "sentence",
+     "en": "Manny took one bite of salad.",
+     "zh": "曼尼咬了一口沙拉。",
+     "audio": "audio/all/6608_manny_took_one_bite_of_salad.mp3",
+     "slow": "audio/all/6608_manny_took_one_bite_of_salad.mp3",
+     "image": "img/raz-c-take_a_bite-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_take_a_bite-p8",
+     "type": "sentence",
+     "en": "The family had cake for dessert.",
+     "zh": "这家人甜点吃蛋糕。",
+     "audio": "audio/all/6609_the_family_had_cake_for_dessert.mp3",
+     "slow": "audio/all/6609_the_family_had_cake_for_dessert.mp3",
+     "image": "img/raz-c-take_a_bite-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_take_a_bite-p9",
+     "type": "sentence",
+     "en": "Manny got one bite.",
+     "zh": "曼尼分到了一口。",
+     "audio": "audio/all/6610_manny_got_one_bite.mp3",
+     "slow": "audio/all/6610_manny_got_one_bite.mp3",
+     "image": "img/raz-c-take_a_bite-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

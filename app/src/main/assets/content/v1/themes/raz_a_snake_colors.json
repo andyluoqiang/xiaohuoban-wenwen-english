@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_snake_colors",
+ "nameZh": "蛇的颜色",
+ "bookTitle": "Snake Colors",
+ "razLevel": "A",
+ "order": 59,
+ "cover": "img/raz-a-snake_colors-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_snake_colors-u1",
+   "band": 2,
+   "title": "Snake Colors · 蛇的颜色",
+   "cards": [
+    {
+     "id": "raz_a_snake_colors-p1",
+     "type": "sentence",
+     "en": "This snake is white.",
+     "zh": "这条蛇是白色的。",
+     "audio": "audio/all/5569_this_snake_is_white.mp3",
+     "slow": "audio/all/5569_this_snake_is_white.mp3",
+     "image": "img/raz-a-snake_colors-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_snake_colors-p2",
+     "type": "sentence",
+     "en": "This snake is yellow.",
+     "zh": "这条蛇是黄色的。",
+     "audio": "audio/all/5570_this_snake_is_yellow.mp3",
+     "slow": "audio/all/5570_this_snake_is_yellow.mp3",
+     "image": "img/raz-a-snake_colors-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_snake_colors-p3",
+     "type": "sentence",
+     "en": "This snake is orange.",
+     "zh": "这条蛇是橙色的。",
+     "audio": "audio/all/5571_this_snake_is_orange.mp3",
+     "slow": "audio/all/5571_this_snake_is_orange.mp3",
+     "image": "img/raz-a-snake_colors-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_snake_colors-p4",
+     "type": "sentence",
+     "en": "This snake is blue.",
+     "zh": "这条蛇是蓝色的。",
+     "audio": "audio/all/5572_this_snake_is_blue.mp3",
+     "slow": "audio/all/5572_this_snake_is_blue.mp3",
+     "image": "img/raz-a-snake_colors-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_snake_colors-p5",
+     "type": "sentence",
+     "en": "This snake is green.",
+     "zh": "这条蛇是绿色的。",
+     "audio": "audio/all/5573_this_snake_is_green.mp3",
+     "slow": "audio/all/5573_this_snake_is_green.mp3",
+     "image": "img/raz-a-snake_colors-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_snake_colors-p6",
+     "type": "sentence",
+     "en": "This snake is pink.",
+     "zh": "这条蛇是粉色的。",
+     "audio": "audio/all/5574_this_snake_is_pink.mp3",
+     "slow": "audio/all/5574_this_snake_is_pink.mp3",
+     "image": "img/raz-a-snake_colors-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_snake_colors-p7",
+     "type": "sentence",
+     "en": "This snake is red.",
+     "zh": "这条蛇是红色的。",
+     "audio": "audio/all/5575_this_snake_is_red.mp3",
+     "slow": "audio/all/5575_this_snake_is_red.mp3",
+     "image": "img/raz-a-snake_colors-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_snake_colors-p8",
+     "type": "sentence",
+     "en": "This snake is black.",
+     "zh": "这条蛇是黑色的。",
+     "audio": "audio/all/5576_this_snake_is_black.mp3",
+     "slow": "audio/all/5576_this_snake_is_black.mp3",
+     "image": "img/raz-a-snake_colors-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

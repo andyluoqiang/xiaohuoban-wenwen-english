@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_going_away",
+ "nameZh": "出行",
+ "bookTitle": "Going Away",
+ "razLevel": "C",
+ "order": 19,
+ "cover": "img/raz-c-going_away-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_going_away-u1",
+   "band": 2,
+   "title": "Going Away · 出行",
+   "cards": [
+    {
+     "id": "raz_c_going_away-p1",
+     "type": "sentence",
+     "en": "We can get in a car.",
+     "zh": "我们可以坐进汽车。",
+     "audio": "audio/all/6220_we_can_get_in_a_car.mp3",
+     "slow": "audio/all/6220_we_can_get_in_a_car.mp3",
+     "image": "img/raz-c-going_away-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_going_away-p2",
+     "type": "sentence",
+     "en": "We can drive away.",
+     "zh": "我们可以开车离开。",
+     "audio": "audio/all/6221_we_can_drive_away.mp3",
+     "slow": "audio/all/6221_we_can_drive_away.mp3",
+     "image": "img/raz-c-going_away-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_going_away-p3",
+     "type": "sentence",
+     "en": "We can get in a boat.",
+     "zh": "我们可以坐进小船。",
+     "audio": "audio/all/6222_we_can_get_in_a_boat.mp3",
+     "slow": "audio/all/6222_we_can_get_in_a_boat.mp3",
+     "image": "img/raz-c-going_away-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_going_away-p4",
+     "type": "sentence",
+     "en": "We can sail away.",
+     "zh": "我们可以航行离开。",
+     "audio": "audio/all/6223_we_can_sail_away.mp3",
+     "slow": "audio/all/6223_we_can_sail_away.mp3",
+     "image": "img/raz-c-going_away-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_going_away-p5",
+     "type": "sentence",
+     "en": "We can get on a plane.",
+     "zh": "我们可以登上飞机。",
+     "audio": "audio/all/6224_we_can_get_on_a_plane.mp3",
+     "slow": "audio/all/6224_we_can_get_on_a_plane.mp3",
+     "image": "img/raz-c-going_away-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_going_away-p6",
+     "type": "sentence",
+     "en": "We can fly away.",
+     "zh": "我们可以飞走。",
+     "audio": "audio/all/6225_we_can_fly_away.mp3",
+     "slow": "audio/all/6225_we_can_fly_away.mp3",
+     "image": "img/raz-c-going_away-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_going_away-p7",
+     "type": "sentence",
+     "en": "We can get on a bike.",
+     "zh": "我们可以骑上自行车。",
+     "audio": "audio/all/6226_we_can_get_on_a_bike.mp3",
+     "slow": "audio/all/6226_we_can_get_on_a_bike.mp3",
+     "image": "img/raz-c-going_away-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_going_away-p8",
+     "type": "sentence",
+     "en": "We can pedal away.",
+     "zh": "我们可以蹬着走。",
+     "audio": "audio/all/6227_we_can_pedal_away.mp3",
+     "slow": "audio/all/6227_we_can_pedal_away.mp3",
+     "image": "img/raz-c-going_away-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_going_away-p9",
+     "type": "sentence",
+     "en": "We can get in a balloon.",
+     "zh": "我们可以坐进热气球。",
+     "audio": "audio/all/6228_we_can_get_in_a_balloon.mp3",
+     "slow": "audio/all/6228_we_can_get_in_a_balloon.mp3",
+     "image": "img/raz-c-going_away-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_going_away-p10",
+     "type": "sentence",
+     "en": "We can float away.",
+     "zh": "我们可以飘走。",
+     "audio": "audio/all/6229_we_can_float_away.mp3",
+     "slow": "audio/all/6229_we_can_float_away.mp3",
+     "image": "img/raz-c-going_away-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_going_away-p11",
+     "type": "sentence",
+     "en": "We can get on a train.",
+     "zh": "我们可以登上火车。",
+     "audio": "audio/all/6230_we_can_get_on_a_train.mp3",
+     "slow": "audio/all/6230_we_can_get_on_a_train.mp3",
+     "image": "img/raz-c-going_away-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_going_away-p12",
+     "type": "sentence",
+     "en": "We can chug away.",
+     "zh": "我们可以轰隆隆地走。",
+     "audio": "audio/all/6231_we_can_chug_away.mp3",
+     "slow": "audio/all/6231_we_can_chug_away.mp3",
+     "image": "img/raz-c-going_away-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_going_away-p13",
+     "type": "sentence",
+     "en": "We can get in a rocket.",
+     "zh": "我们可以坐进火箭。",
+     "audio": "audio/all/6232_we_can_get_in_a_rocket.mp3",
+     "slow": "audio/all/6232_we_can_get_in_a_rocket.mp3",
+     "image": "img/raz-c-going_away-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_going_away-p14",
+     "type": "sentence",
+     "en": "We can zoom away.",
+     "zh": "我们可以嗖地飞走。",
+     "audio": "audio/all/6233_we_can_zoom_away.mp3",
+     "slow": "audio/all/6233_we_can_zoom_away.mp3",
+     "image": "img/raz-c-going_away-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_going_away-p15",
+     "type": "sentence",
+     "en": "We can put on our shoes.",
+     "zh": "我们可以穿上鞋子。",
+     "audio": "audio/all/6234_we_can_put_on_our_shoes.mp3",
+     "slow": "audio/all/6234_we_can_put_on_our_shoes.mp3",
+     "image": "img/raz-c-going_away-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_going_away-p16",
+     "type": "sentence",
+     "en": "We can run away.",
+     "zh": "我们可以跑着离开。",
+     "audio": "audio/all/6235_we_can_run_away.mp3",
+     "slow": "audio/all/6235_we_can_run_away.mp3",
+     "image": "img/raz-c-going_away-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

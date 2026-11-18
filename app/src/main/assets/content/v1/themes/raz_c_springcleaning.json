@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_springcleaning",
+ "nameZh": "春季大扫除",
+ "bookTitle": "Spring-Cleaning!",
+ "razLevel": "C",
+ "order": 52,
+ "cover": "img/raz-c-springcleaning-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_springcleaning-u1",
+   "band": 2,
+   "title": "Spring-Cleaning! · 春季大扫除",
+   "cards": [
+    {
+     "id": "raz_c_springcleaning-p1",
+     "type": "sentence",
+     "en": "It was spring.",
+     "zh": "春天到了。",
+     "audio": "audio/all/6583_it_was_spring.mp3",
+     "slow": "audio/all/6583_it_was_spring.mp3",
+     "image": "img/raz-c-springcleaning-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_springcleaning-p2",
+     "type": "sentence",
+     "en": "It was time to clean the house!",
+     "zh": "该打扫房子了！",
+     "audio": "audio/all/6584_it_was_time_to_clean_the_house.mp3",
+     "slow": "audio/all/6584_it_was_time_to_clean_the_house.mp3",
+     "image": "img/raz-c-springcleaning-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_springcleaning-p3",
+     "type": "sentence",
+     "en": "Mom cleaned the kitchen.",
+     "zh": "妈妈打扫厨房。",
+     "audio": "audio/all/6585_mom_cleaned_the_kitchen.mp3",
+     "slow": "audio/all/6585_mom_cleaned_the_kitchen.mp3",
+     "image": "img/raz-c-springcleaning-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_springcleaning-p4",
+     "type": "sentence",
+     "en": "Dad cleaned the living room.",
+     "zh": "爸爸打扫客厅。",
+     "audio": "audio/all/6586_dad_cleaned_the_living_room.mp3",
+     "slow": "audio/all/6586_dad_cleaned_the_living_room.mp3",
+     "image": "img/raz-c-springcleaning-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_springcleaning-p5",
+     "type": "sentence",
+     "en": "Sasha cleaned the bedrooms.",
+     "zh": "萨莎打扫卧室。",
+     "audio": "audio/all/6587_sasha_cleaned_the_bedrooms.mp3",
+     "slow": "audio/all/6587_sasha_cleaned_the_bedrooms.mp3",
+     "image": "img/raz-c-springcleaning-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_springcleaning-p6",
+     "type": "sentence",
+     "en": "Mom cleaned the bathroom.",
+     "zh": "妈妈打扫浴室。",
+     "audio": "audio/all/6588_mom_cleaned_the_bathroom.mp3",
+     "slow": "audio/all/6588_mom_cleaned_the_bathroom.mp3",
+     "image": "img/raz-c-springcleaning-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_springcleaning-p7",
+     "type": "sentence",
+     "en": "Dad cleaned the basement.",
+     "zh": "爸爸打扫地下室。",
+     "audio": "audio/all/6589_dad_cleaned_the_basement.mp3",
+     "slow": "audio/all/6589_dad_cleaned_the_basement.mp3",
+     "image": "img/raz-c-springcleaning-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_springcleaning-p8",
+     "type": "sentence",
+     "en": "Sasha cleaned the porch.",
+     "zh": "萨莎打扫门廊。",
+     "audio": "audio/all/6590_sasha_cleaned_the_porch.mp3",
+     "slow": "audio/all/6590_sasha_cleaned_the_porch.mp3",
+     "image": "img/raz-c-springcleaning-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_springcleaning-p9",
+     "type": "sentence",
+     "en": "Sasha left the front door open.",
+     "zh": "萨莎让前门开着。",
+     "audio": "audio/all/6591_sasha_left_the_front_door_open.mp3",
+     "slow": "audio/all/6591_sasha_left_the_front_door_open.mp3",
+     "image": "img/raz-c-springcleaning-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_springcleaning-p10",
+     "type": "sentence",
+     "en": "Now they have to clean everything again!",
+     "zh": "现在他们得把所有东西再打扫一遍！",
+     "audio": "audio/all/6592_now_they_have_to_clean_everything_agai.mp3",
+     "slow": "audio/all/6592_now_they_have_to_clean_everything_agai.mp3",
+     "image": "img/raz-c-springcleaning-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

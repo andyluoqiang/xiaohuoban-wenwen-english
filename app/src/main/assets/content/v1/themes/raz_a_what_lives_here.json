@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_what_lives_here",
+ "nameZh": "谁住在这里",
+ "bookTitle": "What Lives Here?",
+ "razLevel": "A",
+ "order": 80,
+ "cover": "img/raz-a-what_lives_here-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_what_lives_here-u1",
+   "band": 2,
+   "title": "What Lives Here? · 谁住在这里",
+   "cards": [
+    {
+     "id": "raz_a_what_lives_here-p1",
+     "type": "sentence",
+     "en": "Animals live here.",
+     "zh": "动物住在这里。",
+     "audio": "audio/all/5737_animals_live_here.mp3",
+     "slow": "audio/all/5737_animals_live_here.mp3",
+     "image": "img/raz-a-what_lives_here-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_what_lives_here-p2",
+     "type": "sentence",
+     "en": "A bear lives here.",
+     "zh": "一只熊住在这里。",
+     "audio": "audio/all/5738_a_bear_lives_here.mp3",
+     "slow": "audio/all/5738_a_bear_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_what_lives_here-p3",
+     "type": "sentence",
+     "en": "A deer lives here.",
+     "zh": "一头鹿住在这里。",
+     "audio": "audio/all/5739_a_deer_lives_here.mp3",
+     "slow": "audio/all/5739_a_deer_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_what_lives_here-p4",
+     "type": "sentence",
+     "en": "A fish lives here.",
+     "zh": "一条鱼住在这里。",
+     "audio": "audio/all/5740_a_fish_lives_here.mp3",
+     "slow": "audio/all/5740_a_fish_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_what_lives_here-p5",
+     "type": "sentence",
+     "en": "A frog lives here.",
+     "zh": "一只青蛙住在这里。",
+     "audio": "audio/all/5741_a_frog_lives_here.mp3",
+     "slow": "audio/all/5741_a_frog_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_what_lives_here-p6",
+     "type": "sentence",
+     "en": "A worm lives here.",
+     "zh": "一条虫住在这里。",
+     "audio": "audio/all/5742_a_worm_lives_here.mp3",
+     "slow": "audio/all/5742_a_worm_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_what_lives_here-p7",
+     "type": "sentence",
+     "en": "A bee lives here.",
+     "zh": "一只蜜蜂住在这里。",
+     "audio": "audio/all/5743_a_bee_lives_here.mp3",
+     "slow": "audio/all/5743_a_bee_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_what_lives_here-p8",
+     "type": "sentence",
+     "en": "A child lives here.",
+     "zh": "一个孩子住在这里。",
+     "audio": "audio/all/5744_a_child_lives_here.mp3",
+     "slow": "audio/all/5744_a_child_lives_here.mp3",
+     "image": "img/raz-a-what_lives_here-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

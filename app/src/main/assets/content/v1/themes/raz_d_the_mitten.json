@@ -1,0 +1,197 @@
+{
+ "theme": "raz_d_the_mitten",
+ "nameZh": "小手套",
+ "bookTitle": "The Mitten",
+ "razLevel": "D",
+ "order": 65,
+ "cover": "img/raz-d-the_mitten-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_the_mitten-u1",
+   "band": 2,
+   "title": "The Mitten · 小手套",
+   "cards": [
+    {
+     "id": "raz_d_the_mitten-p1",
+     "type": "sentence",
+     "en": "The bear was cold.",
+     "zh": "熊觉得冷。",
+     "audio": "audio/all/7995_the_bear_was_cold.mp3",
+     "slow": "audio/all/7995_the_bear_was_cold.mp3",
+     "image": "img/raz-d-the_mitten-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_mitten-p2",
+     "type": "sentence",
+     "en": "The bear got into the warm mitten.",
+     "zh": "熊钻进了暖和的手套里。",
+     "audio": "audio/all/7996_the_bear_got_into_the_warm_mitten.mp3",
+     "slow": "audio/all/7996_the_bear_got_into_the_warm_mitten.mp3",
+     "image": "img/raz-d-the_mitten-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_mitten-p3",
+     "type": "sentence",
+     "en": "The fox was cold, too.",
+     "zh": "狐狸也觉得冷。",
+     "audio": "audio/all/7997_the_fox_was_cold_too.mp3",
+     "slow": "audio/all/7997_the_fox_was_cold_too.mp3",
+     "image": "img/raz-d-the_mitten-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_mitten-p4",
+     "type": "sentence",
+     "en": "He got into the mitten with the bear.",
+     "zh": "他和熊一起钻进了手套。",
+     "audio": "audio/all/7998_he_got_into_the_mitten_with_the_bear.mp3",
+     "slow": "audio/all/7998_he_got_into_the_mitten_with_the_bear.mp3",
+     "image": "img/raz-d-the_mitten-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_mitten-p5",
+     "type": "sentence",
+     "en": "Squish, squash, squeeze.",
+     "zh": "挤一挤，压一压，塞一塞。",
+     "audio": "audio/all/7999_squish_squash_squeeze.mp3",
+     "slow": "audio/all/7999_squish_squash_squeeze.mp3",
+     "image": "img/raz-d-the_mitten-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_mitten-p6",
+     "type": "sentence",
+     "en": "Ah.",
+     "zh": "啊，真舒服。",
+     "audio": "audio/all/8000_ah.mp3",
+     "slow": "audio/all/8000_ah.mp3",
+     "image": "img/raz-d-the_mitten-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_mitten-p7",
+     "type": "sentence",
+     "en": "The rabbit was cold.",
+     "zh": "兔子觉得冷。",
+     "audio": "audio/all/8001_the_rabbit_was_cold.mp3",
+     "slow": "audio/all/8001_the_rabbit_was_cold.mp3",
+     "image": "img/raz-d-the_mitten-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_mitten-p8",
+     "type": "sentence",
+     "en": "She got into the warm mitten, too.",
+     "zh": "她也钻进了暖和的手套。",
+     "audio": "audio/all/8002_she_got_into_the_warm_mitten_too.mp3",
+     "slow": "audio/all/8002_she_got_into_the_warm_mitten_too.mp3",
+     "image": "img/raz-d-the_mitten-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_mitten-p9",
+     "type": "sentence",
+     "en": "Squish, squash, squeeze.",
+     "zh": "挤一挤，压一压，塞一塞。",
+     "audio": "audio/all/8003_squish_squash_squeeze.mp3",
+     "slow": "audio/all/8003_squish_squash_squeeze.mp3",
+     "image": "img/raz-d-the_mitten-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_mitten-p10",
+     "type": "sentence",
+     "en": "Ah.",
+     "zh": "啊，真舒服。",
+     "audio": "audio/all/8004_ah.mp3",
+     "slow": "audio/all/8004_ah.mp3",
+     "image": "img/raz-d-the_mitten-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_mitten-p11",
+     "type": "sentence",
+     "en": "The blue jay was cold, too.",
+     "zh": "蓝松鸦也觉得冷。",
+     "audio": "audio/all/8005_the_blue_jay_was_cold_too.mp3",
+     "slow": "audio/all/8005_the_blue_jay_was_cold_too.mp3",
+     "image": "img/raz-d-the_mitten-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_mitten-p12",
+     "type": "sentence",
+     "en": "He got into the mitten after rabbit.",
+     "zh": "他跟着兔子钻进了手套。",
+     "audio": "audio/all/8006_he_got_into_the_mitten_after_rabbit.mp3",
+     "slow": "audio/all/8006_he_got_into_the_mitten_after_rabbit.mp3",
+     "image": "img/raz-d-the_mitten-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_mitten-p13",
+     "type": "sentence",
+     "en": "Squish, squash, squeeze.",
+     "zh": "挤一挤，压一压，塞一塞。",
+     "audio": "audio/all/8007_squish_squash_squeeze.mp3",
+     "slow": "audio/all/8007_squish_squash_squeeze.mp3",
+     "image": "img/raz-d-the_mitten-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_mitten-p14",
+     "type": "sentence",
+     "en": "Ah.",
+     "zh": "啊，真舒服。",
+     "audio": "audio/all/8008_ah.mp3",
+     "slow": "audio/all/8008_ah.mp3",
+     "image": "img/raz-d-the_mitten-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_mitten-p15",
+     "type": "sentence",
+     "en": "The ant was cold.",
+     "zh": "蚂蚁觉得冷。",
+     "audio": "audio/all/8009_the_ant_was_cold.mp3",
+     "slow": "audio/all/8009_the_ant_was_cold.mp3",
+     "image": "img/raz-d-the_mitten-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_the_mitten-p16",
+     "type": "sentence",
+     "en": "The ant got into the mitten.",
+     "zh": "蚂蚁钻进了手套。",
+     "audio": "audio/all/8010_the_ant_got_into_the_mitten.mp3",
+     "slow": "audio/all/8010_the_ant_got_into_the_mitten.mp3",
+     "image": "img/raz-d-the_mitten-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_the_mitten-p17",
+     "type": "sentence",
+     "en": "Squish, squash, squeeze.",
+     "zh": "挤一挤，压一压，塞一塞。",
+     "audio": "audio/all/8011_squish_squash_squeeze.mp3",
+     "slow": "audio/all/8011_squish_squash_squeeze.mp3",
+     "image": "img/raz-d-the_mitten-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_the_mitten-p18",
+     "type": "sentence",
+     "en": "KABOOM!",
+     "zh": "砰！！！",
+     "audio": "audio/all/8012_kaboom.mp3",
+     "slow": "audio/all/8012_kaboom.mp3",
+     "image": "img/raz-d-the_mitten-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

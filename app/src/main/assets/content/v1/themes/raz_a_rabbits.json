@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_rabbits",
+ "nameZh": "兔子",
+ "bookTitle": "Rabbits",
+ "razLevel": "A",
+ "order": 54,
+ "cover": "img/raz-a-rabbits-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_rabbits-u1",
+   "band": 2,
+   "title": "Rabbits · 兔子",
+   "cards": [
+    {
+     "id": "raz_a_rabbits-p1",
+     "type": "sentence",
+     "en": "This rabbit is big.",
+     "zh": "这只兔子很大。",
+     "audio": "audio/all/5529_this_rabbit_is_big.mp3",
+     "slow": "audio/all/5529_this_rabbit_is_big.mp3",
+     "image": "img/raz-a-rabbits-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_rabbits-p2",
+     "type": "sentence",
+     "en": "This rabbit is small.",
+     "zh": "这只兔子很小。",
+     "audio": "audio/all/5530_this_rabbit_is_small.mp3",
+     "slow": "audio/all/5530_this_rabbit_is_small.mp3",
+     "image": "img/raz-a-rabbits-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_rabbits-p3",
+     "type": "sentence",
+     "en": "This rabbit is black.",
+     "zh": "这只兔子是黑色的。",
+     "audio": "audio/all/5531_this_rabbit_is_black.mp3",
+     "slow": "audio/all/5531_this_rabbit_is_black.mp3",
+     "image": "img/raz-a-rabbits-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_rabbits-p4",
+     "type": "sentence",
+     "en": "This rabbit is white.",
+     "zh": "这只兔子是白色的。",
+     "audio": "audio/all/5532_this_rabbit_is_white.mp3",
+     "slow": "audio/all/5532_this_rabbit_is_white.mp3",
+     "image": "img/raz-a-rabbits-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_rabbits-p5",
+     "type": "sentence",
+     "en": "This rabbit is fluffy.",
+     "zh": "这只兔子毛茸茸。",
+     "audio": "audio/all/5533_this_rabbit_is_fluffy.mp3",
+     "slow": "audio/all/5533_this_rabbit_is_fluffy.mp3",
+     "image": "img/raz-a-rabbits-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_rabbits-p6",
+     "type": "sentence",
+     "en": "This rabbit is tall.",
+     "zh": "这只兔子很高。",
+     "audio": "audio/all/5534_this_rabbit_is_tall.mp3",
+     "slow": "audio/all/5534_this_rabbit_is_tall.mp3",
+     "image": "img/raz-a-rabbits-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_rabbits-p7",
+     "type": "sentence",
+     "en": "This rabbit is short.",
+     "zh": "这只兔子很矮。",
+     "audio": "audio/all/5535_this_rabbit_is_short.mp3",
+     "slow": "audio/all/5535_this_rabbit_is_short.mp3",
+     "image": "img/raz-a-rabbits-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_rabbits-p8",
+     "type": "sentence",
+     "en": "This rabbit is fast.",
+     "zh": "这只兔子很快。",
+     "audio": "audio/all/5536_this_rabbit_is_fast.mp3",
+     "slow": "audio/all/5536_this_rabbit_is_fast.mp3",
+     "image": "img/raz-a-rabbits-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

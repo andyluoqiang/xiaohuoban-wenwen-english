@@ -1,0 +1,227 @@
+{
+ "theme": "raz_d_just_a_trim",
+ "nameZh": "只修一修",
+ "bookTitle": "Just a Trim",
+ "razLevel": "D",
+ "order": 36,
+ "cover": "img/raz-d-just_a_trim-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_just_a_trim-u1",
+   "band": 2,
+   "title": "Just a Trim · 只修一修",
+   "cards": [
+    {
+     "id": "raz_d_just_a_trim-p1",
+     "type": "sentence",
+     "en": "My hair is too long.",
+     "zh": "我的头发太长了。",
+     "audio": "audio/all/7575_my_hair_is_too_long.mp3",
+     "slow": "audio/all/7575_my_hair_is_too_long.mp3",
+     "image": "img/raz-d-just_a_trim-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_just_a_trim-p2",
+     "type": "sentence",
+     "en": "I am scared to get a haircut.",
+     "zh": "我害怕剪头发。",
+     "audio": "audio/all/7576_i_am_scared_to_get_a_haircut.mp3",
+     "slow": "audio/all/7576_i_am_scared_to_get_a_haircut.mp3",
+     "image": "img/raz-d-just_a_trim-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_just_a_trim-p3",
+     "type": "sentence",
+     "en": "I just want a trim, I say.",
+     "zh": "我只想修一修，我说。",
+     "audio": "audio/all/7577_i_just_want_a_trim_i_say.mp3",
+     "slow": "audio/all/7577_i_just_want_a_trim_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_just_a_trim-p4",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7578_snip_snip.mp3",
+     "slow": "audio/all/7578_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_just_a_trim-p5",
+     "type": "sentence",
+     "en": "Some hair comes off.",
+     "zh": "一些头发剪下来了。",
+     "audio": "audio/all/7579_some_hair_comes_off.mp3",
+     "slow": "audio/all/7579_some_hair_comes_off.mp3",
+     "image": "img/raz-d-just_a_trim-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_just_a_trim-p6",
+     "type": "sentence",
+     "en": "Shorter please, I say.",
+     "zh": "再短一点，我说。",
+     "audio": "audio/all/7580_shorter_please_i_say.mp3",
+     "slow": "audio/all/7580_shorter_please_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_just_a_trim-p7",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7581_snip_snip.mp3",
+     "slow": "audio/all/7581_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_just_a_trim-p8",
+     "type": "sentence",
+     "en": "Some hair comes off.",
+     "zh": "一些头发剪下来了。",
+     "audio": "audio/all/7582_some_hair_comes_off.mp3",
+     "slow": "audio/all/7582_some_hair_comes_off.mp3",
+     "image": "img/raz-d-just_a_trim-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_just_a_trim-p9",
+     "type": "sentence",
+     "en": "A little shorter, I say.",
+     "zh": "再短一点点，我说。",
+     "audio": "audio/all/7583_a_little_shorter_i_say.mp3",
+     "slow": "audio/all/7583_a_little_shorter_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_just_a_trim-p10",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7584_snip_snip.mp3",
+     "slow": "audio/all/7584_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_just_a_trim-p11",
+     "type": "sentence",
+     "en": "Some hair comes off.",
+     "zh": "一些头发剪下来了。",
+     "audio": "audio/all/7585_some_hair_comes_off.mp3",
+     "slow": "audio/all/7585_some_hair_comes_off.mp3",
+     "image": "img/raz-d-just_a_trim-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_just_a_trim-p12",
+     "type": "sentence",
+     "en": "Even shorter, I say.",
+     "zh": "还要再短，我说。",
+     "audio": "audio/all/7586_even_shorter_i_say.mp3",
+     "slow": "audio/all/7586_even_shorter_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_just_a_trim-p13",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7587_snip_snip.mp3",
+     "slow": "audio/all/7587_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_just_a_trim-p14",
+     "type": "sentence",
+     "en": "Some hair comes off.",
+     "zh": "一些头发剪下来了。",
+     "audio": "audio/all/7588_some_hair_comes_off.mp3",
+     "slow": "audio/all/7588_some_hair_comes_off.mp3",
+     "image": "img/raz-d-just_a_trim-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_just_a_trim-p15",
+     "type": "sentence",
+     "en": "Shorter than that, I say.",
+     "zh": "比那再短些，我说。",
+     "audio": "audio/all/7589_shorter_than_that_i_say.mp3",
+     "slow": "audio/all/7589_shorter_than_that_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_just_a_trim-p16",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7590_snip_snip.mp3",
+     "slow": "audio/all/7590_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_just_a_trim-p17",
+     "type": "sentence",
+     "en": "Some hair comes off.",
+     "zh": "一些头发剪下来了。",
+     "audio": "audio/all/7591_some_hair_comes_off.mp3",
+     "slow": "audio/all/7591_some_hair_comes_off.mp3",
+     "image": "img/raz-d-just_a_trim-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_just_a_trim-p18",
+     "type": "sentence",
+     "en": "A bit shorter, I say.",
+     "zh": "再短一点，我说。",
+     "audio": "audio/all/7592_a_bit_shorter_i_say.mp3",
+     "slow": "audio/all/7592_a_bit_shorter_i_say.mp3",
+     "image": "img/raz-d-just_a_trim-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_just_a_trim-p19",
+     "type": "sentence",
+     "en": "Snip, snip.",
+     "zh": "咔嚓，咔嚓。",
+     "audio": "audio/all/7593_snip_snip.mp3",
+     "slow": "audio/all/7593_snip_snip.mp3",
+     "image": "img/raz-d-just_a_trim-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_just_a_trim-p20",
+     "type": "sentence",
+     "en": "All done.",
+     "zh": "剪好啦。",
+     "audio": "audio/all/7594_all_done.mp3",
+     "slow": "audio/all/7594_all_done.mp3",
+     "image": "img/raz-d-just_a_trim-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_just_a_trim-p21",
+     "type": "sentence",
+     "en": "My short hair is fun!",
+     "zh": "我的短发真好玩！",
+     "audio": "audio/all/7595_my_short_hair_is_fun.mp3",
+     "slow": "audio/all/7595_my_short_hair_is_fun.mp3",
+     "image": "img/raz-d-just_a_trim-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

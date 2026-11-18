@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "The pet rats eat.",
      "zh": "宠物鼠吃东西。",
-     "audio": "audio/all/3497_the_pet_rats_eat.mp3",
-     "slow": "audio/all/3497_the_pet_rats_eat.mp3",
+     "audio": "audio/all/8897_the_pet_rats_eat.mp3",
+     "slow": "audio/all/8897_the_pet_rats_eat.mp3",
      "image": "img/raz-b-the_pet_rats-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "The pet rats drink.",
      "zh": "宠物鼠喝水。",
-     "audio": "audio/all/3498_the_pet_rats_drink.mp3",
-     "slow": "audio/all/3498_the_pet_rats_drink.mp3",
+     "audio": "audio/all/8898_the_pet_rats_drink.mp3",
+     "slow": "audio/all/8898_the_pet_rats_drink.mp3",
      "image": "img/raz-b-the_pet_rats-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "The pet rats chew.",
      "zh": "宠物鼠啃东西。",
-     "audio": "audio/all/3499_the_pet_rats_chew.mp3",
-     "slow": "audio/all/3499_the_pet_rats_chew.mp3",
+     "audio": "audio/all/8899_the_pet_rats_chew.mp3",
+     "slow": "audio/all/8899_the_pet_rats_chew.mp3",
      "image": "img/raz-b-the_pet_rats-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "The pet rats climb.",
      "zh": "宠物鼠爬上爬下。",
-     "audio": "audio/all/3500_the_pet_rats_climb.mp3",
-     "slow": "audio/all/3500_the_pet_rats_climb.mp3",
+     "audio": "audio/all/8900_the_pet_rats_climb.mp3",
+     "slow": "audio/all/8900_the_pet_rats_climb.mp3",
      "image": "img/raz-b-the_pet_rats-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "The pet rats hide.",
      "zh": "宠物鼠躲猫猫。",
-     "audio": "audio/all/3501_the_pet_rats_hide.mp3",
-     "slow": "audio/all/3501_the_pet_rats_hide.mp3",
+     "audio": "audio/all/8901_the_pet_rats_hide.mp3",
+     "slow": "audio/all/8901_the_pet_rats_hide.mp3",
      "image": "img/raz-b-the_pet_rats-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "The pet rats run.",
      "zh": "宠物鼠跑步。",
-     "audio": "audio/all/3502_the_pet_rats_run.mp3",
-     "slow": "audio/all/3502_the_pet_rats_run.mp3",
+     "audio": "audio/all/8902_the_pet_rats_run.mp3",
+     "slow": "audio/all/8902_the_pet_rats_run.mp3",
      "image": "img/raz-b-the_pet_rats-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "The pet rats sleep.",
      "zh": "宠物鼠睡觉。",
-     "audio": "audio/all/3503_the_pet_rats_sleep.mp3",
-     "slow": "audio/all/3503_the_pet_rats_sleep.mp3",
+     "audio": "audio/all/8903_the_pet_rats_sleep.mp3",
+     "slow": "audio/all/8903_the_pet_rats_sleep.mp3",
      "image": "img/raz-b-the_pet_rats-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "Rats are fun class pets.",
      "zh": "宠物鼠是班里好玩的小宠物。",
-     "audio": "audio/all/3504_rats_are_fun_class_pets.mp3",
-     "slow": "audio/all/3504_rats_are_fun_class_pets.mp3",
+     "audio": "audio/all/8904_rats_are_fun_class_pets.mp3",
+     "slow": "audio/all/8904_rats_are_fun_class_pets.mp3",
      "image": "img/raz-b-the_pet_rats-p08.jpg",
      "page": 8
     }

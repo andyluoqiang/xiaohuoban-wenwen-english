@@ -1,0 +1,157 @@
+{
+ "theme": "raz_c_jack_and_lilys_favorite_food",
+ "nameZh": "杰克和莉莉最爱的食物",
+ "bookTitle": "Jack and Lily's Favorite Food",
+ "razLevel": "C",
+ "order": 27,
+ "cover": "img/raz-c-jack_and_lilys_favorite_food-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_jack_and_lilys_favorite_food-u1",
+   "band": 2,
+   "title": "Jack and Lily's Favorite Food · 杰克和莉莉最爱的食物",
+   "cards": [
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p1",
+     "type": "sentence",
+     "en": "In some ways, Jack and Lily are different.",
+     "zh": "在某些方面，杰克和莉莉不同。",
+     "audio": "audio/all/6321_in_some_ways_jack_and_lily_are_differe.mp3",
+     "slow": "audio/all/6321_in_some_ways_jack_and_lily_are_differe.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p2",
+     "type": "sentence",
+     "en": "Jack likes chicken.",
+     "zh": "杰克喜欢鸡肉。",
+     "audio": "audio/all/6322_jack_likes_chicken.mp3",
+     "slow": "audio/all/6322_jack_likes_chicken.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p3",
+     "type": "sentence",
+     "en": "Lily doesn't.",
+     "zh": "莉莉不喜欢。",
+     "audio": "audio/all/6323_lily_doesn_t.mp3",
+     "slow": "audio/all/6323_lily_doesn_t.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p4",
+     "type": "sentence",
+     "en": "Jack likes beef.",
+     "zh": "杰克喜欢牛肉。",
+     "audio": "audio/all/6324_jack_likes_beef.mp3",
+     "slow": "audio/all/6324_jack_likes_beef.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p5",
+     "type": "sentence",
+     "en": "Lily doesn't.",
+     "zh": "莉莉不喜欢。",
+     "audio": "audio/all/6325_lily_doesn_t.mp3",
+     "slow": "audio/all/6325_lily_doesn_t.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p6",
+     "type": "sentence",
+     "en": "Jack likes tuna.",
+     "zh": "杰克喜欢金枪鱼。",
+     "audio": "audio/all/6326_jack_likes_tuna.mp3",
+     "slow": "audio/all/6326_jack_likes_tuna.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p7",
+     "type": "sentence",
+     "en": "Lily doesn't.",
+     "zh": "莉莉不喜欢。",
+     "audio": "audio/all/6327_lily_doesn_t.mp3",
+     "slow": "audio/all/6327_lily_doesn_t.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p8",
+     "type": "sentence",
+     "en": "Jack likes pork.",
+     "zh": "杰克喜欢猪肉。",
+     "audio": "audio/all/6328_jack_likes_pork.mp3",
+     "slow": "audio/all/6328_jack_likes_pork.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p9",
+     "type": "sentence",
+     "en": "Lily doesn't.",
+     "zh": "莉莉不喜欢。",
+     "audio": "audio/all/6329_lily_doesn_t.mp3",
+     "slow": "audio/all/6329_lily_doesn_t.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p10",
+     "type": "sentence",
+     "en": "Jack likes turkey.",
+     "zh": "杰克喜欢火鸡肉。",
+     "audio": "audio/all/6330_jack_likes_turkey.mp3",
+     "slow": "audio/all/6330_jack_likes_turkey.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p11",
+     "type": "sentence",
+     "en": "Lily doesn't.",
+     "zh": "莉莉不喜欢。",
+     "audio": "audio/all/6331_lily_doesn_t.mp3",
+     "slow": "audio/all/6331_lily_doesn_t.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p12",
+     "type": "sentence",
+     "en": "Jack loves salmon.",
+     "zh": "杰克最爱三文鱼。",
+     "audio": "audio/all/6332_jack_loves_salmon.mp3",
+     "slow": "audio/all/6332_jack_loves_salmon.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p13",
+     "type": "sentence",
+     "en": "Lily does, too!",
+     "zh": "莉莉也爱！",
+     "audio": "audio/all/6333_lily_does_too.mp3",
+     "slow": "audio/all/6333_lily_does_too.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_jack_and_lilys_favorite_food-p14",
+     "type": "sentence",
+     "en": "In this way, Jack and Lily are the same.",
+     "zh": "在这一点上，杰克和莉莉一样。",
+     "audio": "audio/all/6334_in_this_way_jack_and_lily_are_the_same.mp3",
+     "slow": "audio/all/6334_in_this_way_jack_and_lily_are_the_same.mp3",
+     "image": "img/raz-c-jack_and_lilys_favorite_food-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

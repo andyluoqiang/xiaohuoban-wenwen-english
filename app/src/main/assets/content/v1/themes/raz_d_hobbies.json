@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_hobbies",
+ "nameZh": "爱好",
+ "bookTitle": "Hobbies",
+ "razLevel": "D",
+ "order": 29,
+ "cover": "img/raz-d-hobbies-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_hobbies-u1",
+   "band": 2,
+   "title": "Hobbies · 爱好",
+   "cards": [
+    {
+     "id": "raz_d_hobbies-p1",
+     "type": "sentence",
+     "en": "Different people have different hobbies.",
+     "zh": "不同的人有不同的爱好。",
+     "audio": "audio/all/7473_different_people_have_different_hobbie.mp3",
+     "slow": "audio/all/7473_different_people_have_different_hobbie.mp3",
+     "image": "img/raz-d-hobbies-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_hobbies-p2",
+     "type": "sentence",
+     "en": "Hobbies help people relax and have fun.",
+     "zh": "爱好帮助人们放松和享受。",
+     "audio": "audio/all/7474_hobbies_help_people_relax_and_have_fun.mp3",
+     "slow": "audio/all/7474_hobbies_help_people_relax_and_have_fun.mp3",
+     "image": "img/raz-d-hobbies-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_hobbies-p3",
+     "type": "sentence",
+     "en": "Some people enjoy dancing.",
+     "zh": "有些人喜欢跳舞。",
+     "audio": "audio/all/7475_some_people_enjoy_dancing.mp3",
+     "slow": "audio/all/7475_some_people_enjoy_dancing.mp3",
+     "image": "img/raz-d-hobbies-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_hobbies-p4",
+     "type": "sentence",
+     "en": "They like to move their bodies.",
+     "zh": "他们喜欢活动身体。",
+     "audio": "audio/all/7476_they_like_to_move_their_bodies.mp3",
+     "slow": "audio/all/7476_they_like_to_move_their_bodies.mp3",
+     "image": "img/raz-d-hobbies-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_hobbies-p5",
+     "type": "sentence",
+     "en": "Some people enjoy collecting.",
+     "zh": "有些人喜欢收藏。",
+     "audio": "audio/all/7477_some_people_enjoy_collecting.mp3",
+     "slow": "audio/all/7477_some_people_enjoy_collecting.mp3",
+     "image": "img/raz-d-hobbies-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_hobbies-p6",
+     "type": "sentence",
+     "en": "They like to collect different things.",
+     "zh": "他们喜欢收集各种东西。",
+     "audio": "audio/all/7478_they_like_to_collect_different_things.mp3",
+     "slow": "audio/all/7478_they_like_to_collect_different_things.mp3",
+     "image": "img/raz-d-hobbies-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_hobbies-p7",
+     "type": "sentence",
+     "en": "Some people enjoy gardening.",
+     "zh": "有些人喜欢园艺。",
+     "audio": "audio/all/7479_some_people_enjoy_gardening.mp3",
+     "slow": "audio/all/7479_some_people_enjoy_gardening.mp3",
+     "image": "img/raz-d-hobbies-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_hobbies-p8",
+     "type": "sentence",
+     "en": "They like to grow plants.",
+     "zh": "他们喜欢种植物。",
+     "audio": "audio/all/7480_they_like_to_grow_plants.mp3",
+     "slow": "audio/all/7480_they_like_to_grow_plants.mp3",
+     "image": "img/raz-d-hobbies-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_hobbies-p9",
+     "type": "sentence",
+     "en": "Some people enjoy writing.",
+     "zh": "有些人喜欢写作。",
+     "audio": "audio/all/7481_some_people_enjoy_writing.mp3",
+     "slow": "audio/all/7481_some_people_enjoy_writing.mp3",
+     "image": "img/raz-d-hobbies-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_hobbies-p10",
+     "type": "sentence",
+     "en": "They like to tell stories.",
+     "zh": "他们喜欢讲故事。",
+     "audio": "audio/all/7482_they_like_to_tell_stories.mp3",
+     "slow": "audio/all/7482_they_like_to_tell_stories.mp3",
+     "image": "img/raz-d-hobbies-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_hobbies-p11",
+     "type": "sentence",
+     "en": "Some people enjoy singing.",
+     "zh": "有些人喜欢唱歌。",
+     "audio": "audio/all/7483_some_people_enjoy_singing.mp3",
+     "slow": "audio/all/7483_some_people_enjoy_singing.mp3",
+     "image": "img/raz-d-hobbies-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_hobbies-p12",
+     "type": "sentence",
+     "en": "They like to make music.",
+     "zh": "他们喜欢制造音乐。",
+     "audio": "audio/all/7484_they_like_to_make_music.mp3",
+     "slow": "audio/all/7484_they_like_to_make_music.mp3",
+     "image": "img/raz-d-hobbies-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_hobbies-p13",
+     "type": "sentence",
+     "en": "Some people enjoy painting.",
+     "zh": "有些人喜欢画画。",
+     "audio": "audio/all/7485_some_people_enjoy_painting.mp3",
+     "slow": "audio/all/7485_some_people_enjoy_painting.mp3",
+     "image": "img/raz-d-hobbies-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_hobbies-p14",
+     "type": "sentence",
+     "en": "They like to create art.",
+     "zh": "他们喜欢创作艺术。",
+     "audio": "audio/all/7486_they_like_to_create_art.mp3",
+     "slow": "audio/all/7486_they_like_to_create_art.mp3",
+     "image": "img/raz-d-hobbies-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_hobbies-p15",
+     "type": "sentence",
+     "en": "Some people enjoy other hobbies.",
+     "zh": "有些人有其他爱好。",
+     "audio": "audio/all/7487_some_people_enjoy_other_hobbies.mp3",
+     "slow": "audio/all/7487_some_people_enjoy_other_hobbies.mp3",
+     "image": "img/raz-d-hobbies-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_hobbies-p16",
+     "type": "sentence",
+     "en": "What are your hobbies?",
+     "zh": "你的爱好是什么呢？",
+     "audio": "audio/all/7488_what_are_your_hobbies.mp3",
+     "slow": "audio/all/7488_what_are_your_hobbies.mp3",
+     "image": "img/raz-d-hobbies-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

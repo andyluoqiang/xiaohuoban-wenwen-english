@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_bats_day_and_night",
+ "nameZh": "蝙蝠的昼与夜",
+ "bookTitle": "Bats Day and Night",
+ "razLevel": "D",
+ "order": 10,
+ "cover": "img/raz-d-bats_day_and_night-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_bats_day_and_night-u1",
+   "band": 2,
+   "title": "Bats Day and Night · 蝙蝠的昼与夜",
+   "cards": [
+    {
+     "id": "raz_d_bats_day_and_night-p1",
+     "type": "sentence",
+     "en": "The Sun comes up.",
+     "zh": "太阳升起来了。",
+     "audio": "audio/all/7192_the_sun_comes_up.mp3",
+     "slow": "audio/all/7192_the_sun_comes_up.mp3",
+     "image": "img/raz-d-bats_day_and_night-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p2",
+     "type": "sentence",
+     "en": "The bats are returning to the cave.",
+     "zh": "蝙蝠们正回洞穴。",
+     "audio": "audio/all/7193_the_bats_are_returning_to_the_cave.mp3",
+     "slow": "audio/all/7193_the_bats_are_returning_to_the_cave.mp3",
+     "image": "img/raz-d-bats_day_and_night-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p3",
+     "type": "sentence",
+     "en": "It is morning.",
+     "zh": "是早晨。",
+     "audio": "audio/all/7194_it_is_morning.mp3",
+     "slow": "audio/all/7194_it_is_morning.mp3",
+     "image": "img/raz-d-bats_day_and_night-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p4",
+     "type": "sentence",
+     "en": "The bats are hanging upside down.",
+     "zh": "蝙蝠们倒挂着。",
+     "audio": "audio/all/7195_the_bats_are_hanging_upside_down.mp3",
+     "slow": "audio/all/7195_the_bats_are_hanging_upside_down.mp3",
+     "image": "img/raz-d-bats_day_and_night-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p5",
+     "type": "sentence",
+     "en": "It is morning.",
+     "zh": "是早晨。",
+     "audio": "audio/all/7196_it_is_morning.mp3",
+     "slow": "audio/all/7196_it_is_morning.mp3",
+     "image": "img/raz-d-bats_day_and_night-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p6",
+     "type": "sentence",
+     "en": "The bats are sleeping.",
+     "zh": "蝙蝠们在睡觉。",
+     "audio": "audio/all/7197_the_bats_are_sleeping.mp3",
+     "slow": "audio/all/7197_the_bats_are_sleeping.mp3",
+     "image": "img/raz-d-bats_day_and_night-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p7",
+     "type": "sentence",
+     "en": "It is afternoon.",
+     "zh": "是下午。",
+     "audio": "audio/all/7198_it_is_afternoon.mp3",
+     "slow": "audio/all/7198_it_is_afternoon.mp3",
+     "image": "img/raz-d-bats_day_and_night-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p8",
+     "type": "sentence",
+     "en": "The bats are waking up.",
+     "zh": "蝙蝠们醒了。",
+     "audio": "audio/all/7199_the_bats_are_waking_up.mp3",
+     "slow": "audio/all/7199_the_bats_are_waking_up.mp3",
+     "image": "img/raz-d-bats_day_and_night-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p9",
+     "type": "sentence",
+     "en": "It is afternoon.",
+     "zh": "是下午。",
+     "audio": "audio/all/7200_it_is_afternoon.mp3",
+     "slow": "audio/all/7200_it_is_afternoon.mp3",
+     "image": "img/raz-d-bats_day_and_night-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p10",
+     "type": "sentence",
+     "en": "The bats are moving around.",
+     "zh": "蝙蝠们在活动。",
+     "audio": "audio/all/7201_the_bats_are_moving_around.mp3",
+     "slow": "audio/all/7201_the_bats_are_moving_around.mp3",
+     "image": "img/raz-d-bats_day_and_night-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p11",
+     "type": "sentence",
+     "en": "It is evening.",
+     "zh": "是傍晚。",
+     "audio": "audio/all/7202_it_is_evening.mp3",
+     "slow": "audio/all/7202_it_is_evening.mp3",
+     "image": "img/raz-d-bats_day_and_night-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p12",
+     "type": "sentence",
+     "en": "The bats are leaving the cave.",
+     "zh": "蝙蝠们正离开洞穴。",
+     "audio": "audio/all/7203_the_bats_are_leaving_the_cave.mp3",
+     "slow": "audio/all/7203_the_bats_are_leaving_the_cave.mp3",
+     "image": "img/raz-d-bats_day_and_night-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p13",
+     "type": "sentence",
+     "en": "It is night.",
+     "zh": "是夜里。",
+     "audio": "audio/all/7204_it_is_night.mp3",
+     "slow": "audio/all/7204_it_is_night.mp3",
+     "image": "img/raz-d-bats_day_and_night-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p14",
+     "type": "sentence",
+     "en": "The bats are hunting for bugs.",
+     "zh": "蝙蝠们在捕虫。",
+     "audio": "audio/all/7205_the_bats_are_hunting_for_bugs.mp3",
+     "slow": "audio/all/7205_the_bats_are_hunting_for_bugs.mp3",
+     "image": "img/raz-d-bats_day_and_night-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p15",
+     "type": "sentence",
+     "en": "The Sun comes up.",
+     "zh": "太阳升起来了。",
+     "audio": "audio/all/7206_the_sun_comes_up.mp3",
+     "slow": "audio/all/7206_the_sun_comes_up.mp3",
+     "image": "img/raz-d-bats_day_and_night-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_bats_day_and_night-p16",
+     "type": "sentence",
+     "en": "The bats are returning to the cave.",
+     "zh": "蝙蝠们正回洞穴。",
+     "audio": "audio/all/7207_the_bats_are_returning_to_the_cave.mp3",
+     "slow": "audio/all/7207_the_bats_are_returning_to_the_cave.mp3",
+     "image": "img/raz-d-bats_day_and_night-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

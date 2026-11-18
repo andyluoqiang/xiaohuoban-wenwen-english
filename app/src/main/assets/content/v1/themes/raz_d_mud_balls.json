@@ -1,0 +1,167 @@
+{
+ "theme": "raz_d_mud_balls",
+ "nameZh": "泥球",
+ "bookTitle": "Mud Balls!",
+ "razLevel": "D",
+ "order": 43,
+ "cover": "img/raz-d-mud_balls-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_mud_balls-u1",
+   "band": 2,
+   "title": "Mud Balls! · 泥球",
+   "cards": [
+    {
+     "id": "raz_d_mud_balls-p1",
+     "type": "sentence",
+     "en": "We dig a small hole.",
+     "zh": "我们挖一个小坑。",
+     "audio": "audio/all/7679_we_dig_a_small_hole.mp3",
+     "slow": "audio/all/7679_we_dig_a_small_hole.mp3",
+     "image": "img/raz-d-mud_balls-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_mud_balls-p2",
+     "type": "sentence",
+     "en": "We scoop out the dirt.",
+     "zh": "我们把土铲出来。",
+     "audio": "audio/all/7680_we_scoop_out_the_dirt.mp3",
+     "slow": "audio/all/7680_we_scoop_out_the_dirt.mp3",
+     "image": "img/raz-d-mud_balls-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_mud_balls-p3",
+     "type": "sentence",
+     "en": "We put water in the hole.",
+     "zh": "我们把水倒进坑里。",
+     "audio": "audio/all/7681_we_put_water_in_the_hole.mp3",
+     "slow": "audio/all/7681_we_put_water_in_the_hole.mp3",
+     "image": "img/raz-d-mud_balls-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_mud_balls-p4",
+     "type": "sentence",
+     "en": "We mix the dirt and water.",
+     "zh": "我们把土和水搅拌。",
+     "audio": "audio/all/7682_we_mix_the_dirt_and_water.mp3",
+     "slow": "audio/all/7682_we_mix_the_dirt_and_water.mp3",
+     "image": "img/raz-d-mud_balls-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_mud_balls-p5",
+     "type": "sentence",
+     "en": "We scoop up the mud.",
+     "zh": "我们铲起泥巴。",
+     "audio": "audio/all/7683_we_scoop_up_the_mud.mp3",
+     "slow": "audio/all/7683_we_scoop_up_the_mud.mp3",
+     "image": "img/raz-d-mud_balls-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_mud_balls-p6",
+     "type": "sentence",
+     "en": "We pat the mud flat.",
+     "zh": "我们把泥巴拍平。",
+     "audio": "audio/all/7684_we_pat_the_mud_flat.mp3",
+     "slow": "audio/all/7684_we_pat_the_mud_flat.mp3",
+     "image": "img/raz-d-mud_balls-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_mud_balls-p7",
+     "type": "sentence",
+     "en": "We shape the mud into a ball.",
+     "zh": "我们把泥巴团成球。",
+     "audio": "audio/all/7685_we_shape_the_mud_into_a_ball.mp3",
+     "slow": "audio/all/7685_we_shape_the_mud_into_a_ball.mp3",
+     "image": "img/raz-d-mud_balls-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_mud_balls-p8",
+     "type": "sentence",
+     "en": "We make it round and smooth.",
+     "zh": "我们把它弄得又圆又滑。",
+     "audio": "audio/all/7686_we_make_it_round_and_smooth.mp3",
+     "slow": "audio/all/7686_we_make_it_round_and_smooth.mp3",
+     "image": "img/raz-d-mud_balls-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_mud_balls-p9",
+     "type": "sentence",
+     "en": "We find some sand.",
+     "zh": "我们找来一些沙子。",
+     "audio": "audio/all/7687_we_find_some_sand.mp3",
+     "slow": "audio/all/7687_we_find_some_sand.mp3",
+     "image": "img/raz-d-mud_balls-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_mud_balls-p10",
+     "type": "sentence",
+     "en": "We roll the ball in the sand.",
+     "zh": "我们把球在沙子里滚。",
+     "audio": "audio/all/7688_we_roll_the_ball_in_the_sand.mp3",
+     "slow": "audio/all/7688_we_roll_the_ball_in_the_sand.mp3",
+     "image": "img/raz-d-mud_balls-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_mud_balls-p11",
+     "type": "sentence",
+     "en": "We find a sunny spot.",
+     "zh": "我们找个向阳的地方。",
+     "audio": "audio/all/7689_we_find_a_sunny_spot.mp3",
+     "slow": "audio/all/7689_we_find_a_sunny_spot.mp3",
+     "image": "img/raz-d-mud_balls-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_mud_balls-p12",
+     "type": "sentence",
+     "en": "We leave the mud balls in the sun.",
+     "zh": "我们把泥球放在太阳下。",
+     "audio": "audio/all/7690_we_leave_the_mud_balls_in_the_sun.mp3",
+     "slow": "audio/all/7690_we_leave_the_mud_balls_in_the_sun.mp3",
+     "image": "img/raz-d-mud_balls-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_mud_balls-p13",
+     "type": "sentence",
+     "en": "We come back later.",
+     "zh": "我们过一阵子回来。",
+     "audio": "audio/all/7691_we_come_back_later.mp3",
+     "slow": "audio/all/7691_we_come_back_later.mp3",
+     "image": "img/raz-d-mud_balls-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_mud_balls-p14",
+     "type": "sentence",
+     "en": "Now the mud is dry and hard.",
+     "zh": "现在泥巴又干又硬。",
+     "audio": "audio/all/7692_now_the_mud_is_dry_and_hard.mp3",
+     "slow": "audio/all/7692_now_the_mud_is_dry_and_hard.mp3",
+     "image": "img/raz-d-mud_balls-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_mud_balls-p15",
+     "type": "sentence",
+     "en": "We made mud balls!",
+     "zh": "我们做成泥球啦！",
+     "audio": "audio/all/7693_we_made_mud_balls.mp3",
+     "slow": "audio/all/7693_we_made_mud_balls.mp3",
+     "image": "img/raz-d-mud_balls-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "theme": "raz_c_fall",
+ "nameZh": "秋天",
+ "bookTitle": "Fall",
+ "razLevel": "C",
+ "order": 14,
+ "cover": "img/raz-c-fall-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_fall-u1",
+   "band": 2,
+   "title": "Fall · 秋天",
+   "cards": [
+    {
+     "id": "raz_c_fall-p1",
+     "type": "sentence",
+     "en": "In fall, things turn orange.",
+     "zh": "在秋天，东西变成橙色。",
+     "audio": "audio/all/6144_in_fall_things_turn_orange.mp3",
+     "slow": "audio/all/6144_in_fall_things_turn_orange.mp3",
+     "image": "img/raz-c-fall-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall-p2",
+     "type": "sentence",
+     "en": "In fall, pumpkins turn orange.",
+     "zh": "秋天，南瓜变成橙色。",
+     "audio": "audio/all/6145_in_fall_pumpkins_turn_orange.mp3",
+     "slow": "audio/all/6145_in_fall_pumpkins_turn_orange.mp3",
+     "image": "img/raz-c-fall-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall-p3",
+     "type": "sentence",
+     "en": "In fall, the moon turns orange.",
+     "zh": "秋天，月亮变成橙色。",
+     "audio": "audio/all/6146_in_fall_the_moon_turns_orange.mp3",
+     "slow": "audio/all/6146_in_fall_the_moon_turns_orange.mp3",
+     "image": "img/raz-c-fall-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_fall-p4",
+     "type": "sentence",
+     "en": "In fall, things turn red.",
+     "zh": "在秋天，东西变成红色。",
+     "audio": "audio/all/6147_in_fall_things_turn_red.mp3",
+     "slow": "audio/all/6147_in_fall_things_turn_red.mp3",
+     "image": "img/raz-c-fall-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_fall-p5",
+     "type": "sentence",
+     "en": "In fall, apples turn red.",
+     "zh": "秋天，苹果变成红色。",
+     "audio": "audio/all/6148_in_fall_apples_turn_red.mp3",
+     "slow": "audio/all/6148_in_fall_apples_turn_red.mp3",
+     "image": "img/raz-c-fall-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_fall-p6",
+     "type": "sentence",
+     "en": "In fall, leaves turn red.",
+     "zh": "秋天，叶子变成红色。",
+     "audio": "audio/all/6149_in_fall_leaves_turn_red.mp3",
+     "slow": "audio/all/6149_in_fall_leaves_turn_red.mp3",
+     "image": "img/raz-c-fall-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_fall-p7",
+     "type": "sentence",
+     "en": "In fall, things turn brown.",
+     "zh": "在秋天，东西变成棕色。",
+     "audio": "audio/all/6150_in_fall_things_turn_brown.mp3",
+     "slow": "audio/all/6150_in_fall_things_turn_brown.mp3",
+     "image": "img/raz-c-fall-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_fall-p8",
+     "type": "sentence",
+     "en": "In fall, grass turns brown.",
+     "zh": "秋天，草变成棕色。",
+     "audio": "audio/all/6151_in_fall_grass_turns_brown.mp3",
+     "slow": "audio/all/6151_in_fall_grass_turns_brown.mp3",
+     "image": "img/raz-c-fall-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_fall-p9",
+     "type": "sentence",
+     "en": "In fall, things turn yellow.",
+     "zh": "在秋天，东西变成黄色。",
+     "audio": "audio/all/6152_in_fall_things_turn_yellow.mp3",
+     "slow": "audio/all/6152_in_fall_things_turn_yellow.mp3",
+     "image": "img/raz-c-fall-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_fall-p10",
+     "type": "sentence",
+     "en": "In fall, corn turns yellow.",
+     "zh": "秋天，玉米变成黄色。",
+     "audio": "audio/all/6153_in_fall_corn_turns_yellow.mp3",
+     "slow": "audio/all/6153_in_fall_corn_turns_yellow.mp3",
+     "image": "img/raz-c-fall-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_fall-p11",
+     "type": "sentence",
+     "en": "In fall, things turn white.",
+     "zh": "在秋天，东西变成白色。",
+     "audio": "audio/all/6154_in_fall_things_turn_white.mp3",
+     "slow": "audio/all/6154_in_fall_things_turn_white.mp3",
+     "image": "img/raz-c-fall-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_fall-p12",
+     "type": "sentence",
+     "en": "In fall, frost turns things white.",
+     "zh": "秋天，霜把东西变成白色。",
+     "audio": "audio/all/6155_in_fall_frost_turns_things_white.mp3",
+     "slow": "audio/all/6155_in_fall_frost_turns_things_white.mp3",
+     "image": "img/raz-c-fall-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_fall-p13",
+     "type": "sentence",
+     "en": "In fall, things turn many colors!",
+     "zh": "秋天，东西变成好多颜色！",
+     "audio": "audio/all/6156_in_fall_things_turn_many_colors.mp3",
+     "slow": "audio/all/6156_in_fall_things_turn_many_colors.mp3",
+     "image": "img/raz-c-fall-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

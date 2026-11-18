@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_can",
+ "nameZh": "我能行",
+ "bookTitle": "I Can",
+ "razLevel": "A",
+ "order": 27,
+ "cover": "img/raz-a-i_can-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_can-u1",
+   "band": 2,
+   "title": "I Can · 我能行",
+   "cards": [
+    {
+     "id": "raz_a_i_can-p1",
+     "type": "sentence",
+     "en": "I can run.",
+     "zh": "我能跑。",
+     "audio": "audio/all/5311_i_can_run.mp3",
+     "slow": "audio/all/5311_i_can_run.mp3",
+     "image": "img/raz-a-i_can-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_can-p2",
+     "type": "sentence",
+     "en": "I can jump.",
+     "zh": "我能跳。",
+     "audio": "audio/all/5312_i_can_jump.mp3",
+     "slow": "audio/all/5312_i_can_jump.mp3",
+     "image": "img/raz-a-i_can-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_can-p3",
+     "type": "sentence",
+     "en": "I can swing.",
+     "zh": "我能荡秋千。",
+     "audio": "audio/all/5313_i_can_swing.mp3",
+     "slow": "audio/all/5313_i_can_swing.mp3",
+     "image": "img/raz-a-i_can-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_can-p4",
+     "type": "sentence",
+     "en": "I can hop.",
+     "zh": "我能单脚跳。",
+     "audio": "audio/all/5314_i_can_hop.mp3",
+     "slow": "audio/all/5314_i_can_hop.mp3",
+     "image": "img/raz-a-i_can-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_can-p5",
+     "type": "sentence",
+     "en": "I can ride.",
+     "zh": "我能骑。",
+     "audio": "audio/all/5315_i_can_ride.mp3",
+     "slow": "audio/all/5315_i_can_ride.mp3",
+     "image": "img/raz-a-i_can-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_can-p6",
+     "type": "sentence",
+     "en": "I can climb.",
+     "zh": "我能爬。",
+     "audio": "audio/all/5316_i_can_climb.mp3",
+     "slow": "audio/all/5316_i_can_climb.mp3",
+     "image": "img/raz-a-i_can-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_can-p7",
+     "type": "sentence",
+     "en": "I can crawl.",
+     "zh": "我能爬行。",
+     "audio": "audio/all/5317_i_can_crawl.mp3",
+     "slow": "audio/all/5317_i_can_crawl.mp3",
+     "image": "img/raz-a-i_can-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_can-p8",
+     "type": "sentence",
+     "en": "I can play.",
+     "zh": "我能玩。",
+     "audio": "audio/all/5318_i_can_play.mp3",
+     "slow": "audio/all/5318_i_can_play.mp3",
+     "image": "img/raz-a-i_can-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

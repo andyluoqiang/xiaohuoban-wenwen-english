@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_river_otters",
+ "nameZh": "河獭",
+ "bookTitle": "River Otters",
+ "razLevel": "D",
+ "order": 55,
+ "cover": "img/raz-d-river_otters-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_river_otters-u1",
+   "band": 2,
+   "title": "River Otters · 河獭",
+   "cards": [
+    {
+     "id": "raz_d_river_otters-p1",
+     "type": "sentence",
+     "en": "River otters are amazing animals.",
+     "zh": "河獭是了不起的动物。",
+     "audio": "audio/all/7846_river_otters_are_amazing_animals.mp3",
+     "slow": "audio/all/7846_river_otters_are_amazing_animals.mp3",
+     "image": "img/raz-d-river_otters-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_river_otters-p2",
+     "type": "sentence",
+     "en": "All river otters live near water.",
+     "zh": "所有河獭都住在水边。",
+     "audio": "audio/all/7847_all_river_otters_live_near_water.mp3",
+     "slow": "audio/all/7847_all_river_otters_live_near_water.mp3",
+     "image": "img/raz-d-river_otters-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_river_otters-p3",
+     "type": "sentence",
+     "en": "All river otters have thin bodies.",
+     "zh": "所有河獭都有细长的身体。",
+     "audio": "audio/all/7848_all_river_otters_have_thin_bodies.mp3",
+     "slow": "audio/all/7848_all_river_otters_have_thin_bodies.mp3",
+     "image": "img/raz-d-river_otters-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_river_otters-p4",
+     "type": "sentence",
+     "en": "All river otters have short legs.",
+     "zh": "所有河獭都有短短的腿。",
+     "audio": "audio/all/7849_all_river_otters_have_short_legs.mp3",
+     "slow": "audio/all/7849_all_river_otters_have_short_legs.mp3",
+     "image": "img/raz-d-river_otters-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_river_otters-p5",
+     "type": "sentence",
+     "en": "All river otters have thick fur.",
+     "zh": "所有河獭都有厚厚的毛。",
+     "audio": "audio/all/7850_all_river_otters_have_thick_fur.mp3",
+     "slow": "audio/all/7850_all_river_otters_have_thick_fur.mp3",
+     "image": "img/raz-d-river_otters-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_river_otters-p6",
+     "type": "sentence",
+     "en": "All river otters are good at swimming.",
+     "zh": "所有河獭都擅长游泳。",
+     "audio": "audio/all/7851_all_river_otters_are_good_at_swimming.mp3",
+     "slow": "audio/all/7851_all_river_otters_are_good_at_swimming.mp3",
+     "image": "img/raz-d-river_otters-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_river_otters-p7",
+     "type": "sentence",
+     "en": "All river otters are good at holding their breath.",
+     "zh": "所有河獭都擅长憋气。",
+     "audio": "audio/all/7852_all_river_otters_are_good_at_holding_t.mp3",
+     "slow": "audio/all/7852_all_river_otters_are_good_at_holding_t.mp3",
+     "image": "img/raz-d-river_otters-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_river_otters-p8",
+     "type": "sentence",
+     "en": "All river otters are good at catching food.",
+     "zh": "所有河獭都擅长抓食物。",
+     "audio": "audio/all/7853_all_river_otters_are_good_at_catching_.mp3",
+     "slow": "audio/all/7853_all_river_otters_are_good_at_catching_.mp3",
+     "image": "img/raz-d-river_otters-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_river_otters-p9",
+     "type": "sentence",
+     "en": "All river otters are good at playing together.",
+     "zh": "所有河獭都擅长一起玩耍。",
+     "audio": "audio/all/7854_all_river_otters_are_good_at_playing_t.mp3",
+     "slow": "audio/all/7854_all_river_otters_are_good_at_playing_t.mp3",
+     "image": "img/raz-d-river_otters-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_river_otters-p10",
+     "type": "sentence",
+     "en": "All river otters are good at being river otters.",
+     "zh": "所有河獭都最擅长做河獭自己。",
+     "audio": "audio/all/7855_all_river_otters_are_good_at_being_riv.mp3",
+     "slow": "audio/all/7855_all_river_otters_are_good_at_being_riv.mp3",
+     "image": "img/raz-d-river_otters-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

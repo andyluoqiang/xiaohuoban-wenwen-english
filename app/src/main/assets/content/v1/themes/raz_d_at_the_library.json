@@ -1,0 +1,97 @@
+{
+ "theme": "raz_d_at_the_library",
+ "nameZh": "在图书馆",
+ "bookTitle": "At the Library",
+ "razLevel": "D",
+ "order": 8,
+ "cover": "img/raz-d-at_the_library-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_at_the_library-u1",
+   "band": 2,
+   "title": "At the Library · 在图书馆",
+   "cards": [
+    {
+     "id": "raz_d_at_the_library-p1",
+     "type": "sentence",
+     "en": "Kids can do a lot at the library.",
+     "zh": "孩子们在图书馆可以做很多事。",
+     "audio": "audio/all/7173_kids_can_do_a_lot_at_the_library.mp3",
+     "slow": "audio/all/7173_kids_can_do_a_lot_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_at_the_library-p2",
+     "type": "sentence",
+     "en": "Kids can read books at the library.",
+     "zh": "孩子们可以在图书馆看书。",
+     "audio": "audio/all/7174_kids_can_read_books_at_the_library.mp3",
+     "slow": "audio/all/7174_kids_can_read_books_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_at_the_library-p3",
+     "type": "sentence",
+     "en": "Kids can make art at the library.",
+     "zh": "孩子们可以在图书馆做手工。",
+     "audio": "audio/all/7175_kids_can_make_art_at_the_library.mp3",
+     "slow": "audio/all/7175_kids_can_make_art_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_at_the_library-p4",
+     "type": "sentence",
+     "en": "Kids can listen to stories at the library.",
+     "zh": "孩子们可以在图书馆听故事。",
+     "audio": "audio/all/7176_kids_can_listen_to_stories_at_the_libr.mp3",
+     "slow": "audio/all/7176_kids_can_listen_to_stories_at_the_libr.mp3",
+     "image": "img/raz-d-at_the_library-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_at_the_library-p5",
+     "type": "sentence",
+     "en": "Kids can play games at the library.",
+     "zh": "孩子们可以在图书馆玩游戏。",
+     "audio": "audio/all/7177_kids_can_play_games_at_the_library.mp3",
+     "slow": "audio/all/7177_kids_can_play_games_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_at_the_library-p6",
+     "type": "sentence",
+     "en": "Kids can write stories at the library.",
+     "zh": "孩子们可以在图书馆写故事。",
+     "audio": "audio/all/7178_kids_can_write_stories_at_the_library.mp3",
+     "slow": "audio/all/7178_kids_can_write_stories_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_at_the_library-p7",
+     "type": "sentence",
+     "en": "Kids can make friends at the library.",
+     "zh": "孩子们可以在图书馆交朋友。",
+     "audio": "audio/all/7179_kids_can_make_friends_at_the_library.mp3",
+     "slow": "audio/all/7179_kids_can_make_friends_at_the_library.mp3",
+     "image": "img/raz-d-at_the_library-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_at_the_library-p8",
+     "type": "sentence",
+     "en": "The library is a fun place to visit.",
+     "zh": "图书馆是个好玩的地方。",
+     "audio": "audio/all/7180_the_library_is_a_fun_place_to_visit.mp3",
+     "slow": "audio/all/7180_the_library_is_a_fun_place_to_visit.mp3",
+     "image": "img/raz-d-at_the_library-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

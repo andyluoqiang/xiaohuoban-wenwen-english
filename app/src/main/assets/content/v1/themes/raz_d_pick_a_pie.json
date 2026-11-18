@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_pick_a_pie",
+ "nameZh": "挑个派",
+ "bookTitle": "Pick a Pie",
+ "razLevel": "D",
+ "order": 51,
+ "cover": "img/raz-d-pick_a_pie-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_pick_a_pie-u1",
+   "band": 2,
+   "title": "Pick a Pie · 挑个派",
+   "cards": [
+    {
+     "id": "raz_d_pick_a_pie-p1",
+     "type": "sentence",
+     "en": "Six cups of fruit will make a pie.",
+     "zh": "做一个派需要六杯水果。",
+     "audio": "audio/all/7791_six_cups_of_fruit_will_make_a_pie.mp3",
+     "slow": "audio/all/7791_six_cups_of_fruit_will_make_a_pie.mp3",
+     "image": "img/raz-d-pick_a_pie-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_pick_a_pie-p2",
+     "type": "sentence",
+     "en": "We picked eight cups of strawberries.",
+     "zh": "我们摘了八杯草莓。",
+     "audio": "audio/all/7792_we_picked_eight_cups_of_strawberries.mp3",
+     "slow": "audio/all/7792_we_picked_eight_cups_of_strawberries.mp3",
+     "image": "img/raz-d-pick_a_pie-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_pick_a_pie-p3",
+     "type": "sentence",
+     "en": "Three cups made it home.",
+     "zh": "有三杯完好到家。",
+     "audio": "audio/all/7793_three_cups_made_it_home.mp3",
+     "slow": "audio/all/7793_three_cups_made_it_home.mp3",
+     "image": "img/raz-d-pick_a_pie-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_pick_a_pie-p4",
+     "type": "sentence",
+     "en": "Do we have enough?",
+     "zh": "我们的够吗？",
+     "audio": "audio/all/7794_do_we_have_enough.mp3",
+     "slow": "audio/all/7794_do_we_have_enough.mp3",
+     "image": "img/raz-d-pick_a_pie-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_pick_a_pie-p5",
+     "type": "sentence",
+     "en": "We picked eight cups of blackberries.",
+     "zh": "我们摘了八杯黑莓。",
+     "audio": "audio/all/7795_we_picked_eight_cups_of_blackberries.mp3",
+     "slow": "audio/all/7795_we_picked_eight_cups_of_blackberries.mp3",
+     "image": "img/raz-d-pick_a_pie-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_pick_a_pie-p6",
+     "type": "sentence",
+     "en": "Four cups made it home.",
+     "zh": "有四杯完好到家。",
+     "audio": "audio/all/7796_four_cups_made_it_home.mp3",
+     "slow": "audio/all/7796_four_cups_made_it_home.mp3",
+     "image": "img/raz-d-pick_a_pie-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_pick_a_pie-p7",
+     "type": "sentence",
+     "en": "Do we have enough?",
+     "zh": "我们的够吗？",
+     "audio": "audio/all/7797_do_we_have_enough.mp3",
+     "slow": "audio/all/7797_do_we_have_enough.mp3",
+     "image": "img/raz-d-pick_a_pie-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_pick_a_pie-p8",
+     "type": "sentence",
+     "en": "We picked eight cups of blueberries.",
+     "zh": "我们摘了八杯蓝莓。",
+     "audio": "audio/all/7798_we_picked_eight_cups_of_blueberries.mp3",
+     "slow": "audio/all/7798_we_picked_eight_cups_of_blueberries.mp3",
+     "image": "img/raz-d-pick_a_pie-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_pick_a_pie-p9",
+     "type": "sentence",
+     "en": "Five cups made it home.",
+     "zh": "有五杯完好到家。",
+     "audio": "audio/all/7799_five_cups_made_it_home.mp3",
+     "slow": "audio/all/7799_five_cups_made_it_home.mp3",
+     "image": "img/raz-d-pick_a_pie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_pick_a_pie-p10",
+     "type": "sentence",
+     "en": "Do we have enough?",
+     "zh": "我们的够吗？",
+     "audio": "audio/all/7800_do_we_have_enough.mp3",
+     "slow": "audio/all/7800_do_we_have_enough.mp3",
+     "image": "img/raz-d-pick_a_pie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_pick_a_pie-p11",
+     "type": "sentence",
+     "en": "We picked one pumpkin.",
+     "zh": "我们摘了一个南瓜。",
+     "audio": "audio/all/7801_we_picked_one_pumpkin.mp3",
+     "slow": "audio/all/7801_we_picked_one_pumpkin.mp3",
+     "image": "img/raz-d-pick_a_pie-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_pick_a_pie-p12",
+     "type": "sentence",
+     "en": "How many cups made it home?",
+     "zh": "多少杯完好到家了呢？",
+     "audio": "audio/all/7802_how_many_cups_made_it_home.mp3",
+     "slow": "audio/all/7802_how_many_cups_made_it_home.mp3",
+     "image": "img/raz-d-pick_a_pie-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_pick_a_pie-p13",
+     "type": "sentence",
+     "en": "Plenty for a pie!",
+     "zh": "做一个派绰绰有余！",
+     "audio": "audio/all/7803_plenty_for_a_pie.mp3",
+     "slow": "audio/all/7803_plenty_for_a_pie.mp3",
+     "image": "img/raz-d-pick_a_pie-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_pick_a_pie-p14",
+     "type": "sentence",
+     "en": "Now, who likes pumpkin pie?",
+     "zh": "那么，谁喜欢南瓜派呢？",
+     "audio": "audio/all/7804_now_who_likes_pumpkin_pie.mp3",
+     "slow": "audio/all/7804_now_who_likes_pumpkin_pie.mp3",
+     "image": "img/raz-d-pick_a_pie-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

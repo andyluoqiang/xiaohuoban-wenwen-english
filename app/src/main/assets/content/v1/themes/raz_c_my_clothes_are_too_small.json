@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_my_clothes_are_too_small",
+ "nameZh": "我的衣服太小了",
+ "bookTitle": "My Clothes Are Too Small",
+ "razLevel": "C",
+ "order": 37,
+ "cover": "img/raz-c-my_clothes_are_too_small-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_my_clothes_are_too_small-u1",
+   "band": 2,
+   "title": "My Clothes Are Too Small · 我的衣服太小了",
+   "cards": [
+    {
+     "id": "raz_c_my_clothes_are_too_small-p1",
+     "type": "sentence",
+     "en": "I must have grown over the summer.",
+     "zh": "我一个夏天准是长个子了。",
+     "audio": "audio/all/6421_i_must_have_grown_over_the_summer.mp3",
+     "slow": "audio/all/6421_i_must_have_grown_over_the_summer.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p2",
+     "type": "sentence",
+     "en": "My old shirt is too small.",
+     "zh": "我的旧衬衫太小了。",
+     "audio": "audio/all/6422_my_old_shirt_is_too_small.mp3",
+     "slow": "audio/all/6422_my_old_shirt_is_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p3",
+     "type": "sentence",
+     "en": "My old sweatshirt is too small.",
+     "zh": "我的旧运动衫太小了。",
+     "audio": "audio/all/6423_my_old_sweatshirt_is_too_small.mp3",
+     "slow": "audio/all/6423_my_old_sweatshirt_is_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p4",
+     "type": "sentence",
+     "en": "My old pants are too small.",
+     "zh": "我的旧裤子太小了。",
+     "audio": "audio/all/6424_my_old_pants_are_too_small.mp3",
+     "slow": "audio/all/6424_my_old_pants_are_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p5",
+     "type": "sentence",
+     "en": "My old hat is too small.",
+     "zh": "我的旧帽子太小了。",
+     "audio": "audio/all/6425_my_old_hat_is_too_small.mp3",
+     "slow": "audio/all/6425_my_old_hat_is_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p6",
+     "type": "sentence",
+     "en": "My old socks are too small.",
+     "zh": "我的旧袜子太小了。",
+     "audio": "audio/all/6426_my_old_socks_are_too_small.mp3",
+     "slow": "audio/all/6426_my_old_socks_are_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p7",
+     "type": "sentence",
+     "en": "My old shoes are too small.",
+     "zh": "我的旧鞋子太小了。",
+     "audio": "audio/all/6427_my_old_shoes_are_too_small.mp3",
+     "slow": "audio/all/6427_my_old_shoes_are_too_small.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_my_clothes_are_too_small-p8",
+     "type": "sentence",
+     "en": "It is good I have a little brother!",
+     "zh": "幸好我有个小弟弟！",
+     "audio": "audio/all/6428_it_is_good_i_have_a_little_brother.mp3",
+     "slow": "audio/all/6428_it_is_good_i_have_a_little_brother.mp3",
+     "image": "img/raz-c-my_clothes_are_too_small-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

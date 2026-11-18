@@ -1,0 +1,147 @@
+{
+ "theme": "raz_d_stone_soup",
+ "nameZh": "石头汤",
+ "bookTitle": "Stone Soup",
+ "razLevel": "D",
+ "order": 60,
+ "cover": "img/raz-d-stone_soup-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_stone_soup-u1",
+   "band": 2,
+   "title": "Stone Soup · 石头汤",
+   "cards": [
+    {
+     "id": "raz_d_stone_soup-p1",
+     "type": "sentence",
+     "en": "Fox was poor and hungry.",
+     "zh": "狐狸又穷又饿。",
+     "audio": "audio/all/7925_fox_was_poor_and_hungry.mp3",
+     "slow": "audio/all/7925_fox_was_poor_and_hungry.mp3",
+     "image": "img/raz-d-stone_soup-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_stone_soup-p2",
+     "type": "sentence",
+     "en": "No one would feed him.",
+     "zh": "没有人愿意给他吃的。",
+     "audio": "audio/all/7926_no_one_would_feed_him.mp3",
+     "slow": "audio/all/7926_no_one_would_feed_him.mp3",
+     "image": "img/raz-d-stone_soup-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_stone_soup-p3",
+     "type": "sentence",
+     "en": "He had an idea.",
+     "zh": "他想出一个主意。",
+     "audio": "audio/all/7927_he_had_an_idea.mp3",
+     "slow": "audio/all/7927_he_had_an_idea.mp3",
+     "image": "img/raz-d-stone_soup-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_stone_soup-p4",
+     "type": "sentence",
+     "en": "I will make stone soup for everyone.",
+     "zh": "“我要给大家做石头汤。”",
+     "audio": "audio/all/7928_i_will_make_stone_soup_for_everyone.mp3",
+     "slow": "audio/all/7928_i_will_make_stone_soup_for_everyone.mp3",
+     "image": "img/raz-d-stone_soup-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_stone_soup-p5",
+     "type": "sentence",
+     "en": "First, I need a big pot and some water, he said.",
+     "zh": "“首先，我需要一口大锅和一些水。”他说。",
+     "audio": "audio/all/7929_first_i_need_a_big_pot_and_some_water_.mp3",
+     "slow": "audio/all/7929_first_i_need_a_big_pot_and_some_water_.mp3",
+     "image": "img/raz-d-stone_soup-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_stone_soup-p6",
+     "type": "sentence",
+     "en": "Bear brought a big pot.",
+     "zh": "熊带来一口大锅。",
+     "audio": "audio/all/7930_bear_brought_a_big_pot.mp3",
+     "slow": "audio/all/7930_bear_brought_a_big_pot.mp3",
+     "image": "img/raz-d-stone_soup-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_stone_soup-p7",
+     "type": "sentence",
+     "en": "Elephant brought some water.",
+     "zh": "大象带来一些水。",
+     "audio": "audio/all/7931_elephant_brought_some_water.mp3",
+     "slow": "audio/all/7931_elephant_brought_some_water.mp3",
+     "image": "img/raz-d-stone_soup-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_stone_soup-p8",
+     "type": "sentence",
+     "en": "Rabbit brought some carrots.",
+     "zh": "兔子带来一些胡萝卜。",
+     "audio": "audio/all/7932_rabbit_brought_some_carrots.mp3",
+     "slow": "audio/all/7932_rabbit_brought_some_carrots.mp3",
+     "image": "img/raz-d-stone_soup-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_stone_soup-p9",
+     "type": "sentence",
+     "en": "Mouse brought some beans.",
+     "zh": "老鼠带来一些豆子。",
+     "audio": "audio/all/7933_mouse_brought_some_beans.mp3",
+     "slow": "audio/all/7933_mouse_brought_some_beans.mp3",
+     "image": "img/raz-d-stone_soup-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_stone_soup-p10",
+     "type": "sentence",
+     "en": "Other animals brought onions.",
+     "zh": "其他动物带来了洋葱。",
+     "audio": "audio/all/7934_other_animals_brought_onions.mp3",
+     "slow": "audio/all/7934_other_animals_brought_onions.mp3",
+     "image": "img/raz-d-stone_soup-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_stone_soup-p11",
+     "type": "sentence",
+     "en": "They brought peas and potatoes.",
+     "zh": "他们还带来了豌豆和土豆。",
+     "audio": "audio/all/7935_they_brought_peas_and_potatoes.mp3",
+     "slow": "audio/all/7935_they_brought_peas_and_potatoes.mp3",
+     "image": "img/raz-d-stone_soup-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_stone_soup-p12",
+     "type": "sentence",
+     "en": "The stone soup had become a feast!",
+     "zh": "石头汤变成了一场盛宴！",
+     "audio": "audio/all/7936_the_stone_soup_had_become_a_feast.mp3",
+     "slow": "audio/all/7936_the_stone_soup_had_become_a_feast.mp3",
+     "image": "img/raz-d-stone_soup-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_stone_soup-p13",
+     "type": "sentence",
+     "en": "Everyone ate until they were full.",
+     "zh": "大家都吃得饱饱的。",
+     "audio": "audio/all/7937_everyone_ate_until_they_were_full.mp3",
+     "slow": "audio/all/7937_everyone_ate_until_they_were_full.mp3",
+     "image": "img/raz-d-stone_soup-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

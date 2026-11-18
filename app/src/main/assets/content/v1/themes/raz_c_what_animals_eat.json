@@ -1,0 +1,207 @@
+{
+ "theme": "raz_c_what_animals_eat",
+ "nameZh": "动物吃什么",
+ "bookTitle": "What Animals Eat",
+ "razLevel": "C",
+ "order": 73,
+ "cover": "img/raz-c-what_animals_eat-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_animals_eat-u1",
+   "band": 2,
+   "title": "What Animals Eat · 动物吃什么",
+   "cards": [
+    {
+     "id": "raz_c_what_animals_eat-p1",
+     "type": "sentence",
+     "en": "Cows like to eat grass.",
+     "zh": "牛喜欢吃草。",
+     "audio": "audio/all/6822_cows_like_to_eat_grass.mp3",
+     "slow": "audio/all/6822_cows_like_to_eat_grass.mp3",
+     "image": "img/raz-c-what_animals_eat-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_animals_eat-p2",
+     "type": "sentence",
+     "en": "Munch, munch.",
+     "zh": "嚼啊嚼。",
+     "audio": "audio/all/6823_munch_munch.mp3",
+     "slow": "audio/all/6823_munch_munch.mp3",
+     "image": "img/raz-c-what_animals_eat-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_animals_eat-p3",
+     "type": "sentence",
+     "en": "Birds like to eat seeds.",
+     "zh": "鸟喜欢吃种子。",
+     "audio": "audio/all/6824_birds_like_to_eat_seeds.mp3",
+     "slow": "audio/all/6824_birds_like_to_eat_seeds.mp3",
+     "image": "img/raz-c-what_animals_eat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_animals_eat-p4",
+     "type": "sentence",
+     "en": "Crunch, crunch.",
+     "zh": "嘎吱嘎吱。",
+     "audio": "audio/all/6825_crunch_crunch.mp3",
+     "slow": "audio/all/6825_crunch_crunch.mp3",
+     "image": "img/raz-c-what_animals_eat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_animals_eat-p5",
+     "type": "sentence",
+     "en": "Pandas like to eat leaves.",
+     "zh": "熊猫喜欢吃叶子。",
+     "audio": "audio/all/6826_pandas_like_to_eat_leaves.mp3",
+     "slow": "audio/all/6826_pandas_like_to_eat_leaves.mp3",
+     "image": "img/raz-c-what_animals_eat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_animals_eat-p6",
+     "type": "sentence",
+     "en": "Munch, munch.",
+     "zh": "嚼啊嚼。",
+     "audio": "audio/all/6827_munch_munch.mp3",
+     "slow": "audio/all/6827_munch_munch.mp3",
+     "image": "img/raz-c-what_animals_eat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_animals_eat-p7",
+     "type": "sentence",
+     "en": "Frogs like to eat bugs.",
+     "zh": "青蛙喜欢吃虫子。",
+     "audio": "audio/all/6828_frogs_like_to_eat_bugs.mp3",
+     "slow": "audio/all/6828_frogs_like_to_eat_bugs.mp3",
+     "image": "img/raz-c-what_animals_eat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_animals_eat-p8",
+     "type": "sentence",
+     "en": "Zap, zap.",
+     "zh": "嗖嗖。",
+     "audio": "audio/all/6829_zap_zap.mp3",
+     "slow": "audio/all/6829_zap_zap.mp3",
+     "image": "img/raz-c-what_animals_eat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_animals_eat-p9",
+     "type": "sentence",
+     "en": "Monkeys like to eat fruit.",
+     "zh": "猴子喜欢吃水果。",
+     "audio": "audio/all/6830_monkeys_like_to_eat_fruit.mp3",
+     "slow": "audio/all/6830_monkeys_like_to_eat_fruit.mp3",
+     "image": "img/raz-c-what_animals_eat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_animals_eat-p10",
+     "type": "sentence",
+     "en": "Slurp, slurp.",
+     "zh": "吸溜吸溜。",
+     "audio": "audio/all/6831_slurp_slurp.mp3",
+     "slow": "audio/all/6831_slurp_slurp.mp3",
+     "image": "img/raz-c-what_animals_eat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_animals_eat-p11",
+     "type": "sentence",
+     "en": "Seals like to eat fish.",
+     "zh": "海豹喜欢吃鱼。",
+     "audio": "audio/all/6832_seals_like_to_eat_fish.mp3",
+     "slow": "audio/all/6832_seals_like_to_eat_fish.mp3",
+     "image": "img/raz-c-what_animals_eat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_animals_eat-p12",
+     "type": "sentence",
+     "en": "Gulp, gulp.",
+     "zh": "咕嘟咕嘟。",
+     "audio": "audio/all/6833_gulp_gulp.mp3",
+     "slow": "audio/all/6833_gulp_gulp.mp3",
+     "image": "img/raz-c-what_animals_eat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_animals_eat-p13",
+     "type": "sentence",
+     "en": "Goats like to eat everything.",
+     "zh": "山羊什么都吃。",
+     "audio": "audio/all/6834_goats_like_to_eat_everything.mp3",
+     "slow": "audio/all/6834_goats_like_to_eat_everything.mp3",
+     "image": "img/raz-c-what_animals_eat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_animals_eat-p14",
+     "type": "sentence",
+     "en": "Hey, stop!",
+     "zh": "嘿，停下！",
+     "audio": "audio/all/6835_hey_stop.mp3",
+     "slow": "audio/all/6835_hey_stop.mp3",
+     "image": "img/raz-c-what_animals_eat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_animals_eat-p15",
+     "type": "sentence",
+     "en": "That's my sock.",
+     "zh": "那是我的袜子。",
+     "audio": "audio/all/6836_that_s_my_sock.mp3",
+     "slow": "audio/all/6836_that_s_my_sock.mp3",
+     "image": "img/raz-c-what_animals_eat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_animals_eat-p16",
+     "type": "sentence",
+     "en": "Hey, stop!",
+     "zh": "嘿，停下！",
+     "audio": "audio/all/6837_hey_stop.mp3",
+     "slow": "audio/all/6837_hey_stop.mp3",
+     "image": "img/raz-c-what_animals_eat-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_animals_eat-p17",
+     "type": "sentence",
+     "en": "That's my shoe.",
+     "zh": "那是我的鞋。",
+     "audio": "audio/all/6838_that_s_my_shoe.mp3",
+     "slow": "audio/all/6838_that_s_my_shoe.mp3",
+     "image": "img/raz-c-what_animals_eat-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_animals_eat-p18",
+     "type": "sentence",
+     "en": "Hey, stop!",
+     "zh": "嘿，停下！",
+     "audio": "audio/all/6839_hey_stop.mp3",
+     "slow": "audio/all/6839_hey_stop.mp3",
+     "image": "img/raz-c-what_animals_eat-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_animals_eat-p19",
+     "type": "sentence",
+     "en": "That's my book.",
+     "zh": "那是我的书。",
+     "audio": "audio/all/6840_that_s_my_book.mp3",
+     "slow": "audio/all/6840_that_s_my_book.mp3",
+     "image": "img/raz-c-what_animals_eat-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

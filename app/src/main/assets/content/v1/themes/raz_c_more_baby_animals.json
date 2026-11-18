@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_more_baby_animals",
+ "nameZh": "更多的动物宝宝",
+ "bookTitle": "More Baby Animals",
+ "razLevel": "C",
+ "order": 36,
+ "cover": "img/raz-c-more_baby_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_more_baby_animals-u1",
+   "band": 2,
+   "title": "More Baby Animals · 更多的动物宝宝",
+   "cards": [
+    {
+     "id": "raz_c_more_baby_animals-p1",
+     "type": "sentence",
+     "en": "Do you know what baby animals are called?",
+     "zh": "你知道动物宝宝叫什么吗？",
+     "audio": "audio/all/6413_do_you_know_what_baby_animals_are_call.mp3",
+     "slow": "audio/all/6413_do_you_know_what_baby_animals_are_call.mp3",
+     "image": "img/raz-c-more_baby_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_more_baby_animals-p2",
+     "type": "sentence",
+     "en": "A baby deer is called a fawn.",
+     "zh": "鹿的宝宝叫小鹿。",
+     "audio": "audio/all/6414_a_baby_deer_is_called_a_fawn.mp3",
+     "slow": "audio/all/6414_a_baby_deer_is_called_a_fawn.mp3",
+     "image": "img/raz-c-more_baby_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_more_baby_animals-p3",
+     "type": "sentence",
+     "en": "A baby donkey is called a foal.",
+     "zh": "驴的宝宝叫小驴。",
+     "audio": "audio/all/6415_a_baby_donkey_is_called_a_foal.mp3",
+     "slow": "audio/all/6415_a_baby_donkey_is_called_a_foal.mp3",
+     "image": "img/raz-c-more_baby_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_more_baby_animals-p4",
+     "type": "sentence",
+     "en": "A baby gorilla is called an infant.",
+     "zh": "大猩猩的宝宝叫幼崽。",
+     "audio": "audio/all/6416_a_baby_gorilla_is_called_an_infant.mp3",
+     "slow": "audio/all/6416_a_baby_gorilla_is_called_an_infant.mp3",
+     "image": "img/raz-c-more_baby_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_more_baby_animals-p5",
+     "type": "sentence",
+     "en": "A baby pig is called a piglet.",
+     "zh": "猪的宝宝叫小猪。",
+     "audio": "audio/all/6417_a_baby_pig_is_called_a_piglet.mp3",
+     "slow": "audio/all/6417_a_baby_pig_is_called_a_piglet.mp3",
+     "image": "img/raz-c-more_baby_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_more_baby_animals-p6",
+     "type": "sentence",
+     "en": "A baby koala is called a joey.",
+     "zh": "考拉的宝宝叫幼兽。",
+     "audio": "audio/all/6418_a_baby_koala_is_called_a_joey.mp3",
+     "slow": "audio/all/6418_a_baby_koala_is_called_a_joey.mp3",
+     "image": "img/raz-c-more_baby_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_more_baby_animals-p7",
+     "type": "sentence",
+     "en": "A baby owl is called an owlet.",
+     "zh": "猫头鹰的宝宝叫雏鸟。",
+     "audio": "audio/all/6419_a_baby_owl_is_called_an_owlet.mp3",
+     "slow": "audio/all/6419_a_baby_owl_is_called_an_owlet.mp3",
+     "image": "img/raz-c-more_baby_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_more_baby_animals-p8",
+     "type": "sentence",
+     "en": "Which other baby animals do you know?",
+     "zh": "你还知道哪些动物宝宝呢？",
+     "audio": "audio/all/6420_which_other_baby_animals_do_you_know.mp3",
+     "slow": "audio/all/6420_which_other_baby_animals_do_you_know.mp3",
+     "image": "img/raz-c-more_baby_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

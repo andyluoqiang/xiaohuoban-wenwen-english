@@ -1,0 +1,157 @@
+{
+ "theme": "raz_c_all_about_penguins",
+ "nameZh": "关于企鹅",
+ "bookTitle": "All About Penguins",
+ "razLevel": "C",
+ "order": 3,
+ "cover": "img/raz-c-all_about_penguins-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_all_about_penguins-u1",
+   "band": 2,
+   "title": "All About Penguins · 关于企鹅",
+   "cards": [
+    {
+     "id": "raz_c_all_about_penguins-p1",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6022_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6022_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_all_about_penguins-p2",
+     "type": "sentence",
+     "en": "Some penguins are in cold places.",
+     "zh": "有些企鹅生活在寒冷的地方。",
+     "audio": "audio/all/6023_some_penguins_are_in_cold_places.mp3",
+     "slow": "audio/all/6023_some_penguins_are_in_cold_places.mp3",
+     "image": "img/raz-c-all_about_penguins-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_all_about_penguins-p3",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6024_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6024_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_penguins-p4",
+     "type": "sentence",
+     "en": "Some penguins are in warm places.",
+     "zh": "有些企鹅生活在温暖的地方。",
+     "audio": "audio/all/6025_some_penguins_are_in_warm_places.mp3",
+     "slow": "audio/all/6025_some_penguins_are_in_warm_places.mp3",
+     "image": "img/raz-c-all_about_penguins-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_penguins-p5",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6026_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6026_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_penguins-p6",
+     "type": "sentence",
+     "en": "Some penguins are black and white.",
+     "zh": "有些企鹅是黑白色的。",
+     "audio": "audio/all/6027_some_penguins_are_black_and_white.mp3",
+     "slow": "audio/all/6027_some_penguins_are_black_and_white.mp3",
+     "image": "img/raz-c-all_about_penguins-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_penguins-p7",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6028_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6028_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_penguins-p8",
+     "type": "sentence",
+     "en": "Some penguins are blue and white.",
+     "zh": "有些企鹅是蓝白色的。",
+     "audio": "audio/all/6029_some_penguins_are_blue_and_white.mp3",
+     "slow": "audio/all/6029_some_penguins_are_blue_and_white.mp3",
+     "image": "img/raz-c-all_about_penguins-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_penguins-p9",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6030_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6030_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_penguins-p10",
+     "type": "sentence",
+     "en": "Some penguins are little.",
+     "zh": "有些企鹅小小的。",
+     "audio": "audio/all/6031_some_penguins_are_little.mp3",
+     "slow": "audio/all/6031_some_penguins_are_little.mp3",
+     "image": "img/raz-c-all_about_penguins-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_penguins-p11",
+     "type": "sentence",
+     "en": "All penguins are birds.",
+     "zh": "所有企鹅都是鸟。",
+     "audio": "audio/all/6032_all_penguins_are_birds.mp3",
+     "slow": "audio/all/6032_all_penguins_are_birds.mp3",
+     "image": "img/raz-c-all_about_penguins-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_penguins-p12",
+     "type": "sentence",
+     "en": "Some penguins are big.",
+     "zh": "有些企鹅大大的。",
+     "audio": "audio/all/6033_some_penguins_are_big.mp3",
+     "slow": "audio/all/6033_some_penguins_are_big.mp3",
+     "image": "img/raz-c-all_about_penguins-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_penguins-p13",
+     "type": "sentence",
+     "en": "All penguins cannot fly.",
+     "zh": "企鹅都不会飞。",
+     "audio": "audio/all/6034_all_penguins_cannot_fly.mp3",
+     "slow": "audio/all/6034_all_penguins_cannot_fly.mp3",
+     "image": "img/raz-c-all_about_penguins-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_all_about_penguins-p14",
+     "type": "sentence",
+     "en": "All penguins swim well.",
+     "zh": "企鹅都很会游泳。",
+     "audio": "audio/all/6035_all_penguins_swim_well.mp3",
+     "slow": "audio/all/6035_all_penguins_swim_well.mp3",
+     "image": "img/raz-c-all_about_penguins-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

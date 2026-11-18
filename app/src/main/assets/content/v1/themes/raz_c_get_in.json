@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_get_in",
+ "nameZh": "进去",
+ "bookTitle": "Get In",
+ "razLevel": "C",
+ "order": 17,
+ "cover": "img/raz-c-get_in-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_get_in-u1",
+   "band": 2,
+   "title": "Get In · 进去",
+   "cards": [
+    {
+     "id": "raz_c_get_in-p1",
+     "type": "sentence",
+     "en": "Can the boy get in?",
+     "zh": "男孩能进去吗？",
+     "audio": "audio/all/6178_can_the_boy_get_in.mp3",
+     "slow": "audio/all/6178_can_the_boy_get_in.mp3",
+     "image": "img/raz-c-get_in-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_get_in-p2",
+     "type": "sentence",
+     "en": "Yes, he can.",
+     "zh": "是的，他能。",
+     "audio": "audio/all/6179_yes_he_can.mp3",
+     "slow": "audio/all/6179_yes_he_can.mp3",
+     "image": "img/raz-c-get_in-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_get_in-p3",
+     "type": "sentence",
+     "en": "Can the girl get in?",
+     "zh": "女孩能进去吗？",
+     "audio": "audio/all/6180_can_the_girl_get_in.mp3",
+     "slow": "audio/all/6180_can_the_girl_get_in.mp3",
+     "image": "img/raz-c-get_in-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_get_in-p4",
+     "type": "sentence",
+     "en": "Yes, she can.",
+     "zh": "是的，她能。",
+     "audio": "audio/all/6181_yes_she_can.mp3",
+     "slow": "audio/all/6181_yes_she_can.mp3",
+     "image": "img/raz-c-get_in-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_get_in-p5",
+     "type": "sentence",
+     "en": "Can the man get in?",
+     "zh": "男人能进去吗？",
+     "audio": "audio/all/6182_can_the_man_get_in.mp3",
+     "slow": "audio/all/6182_can_the_man_get_in.mp3",
+     "image": "img/raz-c-get_in-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_get_in-p6",
+     "type": "sentence",
+     "en": "Yes, he can.",
+     "zh": "是的，他能。",
+     "audio": "audio/all/6183_yes_he_can.mp3",
+     "slow": "audio/all/6183_yes_he_can.mp3",
+     "image": "img/raz-c-get_in-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_get_in-p7",
+     "type": "sentence",
+     "en": "Can the woman get in?",
+     "zh": "女人能进去吗？",
+     "audio": "audio/all/6184_can_the_woman_get_in.mp3",
+     "slow": "audio/all/6184_can_the_woman_get_in.mp3",
+     "image": "img/raz-c-get_in-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_get_in-p8",
+     "type": "sentence",
+     "en": "Yes, she can.",
+     "zh": "是的，她能。",
+     "audio": "audio/all/6185_yes_she_can.mp3",
+     "slow": "audio/all/6185_yes_she_can.mp3",
+     "image": "img/raz-c-get_in-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_get_in-p9",
+     "type": "sentence",
+     "en": "Can the duck get in?",
+     "zh": "鸭子能进去吗？",
+     "audio": "audio/all/6186_can_the_duck_get_in.mp3",
+     "slow": "audio/all/6186_can_the_duck_get_in.mp3",
+     "image": "img/raz-c-get_in-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_get_in-p10",
+     "type": "sentence",
+     "en": "Yes, it can.",
+     "zh": "是的，它能。",
+     "audio": "audio/all/6187_yes_it_can.mp3",
+     "slow": "audio/all/6187_yes_it_can.mp3",
+     "image": "img/raz-c-get_in-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_get_in-p11",
+     "type": "sentence",
+     "en": "Can the dog get in?",
+     "zh": "狗能进去吗？",
+     "audio": "audio/all/6188_can_the_dog_get_in.mp3",
+     "slow": "audio/all/6188_can_the_dog_get_in.mp3",
+     "image": "img/raz-c-get_in-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_get_in-p12",
+     "type": "sentence",
+     "en": "Yes, it can.",
+     "zh": "是的，它能。",
+     "audio": "audio/all/6189_yes_it_can.mp3",
+     "slow": "audio/all/6189_yes_it_can.mp3",
+     "image": "img/raz-c-get_in-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_get_in-p13",
+     "type": "sentence",
+     "en": "Can the pig get in?",
+     "zh": "猪能进去吗？",
+     "audio": "audio/all/6190_can_the_pig_get_in.mp3",
+     "slow": "audio/all/6190_can_the_pig_get_in.mp3",
+     "image": "img/raz-c-get_in-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_get_in-p14",
+     "type": "sentence",
+     "en": "Yes, it can.",
+     "zh": "是的，它能。",
+     "audio": "audio/all/6191_yes_it_can.mp3",
+     "slow": "audio/all/6191_yes_it_can.mp3",
+     "image": "img/raz-c-get_in-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_get_in-p15",
+     "type": "sentence",
+     "en": "Can the elephant get in?",
+     "zh": "大象能进去吗？",
+     "audio": "audio/all/6192_can_the_elephant_get_in.mp3",
+     "slow": "audio/all/6192_can_the_elephant_get_in.mp3",
+     "image": "img/raz-c-get_in-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_get_in-p16",
+     "type": "sentence",
+     "en": "No, it cannot.",
+     "zh": "不，它不能。",
+     "audio": "audio/all/6193_no_it_cannot.mp3",
+     "slow": "audio/all/6193_no_it_cannot.mp3",
+     "image": "img/raz-c-get_in-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

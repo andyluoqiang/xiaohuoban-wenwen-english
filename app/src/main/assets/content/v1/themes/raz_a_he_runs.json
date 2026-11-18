@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_he_runs",
+ "nameZh": "他跑啊跑",
+ "bookTitle": "He Runs",
+ "razLevel": "A",
+ "order": 24,
+ "cover": "img/raz-a-he_runs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_he_runs-u1",
+   "band": 2,
+   "title": "He Runs · 他跑啊跑",
+   "cards": [
+    {
+     "id": "raz_a_he_runs-p1",
+     "type": "sentence",
+     "en": "He runs to the bus.",
+     "zh": "他跑向公共汽车。",
+     "audio": "audio/all/5288_he_runs_to_the_bus.mp3",
+     "slow": "audio/all/5288_he_runs_to_the_bus.mp3",
+     "image": "img/raz-a-he_runs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_he_runs-p2",
+     "type": "sentence",
+     "en": "He runs to the train.",
+     "zh": "他跑向火车。",
+     "audio": "audio/all/5289_he_runs_to_the_train.mp3",
+     "slow": "audio/all/5289_he_runs_to_the_train.mp3",
+     "image": "img/raz-a-he_runs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_he_runs-p3",
+     "type": "sentence",
+     "en": "He runs to the boat.",
+     "zh": "他跑向小船。",
+     "audio": "audio/all/5290_he_runs_to_the_boat.mp3",
+     "slow": "audio/all/5290_he_runs_to_the_boat.mp3",
+     "image": "img/raz-a-he_runs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_he_runs-p4",
+     "type": "sentence",
+     "en": "He runs to the plane.",
+     "zh": "他跑向飞机。",
+     "audio": "audio/all/5291_he_runs_to_the_plane.mp3",
+     "slow": "audio/all/5291_he_runs_to_the_plane.mp3",
+     "image": "img/raz-a-he_runs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_he_runs-p5",
+     "type": "sentence",
+     "en": "He runs to the school.",
+     "zh": "他跑向学校。",
+     "audio": "audio/all/5292_he_runs_to_the_school.mp3",
+     "slow": "audio/all/5292_he_runs_to_the_school.mp3",
+     "image": "img/raz-a-he_runs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_he_runs-p6",
+     "type": "sentence",
+     "en": "He runs to the store.",
+     "zh": "他跑向商店。",
+     "audio": "audio/all/5293_he_runs_to_the_store.mp3",
+     "slow": "audio/all/5293_he_runs_to_the_store.mp3",
+     "image": "img/raz-a-he_runs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_he_runs-p7",
+     "type": "sentence",
+     "en": "He runs to the pool.",
+     "zh": "他跑向游泳池。",
+     "audio": "audio/all/5294_he_runs_to_the_pool.mp3",
+     "slow": "audio/all/5294_he_runs_to_the_pool.mp3",
+     "image": "img/raz-a-he_runs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_he_runs-p8",
+     "type": "sentence",
+     "en": "He runs home.",
+     "zh": "他跑回家。",
+     "audio": "audio/all/5295_he_runs_home.mp3",
+     "slow": "audio/all/5295_he_runs_home.mp3",
+     "image": "img/raz-a-he_runs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

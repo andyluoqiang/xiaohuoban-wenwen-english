@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_what_do_i_hear",
+ "nameZh": "我听见什么",
+ "bookTitle": "What Do I Hear?",
+ "razLevel": "A",
+ "order": 78,
+ "cover": "img/raz-a-what_do_i_hear-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_what_do_i_hear-u1",
+   "band": 2,
+   "title": "What Do I Hear? · 我听见什么",
+   "cards": [
+    {
+     "id": "raz_a_what_do_i_hear-p1",
+     "type": "sentence",
+     "en": "I hear birds.",
+     "zh": "我听见鸟叫。",
+     "audio": "audio/all/5721_i_hear_birds.mp3",
+     "slow": "audio/all/5721_i_hear_birds.mp3",
+     "image": "img/raz-a-what_do_i_hear-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p2",
+     "type": "sentence",
+     "en": "I hear rain.",
+     "zh": "我听见雨声。",
+     "audio": "audio/all/5722_i_hear_rain.mp3",
+     "slow": "audio/all/5722_i_hear_rain.mp3",
+     "image": "img/raz-a-what_do_i_hear-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p3",
+     "type": "sentence",
+     "en": "I hear wind.",
+     "zh": "我听见风声。",
+     "audio": "audio/all/5723_i_hear_wind.mp3",
+     "slow": "audio/all/5723_i_hear_wind.mp3",
+     "image": "img/raz-a-what_do_i_hear-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p4",
+     "type": "sentence",
+     "en": "I hear waves.",
+     "zh": "我听见海浪。",
+     "audio": "audio/all/5724_i_hear_waves.mp3",
+     "slow": "audio/all/5724_i_hear_waves.mp3",
+     "image": "img/raz-a-what_do_i_hear-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p5",
+     "type": "sentence",
+     "en": "I hear music.",
+     "zh": "我听见音乐。",
+     "audio": "audio/all/5725_i_hear_music.mp3",
+     "slow": "audio/all/5725_i_hear_music.mp3",
+     "image": "img/raz-a-what_do_i_hear-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p6",
+     "type": "sentence",
+     "en": "I hear cars.",
+     "zh": "我听见汽车。",
+     "audio": "audio/all/5726_i_hear_cars.mp3",
+     "slow": "audio/all/5726_i_hear_cars.mp3",
+     "image": "img/raz-a-what_do_i_hear-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p7",
+     "type": "sentence",
+     "en": "I hear whispers.",
+     "zh": "我听见悄悄话。",
+     "audio": "audio/all/5727_i_hear_whispers.mp3",
+     "slow": "audio/all/5727_i_hear_whispers.mp3",
+     "image": "img/raz-a-what_do_i_hear-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_what_do_i_hear-p8",
+     "type": "sentence",
+     "en": "I hear snores.",
+     "zh": "我听见呼噜声。",
+     "audio": "audio/all/5728_i_hear_snores.mp3",
+     "slow": "audio/all/5728_i_hear_snores.mp3",
+     "image": "img/raz-a-what_do_i_hear-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

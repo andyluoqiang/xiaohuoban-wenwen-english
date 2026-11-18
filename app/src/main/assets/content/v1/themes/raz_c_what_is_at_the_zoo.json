@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_what_is_at_the_zoo",
+ "nameZh": "动物园里有什么",
+ "bookTitle": "What Is at the Zoo?",
+ "razLevel": "C",
+ "order": 78,
+ "cover": "img/raz-c-what_is_at_the_zoo-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_is_at_the_zoo-u1",
+   "band": 2,
+   "title": "What Is at the Zoo? · 动物园里有什么",
+   "cards": [
+    {
+     "id": "raz_c_what_is_at_the_zoo-p1",
+     "type": "sentence",
+     "en": "Are there bears at the zoo?",
+     "zh": "动物园里有熊吗？",
+     "audio": "audio/all/6880_are_there_bears_at_the_zoo.mp3",
+     "slow": "audio/all/6880_are_there_bears_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p2",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有熊。",
+     "audio": "audio/all/6881_yes_there_are.mp3",
+     "slow": "audio/all/6881_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p3",
+     "type": "sentence",
+     "en": "Are there monkeys at the zoo?",
+     "zh": "动物园里有猴子吗？",
+     "audio": "audio/all/6882_are_there_monkeys_at_the_zoo.mp3",
+     "slow": "audio/all/6882_are_there_monkeys_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p4",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有猴子。",
+     "audio": "audio/all/6883_yes_there_are.mp3",
+     "slow": "audio/all/6883_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p5",
+     "type": "sentence",
+     "en": "Are there elephants at the zoo?",
+     "zh": "动物园里有大象吗？",
+     "audio": "audio/all/6884_are_there_elephants_at_the_zoo.mp3",
+     "slow": "audio/all/6884_are_there_elephants_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p6",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有大象。",
+     "audio": "audio/all/6885_yes_there_are.mp3",
+     "slow": "audio/all/6885_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p7",
+     "type": "sentence",
+     "en": "Are there giraffes at the zoo?",
+     "zh": "动物园里有长颈鹿吗？",
+     "audio": "audio/all/6886_are_there_giraffes_at_the_zoo.mp3",
+     "slow": "audio/all/6886_are_there_giraffes_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p8",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有长颈鹿。",
+     "audio": "audio/all/6887_yes_there_are.mp3",
+     "slow": "audio/all/6887_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p9",
+     "type": "sentence",
+     "en": "Are there lions and tigers at the zoo?",
+     "zh": "动物园里有狮子和老虎吗？",
+     "audio": "audio/all/6888_are_there_lions_and_tigers_at_the_zoo.mp3",
+     "slow": "audio/all/6888_are_there_lions_and_tigers_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p10",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有狮子和老虎。",
+     "audio": "audio/all/6889_yes_there_are.mp3",
+     "slow": "audio/all/6889_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p11",
+     "type": "sentence",
+     "en": "Are there hippos at the zoo?",
+     "zh": "动物园里有河马吗？",
+     "audio": "audio/all/6890_are_there_hippos_at_the_zoo.mp3",
+     "slow": "audio/all/6890_are_there_hippos_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p12",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有河马。",
+     "audio": "audio/all/6891_yes_there_are.mp3",
+     "slow": "audio/all/6891_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p13",
+     "type": "sentence",
+     "en": "Are there sea lions at the zoo?",
+     "zh": "动物园里有海狮吗？",
+     "audio": "audio/all/6892_are_there_sea_lions_at_the_zoo.mp3",
+     "slow": "audio/all/6892_are_there_sea_lions_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p14",
+     "type": "sentence",
+     "en": "Yes, there are.",
+     "zh": "有，有海狮。",
+     "audio": "audio/all/6893_yes_there_are.mp3",
+     "slow": "audio/all/6893_yes_there_are.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p15",
+     "type": "sentence",
+     "en": "Are there dinosaurs at the zoo?",
+     "zh": "动物园里有恐龙吗？",
+     "audio": "audio/all/6894_are_there_dinosaurs_at_the_zoo.mp3",
+     "slow": "audio/all/6894_are_there_dinosaurs_at_the_zoo.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_is_at_the_zoo-p16",
+     "type": "sentence",
+     "en": "No, there are not.",
+     "zh": "没有，没有恐龙。",
+     "audio": "audio/all/6895_no_there_are_not.mp3",
+     "slow": "audio/all/6895_no_there_are_not.mp3",
+     "image": "img/raz-c-what_is_at_the_zoo-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

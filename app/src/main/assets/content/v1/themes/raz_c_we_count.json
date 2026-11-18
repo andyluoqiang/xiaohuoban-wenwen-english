@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_we_count",
+ "nameZh": "我们来数数",
+ "bookTitle": "We Count",
+ "razLevel": "C",
+ "order": 69,
+ "cover": "img/raz-c-we_count-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_we_count-u1",
+   "band": 2,
+   "title": "We Count · 我们来数数",
+   "cards": [
+    {
+     "id": "raz_c_we_count-p1",
+     "type": "sentence",
+     "en": "I can count ten ants.",
+     "zh": "我能数十只蚂蚁。",
+     "audio": "audio/all/6777_i_can_count_ten_ants.mp3",
+     "slow": "audio/all/6777_i_can_count_ten_ants.mp3",
+     "image": "img/raz-c-we_count-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_count-p2",
+     "type": "sentence",
+     "en": "You can count ten butterflies.",
+     "zh": "你能数十只蝴蝶。",
+     "audio": "audio/all/6778_you_can_count_ten_butterflies.mp3",
+     "slow": "audio/all/6778_you_can_count_ten_butterflies.mp3",
+     "image": "img/raz-c-we_count-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_count-p3",
+     "type": "sentence",
+     "en": "I can count ten flies.",
+     "zh": "我能数十只苍蝇。",
+     "audio": "audio/all/6779_i_can_count_ten_flies.mp3",
+     "slow": "audio/all/6779_i_can_count_ten_flies.mp3",
+     "image": "img/raz-c-we_count-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_count-p4",
+     "type": "sentence",
+     "en": "You can count ten fleas.",
+     "zh": "你能数十只跳蚤。",
+     "audio": "audio/all/6780_you_can_count_ten_fleas.mp3",
+     "slow": "audio/all/6780_you_can_count_ten_fleas.mp3",
+     "image": "img/raz-c-we_count-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_count-p5",
+     "type": "sentence",
+     "en": "I can count ten grubs.",
+     "zh": "我能数十只蛆。",
+     "audio": "audio/all/6781_i_can_count_ten_grubs.mp3",
+     "slow": "audio/all/6781_i_can_count_ten_grubs.mp3",
+     "image": "img/raz-c-we_count-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_count-p6",
+     "type": "sentence",
+     "en": "You can count ten ladybugs.",
+     "zh": "你能数十只瓢虫。",
+     "audio": "audio/all/6782_you_can_count_ten_ladybugs.mp3",
+     "slow": "audio/all/6782_you_can_count_ten_ladybugs.mp3",
+     "image": "img/raz-c-we_count-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_count-p7",
+     "type": "sentence",
+     "en": "I can count ten beetles.",
+     "zh": "我能数十只甲虫。",
+     "audio": "audio/all/6783_i_can_count_ten_beetles.mp3",
+     "slow": "audio/all/6783_i_can_count_ten_beetles.mp3",
+     "image": "img/raz-c-we_count-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_count-p8",
+     "type": "sentence",
+     "en": "You can count ten crickets.",
+     "zh": "你能数十只蟋蟀。",
+     "audio": "audio/all/6784_you_can_count_ten_crickets.mp3",
+     "slow": "audio/all/6784_you_can_count_ten_crickets.mp3",
+     "image": "img/raz-c-we_count-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_we_count-p9",
+     "type": "sentence",
+     "en": "I can count ten slugs.",
+     "zh": "我能数十只鼻涕虫。",
+     "audio": "audio/all/6785_i_can_count_ten_slugs.mp3",
+     "slow": "audio/all/6785_i_can_count_ten_slugs.mp3",
+     "image": "img/raz-c-we_count-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_c_we_count-p10",
+     "type": "sentence",
+     "en": "We can count ten hungry spiders.",
+     "zh": "我们能数十只饥饿的蜘蛛。",
+     "audio": "audio/all/6786_we_can_count_ten_hungry_spiders.mp3",
+     "slow": "audio/all/6786_we_can_count_ten_hungry_spiders.mp3",
+     "image": "img/raz-c-we_count-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

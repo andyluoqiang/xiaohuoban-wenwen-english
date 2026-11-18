@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_vegetables",
+ "nameZh": "蔬菜",
+ "bookTitle": "Vegetables",
+ "razLevel": "A",
+ "order": 76,
+ "cover": "img/raz-a-vegetables-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_vegetables-u1",
+   "band": 2,
+   "title": "Vegetables · 蔬菜",
+   "cards": [
+    {
+     "id": "raz_a_vegetables-p1",
+     "type": "sentence",
+     "en": "This is a potato.",
+     "zh": "这是一个土豆。",
+     "audio": "audio/all/5705_this_is_a_potato.mp3",
+     "slow": "audio/all/5705_this_is_a_potato.mp3",
+     "image": "img/raz-a-vegetables-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_vegetables-p2",
+     "type": "sentence",
+     "en": "This is broccoli.",
+     "zh": "这是西兰花。",
+     "audio": "audio/all/5706_this_is_broccoli.mp3",
+     "slow": "audio/all/5706_this_is_broccoli.mp3",
+     "image": "img/raz-a-vegetables-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_vegetables-p3",
+     "type": "sentence",
+     "en": "This is lettuce.",
+     "zh": "这是生菜。",
+     "audio": "audio/all/5707_this_is_lettuce.mp3",
+     "slow": "audio/all/5707_this_is_lettuce.mp3",
+     "image": "img/raz-a-vegetables-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_vegetables-p4",
+     "type": "sentence",
+     "en": "This is corn.",
+     "zh": "这是玉米。",
+     "audio": "audio/all/5708_this_is_corn.mp3",
+     "slow": "audio/all/5708_this_is_corn.mp3",
+     "image": "img/raz-a-vegetables-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_vegetables-p5",
+     "type": "sentence",
+     "en": "This is a chile pepper.",
+     "zh": "这是一个辣椒。",
+     "audio": "audio/all/5709_this_is_a_chile_pepper.mp3",
+     "slow": "audio/all/5709_this_is_a_chile_pepper.mp3",
+     "image": "img/raz-a-vegetables-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_vegetables-p6",
+     "type": "sentence",
+     "en": "This is cabbage.",
+     "zh": "这是卷心菜。",
+     "audio": "audio/all/5710_this_is_cabbage.mp3",
+     "slow": "audio/all/5710_this_is_cabbage.mp3",
+     "image": "img/raz-a-vegetables-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_vegetables-p7",
+     "type": "sentence",
+     "en": "These are carrots.",
+     "zh": "这些是胡萝卜。",
+     "audio": "audio/all/5711_these_are_carrots.mp3",
+     "slow": "audio/all/5711_these_are_carrots.mp3",
+     "image": "img/raz-a-vegetables-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_vegetables-p8",
+     "type": "sentence",
+     "en": "These are vegetables.",
+     "zh": "这些是蔬菜。",
+     "audio": "audio/all/5712_these_are_vegetables.mp3",
+     "slow": "audio/all/5712_these_are_vegetables.mp3",
+     "image": "img/raz-a-vegetables-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

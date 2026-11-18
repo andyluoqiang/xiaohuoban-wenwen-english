@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_give_them_back",
+ "nameZh": "还回来！",
+ "bookTitle": "Give Them Back!",
+ "razLevel": "D",
+ "order": 26,
+ "cover": "img/raz-d-give_them_back-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_give_them_back-u1",
+   "band": 2,
+   "title": "Give Them Back! · 还回来！",
+   "cards": [
+    {
+     "id": "raz_d_give_them_back-p1",
+     "type": "sentence",
+     "en": "The Easter egg hunt is starting.",
+     "zh": "复活节寻蛋开始了。",
+     "audio": "audio/all/7434_the_easter_egg_hunt_is_starting.mp3",
+     "slow": "audio/all/7434_the_easter_egg_hunt_is_starting.mp3",
+     "image": "img/raz-d-give_them_back-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_give_them_back-p2",
+     "type": "sentence",
+     "en": "Jaden has a sneaky plan to win.",
+     "zh": "杰登有个鬼点子想赢。",
+     "audio": "audio/all/7435_jaden_has_a_sneaky_plan_to_win.mp3",
+     "slow": "audio/all/7435_jaden_has_a_sneaky_plan_to_win.mp3",
+     "image": "img/raz-d-give_them_back-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_give_them_back-p3",
+     "type": "sentence",
+     "en": "He takes an egg from Mona.",
+     "zh": "他从莫娜那儿拿了一颗蛋。",
+     "audio": "audio/all/7436_he_takes_an_egg_from_mona.mp3",
+     "slow": "audio/all/7436_he_takes_an_egg_from_mona.mp3",
+     "image": "img/raz-d-give_them_back-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_give_them_back-p4",
+     "type": "sentence",
+     "en": "He takes an egg from Sam.",
+     "zh": "他从山姆那儿拿了一颗蛋。",
+     "audio": "audio/all/7437_he_takes_an_egg_from_sam.mp3",
+     "slow": "audio/all/7437_he_takes_an_egg_from_sam.mp3",
+     "image": "img/raz-d-give_them_back-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_give_them_back-p5",
+     "type": "sentence",
+     "en": "He takes an egg from Kate.",
+     "zh": "他从凯特那儿拿了一颗蛋。",
+     "audio": "audio/all/7438_he_takes_an_egg_from_kate.mp3",
+     "slow": "audio/all/7438_he_takes_an_egg_from_kate.mp3",
+     "image": "img/raz-d-give_them_back-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_give_them_back-p6",
+     "type": "sentence",
+     "en": "He takes an egg from Sasha.",
+     "zh": "他从萨莎那儿拿了一颗蛋。",
+     "audio": "audio/all/7439_he_takes_an_egg_from_sasha.mp3",
+     "slow": "audio/all/7439_he_takes_an_egg_from_sasha.mp3",
+     "image": "img/raz-d-give_them_back-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_give_them_back-p7",
+     "type": "sentence",
+     "en": "He takes an egg from Eli.",
+     "zh": "他从伊莱那儿拿了一颗蛋。",
+     "audio": "audio/all/7440_he_takes_an_egg_from_eli.mp3",
+     "slow": "audio/all/7440_he_takes_an_egg_from_eli.mp3",
+     "image": "img/raz-d-give_them_back-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_give_them_back-p8",
+     "type": "sentence",
+     "en": "He takes an egg from Will.",
+     "zh": "他从威尔那儿拿了一颗蛋。",
+     "audio": "audio/all/7441_he_takes_an_egg_from_will.mp3",
+     "slow": "audio/all/7441_he_takes_an_egg_from_will.mp3",
+     "image": "img/raz-d-give_them_back-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_give_them_back-p9",
+     "type": "sentence",
+     "en": "The other kids talk to Jaden.",
+     "zh": "其他孩子和杰登谈了谈。",
+     "audio": "audio/all/7442_the_other_kids_talk_to_jaden.mp3",
+     "slow": "audio/all/7442_the_other_kids_talk_to_jaden.mp3",
+     "image": "img/raz-d-give_them_back-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_give_them_back-p10",
+     "type": "sentence",
+     "en": "Jaden is sorry and gives back all the eggs.",
+     "zh": "杰登很抱歉，把蛋都还了回去。",
+     "audio": "audio/all/7443_jaden_is_sorry_and_gives_back_all_the_.mp3",
+     "slow": "audio/all/7443_jaden_is_sorry_and_gives_back_all_the_.mp3",
+     "image": "img/raz-d-give_them_back-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_what_i_want",
+ "nameZh": "我想要什么",
+ "bookTitle": "What I Want",
+ "razLevel": "C",
+ "order": 77,
+ "cover": "img/raz-c-what_i_want-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_i_want-u1",
+   "band": 2,
+   "title": "What I Want · 我想要什么",
+   "cards": [
+    {
+     "id": "raz_c_what_i_want-p1",
+     "type": "sentence",
+     "en": "I want something to hug.",
+     "zh": "我想要个能抱的东西。",
+     "audio": "audio/all/6871_i_want_something_to_hug.mp3",
+     "slow": "audio/all/6871_i_want_something_to_hug.mp3",
+     "image": "img/raz-c-what_i_want-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_i_want-p2",
+     "type": "sentence",
+     "en": "I want something to feed.",
+     "zh": "我想要个能喂的东西。",
+     "audio": "audio/all/6872_i_want_something_to_feed.mp3",
+     "slow": "audio/all/6872_i_want_something_to_feed.mp3",
+     "image": "img/raz-c-what_i_want-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_i_want-p3",
+     "type": "sentence",
+     "en": "I want something to play with.",
+     "zh": "我想要个能一起玩的。",
+     "audio": "audio/all/6873_i_want_something_to_play_with.mp3",
+     "slow": "audio/all/6873_i_want_something_to_play_with.mp3",
+     "image": "img/raz-c-what_i_want-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_i_want-p4",
+     "type": "sentence",
+     "en": "I want something to teach.",
+     "zh": "我想要个能教的。",
+     "audio": "audio/all/6874_i_want_something_to_teach.mp3",
+     "slow": "audio/all/6874_i_want_something_to_teach.mp3",
+     "image": "img/raz-c-what_i_want-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_i_want-p5",
+     "type": "sentence",
+     "en": "I want something to dream with.",
+     "zh": "我想要个能一起做梦的。",
+     "audio": "audio/all/6875_i_want_something_to_dream_with.mp3",
+     "slow": "audio/all/6875_i_want_something_to_dream_with.mp3",
+     "image": "img/raz-c-what_i_want-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_i_want-p6",
+     "type": "sentence",
+     "en": "I want something to read to.",
+     "zh": "我想要个能读书给它听的。",
+     "audio": "audio/all/6876_i_want_something_to_read_to.mp3",
+     "slow": "audio/all/6876_i_want_something_to_read_to.mp3",
+     "image": "img/raz-c-what_i_want-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_i_want-p7",
+     "type": "sentence",
+     "en": "I want something to walk.",
+     "zh": "我想要个能遛的。",
+     "audio": "audio/all/6877_i_want_something_to_walk.mp3",
+     "slow": "audio/all/6877_i_want_something_to_walk.mp3",
+     "image": "img/raz-c-what_i_want-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_i_want-p8",
+     "type": "sentence",
+     "en": "I want something to love.",
+     "zh": "我想要个能爱的。",
+     "audio": "audio/all/6878_i_want_something_to_love.mp3",
+     "slow": "audio/all/6878_i_want_something_to_love.mp3",
+     "image": "img/raz-c-what_i_want-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_i_want-p9",
+     "type": "sentence",
+     "en": "I want a dog!",
+     "zh": "我想要一只狗！",
+     "audio": "audio/all/6879_i_want_a_dog.mp3",
+     "slow": "audio/all/6879_i_want_a_dog.mp3",
+     "image": "img/raz-c-what_i_want-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

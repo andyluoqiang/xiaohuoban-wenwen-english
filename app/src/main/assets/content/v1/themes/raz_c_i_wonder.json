@@ -1,0 +1,147 @@
+{
+ "theme": "raz_c_i_wonder",
+ "nameZh": "我很好奇",
+ "bookTitle": "I Wonder",
+ "razLevel": "C",
+ "order": 25,
+ "cover": "img/raz-c-i_wonder-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_i_wonder-u1",
+   "band": 2,
+   "title": "I Wonder · 我很好奇",
+   "cards": [
+    {
+     "id": "raz_c_i_wonder-p1",
+     "type": "sentence",
+     "en": "I wonder about lots of things.",
+     "zh": "我对很多事好奇。",
+     "audio": "audio/all/6292_i_wonder_about_lots_of_things.mp3",
+     "slow": "audio/all/6292_i_wonder_about_lots_of_things.mp3",
+     "image": "img/raz-c-i_wonder-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_wonder-p2",
+     "type": "sentence",
+     "en": "I wonder about animals.",
+     "zh": "我好奇动物。",
+     "audio": "audio/all/6293_i_wonder_about_animals.mp3",
+     "slow": "audio/all/6293_i_wonder_about_animals.mp3",
+     "image": "img/raz-c-i_wonder-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_wonder-p3",
+     "type": "sentence",
+     "en": "I wonder about cats.",
+     "zh": "我好奇猫。",
+     "audio": "audio/all/6294_i_wonder_about_cats.mp3",
+     "slow": "audio/all/6294_i_wonder_about_cats.mp3",
+     "image": "img/raz-c-i_wonder-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_wonder-p4",
+     "type": "sentence",
+     "en": "Cats can purr.",
+     "zh": "猫会发出呼噜声。",
+     "audio": "audio/all/6295_cats_can_purr.mp3",
+     "slow": "audio/all/6295_cats_can_purr.mp3",
+     "image": "img/raz-c-i_wonder-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_wonder-p5",
+     "type": "sentence",
+     "en": "How do cats purr?",
+     "zh": "猫是怎么发出呼噜声的？",
+     "audio": "audio/all/6296_how_do_cats_purr.mp3",
+     "slow": "audio/all/6296_how_do_cats_purr.mp3",
+     "image": "img/raz-c-i_wonder-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_i_wonder-p6",
+     "type": "sentence",
+     "en": "I wonder about sheep.",
+     "zh": "我好奇羊。",
+     "audio": "audio/all/6297_i_wonder_about_sheep.mp3",
+     "slow": "audio/all/6297_i_wonder_about_sheep.mp3",
+     "image": "img/raz-c-i_wonder-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_wonder-p7",
+     "type": "sentence",
+     "en": "Sheep can grow wool.",
+     "zh": "羊会长出羊毛。",
+     "audio": "audio/all/6298_sheep_can_grow_wool.mp3",
+     "slow": "audio/all/6298_sheep_can_grow_wool.mp3",
+     "image": "img/raz-c-i_wonder-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_wonder-p8",
+     "type": "sentence",
+     "en": "How do sheep grow wool?",
+     "zh": "羊是怎么长羊毛的？",
+     "audio": "audio/all/6299_how_do_sheep_grow_wool.mp3",
+     "slow": "audio/all/6299_how_do_sheep_grow_wool.mp3",
+     "image": "img/raz-c-i_wonder-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_i_wonder-p9",
+     "type": "sentence",
+     "en": "I wonder about fish.",
+     "zh": "我好奇鱼。",
+     "audio": "audio/all/6300_i_wonder_about_fish.mp3",
+     "slow": "audio/all/6300_i_wonder_about_fish.mp3",
+     "image": "img/raz-c-i_wonder-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_wonder-p10",
+     "type": "sentence",
+     "en": "Fish can sleep.",
+     "zh": "鱼会睡觉。",
+     "audio": "audio/all/6301_fish_can_sleep.mp3",
+     "slow": "audio/all/6301_fish_can_sleep.mp3",
+     "image": "img/raz-c-i_wonder-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_wonder-p11",
+     "type": "sentence",
+     "en": "How do fish sleep?",
+     "zh": "鱼是怎么睡觉的？",
+     "audio": "audio/all/6302_how_do_fish_sleep.mp3",
+     "slow": "audio/all/6302_how_do_fish_sleep.mp3",
+     "image": "img/raz-c-i_wonder-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_i_wonder-p12",
+     "type": "sentence",
+     "en": "I wonder about lots of things.",
+     "zh": "我对很多事好奇。",
+     "audio": "audio/all/6303_i_wonder_about_lots_of_things.mp3",
+     "slow": "audio/all/6303_i_wonder_about_lots_of_things.mp3",
+     "image": "img/raz-c-i_wonder-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_i_wonder-p13",
+     "type": "sentence",
+     "en": "Do they wonder about me?",
+     "zh": "它们对我好奇吗？",
+     "audio": "audio/all/6304_do_they_wonder_about_me.mp3",
+     "slow": "audio/all/6304_do_they_wonder_about_me.mp3",
+     "image": "img/raz-c-i_wonder-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

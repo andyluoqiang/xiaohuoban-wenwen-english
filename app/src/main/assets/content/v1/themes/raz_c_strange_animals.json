@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_strange_animals",
+ "nameZh": "奇怪的动物",
+ "bookTitle": "Strange Animals",
+ "razLevel": "C",
+ "order": 53,
+ "cover": "img/raz-c-strange_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_strange_animals-u1",
+   "band": 2,
+   "title": "Strange Animals · 奇怪的动物",
+   "cards": [
+    {
+     "id": "raz_c_strange_animals-p1",
+     "type": "sentence",
+     "en": "Animals are living things.",
+     "zh": "动物是生物。",
+     "audio": "audio/all/6593_animals_are_living_things.mp3",
+     "slow": "audio/all/6593_animals_are_living_things.mp3",
+     "image": "img/raz-c-strange_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_strange_animals-p2",
+     "type": "sentence",
+     "en": "Some animals look strange.",
+     "zh": "有些动物看起来很奇怪。",
+     "audio": "audio/all/6594_some_animals_look_strange.mp3",
+     "slow": "audio/all/6594_some_animals_look_strange.mp3",
+     "image": "img/raz-c-strange_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_strange_animals-p3",
+     "type": "sentence",
+     "en": "A panda ant looks strange.",
+     "zh": "熊猫蚂蚁看起来很奇怪。",
+     "audio": "audio/all/6595_a_panda_ant_looks_strange.mp3",
+     "slow": "audio/all/6595_a_panda_ant_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_strange_animals-p4",
+     "type": "sentence",
+     "en": "A blue dragon looks strange.",
+     "zh": "蓝龙看起来很奇怪。",
+     "audio": "audio/all/6596_a_blue_dragon_looks_strange.mp3",
+     "slow": "audio/all/6596_a_blue_dragon_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_strange_animals-p5",
+     "type": "sentence",
+     "en": "A star spider looks strange.",
+     "zh": "星蛛看起来很奇怪。",
+     "audio": "audio/all/6597_a_star_spider_looks_strange.mp3",
+     "slow": "audio/all/6597_a_star_spider_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_strange_animals-p6",
+     "type": "sentence",
+     "en": "A turtle frog looks strange.",
+     "zh": "龟蛙看起来很奇怪。",
+     "audio": "audio/all/6598_a_turtle_frog_looks_strange.mp3",
+     "slow": "audio/all/6598_a_turtle_frog_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_strange_animals-p7",
+     "type": "sentence",
+     "en": "A rosy moth looks strange.",
+     "zh": "玫色蛾看起来很奇怪。",
+     "audio": "audio/all/6599_a_rosy_moth_looks_strange.mp3",
+     "slow": "audio/all/6599_a_rosy_moth_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_strange_animals-p8",
+     "type": "sentence",
+     "en": "A water bear looks strange.",
+     "zh": "水熊虫看起来很奇怪。",
+     "audio": "audio/all/6600_a_water_bear_looks_strange.mp3",
+     "slow": "audio/all/6600_a_water_bear_looks_strange.mp3",
+     "image": "img/raz-c-strange_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_strange_animals-p9",
+     "type": "sentence",
+     "en": "Do these animals look strange?",
+     "zh": "这些动物看起来奇怪吗？",
+     "audio": "audio/all/6601_do_these_animals_look_strange.mp3",
+     "slow": "audio/all/6601_do_these_animals_look_strange.mp3",
+     "image": "img/raz-c-strange_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

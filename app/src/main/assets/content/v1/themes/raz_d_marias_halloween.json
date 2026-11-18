@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_marias_halloween",
+ "nameZh": "玛丽亚的万圣节",
+ "bookTitle": "Maria's Halloween",
+ "razLevel": "D",
+ "order": 42,
+ "cover": "img/raz-d-marias_halloween-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_marias_halloween-u1",
+   "band": 2,
+   "title": "Maria's Halloween · 玛丽亚的万圣节",
+   "cards": [
+    {
+     "id": "raz_d_marias_halloween-p1",
+     "type": "sentence",
+     "en": "It is Halloween.",
+     "zh": "今天是万圣节。",
+     "audio": "audio/all/7665_it_is_halloween.mp3",
+     "slow": "audio/all/7665_it_is_halloween.mp3",
+     "image": "img/raz-d-marias_halloween-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_marias_halloween-p2",
+     "type": "sentence",
+     "en": "Maria, Emily, and Luis go trick or treating.",
+     "zh": "玛丽亚、艾米丽和路易斯去讨糖。",
+     "audio": "audio/all/7666_maria_emily_and_luis_go_trick_or_treat.mp3",
+     "slow": "audio/all/7666_maria_emily_and_luis_go_trick_or_treat.mp3",
+     "image": "img/raz-d-marias_halloween-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_marias_halloween-p3",
+     "type": "sentence",
+     "en": "Look at Mr. Johnson's spider.",
+     "zh": "看约翰逊先生的蜘蛛。",
+     "audio": "audio/all/7667_look_at_mr_johnson_s_spider.mp3",
+     "slow": "audio/all/7667_look_at_mr_johnson_s_spider.mp3",
+     "image": "img/raz-d-marias_halloween-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_marias_halloween-p4",
+     "type": "sentence",
+     "en": "Trick or treat, Mr. Johnson.",
+     "zh": "不给糖就捣蛋，约翰逊先生。",
+     "audio": "audio/all/7668_trick_or_treat_mr_johnson.mp3",
+     "slow": "audio/all/7668_trick_or_treat_mr_johnson.mp3",
+     "image": "img/raz-d-marias_halloween-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_marias_halloween-p5",
+     "type": "sentence",
+     "en": "Thank you for the treat, Mr. Johnson.",
+     "zh": "谢谢您的糖，约翰逊先生。",
+     "audio": "audio/all/7669_thank_you_for_the_treat_mr_johnson.mp3",
+     "slow": "audio/all/7669_thank_you_for_the_treat_mr_johnson.mp3",
+     "image": "img/raz-d-marias_halloween-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_marias_halloween-p6",
+     "type": "sentence",
+     "en": "Look at Mrs. Florio's ghost.",
+     "zh": "看弗洛里奥太太的幽灵。",
+     "audio": "audio/all/7670_look_at_mrs_florio_s_ghost.mp3",
+     "slow": "audio/all/7670_look_at_mrs_florio_s_ghost.mp3",
+     "image": "img/raz-d-marias_halloween-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_marias_halloween-p7",
+     "type": "sentence",
+     "en": "Trick or treat, Mrs. Florio.",
+     "zh": "不给糖就捣蛋，弗洛里奥太太。",
+     "audio": "audio/all/7671_trick_or_treat_mrs_florio.mp3",
+     "slow": "audio/all/7671_trick_or_treat_mrs_florio.mp3",
+     "image": "img/raz-d-marias_halloween-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_marias_halloween-p8",
+     "type": "sentence",
+     "en": "Thank you for the treat, Mrs. Florio.",
+     "zh": "谢谢您的糖，弗洛里奥太太。",
+     "audio": "audio/all/7672_thank_you_for_the_treat_mrs_florio.mp3",
+     "slow": "audio/all/7672_thank_you_for_the_treat_mrs_florio.mp3",
+     "image": "img/raz-d-marias_halloween-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_marias_halloween-p9",
+     "type": "sentence",
+     "en": "Look at Ms. White's pumpkin.",
+     "zh": "看怀特老师的南瓜。",
+     "audio": "audio/all/7673_look_at_ms_white_s_pumpkin.mp3",
+     "slow": "audio/all/7673_look_at_ms_white_s_pumpkin.mp3",
+     "image": "img/raz-d-marias_halloween-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_marias_halloween-p10",
+     "type": "sentence",
+     "en": "Trick or treat, Ms. White.",
+     "zh": "不给糖就捣蛋，怀特老师。",
+     "audio": "audio/all/7674_trick_or_treat_ms_white.mp3",
+     "slow": "audio/all/7674_trick_or_treat_ms_white.mp3",
+     "image": "img/raz-d-marias_halloween-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_marias_halloween-p11",
+     "type": "sentence",
+     "en": "Thank you for the treat, Ms. White.",
+     "zh": "谢谢您的糖，怀特老师。",
+     "audio": "audio/all/7675_thank_you_for_the_treat_ms_white.mp3",
+     "slow": "audio/all/7675_thank_you_for_the_treat_ms_white.mp3",
+     "image": "img/raz-d-marias_halloween-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_marias_halloween-p12",
+     "type": "sentence",
+     "en": "Look at our black cat.",
+     "zh": "看我们的黑猫。",
+     "audio": "audio/all/7676_look_at_our_black_cat.mp3",
+     "slow": "audio/all/7676_look_at_our_black_cat.mp3",
+     "image": "img/raz-d-marias_halloween-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_marias_halloween-p13",
+     "type": "sentence",
+     "en": "Trick or treat, Abuela.",
+     "zh": "不给糖就捣蛋，外婆。",
+     "audio": "audio/all/7677_trick_or_treat_abuela.mp3",
+     "slow": "audio/all/7677_trick_or_treat_abuela.mp3",
+     "image": "img/raz-d-marias_halloween-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_marias_halloween-p14",
+     "type": "sentence",
+     "en": "Mama and Papa play a trick!",
+     "zh": "妈妈和爸爸开了个玩笑！",
+     "audio": "audio/all/7678_mama_and_papa_play_a_trick.mp3",
+     "slow": "audio/all/7678_mama_and_papa_play_a_trick.mp3",
+     "image": "img/raz-d-marias_halloween-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

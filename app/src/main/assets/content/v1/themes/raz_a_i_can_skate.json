@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_can_skate",
+ "nameZh": "我会滑冰",
+ "bookTitle": "I Can Skate",
+ "razLevel": "A",
+ "order": 28,
+ "cover": "img/raz-a-i_can_skate-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_can_skate-u1",
+   "band": 2,
+   "title": "I Can Skate · 我会滑冰",
+   "cards": [
+    {
+     "id": "raz_a_i_can_skate-p1",
+     "type": "sentence",
+     "en": "I can skate fast.",
+     "zh": "我能滑得快。",
+     "audio": "audio/all/5319_i_can_skate_fast.mp3",
+     "slow": "audio/all/5319_i_can_skate_fast.mp3",
+     "image": "img/raz-a-i_can_skate-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_can_skate-p2",
+     "type": "sentence",
+     "en": "I can skate slow.",
+     "zh": "我能滑得慢。",
+     "audio": "audio/all/5320_i_can_skate_slow.mp3",
+     "slow": "audio/all/5320_i_can_skate_slow.mp3",
+     "image": "img/raz-a-i_can_skate-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_can_skate-p3",
+     "type": "sentence",
+     "en": "I can skate forward.",
+     "zh": "我能向前滑。",
+     "audio": "audio/all/5321_i_can_skate_forward.mp3",
+     "slow": "audio/all/5321_i_can_skate_forward.mp3",
+     "image": "img/raz-a-i_can_skate-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_can_skate-p4",
+     "type": "sentence",
+     "en": "I can skate backward.",
+     "zh": "我能向后滑。",
+     "audio": "audio/all/5322_i_can_skate_backward.mp3",
+     "slow": "audio/all/5322_i_can_skate_backward.mp3",
+     "image": "img/raz-a-i_can_skate-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_can_skate-p5",
+     "type": "sentence",
+     "en": "I can spin.",
+     "zh": "我能旋转。",
+     "audio": "audio/all/5323_i_can_spin.mp3",
+     "slow": "audio/all/5323_i_can_spin.mp3",
+     "image": "img/raz-a-i_can_skate-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_can_skate-p6",
+     "type": "sentence",
+     "en": "I can jump.",
+     "zh": "我能跳跃。",
+     "audio": "audio/all/5324_i_can_jump.mp3",
+     "slow": "audio/all/5324_i_can_jump.mp3",
+     "image": "img/raz-a-i_can_skate-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_can_skate-p7",
+     "type": "sentence",
+     "en": "I can fall.",
+     "zh": "我能摔倒。",
+     "audio": "audio/all/5325_i_can_fall.mp3",
+     "slow": "audio/all/5325_i_can_fall.mp3",
+     "image": "img/raz-a-i_can_skate-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_can_skate-p8",
+     "type": "sentence",
+     "en": "I can have fun.",
+     "zh": "我能玩得开心。",
+     "audio": "audio/all/5326_i_can_have_fun.mp3",
+     "slow": "audio/all/5326_i_can_have_fun.mp3",
+     "image": "img/raz-a-i_can_skate-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "You can go over.",
      "zh": "你可以从上面过去。",
-     "audio": "audio/all/3681_you_can_go_over.mp3",
-     "slow": "audio/all/3681_you_can_go_over.mp3",
+     "audio": "audio/all/9081_you_can_go_over.mp3",
+     "slow": "audio/all/9081_you_can_go_over.mp3",
      "image": "img/raz-b-you_can_go-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "You can go under.",
      "zh": "你可以从下面过去。",
-     "audio": "audio/all/3682_you_can_go_under.mp3",
-     "slow": "audio/all/3682_you_can_go_under.mp3",
+     "audio": "audio/all/9082_you_can_go_under.mp3",
+     "slow": "audio/all/9082_you_can_go_under.mp3",
      "image": "img/raz-b-you_can_go-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "You can go around.",
      "zh": "你可以绕过去。",
-     "audio": "audio/all/3683_you_can_go_around.mp3",
-     "slow": "audio/all/3683_you_can_go_around.mp3",
+     "audio": "audio/all/9083_you_can_go_around.mp3",
+     "slow": "audio/all/9083_you_can_go_around.mp3",
      "image": "img/raz-b-you_can_go-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "You can go through.",
      "zh": "你可以穿过去。",
-     "audio": "audio/all/3684_you_can_go_through.mp3",
-     "slow": "audio/all/3684_you_can_go_through.mp3",
+     "audio": "audio/all/9084_you_can_go_through.mp3",
+     "slow": "audio/all/9084_you_can_go_through.mp3",
      "image": "img/raz-b-you_can_go-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "You can go forward.",
      "zh": "你可以向前走。",
-     "audio": "audio/all/3685_you_can_go_forward.mp3",
-     "slow": "audio/all/3685_you_can_go_forward.mp3",
+     "audio": "audio/all/9085_you_can_go_forward.mp3",
+     "slow": "audio/all/9085_you_can_go_forward.mp3",
      "image": "img/raz-b-you_can_go-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "You can go backward.",
      "zh": "你可以向后走。",
-     "audio": "audio/all/3686_you_can_go_backward.mp3",
-     "slow": "audio/all/3686_you_can_go_backward.mp3",
+     "audio": "audio/all/9086_you_can_go_backward.mp3",
+     "slow": "audio/all/9086_you_can_go_backward.mp3",
      "image": "img/raz-b-you_can_go-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "You can go across.",
      "zh": "你可以横着走过去。",
-     "audio": "audio/all/3687_you_can_go_across.mp3",
-     "slow": "audio/all/3687_you_can_go_across.mp3",
+     "audio": "audio/all/9087_you_can_go_across.mp3",
+     "slow": "audio/all/9087_you_can_go_across.mp3",
      "image": "img/raz-b-you_can_go-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "I can go with you.",
      "zh": "我可以陪着你走。",
-     "audio": "audio/all/3688_i_can_go_with_you.mp3",
-     "slow": "audio/all/3688_i_can_go_with_you.mp3",
+     "audio": "audio/all/9088_i_can_go_with_you.mp3",
+     "slow": "audio/all/9088_i_can_go_with_you.mp3",
      "image": "img/raz-b-you_can_go-p08.jpg",
      "page": 8
     }

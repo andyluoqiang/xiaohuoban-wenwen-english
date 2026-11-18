@@ -1,0 +1,147 @@
+{
+ "theme": "raz_c_rocks",
+ "nameZh": "岩石",
+ "bookTitle": "Rocks",
+ "razLevel": "C",
+ "order": 45,
+ "cover": "img/raz-c-rocks-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_rocks-u1",
+   "band": 2,
+   "title": "Rocks · 岩石",
+   "cards": [
+    {
+     "id": "raz_c_rocks-p1",
+     "type": "sentence",
+     "en": "This is a mountain.",
+     "zh": "这是一座山。",
+     "audio": "audio/all/6513_this_is_a_mountain.mp3",
+     "slow": "audio/all/6513_this_is_a_mountain.mp3",
+     "image": "img/raz-c-rocks-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_rocks-p2",
+     "type": "sentence",
+     "en": "A mountain is made of rock.",
+     "zh": "山是由岩石构成的。",
+     "audio": "audio/all/6514_a_mountain_is_made_of_rock.mp3",
+     "slow": "audio/all/6514_a_mountain_is_made_of_rock.mp3",
+     "image": "img/raz-c-rocks-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_rocks-p3",
+     "type": "sentence",
+     "en": "This is a boulder.",
+     "zh": "这是一块巨石。",
+     "audio": "audio/all/6515_this_is_a_boulder.mp3",
+     "slow": "audio/all/6515_this_is_a_boulder.mp3",
+     "image": "img/raz-c-rocks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_rocks-p4",
+     "type": "sentence",
+     "en": "It broke off the mountain.",
+     "zh": "它从山上裂下来。",
+     "audio": "audio/all/6516_it_broke_off_the_mountain.mp3",
+     "slow": "audio/all/6516_it_broke_off_the_mountain.mp3",
+     "image": "img/raz-c-rocks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_rocks-p5",
+     "type": "sentence",
+     "en": "This is a stone.",
+     "zh": "这是一块石头。",
+     "audio": "audio/all/6517_this_is_a_stone.mp3",
+     "slow": "audio/all/6517_this_is_a_stone.mp3",
+     "image": "img/raz-c-rocks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_rocks-p6",
+     "type": "sentence",
+     "en": "It broke off the boulder.",
+     "zh": "它从巨石上裂下来。",
+     "audio": "audio/all/6518_it_broke_off_the_boulder.mp3",
+     "slow": "audio/all/6518_it_broke_off_the_boulder.mp3",
+     "image": "img/raz-c-rocks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_rocks-p7",
+     "type": "sentence",
+     "en": "This is a pebble.",
+     "zh": "这是一块小石子。",
+     "audio": "audio/all/6519_this_is_a_pebble.mp3",
+     "slow": "audio/all/6519_this_is_a_pebble.mp3",
+     "image": "img/raz-c-rocks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_rocks-p8",
+     "type": "sentence",
+     "en": "It broke off the stone.",
+     "zh": "它从石头上裂下来。",
+     "audio": "audio/all/6520_it_broke_off_the_stone.mp3",
+     "slow": "audio/all/6520_it_broke_off_the_stone.mp3",
+     "image": "img/raz-c-rocks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_rocks-p9",
+     "type": "sentence",
+     "en": "This is sand.",
+     "zh": "这是沙子。",
+     "audio": "audio/all/6521_this_is_sand.mp3",
+     "slow": "audio/all/6521_this_is_sand.mp3",
+     "image": "img/raz-c-rocks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_rocks-p10",
+     "type": "sentence",
+     "en": "It broke off the pebble.",
+     "zh": "它从小石子上磨下来。",
+     "audio": "audio/all/6522_it_broke_off_the_pebble.mp3",
+     "slow": "audio/all/6522_it_broke_off_the_pebble.mp3",
+     "image": "img/raz-c-rocks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_rocks-p11",
+     "type": "sentence",
+     "en": "This is dust.",
+     "zh": "这是尘土。",
+     "audio": "audio/all/6523_this_is_dust.mp3",
+     "slow": "audio/all/6523_this_is_dust.mp3",
+     "image": "img/raz-c-rocks-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_rocks-p12",
+     "type": "sentence",
+     "en": "Dust is the tiniest piece of rock.",
+     "zh": "尘土是最小的岩石颗粒。",
+     "audio": "audio/all/6524_dust_is_the_tiniest_piece_of_rock.mp3",
+     "slow": "audio/all/6524_dust_is_the_tiniest_piece_of_rock.mp3",
+     "image": "img/raz-c-rocks-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_rocks-p13",
+     "type": "sentence",
+     "en": "Dust is everywhere.",
+     "zh": "尘土无处不在。",
+     "audio": "audio/all/6525_dust_is_everywhere.mp3",
+     "slow": "audio/all/6525_dust_is_everywhere.mp3",
+     "image": "img/raz-c-rocks-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

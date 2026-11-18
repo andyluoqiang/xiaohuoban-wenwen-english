@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_we_give_away",
+ "nameZh": "我们送出去",
+ "bookTitle": "We Give Away",
+ "razLevel": "D",
+ "order": 73,
+ "cover": "img/raz-d-we_give_away-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_we_give_away-u1",
+   "band": 2,
+   "title": "We Give Away · 我们送出去",
+   "cards": [
+    {
+     "id": "raz_d_we_give_away-p1",
+     "type": "sentence",
+     "en": "Mom and I are giving away old things.",
+     "zh": "妈妈和我在把旧东西送出去。",
+     "audio": "audio/all/8113_mom_and_i_are_giving_away_old_things.mp3",
+     "slow": "audio/all/8113_mom_and_i_are_giving_away_old_things.mp3",
+     "image": "img/raz-d-we_give_away-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_we_give_away-p2",
+     "type": "sentence",
+     "en": "I put my old bear in the pile.",
+     "zh": "我把旧小熊放进堆里。",
+     "audio": "audio/all/8114_i_put_my_old_bear_in_the_pile.mp3",
+     "slow": "audio/all/8114_i_put_my_old_bear_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_we_give_away-p3",
+     "type": "sentence",
+     "en": "I put my old puzzle in the pile.",
+     "zh": "我把旧拼图放进堆里。",
+     "audio": "audio/all/8115_i_put_my_old_puzzle_in_the_pile.mp3",
+     "slow": "audio/all/8115_i_put_my_old_puzzle_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_we_give_away-p4",
+     "type": "sentence",
+     "en": "I put my old toy in the pile.",
+     "zh": "我把旧玩具放进堆里。",
+     "audio": "audio/all/8116_i_put_my_old_toy_in_the_pile.mp3",
+     "slow": "audio/all/8116_i_put_my_old_toy_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_we_give_away-p5",
+     "type": "sentence",
+     "en": "I put my old boots in the pile.",
+     "zh": "我把旧靴子放进堆里。",
+     "audio": "audio/all/8117_i_put_my_old_boots_in_the_pile.mp3",
+     "slow": "audio/all/8117_i_put_my_old_boots_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_we_give_away-p6",
+     "type": "sentence",
+     "en": "I put my old hat in the pile.",
+     "zh": "我把旧帽子放进堆里。",
+     "audio": "audio/all/8118_i_put_my_old_hat_in_the_pile.mp3",
+     "slow": "audio/all/8118_i_put_my_old_hat_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_we_give_away-p7",
+     "type": "sentence",
+     "en": "I put my old blanket in the pile.",
+     "zh": "我把旧毯子放进堆里。",
+     "audio": "audio/all/8119_i_put_my_old_blanket_in_the_pile.mp3",
+     "slow": "audio/all/8119_i_put_my_old_blanket_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_we_give_away-p8",
+     "type": "sentence",
+     "en": "I put my old book in the pile.",
+     "zh": "我把旧书放进堆里。",
+     "audio": "audio/all/8120_i_put_my_old_book_in_the_pile.mp3",
+     "slow": "audio/all/8120_i_put_my_old_book_in_the_pile.mp3",
+     "image": "img/raz-d-we_give_away-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_we_give_away-p9",
+     "type": "sentence",
+     "en": "It feels good to give away old things.",
+     "zh": "把旧东西送出去感觉真好。",
+     "audio": "audio/all/8121_it_feels_good_to_give_away_old_things.mp3",
+     "slow": "audio/all/8121_it_feels_good_to_give_away_old_things.mp3",
+     "image": "img/raz-d-we_give_away-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_we_give_away-p10",
+     "type": "sentence",
+     "en": "It feels great to keep my old bear.",
+     "zh": "把旧小熊留下来感觉更棒。",
+     "audio": "audio/all/8122_it_feels_great_to_keep_my_old_bear.mp3",
+     "slow": "audio/all/8122_it_feels_great_to_keep_my_old_bear.mp3",
+     "image": "img/raz-d-we_give_away-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

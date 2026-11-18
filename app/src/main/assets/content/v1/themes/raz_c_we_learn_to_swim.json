@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_we_learn_to_swim",
+ "nameZh": "我们学游泳",
+ "bookTitle": "We Learn to Swim",
+ "razLevel": "C",
+ "order": 70,
+ "cover": "img/raz-c-we_learn_to_swim-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_we_learn_to_swim-u1",
+   "band": 2,
+   "title": "We Learn to Swim · 我们学游泳",
+   "cards": [
+    {
+     "id": "raz_c_we_learn_to_swim-p1",
+     "type": "sentence",
+     "en": "We are learning to swim this week.",
+     "zh": "这周我们在学游泳。",
+     "audio": "audio/all/6787_we_are_learning_to_swim_this_week.mp3",
+     "slow": "audio/all/6787_we_are_learning_to_swim_this_week.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p2",
+     "type": "sentence",
+     "en": "What are we going to learn?",
+     "zh": "我们要学什么呢？",
+     "audio": "audio/all/6788_what_are_we_going_to_learn.mp3",
+     "slow": "audio/all/6788_what_are_we_going_to_learn.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p3",
+     "type": "sentence",
+     "en": "It is Monday.",
+     "zh": "今天是星期一。",
+     "audio": "audio/all/6789_it_is_monday.mp3",
+     "slow": "audio/all/6789_it_is_monday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p4",
+     "type": "sentence",
+     "en": "We learn to blow bubbles.",
+     "zh": "我们学吹泡泡。",
+     "audio": "audio/all/6790_we_learn_to_blow_bubbles.mp3",
+     "slow": "audio/all/6790_we_learn_to_blow_bubbles.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p5",
+     "type": "sentence",
+     "en": "It is Tuesday.",
+     "zh": "今天是星期二。",
+     "audio": "audio/all/6791_it_is_tuesday.mp3",
+     "slow": "audio/all/6791_it_is_tuesday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p6",
+     "type": "sentence",
+     "en": "We learn to kick.",
+     "zh": "我们学踢水。",
+     "audio": "audio/all/6792_we_learn_to_kick.mp3",
+     "slow": "audio/all/6792_we_learn_to_kick.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p7",
+     "type": "sentence",
+     "en": "It is Wednesday.",
+     "zh": "今天是星期三。",
+     "audio": "audio/all/6793_it_is_wednesday.mp3",
+     "slow": "audio/all/6793_it_is_wednesday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p8",
+     "type": "sentence",
+     "en": "We learn to paddle.",
+     "zh": "我们学划水。",
+     "audio": "audio/all/6794_we_learn_to_paddle.mp3",
+     "slow": "audio/all/6794_we_learn_to_paddle.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p9",
+     "type": "sentence",
+     "en": "It is Thursday.",
+     "zh": "今天是星期四。",
+     "audio": "audio/all/6795_it_is_thursday.mp3",
+     "slow": "audio/all/6795_it_is_thursday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p10",
+     "type": "sentence",
+     "en": "We learn to dunk.",
+     "zh": "我们学 dunk 浸水。",
+     "audio": "audio/all/6796_we_learn_to_dunk.mp3",
+     "slow": "audio/all/6796_we_learn_to_dunk.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p11",
+     "type": "sentence",
+     "en": "It is Friday.",
+     "zh": "今天是星期五。",
+     "audio": "audio/all/6797_it_is_friday.mp3",
+     "slow": "audio/all/6797_it_is_friday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p12",
+     "type": "sentence",
+     "en": "We learn to float.",
+     "zh": "我们学漂浮。",
+     "audio": "audio/all/6798_we_learn_to_float.mp3",
+     "slow": "audio/all/6798_we_learn_to_float.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p13",
+     "type": "sentence",
+     "en": "It is Saturday.",
+     "zh": "今天是星期六。",
+     "audio": "audio/all/6799_it_is_saturday.mp3",
+     "slow": "audio/all/6799_it_is_saturday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p14",
+     "type": "sentence",
+     "en": "We learn to jump.",
+     "zh": "我们学跳水。",
+     "audio": "audio/all/6800_we_learn_to_jump.mp3",
+     "slow": "audio/all/6800_we_learn_to_jump.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p15",
+     "type": "sentence",
+     "en": "It is Sunday.",
+     "zh": "今天是星期日。",
+     "audio": "audio/all/6801_it_is_sunday.mp3",
+     "slow": "audio/all/6801_it_is_sunday.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_we_learn_to_swim-p16",
+     "type": "sentence",
+     "en": "Now we practice what we have learned!",
+     "zh": "现在我们练习学过的内容！",
+     "audio": "audio/all/6802_now_we_practice_what_we_have_learned.mp3",
+     "slow": "audio/all/6802_now_we_practice_what_we_have_learned.mp3",
+     "image": "img/raz-c-we_learn_to_swim-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

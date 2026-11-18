@@ -1,0 +1,157 @@
+{
+ "theme": "raz_c_all_about_spiders",
+ "nameZh": "关于蜘蛛",
+ "bookTitle": "All About Spiders",
+ "razLevel": "C",
+ "order": 4,
+ "cover": "img/raz-c-all_about_spiders-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_all_about_spiders-u1",
+   "band": 2,
+   "title": "All About Spiders · 关于蜘蛛",
+   "cards": [
+    {
+     "id": "raz_c_all_about_spiders-p1",
+     "type": "sentence",
+     "en": "There are many kinds of spiders.",
+     "zh": "蜘蛛有很多种。",
+     "audio": "audio/all/6036_there_are_many_kinds_of_spiders.mp3",
+     "slow": "audio/all/6036_there_are_many_kinds_of_spiders.mp3",
+     "image": "img/raz-c-all_about_spiders-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_all_about_spiders-p2",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6037_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6037_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_all_about_spiders-p3",
+     "type": "sentence",
+     "en": "It eats bugs.",
+     "zh": "它吃虫子。",
+     "audio": "audio/all/6038_it_eats_bugs.mp3",
+     "slow": "audio/all/6038_it_eats_bugs.mp3",
+     "image": "img/raz-c-all_about_spiders-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_all_about_spiders-p4",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6039_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6039_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_spiders-p5",
+     "type": "sentence",
+     "en": "It can climb.",
+     "zh": "它会爬。",
+     "audio": "audio/all/6040_it_can_climb.mp3",
+     "slow": "audio/all/6040_it_can_climb.mp3",
+     "image": "img/raz-c-all_about_spiders-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_spiders-p6",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6041_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6041_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_spiders-p7",
+     "type": "sentence",
+     "en": "It can make silk.",
+     "zh": "它会吐丝。",
+     "audio": "audio/all/6042_it_can_make_silk.mp3",
+     "slow": "audio/all/6042_it_can_make_silk.mp3",
+     "image": "img/raz-c-all_about_spiders-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_spiders-p8",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6043_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6043_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_spiders-p9",
+     "type": "sentence",
+     "en": "It has many eyes.",
+     "zh": "它有很多眼睛。",
+     "audio": "audio/all/6044_it_has_many_eyes.mp3",
+     "slow": "audio/all/6044_it_has_many_eyes.mp3",
+     "image": "img/raz-c-all_about_spiders-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_spiders-p10",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6045_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6045_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_spiders-p11",
+     "type": "sentence",
+     "en": "It lays eggs.",
+     "zh": "它会产卵。",
+     "audio": "audio/all/6046_it_lays_eggs.mp3",
+     "slow": "audio/all/6046_it_lays_eggs.mp3",
+     "image": "img/raz-c-all_about_spiders-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_spiders-p12",
+     "type": "sentence",
+     "en": "A spider has eight legs.",
+     "zh": "蜘蛛有八条腿。",
+     "audio": "audio/all/6047_a_spider_has_eight_legs.mp3",
+     "slow": "audio/all/6047_a_spider_has_eight_legs.mp3",
+     "image": "img/raz-c-all_about_spiders-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_spiders-p13",
+     "type": "sentence",
+     "en": "It can live outside.",
+     "zh": "它可以住在室外。",
+     "audio": "audio/all/6048_it_can_live_outside.mp3",
+     "slow": "audio/all/6048_it_can_live_outside.mp3",
+     "image": "img/raz-c-all_about_spiders-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_spiders-p14",
+     "type": "sentence",
+     "en": "It can live inside, too!",
+     "zh": "也可以住在室内！",
+     "audio": "audio/all/6049_it_can_live_inside_too.mp3",
+     "slow": "audio/all/6049_it_can_live_inside_too.mp3",
+     "image": "img/raz-c-all_about_spiders-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

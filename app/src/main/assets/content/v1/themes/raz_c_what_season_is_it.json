@@ -1,0 +1,137 @@
+{
+ "theme": "raz_c_what_season_is_it",
+ "nameZh": "现在是什么季节",
+ "bookTitle": "What Season Is It?",
+ "razLevel": "C",
+ "order": 79,
+ "cover": "img/raz-c-what_season_is_it-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_season_is_it-u1",
+   "band": 2,
+   "title": "What Season Is It? · 现在是什么季节",
+   "cards": [
+    {
+     "id": "raz_c_what_season_is_it-p1",
+     "type": "sentence",
+     "en": "The leaves change color.",
+     "zh": "叶子变色了。",
+     "audio": "audio/all/6896_the_leaves_change_color.mp3",
+     "slow": "audio/all/6896_the_leaves_change_color.mp3",
+     "image": "img/raz-c-what_season_is_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_season_is_it-p2",
+     "type": "sentence",
+     "en": "When do leaves change color?",
+     "zh": "叶子什么时候变色？",
+     "audio": "audio/all/6897_when_do_leaves_change_color.mp3",
+     "slow": "audio/all/6897_when_do_leaves_change_color.mp3",
+     "image": "img/raz-c-what_season_is_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_season_is_it-p3",
+     "type": "sentence",
+     "en": "Leaves change color in fall.",
+     "zh": "叶子在秋天变色。",
+     "audio": "audio/all/6898_leaves_change_color_in_fall.mp3",
+     "slow": "audio/all/6898_leaves_change_color_in_fall.mp3",
+     "image": "img/raz-c-what_season_is_it-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_season_is_it-p4",
+     "type": "sentence",
+     "en": "The snow falls.",
+     "zh": "下雪了。",
+     "audio": "audio/all/6899_the_snow_falls.mp3",
+     "slow": "audio/all/6899_the_snow_falls.mp3",
+     "image": "img/raz-c-what_season_is_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_season_is_it-p5",
+     "type": "sentence",
+     "en": "When does snow fall?",
+     "zh": "雪什么时候下？",
+     "audio": "audio/all/6900_when_does_snow_fall.mp3",
+     "slow": "audio/all/6900_when_does_snow_fall.mp3",
+     "image": "img/raz-c-what_season_is_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_season_is_it-p6",
+     "type": "sentence",
+     "en": "Snow falls in winter.",
+     "zh": "雪在冬天下。",
+     "audio": "audio/all/6901_snow_falls_in_winter.mp3",
+     "slow": "audio/all/6901_snow_falls_in_winter.mp3",
+     "image": "img/raz-c-what_season_is_it-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_season_is_it-p7",
+     "type": "sentence",
+     "en": "The flowers grow.",
+     "zh": "花开了。",
+     "audio": "audio/all/6902_the_flowers_grow.mp3",
+     "slow": "audio/all/6902_the_flowers_grow.mp3",
+     "image": "img/raz-c-what_season_is_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_season_is_it-p8",
+     "type": "sentence",
+     "en": "When do flowers grow?",
+     "zh": "花什么时候开？",
+     "audio": "audio/all/6903_when_do_flowers_grow.mp3",
+     "slow": "audio/all/6903_when_do_flowers_grow.mp3",
+     "image": "img/raz-c-what_season_is_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_season_is_it-p9",
+     "type": "sentence",
+     "en": "Flowers grow in spring.",
+     "zh": "花在春天开。",
+     "audio": "audio/all/6904_flowers_grow_in_spring.mp3",
+     "slow": "audio/all/6904_flowers_grow_in_spring.mp3",
+     "image": "img/raz-c-what_season_is_it-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_season_is_it-p10",
+     "type": "sentence",
+     "en": "The days become hot.",
+     "zh": "天变热了。",
+     "audio": "audio/all/6905_the_days_become_hot.mp3",
+     "slow": "audio/all/6905_the_days_become_hot.mp3",
+     "image": "img/raz-c-what_season_is_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_season_is_it-p11",
+     "type": "sentence",
+     "en": "When do days become hot?",
+     "zh": "天什么时候变热？",
+     "audio": "audio/all/6906_when_do_days_become_hot.mp3",
+     "slow": "audio/all/6906_when_do_days_become_hot.mp3",
+     "image": "img/raz-c-what_season_is_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_season_is_it-p12",
+     "type": "sentence",
+     "en": "Days become hot in summer.",
+     "zh": "天在夏天变热。",
+     "audio": "audio/all/6907_days_become_hot_in_summer.mp3",
+     "slow": "audio/all/6907_days_become_hot_in_summer.mp3",
+     "image": "img/raz-c-what_season_is_it-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

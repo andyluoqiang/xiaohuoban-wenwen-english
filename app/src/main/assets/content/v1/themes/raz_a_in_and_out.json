@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_in_and_out",
+ "nameZh": "进和出",
+ "bookTitle": "In and Out",
+ "razLevel": "A",
+ "order": 36,
+ "cover": "img/raz-a-in_and_out-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_in_and_out-u1",
+   "band": 2,
+   "title": "In and Out · 进和出",
+   "cards": [
+    {
+     "id": "raz_a_in_and_out-p1",
+     "type": "sentence",
+     "en": "The dogs go in.",
+     "zh": "狗进去了。",
+     "audio": "audio/all/5383_the_dogs_go_in.mp3",
+     "slow": "audio/all/5383_the_dogs_go_in.mp3",
+     "image": "img/raz-a-in_and_out-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_in_and_out-p2",
+     "type": "sentence",
+     "en": "The dogs go out.",
+     "zh": "狗出来了。",
+     "audio": "audio/all/5384_the_dogs_go_out.mp3",
+     "slow": "audio/all/5384_the_dogs_go_out.mp3",
+     "image": "img/raz-a-in_and_out-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_in_and_out-p3",
+     "type": "sentence",
+     "en": "The cats go in.",
+     "zh": "猫进去了。",
+     "audio": "audio/all/5385_the_cats_go_in.mp3",
+     "slow": "audio/all/5385_the_cats_go_in.mp3",
+     "image": "img/raz-a-in_and_out-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_in_and_out-p4",
+     "type": "sentence",
+     "en": "The cats go out.",
+     "zh": "猫出来了。",
+     "audio": "audio/all/5386_the_cats_go_out.mp3",
+     "slow": "audio/all/5386_the_cats_go_out.mp3",
+     "image": "img/raz-a-in_and_out-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_in_and_out-p5",
+     "type": "sentence",
+     "en": "The cows go in.",
+     "zh": "牛进去了。",
+     "audio": "audio/all/5387_the_cows_go_in.mp3",
+     "slow": "audio/all/5387_the_cows_go_in.mp3",
+     "image": "img/raz-a-in_and_out-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_in_and_out-p6",
+     "type": "sentence",
+     "en": "The cows go out.",
+     "zh": "牛出来了。",
+     "audio": "audio/all/5388_the_cows_go_out.mp3",
+     "slow": "audio/all/5388_the_cows_go_out.mp3",
+     "image": "img/raz-a-in_and_out-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_in_and_out-p7",
+     "type": "sentence",
+     "en": "The pigs go in.",
+     "zh": "猪进去了。",
+     "audio": "audio/all/5389_the_pigs_go_in.mp3",
+     "slow": "audio/all/5389_the_pigs_go_in.mp3",
+     "image": "img/raz-a-in_and_out-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_in_and_out-p8",
+     "type": "sentence",
+     "en": "Oh boy, mud.",
+     "zh": "哎呀，泥巴！",
+     "audio": "audio/all/5390_oh_boy_mud.mp3",
+     "slow": "audio/all/5390_oh_boy_mud.mp3",
+     "image": "img/raz-a-in_and_out-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

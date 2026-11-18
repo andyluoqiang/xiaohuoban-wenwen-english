@@ -1,4 +1,4 @@
-﻿local.properties
+local.properties
 build/
 .gradle/
 *.iml
@@ -6,3 +6,6 @@ build/
 captures/
 *.apk
 __pycache__/
+# 图片/音频为自用大资源，靠 APK 交付，不纳入 git（避免仓库膨胀超 GitHub 限制）
+app/src/main/assets/content/v1/img/
+app/src/main/assets/content/v1/audio/

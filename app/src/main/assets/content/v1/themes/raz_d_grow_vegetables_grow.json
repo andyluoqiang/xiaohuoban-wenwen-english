@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_grow_vegetables_grow",
+ "nameZh": "长吧，蔬菜，长吧",
+ "bookTitle": "Grow, Vegetables, Grow!",
+ "razLevel": "D",
+ "order": 28,
+ "cover": "img/raz-d-grow_vegetables_grow-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_grow_vegetables_grow-u1",
+   "band": 2,
+   "title": "Grow, Vegetables, Grow! · 长吧，蔬菜，长吧",
+   "cards": [
+    {
+     "id": "raz_d_grow_vegetables_grow-p1",
+     "type": "sentence",
+     "en": "I water the carrot plants.",
+     "zh": "我给胡萝卜苗浇水。",
+     "audio": "audio/all/7457_i_water_the_carrot_plants.mp3",
+     "slow": "audio/all/7457_i_water_the_carrot_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p2",
+     "type": "sentence",
+     "en": "Grow, carrots, grow!",
+     "zh": "长吧，胡萝卜，长吧！",
+     "audio": "audio/all/7458_grow_carrots_grow.mp3",
+     "slow": "audio/all/7458_grow_carrots_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p3",
+     "type": "sentence",
+     "en": "I water the pepper plants.",
+     "zh": "我给辣椒苗浇水。",
+     "audio": "audio/all/7459_i_water_the_pepper_plants.mp3",
+     "slow": "audio/all/7459_i_water_the_pepper_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p4",
+     "type": "sentence",
+     "en": "Grow, peppers, grow!",
+     "zh": "长吧，辣椒，长吧！",
+     "audio": "audio/all/7460_grow_peppers_grow.mp3",
+     "slow": "audio/all/7460_grow_peppers_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p5",
+     "type": "sentence",
+     "en": "I water the tomato plants.",
+     "zh": "我给番茄苗浇水。",
+     "audio": "audio/all/7461_i_water_the_tomato_plants.mp3",
+     "slow": "audio/all/7461_i_water_the_tomato_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p6",
+     "type": "sentence",
+     "en": "Grow, tomatoes, grow!",
+     "zh": "长吧，番茄，长吧！",
+     "audio": "audio/all/7462_grow_tomatoes_grow.mp3",
+     "slow": "audio/all/7462_grow_tomatoes_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p7",
+     "type": "sentence",
+     "en": "I water the green bean plants.",
+     "zh": "我给豆角苗浇水。",
+     "audio": "audio/all/7463_i_water_the_green_bean_plants.mp3",
+     "slow": "audio/all/7463_i_water_the_green_bean_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p8",
+     "type": "sentence",
+     "en": "Grow, green beans, grow!",
+     "zh": "长吧，豆角，长吧！",
+     "audio": "audio/all/7464_grow_green_beans_grow.mp3",
+     "slow": "audio/all/7464_grow_green_beans_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p9",
+     "type": "sentence",
+     "en": "I water the onion plants.",
+     "zh": "我给洋葱苗浇水。",
+     "audio": "audio/all/7465_i_water_the_onion_plants.mp3",
+     "slow": "audio/all/7465_i_water_the_onion_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p10",
+     "type": "sentence",
+     "en": "Grow, onions, grow!",
+     "zh": "长吧，洋葱，长吧！",
+     "audio": "audio/all/7466_grow_onions_grow.mp3",
+     "slow": "audio/all/7466_grow_onions_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p11",
+     "type": "sentence",
+     "en": "I water the cucumber plants.",
+     "zh": "我给黄瓜苗浇水。",
+     "audio": "audio/all/7467_i_water_the_cucumber_plants.mp3",
+     "slow": "audio/all/7467_i_water_the_cucumber_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p12",
+     "type": "sentence",
+     "en": "Grow, cucumbers, grow!",
+     "zh": "长吧，黄瓜，长吧！",
+     "audio": "audio/all/7468_grow_cucumbers_grow.mp3",
+     "slow": "audio/all/7468_grow_cucumbers_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p13",
+     "type": "sentence",
+     "en": "I water the pea plants.",
+     "zh": "我给豌豆苗浇水。",
+     "audio": "audio/all/7469_i_water_the_pea_plants.mp3",
+     "slow": "audio/all/7469_i_water_the_pea_plants.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p14",
+     "type": "sentence",
+     "en": "Grow, peas, grow!",
+     "zh": "长吧，豌豆，长吧！",
+     "audio": "audio/all/7470_grow_peas_grow.mp3",
+     "slow": "audio/all/7470_grow_peas_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p15",
+     "type": "sentence",
+     "en": "Grow, vegetables, grow!",
+     "zh": "长吧，蔬菜，长吧！",
+     "audio": "audio/all/7471_grow_vegetables_grow.mp3",
+     "slow": "audio/all/7471_grow_vegetables_grow.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_grow_vegetables_grow-p16",
+     "type": "sentence",
+     "en": "I want to make a salad!",
+     "zh": "我想做沙拉了！",
+     "audio": "audio/all/7472_i_want_to_make_a_salad.mp3",
+     "slow": "audio/all/7472_i_want_to_make_a_salad.mp3",
+     "image": "img/raz-d-grow_vegetables_grow-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

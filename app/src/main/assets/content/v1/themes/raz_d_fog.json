@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_fog",
+ "nameZh": "雾",
+ "bookTitle": "Fog",
+ "razLevel": "D",
+ "order": 22,
+ "cover": "img/raz-d-fog-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_fog-u1",
+   "band": 2,
+   "title": "Fog · 雾",
+   "cards": [
+    {
+     "id": "raz_d_fog-p1",
+     "type": "sentence",
+     "en": "Fog looks like low clouds.",
+     "zh": "雾看起来像低低的云。",
+     "audio": "audio/all/7382_fog_looks_like_low_clouds.mp3",
+     "slow": "audio/all/7382_fog_looks_like_low_clouds.mp3",
+     "image": "img/raz-d-fog-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_fog-p2",
+     "type": "sentence",
+     "en": "Fog looks white and spooky.",
+     "zh": "雾看起来又白又神秘。",
+     "audio": "audio/all/7383_fog_looks_white_and_spooky.mp3",
+     "slow": "audio/all/7383_fog_looks_white_and_spooky.mp3",
+     "image": "img/raz-d-fog-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_fog-p3",
+     "type": "sentence",
+     "en": "Fog can form out of small water drops.",
+     "zh": "雾可以由小水滴形成。",
+     "audio": "audio/all/7384_fog_can_form_out_of_small_water_drops.mp3",
+     "slow": "audio/all/7384_fog_can_form_out_of_small_water_drops.mp3",
+     "image": "img/raz-d-fog-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_fog-p4",
+     "type": "sentence",
+     "en": "Fog can form out of tiny pieces of ice.",
+     "zh": "雾可以由小冰晶形成。",
+     "audio": "audio/all/7385_fog_can_form_out_of_tiny_pieces_of_ice.mp3",
+     "slow": "audio/all/7385_fog_can_form_out_of_tiny_pieces_of_ice.mp3",
+     "image": "img/raz-d-fog-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_fog-p5",
+     "type": "sentence",
+     "en": "Fog sometimes forms near water.",
+     "zh": "雾有时在水边形成。",
+     "audio": "audio/all/7386_fog_sometimes_forms_near_water.mp3",
+     "slow": "audio/all/7386_fog_sometimes_forms_near_water.mp3",
+     "image": "img/raz-d-fog-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_fog-p6",
+     "type": "sentence",
+     "en": "Fog sometimes forms near mountains.",
+     "zh": "雾有时在山边形成。",
+     "audio": "audio/all/7387_fog_sometimes_forms_near_mountains.mp3",
+     "slow": "audio/all/7387_fog_sometimes_forms_near_mountains.mp3",
+     "image": "img/raz-d-fog-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_fog-p7",
+     "type": "sentence",
+     "en": "Fog sometimes forms over wet land.",
+     "zh": "雾有时在湿地上方形成。",
+     "audio": "audio/all/7388_fog_sometimes_forms_over_wet_land.mp3",
+     "slow": "audio/all/7388_fog_sometimes_forms_over_wet_land.mp3",
+     "image": "img/raz-d-fog-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_fog-p8",
+     "type": "sentence",
+     "en": "Fog always forms near the ground.",
+     "zh": "雾总是在近地面处形成。",
+     "audio": "audio/all/7389_fog_always_forms_near_the_ground.mp3",
+     "slow": "audio/all/7389_fog_always_forms_near_the_ground.mp3",
+     "image": "img/raz-d-fog-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_fog-p9",
+     "type": "sentence",
+     "en": "Fog always forms where air is still.",
+     "zh": "雾总在空气静止处形成。",
+     "audio": "audio/all/7390_fog_always_forms_where_air_is_still.mp3",
+     "slow": "audio/all/7390_fog_always_forms_where_air_is_still.mp3",
+     "image": "img/raz-d-fog-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_fog-p10",
+     "type": "sentence",
+     "en": "Fog always makes it hard to see.",
+     "zh": "雾总是让人看不清。",
+     "audio": "audio/all/7391_fog_always_makes_it_hard_to_see.mp3",
+     "slow": "audio/all/7391_fog_always_makes_it_hard_to_see.mp3",
+     "image": "img/raz-d-fog-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

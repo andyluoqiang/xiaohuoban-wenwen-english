@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_making_salsa",
+ "nameZh": "做莎莎酱",
+ "bookTitle": "Making Salsa!",
+ "razLevel": "C",
+ "order": 31,
+ "cover": "img/raz-c-making_salsa-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_making_salsa-u1",
+   "band": 2,
+   "title": "Making Salsa! · 做莎莎酱",
+   "cards": [
+    {
+     "id": "raz_c_making_salsa-p1",
+     "type": "sentence",
+     "en": "In go the peppers.",
+     "zh": "辣椒放进去。",
+     "audio": "audio/all/6369_in_go_the_peppers.mp3",
+     "slow": "audio/all/6369_in_go_the_peppers.mp3",
+     "image": "img/raz-c-making_salsa-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_making_salsa-p2",
+     "type": "sentence",
+     "en": "In goes the onion.",
+     "zh": "洋葱放进去。",
+     "audio": "audio/all/6370_in_goes_the_onion.mp3",
+     "slow": "audio/all/6370_in_goes_the_onion.mp3",
+     "image": "img/raz-c-making_salsa-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_making_salsa-p3",
+     "type": "sentence",
+     "en": "In goes the tomato.",
+     "zh": "番茄放进去。",
+     "audio": "audio/all/6371_in_goes_the_tomato.mp3",
+     "slow": "audio/all/6371_in_goes_the_tomato.mp3",
+     "image": "img/raz-c-making_salsa-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_making_salsa-p4",
+     "type": "sentence",
+     "en": "In goes the salt.",
+     "zh": "盐放进去。",
+     "audio": "audio/all/6372_in_goes_the_salt.mp3",
+     "slow": "audio/all/6372_in_goes_the_salt.mp3",
+     "image": "img/raz-c-making_salsa-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_making_salsa-p5",
+     "type": "sentence",
+     "en": "In goes the black pepper.",
+     "zh": "黑胡椒放进去。",
+     "audio": "audio/all/6373_in_goes_the_black_pepper.mp3",
+     "slow": "audio/all/6373_in_goes_the_black_pepper.mp3",
+     "image": "img/raz-c-making_salsa-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_making_salsa-p6",
+     "type": "sentence",
+     "en": "In goes the cilantro.",
+     "zh": "香菜放进去。",
+     "audio": "audio/all/6374_in_goes_the_cilantro.mp3",
+     "slow": "audio/all/6374_in_goes_the_cilantro.mp3",
+     "image": "img/raz-c-making_salsa-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_making_salsa-p7",
+     "type": "sentence",
+     "en": "In goes the lemon juice.",
+     "zh": "柠檬汁放进去。",
+     "audio": "audio/all/6375_in_goes_the_lemon_juice.mp3",
+     "slow": "audio/all/6375_in_goes_the_lemon_juice.mp3",
+     "image": "img/raz-c-making_salsa-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_making_salsa-p8",
+     "type": "sentence",
+     "en": "I mix the salsa.",
+     "zh": "我来搅拌莎莎酱。",
+     "audio": "audio/all/6376_i_mix_the_salsa.mp3",
+     "slow": "audio/all/6376_i_mix_the_salsa.mp3",
+     "image": "img/raz-c-making_salsa-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_making_salsa-p9",
+     "type": "sentence",
+     "en": "We eat chips and salsa!",
+     "zh": "我们吃薯条蘸莎莎酱！",
+     "audio": "audio/all/6377_we_eat_chips_and_salsa.mp3",
+     "slow": "audio/all/6377_we_eat_chips_and_salsa.mp3",
+     "image": "img/raz-c-making_salsa-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

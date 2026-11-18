@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_shadows",
+ "nameZh": "影子",
+ "bookTitle": "Shadows",
+ "razLevel": "C",
+ "order": 47,
+ "cover": "img/raz-c-shadows-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_shadows-u1",
+   "band": 2,
+   "title": "Shadows · 影子",
+   "cards": [
+    {
+     "id": "raz_c_shadows-p1",
+     "type": "sentence",
+     "en": "A dark shape forms when light is blocked.",
+     "zh": "光被挡住时形成深色的形状。",
+     "audio": "audio/all/6536_a_dark_shape_forms_when_light_is_block.mp3",
+     "slow": "audio/all/6536_a_dark_shape_forms_when_light_is_block.mp3",
+     "image": "img/raz-c-shadows-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_shadows-p2",
+     "type": "sentence",
+     "en": "This shape is called a shadow.",
+     "zh": "这个形状叫影子。",
+     "audio": "audio/all/6537_this_shape_is_called_a_shadow.mp3",
+     "slow": "audio/all/6537_this_shape_is_called_a_shadow.mp3",
+     "image": "img/raz-c-shadows-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_shadows-p3",
+     "type": "sentence",
+     "en": "This shadow is a round shape.",
+     "zh": "这个影子是圆形的。",
+     "audio": "audio/all/6538_this_shadow_is_a_round_shape.mp3",
+     "slow": "audio/all/6538_this_shadow_is_a_round_shape.mp3",
+     "image": "img/raz-c-shadows-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_shadows-p4",
+     "type": "sentence",
+     "en": "This shadow is a square shape.",
+     "zh": "这个影子是方形的。",
+     "audio": "audio/all/6539_this_shadow_is_a_square_shape.mp3",
+     "slow": "audio/all/6539_this_shadow_is_a_square_shape.mp3",
+     "image": "img/raz-c-shadows-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_shadows-p5",
+     "type": "sentence",
+     "en": "This shadow is a long shape.",
+     "zh": "这个影子是长长的。",
+     "audio": "audio/all/6540_this_shadow_is_a_long_shape.mp3",
+     "slow": "audio/all/6540_this_shadow_is_a_long_shape.mp3",
+     "image": "img/raz-c-shadows-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_shadows-p6",
+     "type": "sentence",
+     "en": "This shadow is a short shape.",
+     "zh": "这个影子是短短的。",
+     "audio": "audio/all/6541_this_shadow_is_a_short_shape.mp3",
+     "slow": "audio/all/6541_this_shadow_is_a_short_shape.mp3",
+     "image": "img/raz-c-shadows-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_shadows-p7",
+     "type": "sentence",
+     "en": "This shadow is a big shape.",
+     "zh": "这个影子是大大的。",
+     "audio": "audio/all/6542_this_shadow_is_a_big_shape.mp3",
+     "slow": "audio/all/6542_this_shadow_is_a_big_shape.mp3",
+     "image": "img/raz-c-shadows-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_shadows-p8",
+     "type": "sentence",
+     "en": "This shadow is a little shape.",
+     "zh": "这个影子是小小的。",
+     "audio": "audio/all/6543_this_shadow_is_a_little_shape.mp3",
+     "slow": "audio/all/6543_this_shadow_is_a_little_shape.mp3",
+     "image": "img/raz-c-shadows-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_shadows-p9",
+     "type": "sentence",
+     "en": "Shadows can be any shape.",
+     "zh": "影子可以是任何形状。",
+     "audio": "audio/all/6544_shadows_can_be_any_shape.mp3",
+     "slow": "audio/all/6544_shadows_can_be_any_shape.mp3",
+     "image": "img/raz-c-shadows-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_shadows-p10",
+     "type": "sentence",
+     "en": "This shadow is my shape!",
+     "zh": "这个影子是我的形状！",
+     "audio": "audio/all/6545_this_shadow_is_my_shape.mp3",
+     "slow": "audio/all/6545_this_shadow_is_my_shape.mp3",
+     "image": "img/raz-c-shadows-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

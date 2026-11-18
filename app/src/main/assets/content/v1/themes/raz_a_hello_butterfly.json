@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_hello_butterfly",
+ "nameZh": "你好，蝴蝶",
+ "bookTitle": "Hello, Butterfly",
+ "razLevel": "A",
+ "order": 25,
+ "cover": "img/raz-a-hello_butterfly-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_hello_butterfly-u1",
+   "band": 2,
+   "title": "Hello, Butterfly · 你好，蝴蝶",
+   "cards": [
+    {
+     "id": "raz_a_hello_butterfly-p1",
+     "type": "sentence",
+     "en": "Hello, big butterfly.",
+     "zh": "你好，大蝴蝶。",
+     "audio": "audio/all/5296_hello_big_butterfly.mp3",
+     "slow": "audio/all/5296_hello_big_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_hello_butterfly-p2",
+     "type": "sentence",
+     "en": "Hello, small butterfly.",
+     "zh": "你好，小蝴蝶。",
+     "audio": "audio/all/5297_hello_small_butterfly.mp3",
+     "slow": "audio/all/5297_hello_small_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_hello_butterfly-p3",
+     "type": "sentence",
+     "en": "Hello, red butterfly.",
+     "zh": "你好，红蝴蝶。",
+     "audio": "audio/all/5298_hello_red_butterfly.mp3",
+     "slow": "audio/all/5298_hello_red_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_hello_butterfly-p4",
+     "type": "sentence",
+     "en": "Hello, green butterfly.",
+     "zh": "你好，绿蝴蝶。",
+     "audio": "audio/all/5299_hello_green_butterfly.mp3",
+     "slow": "audio/all/5299_hello_green_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_hello_butterfly-p5",
+     "type": "sentence",
+     "en": "Hello, striped butterfly.",
+     "zh": "你好，条纹蝴蝶。",
+     "audio": "audio/all/5300_hello_striped_butterfly.mp3",
+     "slow": "audio/all/5300_hello_striped_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_hello_butterfly-p6",
+     "type": "sentence",
+     "en": "Hello, spotted butterfly.",
+     "zh": "你好，斑点蝴蝶。",
+     "audio": "audio/all/5301_hello_spotted_butterfly.mp3",
+     "slow": "audio/all/5301_hello_spotted_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_hello_butterfly-p7",
+     "type": "sentence",
+     "en": "Hello, new butterfly.",
+     "zh": "你好，新蝴蝶。",
+     "audio": "audio/all/5302_hello_new_butterfly.mp3",
+     "slow": "audio/all/5302_hello_new_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_hello_butterfly-p8",
+     "type": "sentence",
+     "en": "Hello, butterfly!",
+     "zh": "你好，蝴蝶！",
+     "audio": "audio/all/5303_hello_butterfly.mp3",
+     "slow": "audio/all/5303_hello_butterfly.mp3",
+     "image": "img/raz-a-hello_butterfly-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

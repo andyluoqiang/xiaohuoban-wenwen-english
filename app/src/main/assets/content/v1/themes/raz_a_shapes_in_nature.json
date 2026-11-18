@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_shapes_in_nature",
+ "nameZh": "自然界中的形状",
+ "bookTitle": "Shapes in Nature",
+ "razLevel": "A",
+ "order": 56,
+ "cover": "img/raz-a-shapes_in_nature-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_shapes_in_nature-u1",
+   "band": 2,
+   "title": "Shapes in Nature · 自然界中的形状",
+   "cards": [
+    {
+     "id": "raz_a_shapes_in_nature-p1",
+     "type": "sentence",
+     "en": "I see a circle shape.",
+     "zh": "我看见圆形。",
+     "audio": "audio/all/5545_i_see_a_circle_shape.mp3",
+     "slow": "audio/all/5545_i_see_a_circle_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p2",
+     "type": "sentence",
+     "en": "I see a square shape.",
+     "zh": "我看见正方形。",
+     "audio": "audio/all/5546_i_see_a_square_shape.mp3",
+     "slow": "audio/all/5546_i_see_a_square_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p3",
+     "type": "sentence",
+     "en": "I see a triangle shape.",
+     "zh": "我看见三角形。",
+     "audio": "audio/all/5547_i_see_a_triangle_shape.mp3",
+     "slow": "audio/all/5547_i_see_a_triangle_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p4",
+     "type": "sentence",
+     "en": "I see an oval shape.",
+     "zh": "我看见椭圆形。",
+     "audio": "audio/all/5548_i_see_an_oval_shape.mp3",
+     "slow": "audio/all/5548_i_see_an_oval_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p5",
+     "type": "sentence",
+     "en": "I see a star shape.",
+     "zh": "我看见星形。",
+     "audio": "audio/all/5549_i_see_a_star_shape.mp3",
+     "slow": "audio/all/5549_i_see_a_star_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p6",
+     "type": "sentence",
+     "en": "I see a spiral shape.",
+     "zh": "我看见螺旋形。",
+     "audio": "audio/all/5550_i_see_a_spiral_shape.mp3",
+     "slow": "audio/all/5550_i_see_a_spiral_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p7",
+     "type": "sentence",
+     "en": "I see a heart shape.",
+     "zh": "我看见心形。",
+     "audio": "audio/all/5551_i_see_a_heart_shape.mp3",
+     "slow": "audio/all/5551_i_see_a_heart_shape.mp3",
+     "image": "img/raz-a-shapes_in_nature-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_shapes_in_nature-p8",
+     "type": "sentence",
+     "en": "I see shapes.",
+     "zh": "我看见各种形状。",
+     "audio": "audio/all/5552_i_see_shapes.mp3",
+     "slow": "audio/all/5552_i_see_shapes.mp3",
+     "image": "img/raz-a-shapes_in_nature-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

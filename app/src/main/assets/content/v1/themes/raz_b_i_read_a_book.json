@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "I read with my mom.",
      "zh": "我和妈妈一起读书。",
-     "audio": "audio/all/3254_i_read_with_my_mom.mp3",
-     "slow": "audio/all/3254_i_read_with_my_mom.mp3",
+     "audio": "audio/all/8654_i_read_with_my_mom.mp3",
+     "slow": "audio/all/8654_i_read_with_my_mom.mp3",
      "image": "img/raz-b-i_read_a_book-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "I read with my dad.",
      "zh": "我和爸爸一起读书。",
-     "audio": "audio/all/3255_i_read_with_my_dad.mp3",
-     "slow": "audio/all/3255_i_read_with_my_dad.mp3",
+     "audio": "audio/all/8655_i_read_with_my_dad.mp3",
+     "slow": "audio/all/8655_i_read_with_my_dad.mp3",
      "image": "img/raz-b-i_read_a_book-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "I read with my grandma.",
      "zh": "我和奶奶一起读书。",
-     "audio": "audio/all/3256_i_read_with_my_grandma.mp3",
-     "slow": "audio/all/3256_i_read_with_my_grandma.mp3",
+     "audio": "audio/all/8656_i_read_with_my_grandma.mp3",
+     "slow": "audio/all/8656_i_read_with_my_grandma.mp3",
      "image": "img/raz-b-i_read_a_book-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "I read with my grandpa.",
      "zh": "我和爷爷一起读书。",
-     "audio": "audio/all/3257_i_read_with_my_grandpa.mp3",
-     "slow": "audio/all/3257_i_read_with_my_grandpa.mp3",
+     "audio": "audio/all/8657_i_read_with_my_grandpa.mp3",
+     "slow": "audio/all/8657_i_read_with_my_grandpa.mp3",
      "image": "img/raz-b-i_read_a_book-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "I read with my aunt.",
      "zh": "我和姑姑一起读书。",
-     "audio": "audio/all/3258_i_read_with_my_aunt.mp3",
-     "slow": "audio/all/3258_i_read_with_my_aunt.mp3",
+     "audio": "audio/all/8658_i_read_with_my_aunt.mp3",
+     "slow": "audio/all/8658_i_read_with_my_aunt.mp3",
      "image": "img/raz-b-i_read_a_book-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "I read with my sister.",
      "zh": "我和姐姐一起读书。",
-     "audio": "audio/all/3259_i_read_with_my_sister.mp3",
-     "slow": "audio/all/3259_i_read_with_my_sister.mp3",
+     "audio": "audio/all/8659_i_read_with_my_sister.mp3",
+     "slow": "audio/all/8659_i_read_with_my_sister.mp3",
      "image": "img/raz-b-i_read_a_book-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "I read with my brother.",
      "zh": "我和哥哥一起读书。",
-     "audio": "audio/all/3260_i_read_with_my_brother.mp3",
-     "slow": "audio/all/3260_i_read_with_my_brother.mp3",
+     "audio": "audio/all/8660_i_read_with_my_brother.mp3",
+     "slow": "audio/all/8660_i_read_with_my_brother.mp3",
      "image": "img/raz-b-i_read_a_book-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "I read to my dog.",
      "zh": "我读书给我的小狗听。",
-     "audio": "audio/all/3261_i_read_to_my_dog.mp3",
-     "slow": "audio/all/3261_i_read_to_my_dog.mp3",
+     "audio": "audio/all/8661_i_read_to_my_dog.mp3",
+     "slow": "audio/all/8661_i_read_to_my_dog.mp3",
      "image": "img/raz-b-i_read_a_book-p08.jpg",
      "page": 8
     }

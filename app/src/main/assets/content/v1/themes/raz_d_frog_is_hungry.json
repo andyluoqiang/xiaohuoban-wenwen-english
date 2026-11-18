@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_frog_is_hungry",
+ "nameZh": "青蛙饿了",
+ "bookTitle": "Frog Is Hungry",
+ "razLevel": "D",
+ "order": 23,
+ "cover": "img/raz-d-frog_is_hungry-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_frog_is_hungry-u1",
+   "band": 2,
+   "title": "Frog Is Hungry · 青蛙饿了",
+   "cards": [
+    {
+     "id": "raz_d_frog_is_hungry-p1",
+     "type": "sentence",
+     "en": "Frog lives in a tank.",
+     "zh": "青蛙住在缸里。",
+     "audio": "audio/all/7392_frog_lives_in_a_tank.mp3",
+     "slow": "audio/all/7392_frog_lives_in_a_tank.mp3",
+     "image": "img/raz-d-frog_is_hungry-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p2",
+     "type": "sentence",
+     "en": "A boy feeds him frog food.",
+     "zh": "一个男孩喂它青蛙粮。",
+     "audio": "audio/all/7393_a_boy_feeds_him_frog_food.mp3",
+     "slow": "audio/all/7393_a_boy_feeds_him_frog_food.mp3",
+     "image": "img/raz-d-frog_is_hungry-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p3",
+     "type": "sentence",
+     "en": "I love frog food! says Frog.",
+     "zh": "我爱青蛙粮！青蛙说。",
+     "audio": "audio/all/7394_i_love_frog_food_says_frog.mp3",
+     "slow": "audio/all/7394_i_love_frog_food_says_frog.mp3",
+     "image": "img/raz-d-frog_is_hungry-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p4",
+     "type": "sentence",
+     "en": "The boy takes Frog outside.",
+     "zh": "男孩把青蛙带到外面。",
+     "audio": "audio/all/7395_the_boy_takes_frog_outside.mp3",
+     "slow": "audio/all/7395_the_boy_takes_frog_outside.mp3",
+     "image": "img/raz-d-frog_is_hungry-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p5",
+     "type": "sentence",
+     "en": "Frog hops away.",
+     "zh": "青蛙跳走了。",
+     "audio": "audio/all/7396_frog_hops_away.mp3",
+     "slow": "audio/all/7396_frog_hops_away.mp3",
+     "image": "img/raz-d-frog_is_hungry-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p6",
+     "type": "sentence",
+     "en": "Hop. Hop. Hop.",
+     "zh": "跳。跳。跳。",
+     "audio": "audio/all/7397_hop_hop_hop.mp3",
+     "slow": "audio/all/7397_hop_hop_hop.mp3",
+     "image": "img/raz-d-frog_is_hungry-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p7",
+     "type": "sentence",
+     "en": "I am hungry, says Frog.",
+     "zh": "我饿了，青蛙说。",
+     "audio": "audio/all/7398_i_am_hungry_says_frog.mp3",
+     "slow": "audio/all/7398_i_am_hungry_says_frog.mp3",
+     "image": "img/raz-d-frog_is_hungry-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p8",
+     "type": "sentence",
+     "en": "Frog eats a flower.",
+     "zh": "青蛙吃了一朵花。",
+     "audio": "audio/all/7399_frog_eats_a_flower.mp3",
+     "slow": "audio/all/7399_frog_eats_a_flower.mp3",
+     "image": "img/raz-d-frog_is_hungry-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p9",
+     "type": "sentence",
+     "en": "Munch. Munch. Munch.",
+     "zh": "嚼啊嚼啊嚼。",
+     "audio": "audio/all/7400_munch_munch_munch.mp3",
+     "slow": "audio/all/7400_munch_munch_munch.mp3",
+     "image": "img/raz-d-frog_is_hungry-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p10",
+     "type": "sentence",
+     "en": "Frog eats a stick.",
+     "zh": "青蛙吃了一根小棍。",
+     "audio": "audio/all/7401_frog_eats_a_stick.mp3",
+     "slow": "audio/all/7401_frog_eats_a_stick.mp3",
+     "image": "img/raz-d-frog_is_hungry-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p11",
+     "type": "sentence",
+     "en": "Crunch. Crunch. Crunch.",
+     "zh": "嘎吱嘎吱嘎吱。",
+     "audio": "audio/all/7402_crunch_crunch_crunch.mp3",
+     "slow": "audio/all/7402_crunch_crunch_crunch.mp3",
+     "image": "img/raz-d-frog_is_hungry-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p12",
+     "type": "sentence",
+     "en": "Flowers are not frog food, says Frog.",
+     "zh": "花不是青蛙粮，青蛙说。",
+     "audio": "audio/all/7403_flowers_are_not_frog_food_says_frog.mp3",
+     "slow": "audio/all/7403_flowers_are_not_frog_food_says_frog.mp3",
+     "image": "img/raz-d-frog_is_hungry-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p13",
+     "type": "sentence",
+     "en": "Sticks are not frog food, says Frog.",
+     "zh": "小棍不是青蛙粮，青蛙说。",
+     "audio": "audio/all/7404_sticks_are_not_frog_food_says_frog.mp3",
+     "slow": "audio/all/7404_sticks_are_not_frog_food_says_frog.mp3",
+     "image": "img/raz-d-frog_is_hungry-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p14",
+     "type": "sentence",
+     "en": "Buzz. Buzz. Buzz.",
+     "zh": "嗡嗡嗡。",
+     "audio": "audio/all/7405_buzz_buzz_buzz.mp3",
+     "slow": "audio/all/7405_buzz_buzz_buzz.mp3",
+     "image": "img/raz-d-frog_is_hungry-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p15",
+     "type": "sentence",
+     "en": "Frog eats a fly!",
+     "zh": "青蛙吃了一只苍蝇！",
+     "audio": "audio/all/7406_frog_eats_a_fly.mp3",
+     "slow": "audio/all/7406_frog_eats_a_fly.mp3",
+     "image": "img/raz-d-frog_is_hungry-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_frog_is_hungry-p16",
+     "type": "sentence",
+     "en": "Now that is a very good lunch! says Frog.",
+     "zh": "这才是很棒的午餐！青蛙说。",
+     "audio": "audio/all/7407_now_that_is_a_very_good_lunch_says_fro.mp3",
+     "slow": "audio/all/7407_now_that_is_a_very_good_lunch_says_fro.mp3",
+     "image": "img/raz-d-frog_is_hungry-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_the_easter_egg_hunt",
+ "nameZh": "复活节寻蛋",
+ "bookTitle": "The Easter Egg Hunt",
+ "razLevel": "C",
+ "order": 59,
+ "cover": "img/raz-c-the_easter_egg_hunt-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_the_easter_egg_hunt-u1",
+   "band": 2,
+   "title": "The Easter Egg Hunt · 复活节寻蛋",
+   "cards": [
+    {
+     "id": "raz_c_the_easter_egg_hunt-p1",
+     "type": "sentence",
+     "en": "Today is Easter!",
+     "zh": "今天是复活节！",
+     "audio": "audio/all/6654_today_is_easter.mp3",
+     "slow": "audio/all/6654_today_is_easter.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p2",
+     "type": "sentence",
+     "en": "Can we find all seven Easter eggs?",
+     "zh": "我们能找到全部七颗复活节彩蛋吗？",
+     "audio": "audio/all/6655_can_we_find_all_seven_easter_eggs.mp3",
+     "slow": "audio/all/6655_can_we_find_all_seven_easter_eggs.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p3",
+     "type": "sentence",
+     "en": "The first egg is in the tree.",
+     "zh": "第一颗蛋在树上。",
+     "audio": "audio/all/6656_the_first_egg_is_in_the_tree.mp3",
+     "slow": "audio/all/6656_the_first_egg_is_in_the_tree.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p4",
+     "type": "sentence",
+     "en": "The second egg is in the grass.",
+     "zh": "第二颗蛋在草里。",
+     "audio": "audio/all/6657_the_second_egg_is_in_the_grass.mp3",
+     "slow": "audio/all/6657_the_second_egg_is_in_the_grass.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p5",
+     "type": "sentence",
+     "en": "The third egg is on the truck.",
+     "zh": "第三颗蛋在卡车上。",
+     "audio": "audio/all/6658_the_third_egg_is_on_the_truck.mp3",
+     "slow": "audio/all/6658_the_third_egg_is_on_the_truck.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p6",
+     "type": "sentence",
+     "en": "The fourth egg is in the swing.",
+     "zh": "第四颗蛋在秋千里。",
+     "audio": "audio/all/6659_the_fourth_egg_is_in_the_swing.mp3",
+     "slow": "audio/all/6659_the_fourth_egg_is_in_the_swing.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p7",
+     "type": "sentence",
+     "en": "The fifth egg is in the pot.",
+     "zh": "第五颗蛋在锅里。",
+     "audio": "audio/all/6660_the_fifth_egg_is_in_the_pot.mp3",
+     "slow": "audio/all/6660_the_fifth_egg_is_in_the_pot.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p8",
+     "type": "sentence",
+     "en": "The sixth egg is by the rake.",
+     "zh": "第六颗蛋在耙子旁。",
+     "audio": "audio/all/6661_the_sixth_egg_is_by_the_rake.mp3",
+     "slow": "audio/all/6661_the_sixth_egg_is_by_the_rake.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_easter_egg_hunt-p9",
+     "type": "sentence",
+     "en": "The seventh egg is under the dog!",
+     "zh": "第七颗蛋在狗下面！",
+     "audio": "audio/all/6662_the_seventh_egg_is_under_the_dog.mp3",
+     "slow": "audio/all/6662_the_seventh_egg_is_under_the_dog.mp3",
+     "image": "img/raz-c-the_easter_egg_hunt-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_when_is_nighttime",
+ "nameZh": "什么时候是夜晚",
+ "bookTitle": "When Is Nighttime?",
+ "razLevel": "C",
+ "order": 82,
+ "cover": "img/raz-c-when_is_nighttime-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_when_is_nighttime-u1",
+   "band": 2,
+   "title": "When Is Nighttime? · 什么时候是夜晚",
+   "cards": [
+    {
+     "id": "raz_c_when_is_nighttime-p1",
+     "type": "sentence",
+     "en": "Nighttime is when the sun sets.",
+     "zh": "夜晚是太阳落山的时候。",
+     "audio": "audio/all/6924_nighttime_is_when_the_sun_sets.mp3",
+     "slow": "audio/all/6924_nighttime_is_when_the_sun_sets.mp3",
+     "image": "img/raz-c-when_is_nighttime-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p2",
+     "type": "sentence",
+     "en": "Nighttime is when the moon rises.",
+     "zh": "夜晚是月亮升起的时候。",
+     "audio": "audio/all/6925_nighttime_is_when_the_moon_rises.mp3",
+     "slow": "audio/all/6925_nighttime_is_when_the_moon_rises.mp3",
+     "image": "img/raz-c-when_is_nighttime-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p3",
+     "type": "sentence",
+     "en": "When the stars shine, it is nighttime.",
+     "zh": "星星闪烁时，是夜晚。",
+     "audio": "audio/all/6926_when_the_stars_shine_it_is_nighttime.mp3",
+     "slow": "audio/all/6926_when_the_stars_shine_it_is_nighttime.mp3",
+     "image": "img/raz-c-when_is_nighttime-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p4",
+     "type": "sentence",
+     "en": "Nighttime is when the fireflies blink.",
+     "zh": "夜晚是萤火虫眨眼的时候。",
+     "audio": "audio/all/6927_nighttime_is_when_the_fireflies_blink.mp3",
+     "slow": "audio/all/6927_nighttime_is_when_the_fireflies_blink.mp3",
+     "image": "img/raz-c-when_is_nighttime-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p5",
+     "type": "sentence",
+     "en": "It is nighttime when the bats fly.",
+     "zh": "蝙蝠飞的时候是夜晚。",
+     "audio": "audio/all/6928_it_is_nighttime_when_the_bats_fly.mp3",
+     "slow": "audio/all/6928_it_is_nighttime_when_the_bats_fly.mp3",
+     "image": "img/raz-c-when_is_nighttime-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p6",
+     "type": "sentence",
+     "en": "Nighttime is when Dad reads to me.",
+     "zh": "夜晚是爸爸给我读书的时候。",
+     "audio": "audio/all/6929_nighttime_is_when_dad_reads_to_me.mp3",
+     "slow": "audio/all/6929_nighttime_is_when_dad_reads_to_me.mp3",
+     "image": "img/raz-c-when_is_nighttime-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p7",
+     "type": "sentence",
+     "en": "The lights go out when it is bedtime.",
+     "zh": "睡觉时间到了灯就灭了。",
+     "audio": "audio/all/6930_the_lights_go_out_when_it_is_bedtime.mp3",
+     "slow": "audio/all/6930_the_lights_go_out_when_it_is_bedtime.mp3",
+     "image": "img/raz-c-when_is_nighttime-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_when_is_nighttime-p8",
+     "type": "sentence",
+     "en": "Nighttime is when I go to sleep.",
+     "zh": "夜晚是我去睡觉的时候。",
+     "audio": "audio/all/6931_nighttime_is_when_i_go_to_sleep.mp3",
+     "slow": "audio/all/6931_nighttime_is_when_i_go_to_sleep.mp3",
+     "image": "img/raz-c-when_is_nighttime-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

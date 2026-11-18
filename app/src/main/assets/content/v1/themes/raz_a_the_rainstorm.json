@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_the_rainstorm",
+ "nameZh": "暴风雨",
+ "bookTitle": "The Rainstorm",
+ "razLevel": "A",
+ "order": 67,
+ "cover": "img/raz-a-the_rainstorm-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_the_rainstorm-u1",
+   "band": 2,
+   "title": "The Rainstorm · 暴风雨",
+   "cards": [
+    {
+     "id": "raz_a_the_rainstorm-p1",
+     "type": "sentence",
+     "en": "I see the Sun.",
+     "zh": "我看见太阳。",
+     "audio": "audio/all/5633_i_see_the_sun.mp3",
+     "slow": "audio/all/5633_i_see_the_sun.mp3",
+     "image": "img/raz-a-the_rainstorm-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_the_rainstorm-p2",
+     "type": "sentence",
+     "en": "I see the sky.",
+     "zh": "我看见天空。",
+     "audio": "audio/all/5634_i_see_the_sky.mp3",
+     "slow": "audio/all/5634_i_see_the_sky.mp3",
+     "image": "img/raz-a-the_rainstorm-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_the_rainstorm-p3",
+     "type": "sentence",
+     "en": "I see the clouds.",
+     "zh": "我看见云。",
+     "audio": "audio/all/5635_i_see_the_clouds.mp3",
+     "slow": "audio/all/5635_i_see_the_clouds.mp3",
+     "image": "img/raz-a-the_rainstorm-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_the_rainstorm-p4",
+     "type": "sentence",
+     "en": "I see the rain.",
+     "zh": "我看见雨。",
+     "audio": "audio/all/5636_i_see_the_rain.mp3",
+     "slow": "audio/all/5636_i_see_the_rain.mp3",
+     "image": "img/raz-a-the_rainstorm-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_the_rainstorm-p5",
+     "type": "sentence",
+     "en": "I see the lightning.",
+     "zh": "我看见闪电。",
+     "audio": "audio/all/5637_i_see_the_lightning.mp3",
+     "slow": "audio/all/5637_i_see_the_lightning.mp3",
+     "image": "img/raz-a-the_rainstorm-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_the_rainstorm-p6",
+     "type": "sentence",
+     "en": "I see the puddle.",
+     "zh": "我看见水坑。",
+     "audio": "audio/all/5638_i_see_the_puddle.mp3",
+     "slow": "audio/all/5638_i_see_the_puddle.mp3",
+     "image": "img/raz-a-the_rainstorm-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_the_rainstorm-p7",
+     "type": "sentence",
+     "en": "I see the rainbow.",
+     "zh": "我看见彩虹。",
+     "audio": "audio/all/5639_i_see_the_rainbow.mp3",
+     "slow": "audio/all/5639_i_see_the_rainbow.mp3",
+     "image": "img/raz-a-the_rainstorm-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_the_rainstorm-p8",
+     "type": "sentence",
+     "en": "I see the Sun.",
+     "zh": "我又看见太阳。",
+     "audio": "audio/all/5640_i_see_the_sun.mp3",
+     "slow": "audio/all/5640_i_see_the_sun.mp3",
+     "image": "img/raz-a-the_rainstorm-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

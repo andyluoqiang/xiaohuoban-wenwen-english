@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_grandparents_are_great",
+ "nameZh": "祖父母真棒",
+ "bookTitle": "Grandparents Are Great!",
+ "razLevel": "A",
+ "order": 21,
+ "cover": "img/raz-a-grandparents_are_great-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_grandparents_are_great-u1",
+   "band": 2,
+   "title": "Grandparents Are Great! · 祖父母真棒",
+   "cards": [
+    {
+     "id": "raz_a_grandparents_are_great-p1",
+     "type": "sentence",
+     "en": "Some grandparents cook.",
+     "zh": "有些祖父母做饭。",
+     "audio": "audio/all/5264_some_grandparents_cook.mp3",
+     "slow": "audio/all/5264_some_grandparents_cook.mp3",
+     "image": "img/raz-a-grandparents_are_great-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p2",
+     "type": "sentence",
+     "en": "Some grandparents swim.",
+     "zh": "有些祖父母游泳。",
+     "audio": "audio/all/5265_some_grandparents_swim.mp3",
+     "slow": "audio/all/5265_some_grandparents_swim.mp3",
+     "image": "img/raz-a-grandparents_are_great-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p3",
+     "type": "sentence",
+     "en": "Some grandparents hike.",
+     "zh": "有些祖父母远足。",
+     "audio": "audio/all/5266_some_grandparents_hike.mp3",
+     "slow": "audio/all/5266_some_grandparents_hike.mp3",
+     "image": "img/raz-a-grandparents_are_great-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p4",
+     "type": "sentence",
+     "en": "Some grandparents golf.",
+     "zh": "有些祖父母打高尔夫。",
+     "audio": "audio/all/5267_some_grandparents_golf.mp3",
+     "slow": "audio/all/5267_some_grandparents_golf.mp3",
+     "image": "img/raz-a-grandparents_are_great-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p5",
+     "type": "sentence",
+     "en": "Some grandparents sew.",
+     "zh": "有些祖父母缝纫。",
+     "audio": "audio/all/5268_some_grandparents_sew.mp3",
+     "slow": "audio/all/5268_some_grandparents_sew.mp3",
+     "image": "img/raz-a-grandparents_are_great-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p6",
+     "type": "sentence",
+     "en": "Some grandparents garden.",
+     "zh": "有些祖父母打理花园。",
+     "audio": "audio/all/5269_some_grandparents_garden.mp3",
+     "slow": "audio/all/5269_some_grandparents_garden.mp3",
+     "image": "img/raz-a-grandparents_are_great-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p7",
+     "type": "sentence",
+     "en": "Some grandparents paint.",
+     "zh": "有些祖父母画画。",
+     "audio": "audio/all/5270_some_grandparents_paint.mp3",
+     "slow": "audio/all/5270_some_grandparents_paint.mp3",
+     "image": "img/raz-a-grandparents_are_great-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_grandparents_are_great-p8",
+     "type": "sentence",
+     "en": "Some grandparents read.",
+     "zh": "有些祖父母读书。",
+     "audio": "audio/all/5271_some_grandparents_read.mp3",
+     "slow": "audio/all/5271_some_grandparents_read.mp3",
+     "image": "img/raz-a-grandparents_are_great-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

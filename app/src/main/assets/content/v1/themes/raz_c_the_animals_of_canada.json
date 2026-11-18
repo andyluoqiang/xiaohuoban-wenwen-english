@@ -1,0 +1,167 @@
+{
+ "theme": "raz_c_the_animals_of_canada",
+ "nameZh": "加拿大的动物",
+ "bookTitle": "The Animals of Canada",
+ "razLevel": "C",
+ "order": 58,
+ "cover": "img/raz-c-the_animals_of_canada-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_the_animals_of_canada-u1",
+   "band": 2,
+   "title": "The Animals of Canada · 加拿大的动物",
+   "cards": [
+    {
+     "id": "raz_c_the_animals_of_canada-p1",
+     "type": "sentence",
+     "en": "This is a moose.",
+     "zh": "这是驼鹿。",
+     "audio": "audio/all/6639_this_is_a_moose.mp3",
+     "slow": "audio/all/6639_this_is_a_moose.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p2",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6640_it_lives_in_canada.mp3",
+     "slow": "audio/all/6640_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p3",
+     "type": "sentence",
+     "en": "This is a goose.",
+     "zh": "这是鹅。",
+     "audio": "audio/all/6641_this_is_a_goose.mp3",
+     "slow": "audio/all/6641_this_is_a_goose.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p4",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6642_it_lives_in_canada.mp3",
+     "slow": "audio/all/6642_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p5",
+     "type": "sentence",
+     "en": "This is a bear.",
+     "zh": "这是熊。",
+     "audio": "audio/all/6643_this_is_a_bear.mp3",
+     "slow": "audio/all/6643_this_is_a_bear.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p6",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6644_it_lives_in_canada.mp3",
+     "slow": "audio/all/6644_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p7",
+     "type": "sentence",
+     "en": "This is a beaver.",
+     "zh": "这是河狸。",
+     "audio": "audio/all/6645_this_is_a_beaver.mp3",
+     "slow": "audio/all/6645_this_is_a_beaver.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p8",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6646_it_lives_in_canada.mp3",
+     "slow": "audio/all/6646_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p9",
+     "type": "sentence",
+     "en": "This is an eagle.",
+     "zh": "这是鹰。",
+     "audio": "audio/all/6647_this_is_an_eagle.mp3",
+     "slow": "audio/all/6647_this_is_an_eagle.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p10",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6648_it_lives_in_canada.mp3",
+     "slow": "audio/all/6648_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p11",
+     "type": "sentence",
+     "en": "This is a wolf.",
+     "zh": "这是狼。",
+     "audio": "audio/all/6649_this_is_a_wolf.mp3",
+     "slow": "audio/all/6649_this_is_a_wolf.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p12",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6650_it_lives_in_canada.mp3",
+     "slow": "audio/all/6650_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p13",
+     "type": "sentence",
+     "en": "This is a loon.",
+     "zh": "这是潜鸟。",
+     "audio": "audio/all/6651_this_is_a_loon.mp3",
+     "slow": "audio/all/6651_this_is_a_loon.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p14",
+     "type": "sentence",
+     "en": "It lives in Canada.",
+     "zh": "它住在加拿大。",
+     "audio": "audio/all/6652_it_lives_in_canada.mp3",
+     "slow": "audio/all/6652_it_lives_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_animals_of_canada-p15",
+     "type": "sentence",
+     "en": "Many animals live in Canada.",
+     "zh": "很多动物住在加拿大。",
+     "audio": "audio/all/6653_many_animals_live_in_canada.mp3",
+     "slow": "audio/all/6653_many_animals_live_in_canada.mp3",
+     "image": "img/raz-c-the_animals_of_canada-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_caretakers",
+ "nameZh": "照护者",
+ "bookTitle": "Caretakers",
+ "razLevel": "D",
+ "order": 16,
+ "cover": "img/raz-d-caretakers-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_caretakers-u1",
+   "band": 2,
+   "title": "Caretakers · 照护者",
+   "cards": [
+    {
+     "id": "raz_d_caretakers-p1",
+     "type": "sentence",
+     "en": "Caretakers take care of things.",
+     "zh": "照护者照看各种东西。",
+     "audio": "audio/all/7263_caretakers_take_care_of_things.mp3",
+     "slow": "audio/all/7263_caretakers_take_care_of_things.mp3",
+     "image": "img/raz-d-caretakers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_caretakers-p2",
+     "type": "sentence",
+     "en": "There are many kinds of caretakers.",
+     "zh": "照护者有很多种。",
+     "audio": "audio/all/7264_there_are_many_kinds_of_caretakers.mp3",
+     "slow": "audio/all/7264_there_are_many_kinds_of_caretakers.mp3",
+     "image": "img/raz-d-caretakers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_caretakers-p3",
+     "type": "sentence",
+     "en": "This gardener is a caretaker.",
+     "zh": "这位园丁是照护者。",
+     "audio": "audio/all/7265_this_gardener_is_a_caretaker.mp3",
+     "slow": "audio/all/7265_this_gardener_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_caretakers-p4",
+     "type": "sentence",
+     "en": "He takes care of gardens.",
+     "zh": "他照看花园。",
+     "audio": "audio/all/7266_he_takes_care_of_gardens.mp3",
+     "slow": "audio/all/7266_he_takes_care_of_gardens.mp3",
+     "image": "img/raz-d-caretakers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_caretakers-p5",
+     "type": "sentence",
+     "en": "This road worker is a caretaker.",
+     "zh": "这位道路工人是照护者。",
+     "audio": "audio/all/7267_this_road_worker_is_a_caretaker.mp3",
+     "slow": "audio/all/7267_this_road_worker_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_caretakers-p6",
+     "type": "sentence",
+     "en": "She takes care of the roads.",
+     "zh": "她照看道路。",
+     "audio": "audio/all/7268_she_takes_care_of_the_roads.mp3",
+     "slow": "audio/all/7268_she_takes_care_of_the_roads.mp3",
+     "image": "img/raz-d-caretakers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_caretakers-p7",
+     "type": "sentence",
+     "en": "This babysitter is a caretaker.",
+     "zh": "这位保姆是照护者。",
+     "audio": "audio/all/7269_this_babysitter_is_a_caretaker.mp3",
+     "slow": "audio/all/7269_this_babysitter_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_caretakers-p8",
+     "type": "sentence",
+     "en": "She takes care of babies.",
+     "zh": "她照看宝宝。",
+     "audio": "audio/all/7270_she_takes_care_of_babies.mp3",
+     "slow": "audio/all/7270_she_takes_care_of_babies.mp3",
+     "image": "img/raz-d-caretakers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_caretakers-p9",
+     "type": "sentence",
+     "en": "This dentist is a caretaker.",
+     "zh": "这位牙医是照护者。",
+     "audio": "audio/all/7271_this_dentist_is_a_caretaker.mp3",
+     "slow": "audio/all/7271_this_dentist_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_caretakers-p10",
+     "type": "sentence",
+     "en": "He takes care of teeth.",
+     "zh": "他照看牙齿。",
+     "audio": "audio/all/7272_he_takes_care_of_teeth.mp3",
+     "slow": "audio/all/7272_he_takes_care_of_teeth.mp3",
+     "image": "img/raz-d-caretakers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_caretakers-p11",
+     "type": "sentence",
+     "en": "This vet is a caretaker.",
+     "zh": "这位兽医是照护者。",
+     "audio": "audio/all/7273_this_vet_is_a_caretaker.mp3",
+     "slow": "audio/all/7273_this_vet_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_caretakers-p12",
+     "type": "sentence",
+     "en": "He takes care of animals.",
+     "zh": "他照看动物。",
+     "audio": "audio/all/7274_he_takes_care_of_animals.mp3",
+     "slow": "audio/all/7274_he_takes_care_of_animals.mp3",
+     "image": "img/raz-d-caretakers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_caretakers-p13",
+     "type": "sentence",
+     "en": "This doctor is a caretaker.",
+     "zh": "这位医生是照护者。",
+     "audio": "audio/all/7275_this_doctor_is_a_caretaker.mp3",
+     "slow": "audio/all/7275_this_doctor_is_a_caretaker.mp3",
+     "image": "img/raz-d-caretakers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_caretakers-p14",
+     "type": "sentence",
+     "en": "She takes care of people.",
+     "zh": "她照看人。",
+     "audio": "audio/all/7276_she_takes_care_of_people.mp3",
+     "slow": "audio/all/7276_she_takes_care_of_people.mp3",
+     "image": "img/raz-d-caretakers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_caretakers-p15",
+     "type": "sentence",
+     "en": "These firefighters and police officers are caretakers.",
+     "zh": "这些消防员和警察是照护者。",
+     "audio": "audio/all/7277_these_firefighters_and_police_officers.mp3",
+     "slow": "audio/all/7277_these_firefighters_and_police_officers.mp3",
+     "image": "img/raz-d-caretakers-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_caretakers-p16",
+     "type": "sentence",
+     "en": "They take care of people, too.",
+     "zh": "他们也照看着人们。",
+     "audio": "audio/all/7278_they_take_care_of_people_too.mp3",
+     "slow": "audio/all/7278_they_take_care_of_people_too.mp3",
+     "image": "img/raz-d-caretakers-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

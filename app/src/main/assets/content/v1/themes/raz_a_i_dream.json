@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_dream",
+ "nameZh": "我的梦",
+ "bookTitle": "I Dream",
+ "razLevel": "A",
+ "order": 30,
+ "cover": "img/raz-a-i_dream-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_dream-u1",
+   "band": 2,
+   "title": "I Dream · 我的梦",
+   "cards": [
+    {
+     "id": "raz_a_i_dream-p1",
+     "type": "sentence",
+     "en": "I dream about space.",
+     "zh": "我梦见太空。",
+     "audio": "audio/all/5335_i_dream_about_space.mp3",
+     "slow": "audio/all/5335_i_dream_about_space.mp3",
+     "image": "img/raz-a-i_dream-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_dream-p2",
+     "type": "sentence",
+     "en": "I dream about monkeys.",
+     "zh": "我梦见猴子。",
+     "audio": "audio/all/5336_i_dream_about_monkeys.mp3",
+     "slow": "audio/all/5336_i_dream_about_monkeys.mp3",
+     "image": "img/raz-a-i_dream-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_dream-p3",
+     "type": "sentence",
+     "en": "I dream about robots.",
+     "zh": "我梦见机器人。",
+     "audio": "audio/all/5337_i_dream_about_robots.mp3",
+     "slow": "audio/all/5337_i_dream_about_robots.mp3",
+     "image": "img/raz-a-i_dream-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_dream-p4",
+     "type": "sentence",
+     "en": "I dream about super powers.",
+     "zh": "我梦见超能力。",
+     "audio": "audio/all/5338_i_dream_about_super_powers.mp3",
+     "slow": "audio/all/5338_i_dream_about_super_powers.mp3",
+     "image": "img/raz-a-i_dream-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_dream-p5",
+     "type": "sentence",
+     "en": "I dream about food.",
+     "zh": "我梦见食物。",
+     "audio": "audio/all/5339_i_dream_about_food.mp3",
+     "slow": "audio/all/5339_i_dream_about_food.mp3",
+     "image": "img/raz-a-i_dream-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_dream-p6",
+     "type": "sentence",
+     "en": "I dream about sports.",
+     "zh": "我梦见运动。",
+     "audio": "audio/all/5340_i_dream_about_sports.mp3",
+     "slow": "audio/all/5340_i_dream_about_sports.mp3",
+     "image": "img/raz-a-i_dream-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_dream-p7",
+     "type": "sentence",
+     "en": "I dream about monsters.",
+     "zh": "我梦见怪物。",
+     "audio": "audio/all/5341_i_dream_about_monsters.mp3",
+     "slow": "audio/all/5341_i_dream_about_monsters.mp3",
+     "image": "img/raz-a-i_dream-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_dream-p8",
+     "type": "sentence",
+     "en": "I dream about good sleep.",
+     "zh": "我梦见睡个好觉。",
+     "audio": "audio/all/5342_i_dream_about_good_sleep.mp3",
+     "slow": "audio/all/5342_i_dream_about_good_sleep.mp3",
+     "image": "img/raz-a-i_dream-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

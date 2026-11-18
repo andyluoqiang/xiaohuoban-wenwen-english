@@ -1,0 +1,137 @@
+{
+ "theme": "raz_c_feelings",
+ "nameZh": "情绪",
+ "bookTitle": "Feelings",
+ "razLevel": "C",
+ "order": 16,
+ "cover": "img/raz-c-feelings-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_feelings-u1",
+   "band": 2,
+   "title": "Feelings · 情绪",
+   "cards": [
+    {
+     "id": "raz_c_feelings-p1",
+     "type": "sentence",
+     "en": "I have many feelings.",
+     "zh": "我有很多种情绪。",
+     "audio": "audio/all/6166_i_have_many_feelings.mp3",
+     "slow": "audio/all/6166_i_have_many_feelings.mp3",
+     "image": "img/raz-c-feelings-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_feelings-p2",
+     "type": "sentence",
+     "en": "My feelings change from time to time.",
+     "zh": "我的情绪时常变化。",
+     "audio": "audio/all/6167_my_feelings_change_from_time_to_time.mp3",
+     "slow": "audio/all/6167_my_feelings_change_from_time_to_time.mp3",
+     "image": "img/raz-c-feelings-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_feelings-p3",
+     "type": "sentence",
+     "en": "Sometimes I feel kind of happy.",
+     "zh": "有时我觉得有点开心。",
+     "audio": "audio/all/6168_sometimes_i_feel_kind_of_happy.mp3",
+     "slow": "audio/all/6168_sometimes_i_feel_kind_of_happy.mp3",
+     "image": "img/raz-c-feelings-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_feelings-p4",
+     "type": "sentence",
+     "en": "Sometimes I feel very happy.",
+     "zh": "有时我觉得非常开心。",
+     "audio": "audio/all/6169_sometimes_i_feel_very_happy.mp3",
+     "slow": "audio/all/6169_sometimes_i_feel_very_happy.mp3",
+     "image": "img/raz-c-feelings-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_feelings-p5",
+     "type": "sentence",
+     "en": "Sometimes I feel kind of sad.",
+     "zh": "有时我觉得有点难过。",
+     "audio": "audio/all/6170_sometimes_i_feel_kind_of_sad.mp3",
+     "slow": "audio/all/6170_sometimes_i_feel_kind_of_sad.mp3",
+     "image": "img/raz-c-feelings-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_feelings-p6",
+     "type": "sentence",
+     "en": "Sometimes I feel very sad.",
+     "zh": "有时我觉得非常难过。",
+     "audio": "audio/all/6171_sometimes_i_feel_very_sad.mp3",
+     "slow": "audio/all/6171_sometimes_i_feel_very_sad.mp3",
+     "image": "img/raz-c-feelings-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_feelings-p7",
+     "type": "sentence",
+     "en": "Sometimes I feel kind of angry.",
+     "zh": "有时我觉得有点生气。",
+     "audio": "audio/all/6172_sometimes_i_feel_kind_of_angry.mp3",
+     "slow": "audio/all/6172_sometimes_i_feel_kind_of_angry.mp3",
+     "image": "img/raz-c-feelings-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_feelings-p8",
+     "type": "sentence",
+     "en": "Sometimes I feel very angry.",
+     "zh": "有时我觉得非常生气。",
+     "audio": "audio/all/6173_sometimes_i_feel_very_angry.mp3",
+     "slow": "audio/all/6173_sometimes_i_feel_very_angry.mp3",
+     "image": "img/raz-c-feelings-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_feelings-p9",
+     "type": "sentence",
+     "en": "Sometimes I feel kind of scared.",
+     "zh": "有时我觉得有点害怕。",
+     "audio": "audio/all/6174_sometimes_i_feel_kind_of_scared.mp3",
+     "slow": "audio/all/6174_sometimes_i_feel_kind_of_scared.mp3",
+     "image": "img/raz-c-feelings-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_feelings-p10",
+     "type": "sentence",
+     "en": "Sometimes I feel very scared.",
+     "zh": "有时我觉得非常害怕。",
+     "audio": "audio/all/6175_sometimes_i_feel_very_scared.mp3",
+     "slow": "audio/all/6175_sometimes_i_feel_very_scared.mp3",
+     "image": "img/raz-c-feelings-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_c_feelings-p11",
+     "type": "sentence",
+     "en": "I have many different feelings.",
+     "zh": "我有许多不同的情绪。",
+     "audio": "audio/all/6176_i_have_many_different_feelings.mp3",
+     "slow": "audio/all/6176_i_have_many_different_feelings.mp3",
+     "image": "img/raz-c-feelings-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_c_feelings-p12",
+     "type": "sentence",
+     "en": "Do you have many different feelings, too?",
+     "zh": "你也有许多不同的情绪吗？",
+     "audio": "audio/all/6177_do_you_have_many_different_feelings_to.mp3",
+     "slow": "audio/all/6177_do_you_have_many_different_feelings_to.mp3",
+     "image": "img/raz-c-feelings-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

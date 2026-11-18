@@ -1,0 +1,167 @@
+{
+ "theme": "raz_d_no_lily_dont",
+ "nameZh": "不，莉莉，别这样！",
+ "bookTitle": "No, Lily, Don't!",
+ "razLevel": "D",
+ "order": 48,
+ "cover": "img/raz-d-no_lily_dont-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_no_lily_dont-u1",
+   "band": 2,
+   "title": "No, Lily, Don't! · 不，莉莉，别这样！",
+   "cards": [
+    {
+     "id": "raz_d_no_lily_dont-p1",
+     "type": "sentence",
+     "en": "Lily the cat was bored.",
+     "zh": "猫咪莉莉无聊了。",
+     "audio": "audio/all/7744_lily_the_cat_was_bored.mp3",
+     "slow": "audio/all/7744_lily_the_cat_was_bored.mp3",
+     "image": "img/raz-d-no_lily_dont-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_no_lily_dont-p2",
+     "type": "sentence",
+     "en": "Lily jumped at the red flowers.",
+     "zh": "莉莉扑向红花。",
+     "audio": "audio/all/7745_lily_jumped_at_the_red_flowers.mp3",
+     "slow": "audio/all/7745_lily_jumped_at_the_red_flowers.mp3",
+     "image": "img/raz-d-no_lily_dont-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_no_lily_dont-p3",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7746_no_lily_don_t.mp3",
+     "slow": "audio/all/7746_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_no_lily_dont-p4",
+     "type": "sentence",
+     "en": "Lily jumped at the green bug.",
+     "zh": "莉莉扑向绿虫子。",
+     "audio": "audio/all/7747_lily_jumped_at_the_green_bug.mp3",
+     "slow": "audio/all/7747_lily_jumped_at_the_green_bug.mp3",
+     "image": "img/raz-d-no_lily_dont-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_no_lily_dont-p5",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7748_no_lily_don_t.mp3",
+     "slow": "audio/all/7748_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_no_lily_dont-p6",
+     "type": "sentence",
+     "en": "Lily jumped at the yellow butterfly.",
+     "zh": "莉莉扑向黄蝴蝶。",
+     "audio": "audio/all/7749_lily_jumped_at_the_yellow_butterfly.mp3",
+     "slow": "audio/all/7749_lily_jumped_at_the_yellow_butterfly.mp3",
+     "image": "img/raz-d-no_lily_dont-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_no_lily_dont-p7",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7750_no_lily_don_t.mp3",
+     "slow": "audio/all/7750_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_no_lily_dont-p8",
+     "type": "sentence",
+     "en": "Lily jumped at the gray bird.",
+     "zh": "莉莉扑向灰鸟。",
+     "audio": "audio/all/7751_lily_jumped_at_the_gray_bird.mp3",
+     "slow": "audio/all/7751_lily_jumped_at_the_gray_bird.mp3",
+     "image": "img/raz-d-no_lily_dont-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_no_lily_dont-p9",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7752_no_lily_don_t.mp3",
+     "slow": "audio/all/7752_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_no_lily_dont-p10",
+     "type": "sentence",
+     "en": "Lily jumped at the brown lizard.",
+     "zh": "莉莉扑向棕色蜥蜴。",
+     "audio": "audio/all/7753_lily_jumped_at_the_brown_lizard.mp3",
+     "slow": "audio/all/7753_lily_jumped_at_the_brown_lizard.mp3",
+     "image": "img/raz-d-no_lily_dont-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_no_lily_dont-p11",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7754_no_lily_don_t.mp3",
+     "slow": "audio/all/7754_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_no_lily_dont-p12",
+     "type": "sentence",
+     "en": "Lily jumped at the blue pot.",
+     "zh": "莉莉扑向蓝花盆。",
+     "audio": "audio/all/7755_lily_jumped_at_the_blue_pot.mp3",
+     "slow": "audio/all/7755_lily_jumped_at_the_blue_pot.mp3",
+     "image": "img/raz-d-no_lily_dont-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_no_lily_dont-p13",
+     "type": "sentence",
+     "en": "No, Lily, don't!",
+     "zh": "不，莉莉，别这样！",
+     "audio": "audio/all/7756_no_lily_don_t.mp3",
+     "slow": "audio/all/7756_no_lily_don_t.mp3",
+     "image": "img/raz-d-no_lily_dont-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_no_lily_dont-p14",
+     "type": "sentence",
+     "en": "Lily jumped at the orange ball.",
+     "zh": "莉莉扑向橙色的球。",
+     "audio": "audio/all/7757_lily_jumped_at_the_orange_ball.mp3",
+     "slow": "audio/all/7757_lily_jumped_at_the_orange_ball.mp3",
+     "image": "img/raz-d-no_lily_dont-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_no_lily_dont-p15",
+     "type": "sentence",
+     "en": "Yes, Lily, play!",
+     "zh": "好，莉莉，玩吧！",
+     "audio": "audio/all/7758_yes_lily_play.mp3",
+     "slow": "audio/all/7758_yes_lily_play.mp3",
+     "image": "img/raz-d-no_lily_dont-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

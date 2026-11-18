@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_at_the_fair",
+ "nameZh": "在游乐场",
+ "bookTitle": "At the Fair",
+ "razLevel": "C",
+ "order": 7,
+ "cover": "img/raz-c-at_the_fair-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_at_the_fair-u1",
+   "band": 2,
+   "title": "At the Fair · 在游乐场",
+   "cards": [
+    {
+     "id": "raz_c_at_the_fair-p1",
+     "type": "sentence",
+     "en": "You can ride the big wheel.",
+     "zh": "你可以坐大摩天轮。",
+     "audio": "audio/all/6068_you_can_ride_the_big_wheel.mp3",
+     "slow": "audio/all/6068_you_can_ride_the_big_wheel.mp3",
+     "image": "img/raz-c-at_the_fair-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_at_the_fair-p2",
+     "type": "sentence",
+     "en": "You can ride the little car.",
+     "zh": "你可以坐小汽车。",
+     "audio": "audio/all/6069_you_can_ride_the_little_car.mp3",
+     "slow": "audio/all/6069_you_can_ride_the_little_car.mp3",
+     "image": "img/raz-c-at_the_fair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_at_the_fair-p3",
+     "type": "sentence",
+     "en": "You can ride the long train.",
+     "zh": "你可以坐长长的小火车。",
+     "audio": "audio/all/6070_you_can_ride_the_long_train.mp3",
+     "slow": "audio/all/6070_you_can_ride_the_long_train.mp3",
+     "image": "img/raz-c-at_the_fair-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_at_the_fair-p4",
+     "type": "sentence",
+     "en": "You can ride the fast cup.",
+     "zh": "你可以坐快速的转杯。",
+     "audio": "audio/all/6071_you_can_ride_the_fast_cup.mp3",
+     "slow": "audio/all/6071_you_can_ride_the_fast_cup.mp3",
+     "image": "img/raz-c-at_the_fair-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_at_the_fair-p5",
+     "type": "sentence",
+     "en": "You can ride the painted horse.",
+     "zh": "你可以骑彩绘木马。",
+     "audio": "audio/all/6072_you_can_ride_the_painted_horse.mp3",
+     "slow": "audio/all/6072_you_can_ride_the_painted_horse.mp3",
+     "image": "img/raz-c-at_the_fair-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_at_the_fair-p6",
+     "type": "sentence",
+     "en": "You can ride the giant swing.",
+     "zh": "你可以坐巨大的秋千。",
+     "audio": "audio/all/6073_you_can_ride_the_giant_swing.mp3",
+     "slow": "audio/all/6073_you_can_ride_the_giant_swing.mp3",
+     "image": "img/raz-c-at_the_fair-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_at_the_fair-p7",
+     "type": "sentence",
+     "en": "You can ride the tiny plane.",
+     "zh": "你可以坐迷你飞机。",
+     "audio": "audio/all/6074_you_can_ride_the_tiny_plane.mp3",
+     "slow": "audio/all/6074_you_can_ride_the_tiny_plane.mp3",
+     "image": "img/raz-c-at_the_fair-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_at_the_fair-p8",
+     "type": "sentence",
+     "en": "What is your favorite ride at the fair?",
+     "zh": "你在游乐场最喜欢坐哪个？",
+     "audio": "audio/all/6075_what_is_your_favorite_ride_at_the_fair.mp3",
+     "slow": "audio/all/6075_what_is_your_favorite_ride_at_the_fair.mp3",
+     "image": "img/raz-c-at_the_fair-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

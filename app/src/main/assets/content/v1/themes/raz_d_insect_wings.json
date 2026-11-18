@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_insect_wings",
+ "nameZh": "昆虫的翅膀",
+ "bookTitle": "Insect Wings",
+ "razLevel": "D",
+ "order": 35,
+ "cover": "img/raz-d-insect_wings-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_insect_wings-u1",
+   "band": 2,
+   "title": "Insect Wings · 昆虫的翅膀",
+   "cards": [
+    {
+     "id": "raz_d_insect_wings-p1",
+     "type": "sentence",
+     "en": "Insects have many kinds of wings.",
+     "zh": "昆虫有很多种翅膀。",
+     "audio": "audio/all/7565_insects_have_many_kinds_of_wings.mp3",
+     "slow": "audio/all/7565_insects_have_many_kinds_of_wings.mp3",
+     "image": "img/raz-d-insect_wings-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_insect_wings-p2",
+     "type": "sentence",
+     "en": "Insects use their wings to fly.",
+     "zh": "昆虫用翅膀飞行。",
+     "audio": "audio/all/7566_insects_use_their_wings_to_fly.mp3",
+     "slow": "audio/all/7566_insects_use_their_wings_to_fly.mp3",
+     "image": "img/raz-d-insect_wings-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_insect_wings-p3",
+     "type": "sentence",
+     "en": "This wasp has blue wings.",
+     "zh": "这只黄蜂有蓝色的翅膀。",
+     "audio": "audio/all/7567_this_wasp_has_blue_wings.mp3",
+     "slow": "audio/all/7567_this_wasp_has_blue_wings.mp3",
+     "image": "img/raz-d-insect_wings-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_insect_wings-p4",
+     "type": "sentence",
+     "en": "This grasshopper has green wings.",
+     "zh": "这只蚱蜢有绿色的翅膀。",
+     "audio": "audio/all/7568_this_grasshopper_has_green_wings.mp3",
+     "slow": "audio/all/7568_this_grasshopper_has_green_wings.mp3",
+     "image": "img/raz-d-insect_wings-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_insect_wings-p5",
+     "type": "sentence",
+     "en": "This moth has spotted wings.",
+     "zh": "这只飞蛾有带斑点的翅膀。",
+     "audio": "audio/all/7569_this_moth_has_spotted_wings.mp3",
+     "slow": "audio/all/7569_this_moth_has_spotted_wings.mp3",
+     "image": "img/raz-d-insect_wings-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_insect_wings-p6",
+     "type": "sentence",
+     "en": "This dragonfly has striped wings.",
+     "zh": "这只蜻蜓有带条纹的翅膀。",
+     "audio": "audio/all/7570_this_dragonfly_has_striped_wings.mp3",
+     "slow": "audio/all/7570_this_dragonfly_has_striped_wings.mp3",
+     "image": "img/raz-d-insect_wings-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_insect_wings-p7",
+     "type": "sentence",
+     "en": "This ant has clear wings.",
+     "zh": "这只蚂蚁有透明的翅膀。",
+     "audio": "audio/all/7571_this_ant_has_clear_wings.mp3",
+     "slow": "audio/all/7571_this_ant_has_clear_wings.mp3",
+     "image": "img/raz-d-insect_wings-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_insect_wings-p8",
+     "type": "sentence",
+     "en": "This butterfly has colorful wings.",
+     "zh": "这只蝴蝶有彩色的翅膀。",
+     "audio": "audio/all/7572_this_butterfly_has_colorful_wings.mp3",
+     "slow": "audio/all/7572_this_butterfly_has_colorful_wings.mp3",
+     "image": "img/raz-d-insect_wings-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_insect_wings-p9",
+     "type": "sentence",
+     "en": "Some insects have wing covers.",
+     "zh": "有些昆虫有翅鞘。",
+     "audio": "audio/all/7573_some_insects_have_wing_covers.mp3",
+     "slow": "audio/all/7573_some_insects_have_wing_covers.mp3",
+     "image": "img/raz-d-insect_wings-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_insect_wings-p10",
+     "type": "sentence",
+     "en": "Insects have many kinds of wings.",
+     "zh": "昆虫有很多种翅膀。",
+     "audio": "audio/all/7574_insects_have_many_kinds_of_wings.mp3",
+     "slow": "audio/all/7574_insects_have_many_kinds_of_wings.mp3",
+     "image": "img/raz-d-insect_wings-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

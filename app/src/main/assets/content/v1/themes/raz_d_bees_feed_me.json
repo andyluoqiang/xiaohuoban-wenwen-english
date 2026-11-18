@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_bees_feed_me",
+ "nameZh": "蜜蜂喂养我",
+ "bookTitle": "Bees Feed Me",
+ "razLevel": "D",
+ "order": 12,
+ "cover": "img/raz-d-bees_feed_me-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_bees_feed_me-u1",
+   "band": 2,
+   "title": "Bees Feed Me · 蜜蜂喂养我",
+   "cards": [
+    {
+     "id": "raz_d_bees_feed_me-p1",
+     "type": "sentence",
+     "en": "Bees are little,",
+     "zh": "蜜蜂虽小，",
+     "audio": "audio/all/7219_bees_are_little.mp3",
+     "slow": "audio/all/7219_bees_are_little.mp3",
+     "image": "img/raz-d-bees_feed_me-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bees_feed_me-p2",
+     "type": "sentence",
+     "en": "but they do a big job.",
+     "zh": "但作用很大。",
+     "audio": "audio/all/7220_but_they_do_a_big_job.mp3",
+     "slow": "audio/all/7220_but_they_do_a_big_job.mp3",
+     "image": "img/raz-d-bees_feed_me-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bees_feed_me-p3",
+     "type": "sentence",
+     "en": "Bees feed you and me.",
+     "zh": "蜜蜂喂养你和我。",
+     "audio": "audio/all/7221_bees_feed_you_and_me.mp3",
+     "slow": "audio/all/7221_bees_feed_you_and_me.mp3",
+     "image": "img/raz-d-bees_feed_me-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bees_feed_me-p4",
+     "type": "sentence",
+     "en": "Without bees, we would not have apples.",
+     "zh": "没有蜜蜂，就没有苹果。",
+     "audio": "audio/all/7222_without_bees_we_would_not_have_apples.mp3",
+     "slow": "audio/all/7222_without_bees_we_would_not_have_apples.mp3",
+     "image": "img/raz-d-bees_feed_me-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_bees_feed_me-p5",
+     "type": "sentence",
+     "en": "Without bees, we would not have carrots.",
+     "zh": "没有蜜蜂，就没有胡萝卜。",
+     "audio": "audio/all/7223_without_bees_we_would_not_have_carrots.mp3",
+     "slow": "audio/all/7223_without_bees_we_would_not_have_carrots.mp3",
+     "image": "img/raz-d-bees_feed_me-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_bees_feed_me-p6",
+     "type": "sentence",
+     "en": "Without bees, we would not have lemons.",
+     "zh": "没有蜜蜂，就没有柠檬。",
+     "audio": "audio/all/7224_without_bees_we_would_not_have_lemons.mp3",
+     "slow": "audio/all/7224_without_bees_we_would_not_have_lemons.mp3",
+     "image": "img/raz-d-bees_feed_me-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_bees_feed_me-p7",
+     "type": "sentence",
+     "en": "Without bees, we would not have cucumbers.",
+     "zh": "没有蜜蜂，就没有黄瓜。",
+     "audio": "audio/all/7225_without_bees_we_would_not_have_cucumbe.mp3",
+     "slow": "audio/all/7225_without_bees_we_would_not_have_cucumbe.mp3",
+     "image": "img/raz-d-bees_feed_me-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_bees_feed_me-p8",
+     "type": "sentence",
+     "en": "Without bees, we would not have blueberries.",
+     "zh": "没有蜜蜂，就没有蓝莓。",
+     "audio": "audio/all/7226_without_bees_we_would_not_have_blueber.mp3",
+     "slow": "audio/all/7226_without_bees_we_would_not_have_blueber.mp3",
+     "image": "img/raz-d-bees_feed_me-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_bees_feed_me-p9",
+     "type": "sentence",
+     "en": "Without bees, we would not have pumpkins.",
+     "zh": "没有蜜蜂，就没有南瓜。",
+     "audio": "audio/all/7227_without_bees_we_would_not_have_pumpkin.mp3",
+     "slow": "audio/all/7227_without_bees_we_would_not_have_pumpkin.mp3",
+     "image": "img/raz-d-bees_feed_me-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_bees_feed_me-p10",
+     "type": "sentence",
+     "en": "Bees help bring us some of our favorite foods.",
+     "zh": "蜜蜂帮我们带来一些最爱的食物。",
+     "audio": "audio/all/7228_bees_help_bring_us_some_of_our_favorit.mp3",
+     "slow": "audio/all/7228_bees_help_bring_us_some_of_our_favorit.mp3",
+     "image": "img/raz-d-bees_feed_me-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_bees_feed_me-p11",
+     "type": "sentence",
+     "en": "Thank you, bees!",
+     "zh": "谢谢你，蜜蜂！",
+     "audio": "audio/all/7229_thank_you_bees.mp3",
+     "slow": "audio/all/7229_thank_you_bees.mp3",
+     "image": "img/raz-d-bees_feed_me-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

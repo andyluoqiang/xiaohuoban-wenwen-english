@@ -1,0 +1,247 @@
+{
+ "theme": "raz_d_what_do_you_see",
+ "nameZh": "你看见了什么？",
+ "bookTitle": "What Do You See?",
+ "razLevel": "D",
+ "order": 76,
+ "cover": "img/raz-d-what_do_you_see-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_what_do_you_see-u1",
+   "band": 2,
+   "title": "What Do You See? · 你看见了什么？",
+   "cards": [
+    {
+     "id": "raz_d_what_do_you_see-p1",
+     "type": "sentence",
+     "en": "Ink falls on the paper.",
+     "zh": "墨水滴落在纸上。",
+     "audio": "audio/all/8154_ink_falls_on_the_paper.mp3",
+     "slow": "audio/all/8154_ink_falls_on_the_paper.mp3",
+     "image": "img/raz-d-what_do_you_see-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_what_do_you_see-p2",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8155_what_do_you_see.mp3",
+     "slow": "audio/all/8155_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_what_do_you_see-p3",
+     "type": "sentence",
+     "en": "I see a mouse.",
+     "zh": "我看见一只老鼠。",
+     "audio": "audio/all/8156_i_see_a_mouse.mp3",
+     "slow": "audio/all/8156_i_see_a_mouse.mp3",
+     "image": "img/raz-d-what_do_you_see-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_what_do_you_see-p4",
+     "type": "sentence",
+     "en": "Milk spills on the floor.",
+     "zh": "牛奶洒在地板上。",
+     "audio": "audio/all/8157_milk_spills_on_the_floor.mp3",
+     "slow": "audio/all/8157_milk_spills_on_the_floor.mp3",
+     "image": "img/raz-d-what_do_you_see-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_what_do_you_see-p5",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8158_what_do_you_see.mp3",
+     "slow": "audio/all/8158_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_what_do_you_see-p6",
+     "type": "sentence",
+     "en": "I see a rabbit.",
+     "zh": "我看见一只兔子。",
+     "audio": "audio/all/8159_i_see_a_rabbit.mp3",
+     "slow": "audio/all/8159_i_see_a_rabbit.mp3",
+     "image": "img/raz-d-what_do_you_see-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_what_do_you_see-p7",
+     "type": "sentence",
+     "en": "Pencil pieces fall on the floor.",
+     "zh": "铅笔屑落在地板上。",
+     "audio": "audio/all/8160_pencil_pieces_fall_on_the_floor.mp3",
+     "slow": "audio/all/8160_pencil_pieces_fall_on_the_floor.mp3",
+     "image": "img/raz-d-what_do_you_see-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_what_do_you_see-p8",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8161_what_do_you_see.mp3",
+     "slow": "audio/all/8161_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_what_do_you_see-p9",
+     "type": "sentence",
+     "en": "I see a tree.",
+     "zh": "我看见一棵树。",
+     "audio": "audio/all/8162_i_see_a_tree.mp3",
+     "slow": "audio/all/8162_i_see_a_tree.mp3",
+     "image": "img/raz-d-what_do_you_see-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_what_do_you_see-p10",
+     "type": "sentence",
+     "en": "Bumps grow on a tree.",
+     "zh": "树上长出了疙瘩。",
+     "audio": "audio/all/8163_bumps_grow_on_a_tree.mp3",
+     "slow": "audio/all/8163_bumps_grow_on_a_tree.mp3",
+     "image": "img/raz-d-what_do_you_see-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_what_do_you_see-p11",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8164_what_do_you_see.mp3",
+     "slow": "audio/all/8164_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_what_do_you_see-p12",
+     "type": "sentence",
+     "en": "I see a face looking at me.",
+     "zh": "我看见一张脸在看着我。",
+     "audio": "audio/all/8165_i_see_a_face_looking_at_me.mp3",
+     "slow": "audio/all/8165_i_see_a_face_looking_at_me.mp3",
+     "image": "img/raz-d-what_do_you_see-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_what_do_you_see-p13",
+     "type": "sentence",
+     "en": "Ice forms on a window.",
+     "zh": "窗户上结了冰。",
+     "audio": "audio/all/8166_ice_forms_on_a_window.mp3",
+     "slow": "audio/all/8166_ice_forms_on_a_window.mp3",
+     "image": "img/raz-d-what_do_you_see-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_what_do_you_see-p14",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8167_what_do_you_see.mp3",
+     "slow": "audio/all/8167_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_what_do_you_see-p15",
+     "type": "sentence",
+     "en": "I see a fern.",
+     "zh": "我看见一株蕨类植物。",
+     "audio": "audio/all/8168_i_see_a_fern.mp3",
+     "slow": "audio/all/8168_i_see_a_fern.mp3",
+     "image": "img/raz-d-what_do_you_see-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_what_do_you_see-p16",
+     "type": "sentence",
+     "en": "A cloud moves across the sky.",
+     "zh": "一朵云飘过天空。",
+     "audio": "audio/all/8169_a_cloud_moves_across_the_sky.mp3",
+     "slow": "audio/all/8169_a_cloud_moves_across_the_sky.mp3",
+     "image": "img/raz-d-what_do_you_see-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_what_do_you_see-p17",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8170_what_do_you_see.mp3",
+     "slow": "audio/all/8170_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_what_do_you_see-p18",
+     "type": "sentence",
+     "en": "I see a running lamb.",
+     "zh": "我看见一只奔跑的小羊。",
+     "audio": "audio/all/8171_i_see_a_running_lamb.mp3",
+     "slow": "audio/all/8171_i_see_a_running_lamb.mp3",
+     "image": "img/raz-d-what_do_you_see-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_what_do_you_see-p19",
+     "type": "sentence",
+     "en": "Bark grows on a tree.",
+     "zh": "树上长出了树皮。",
+     "audio": "audio/all/8172_bark_grows_on_a_tree.mp3",
+     "slow": "audio/all/8172_bark_grows_on_a_tree.mp3",
+     "image": "img/raz-d-what_do_you_see-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_what_do_you_see-p20",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看见了什么？",
+     "audio": "audio/all/8173_what_do_you_see.mp3",
+     "slow": "audio/all/8173_what_do_you_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_what_do_you_see-p21",
+     "type": "sentence",
+     "en": "I see a heart.",
+     "zh": "我看见一颗爱心。",
+     "audio": "audio/all/8174_i_see_a_heart.mp3",
+     "slow": "audio/all/8174_i_see_a_heart.mp3",
+     "image": "img/raz-d-what_do_you_see-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_what_do_you_see-p22",
+     "type": "sentence",
+     "en": "Look closely.",
+     "zh": "凑近看一看。",
+     "audio": "audio/all/8175_look_closely.mp3",
+     "slow": "audio/all/8175_look_closely.mp3",
+     "image": "img/raz-d-what_do_you_see-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_what_do_you_see-p23",
+     "type": "sentence",
+     "en": "There is so much to see.",
+     "zh": "有这么多东西可以看呢。",
+     "audio": "audio/all/8176_there_is_so_much_to_see.mp3",
+     "slow": "audio/all/8176_there_is_so_much_to_see.mp3",
+     "image": "img/raz-d-what_do_you_see-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

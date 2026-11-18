@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_lets_make_a_bird_feeder",
+ "nameZh": "我们来做喂鸟器",
+ "bookTitle": "Let's Make a Bird Feeder",
+ "razLevel": "D",
+ "order": 39,
+ "cover": "img/raz-d-lets_make_a_bird_feeder-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_lets_make_a_bird_feeder-u1",
+   "band": 2,
+   "title": "Let's Make a Bird Feeder · 我们来做喂鸟器",
+   "cards": [
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p1",
+     "type": "sentence",
+     "en": "Let's make a bird feeder.",
+     "zh": "我们来做喂鸟器吧。",
+     "audio": "audio/all/7625_let_s_make_a_bird_feeder.mp3",
+     "slow": "audio/all/7625_let_s_make_a_bird_feeder.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p2",
+     "type": "sentence",
+     "en": "We need a pan, birdseed, fruit, and water.",
+     "zh": "我们需要一个盘、鸟粮、水果和水。",
+     "audio": "audio/all/7626_we_need_a_pan_birdseed_fruit_and_water.mp3",
+     "slow": "audio/all/7626_we_need_a_pan_birdseed_fruit_and_water.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p3",
+     "type": "sentence",
+     "en": "We add birdseed to the pan.",
+     "zh": "我们把鸟粮加进盘里。",
+     "audio": "audio/all/7627_we_add_birdseed_to_the_pan.mp3",
+     "slow": "audio/all/7627_we_add_birdseed_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p4",
+     "type": "sentence",
+     "en": "We add dried apple to the pan.",
+     "zh": "我们把苹果干加进盘里。",
+     "audio": "audio/all/7628_we_add_dried_apple_to_the_pan.mp3",
+     "slow": "audio/all/7628_we_add_dried_apple_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p5",
+     "type": "sentence",
+     "en": "We add green grapes to the pan.",
+     "zh": "我们把绿葡萄加进盘里。",
+     "audio": "audio/all/7629_we_add_green_grapes_to_the_pan.mp3",
+     "slow": "audio/all/7629_we_add_green_grapes_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p6",
+     "type": "sentence",
+     "en": "We add red berries to the pan.",
+     "zh": "我们把红莓果加进盘里。",
+     "audio": "audio/all/7630_we_add_red_berries_to_the_pan.mp3",
+     "slow": "audio/all/7630_we_add_red_berries_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p7",
+     "type": "sentence",
+     "en": "We add orange slices to the pan.",
+     "zh": "我们把橙子片加进盘里。",
+     "audio": "audio/all/7631_we_add_orange_slices_to_the_pan.mp3",
+     "slow": "audio/all/7631_we_add_orange_slices_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p8",
+     "type": "sentence",
+     "en": "We add cold water to the pan.",
+     "zh": "我们把凉水加进盘里。",
+     "audio": "audio/all/7632_we_add_cold_water_to_the_pan.mp3",
+     "slow": "audio/all/7632_we_add_cold_water_to_the_pan.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p9",
+     "type": "sentence",
+     "en": "We put the pan in the freezer.",
+     "zh": "我们把盘子放进冷冻室。",
+     "audio": "audio/all/7633_we_put_the_pan_in_the_freezer.mp3",
+     "slow": "audio/all/7633_we_put_the_pan_in_the_freezer.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p10",
+     "type": "sentence",
+     "en": "Later, we take the bird feeder out.",
+     "zh": "之后，我们取出喂鸟器。",
+     "audio": "audio/all/7634_later_we_take_the_bird_feeder_out.mp3",
+     "slow": "audio/all/7634_later_we_take_the_bird_feeder_out.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_lets_make_a_bird_feeder-p11",
+     "type": "sentence",
+     "en": "We hang the bird feeder.",
+     "zh": "我们挂起喂鸟器。",
+     "audio": "audio/all/7635_we_hang_the_bird_feeder.mp3",
+     "slow": "audio/all/7635_we_hang_the_bird_feeder.mp3",
+     "image": "img/raz-d-lets_make_a_bird_feeder-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

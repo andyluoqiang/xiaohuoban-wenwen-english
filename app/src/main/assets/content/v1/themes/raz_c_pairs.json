@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_pairs",
+ "nameZh": "成双成对",
+ "bookTitle": "Pairs",
+ "razLevel": "C",
+ "order": 42,
+ "cover": "img/raz-c-pairs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_pairs-u1",
+   "band": 2,
+   "title": "Pairs · 成双成对",
+   "cards": [
+    {
+     "id": "raz_c_pairs-p1",
+     "type": "sentence",
+     "en": "Two socks make one pair of socks.",
+     "zh": "两只袜子是一双袜子。",
+     "audio": "audio/all/6478_two_socks_make_one_pair_of_socks.mp3",
+     "slow": "audio/all/6478_two_socks_make_one_pair_of_socks.mp3",
+     "image": "img/raz-c-pairs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_pairs-p2",
+     "type": "sentence",
+     "en": "Two shoes make one pair of shoes.",
+     "zh": "两只鞋是一双鞋。",
+     "audio": "audio/all/6479_two_shoes_make_one_pair_of_shoes.mp3",
+     "slow": "audio/all/6479_two_shoes_make_one_pair_of_shoes.mp3",
+     "image": "img/raz-c-pairs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_pairs-p3",
+     "type": "sentence",
+     "en": "Two gloves make one pair of gloves.",
+     "zh": "两只手套是一副手套。",
+     "audio": "audio/all/6480_two_gloves_make_one_pair_of_gloves.mp3",
+     "slow": "audio/all/6480_two_gloves_make_one_pair_of_gloves.mp3",
+     "image": "img/raz-c-pairs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_pairs-p4",
+     "type": "sentence",
+     "en": "Two skates make one pair of skates.",
+     "zh": "两只冰鞋是一双冰鞋。",
+     "audio": "audio/all/6481_two_skates_make_one_pair_of_skates.mp3",
+     "slow": "audio/all/6481_two_skates_make_one_pair_of_skates.mp3",
+     "image": "img/raz-c-pairs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_pairs-p5",
+     "type": "sentence",
+     "en": "Two dice make one pair of dice.",
+     "zh": "两个骰子是一对骰子。",
+     "audio": "audio/all/6482_two_dice_make_one_pair_of_dice.mp3",
+     "slow": "audio/all/6482_two_dice_make_one_pair_of_dice.mp3",
+     "image": "img/raz-c-pairs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_pairs-p6",
+     "type": "sentence",
+     "en": "Two wings make one pair of wings.",
+     "zh": "两只翅膀是一对翅膀。",
+     "audio": "audio/all/6483_two_wings_make_one_pair_of_wings.mp3",
+     "slow": "audio/all/6483_two_wings_make_one_pair_of_wings.mp3",
+     "image": "img/raz-c-pairs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_pairs-p7",
+     "type": "sentence",
+     "en": "Two eyes make one pair of eyes.",
+     "zh": "两只眼睛是一双眼睛。",
+     "audio": "audio/all/6484_two_eyes_make_one_pair_of_eyes.mp3",
+     "slow": "audio/all/6484_two_eyes_make_one_pair_of_eyes.mp3",
+     "image": "img/raz-c-pairs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_pairs-p8",
+     "type": "sentence",
+     "en": "Two twins make one pair of twins.",
+     "zh": "双胞胎是一对双胞胎。",
+     "audio": "audio/all/6485_two_twins_make_one_pair_of_twins.mp3",
+     "slow": "audio/all/6485_two_twins_make_one_pair_of_twins.mp3",
+     "image": "img/raz-c-pairs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

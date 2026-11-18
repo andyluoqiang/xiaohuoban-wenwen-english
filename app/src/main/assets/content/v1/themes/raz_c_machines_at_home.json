@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_machines_at_home",
+ "nameZh": "家里的机器",
+ "bookTitle": "Machines at Home",
+ "razLevel": "C",
+ "order": 30,
+ "cover": "img/raz-c-machines_at_home-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_machines_at_home-u1",
+   "band": 2,
+   "title": "Machines at Home · 家里的机器",
+   "cards": [
+    {
+     "id": "raz_c_machines_at_home-p1",
+     "type": "sentence",
+     "en": "We use machines at home every day.",
+     "zh": "我们每天在家使用机器。",
+     "audio": "audio/all/6361_we_use_machines_at_home_every_day.mp3",
+     "slow": "audio/all/6361_we_use_machines_at_home_every_day.mp3",
+     "image": "img/raz-c-machines_at_home-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_machines_at_home-p2",
+     "type": "sentence",
+     "en": "We wash clothes with a washer.",
+     "zh": "我们用洗衣机洗衣服。",
+     "audio": "audio/all/6362_we_wash_clothes_with_a_washer.mp3",
+     "slow": "audio/all/6362_we_wash_clothes_with_a_washer.mp3",
+     "image": "img/raz-c-machines_at_home-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_machines_at_home-p3",
+     "type": "sentence",
+     "en": "We dry things with a dryer.",
+     "zh": "我们用烘干机烘干东西。",
+     "audio": "audio/all/6363_we_dry_things_with_a_dryer.mp3",
+     "slow": "audio/all/6363_we_dry_things_with_a_dryer.mp3",
+     "image": "img/raz-c-machines_at_home-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_machines_at_home-p4",
+     "type": "sentence",
+     "en": "We freeze food with a freezer.",
+     "zh": "我们用冰箱冷冻食物。",
+     "audio": "audio/all/6364_we_freeze_food_with_a_freezer.mp3",
+     "slow": "audio/all/6364_we_freeze_food_with_a_freezer.mp3",
+     "image": "img/raz-c-machines_at_home-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_machines_at_home-p5",
+     "type": "sentence",
+     "en": "We make dinner with a stove.",
+     "zh": "我们用炉子做晚饭。",
+     "audio": "audio/all/6365_we_make_dinner_with_a_stove.mp3",
+     "slow": "audio/all/6365_we_make_dinner_with_a_stove.mp3",
+     "image": "img/raz-c-machines_at_home-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_machines_at_home-p6",
+     "type": "sentence",
+     "en": "We make cake with a mixer.",
+     "zh": "我们用搅拌机做蛋糕。",
+     "audio": "audio/all/6366_we_make_cake_with_a_mixer.mp3",
+     "slow": "audio/all/6366_we_make_cake_with_a_mixer.mp3",
+     "image": "img/raz-c-machines_at_home-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_machines_at_home-p7",
+     "type": "sentence",
+     "en": "We make milk shakes with a blender.",
+     "zh": "我们用料理机做奶昔。",
+     "audio": "audio/all/6367_we_make_milk_shakes_with_a_blender.mp3",
+     "slow": "audio/all/6367_we_make_milk_shakes_with_a_blender.mp3",
+     "image": "img/raz-c-machines_at_home-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_machines_at_home-p8",
+     "type": "sentence",
+     "en": "What machines do you use every day?",
+     "zh": "你每天用什么机器呢？",
+     "audio": "audio/all/6368_what_machines_do_you_use_every_day.mp3",
+     "slow": "audio/all/6368_what_machines_do_you_use_every_day.mp3",
+     "image": "img/raz-c-machines_at_home-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

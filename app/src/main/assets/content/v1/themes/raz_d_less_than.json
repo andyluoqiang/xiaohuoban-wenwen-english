@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_less_than",
+ "nameZh": "小于",
+ "bookTitle": "Less Than",
+ "razLevel": "D",
+ "order": 38,
+ "cover": "img/raz-d-less_than-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_less_than-u1",
+   "band": 2,
+   "title": "Less Than · 小于",
+   "cards": [
+    {
+     "id": "raz_d_less_than-p1",
+     "type": "sentence",
+     "en": "Who has fewer fish?",
+     "zh": "谁的鱼更少？",
+     "audio": "audio/all/7611_who_has_fewer_fish.mp3",
+     "slow": "audio/all/7611_who_has_fewer_fish.mp3",
+     "image": "img/raz-d-less_than-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_less_than-p2",
+     "type": "sentence",
+     "en": "Count the fish to find the numbers.",
+     "zh": "数一数鱼，找出数字。",
+     "audio": "audio/all/7612_count_the_fish_to_find_the_numbers.mp3",
+     "slow": "audio/all/7612_count_the_fish_to_find_the_numbers.mp3",
+     "image": "img/raz-d-less_than-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_less_than-p3",
+     "type": "sentence",
+     "en": "Compare the numbers to find which is less.",
+     "zh": "比较数字，找出哪个更小。",
+     "audio": "audio/all/7613_compare_the_numbers_to_find_which_is_l.mp3",
+     "slow": "audio/all/7613_compare_the_numbers_to_find_which_is_l.mp3",
+     "image": "img/raz-d-less_than-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_less_than-p4",
+     "type": "sentence",
+     "en": "Sam has three yellow fish.",
+     "zh": "山姆有三条黄鱼。",
+     "audio": "audio/all/7614_sam_has_three_yellow_fish.mp3",
+     "slow": "audio/all/7614_sam_has_three_yellow_fish.mp3",
+     "image": "img/raz-d-less_than-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_less_than-p5",
+     "type": "sentence",
+     "en": "Sara has two yellow fish.",
+     "zh": "萨拉有两条黄鱼。",
+     "audio": "audio/all/7615_sara_has_two_yellow_fish.mp3",
+     "slow": "audio/all/7615_sara_has_two_yellow_fish.mp3",
+     "image": "img/raz-d-less_than-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_less_than-p6",
+     "type": "sentence",
+     "en": "Two is less than three.",
+     "zh": "二小于三。",
+     "audio": "audio/all/7616_two_is_less_than_three.mp3",
+     "slow": "audio/all/7616_two_is_less_than_three.mp3",
+     "image": "img/raz-d-less_than-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_less_than-p7",
+     "type": "sentence",
+     "en": "She has four red fish.",
+     "zh": "她有四条红鱼。",
+     "audio": "audio/all/7617_she_has_four_red_fish.mp3",
+     "slow": "audio/all/7617_she_has_four_red_fish.mp3",
+     "image": "img/raz-d-less_than-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_less_than-p8",
+     "type": "sentence",
+     "en": "He has one red fish.",
+     "zh": "他有一条红鱼。",
+     "audio": "audio/all/7618_he_has_one_red_fish.mp3",
+     "slow": "audio/all/7618_he_has_one_red_fish.mp3",
+     "image": "img/raz-d-less_than-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_less_than-p9",
+     "type": "sentence",
+     "en": "One is less than four.",
+     "zh": "一小于四。",
+     "audio": "audio/all/7619_one_is_less_than_four.mp3",
+     "slow": "audio/all/7619_one_is_less_than_four.mp3",
+     "image": "img/raz-d-less_than-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_less_than-p10",
+     "type": "sentence",
+     "en": "He has five blue fish.",
+     "zh": "他有五条蓝鱼。",
+     "audio": "audio/all/7620_he_has_five_blue_fish.mp3",
+     "slow": "audio/all/7620_he_has_five_blue_fish.mp3",
+     "image": "img/raz-d-less_than-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_less_than-p11",
+     "type": "sentence",
+     "en": "She has no blue fish.",
+     "zh": "她没有蓝鱼。",
+     "audio": "audio/all/7621_she_has_no_blue_fish.mp3",
+     "slow": "audio/all/7621_she_has_no_blue_fish.mp3",
+     "image": "img/raz-d-less_than-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_less_than-p12",
+     "type": "sentence",
+     "en": "Zero is less than five.",
+     "zh": "零小于五。",
+     "audio": "audio/all/7622_zero_is_less_than_five.mp3",
+     "slow": "audio/all/7622_zero_is_less_than_five.mp3",
+     "image": "img/raz-d-less_than-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_less_than-p13",
+     "type": "sentence",
+     "en": "Who has fewer fish total?",
+     "zh": "谁总共鱼更少？",
+     "audio": "audio/all/7623_who_has_fewer_fish_total.mp3",
+     "slow": "audio/all/7623_who_has_fewer_fish_total.mp3",
+     "image": "img/raz-d-less_than-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_less_than-p14",
+     "type": "sentence",
+     "en": "She has fewer fish than he does.",
+     "zh": "她的鱼比他少。",
+     "audio": "audio/all/7624_she_has_fewer_fish_than_he_does.mp3",
+     "slow": "audio/all/7624_she_has_fewer_fish_than_he_does.mp3",
+     "image": "img/raz-d-less_than-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

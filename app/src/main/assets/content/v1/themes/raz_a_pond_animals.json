@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_pond_animals",
+ "nameZh": "池塘动物",
+ "bookTitle": "Pond Animals",
+ "razLevel": "A",
+ "order": 53,
+ "cover": "img/raz-a-pond_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_pond_animals-u1",
+   "band": 2,
+   "title": "Pond Animals · 池塘动物",
+   "cards": [
+    {
+     "id": "raz_a_pond_animals-p1",
+     "type": "sentence",
+     "en": "I see eight bugs.",
+     "zh": "我看见八只虫子。",
+     "audio": "audio/all/5521_i_see_eight_bugs.mp3",
+     "slow": "audio/all/5521_i_see_eight_bugs.mp3",
+     "image": "img/raz-a-pond_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_pond_animals-p2",
+     "type": "sentence",
+     "en": "I see seven ducks.",
+     "zh": "我看见七只鸭子。",
+     "audio": "audio/all/5522_i_see_seven_ducks.mp3",
+     "slow": "audio/all/5522_i_see_seven_ducks.mp3",
+     "image": "img/raz-a-pond_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_pond_animals-p3",
+     "type": "sentence",
+     "en": "I see six frogs.",
+     "zh": "我看见六只青蛙。",
+     "audio": "audio/all/5523_i_see_six_frogs.mp3",
+     "slow": "audio/all/5523_i_see_six_frogs.mp3",
+     "image": "img/raz-a-pond_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_pond_animals-p4",
+     "type": "sentence",
+     "en": "I see five turtles.",
+     "zh": "我看见五只乌龟。",
+     "audio": "audio/all/5524_i_see_five_turtles.mp3",
+     "slow": "audio/all/5524_i_see_five_turtles.mp3",
+     "image": "img/raz-a-pond_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_pond_animals-p5",
+     "type": "sentence",
+     "en": "I see four fish.",
+     "zh": "我看见四条鱼。",
+     "audio": "audio/all/5525_i_see_four_fish.mp3",
+     "slow": "audio/all/5525_i_see_four_fish.mp3",
+     "image": "img/raz-a-pond_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_pond_animals-p6",
+     "type": "sentence",
+     "en": "I see three worms.",
+     "zh": "我看见三条虫。",
+     "audio": "audio/all/5526_i_see_three_worms.mp3",
+     "slow": "audio/all/5526_i_see_three_worms.mp3",
+     "image": "img/raz-a-pond_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_pond_animals-p7",
+     "type": "sentence",
+     "en": "I see two swans.",
+     "zh": "我看见两只天鹅。",
+     "audio": "audio/all/5527_i_see_two_swans.mp3",
+     "slow": "audio/all/5527_i_see_two_swans.mp3",
+     "image": "img/raz-a-pond_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_pond_animals-p8",
+     "type": "sentence",
+     "en": "I see one pond.",
+     "zh": "我看见一个池塘。",
+     "audio": "audio/all/5528_i_see_one_pond.mp3",
+     "slow": "audio/all/5528_i_see_one_pond.mp3",
+     "image": "img/raz-a-pond_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

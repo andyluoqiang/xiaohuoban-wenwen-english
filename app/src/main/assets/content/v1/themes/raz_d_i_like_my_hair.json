@@ -1,0 +1,227 @@
+{
+ "theme": "raz_d_i_like_my_hair",
+ "nameZh": "我喜欢我的头发",
+ "bookTitle": "I Like My Hair",
+ "razLevel": "D",
+ "order": 32,
+ "cover": "img/raz-d-i_like_my_hair-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_i_like_my_hair-u1",
+   "band": 2,
+   "title": "I Like My Hair · 我喜欢我的头发",
+   "cards": [
+    {
+     "id": "raz_d_i_like_my_hair-p1",
+     "type": "sentence",
+     "en": "Hair is fun.",
+     "zh": "头发真好玩。",
+     "audio": "audio/all/7514_hair_is_fun.mp3",
+     "slow": "audio/all/7514_hair_is_fun.mp3",
+     "image": "img/raz-d-i_like_my_hair-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p2",
+     "type": "sentence",
+     "en": "We can wear our hair in lots of different ways.",
+     "zh": "我们可以把头发梳成很多不同的样子。",
+     "audio": "audio/all/7515_we_can_wear_our_hair_in_lots_of_differ.mp3",
+     "slow": "audio/all/7515_we_can_wear_our_hair_in_lots_of_differ.mp3",
+     "image": "img/raz-d-i_like_my_hair-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p3",
+     "type": "sentence",
+     "en": "My hair is curly.",
+     "zh": "我的头发是卷的。",
+     "audio": "audio/all/7516_my_hair_is_curly.mp3",
+     "slow": "audio/all/7516_my_hair_is_curly.mp3",
+     "image": "img/raz-d-i_like_my_hair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p4",
+     "type": "sentence",
+     "en": "I like to let it grow.",
+     "zh": "我喜欢让它长长。",
+     "audio": "audio/all/7517_i_like_to_let_it_grow.mp3",
+     "slow": "audio/all/7517_i_like_to_let_it_grow.mp3",
+     "image": "img/raz-d-i_like_my_hair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p5",
+     "type": "sentence",
+     "en": "My mom likes it cut.",
+     "zh": "我妈妈喜欢剪短它。",
+     "audio": "audio/all/7518_my_mom_likes_it_cut.mp3",
+     "slow": "audio/all/7518_my_mom_likes_it_cut.mp3",
+     "image": "img/raz-d-i_like_my_hair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p6",
+     "type": "sentence",
+     "en": "My hair is straight.",
+     "zh": "我的头发是直的。",
+     "audio": "audio/all/7519_my_hair_is_straight.mp3",
+     "slow": "audio/all/7519_my_hair_is_straight.mp3",
+     "image": "img/raz-d-i_like_my_hair-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p7",
+     "type": "sentence",
+     "en": "I like it to swing when I walk my dog.",
+     "zh": "遛狗时我喜欢让它甩起来。",
+     "audio": "audio/all/7520_i_like_it_to_swing_when_i_walk_my_dog.mp3",
+     "slow": "audio/all/7520_i_like_it_to_swing_when_i_walk_my_dog.mp3",
+     "image": "img/raz-d-i_like_my_hair-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p8",
+     "type": "sentence",
+     "en": "My hair is black.",
+     "zh": "我的头发是黑的。",
+     "audio": "audio/all/7521_my_hair_is_black.mp3",
+     "slow": "audio/all/7521_my_hair_is_black.mp3",
+     "image": "img/raz-d-i_like_my_hair-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p9",
+     "type": "sentence",
+     "en": "I like to put flowers in my hair.",
+     "zh": "我喜欢在头发上戴花。",
+     "audio": "audio/all/7522_i_like_to_put_flowers_in_my_hair.mp3",
+     "slow": "audio/all/7522_i_like_to_put_flowers_in_my_hair.mp3",
+     "image": "img/raz-d-i_like_my_hair-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p10",
+     "type": "sentence",
+     "en": "My hair is red.",
+     "zh": "我的头发是红的。",
+     "audio": "audio/all/7523_my_hair_is_red.mp3",
+     "slow": "audio/all/7523_my_hair_is_red.mp3",
+     "image": "img/raz-d-i_like_my_hair-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p11",
+     "type": "sentence",
+     "en": "I like it to match my freckles.",
+     "zh": "我喜欢让它配上我的雀斑。",
+     "audio": "audio/all/7524_i_like_it_to_match_my_freckles.mp3",
+     "slow": "audio/all/7524_i_like_it_to_match_my_freckles.mp3",
+     "image": "img/raz-d-i_like_my_hair-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p12",
+     "type": "sentence",
+     "en": "My hair has braids.",
+     "zh": "我的头发编着辫子。",
+     "audio": "audio/all/7525_my_hair_has_braids.mp3",
+     "slow": "audio/all/7525_my_hair_has_braids.mp3",
+     "image": "img/raz-d-i_like_my_hair-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p13",
+     "type": "sentence",
+     "en": "I like to swing them when I play.",
+     "zh": "玩的时候我喜欢甩辫子。",
+     "audio": "audio/all/7526_i_like_to_swing_them_when_i_play.mp3",
+     "slow": "audio/all/7526_i_like_to_swing_them_when_i_play.mp3",
+     "image": "img/raz-d-i_like_my_hair-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p14",
+     "type": "sentence",
+     "en": "My hair has spikes.",
+     "zh": "我的头发尖尖竖起。",
+     "audio": "audio/all/7527_my_hair_has_spikes.mp3",
+     "slow": "audio/all/7527_my_hair_has_spikes.mp3",
+     "image": "img/raz-d-i_like_my_hair-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p15",
+     "type": "sentence",
+     "en": "I like to paint them in colors.",
+     "zh": "我喜欢给它涂上颜色。",
+     "audio": "audio/all/7528_i_like_to_paint_them_in_colors.mp3",
+     "slow": "audio/all/7528_i_like_to_paint_them_in_colors.mp3",
+     "image": "img/raz-d-i_like_my_hair-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p16",
+     "type": "sentence",
+     "en": "My hair is short.",
+     "zh": "我的头发短短的。",
+     "audio": "audio/all/7529_my_hair_is_short.mp3",
+     "slow": "audio/all/7529_my_hair_is_short.mp3",
+     "image": "img/raz-d-i_like_my_hair-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p17",
+     "type": "sentence",
+     "en": "I like it to stay out of my eyes.",
+     "zh": "我喜欢它不挡眼睛。",
+     "audio": "audio/all/7530_i_like_it_to_stay_out_of_my_eyes.mp3",
+     "slow": "audio/all/7530_i_like_it_to_stay_out_of_my_eyes.mp3",
+     "image": "img/raz-d-i_like_my_hair-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p18",
+     "type": "sentence",
+     "en": "My hair is long.",
+     "zh": "我的头发长长的。",
+     "audio": "audio/all/7531_my_hair_is_long.mp3",
+     "slow": "audio/all/7531_my_hair_is_long.mp3",
+     "image": "img/raz-d-i_like_my_hair-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p19",
+     "type": "sentence",
+     "en": "I like it to hang upside down.",
+     "zh": "我喜欢倒挂时垂下来。",
+     "audio": "audio/all/7532_i_like_it_to_hang_upside_down.mp3",
+     "slow": "audio/all/7532_i_like_it_to_hang_upside_down.mp3",
+     "image": "img/raz-d-i_like_my_hair-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p20",
+     "type": "sentence",
+     "en": "What is your hair like?",
+     "zh": "你的头发是什么样的？",
+     "audio": "audio/all/7533_what_is_your_hair_like.mp3",
+     "slow": "audio/all/7533_what_is_your_hair_like.mp3",
+     "image": "img/raz-d-i_like_my_hair-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_i_like_my_hair-p21",
+     "type": "sentence",
+     "en": "What do you like best about your hair?",
+     "zh": "你最喜欢你头发的哪一点？",
+     "audio": "audio/all/7534_what_do_you_like_best_about_your_hair.mp3",
+     "slow": "audio/all/7534_what_do_you_like_best_about_your_hair.mp3",
+     "image": "img/raz-d-i_like_my_hair-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

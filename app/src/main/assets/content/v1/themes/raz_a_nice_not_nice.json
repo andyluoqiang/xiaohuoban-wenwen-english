@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_nice_not_nice",
+ "nameZh": "友好，不友好",
+ "bookTitle": "Nice, Not Nice",
+ "razLevel": "A",
+ "order": 49,
+ "cover": "img/raz-a-nice_not_nice-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_nice_not_nice-u1",
+   "band": 2,
+   "title": "Nice, Not Nice · 友好，不友好",
+   "cards": [
+    {
+     "id": "raz_a_nice_not_nice-p1",
+     "type": "sentence",
+     "en": "This push is nice.",
+     "zh": "这样推人很友好。",
+     "audio": "audio/all/5489_this_push_is_nice.mp3",
+     "slow": "audio/all/5489_this_push_is_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_nice_not_nice-p2",
+     "type": "sentence",
+     "en": "This push is not nice.",
+     "zh": "这样推人不友好。",
+     "audio": "audio/all/5490_this_push_is_not_nice.mp3",
+     "slow": "audio/all/5490_this_push_is_not_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_nice_not_nice-p3",
+     "type": "sentence",
+     "en": "This kick is nice.",
+     "zh": "这样踢很友好。",
+     "audio": "audio/all/5491_this_kick_is_nice.mp3",
+     "slow": "audio/all/5491_this_kick_is_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_nice_not_nice-p4",
+     "type": "sentence",
+     "en": "This kick is not nice.",
+     "zh": "这样踢不友好。",
+     "audio": "audio/all/5492_this_kick_is_not_nice.mp3",
+     "slow": "audio/all/5492_this_kick_is_not_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_nice_not_nice-p5",
+     "type": "sentence",
+     "en": "This hit is nice.",
+     "zh": "这样打很友好。",
+     "audio": "audio/all/5493_this_hit_is_nice.mp3",
+     "slow": "audio/all/5493_this_hit_is_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_nice_not_nice-p6",
+     "type": "sentence",
+     "en": "This hit is not nice.",
+     "zh": "这样打不友好。",
+     "audio": "audio/all/5494_this_hit_is_not_nice.mp3",
+     "slow": "audio/all/5494_this_hit_is_not_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_nice_not_nice-p7",
+     "type": "sentence",
+     "en": "This pull is nice.",
+     "zh": "这样拉很友好。",
+     "audio": "audio/all/5495_this_pull_is_nice.mp3",
+     "slow": "audio/all/5495_this_pull_is_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_nice_not_nice-p8",
+     "type": "sentence",
+     "en": "This pull is not nice.",
+     "zh": "这样拉不友好。",
+     "audio": "audio/all/5496_this_pull_is_not_nice.mp3",
+     "slow": "audio/all/5496_this_pull_is_not_nice.mp3",
+     "image": "img/raz-a-nice_not_nice-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

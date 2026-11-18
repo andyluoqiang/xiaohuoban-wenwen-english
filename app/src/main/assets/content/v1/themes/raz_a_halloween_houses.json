@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_halloween_houses",
+ "nameZh": "万圣节的房子",
+ "bookTitle": "Halloween Houses",
+ "razLevel": "A",
+ "order": 22,
+ "cover": "img/raz-a-halloween_houses-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_halloween_houses-u1",
+   "band": 2,
+   "title": "Halloween Houses · 万圣节的房子",
+   "cards": [
+    {
+     "id": "raz_a_halloween_houses-p1",
+     "type": "sentence",
+     "en": "This house has pumpkins.",
+     "zh": "这座房子有南瓜。",
+     "audio": "audio/all/5272_this_house_has_pumpkins.mp3",
+     "slow": "audio/all/5272_this_house_has_pumpkins.mp3",
+     "image": "img/raz-a-halloween_houses-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_halloween_houses-p2",
+     "type": "sentence",
+     "en": "This house has bats.",
+     "zh": "这座房子有蝙蝠。",
+     "audio": "audio/all/5273_this_house_has_bats.mp3",
+     "slow": "audio/all/5273_this_house_has_bats.mp3",
+     "image": "img/raz-a-halloween_houses-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_halloween_houses-p3",
+     "type": "sentence",
+     "en": "This house has candles.",
+     "zh": "这座房子有蜡烛。",
+     "audio": "audio/all/5274_this_house_has_candles.mp3",
+     "slow": "audio/all/5274_this_house_has_candles.mp3",
+     "image": "img/raz-a-halloween_houses-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_halloween_houses-p4",
+     "type": "sentence",
+     "en": "This house has webs.",
+     "zh": "这座房子有蛛网。",
+     "audio": "audio/all/5275_this_house_has_webs.mp3",
+     "slow": "audio/all/5275_this_house_has_webs.mp3",
+     "image": "img/raz-a-halloween_houses-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_halloween_houses-p5",
+     "type": "sentence",
+     "en": "This house has ghosts.",
+     "zh": "这座房子有幽灵。",
+     "audio": "audio/all/5276_this_house_has_ghosts.mp3",
+     "slow": "audio/all/5276_this_house_has_ghosts.mp3",
+     "image": "img/raz-a-halloween_houses-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_halloween_houses-p6",
+     "type": "sentence",
+     "en": "This house has fog.",
+     "zh": "这座房子有雾气。",
+     "audio": "audio/all/5277_this_house_has_fog.mp3",
+     "slow": "audio/all/5277_this_house_has_fog.mp3",
+     "image": "img/raz-a-halloween_houses-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_halloween_houses-p7",
+     "type": "sentence",
+     "en": "This house has monsters.",
+     "zh": "这座房子有怪物。",
+     "audio": "audio/all/5278_this_house_has_monsters.mp3",
+     "slow": "audio/all/5278_this_house_has_monsters.mp3",
+     "image": "img/raz-a-halloween_houses-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_halloween_houses-p8",
+     "type": "sentence",
+     "en": "This house has Mom!",
+     "zh": "这座房子有妈妈！",
+     "audio": "audio/all/5279_this_house_has_mom.mp3",
+     "slow": "audio/all/5279_this_house_has_mom.mp3",
+     "image": "img/raz-a-halloween_houses-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

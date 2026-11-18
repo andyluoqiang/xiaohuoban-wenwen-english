@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_i_hide",
+ "nameZh": "我藏起来",
+ "bookTitle": "I Hide",
+ "razLevel": "D",
+ "order": 31,
+ "cover": "img/raz-d-i_hide-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_i_hide-u1",
+   "band": 2,
+   "title": "I Hide · 我藏起来",
+   "cards": [
+    {
+     "id": "raz_d_i_hide-p1",
+     "type": "sentence",
+     "en": "Mom says it is time for bed.",
+     "zh": "妈妈说该睡觉了。",
+     "audio": "audio/all/7503_mom_says_it_is_time_for_bed.mp3",
+     "slow": "audio/all/7503_mom_says_it_is_time_for_bed.mp3",
+     "image": "img/raz-d-i_hide-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_hide-p2",
+     "type": "sentence",
+     "en": "I am not sleepy.",
+     "zh": "我不困。",
+     "audio": "audio/all/7504_i_am_not_sleepy.mp3",
+     "slow": "audio/all/7504_i_am_not_sleepy.mp3",
+     "image": "img/raz-d-i_hide-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_hide-p3",
+     "type": "sentence",
+     "en": "so I hide instead.",
+     "zh": "所以我躲了起来。",
+     "audio": "audio/all/7505_so_i_hide_instead.mp3",
+     "slow": "audio/all/7505_so_i_hide_instead.mp3",
+     "image": "img/raz-d-i_hide-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_hide-p4",
+     "type": "sentence",
+     "en": "I hide near Dad behind the chair.",
+     "zh": "我躲在爸爸附近的椅子后面。",
+     "audio": "audio/all/7506_i_hide_near_dad_behind_the_chair.mp3",
+     "slow": "audio/all/7506_i_hide_near_dad_behind_the_chair.mp3",
+     "image": "img/raz-d-i_hide-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_hide-p5",
+     "type": "sentence",
+     "en": "I hide near Frank behind his bed.",
+     "zh": "我躲在弗兰克附近的床后面。",
+     "audio": "audio/all/7507_i_hide_near_frank_behind_his_bed.mp3",
+     "slow": "audio/all/7507_i_hide_near_frank_behind_his_bed.mp3",
+     "image": "img/raz-d-i_hide-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_hide-p6",
+     "type": "sentence",
+     "en": "I hide near Puff behind the door.",
+     "zh": "我躲在帕夫附近的门后面。",
+     "audio": "audio/all/7508_i_hide_near_puff_behind_the_door.mp3",
+     "slow": "audio/all/7508_i_hide_near_puff_behind_the_door.mp3",
+     "image": "img/raz-d-i_hide-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_hide-p7",
+     "type": "sentence",
+     "en": "I hide near Gram inside the basket.",
+     "zh": "我躲在奶奶附近的篮子里。",
+     "audio": "audio/all/7509_i_hide_near_gram_inside_the_basket.mp3",
+     "slow": "audio/all/7509_i_hide_near_gram_inside_the_basket.mp3",
+     "image": "img/raz-d-i_hide-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_hide-p8",
+     "type": "sentence",
+     "en": "I hide near Ron inside the closet.",
+     "zh": "我躲在罗恩附近的衣柜里。",
+     "audio": "audio/all/7510_i_hide_near_ron_inside_the_closet.mp3",
+     "slow": "audio/all/7510_i_hide_near_ron_inside_the_closet.mp3",
+     "image": "img/raz-d-i_hide-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_hide-p9",
+     "type": "sentence",
+     "en": "I hide near Sam inside the tub.",
+     "zh": "我躲在山姆附近的浴缸里。",
+     "audio": "audio/all/7511_i_hide_near_sam_inside_the_tub.mp3",
+     "slow": "audio/all/7511_i_hide_near_sam_inside_the_tub.mp3",
+     "image": "img/raz-d-i_hide-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_hide-p10",
+     "type": "sentence",
+     "en": "Soon I am tired from hiding so much.",
+     "zh": "很快我躲累了。",
+     "audio": "audio/all/7512_soon_i_am_tired_from_hiding_so_much.mp3",
+     "slow": "audio/all/7512_soon_i_am_tired_from_hiding_so_much.mp3",
+     "image": "img/raz-d-i_hide-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_hide-p11",
+     "type": "sentence",
+     "en": "Now it is time to hide under the covers!",
+     "zh": "现在是躲进被窝里的时候啦！",
+     "audio": "audio/all/7513_now_it_is_time_to_hide_under_the_cover.mp3",
+     "slow": "audio/all/7513_now_it_is_time_to_hide_under_the_cover.mp3",
+     "image": "img/raz-d-i_hide-p09.jpg",
+     "page": 9
+    }
+   ]
+  }
+ ]
+}

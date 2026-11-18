@@ -1,0 +1,107 @@
+{
+ "theme": "raz_d_animal_horns",
+ "nameZh": "动物的角",
+ "bookTitle": "Animal Horns",
+ "razLevel": "D",
+ "order": 5,
+ "cover": "img/raz-d-animal_horns-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_animal_horns-u1",
+   "band": 2,
+   "title": "Animal Horns · 动物的角",
+   "cards": [
+    {
+     "id": "raz_d_animal_horns-p1",
+     "type": "sentence",
+     "en": "There are many kinds of animal horns.",
+     "zh": "动物的角有很多种。",
+     "audio": "audio/all/7145_there_are_many_kinds_of_animal_horns.mp3",
+     "slow": "audio/all/7145_there_are_many_kinds_of_animal_horns.mp3",
+     "image": "img/raz-d-animal_horns-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_horns-p2",
+     "type": "sentence",
+     "en": "This water buffalo has big horns.",
+     "zh": "这头水牛有大角。",
+     "audio": "audio/all/7146_this_water_buffalo_has_big_horns.mp3",
+     "slow": "audio/all/7146_this_water_buffalo_has_big_horns.mp3",
+     "image": "img/raz-d-animal_horns-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_animal_horns-p3",
+     "type": "sentence",
+     "en": "This lizard has little horns.",
+     "zh": "这只蜥蜴有小角。",
+     "audio": "audio/all/7147_this_lizard_has_little_horns.mp3",
+     "slow": "audio/all/7147_this_lizard_has_little_horns.mp3",
+     "image": "img/raz-d-animal_horns-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_animal_horns-p4",
+     "type": "sentence",
+     "en": "This bull has long horns.",
+     "zh": "这头公牛有长角。",
+     "audio": "audio/all/7148_this_bull_has_long_horns.mp3",
+     "slow": "audio/all/7148_this_bull_has_long_horns.mp3",
+     "image": "img/raz-d-animal_horns-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_animal_horns-p5",
+     "type": "sentence",
+     "en": "This mountain goat has short horns.",
+     "zh": "这只山羊有短角。",
+     "audio": "audio/all/7149_this_mountain_goat_has_short_horns.mp3",
+     "slow": "audio/all/7149_this_mountain_goat_has_short_horns.mp3",
+     "image": "img/raz-d-animal_horns-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_animal_horns-p6",
+     "type": "sentence",
+     "en": "This antelope has straight horns.",
+     "zh": "这只羚羊有直角。",
+     "audio": "audio/all/7150_this_antelope_has_straight_horns.mp3",
+     "slow": "audio/all/7150_this_antelope_has_straight_horns.mp3",
+     "image": "img/raz-d-animal_horns-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_animal_horns-p7",
+     "type": "sentence",
+     "en": "This sheep has curved horns.",
+     "zh": "这只羊有弯角。",
+     "audio": "audio/all/7151_this_sheep_has_curved_horns.mp3",
+     "slow": "audio/all/7151_this_sheep_has_curved_horns.mp3",
+     "image": "img/raz-d-animal_horns-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_animal_horns-p8",
+     "type": "sentence",
+     "en": "Some animals use their horns for scratching.",
+     "zh": "有些动物用角挠痒。",
+     "audio": "audio/all/7152_some_animals_use_their_horns_for_scrat.mp3",
+     "slow": "audio/all/7152_some_animals_use_their_horns_for_scrat.mp3",
+     "image": "img/raz-d-animal_horns-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_animal_horns-p9",
+     "type": "sentence",
+     "en": "They may also use their horns for fighting.",
+     "zh": "它们也可能用角打斗。",
+     "audio": "audio/all/7153_they_may_also_use_their_horns_for_figh.mp3",
+     "slow": "audio/all/7153_they_may_also_use_their_horns_for_figh.mp3",
+     "image": "img/raz-d-animal_horns-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

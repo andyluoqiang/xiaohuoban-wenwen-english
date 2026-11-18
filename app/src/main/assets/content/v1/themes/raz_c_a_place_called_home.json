@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_a_place_called_home",
+ "nameZh": "一个叫家的地方",
+ "bookTitle": "A Place Called Home",
+ "razLevel": "C",
+ "order": 1,
+ "cover": "img/raz-c-a_place_called_home-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_a_place_called_home-u1",
+   "band": 2,
+   "title": "A Place Called Home · 一个叫家的地方",
+   "cards": [
+    {
+     "id": "raz_c_a_place_called_home-p1",
+     "type": "sentence",
+     "en": "This is a room.",
+     "zh": "这是一个房间。",
+     "audio": "audio/all/6000_this_is_a_room.mp3",
+     "slow": "audio/all/6000_this_is_a_room.mp3",
+     "image": "img/raz-c-a_place_called_home-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_a_place_called_home-p2",
+     "type": "sentence",
+     "en": "The room is in a house.",
+     "zh": "房间在一座房子里。",
+     "audio": "audio/all/6001_the_room_is_in_a_house.mp3",
+     "slow": "audio/all/6001_the_room_is_in_a_house.mp3",
+     "image": "img/raz-c-a_place_called_home-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_a_place_called_home-p3",
+     "type": "sentence",
+     "en": "The house is on a street.",
+     "zh": "房子在一条街上。",
+     "audio": "audio/all/6002_the_house_is_on_a_street.mp3",
+     "slow": "audio/all/6002_the_house_is_on_a_street.mp3",
+     "image": "img/raz-c-a_place_called_home-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_a_place_called_home-p4",
+     "type": "sentence",
+     "en": "The street is in a city.",
+     "zh": "街道在一座城市里。",
+     "audio": "audio/all/6003_the_street_is_in_a_city.mp3",
+     "slow": "audio/all/6003_the_street_is_in_a_city.mp3",
+     "image": "img/raz-c-a_place_called_home-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_a_place_called_home-p5",
+     "type": "sentence",
+     "en": "The city is in a state.",
+     "zh": "城市在一个州里。",
+     "audio": "audio/all/6004_the_city_is_in_a_state.mp3",
+     "slow": "audio/all/6004_the_city_is_in_a_state.mp3",
+     "image": "img/raz-c-a_place_called_home-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_a_place_called_home-p6",
+     "type": "sentence",
+     "en": "The state is in a country.",
+     "zh": "州在一个国家里。",
+     "audio": "audio/all/6005_the_state_is_in_a_country.mp3",
+     "slow": "audio/all/6005_the_state_is_in_a_country.mp3",
+     "image": "img/raz-c-a_place_called_home-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_a_place_called_home-p7",
+     "type": "sentence",
+     "en": "The country is in the world.",
+     "zh": "国家在这个世界上。",
+     "audio": "audio/all/6006_the_country_is_in_the_world.mp3",
+     "slow": "audio/all/6006_the_country_is_in_the_world.mp3",
+     "image": "img/raz-c-a_place_called_home-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_a_place_called_home-p8",
+     "type": "sentence",
+     "en": "The world is the place we call home.",
+     "zh": "世界就是我们称之为家的地方。",
+     "audio": "audio/all/6007_the_world_is_the_place_we_call_home.mp3",
+     "slow": "audio/all/6007_the_world_is_the_place_we_call_home.mp3",
+     "image": "img/raz-c-a_place_called_home-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

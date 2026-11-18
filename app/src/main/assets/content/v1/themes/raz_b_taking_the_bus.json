@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "I walk to the bus stop.",
      "zh": "我走到公交站。",
-     "audio": "audio/all/3440_i_walk_to_the_bus_stop.mp3",
-     "slow": "audio/all/3440_i_walk_to_the_bus_stop.mp3",
+     "audio": "audio/all/8840_i_walk_to_the_bus_stop.mp3",
+     "slow": "audio/all/8840_i_walk_to_the_bus_stop.mp3",
      "image": "img/raz-b-taking_the_bus-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "I wait for the bus.",
      "zh": "我等公交车。",
-     "audio": "audio/all/3441_i_wait_for_the_bus.mp3",
-     "slow": "audio/all/3441_i_wait_for_the_bus.mp3",
+     "audio": "audio/all/8841_i_wait_for_the_bus.mp3",
+     "slow": "audio/all/8841_i_wait_for_the_bus.mp3",
      "image": "img/raz-b-taking_the_bus-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "I see the bus come.",
      "zh": "我看见公交车来了。",
-     "audio": "audio/all/3442_i_see_the_bus_come.mp3",
-     "slow": "audio/all/3442_i_see_the_bus_come.mp3",
+     "audio": "audio/all/8842_i_see_the_bus_come.mp3",
+     "slow": "audio/all/8842_i_see_the_bus_come.mp3",
      "image": "img/raz-b-taking_the_bus-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "I get on the bus.",
      "zh": "我上了公交车。",
-     "audio": "audio/all/3443_i_get_on_the_bus.mp3",
-     "slow": "audio/all/3443_i_get_on_the_bus.mp3",
+     "audio": "audio/all/8843_i_get_on_the_bus.mp3",
+     "slow": "audio/all/8843_i_get_on_the_bus.mp3",
      "image": "img/raz-b-taking_the_bus-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "I pay for the bus ride.",
      "zh": "我付了车费。",
-     "audio": "audio/all/3444_i_pay_for_the_bus_ride.mp3",
-     "slow": "audio/all/3444_i_pay_for_the_bus_ride.mp3",
+     "audio": "audio/all/8844_i_pay_for_the_bus_ride.mp3",
+     "slow": "audio/all/8844_i_pay_for_the_bus_ride.mp3",
      "image": "img/raz-b-taking_the_bus-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "I ride on the bus.",
      "zh": "我坐在车上。",
-     "audio": "audio/all/3445_i_ride_on_the_bus.mp3",
-     "slow": "audio/all/3445_i_ride_on_the_bus.mp3",
+     "audio": "audio/all/8845_i_ride_on_the_bus.mp3",
+     "slow": "audio/all/8845_i_ride_on_the_bus.mp3",
      "image": "img/raz-b-taking_the_bus-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "I get off the bus.",
      "zh": "我下了公交车。",
-     "audio": "audio/all/3446_i_get_off_the_bus.mp3",
-     "slow": "audio/all/3446_i_get_off_the_bus.mp3",
+     "audio": "audio/all/8846_i_get_off_the_bus.mp3",
+     "slow": "audio/all/8846_i_get_off_the_bus.mp3",
      "image": "img/raz-b-taking_the_bus-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "I walk the rest of the way to school.",
      "zh": "我走完剩下的路去学校。",
-     "audio": "audio/all/3447_i_walk_the_rest_of_the_way_to_school.mp3",
-     "slow": "audio/all/3447_i_walk_the_rest_of_the_way_to_school.mp3",
+     "audio": "audio/all/8847_i_walk_the_rest_of_the_way_to_school.mp3",
+     "slow": "audio/all/8847_i_walk_the_rest_of_the_way_to_school.mp3",
      "image": "img/raz-b-taking_the_bus-p08.jpg",
      "page": 8
     }

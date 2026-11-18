@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_baby_animals",
+ "nameZh": "动物宝宝",
+ "bookTitle": "Baby Animals",
+ "razLevel": "A",
+ "order": 4,
+ "cover": "img/raz-a-baby_animals-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_baby_animals-u1",
+   "band": 2,
+   "title": "Baby Animals · 动物宝宝",
+   "cards": [
+    {
+     "id": "raz_a_baby_animals-p1",
+     "type": "sentence",
+     "en": "This is a kitten.",
+     "zh": "这是一只小猫。",
+     "audio": "audio/all/5124_this_is_a_kitten.mp3",
+     "slow": "audio/all/5124_this_is_a_kitten.mp3",
+     "image": "img/raz-a-baby_animals-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_baby_animals-p2",
+     "type": "sentence",
+     "en": "This is a puppy.",
+     "zh": "这是一只小狗。",
+     "audio": "audio/all/5125_this_is_a_puppy.mp3",
+     "slow": "audio/all/5125_this_is_a_puppy.mp3",
+     "image": "img/raz-a-baby_animals-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_baby_animals-p3",
+     "type": "sentence",
+     "en": "This is a chick.",
+     "zh": "这是一只小鸡。",
+     "audio": "audio/all/5126_this_is_a_chick.mp3",
+     "slow": "audio/all/5126_this_is_a_chick.mp3",
+     "image": "img/raz-a-baby_animals-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_baby_animals-p4",
+     "type": "sentence",
+     "en": "This is a cub.",
+     "zh": "这是一只幼兽。",
+     "audio": "audio/all/5127_this_is_a_cub.mp3",
+     "slow": "audio/all/5127_this_is_a_cub.mp3",
+     "image": "img/raz-a-baby_animals-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_baby_animals-p5",
+     "type": "sentence",
+     "en": "This is a calf.",
+     "zh": "这是一头小牛。",
+     "audio": "audio/all/5128_this_is_a_calf.mp3",
+     "slow": "audio/all/5128_this_is_a_calf.mp3",
+     "image": "img/raz-a-baby_animals-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_baby_animals-p6",
+     "type": "sentence",
+     "en": "This is a kid.",
+     "zh": "这是一只小山羊。",
+     "audio": "audio/all/5129_this_is_a_kid.mp3",
+     "slow": "audio/all/5129_this_is_a_kid.mp3",
+     "image": "img/raz-a-baby_animals-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_baby_animals-p7",
+     "type": "sentence",
+     "en": "This is a lamb.",
+     "zh": "这是一只小羊羔。",
+     "audio": "audio/all/5130_this_is_a_lamb.mp3",
+     "slow": "audio/all/5130_this_is_a_lamb.mp3",
+     "image": "img/raz-a-baby_animals-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_baby_animals-p8",
+     "type": "sentence",
+     "en": "This is a foal.",
+     "zh": "这是一匹小马驹。",
+     "audio": "audio/all/5131_this_is_a_foal.mp3",
+     "slow": "audio/all/5131_this_is_a_foal.mp3",
+     "image": "img/raz-a-baby_animals-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

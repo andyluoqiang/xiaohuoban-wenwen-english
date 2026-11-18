@@ -1,0 +1,217 @@
+{
+ "theme": "raz_d_senses",
+ "nameZh": "五种感官",
+ "bookTitle": "Senses",
+ "razLevel": "D",
+ "order": 56,
+ "cover": "img/raz-d-senses-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_senses-u1",
+   "band": 2,
+   "title": "Senses · 五种感官",
+   "cards": [
+    {
+     "id": "raz_d_senses-p1",
+     "type": "sentence",
+     "en": "I like to learn about things.",
+     "zh": "我喜欢了解各种事物。",
+     "audio": "audio/all/7856_i_like_to_learn_about_things.mp3",
+     "slow": "audio/all/7856_i_like_to_learn_about_things.mp3",
+     "image": "img/raz-d-senses-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_senses-p2",
+     "type": "sentence",
+     "en": "How do I learn about things?",
+     "zh": "我是怎么了解事物的呢？",
+     "audio": "audio/all/7857_how_do_i_learn_about_things.mp3",
+     "slow": "audio/all/7857_how_do_i_learn_about_things.mp3",
+     "image": "img/raz-d-senses-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_senses-p3",
+     "type": "sentence",
+     "en": "I use my five senses.",
+     "zh": "我用我的五种感官。",
+     "audio": "audio/all/7858_i_use_my_five_senses.mp3",
+     "slow": "audio/all/7858_i_use_my_five_senses.mp3",
+     "image": "img/raz-d-senses-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_senses-p4",
+     "type": "sentence",
+     "en": "I use my eyes to see.",
+     "zh": "我用眼睛看。",
+     "audio": "audio/all/7859_i_use_my_eyes_to_see.mp3",
+     "slow": "audio/all/7859_i_use_my_eyes_to_see.mp3",
+     "image": "img/raz-d-senses-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_senses-p5",
+     "type": "sentence",
+     "en": "I see birds and bees.",
+     "zh": "我看见鸟儿和蜜蜂。",
+     "audio": "audio/all/7860_i_see_birds_and_bees.mp3",
+     "slow": "audio/all/7860_i_see_birds_and_bees.mp3",
+     "image": "img/raz-d-senses-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_senses-p6",
+     "type": "sentence",
+     "en": "I use my ears to hear.",
+     "zh": "我用耳朵听。",
+     "audio": "audio/all/7861_i_use_my_ears_to_hear.mp3",
+     "slow": "audio/all/7861_i_use_my_ears_to_hear.mp3",
+     "image": "img/raz-d-senses-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_senses-p7",
+     "type": "sentence",
+     "en": "I hear birds singing.",
+     "zh": "我听见鸟儿唱歌。",
+     "audio": "audio/all/7862_i_hear_birds_singing.mp3",
+     "slow": "audio/all/7862_i_hear_birds_singing.mp3",
+     "image": "img/raz-d-senses-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_senses-p8",
+     "type": "sentence",
+     "en": "I hear bees buzzing.",
+     "zh": "我听见蜜蜂嗡嗡叫。",
+     "audio": "audio/all/7863_i_hear_bees_buzzing.mp3",
+     "slow": "audio/all/7863_i_hear_bees_buzzing.mp3",
+     "image": "img/raz-d-senses-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_senses-p9",
+     "type": "sentence",
+     "en": "I use my nose to smell.",
+     "zh": "我用鼻子闻。",
+     "audio": "audio/all/7864_i_use_my_nose_to_smell.mp3",
+     "slow": "audio/all/7864_i_use_my_nose_to_smell.mp3",
+     "image": "img/raz-d-senses-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_senses-p10",
+     "type": "sentence",
+     "en": "I smell pretty flowers.",
+     "zh": "我闻到美丽的花香。",
+     "audio": "audio/all/7865_i_smell_pretty_flowers.mp3",
+     "slow": "audio/all/7865_i_smell_pretty_flowers.mp3",
+     "image": "img/raz-d-senses-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_senses-p11",
+     "type": "sentence",
+     "en": "I use my fingers to touch.",
+     "zh": "我用手指摸。",
+     "audio": "audio/all/7866_i_use_my_fingers_to_touch.mp3",
+     "slow": "audio/all/7866_i_use_my_fingers_to_touch.mp3",
+     "image": "img/raz-d-senses-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_senses-p12",
+     "type": "sentence",
+     "en": "I touch the fuzzy caterpillar.",
+     "zh": "我摸到毛茸茸的毛毛虫。",
+     "audio": "audio/all/7867_i_touch_the_fuzzy_caterpillar.mp3",
+     "slow": "audio/all/7867_i_touch_the_fuzzy_caterpillar.mp3",
+     "image": "img/raz-d-senses-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_senses-p13",
+     "type": "sentence",
+     "en": "I use my tongue to taste.",
+     "zh": "我用舌头尝。",
+     "audio": "audio/all/7868_i_use_my_tongue_to_taste.mp3",
+     "slow": "audio/all/7868_i_use_my_tongue_to_taste.mp3",
+     "image": "img/raz-d-senses-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_senses-p14",
+     "type": "sentence",
+     "en": "I taste sweet berries.",
+     "zh": "我尝到甜甜的浆果。",
+     "audio": "audio/all/7869_i_taste_sweet_berries.mp3",
+     "slow": "audio/all/7869_i_taste_sweet_berries.mp3",
+     "image": "img/raz-d-senses-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_senses-p15",
+     "type": "sentence",
+     "en": "I like to go to my garden.",
+     "zh": "我喜欢去我的花园。",
+     "audio": "audio/all/7870_i_like_to_go_to_my_garden.mp3",
+     "slow": "audio/all/7870_i_like_to_go_to_my_garden.mp3",
+     "image": "img/raz-d-senses-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_senses-p16",
+     "type": "sentence",
+     "en": "I use my five senses.",
+     "zh": "我用我的五种感官。",
+     "audio": "audio/all/7871_i_use_my_five_senses.mp3",
+     "slow": "audio/all/7871_i_use_my_five_senses.mp3",
+     "image": "img/raz-d-senses-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_senses-p17",
+     "type": "sentence",
+     "en": "I use them to see and hear.",
+     "zh": "我用它们来看和听。",
+     "audio": "audio/all/7872_i_use_them_to_see_and_hear.mp3",
+     "slow": "audio/all/7872_i_use_them_to_see_and_hear.mp3",
+     "image": "img/raz-d-senses-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_senses-p18",
+     "type": "sentence",
+     "en": "I use them to smell and taste.",
+     "zh": "我用它们来闻和尝。",
+     "audio": "audio/all/7873_i_use_them_to_smell_and_taste.mp3",
+     "slow": "audio/all/7873_i_use_them_to_smell_and_taste.mp3",
+     "image": "img/raz-d-senses-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_senses-p19",
+     "type": "sentence",
+     "en": "I use them to touch.",
+     "zh": "我用它们来触摸。",
+     "audio": "audio/all/7874_i_use_them_to_touch.mp3",
+     "slow": "audio/all/7874_i_use_them_to_touch.mp3",
+     "image": "img/raz-d-senses-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_senses-p20",
+     "type": "sentence",
+     "en": "I learn a lot from my senses.",
+     "zh": "我的感官让我学到很多。",
+     "audio": "audio/all/7875_i_learn_a_lot_from_my_senses.mp3",
+     "slow": "audio/all/7875_i_learn_a_lot_from_my_senses.mp3",
+     "image": "img/raz-d-senses-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

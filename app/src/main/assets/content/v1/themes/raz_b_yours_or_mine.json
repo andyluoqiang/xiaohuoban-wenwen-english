@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "This bed is my bed.",
      "zh": "这张床是我的床。",
-     "audio": "audio/all/3697_this_bed_is_my_bed.mp3",
-     "slow": "audio/all/3697_this_bed_is_my_bed.mp3",
+     "audio": "audio/all/9097_this_bed_is_my_bed.mp3",
+     "slow": "audio/all/9097_this_bed_is_my_bed.mp3",
      "image": "img/raz-b-yours_or_mine-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "This bed is your bed.",
      "zh": "这张床是你的床。",
-     "audio": "audio/all/3698_this_bed_is_your_bed.mp3",
-     "slow": "audio/all/3698_this_bed_is_your_bed.mp3",
+     "audio": "audio/all/9098_this_bed_is_your_bed.mp3",
+     "slow": "audio/all/9098_this_bed_is_your_bed.mp3",
      "image": "img/raz-b-yours_or_mine-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "This food is my food.",
      "zh": "这些食物是我的。",
-     "audio": "audio/all/3699_this_food_is_my_food.mp3",
-     "slow": "audio/all/3699_this_food_is_my_food.mp3",
+     "audio": "audio/all/9099_this_food_is_my_food.mp3",
+     "slow": "audio/all/9099_this_food_is_my_food.mp3",
      "image": "img/raz-b-yours_or_mine-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "This food is your food.",
      "zh": "这些食物是你的。",
-     "audio": "audio/all/3700_this_food_is_your_food.mp3",
-     "slow": "audio/all/3700_this_food_is_your_food.mp3",
+     "audio": "audio/all/9100_this_food_is_your_food.mp3",
+     "slow": "audio/all/9100_this_food_is_your_food.mp3",
      "image": "img/raz-b-yours_or_mine-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "This tail is my tail.",
      "zh": "这条尾巴是我的尾巴。",
-     "audio": "audio/all/3701_this_tail_is_my_tail.mp3",
-     "slow": "audio/all/3701_this_tail_is_my_tail.mp3",
+     "audio": "audio/all/9101_this_tail_is_my_tail.mp3",
+     "slow": "audio/all/9101_this_tail_is_my_tail.mp3",
      "image": "img/raz-b-yours_or_mine-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "This tail is your tail.",
      "zh": "这条尾巴是你的尾巴。",
-     "audio": "audio/all/3702_this_tail_is_your_tail.mp3",
-     "slow": "audio/all/3702_this_tail_is_your_tail.mp3",
+     "audio": "audio/all/9102_this_tail_is_your_tail.mp3",
+     "slow": "audio/all/9102_this_tail_is_your_tail.mp3",
      "image": "img/raz-b-yours_or_mine-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "This room is my room.",
      "zh": "这个房间是我的房间。",
-     "audio": "audio/all/3703_this_room_is_my_room.mp3",
-     "slow": "audio/all/3703_this_room_is_my_room.mp3",
+     "audio": "audio/all/9103_this_room_is_my_room.mp3",
+     "slow": "audio/all/9103_this_room_is_my_room.mp3",
      "image": "img/raz-b-yours_or_mine-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "This room is your room, too!",
      "zh": "这个房间也是你的房间！",
-     "audio": "audio/all/3704_this_room_is_your_room_too.mp3",
-     "slow": "audio/all/3704_this_room_is_your_room_too.mp3",
+     "audio": "audio/all/9104_this_room_is_your_room_too.mp3",
+     "slow": "audio/all/9104_this_room_is_your_room_too.mp3",
      "image": "img/raz-b-yours_or_mine-p08.jpg",
      "page": 8
     }

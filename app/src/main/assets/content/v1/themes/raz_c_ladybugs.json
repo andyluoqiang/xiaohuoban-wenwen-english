@@ -1,0 +1,127 @@
+{
+ "theme": "raz_c_ladybugs",
+ "nameZh": "瓢虫",
+ "bookTitle": "Ladybugs",
+ "razLevel": "C",
+ "order": 28,
+ "cover": "img/raz-c-ladybugs-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_ladybugs-u1",
+   "band": 2,
+   "title": "Ladybugs · 瓢虫",
+   "cards": [
+    {
+     "id": "raz_c_ladybugs-p1",
+     "type": "sentence",
+     "en": "All ladybugs are insects.",
+     "zh": "所有瓢虫都是昆虫。",
+     "audio": "audio/all/6335_all_ladybugs_are_insects.mp3",
+     "slow": "audio/all/6335_all_ladybugs_are_insects.mp3",
+     "image": "img/raz-c-ladybugs-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_ladybugs-p2",
+     "type": "sentence",
+     "en": "Some ladybugs are red.",
+     "zh": "有些瓢虫是红色的。",
+     "audio": "audio/all/6336_some_ladybugs_are_red.mp3",
+     "slow": "audio/all/6336_some_ladybugs_are_red.mp3",
+     "image": "img/raz-c-ladybugs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_ladybugs-p3",
+     "type": "sentence",
+     "en": "Some ladybugs are yellow.",
+     "zh": "有些瓢虫是黄色的。",
+     "audio": "audio/all/6337_some_ladybugs_are_yellow.mp3",
+     "slow": "audio/all/6337_some_ladybugs_are_yellow.mp3",
+     "image": "img/raz-c-ladybugs-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_ladybugs-p4",
+     "type": "sentence",
+     "en": "Some ladybugs are orange.",
+     "zh": "有些瓢虫是橙色的。",
+     "audio": "audio/all/6338_some_ladybugs_are_orange.mp3",
+     "slow": "audio/all/6338_some_ladybugs_are_orange.mp3",
+     "image": "img/raz-c-ladybugs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_ladybugs-p5",
+     "type": "sentence",
+     "en": "Some ladybugs are other colors.",
+     "zh": "有些瓢虫是其他颜色的。",
+     "audio": "audio/all/6339_some_ladybugs_are_other_colors.mp3",
+     "slow": "audio/all/6339_some_ladybugs_are_other_colors.mp3",
+     "image": "img/raz-c-ladybugs-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_ladybugs-p6",
+     "type": "sentence",
+     "en": "Some ladybugs have spots.",
+     "zh": "有些瓢虫有斑点。",
+     "audio": "audio/all/6340_some_ladybugs_have_spots.mp3",
+     "slow": "audio/all/6340_some_ladybugs_have_spots.mp3",
+     "image": "img/raz-c-ladybugs-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_ladybugs-p7",
+     "type": "sentence",
+     "en": "Some ladybugs have stripes.",
+     "zh": "有些瓢虫有条纹。",
+     "audio": "audio/all/6341_some_ladybugs_have_stripes.mp3",
+     "slow": "audio/all/6341_some_ladybugs_have_stripes.mp3",
+     "image": "img/raz-c-ladybugs-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_ladybugs-p8",
+     "type": "sentence",
+     "en": "Some ladybugs have just one color.",
+     "zh": "有些瓢虫只有一种颜色。",
+     "audio": "audio/all/6342_some_ladybugs_have_just_one_color.mp3",
+     "slow": "audio/all/6342_some_ladybugs_have_just_one_color.mp3",
+     "image": "img/raz-c-ladybugs-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_ladybugs-p9",
+     "type": "sentence",
+     "en": "Some ladybugs eat other insects.",
+     "zh": "有些瓢虫吃其他昆虫。",
+     "audio": "audio/all/6343_some_ladybugs_eat_other_insects.mp3",
+     "slow": "audio/all/6343_some_ladybugs_eat_other_insects.mp3",
+     "image": "img/raz-c-ladybugs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_ladybugs-p10",
+     "type": "sentence",
+     "en": "Some ladybugs eat plants.",
+     "zh": "有些瓢虫吃植物。",
+     "audio": "audio/all/6344_some_ladybugs_eat_plants.mp3",
+     "slow": "audio/all/6344_some_ladybugs_eat_plants.mp3",
+     "image": "img/raz-c-ladybugs-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_ladybugs-p11",
+     "type": "sentence",
+     "en": "All ladybugs have wings.",
+     "zh": "所有瓢虫都有翅膀。",
+     "audio": "audio/all/6345_all_ladybugs_have_wings.mp3",
+     "slow": "audio/all/6345_all_ladybugs_have_wings.mp3",
+     "image": "img/raz-c-ladybugs-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

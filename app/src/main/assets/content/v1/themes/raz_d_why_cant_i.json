@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_why_cant_i",
+ "nameZh": "为什么我不能？",
+ "bookTitle": "Why Can't I?",
+ "razLevel": "D",
+ "order": 81,
+ "cover": "img/raz-d-why_cant_i-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_why_cant_i-u1",
+   "band": 2,
+   "title": "Why Can't I? · 为什么我不能？",
+   "cards": [
+    {
+     "id": "raz_d_why_cant_i-p1",
+     "type": "sentence",
+     "en": "Why can't I jump on the bed? asked José.",
+     "zh": "“为什么我不能在床上跳？”何塞问。",
+     "audio": "audio/all/8239_why_can_t_i_jump_on_the_bed_asked_josé.mp3",
+     "slow": "audio/all/8239_why_can_t_i_jump_on_the_bed_asked_josé.mp3",
+     "image": "img/raz-d-why_cant_i-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_why_cant_i-p2",
+     "type": "sentence",
+     "en": "Because I said so, said Mom.",
+     "zh": "“因为我说了不能。”妈妈说。",
+     "audio": "audio/all/8240_because_i_said_so_said_mom.mp3",
+     "slow": "audio/all/8240_because_i_said_so_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_why_cant_i-p3",
+     "type": "sentence",
+     "en": "Why can't I paint on the floor? asked José.",
+     "zh": "“为什么我不能在地板上画画？”何塞问。",
+     "audio": "audio/all/8241_why_can_t_i_paint_on_the_floor_asked_j.mp3",
+     "slow": "audio/all/8241_why_can_t_i_paint_on_the_floor_asked_j.mp3",
+     "image": "img/raz-d-why_cant_i-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_why_cant_i-p4",
+     "type": "sentence",
+     "en": "Because I said so, said Mom.",
+     "zh": "“因为我说了不能。”妈妈说。",
+     "audio": "audio/all/8242_because_i_said_so_said_mom.mp3",
+     "slow": "audio/all/8242_because_i_said_so_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_why_cant_i-p5",
+     "type": "sentence",
+     "en": "Why can't I dance on the table? asked José.",
+     "zh": "“为什么我不能在桌子上跳舞？”何塞问。",
+     "audio": "audio/all/8243_why_can_t_i_dance_on_the_table_asked_j.mp3",
+     "slow": "audio/all/8243_why_can_t_i_dance_on_the_table_asked_j.mp3",
+     "image": "img/raz-d-why_cant_i-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_why_cant_i-p6",
+     "type": "sentence",
+     "en": "Because I said so, said Mom.",
+     "zh": "“因为我说了不能。”妈妈说。",
+     "audio": "audio/all/8244_because_i_said_so_said_mom.mp3",
+     "slow": "audio/all/8244_because_i_said_so_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_why_cant_i-p7",
+     "type": "sentence",
+     "en": "Why can't I climb on the shelves? asked José.",
+     "zh": "“为什么我不能爬书架？”何塞问。",
+     "audio": "audio/all/8245_why_can_t_i_climb_on_the_shelves_asked.mp3",
+     "slow": "audio/all/8245_why_can_t_i_climb_on_the_shelves_asked.mp3",
+     "image": "img/raz-d-why_cant_i-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_why_cant_i-p8",
+     "type": "sentence",
+     "en": "Because I said so, said Mom.",
+     "zh": "“因为我说了不能。”妈妈说。",
+     "audio": "audio/all/8246_because_i_said_so_said_mom.mp3",
+     "slow": "audio/all/8246_because_i_said_so_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_why_cant_i-p9",
+     "type": "sentence",
+     "en": "Why can't I slide in the kitchen? asked José.",
+     "zh": "“为什么我不能在厨房里滑滑梯？”何塞问。",
+     "audio": "audio/all/8247_why_can_t_i_slide_in_the_kitchen_asked.mp3",
+     "slow": "audio/all/8247_why_can_t_i_slide_in_the_kitchen_asked.mp3",
+     "image": "img/raz-d-why_cant_i-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_why_cant_i-p10",
+     "type": "sentence",
+     "en": "Because I said so, said Mom.",
+     "zh": "“因为我说了不能。”妈妈说。",
+     "audio": "audio/all/8248_because_i_said_so_said_mom.mp3",
+     "slow": "audio/all/8248_because_i_said_so_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_why_cant_i-p11",
+     "type": "sentence",
+     "en": "Why can't I have any fun? asked José.",
+     "zh": "“为什么我一点儿都不能玩？”何塞问。",
+     "audio": "audio/all/8249_why_can_t_i_have_any_fun_asked_josé.mp3",
+     "slow": "audio/all/8249_why_can_t_i_have_any_fun_asked_josé.mp3",
+     "image": "img/raz-d-why_cant_i-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_why_cant_i-p12",
+     "type": "sentence",
+     "en": "Your fun needs to be safe, said Mom.",
+     "zh": "“你的玩耍得保证安全。”妈妈说。",
+     "audio": "audio/all/8250_your_fun_needs_to_be_safe_said_mom.mp3",
+     "slow": "audio/all/8250_your_fun_needs_to_be_safe_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_why_cant_i-p13",
+     "type": "sentence",
+     "en": "Can I wash the dog? asked José.",
+     "zh": "“那我能给狗狗洗澡吗？”何塞问。",
+     "audio": "audio/all/8251_can_i_wash_the_dog_asked_josé.mp3",
+     "slow": "audio/all/8251_can_i_wash_the_dog_asked_josé.mp3",
+     "image": "img/raz-d-why_cant_i-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_why_cant_i-p14",
+     "type": "sentence",
+     "en": "You can! said Mom.",
+     "zh": "“当然可以！”妈妈说。",
+     "audio": "audio/all/8252_you_can_said_mom.mp3",
+     "slow": "audio/all/8252_you_can_said_mom.mp3",
+     "image": "img/raz-d-why_cant_i-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

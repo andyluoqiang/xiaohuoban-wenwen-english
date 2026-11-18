@@ -1,0 +1,127 @@
+{
+ "theme": "raz_c_we_make_a_snowman",
+ "nameZh": "我们堆雪人",
+ "bookTitle": "We Make a Snowman",
+ "razLevel": "C",
+ "order": 71,
+ "cover": "img/raz-c-we_make_a_snowman-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_we_make_a_snowman-u1",
+   "band": 2,
+   "title": "We Make a Snowman · 我们堆雪人",
+   "cards": [
+    {
+     "id": "raz_c_we_make_a_snowman-p1",
+     "type": "sentence",
+     "en": "I go out to play.",
+     "zh": "我出去玩。",
+     "audio": "audio/all/6803_i_go_out_to_play.mp3",
+     "slow": "audio/all/6803_i_go_out_to_play.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p2",
+     "type": "sentence",
+     "en": "My friends go out to play.",
+     "zh": "我的朋友们出去玩。",
+     "audio": "audio/all/6804_my_friends_go_out_to_play.mp3",
+     "slow": "audio/all/6804_my_friends_go_out_to_play.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p3",
+     "type": "sentence",
+     "en": "We play in the snow.",
+     "zh": "我们在雪里玩。",
+     "audio": "audio/all/6805_we_play_in_the_snow.mp3",
+     "slow": "audio/all/6805_we_play_in_the_snow.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p4",
+     "type": "sentence",
+     "en": "We make a snowman.",
+     "zh": "我们堆一个雪人。",
+     "audio": "audio/all/6806_we_make_a_snowman.mp3",
+     "slow": "audio/all/6806_we_make_a_snowman.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p5",
+     "type": "sentence",
+     "en": "We make arms for the snowman.",
+     "zh": "我们给雪人做手臂。",
+     "audio": "audio/all/6807_we_make_arms_for_the_snowman.mp3",
+     "slow": "audio/all/6807_we_make_arms_for_the_snowman.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p6",
+     "type": "sentence",
+     "en": "We make eyes for the snowman.",
+     "zh": "我们给雪人做眼睛。",
+     "audio": "audio/all/6808_we_make_eyes_for_the_snowman.mp3",
+     "slow": "audio/all/6808_we_make_eyes_for_the_snowman.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p7",
+     "type": "sentence",
+     "en": "We make a nose and a mouth.",
+     "zh": "我们做鼻子和嘴巴。",
+     "audio": "audio/all/6809_we_make_a_nose_and_a_mouth.mp3",
+     "slow": "audio/all/6809_we_make_a_nose_and_a_mouth.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p8",
+     "type": "sentence",
+     "en": "We play with the snowman.",
+     "zh": "我们和雪人玩。",
+     "audio": "audio/all/6810_we_play_with_the_snowman.mp3",
+     "slow": "audio/all/6810_we_play_with_the_snowman.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p9",
+     "type": "sentence",
+     "en": "We go in the house.",
+     "zh": "我们进屋。",
+     "audio": "audio/all/6811_we_go_in_the_house.mp3",
+     "slow": "audio/all/6811_we_go_in_the_house.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p10",
+     "type": "sentence",
+     "en": "Dad makes hot soup.",
+     "zh": "爸爸做热汤。",
+     "audio": "audio/all/6812_dad_makes_hot_soup.mp3",
+     "slow": "audio/all/6812_dad_makes_hot_soup.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_we_make_a_snowman-p11",
+     "type": "sentence",
+     "en": "Yum.",
+     "zh": "真好喝。",
+     "audio": "audio/all/6813_yum.mp3",
+     "slow": "audio/all/6813_yum.mp3",
+     "image": "img/raz-c-we_make_a_snowman-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

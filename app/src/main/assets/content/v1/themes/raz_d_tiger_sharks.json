@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_tiger_sharks",
+ "nameZh": "虎鲨",
+ "bookTitle": "Tiger Sharks",
+ "razLevel": "D",
+ "order": 68,
+ "cover": "img/raz-d-tiger_sharks-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_tiger_sharks-u1",
+   "band": 2,
+   "title": "Tiger Sharks · 虎鲨",
+   "cards": [
+    {
+     "id": "raz_d_tiger_sharks-p1",
+     "type": "sentence",
+     "en": "Tiger sharks are some of the largest sharks.",
+     "zh": "虎鲨是体型最大的鲨鱼之一。",
+     "audio": "audio/all/8047_tiger_sharks_are_some_of_the_largest_s.mp3",
+     "slow": "audio/all/8047_tiger_sharks_are_some_of_the_largest_s.mp3",
+     "image": "img/raz-d-tiger_sharks-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_tiger_sharks-p2",
+     "type": "sentence",
+     "en": "Tiger sharks have babies called pups.",
+     "zh": "虎鲨的宝宝叫幼鲨。",
+     "audio": "audio/all/8048_tiger_sharks_have_babies_called_pups.mp3",
+     "slow": "audio/all/8048_tiger_sharks_have_babies_called_pups.mp3",
+     "image": "img/raz-d-tiger_sharks-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_tiger_sharks-p3",
+     "type": "sentence",
+     "en": "Tiger sharks have stripes when young.",
+     "zh": "虎鲨小时候身上有条纹。",
+     "audio": "audio/all/8049_tiger_sharks_have_stripes_when_young.mp3",
+     "slow": "audio/all/8049_tiger_sharks_have_stripes_when_young.mp3",
+     "image": "img/raz-d-tiger_sharks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_tiger_sharks-p4",
+     "type": "sentence",
+     "en": "Tiger sharks have blunt noses.",
+     "zh": "虎鲨有钝圆的鼻子。",
+     "audio": "audio/all/8050_tiger_sharks_have_blunt_noses.mp3",
+     "slow": "audio/all/8050_tiger_sharks_have_blunt_noses.mp3",
+     "image": "img/raz-d-tiger_sharks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_tiger_sharks-p5",
+     "type": "sentence",
+     "en": "Tiger sharks have large mouths.",
+     "zh": "虎鲨有大大的嘴巴。",
+     "audio": "audio/all/8051_tiger_sharks_have_large_mouths.mp3",
+     "slow": "audio/all/8051_tiger_sharks_have_large_mouths.mp3",
+     "image": "img/raz-d-tiger_sharks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_tiger_sharks-p6",
+     "type": "sentence",
+     "en": "Tiger sharks have eight fins.",
+     "zh": "虎鲨有八个鱼鳍。",
+     "audio": "audio/all/8052_tiger_sharks_have_eight_fins.mp3",
+     "slow": "audio/all/8052_tiger_sharks_have_eight_fins.mp3",
+     "image": "img/raz-d-tiger_sharks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_tiger_sharks-p7",
+     "type": "sentence",
+     "en": "Tiger sharks have gills to breathe.",
+     "zh": "虎鲨用鳃呼吸。",
+     "audio": "audio/all/8053_tiger_sharks_have_gills_to_breathe.mp3",
+     "slow": "audio/all/8053_tiger_sharks_have_gills_to_breathe.mp3",
+     "image": "img/raz-d-tiger_sharks-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_tiger_sharks-p8",
+     "type": "sentence",
+     "en": "Tiger sharks have great eyesight.",
+     "zh": "虎鲨视力很好。",
+     "audio": "audio/all/8054_tiger_sharks_have_great_eyesight.mp3",
+     "slow": "audio/all/8054_tiger_sharks_have_great_eyesight.mp3",
+     "image": "img/raz-d-tiger_sharks-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_tiger_sharks-p9",
+     "type": "sentence",
+     "en": "Tiger sharks have sharp teeth.",
+     "zh": "虎鲨有锋利的牙齿。",
+     "audio": "audio/all/8055_tiger_sharks_have_sharp_teeth.mp3",
+     "slow": "audio/all/8055_tiger_sharks_have_sharp_teeth.mp3",
+     "image": "img/raz-d-tiger_sharks-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_tiger_sharks-p10",
+     "type": "sentence",
+     "en": "Tiger sharks are known to eat different animals.",
+     "zh": "虎鲨以吃各种不同的动物而出名。",
+     "audio": "audio/all/8056_tiger_sharks_are_known_to_eat_differen.mp3",
+     "slow": "audio/all/8056_tiger_sharks_are_known_to_eat_differen.mp3",
+     "image": "img/raz-d-tiger_sharks-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

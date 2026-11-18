@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_mongo_and_cutie",
+ "nameZh": "蒙戈和卡蒂",
+ "bookTitle": "Mongo and Cutie",
+ "razLevel": "C",
+ "order": 35,
+ "cover": "img/raz-c-mongo_and_cutie-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_mongo_and_cutie-u1",
+   "band": 2,
+   "title": "Mongo and Cutie · 蒙戈和卡蒂",
+   "cards": [
+    {
+     "id": "raz_c_mongo_and_cutie-p1",
+     "type": "sentence",
+     "en": "Grandma comes for lunch.",
+     "zh": "奶奶来吃午饭。",
+     "audio": "audio/all/6404_grandma_comes_for_lunch.mp3",
+     "slow": "audio/all/6404_grandma_comes_for_lunch.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p2",
+     "type": "sentence",
+     "en": "Cutie comes with her.",
+     "zh": "卡蒂和她一起来。",
+     "audio": "audio/all/6405_cutie_comes_with_her.mp3",
+     "slow": "audio/all/6405_cutie_comes_with_her.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p3",
+     "type": "sentence",
+     "en": "Mom tells Mongo to play nice with Cutie.",
+     "zh": "妈妈让蒙戈和卡蒂好好玩。",
+     "audio": "audio/all/6406_mom_tells_mongo_to_play_nice_with_cuti.mp3",
+     "slow": "audio/all/6406_mom_tells_mongo_to_play_nice_with_cuti.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p4",
+     "type": "sentence",
+     "en": "Cutie does not play nice with Mongo!",
+     "zh": "卡蒂可没和蒙戈好好玩！",
+     "audio": "audio/all/6407_cutie_does_not_play_nice_with_mongo.mp3",
+     "slow": "audio/all/6407_cutie_does_not_play_nice_with_mongo.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p5",
+     "type": "sentence",
+     "en": "Mongo tries to run.",
+     "zh": "蒙戈想跑开。",
+     "audio": "audio/all/6408_mongo_tries_to_run.mp3",
+     "slow": "audio/all/6408_mongo_tries_to_run.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p6",
+     "type": "sentence",
+     "en": "Mongo tries to hide.",
+     "zh": "蒙戈想躲起来。",
+     "audio": "audio/all/6409_mongo_tries_to_hide.mp3",
+     "slow": "audio/all/6409_mongo_tries_to_hide.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p7",
+     "type": "sentence",
+     "en": "Help is here!",
+     "zh": "救星来了！",
+     "audio": "audio/all/6410_help_is_here.mp3",
+     "slow": "audio/all/6410_help_is_here.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p8",
+     "type": "sentence",
+     "en": "Mom is back!",
+     "zh": "妈妈回来了！",
+     "audio": "audio/all/6411_mom_is_back.mp3",
+     "slow": "audio/all/6411_mom_is_back.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_mongo_and_cutie-p9",
+     "type": "sentence",
+     "en": "Mongo never wants to play with Cutie again!",
+     "zh": "蒙戈再也不想和卡蒂玩了！",
+     "audio": "audio/all/6412_mongo_never_wants_to_play_with_cutie_a.mp3",
+     "slow": "audio/all/6412_mongo_never_wants_to_play_with_cutie_a.mp3",
+     "image": "img/raz-c-mongo_and_cutie-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

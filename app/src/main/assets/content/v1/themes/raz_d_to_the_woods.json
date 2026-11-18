@@ -1,0 +1,197 @@
+{
+ "theme": "raz_d_to_the_woods",
+ "nameZh": "去树林",
+ "bookTitle": "To the Woods",
+ "razLevel": "D",
+ "order": 70,
+ "cover": "img/raz-d-to_the_woods-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_to_the_woods-u1",
+   "band": 2,
+   "title": "To the Woods · 去树林",
+   "cards": [
+    {
+     "id": "raz_d_to_the_woods-p1",
+     "type": "sentence",
+     "en": "I see trees when I go to the woods.",
+     "zh": "我去树林时看见树。",
+     "audio": "audio/all/8073_i_see_trees_when_i_go_to_the_woods.mp3",
+     "slow": "audio/all/8073_i_see_trees_when_i_go_to_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_to_the_woods-p2",
+     "type": "sentence",
+     "en": "I see big and little trees.",
+     "zh": "我看见大大小小的树。",
+     "audio": "audio/all/8074_i_see_big_and_little_trees.mp3",
+     "slow": "audio/all/8074_i_see_big_and_little_trees.mp3",
+     "image": "img/raz-d-to_the_woods-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_to_the_woods-p3",
+     "type": "sentence",
+     "en": "I see a squirrel in the woods.",
+     "zh": "我在树林里看见一只松鼠。",
+     "audio": "audio/all/8075_i_see_a_squirrel_in_the_woods.mp3",
+     "slow": "audio/all/8075_i_see_a_squirrel_in_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_to_the_woods-p4",
+     "type": "sentence",
+     "en": "It climbs up a tree.",
+     "zh": "它爬上了一棵树。",
+     "audio": "audio/all/8076_it_climbs_up_a_tree.mp3",
+     "slow": "audio/all/8076_it_climbs_up_a_tree.mp3",
+     "image": "img/raz-d-to_the_woods-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_to_the_woods-p5",
+     "type": "sentence",
+     "en": "The squirrel sees me.",
+     "zh": "松鼠看见了我。",
+     "audio": "audio/all/8077_the_squirrel_sees_me.mp3",
+     "slow": "audio/all/8077_the_squirrel_sees_me.mp3",
+     "image": "img/raz-d-to_the_woods-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_to_the_woods-p6",
+     "type": "sentence",
+     "en": "I see birds when I go to the woods.",
+     "zh": "我去树林时看见鸟。",
+     "audio": "audio/all/8078_i_see_birds_when_i_go_to_the_woods.mp3",
+     "slow": "audio/all/8078_i_see_birds_when_i_go_to_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_to_the_woods-p7",
+     "type": "sentence",
+     "en": "They fly around.",
+     "zh": "它们飞来飞去。",
+     "audio": "audio/all/8079_they_fly_around.mp3",
+     "slow": "audio/all/8079_they_fly_around.mp3",
+     "image": "img/raz-d-to_the_woods-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_to_the_woods-p8",
+     "type": "sentence",
+     "en": "The birds see me.",
+     "zh": "鸟儿看见了我。",
+     "audio": "audio/all/8080_the_birds_see_me.mp3",
+     "slow": "audio/all/8080_the_birds_see_me.mp3",
+     "image": "img/raz-d-to_the_woods-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_to_the_woods-p9",
+     "type": "sentence",
+     "en": "I see a fox in the woods.",
+     "zh": "我在树林里看见一只狐狸。",
+     "audio": "audio/all/8081_i_see_a_fox_in_the_woods.mp3",
+     "slow": "audio/all/8081_i_see_a_fox_in_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_to_the_woods-p10",
+     "type": "sentence",
+     "en": "It goes into a log.",
+     "zh": "它钻进了一根木头里。",
+     "audio": "audio/all/8082_it_goes_into_a_log.mp3",
+     "slow": "audio/all/8082_it_goes_into_a_log.mp3",
+     "image": "img/raz-d-to_the_woods-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_to_the_woods-p11",
+     "type": "sentence",
+     "en": "The fox sees me.",
+     "zh": "狐狸看见了我。",
+     "audio": "audio/all/8083_the_fox_sees_me.mp3",
+     "slow": "audio/all/8083_the_fox_sees_me.mp3",
+     "image": "img/raz-d-to_the_woods-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_to_the_woods-p12",
+     "type": "sentence",
+     "en": "I see bugs in the woods.",
+     "zh": "我在树林里看见虫子。",
+     "audio": "audio/all/8084_i_see_bugs_in_the_woods.mp3",
+     "slow": "audio/all/8084_i_see_bugs_in_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_to_the_woods-p13",
+     "type": "sentence",
+     "en": "They crawl in the grass.",
+     "zh": "它们在草丛里爬。",
+     "audio": "audio/all/8085_they_crawl_in_the_grass.mp3",
+     "slow": "audio/all/8085_they_crawl_in_the_grass.mp3",
+     "image": "img/raz-d-to_the_woods-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_to_the_woods-p14",
+     "type": "sentence",
+     "en": "The bugs see me.",
+     "zh": "虫子看见了我。",
+     "audio": "audio/all/8086_the_bugs_see_me.mp3",
+     "slow": "audio/all/8086_the_bugs_see_me.mp3",
+     "image": "img/raz-d-to_the_woods-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_to_the_woods-p15",
+     "type": "sentence",
+     "en": "I see a bear in the woods.",
+     "zh": "我在树林里看见一只熊。",
+     "audio": "audio/all/8087_i_see_a_bear_in_the_woods.mp3",
+     "slow": "audio/all/8087_i_see_a_bear_in_the_woods.mp3",
+     "image": "img/raz-d-to_the_woods-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_to_the_woods-p16",
+     "type": "sentence",
+     "en": "It is hiding in the bushes.",
+     "zh": "它躲在灌木丛里。",
+     "audio": "audio/all/8088_it_is_hiding_in_the_bushes.mp3",
+     "slow": "audio/all/8088_it_is_hiding_in_the_bushes.mp3",
+     "image": "img/raz-d-to_the_woods-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_to_the_woods-p17",
+     "type": "sentence",
+     "en": "The bear sees me.",
+     "zh": "熊看见了我。",
+     "audio": "audio/all/8089_the_bear_sees_me.mp3",
+     "slow": "audio/all/8089_the_bear_sees_me.mp3",
+     "image": "img/raz-d-to_the_woods-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_to_the_woods-p18",
+     "type": "sentence",
+     "en": "I run from the bear.",
+     "zh": "我从熊那里跑开了。",
+     "audio": "audio/all/8090_i_run_from_the_bear.mp3",
+     "slow": "audio/all/8090_i_run_from_the_bear.mp3",
+     "image": "img/raz-d-to_the_woods-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

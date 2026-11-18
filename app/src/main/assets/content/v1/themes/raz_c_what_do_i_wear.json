@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_what_do_i_wear",
+ "nameZh": "我穿什么",
+ "bookTitle": "What Do I Wear?",
+ "razLevel": "C",
+ "order": 76,
+ "cover": "img/raz-c-what_do_i_wear-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_do_i_wear-u1",
+   "band": 2,
+   "title": "What Do I Wear? · 我穿什么",
+   "cards": [
+    {
+     "id": "raz_c_what_do_i_wear-p1",
+     "type": "sentence",
+     "en": "A foot wears a shoe.",
+     "zh": "脚上穿鞋。",
+     "audio": "audio/all/6863_a_foot_wears_a_shoe.mp3",
+     "slow": "audio/all/6863_a_foot_wears_a_shoe.mp3",
+     "image": "img/raz-c-what_do_i_wear-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p2",
+     "type": "sentence",
+     "en": "A chest wears a shirt.",
+     "zh": "胸上穿衬衫。",
+     "audio": "audio/all/6864_a_chest_wears_a_shirt.mp3",
+     "slow": "audio/all/6864_a_chest_wears_a_shirt.mp3",
+     "image": "img/raz-c-what_do_i_wear-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p3",
+     "type": "sentence",
+     "en": "A waist wears a belt.",
+     "zh": "腰上系皮带。",
+     "audio": "audio/all/6865_a_waist_wears_a_belt.mp3",
+     "slow": "audio/all/6865_a_waist_wears_a_belt.mp3",
+     "image": "img/raz-c-what_do_i_wear-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p4",
+     "type": "sentence",
+     "en": "A finger wears a ring.",
+     "zh": "手指戴戒指。",
+     "audio": "audio/all/6866_a_finger_wears_a_ring.mp3",
+     "slow": "audio/all/6866_a_finger_wears_a_ring.mp3",
+     "image": "img/raz-c-what_do_i_wear-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p5",
+     "type": "sentence",
+     "en": "A wrist wears a watch.",
+     "zh": "手腕戴手表。",
+     "audio": "audio/all/6867_a_wrist_wears_a_watch.mp3",
+     "slow": "audio/all/6867_a_wrist_wears_a_watch.mp3",
+     "image": "img/raz-c-what_do_i_wear-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p6",
+     "type": "sentence",
+     "en": "A head wears a hat.",
+     "zh": "头上戴帽子。",
+     "audio": "audio/all/6868_a_head_wears_a_hat.mp3",
+     "slow": "audio/all/6868_a_head_wears_a_hat.mp3",
+     "image": "img/raz-c-what_do_i_wear-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p7",
+     "type": "sentence",
+     "en": "A face wears a smile.",
+     "zh": "脸上挂微笑。",
+     "audio": "audio/all/6869_a_face_wears_a_smile.mp3",
+     "slow": "audio/all/6869_a_face_wears_a_smile.mp3",
+     "image": "img/raz-c-what_do_i_wear-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_do_i_wear-p8",
+     "type": "sentence",
+     "en": "A heart wears love!",
+     "zh": "心里装着爱！",
+     "audio": "audio/all/6870_a_heart_wears_love.mp3",
+     "slow": "audio/all/6870_a_heart_wears_love.mp3",
+     "image": "img/raz-c-what_do_i_wear-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

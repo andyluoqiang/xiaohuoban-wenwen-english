@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_city_shapes",
+ "nameZh": "城市里的形状",
+ "bookTitle": "City Shapes",
+ "razLevel": "C",
+ "order": 11,
+ "cover": "img/raz-c-city_shapes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_city_shapes-u1",
+   "band": 2,
+   "title": "City Shapes · 城市里的形状",
+   "cards": [
+    {
+     "id": "raz_c_city_shapes-p1",
+     "type": "sentence",
+     "en": "Look around the city.",
+     "zh": "环顾整个城市。",
+     "audio": "audio/all/6112_look_around_the_city.mp3",
+     "slow": "audio/all/6112_look_around_the_city.mp3",
+     "image": "img/raz-c-city_shapes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_city_shapes-p2",
+     "type": "sentence",
+     "en": "What shapes do you see?",
+     "zh": "你看到了哪些形状？",
+     "audio": "audio/all/6113_what_shapes_do_you_see.mp3",
+     "slow": "audio/all/6113_what_shapes_do_you_see.mp3",
+     "image": "img/raz-c-city_shapes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_city_shapes-p3",
+     "type": "sentence",
+     "en": "Here you see an oval.",
+     "zh": "这里你看到椭圆形。",
+     "audio": "audio/all/6114_here_you_see_an_oval.mp3",
+     "slow": "audio/all/6114_here_you_see_an_oval.mp3",
+     "image": "img/raz-c-city_shapes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_city_shapes-p4",
+     "type": "sentence",
+     "en": "Here you see triangles.",
+     "zh": "这里你看到三角形。",
+     "audio": "audio/all/6115_here_you_see_triangles.mp3",
+     "slow": "audio/all/6115_here_you_see_triangles.mp3",
+     "image": "img/raz-c-city_shapes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_city_shapes-p5",
+     "type": "sentence",
+     "en": "Here you see a circle.",
+     "zh": "这里你看到圆形。",
+     "audio": "audio/all/6116_here_you_see_a_circle.mp3",
+     "slow": "audio/all/6116_here_you_see_a_circle.mp3",
+     "image": "img/raz-c-city_shapes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_city_shapes-p6",
+     "type": "sentence",
+     "en": "Here you see squares.",
+     "zh": "这里你看到正方形。",
+     "audio": "audio/all/6117_here_you_see_squares.mp3",
+     "slow": "audio/all/6117_here_you_see_squares.mp3",
+     "image": "img/raz-c-city_shapes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_city_shapes-p7",
+     "type": "sentence",
+     "en": "Here you see rectangles.",
+     "zh": "这里你看到长方形。",
+     "audio": "audio/all/6118_here_you_see_rectangles.mp3",
+     "slow": "audio/all/6118_here_you_see_rectangles.mp3",
+     "image": "img/raz-c-city_shapes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_city_shapes-p8",
+     "type": "sentence",
+     "en": "Here you see hexagons.",
+     "zh": "这里你看到六边形。",
+     "audio": "audio/all/6119_here_you_see_hexagons.mp3",
+     "slow": "audio/all/6119_here_you_see_hexagons.mp3",
+     "image": "img/raz-c-city_shapes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_city_shapes-p9",
+     "type": "sentence",
+     "en": "Here you see many shapes.",
+     "zh": "这里你看到许多形状。",
+     "audio": "audio/all/6120_here_you_see_many_shapes.mp3",
+     "slow": "audio/all/6120_here_you_see_many_shapes.mp3",
+     "image": "img/raz-c-city_shapes-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_city_shapes-p10",
+     "type": "sentence",
+     "en": "What shapes do you see?",
+     "zh": "你看到了哪些形状呢？",
+     "audio": "audio/all/6121_what_shapes_do_you_see.mp3",
+     "slow": "audio/all/6121_what_shapes_do_you_see.mp3",
+     "image": "img/raz-c-city_shapes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

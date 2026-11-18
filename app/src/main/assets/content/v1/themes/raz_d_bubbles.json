@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_bubbles",
+ "nameZh": "泡泡",
+ "bookTitle": "Bubbles",
+ "razLevel": "D",
+ "order": 14,
+ "cover": "img/raz-d-bubbles-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_bubbles-u1",
+   "band": 2,
+   "title": "Bubbles · 泡泡",
+   "cards": [
+    {
+     "id": "raz_d_bubbles-p1",
+     "type": "sentence",
+     "en": "Bubbles are round pockets of air inside a material.",
+     "zh": "泡泡是物质里包着空气的圆口袋。",
+     "audio": "audio/all/7241_bubbles_are_round_pockets_of_air_insid.mp3",
+     "slow": "audio/all/7241_bubbles_are_round_pockets_of_air_insid.mp3",
+     "image": "img/raz-d-bubbles-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bubbles-p2",
+     "type": "sentence",
+     "en": "People make bubbles with many things.",
+     "zh": "人们用很多东西制造泡泡。",
+     "audio": "audio/all/7242_people_make_bubbles_with_many_things.mp3",
+     "slow": "audio/all/7242_people_make_bubbles_with_many_things.mp3",
+     "image": "img/raz-d-bubbles-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_bubbles-p3",
+     "type": "sentence",
+     "en": "People make bubbles with soap.",
+     "zh": "人们用肥皂制造泡泡。",
+     "audio": "audio/all/7243_people_make_bubbles_with_soap.mp3",
+     "slow": "audio/all/7243_people_make_bubbles_with_soap.mp3",
+     "image": "img/raz-d-bubbles-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_bubbles-p4",
+     "type": "sentence",
+     "en": "People make bubbles while chewing gum.",
+     "zh": "人们嚼口香糖时吹泡泡。",
+     "audio": "audio/all/7244_people_make_bubbles_while_chewing_gum.mp3",
+     "slow": "audio/all/7244_people_make_bubbles_while_chewing_gum.mp3",
+     "image": "img/raz-d-bubbles-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_bubbles-p5",
+     "type": "sentence",
+     "en": "People make bubbles in milk.",
+     "zh": "人们在牛奶里打出泡泡。",
+     "audio": "audio/all/7245_people_make_bubbles_in_milk.mp3",
+     "slow": "audio/all/7245_people_make_bubbles_in_milk.mp3",
+     "image": "img/raz-d-bubbles-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_bubbles-p6",
+     "type": "sentence",
+     "en": "People make bubbles under water.",
+     "zh": "人们在水下吹泡泡。",
+     "audio": "audio/all/7246_people_make_bubbles_under_water.mp3",
+     "slow": "audio/all/7246_people_make_bubbles_under_water.mp3",
+     "image": "img/raz-d-bubbles-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_bubbles-p7",
+     "type": "sentence",
+     "en": "Some bubbles are colorful.",
+     "zh": "有些泡泡是彩色的。",
+     "audio": "audio/all/7247_some_bubbles_are_colorful.mp3",
+     "slow": "audio/all/7247_some_bubbles_are_colorful.mp3",
+     "image": "img/raz-d-bubbles-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_bubbles-p8",
+     "type": "sentence",
+     "en": "Some bubbles stick together.",
+     "zh": "有些泡泡粘在一起。",
+     "audio": "audio/all/7248_some_bubbles_stick_together.mp3",
+     "slow": "audio/all/7248_some_bubbles_stick_together.mp3",
+     "image": "img/raz-d-bubbles-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_bubbles-p9",
+     "type": "sentence",
+     "en": "Some bubbles float away.",
+     "zh": "有些泡泡飘走了。",
+     "audio": "audio/all/7249_some_bubbles_float_away.mp3",
+     "slow": "audio/all/7249_some_bubbles_float_away.mp3",
+     "image": "img/raz-d-bubbles-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_bubbles-p10",
+     "type": "sentence",
+     "en": "Some bubbles are in solids.",
+     "zh": "有些泡泡在固体里。",
+     "audio": "audio/all/7250_some_bubbles_are_in_solids.mp3",
+     "slow": "audio/all/7250_some_bubbles_are_in_solids.mp3",
+     "image": "img/raz-d-bubbles-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_bubbles-p11",
+     "type": "sentence",
+     "en": "Bubbles hold air.",
+     "zh": "泡泡包着空气。",
+     "audio": "audio/all/7251_bubbles_hold_air.mp3",
+     "slow": "audio/all/7251_bubbles_hold_air.mp3",
+     "image": "img/raz-d-bubbles-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_bubbles-p12",
+     "type": "sentence",
+     "en": "Some bubbles hold people, too!",
+     "zh": "有些泡泡也包着人呢！",
+     "audio": "audio/all/7252_some_bubbles_hold_people_too.mp3",
+     "slow": "audio/all/7252_some_bubbles_hold_people_too.mp3",
+     "image": "img/raz-d-bubbles-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

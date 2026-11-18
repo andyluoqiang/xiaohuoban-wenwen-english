@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_nothing_scares_me",
+ "nameZh": "没什么吓得住我！",
+ "bookTitle": "Nothing Scares Me!",
+ "razLevel": "D",
+ "order": 49,
+ "cover": "img/raz-d-nothing_scares_me-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_nothing_scares_me-u1",
+   "band": 2,
+   "title": "Nothing Scares Me! · 没什么吓得住我！",
+   "cards": [
+    {
+     "id": "raz_d_nothing_scares_me-p1",
+     "type": "sentence",
+     "en": "A vampire stands outside my door?",
+     "zh": "一只吸血鬼站在我门外？",
+     "audio": "audio/all/7759_a_vampire_stands_outside_my_door.mp3",
+     "slow": "audio/all/7759_a_vampire_stands_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p2",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7760_i_m_not_scared.mp3",
+     "slow": "audio/all/7760_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p3",
+     "type": "sentence",
+     "en": "A pirate laughs outside my door?",
+     "zh": "一个海盗在我门外大笑？",
+     "audio": "audio/all/7761_a_pirate_laughs_outside_my_door.mp3",
+     "slow": "audio/all/7761_a_pirate_laughs_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p4",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7762_i_m_not_scared.mp3",
+     "slow": "audio/all/7762_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p5",
+     "type": "sentence",
+     "en": "A gorilla stomps outside my door?",
+     "zh": "一只大猩猩在我门外跺脚？",
+     "audio": "audio/all/7763_a_gorilla_stomps_outside_my_door.mp3",
+     "slow": "audio/all/7763_a_gorilla_stomps_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p6",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7764_i_m_not_scared.mp3",
+     "slow": "audio/all/7764_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p7",
+     "type": "sentence",
+     "en": "A mummy moans outside my door?",
+     "zh": "一个木乃伊在我门外呻吟？",
+     "audio": "audio/all/7765_a_mummy_moans_outside_my_door.mp3",
+     "slow": "audio/all/7765_a_mummy_moans_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p8",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7766_i_m_not_scared.mp3",
+     "slow": "audio/all/7766_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p9",
+     "type": "sentence",
+     "en": "A skeleton scratches outside my door?",
+     "zh": "一具骷髅在我门外抓挠？",
+     "audio": "audio/all/7767_a_skeleton_scratches_outside_my_door.mp3",
+     "slow": "audio/all/7767_a_skeleton_scratches_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p10",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7768_i_m_not_scared.mp3",
+     "slow": "audio/all/7768_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p11",
+     "type": "sentence",
+     "en": "A monster stares outside my door?",
+     "zh": "一只怪物在我门外瞪眼？",
+     "audio": "audio/all/7769_a_monster_stares_outside_my_door.mp3",
+     "slow": "audio/all/7769_a_monster_stares_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p12",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7770_i_m_not_scared.mp3",
+     "slow": "audio/all/7770_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p13",
+     "type": "sentence",
+     "en": "A ghost whispers outside my door?",
+     "zh": "一个幽灵在我门外低语？",
+     "audio": "audio/all/7771_a_ghost_whispers_outside_my_door.mp3",
+     "slow": "audio/all/7771_a_ghost_whispers_outside_my_door.mp3",
+     "image": "img/raz-d-nothing_scares_me-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p14",
+     "type": "sentence",
+     "en": "I'm not scared.",
+     "zh": "我不怕。",
+     "audio": "audio/all/7772_i_m_not_scared.mp3",
+     "slow": "audio/all/7772_i_m_not_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p15",
+     "type": "sentence",
+     "en": "Broccoli for dinner waits outside my door?",
+     "zh": "晚餐的西兰花在我门外等着？",
+     "audio": "audio/all/7773_broccoli_for_dinner_waits_outside_my_d.mp3",
+     "slow": "audio/all/7773_broccoli_for_dinner_waits_outside_my_d.mp3",
+     "image": "img/raz-d-nothing_scares_me-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_nothing_scares_me-p16",
+     "type": "sentence",
+     "en": "Now I'm scared!",
+     "zh": "这下我怕了！",
+     "audio": "audio/all/7774_now_i_m_scared.mp3",
+     "slow": "audio/all/7774_now_i_m_scared.mp3",
+     "image": "img/raz-d-nothing_scares_me-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

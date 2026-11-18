@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_apple_tree",
+ "nameZh": "苹果树",
+ "bookTitle": "Apple Tree",
+ "razLevel": "C",
+ "order": 6,
+ "cover": "img/raz-c-apple_tree-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_apple_tree-u1",
+   "band": 2,
+   "title": "Apple Tree · 苹果树",
+   "cards": [
+    {
+     "id": "raz_c_apple_tree-p1",
+     "type": "sentence",
+     "en": "An apple grows in a cycle.",
+     "zh": "苹果在一个循环里生长。",
+     "audio": "audio/all/6058_an_apple_grows_in_a_cycle.mp3",
+     "slow": "audio/all/6058_an_apple_grows_in_a_cycle.mp3",
+     "image": "img/raz-c-apple_tree-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_apple_tree-p2",
+     "type": "sentence",
+     "en": "How does the cycle go?",
+     "zh": "这个循环是怎么进行的呢？",
+     "audio": "audio/all/6059_how_does_the_cycle_go.mp3",
+     "slow": "audio/all/6059_how_does_the_cycle_go.mp3",
+     "image": "img/raz-c-apple_tree-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_apple_tree-p3",
+     "type": "sentence",
+     "en": "First comes the seed.",
+     "zh": "先是种子。",
+     "audio": "audio/all/6060_first_comes_the_seed.mp3",
+     "slow": "audio/all/6060_first_comes_the_seed.mp3",
+     "image": "img/raz-c-apple_tree-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_apple_tree-p4",
+     "type": "sentence",
+     "en": "Then comes the sprout.",
+     "zh": "然后是幼苗。",
+     "audio": "audio/all/6061_then_comes_the_sprout.mp3",
+     "slow": "audio/all/6061_then_comes_the_sprout.mp3",
+     "image": "img/raz-c-apple_tree-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_apple_tree-p5",
+     "type": "sentence",
+     "en": "Next come the years.",
+     "zh": "接下来是年复一年。",
+     "audio": "audio/all/6062_next_come_the_years.mp3",
+     "slow": "audio/all/6062_next_come_the_years.mp3",
+     "image": "img/raz-c-apple_tree-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_apple_tree-p6",
+     "type": "sentence",
+     "en": "Then comes the tree.",
+     "zh": "然后长成树。",
+     "audio": "audio/all/6063_then_comes_the_tree.mp3",
+     "slow": "audio/all/6063_then_comes_the_tree.mp3",
+     "image": "img/raz-c-apple_tree-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_apple_tree-p7",
+     "type": "sentence",
+     "en": "Next come the blooms.",
+     "zh": "接着开出花朵。",
+     "audio": "audio/all/6064_next_come_the_blooms.mp3",
+     "slow": "audio/all/6064_next_come_the_blooms.mp3",
+     "image": "img/raz-c-apple_tree-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_apple_tree-p8",
+     "type": "sentence",
+     "en": "Then come the apples.",
+     "zh": "然后结出苹果。",
+     "audio": "audio/all/6065_then_come_the_apples.mp3",
+     "slow": "audio/all/6065_then_come_the_apples.mp3",
+     "image": "img/raz-c-apple_tree-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_apple_tree-p9",
+     "type": "sentence",
+     "en": "Seeds wait inside each apple.",
+     "zh": "种子在每颗苹果里等着。",
+     "audio": "audio/all/6066_seeds_wait_inside_each_apple.mp3",
+     "slow": "audio/all/6066_seeds_wait_inside_each_apple.mp3",
+     "image": "img/raz-c-apple_tree-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_apple_tree-p10",
+     "type": "sentence",
+     "en": "The cycle begins again.",
+     "zh": "循环又重新开始。",
+     "audio": "audio/all/6067_the_cycle_begins_again.mp3",
+     "slow": "audio/all/6067_the_cycle_begins_again.mp3",
+     "image": "img/raz-c-apple_tree-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

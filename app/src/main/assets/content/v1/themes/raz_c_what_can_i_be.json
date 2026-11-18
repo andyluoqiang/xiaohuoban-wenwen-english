@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_what_can_i_be",
+ "nameZh": "我可以扮成什么",
+ "bookTitle": "What Can I Be?",
+ "razLevel": "C",
+ "order": 74,
+ "cover": "img/raz-c-what_can_i_be-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_can_i_be-u1",
+   "band": 2,
+   "title": "What Can I Be? · 我可以扮成什么",
+   "cards": [
+    {
+     "id": "raz_c_what_can_i_be-p1",
+     "type": "sentence",
+     "en": "Halloween is coming soon.",
+     "zh": "万圣节快到了。",
+     "audio": "audio/all/6841_halloween_is_coming_soon.mp3",
+     "slow": "audio/all/6841_halloween_is_coming_soon.mp3",
+     "image": "img/raz-c-what_can_i_be-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_can_i_be-p2",
+     "type": "sentence",
+     "en": "What can I be?",
+     "zh": "我可以扮成什么呢？",
+     "audio": "audio/all/6842_what_can_i_be.mp3",
+     "slow": "audio/all/6842_what_can_i_be.mp3",
+     "image": "img/raz-c-what_can_i_be-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_can_i_be-p3",
+     "type": "sentence",
+     "en": "I can be a pale ghost.",
+     "zh": "我可以扮成苍白的小幽灵。",
+     "audio": "audio/all/6843_i_can_be_a_pale_ghost.mp3",
+     "slow": "audio/all/6843_i_can_be_a_pale_ghost.mp3",
+     "image": "img/raz-c-what_can_i_be-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_can_i_be-p4",
+     "type": "sentence",
+     "en": "I can be a shiny robot.",
+     "zh": "我可以扮成闪亮的机器人。",
+     "audio": "audio/all/6844_i_can_be_a_shiny_robot.mp3",
+     "slow": "audio/all/6844_i_can_be_a_shiny_robot.mp3",
+     "image": "img/raz-c-what_can_i_be-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_can_i_be-p5",
+     "type": "sentence",
+     "en": "I can be an old mummy.",
+     "zh": "我可以扮成老木乃伊。",
+     "audio": "audio/all/6845_i_can_be_an_old_mummy.mp3",
+     "slow": "audio/all/6845_i_can_be_an_old_mummy.mp3",
+     "image": "img/raz-c-what_can_i_be-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_can_i_be-p6",
+     "type": "sentence",
+     "en": "I can be a big box.",
+     "zh": "我可以扮成大盒子。",
+     "audio": "audio/all/6846_i_can_be_a_big_box.mp3",
+     "slow": "audio/all/6846_i_can_be_a_big_box.mp3",
+     "image": "img/raz-c-what_can_i_be-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_can_i_be-p7",
+     "type": "sentence",
+     "en": "I can be a cute carrot.",
+     "zh": "我可以扮成可爱的胡萝卜。",
+     "audio": "audio/all/6847_i_can_be_a_cute_carrot.mp3",
+     "slow": "audio/all/6847_i_can_be_a_cute_carrot.mp3",
+     "image": "img/raz-c-what_can_i_be-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_can_i_be-p8",
+     "type": "sentence",
+     "en": "I can be a sweet child.",
+     "zh": "我可以扮成甜甜的小朋友。",
+     "audio": "audio/all/6848_i_can_be_a_sweet_child.mp3",
+     "slow": "audio/all/6848_i_can_be_a_sweet_child.mp3",
+     "image": "img/raz-c-what_can_i_be-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_can_i_be-p9",
+     "type": "sentence",
+     "en": "Maybe you can be me.",
+     "zh": "也许你可以扮成我。",
+     "audio": "audio/all/6849_maybe_you_can_be_me.mp3",
+     "slow": "audio/all/6849_maybe_you_can_be_me.mp3",
+     "image": "img/raz-c-what_can_i_be-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

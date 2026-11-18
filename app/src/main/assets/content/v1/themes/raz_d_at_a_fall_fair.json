@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_at_a_fall_fair",
+ "nameZh": "在秋季集市",
+ "bookTitle": "At a Fall Fair",
+ "razLevel": "D",
+ "order": 7,
+ "cover": "img/raz-d-at_a_fall_fair-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_at_a_fall_fair-u1",
+   "band": 2,
+   "title": "At a Fall Fair · 在秋季集市",
+   "cards": [
+    {
+     "id": "raz_d_at_a_fall_fair-p1",
+     "type": "sentence",
+     "en": "Many places have a fair in the fall.",
+     "zh": "很多地方秋天都有集市。",
+     "audio": "audio/all/7163_many_places_have_a_fair_in_the_fall.mp3",
+     "slow": "audio/all/7163_many_places_have_a_fair_in_the_fall.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p2",
+     "type": "sentence",
+     "en": "You can bob for apples at a fall fair.",
+     "zh": "在秋季集市上你可以咬苹果。",
+     "audio": "audio/all/7164_you_can_bob_for_apples_at_a_fall_fair.mp3",
+     "slow": "audio/all/7164_you_can_bob_for_apples_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p3",
+     "type": "sentence",
+     "en": "You can pick pumpkins at a fall fair.",
+     "zh": "在秋季集市上你可以摘南瓜。",
+     "audio": "audio/all/7165_you_can_pick_pumpkins_at_a_fall_fair.mp3",
+     "slow": "audio/all/7165_you_can_pick_pumpkins_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p4",
+     "type": "sentence",
+     "en": "You can jump on hay at a fall fair.",
+     "zh": "在秋季集市上你可以在干草上跳。",
+     "audio": "audio/all/7166_you_can_jump_on_hay_at_a_fall_fair.mp3",
+     "slow": "audio/all/7166_you_can_jump_on_hay_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p5",
+     "type": "sentence",
+     "en": "You can explore a maze at a fall fair.",
+     "zh": "在秋季集市上你可以逛迷宫。",
+     "audio": "audio/all/7167_you_can_explore_a_maze_at_a_fall_fair.mp3",
+     "slow": "audio/all/7167_you_can_explore_a_maze_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p6",
+     "type": "sentence",
+     "en": "You can play games at a fall fair.",
+     "zh": "在秋季集市上你可以玩游戏。",
+     "audio": "audio/all/7168_you_can_play_games_at_a_fall_fair.mp3",
+     "slow": "audio/all/7168_you_can_play_games_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p7",
+     "type": "sentence",
+     "en": "You can race ducks at a fall fair.",
+     "zh": "在秋季集市上你可以赛鸭子。",
+     "audio": "audio/all/7169_you_can_race_ducks_at_a_fall_fair.mp3",
+     "slow": "audio/all/7169_you_can_race_ducks_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p8",
+     "type": "sentence",
+     "en": "You can listen to music at a fall fair.",
+     "zh": "在秋季集市上你可以听音乐。",
+     "audio": "audio/all/7170_you_can_listen_to_music_at_a_fall_fair.mp3",
+     "slow": "audio/all/7170_you_can_listen_to_music_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p9",
+     "type": "sentence",
+     "en": "You can eat pie at a fall fair.",
+     "zh": "在秋季集市上你可以吃派。",
+     "audio": "audio/all/7171_you_can_eat_pie_at_a_fall_fair.mp3",
+     "slow": "audio/all/7171_you_can_eat_pie_at_a_fall_fair.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_at_a_fall_fair-p10",
+     "type": "sentence",
+     "en": "Whatever you do, have fun!",
+     "zh": "不管玩什么，都要开心！",
+     "audio": "audio/all/7172_whatever_you_do_have_fun.mp3",
+     "slow": "audio/all/7172_whatever_you_do_have_fun.mp3",
+     "image": "img/raz-d-at_a_fall_fair-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

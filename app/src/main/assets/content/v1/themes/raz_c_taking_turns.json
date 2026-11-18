@@ -1,0 +1,127 @@
+{
+ "theme": "raz_c_taking_turns",
+ "nameZh": "轮流",
+ "bookTitle": "Taking Turns",
+ "razLevel": "C",
+ "order": 55,
+ "cover": "img/raz-c-taking_turns-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_taking_turns-u1",
+   "band": 2,
+   "title": "Taking Turns · 轮流",
+   "cards": [
+    {
+     "id": "raz_c_taking_turns-p1",
+     "type": "sentence",
+     "en": "When is it my turn?",
+     "zh": "什么时候轮到我？",
+     "audio": "audio/all/6611_when_is_it_my_turn.mp3",
+     "slow": "audio/all/6611_when_is_it_my_turn.mp3",
+     "image": "img/raz-c-taking_turns-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_taking_turns-p2",
+     "type": "sentence",
+     "en": "The teacher is the first to read.",
+     "zh": "老师第一个读。",
+     "audio": "audio/all/6612_the_teacher_is_the_first_to_read.mp3",
+     "slow": "audio/all/6612_the_teacher_is_the_first_to_read.mp3",
+     "image": "img/raz-c-taking_turns-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_taking_turns-p3",
+     "type": "sentence",
+     "en": "Then it is May's turn to read.",
+     "zh": "然后轮到梅读。",
+     "audio": "audio/all/6613_then_it_is_may_s_turn_to_read.mp3",
+     "slow": "audio/all/6613_then_it_is_may_s_turn_to_read.mp3",
+     "image": "img/raz-c-taking_turns-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_taking_turns-p4",
+     "type": "sentence",
+     "en": "Mikel is the first to slide.",
+     "zh": "米克尔第一个滑。",
+     "audio": "audio/all/6614_mikel_is_the_first_to_slide.mp3",
+     "slow": "audio/all/6614_mikel_is_the_first_to_slide.mp3",
+     "image": "img/raz-c-taking_turns-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_taking_turns-p5",
+     "type": "sentence",
+     "en": "Then it is Don's turn to slide.",
+     "zh": "然后轮到唐滑。",
+     "audio": "audio/all/6615_then_it_is_don_s_turn_to_slide.mp3",
+     "slow": "audio/all/6615_then_it_is_don_s_turn_to_slide.mp3",
+     "image": "img/raz-c-taking_turns-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_taking_turns-p6",
+     "type": "sentence",
+     "en": "It is Louisa's turn to drink.",
+     "zh": "轮到路易莎喝了。",
+     "audio": "audio/all/6616_it_is_louisa_s_turn_to_drink.mp3",
+     "slow": "audio/all/6616_it_is_louisa_s_turn_to_drink.mp3",
+     "image": "img/raz-c-taking_turns-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_taking_turns-p7",
+     "type": "sentence",
+     "en": "Then it is Meg's turn to drink.",
+     "zh": "然后轮到梅格喝。",
+     "audio": "audio/all/6617_then_it_is_meg_s_turn_to_drink.mp3",
+     "slow": "audio/all/6617_then_it_is_meg_s_turn_to_drink.mp3",
+     "image": "img/raz-c-taking_turns-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_taking_turns-p8",
+     "type": "sentence",
+     "en": "Grandma is first to cut out cookies.",
+     "zh": "奶奶第一个切饼干。",
+     "audio": "audio/all/6618_grandma_is_first_to_cut_out_cookies.mp3",
+     "slow": "audio/all/6618_grandma_is_first_to_cut_out_cookies.mp3",
+     "image": "img/raz-c-taking_turns-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_taking_turns-p9",
+     "type": "sentence",
+     "en": "Then I cut out cookies.",
+     "zh": "然后我来切饼干。",
+     "audio": "audio/all/6619_then_i_cut_out_cookies.mp3",
+     "slow": "audio/all/6619_then_i_cut_out_cookies.mp3",
+     "image": "img/raz-c-taking_turns-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_c_taking_turns-p10",
+     "type": "sentence",
+     "en": "We all play a game.",
+     "zh": "我们一起玩游戏。",
+     "audio": "audio/all/6620_we_all_play_a_game.mp3",
+     "slow": "audio/all/6620_we_all_play_a_game.mp3",
+     "image": "img/raz-c-taking_turns-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_c_taking_turns-p11",
+     "type": "sentence",
+     "en": "Now it is my turn to go first!",
+     "zh": "现在轮到我第一个啦！",
+     "audio": "audio/all/6621_now_it_is_my_turn_to_go_first.mp3",
+     "slow": "audio/all/6621_now_it_is_my_turn_to_go_first.mp3",
+     "image": "img/raz-c-taking_turns-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

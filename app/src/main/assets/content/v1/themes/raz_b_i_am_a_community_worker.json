@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "I am a doctor.",
      "zh": "我是一名医生。",
-     "audio": "audio/all/3220_i_am_a_doctor.mp3",
-     "slow": "audio/all/3220_i_am_a_doctor.mp3",
+     "audio": "audio/all/8620_i_am_a_doctor.mp3",
+     "slow": "audio/all/8620_i_am_a_doctor.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "I am a nurse.",
      "zh": "我是一名护士。",
-     "audio": "audio/all/3221_i_am_a_nurse.mp3",
-     "slow": "audio/all/3221_i_am_a_nurse.mp3",
+     "audio": "audio/all/8621_i_am_a_nurse.mp3",
+     "slow": "audio/all/8621_i_am_a_nurse.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "I am a firefighter.",
      "zh": "我是一名消防员。",
-     "audio": "audio/all/3222_i_am_a_firefighter.mp3",
-     "slow": "audio/all/3222_i_am_a_firefighter.mp3",
+     "audio": "audio/all/8622_i_am_a_firefighter.mp3",
+     "slow": "audio/all/8622_i_am_a_firefighter.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "I am a police officer.",
      "zh": "我是一名警察。",
-     "audio": "audio/all/3223_i_am_a_police_officer.mp3",
-     "slow": "audio/all/3223_i_am_a_police_officer.mp3",
+     "audio": "audio/all/8623_i_am_a_police_officer.mp3",
+     "slow": "audio/all/8623_i_am_a_police_officer.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "I am a pilot.",
      "zh": "我是一名飞行员。",
-     "audio": "audio/all/3224_i_am_a_pilot.mp3",
-     "slow": "audio/all/3224_i_am_a_pilot.mp3",
+     "audio": "audio/all/8624_i_am_a_pilot.mp3",
+     "slow": "audio/all/8624_i_am_a_pilot.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "I am a vet.",
      "zh": "我是一名兽医。",
-     "audio": "audio/all/3225_i_am_a_vet.mp3",
-     "slow": "audio/all/3225_i_am_a_vet.mp3",
+     "audio": "audio/all/8625_i_am_a_vet.mp3",
+     "slow": "audio/all/8625_i_am_a_vet.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "I am a construction worker.",
      "zh": "我是一名建筑工人。",
-     "audio": "audio/all/3226_i_am_a_construction_worker.mp3",
-     "slow": "audio/all/3226_i_am_a_construction_worker.mp3",
+     "audio": "audio/all/8626_i_am_a_construction_worker.mp3",
+     "slow": "audio/all/8626_i_am_a_construction_worker.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "I am a teacher.",
      "zh": "我是一名老师。",
-     "audio": "audio/all/3227_i_am_a_teacher.mp3",
-     "slow": "audio/all/3227_i_am_a_teacher.mp3",
+     "audio": "audio/all/8627_i_am_a_teacher.mp3",
+     "slow": "audio/all/8627_i_am_a_teacher.mp3",
      "image": "img/raz-b-i_am_a_community_worker-p08.jpg",
      "page": 8
     }

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_bird_goes_home",
+ "nameZh": "小鸟回家",
+ "bookTitle": "Bird Goes Home",
+ "razLevel": "A",
+ "order": 7,
+ "cover": "img/raz-a-bird_goes_home-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_bird_goes_home-u1",
+   "band": 2,
+   "title": "Bird Goes Home · 小鸟回家",
+   "cards": [
+    {
+     "id": "raz_a_bird_goes_home-p1",
+     "type": "sentence",
+     "en": "The bird goes over the tree.",
+     "zh": "小鸟飞过树林。",
+     "audio": "audio/all/5150_the_bird_goes_over_the_tree.mp3",
+     "slow": "audio/all/5150_the_bird_goes_over_the_tree.mp3",
+     "image": "img/raz-a-bird_goes_home-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_bird_goes_home-p2",
+     "type": "sentence",
+     "en": "The bird goes over the farm.",
+     "zh": "小鸟飞过农场。",
+     "audio": "audio/all/5151_the_bird_goes_over_the_farm.mp3",
+     "slow": "audio/all/5151_the_bird_goes_over_the_farm.mp3",
+     "image": "img/raz-a-bird_goes_home-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_bird_goes_home-p3",
+     "type": "sentence",
+     "en": "The bird goes over the city.",
+     "zh": "小鸟飞过城市。",
+     "audio": "audio/all/5152_the_bird_goes_over_the_city.mp3",
+     "slow": "audio/all/5152_the_bird_goes_over_the_city.mp3",
+     "image": "img/raz-a-bird_goes_home-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_bird_goes_home-p4",
+     "type": "sentence",
+     "en": "The bird goes over the street.",
+     "zh": "小鸟飞过街道。",
+     "audio": "audio/all/5153_the_bird_goes_over_the_street.mp3",
+     "slow": "audio/all/5153_the_bird_goes_over_the_street.mp3",
+     "image": "img/raz-a-bird_goes_home-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_bird_goes_home-p5",
+     "type": "sentence",
+     "en": "The bird goes over the tables.",
+     "zh": "小鸟飞过桌子。",
+     "audio": "audio/all/5154_the_bird_goes_over_the_tables.mp3",
+     "slow": "audio/all/5154_the_bird_goes_over_the_tables.mp3",
+     "image": "img/raz-a-bird_goes_home-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_bird_goes_home-p6",
+     "type": "sentence",
+     "en": "The bird goes over the cars.",
+     "zh": "小鸟飞过汽车。",
+     "audio": "audio/all/5155_the_bird_goes_over_the_cars.mp3",
+     "slow": "audio/all/5155_the_bird_goes_over_the_cars.mp3",
+     "image": "img/raz-a-bird_goes_home-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_bird_goes_home-p7",
+     "type": "sentence",
+     "en": "The bird goes over the mountains.",
+     "zh": "小鸟飞过高山。",
+     "audio": "audio/all/5156_the_bird_goes_over_the_mountains.mp3",
+     "slow": "audio/all/5156_the_bird_goes_over_the_mountains.mp3",
+     "image": "img/raz-a-bird_goes_home-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_bird_goes_home-p8",
+     "type": "sentence",
+     "en": "The bird goes home.",
+     "zh": "小鸟飞回家了。",
+     "audio": "audio/all/5157_the_bird_goes_home.mp3",
+     "slow": "audio/all/5157_the_bird_goes_home.mp3",
+     "image": "img/raz-a-bird_goes_home-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_muscles",
+ "nameZh": "肌肉",
+ "bookTitle": "Muscles",
+ "razLevel": "A",
+ "order": 40,
+ "cover": "img/raz-a-muscles-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_muscles-u1",
+   "band": 2,
+   "title": "Muscles · 肌肉",
+   "cards": [
+    {
+     "id": "raz_a_muscles-p1",
+     "type": "sentence",
+     "en": "Muscles help me run.",
+     "zh": "肌肉帮我跑步。",
+     "audio": "audio/all/5417_muscles_help_me_run.mp3",
+     "slow": "audio/all/5417_muscles_help_me_run.mp3",
+     "image": "img/raz-a-muscles-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_muscles-p2",
+     "type": "sentence",
+     "en": "Muscles help me push.",
+     "zh": "肌肉帮我推。",
+     "audio": "audio/all/5418_muscles_help_me_push.mp3",
+     "slow": "audio/all/5418_muscles_help_me_push.mp3",
+     "image": "img/raz-a-muscles-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_muscles-p3",
+     "type": "sentence",
+     "en": "Muscles help me jump.",
+     "zh": "肌肉帮我跳跃。",
+     "audio": "audio/all/5419_muscles_help_me_jump.mp3",
+     "slow": "audio/all/5419_muscles_help_me_jump.mp3",
+     "image": "img/raz-a-muscles-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_muscles-p4",
+     "type": "sentence",
+     "en": "Muscles help me lift.",
+     "zh": "肌肉帮我举东西。",
+     "audio": "audio/all/5420_muscles_help_me_lift.mp3",
+     "slow": "audio/all/5420_muscles_help_me_lift.mp3",
+     "image": "img/raz-a-muscles-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_muscles-p5",
+     "type": "sentence",
+     "en": "Muscles help me stretch.",
+     "zh": "肌肉帮我伸展。",
+     "audio": "audio/all/5421_muscles_help_me_stretch.mp3",
+     "slow": "audio/all/5421_muscles_help_me_stretch.mp3",
+     "image": "img/raz-a-muscles-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_muscles-p6",
+     "type": "sentence",
+     "en": "Muscles help me pull.",
+     "zh": "肌肉帮我拉。",
+     "audio": "audio/all/5422_muscles_help_me_pull.mp3",
+     "slow": "audio/all/5422_muscles_help_me_pull.mp3",
+     "image": "img/raz-a-muscles-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_muscles-p7",
+     "type": "sentence",
+     "en": "Muscles help me kick.",
+     "zh": "肌肉帮我踢。",
+     "audio": "audio/all/5423_muscles_help_me_kick.mp3",
+     "slow": "audio/all/5423_muscles_help_me_kick.mp3",
+     "image": "img/raz-a-muscles-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_muscles-p8",
+     "type": "sentence",
+     "en": "Muscles help me smile.",
+     "zh": "肌肉帮我微笑。",
+     "audio": "audio/all/5424_muscles_help_me_smile.mp3",
+     "slow": "audio/all/5424_muscles_help_me_smile.mp3",
+     "image": "img/raz-a-muscles-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

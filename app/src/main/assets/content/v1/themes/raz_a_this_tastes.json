@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_this_tastes",
+ "nameZh": "尝起来的味道",
+ "bookTitle": "This Tastes",
+ "razLevel": "A",
+ "order": 74,
+ "cover": "img/raz-a-this_tastes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_this_tastes-u1",
+   "band": 2,
+   "title": "This Tastes · 尝起来的味道",
+   "cards": [
+    {
+     "id": "raz_a_this_tastes-p1",
+     "type": "sentence",
+     "en": "This tastes so old.",
+     "zh": "这个尝起来好陈。",
+     "audio": "audio/all/5689_this_tastes_so_old.mp3",
+     "slow": "audio/all/5689_this_tastes_so_old.mp3",
+     "image": "img/raz-a-this_tastes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_this_tastes-p2",
+     "type": "sentence",
+     "en": "This tastes so juicy.",
+     "zh": "这个尝起来多汁。",
+     "audio": "audio/all/5690_this_tastes_so_juicy.mp3",
+     "slow": "audio/all/5690_this_tastes_so_juicy.mp3",
+     "image": "img/raz-a-this_tastes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_this_tastes-p3",
+     "type": "sentence",
+     "en": "This tastes so sour.",
+     "zh": "这个尝起来好酸。",
+     "audio": "audio/all/5691_this_tastes_so_sour.mp3",
+     "slow": "audio/all/5691_this_tastes_so_sour.mp3",
+     "image": "img/raz-a-this_tastes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_this_tastes-p4",
+     "type": "sentence",
+     "en": "This tastes so sweet.",
+     "zh": "这个尝起来好甜。",
+     "audio": "audio/all/5692_this_tastes_so_sweet.mp3",
+     "slow": "audio/all/5692_this_tastes_so_sweet.mp3",
+     "image": "img/raz-a-this_tastes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_this_tastes-p5",
+     "type": "sentence",
+     "en": "This tastes so bland.",
+     "zh": "这个尝起来好淡。",
+     "audio": "audio/all/5693_this_tastes_so_bland.mp3",
+     "slow": "audio/all/5693_this_tastes_so_bland.mp3",
+     "image": "img/raz-a-this_tastes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_this_tastes-p6",
+     "type": "sentence",
+     "en": "This tastes so spicy.",
+     "zh": "这个尝起来好辣。",
+     "audio": "audio/all/5694_this_tastes_so_spicy.mp3",
+     "slow": "audio/all/5694_this_tastes_so_spicy.mp3",
+     "image": "img/raz-a-this_tastes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_this_tastes-p7",
+     "type": "sentence",
+     "en": "This tastes so bitter.",
+     "zh": "这个尝起来好苦。",
+     "audio": "audio/all/5695_this_tastes_so_bitter.mp3",
+     "slow": "audio/all/5695_this_tastes_so_bitter.mp3",
+     "image": "img/raz-a-this_tastes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_this_tastes-p8",
+     "type": "sentence",
+     "en": "This tastes so yummy.",
+     "zh": "这个尝起来好吃。",
+     "audio": "audio/all/5696_this_tastes_so_yummy.mp3",
+     "slow": "audio/all/5696_this_tastes_so_yummy.mp3",
+     "image": "img/raz-a-this_tastes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

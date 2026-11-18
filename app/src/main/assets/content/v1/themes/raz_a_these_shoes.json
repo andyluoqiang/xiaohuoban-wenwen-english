@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_these_shoes",
+ "nameZh": "这些鞋",
+ "bookTitle": "These Shoes",
+ "razLevel": "A",
+ "order": 68,
+ "cover": "img/raz-a-these_shoes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_these_shoes-u1",
+   "band": 2,
+   "title": "These Shoes · 这些鞋",
+   "cards": [
+    {
+     "id": "raz_a_these_shoes-p1",
+     "type": "sentence",
+     "en": "These shoes are blue.",
+     "zh": "这双鞋是蓝色的。",
+     "audio": "audio/all/5641_these_shoes_are_blue.mp3",
+     "slow": "audio/all/5641_these_shoes_are_blue.mp3",
+     "image": "img/raz-a-these_shoes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_these_shoes-p2",
+     "type": "sentence",
+     "en": "These shoes are red.",
+     "zh": "这双鞋是红色的。",
+     "audio": "audio/all/5642_these_shoes_are_red.mp3",
+     "slow": "audio/all/5642_these_shoes_are_red.mp3",
+     "image": "img/raz-a-these_shoes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_these_shoes-p3",
+     "type": "sentence",
+     "en": "These shoes are wet.",
+     "zh": "这双鞋是湿的。",
+     "audio": "audio/all/5643_these_shoes_are_wet.mp3",
+     "slow": "audio/all/5643_these_shoes_are_wet.mp3",
+     "image": "img/raz-a-these_shoes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_these_shoes-p4",
+     "type": "sentence",
+     "en": "These shoes are old.",
+     "zh": "这双鞋是旧的。",
+     "audio": "audio/all/5644_these_shoes_are_old.mp3",
+     "slow": "audio/all/5644_these_shoes_are_old.mp3",
+     "image": "img/raz-a-these_shoes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_these_shoes-p5",
+     "type": "sentence",
+     "en": "These shoes are big.",
+     "zh": "这双鞋是大的。",
+     "audio": "audio/all/5645_these_shoes_are_big.mp3",
+     "slow": "audio/all/5645_these_shoes_are_big.mp3",
+     "image": "img/raz-a-these_shoes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_these_shoes-p6",
+     "type": "sentence",
+     "en": "These shoes are shiny.",
+     "zh": "这双鞋锃亮。",
+     "audio": "audio/all/5646_these_shoes_are_shiny.mp3",
+     "slow": "audio/all/5646_these_shoes_are_shiny.mp3",
+     "image": "img/raz-a-these_shoes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_these_shoes-p7",
+     "type": "sentence",
+     "en": "These shoes are tall.",
+     "zh": "这双鞋很高。",
+     "audio": "audio/all/5647_these_shoes_are_tall.mp3",
+     "slow": "audio/all/5647_these_shoes_are_tall.mp3",
+     "image": "img/raz-a-these_shoes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_these_shoes-p8",
+     "type": "sentence",
+     "en": "These shoes are funny!",
+     "zh": "这双鞋很滑稽！",
+     "audio": "audio/all/5648_these_shoes_are_funny.mp3",
+     "slow": "audio/all/5648_these_shoes_are_funny.mp3",
+     "image": "img/raz-a-these_shoes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

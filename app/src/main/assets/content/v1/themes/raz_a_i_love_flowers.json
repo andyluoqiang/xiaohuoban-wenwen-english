@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_love_flowers",
+ "nameZh": "我爱花",
+ "bookTitle": "I Love Flowers",
+ "razLevel": "A",
+ "order": 31,
+ "cover": "img/raz-a-i_love_flowers-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_love_flowers-u1",
+   "band": 2,
+   "title": "I Love Flowers · 我爱花",
+   "cards": [
+    {
+     "id": "raz_a_i_love_flowers-p1",
+     "type": "sentence",
+     "en": "I love violets.",
+     "zh": "我爱紫罗兰。",
+     "audio": "audio/all/5343_i_love_violets.mp3",
+     "slow": "audio/all/5343_i_love_violets.mp3",
+     "image": "img/raz-a-i_love_flowers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_love_flowers-p2",
+     "type": "sentence",
+     "en": "I love lilies.",
+     "zh": "我爱百合花。",
+     "audio": "audio/all/5344_i_love_lilies.mp3",
+     "slow": "audio/all/5344_i_love_lilies.mp3",
+     "image": "img/raz-a-i_love_flowers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_love_flowers-p3",
+     "type": "sentence",
+     "en": "I love daisies.",
+     "zh": "我爱雏菊。",
+     "audio": "audio/all/5345_i_love_daisies.mp3",
+     "slow": "audio/all/5345_i_love_daisies.mp3",
+     "image": "img/raz-a-i_love_flowers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_love_flowers-p4",
+     "type": "sentence",
+     "en": "I love sunflowers.",
+     "zh": "我爱向日葵。",
+     "audio": "audio/all/5346_i_love_sunflowers.mp3",
+     "slow": "audio/all/5346_i_love_sunflowers.mp3",
+     "image": "img/raz-a-i_love_flowers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_love_flowers-p5",
+     "type": "sentence",
+     "en": "I love poppies.",
+     "zh": "我爱罂粟花。",
+     "audio": "audio/all/5347_i_love_poppies.mp3",
+     "slow": "audio/all/5347_i_love_poppies.mp3",
+     "image": "img/raz-a-i_love_flowers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_love_flowers-p6",
+     "type": "sentence",
+     "en": "I love roses.",
+     "zh": "我爱玫瑰花。",
+     "audio": "audio/all/5348_i_love_roses.mp3",
+     "slow": "audio/all/5348_i_love_roses.mp3",
+     "image": "img/raz-a-i_love_flowers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_love_flowers-p7",
+     "type": "sentence",
+     "en": "I love mums.",
+     "zh": "我爱菊花。",
+     "audio": "audio/all/5349_i_love_mums.mp3",
+     "slow": "audio/all/5349_i_love_mums.mp3",
+     "image": "img/raz-a-i_love_flowers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_love_flowers-p8",
+     "type": "sentence",
+     "en": "I love flowers!",
+     "zh": "我爱花儿！",
+     "audio": "audio/all/5350_i_love_flowers.mp3",
+     "slow": "audio/all/5350_i_love_flowers.mp3",
+     "image": "img/raz-a-i_love_flowers-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

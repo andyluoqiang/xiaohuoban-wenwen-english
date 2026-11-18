@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_building_with_blocks",
+ "nameZh": "搭积木",
+ "bookTitle": "Building with Blocks",
+ "razLevel": "A",
+ "order": 8,
+ "cover": "img/raz-a-building_with_blocks-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_building_with_blocks-u1",
+   "band": 2,
+   "title": "Building with Blocks · 搭积木",
+   "cards": [
+    {
+     "id": "raz_a_building_with_blocks-p1",
+     "type": "sentence",
+     "en": "I build a house.",
+     "zh": "我搭一座房子。",
+     "audio": "audio/all/5158_i_build_a_house.mp3",
+     "slow": "audio/all/5158_i_build_a_house.mp3",
+     "image": "img/raz-a-building_with_blocks-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_building_with_blocks-p2",
+     "type": "sentence",
+     "en": "I build a horse.",
+     "zh": "我搭一匹马。",
+     "audio": "audio/all/5159_i_build_a_horse.mp3",
+     "slow": "audio/all/5159_i_build_a_horse.mp3",
+     "image": "img/raz-a-building_with_blocks-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_building_with_blocks-p3",
+     "type": "sentence",
+     "en": "I build a plane.",
+     "zh": "我搭一架飞机。",
+     "audio": "audio/all/5160_i_build_a_plane.mp3",
+     "slow": "audio/all/5160_i_build_a_plane.mp3",
+     "image": "img/raz-a-building_with_blocks-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_building_with_blocks-p4",
+     "type": "sentence",
+     "en": "I build a duck.",
+     "zh": "我搭一只鸭子。",
+     "audio": "audio/all/5161_i_build_a_duck.mp3",
+     "slow": "audio/all/5161_i_build_a_duck.mp3",
+     "image": "img/raz-a-building_with_blocks-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_building_with_blocks-p5",
+     "type": "sentence",
+     "en": "I build a tree.",
+     "zh": "我搭一棵树。",
+     "audio": "audio/all/5162_i_build_a_tree.mp3",
+     "slow": "audio/all/5162_i_build_a_tree.mp3",
+     "image": "img/raz-a-building_with_blocks-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_building_with_blocks-p6",
+     "type": "sentence",
+     "en": "I build a maze.",
+     "zh": "我搭一座迷宫。",
+     "audio": "audio/all/5163_i_build_a_maze.mp3",
+     "slow": "audio/all/5163_i_build_a_maze.mp3",
+     "image": "img/raz-a-building_with_blocks-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_building_with_blocks-p7",
+     "type": "sentence",
+     "en": "I build a boat.",
+     "zh": "我搭一条小船。",
+     "audio": "audio/all/5164_i_build_a_boat.mp3",
+     "slow": "audio/all/5164_i_build_a_boat.mp3",
+     "image": "img/raz-a-building_with_blocks-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_building_with_blocks-p8",
+     "type": "sentence",
+     "en": "I build a castle.",
+     "zh": "我搭一座城堡。",
+     "audio": "audio/all/5165_i_build_a_castle.mp3",
+     "slow": "audio/all/5165_i_build_a_castle.mp3",
+     "image": "img/raz-a-building_with_blocks-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

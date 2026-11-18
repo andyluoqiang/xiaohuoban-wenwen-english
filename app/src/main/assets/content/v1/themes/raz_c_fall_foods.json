@@ -1,0 +1,157 @@
+{
+ "theme": "raz_c_fall_foods",
+ "nameZh": "秋天的食物",
+ "bookTitle": "Fall Foods",
+ "razLevel": "C",
+ "order": 13,
+ "cover": "img/raz-c-fall_foods-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_fall_foods-u1",
+   "band": 2,
+   "title": "Fall Foods · 秋天的食物",
+   "cards": [
+    {
+     "id": "raz_c_fall_foods-p1",
+     "type": "sentence",
+     "en": "Pears are ripe in the fall.",
+     "zh": "秋天梨子熟了。",
+     "audio": "audio/all/6130_pears_are_ripe_in_the_fall.mp3",
+     "slow": "audio/all/6130_pears_are_ripe_in_the_fall.mp3",
+     "image": "img/raz-c-fall_foods-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall_foods-p2",
+     "type": "sentence",
+     "en": "We bite them.",
+     "zh": "我们咬着吃。",
+     "audio": "audio/all/6131_we_bite_them.mp3",
+     "slow": "audio/all/6131_we_bite_them.mp3",
+     "image": "img/raz-c-fall_foods-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_fall_foods-p3",
+     "type": "sentence",
+     "en": "Apples are ripe.",
+     "zh": "苹果熟了。",
+     "audio": "audio/all/6132_apples_are_ripe.mp3",
+     "slow": "audio/all/6132_apples_are_ripe.mp3",
+     "image": "img/raz-c-fall_foods-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_fall_foods-p4",
+     "type": "sentence",
+     "en": "We pick them.",
+     "zh": "我们摘着吃。",
+     "audio": "audio/all/6133_we_pick_them.mp3",
+     "slow": "audio/all/6133_we_pick_them.mp3",
+     "image": "img/raz-c-fall_foods-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_fall_foods-p5",
+     "type": "sentence",
+     "en": "Beets are ripe.",
+     "zh": "甜菜熟了。",
+     "audio": "audio/all/6134_beets_are_ripe.mp3",
+     "slow": "audio/all/6134_beets_are_ripe.mp3",
+     "image": "img/raz-c-fall_foods-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_fall_foods-p6",
+     "type": "sentence",
+     "en": "We pull them.",
+     "zh": "我们拔出来。",
+     "audio": "audio/all/6135_we_pull_them.mp3",
+     "slow": "audio/all/6135_we_pull_them.mp3",
+     "image": "img/raz-c-fall_foods-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_fall_foods-p7",
+     "type": "sentence",
+     "en": "Potatoes are ripe.",
+     "zh": "土豆熟了。",
+     "audio": "audio/all/6136_potatoes_are_ripe.mp3",
+     "slow": "audio/all/6136_potatoes_are_ripe.mp3",
+     "image": "img/raz-c-fall_foods-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_fall_foods-p8",
+     "type": "sentence",
+     "en": "We dig them.",
+     "zh": "我们挖出来。",
+     "audio": "audio/all/6137_we_dig_them.mp3",
+     "slow": "audio/all/6137_we_dig_them.mp3",
+     "image": "img/raz-c-fall_foods-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_fall_foods-p9",
+     "type": "sentence",
+     "en": "Cabbages are ripe.",
+     "zh": "卷心菜熟了。",
+     "audio": "audio/all/6138_cabbages_are_ripe.mp3",
+     "slow": "audio/all/6138_cabbages_are_ripe.mp3",
+     "image": "img/raz-c-fall_foods-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_fall_foods-p10",
+     "type": "sentence",
+     "en": "We chop them.",
+     "zh": "我们切开来。",
+     "audio": "audio/all/6139_we_chop_them.mp3",
+     "slow": "audio/all/6139_we_chop_them.mp3",
+     "image": "img/raz-c-fall_foods-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_fall_foods-p11",
+     "type": "sentence",
+     "en": "Pumpkins are ripe.",
+     "zh": "南瓜熟了。",
+     "audio": "audio/all/6140_pumpkins_are_ripe.mp3",
+     "slow": "audio/all/6140_pumpkins_are_ripe.mp3",
+     "image": "img/raz-c-fall_foods-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_fall_foods-p12",
+     "type": "sentence",
+     "en": "We find them.",
+     "zh": "我们找到它们。",
+     "audio": "audio/all/6141_we_find_them.mp3",
+     "slow": "audio/all/6141_we_find_them.mp3",
+     "image": "img/raz-c-fall_foods-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_fall_foods-p13",
+     "type": "sentence",
+     "en": "So many foods are ripe in the fall.",
+     "zh": "秋天这么多食物都熟了。",
+     "audio": "audio/all/6142_so_many_foods_are_ripe_in_the_fall.mp3",
+     "slow": "audio/all/6142_so_many_foods_are_ripe_in_the_fall.mp3",
+     "image": "img/raz-c-fall_foods-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_fall_foods-p14",
+     "type": "sentence",
+     "en": "Let's eat!",
+     "zh": "我们吃吧！",
+     "audio": "audio/all/6143_let_s_eat.mp3",
+     "slow": "audio/all/6143_let_s_eat.mp3",
+     "image": "img/raz-c-fall_foods-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_what_i_like",
+ "nameZh": "我喜欢什么",
+ "bookTitle": "What I Like",
+ "razLevel": "A",
+ "order": 79,
+ "cover": "img/raz-a-what_i_like-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_what_i_like-u1",
+   "band": 2,
+   "title": "What I Like · 我喜欢什么",
+   "cards": [
+    {
+     "id": "raz_a_what_i_like-p1",
+     "type": "sentence",
+     "en": "I like flowers.",
+     "zh": "我喜欢花。",
+     "audio": "audio/all/5729_i_like_flowers.mp3",
+     "slow": "audio/all/5729_i_like_flowers.mp3",
+     "image": "img/raz-a-what_i_like-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_what_i_like-p2",
+     "type": "sentence",
+     "en": "I like trees.",
+     "zh": "我喜欢树。",
+     "audio": "audio/all/5730_i_like_trees.mp3",
+     "slow": "audio/all/5730_i_like_trees.mp3",
+     "image": "img/raz-a-what_i_like-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_what_i_like-p3",
+     "type": "sentence",
+     "en": "I like birds.",
+     "zh": "我喜欢鸟。",
+     "audio": "audio/all/5731_i_like_birds.mp3",
+     "slow": "audio/all/5731_i_like_birds.mp3",
+     "image": "img/raz-a-what_i_like-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_what_i_like-p4",
+     "type": "sentence",
+     "en": "I like bees.",
+     "zh": "我喜欢蜜蜂。",
+     "audio": "audio/all/5732_i_like_bees.mp3",
+     "slow": "audio/all/5732_i_like_bees.mp3",
+     "image": "img/raz-a-what_i_like-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_what_i_like-p5",
+     "type": "sentence",
+     "en": "I like to swing.",
+     "zh": "我喜欢荡秋千。",
+     "audio": "audio/all/5733_i_like_to_swing.mp3",
+     "slow": "audio/all/5733_i_like_to_swing.mp3",
+     "image": "img/raz-a-what_i_like-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_what_i_like-p6",
+     "type": "sentence",
+     "en": "I like to slide.",
+     "zh": "我喜欢滑滑梯。",
+     "audio": "audio/all/5734_i_like_to_slide.mp3",
+     "slow": "audio/all/5734_i_like_to_slide.mp3",
+     "image": "img/raz-a-what_i_like-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_what_i_like-p7",
+     "type": "sentence",
+     "en": "I like to dig.",
+     "zh": "我喜欢挖沙。",
+     "audio": "audio/all/5735_i_like_to_dig.mp3",
+     "slow": "audio/all/5735_i_like_to_dig.mp3",
+     "image": "img/raz-a-what_i_like-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_what_i_like-p8",
+     "type": "sentence",
+     "en": "I like to play outside.",
+     "zh": "我喜欢在外面玩。",
+     "audio": "audio/all/5736_i_like_to_play_outside.mp3",
+     "slow": "audio/all/5736_i_like_to_play_outside.mp3",
+     "image": "img/raz-a-what_i_like-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

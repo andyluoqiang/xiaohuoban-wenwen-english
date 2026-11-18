@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_little_brother",
+ "nameZh": "我的小弟弟",
+ "bookTitle": "My Little Brother",
+ "razLevel": "A",
+ "order": 47,
+ "cover": "img/raz-a-my_little_brother-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_little_brother-u1",
+   "band": 2,
+   "title": "My Little Brother · 我的小弟弟",
+   "cards": [
+    {
+     "id": "raz_a_my_little_brother-p1",
+     "type": "sentence",
+     "en": "I meet my brother.",
+     "zh": "我见到我的弟弟。",
+     "audio": "audio/all/5473_i_meet_my_brother.mp3",
+     "slow": "audio/all/5473_i_meet_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_little_brother-p2",
+     "type": "sentence",
+     "en": "I hold my brother.",
+     "zh": "我抱着我的弟弟。",
+     "audio": "audio/all/5474_i_hold_my_brother.mp3",
+     "slow": "audio/all/5474_i_hold_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_little_brother-p3",
+     "type": "sentence",
+     "en": "I hear my brother.",
+     "zh": "我听见我的弟弟。",
+     "audio": "audio/all/5475_i_hear_my_brother.mp3",
+     "slow": "audio/all/5475_i_hear_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_little_brother-p4",
+     "type": "sentence",
+     "en": "I feed my brother.",
+     "zh": "我喂我的弟弟。",
+     "audio": "audio/all/5476_i_feed_my_brother.mp3",
+     "slow": "audio/all/5476_i_feed_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_little_brother-p5",
+     "type": "sentence",
+     "en": "I rock my brother.",
+     "zh": "我摇我的弟弟。",
+     "audio": "audio/all/5477_i_rock_my_brother.mp3",
+     "slow": "audio/all/5477_i_rock_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_little_brother-p6",
+     "type": "sentence",
+     "en": "I help my brother.",
+     "zh": "我帮我的弟弟。",
+     "audio": "audio/all/5478_i_help_my_brother.mp3",
+     "slow": "audio/all/5478_i_help_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_little_brother-p7",
+     "type": "sentence",
+     "en": "I kiss my brother.",
+     "zh": "我亲我的弟弟。",
+     "audio": "audio/all/5479_i_kiss_my_brother.mp3",
+     "slow": "audio/all/5479_i_kiss_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_little_brother-p8",
+     "type": "sentence",
+     "en": "I love my brother.",
+     "zh": "我爱我的弟弟。",
+     "audio": "audio/all/5480_i_love_my_brother.mp3",
+     "slow": "audio/all/5480_i_love_my_brother.mp3",
+     "image": "img/raz-a-my_little_brother-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_imagine_the_beach",
+ "nameZh": "想象海滩",
+ "bookTitle": "Imagine the Beach",
+ "razLevel": "D",
+ "order": 34,
+ "cover": "img/raz-d-imagine_the_beach-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_imagine_the_beach-u1",
+   "band": 2,
+   "title": "Imagine the Beach · 想象海滩",
+   "cards": [
+    {
+     "id": "raz_d_imagine_the_beach-p1",
+     "type": "sentence",
+     "en": "Close your eyes.",
+     "zh": "闭上眼睛。",
+     "audio": "audio/all/7551_close_your_eyes.mp3",
+     "slow": "audio/all/7551_close_your_eyes.mp3",
+     "image": "img/raz-d-imagine_the_beach-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p2",
+     "type": "sentence",
+     "en": "Can you imagine the beach in your mind?",
+     "zh": "你能在脑海里想象海滩吗？",
+     "audio": "audio/all/7552_can_you_imagine_the_beach_in_your_mind.mp3",
+     "slow": "audio/all/7552_can_you_imagine_the_beach_in_your_mind.mp3",
+     "image": "img/raz-d-imagine_the_beach-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p3",
+     "type": "sentence",
+     "en": "What can you smell?",
+     "zh": "你能闻到什么？",
+     "audio": "audio/all/7553_what_can_you_smell.mp3",
+     "slow": "audio/all/7553_what_can_you_smell.mp3",
+     "image": "img/raz-d-imagine_the_beach-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p4",
+     "type": "sentence",
+     "en": "Can you smell the salty air?",
+     "zh": "你能闻到咸咸的空气吗？",
+     "audio": "audio/all/7554_can_you_smell_the_salty_air.mp3",
+     "slow": "audio/all/7554_can_you_smell_the_salty_air.mp3",
+     "image": "img/raz-d-imagine_the_beach-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p5",
+     "type": "sentence",
+     "en": "What can you hear?",
+     "zh": "你能听到什么？",
+     "audio": "audio/all/7555_what_can_you_hear.mp3",
+     "slow": "audio/all/7555_what_can_you_hear.mp3",
+     "image": "img/raz-d-imagine_the_beach-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p6",
+     "type": "sentence",
+     "en": "Can you hear the crashing waves?",
+     "zh": "你能听到拍打的浪花吗？",
+     "audio": "audio/all/7556_can_you_hear_the_crashing_waves.mp3",
+     "slow": "audio/all/7556_can_you_hear_the_crashing_waves.mp3",
+     "image": "img/raz-d-imagine_the_beach-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p7",
+     "type": "sentence",
+     "en": "What can you see?",
+     "zh": "你能看到什么？",
+     "audio": "audio/all/7557_what_can_you_see.mp3",
+     "slow": "audio/all/7557_what_can_you_see.mp3",
+     "image": "img/raz-d-imagine_the_beach-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p8",
+     "type": "sentence",
+     "en": "Can you see the diving birds?",
+     "zh": "你能看到俯冲的鸟儿吗？",
+     "audio": "audio/all/7558_can_you_see_the_diving_birds.mp3",
+     "slow": "audio/all/7558_can_you_see_the_diving_birds.mp3",
+     "image": "img/raz-d-imagine_the_beach-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p9",
+     "type": "sentence",
+     "en": "What can you feel?",
+     "zh": "你能摸到什么？",
+     "audio": "audio/all/7559_what_can_you_feel.mp3",
+     "slow": "audio/all/7559_what_can_you_feel.mp3",
+     "image": "img/raz-d-imagine_the_beach-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p10",
+     "type": "sentence",
+     "en": "Can you feel the rough sand?",
+     "zh": "你能摸到粗糙的沙子吗？",
+     "audio": "audio/all/7560_can_you_feel_the_rough_sand.mp3",
+     "slow": "audio/all/7560_can_you_feel_the_rough_sand.mp3",
+     "image": "img/raz-d-imagine_the_beach-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p11",
+     "type": "sentence",
+     "en": "What can you taste?",
+     "zh": "你能尝到什么？",
+     "audio": "audio/all/7561_what_can_you_taste.mp3",
+     "slow": "audio/all/7561_what_can_you_taste.mp3",
+     "image": "img/raz-d-imagine_the_beach-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p12",
+     "type": "sentence",
+     "en": "Can you taste the yummy ice cream?",
+     "zh": "你能尝到好吃的冰淇淋吗？",
+     "audio": "audio/all/7562_can_you_taste_the_yummy_ice_cream.mp3",
+     "slow": "audio/all/7562_can_you_taste_the_yummy_ice_cream.mp3",
+     "image": "img/raz-d-imagine_the_beach-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p13",
+     "type": "sentence",
+     "en": "What else can you imagine at the beach?",
+     "zh": "在海滩你还能想象到什么？",
+     "audio": "audio/all/7563_what_else_can_you_imagine_at_the_beach.mp3",
+     "slow": "audio/all/7563_what_else_can_you_imagine_at_the_beach.mp3",
+     "image": "img/raz-d-imagine_the_beach-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_imagine_the_beach-p14",
+     "type": "sentence",
+     "en": "What do your mind and senses tell you?",
+     "zh": "你的头脑和感官告诉你什么？",
+     "audio": "audio/all/7564_what_do_your_mind_and_senses_tell_you.mp3",
+     "slow": "audio/all/7564_what_do_your_mind_and_senses_tell_you.mp3",
+     "image": "img/raz-d-imagine_the_beach-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

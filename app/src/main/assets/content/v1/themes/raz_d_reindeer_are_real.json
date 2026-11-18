@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_reindeer_are_real",
+ "nameZh": "驯鹿是真的",
+ "bookTitle": "Reindeer Are Real",
+ "razLevel": "D",
+ "order": 54,
+ "cover": "img/raz-d-reindeer_are_real-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_reindeer_are_real-u1",
+   "band": 2,
+   "title": "Reindeer Are Real · 驯鹿是真的",
+   "cards": [
+    {
+     "id": "raz_d_reindeer_are_real-p1",
+     "type": "sentence",
+     "en": "Did you know that reindeer are real?",
+     "zh": "你知道驯鹿是真实存在的吗？",
+     "audio": "audio/all/7835_did_you_know_that_reindeer_are_real.mp3",
+     "slow": "audio/all/7835_did_you_know_that_reindeer_are_real.mp3",
+     "image": "img/raz-d-reindeer_are_real-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p2",
+     "type": "sentence",
+     "en": "Well, they are.",
+     "zh": "没错，它们是真的。",
+     "audio": "audio/all/7836_well_they_are.mp3",
+     "slow": "audio/all/7836_well_they_are.mp3",
+     "image": "img/raz-d-reindeer_are_real-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p3",
+     "type": "sentence",
+     "en": "Reindeer sometimes pull sleds.",
+     "zh": "驯鹿有时会拉雪橇。",
+     "audio": "audio/all/7837_reindeer_sometimes_pull_sleds.mp3",
+     "slow": "audio/all/7837_reindeer_sometimes_pull_sleds.mp3",
+     "image": "img/raz-d-reindeer_are_real-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p4",
+     "type": "sentence",
+     "en": "Reindeer sometimes dig for food.",
+     "zh": "驯鹿有时会挖土找食物。",
+     "audio": "audio/all/7838_reindeer_sometimes_dig_for_food.mp3",
+     "slow": "audio/all/7838_reindeer_sometimes_dig_for_food.mp3",
+     "image": "img/raz-d-reindeer_are_real-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p5",
+     "type": "sentence",
+     "en": "Reindeer sometimes weigh a lot.",
+     "zh": "驯鹿有时体重很重。",
+     "audio": "audio/all/7839_reindeer_sometimes_weigh_a_lot.mp3",
+     "slow": "audio/all/7839_reindeer_sometimes_weigh_a_lot.mp3",
+     "image": "img/raz-d-reindeer_are_real-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p6",
+     "type": "sentence",
+     "en": "Reindeer sometimes swim.",
+     "zh": "驯鹿有时会游泳。",
+     "audio": "audio/all/7840_reindeer_sometimes_swim.mp3",
+     "slow": "audio/all/7840_reindeer_sometimes_swim.mp3",
+     "image": "img/raz-d-reindeer_are_real-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p7",
+     "type": "sentence",
+     "en": "Reindeer sometimes travel many miles.",
+     "zh": "驯鹿有时会走很远的路。",
+     "audio": "audio/all/7841_reindeer_sometimes_travel_many_miles.mp3",
+     "slow": "audio/all/7841_reindeer_sometimes_travel_many_miles.mp3",
+     "image": "img/raz-d-reindeer_are_real-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p8",
+     "type": "sentence",
+     "en": "All reindeer have thick fur.",
+     "zh": "所有驯鹿都有厚厚的毛。",
+     "audio": "audio/all/7842_all_reindeer_have_thick_fur.mp3",
+     "slow": "audio/all/7842_all_reindeer_have_thick_fur.mp3",
+     "image": "img/raz-d-reindeer_are_real-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p9",
+     "type": "sentence",
+     "en": "All reindeer eat only plants.",
+     "zh": "所有驯鹿都只吃植物。",
+     "audio": "audio/all/7843_all_reindeer_eat_only_plants.mp3",
+     "slow": "audio/all/7843_all_reindeer_eat_only_plants.mp3",
+     "image": "img/raz-d-reindeer_are_real-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p10",
+     "type": "sentence",
+     "en": "All reindeer can walk on ice.",
+     "zh": "所有驯鹿都能在冰上行走。",
+     "audio": "audio/all/7844_all_reindeer_can_walk_on_ice.mp3",
+     "slow": "audio/all/7844_all_reindeer_can_walk_on_ice.mp3",
+     "image": "img/raz-d-reindeer_are_real-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_reindeer_are_real-p11",
+     "type": "sentence",
+     "en": "All reindeer can walk the day they are born.",
+     "zh": "所有驯鹿出生当天就能走路。",
+     "audio": "audio/all/7845_all_reindeer_can_walk_the_day_they_are.mp3",
+     "slow": "audio/all/7845_all_reindeer_can_walk_the_day_they_are.mp3",
+     "image": "img/raz-d-reindeer_are_real-p09.jpg",
+     "page": 9
+    }
+   ]
+  }
+ ]
+}

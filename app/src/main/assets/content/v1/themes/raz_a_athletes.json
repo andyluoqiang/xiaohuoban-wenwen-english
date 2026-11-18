@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_athletes",
+ "nameZh": "运动员",
+ "bookTitle": "Athletes",
+ "razLevel": "A",
+ "order": 3,
+ "cover": "img/raz-a-athletes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_athletes-u1",
+   "band": 2,
+   "title": "Athletes · 运动员",
+   "cards": [
+    {
+     "id": "raz_a_athletes-p1",
+     "type": "sentence",
+     "en": "Some athletes run.",
+     "zh": "有些运动员跑步。",
+     "audio": "audio/all/5116_some_athletes_run.mp3",
+     "slow": "audio/all/5116_some_athletes_run.mp3",
+     "image": "img/raz-a-athletes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_athletes-p2",
+     "type": "sentence",
+     "en": "Some athletes jump.",
+     "zh": "有些运动员跳跃。",
+     "audio": "audio/all/5117_some_athletes_jump.mp3",
+     "slow": "audio/all/5117_some_athletes_jump.mp3",
+     "image": "img/raz-a-athletes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_athletes-p3",
+     "type": "sentence",
+     "en": "Some athletes swim.",
+     "zh": "有些运动员游泳。",
+     "audio": "audio/all/5118_some_athletes_swim.mp3",
+     "slow": "audio/all/5118_some_athletes_swim.mp3",
+     "image": "img/raz-a-athletes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_athletes-p4",
+     "type": "sentence",
+     "en": "Some athletes dive.",
+     "zh": "有些运动员跳水。",
+     "audio": "audio/all/5119_some_athletes_dive.mp3",
+     "slow": "audio/all/5119_some_athletes_dive.mp3",
+     "image": "img/raz-a-athletes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_athletes-p5",
+     "type": "sentence",
+     "en": "Some athletes throw.",
+     "zh": "有些运动员投掷。",
+     "audio": "audio/all/5120_some_athletes_throw.mp3",
+     "slow": "audio/all/5120_some_athletes_throw.mp3",
+     "image": "img/raz-a-athletes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_athletes-p6",
+     "type": "sentence",
+     "en": "Some athletes ride.",
+     "zh": "有些运动员骑车。",
+     "audio": "audio/all/5121_some_athletes_ride.mp3",
+     "slow": "audio/all/5121_some_athletes_ride.mp3",
+     "image": "img/raz-a-athletes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_athletes-p7",
+     "type": "sentence",
+     "en": "Some athletes row.",
+     "zh": "有些运动员划船。",
+     "audio": "audio/all/5122_some_athletes_row.mp3",
+     "slow": "audio/all/5122_some_athletes_row.mp3",
+     "image": "img/raz-a-athletes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_athletes-p8",
+     "type": "sentence",
+     "en": "Some athletes win!",
+     "zh": "有些运动员获胜！",
+     "audio": "audio/all/5123_some_athletes_win.mp3",
+     "slow": "audio/all/5123_some_athletes_win.mp3",
+     "image": "img/raz-a-athletes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

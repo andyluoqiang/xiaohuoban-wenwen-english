@@ -1,0 +1,187 @@
+{
+ "theme": "raz_d_the_team",
+ "nameZh": "棒球队",
+ "bookTitle": "The Team",
+ "razLevel": "D",
+ "order": 67,
+ "cover": "img/raz-d-the_team-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_the_team-u1",
+   "band": 2,
+   "title": "The Team · 棒球队",
+   "cards": [
+    {
+     "id": "raz_d_the_team-p1",
+     "type": "sentence",
+     "en": "Teams have players.",
+     "zh": "球队由球员组成。",
+     "audio": "audio/all/8030_teams_have_players.mp3",
+     "slow": "audio/all/8030_teams_have_players.mp3",
+     "image": "img/raz-d-the_team-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_team-p2",
+     "type": "sentence",
+     "en": "A baseball team has nine players.",
+     "zh": "一支棒球队有九名球员。",
+     "audio": "audio/all/8031_a_baseball_team_has_nine_players.mp3",
+     "slow": "audio/all/8031_a_baseball_team_has_nine_players.mp3",
+     "image": "img/raz-d-the_team-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_team-p3",
+     "type": "sentence",
+     "en": "Each player is important.",
+     "zh": "每名球员都很重要。",
+     "audio": "audio/all/8032_each_player_is_important.mp3",
+     "slow": "audio/all/8032_each_player_is_important.mp3",
+     "image": "img/raz-d-the_team-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_team-p4",
+     "type": "sentence",
+     "en": "The pitcher is very important.",
+     "zh": "投手非常重要。",
+     "audio": "audio/all/8033_the_pitcher_is_very_important.mp3",
+     "slow": "audio/all/8033_the_pitcher_is_very_important.mp3",
+     "image": "img/raz-d-the_team-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_team-p5",
+     "type": "sentence",
+     "en": "She pitches the ball to the batter.",
+     "zh": "她把球投给击球手。",
+     "audio": "audio/all/8034_she_pitches_the_ball_to_the_batter.mp3",
+     "slow": "audio/all/8034_she_pitches_the_ball_to_the_batter.mp3",
+     "image": "img/raz-d-the_team-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_team-p6",
+     "type": "sentence",
+     "en": "The batter is very important.",
+     "zh": "击球手非常重要。",
+     "audio": "audio/all/8035_the_batter_is_very_important.mp3",
+     "slow": "audio/all/8035_the_batter_is_very_important.mp3",
+     "image": "img/raz-d-the_team-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_team-p7",
+     "type": "sentence",
+     "en": "He hits the ball the pitcher pitches.",
+     "zh": "他把投手投来的球击打出去。",
+     "audio": "audio/all/8036_he_hits_the_ball_the_pitcher_pitches.mp3",
+     "slow": "audio/all/8036_he_hits_the_ball_the_pitcher_pitches.mp3",
+     "image": "img/raz-d-the_team-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_team-p8",
+     "type": "sentence",
+     "en": "The catcher is very important.",
+     "zh": "捕手非常重要。",
+     "audio": "audio/all/8037_the_catcher_is_very_important.mp3",
+     "slow": "audio/all/8037_the_catcher_is_very_important.mp3",
+     "image": "img/raz-d-the_team-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_team-p9",
+     "type": "sentence",
+     "en": "He catches the ball the pitcher pitches.",
+     "zh": "他接住投手投来的球。",
+     "audio": "audio/all/8038_he_catches_the_ball_the_pitcher_pitche.mp3",
+     "slow": "audio/all/8038_he_catches_the_ball_the_pitcher_pitche.mp3",
+     "image": "img/raz-d-the_team-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_team-p10",
+     "type": "sentence",
+     "en": "The infielder is very important.",
+     "zh": "内野手非常重要。",
+     "audio": "audio/all/8039_the_infielder_is_very_important.mp3",
+     "slow": "audio/all/8039_the_infielder_is_very_important.mp3",
+     "image": "img/raz-d-the_team-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_team-p11",
+     "type": "sentence",
+     "en": "She catches the ball the batter hits.",
+     "zh": "她接住击球手打出的球。",
+     "audio": "audio/all/8040_she_catches_the_ball_the_batter_hits.mp3",
+     "slow": "audio/all/8040_she_catches_the_ball_the_batter_hits.mp3",
+     "image": "img/raz-d-the_team-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_team-p12",
+     "type": "sentence",
+     "en": "The outfielder is very important.",
+     "zh": "外野手非常重要。",
+     "audio": "audio/all/8041_the_outfielder_is_very_important.mp3",
+     "slow": "audio/all/8041_the_outfielder_is_very_important.mp3",
+     "image": "img/raz-d-the_team-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_team-p13",
+     "type": "sentence",
+     "en": "He catches the ball the batter hits.",
+     "zh": "他接住击球手打出的球。",
+     "audio": "audio/all/8042_he_catches_the_ball_the_batter_hits.mp3",
+     "slow": "audio/all/8042_he_catches_the_ball_the_batter_hits.mp3",
+     "image": "img/raz-d-the_team-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_team-p14",
+     "type": "sentence",
+     "en": "All the players are important.",
+     "zh": "所有球员都很重要。",
+     "audio": "audio/all/8043_all_the_players_are_important.mp3",
+     "slow": "audio/all/8043_all_the_players_are_important.mp3",
+     "image": "img/raz-d-the_team-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_team-p15",
+     "type": "sentence",
+     "en": "To win, a team needs each player.",
+     "zh": "要想赢，球队需要每一名球员。",
+     "audio": "audio/all/8044_to_win_a_team_needs_each_player.mp3",
+     "slow": "audio/all/8044_to_win_a_team_needs_each_player.mp3",
+     "image": "img/raz-d-the_team-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_team-p16",
+     "type": "sentence",
+     "en": "Baseball is a team sport.",
+     "zh": "棒球是一项团队运动。",
+     "audio": "audio/all/8045_baseball_is_a_team_sport.mp3",
+     "slow": "audio/all/8045_baseball_is_a_team_sport.mp3",
+     "image": "img/raz-d-the_team-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_the_team-p17",
+     "type": "sentence",
+     "en": "Players play together to win.",
+     "zh": "球员们一起努力去赢球。",
+     "audio": "audio/all/8046_players_play_together_to_win.mp3",
+     "slow": "audio/all/8046_players_play_together_to_win.mp3",
+     "image": "img/raz-d-the_team-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

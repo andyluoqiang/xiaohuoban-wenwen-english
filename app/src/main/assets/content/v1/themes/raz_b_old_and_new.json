@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "These pickup trucks are old.",
      "zh": "这些皮卡车是旧的。",
-     "audio": "audio/all/3337_these_pickup_trucks_are_old.mp3",
-     "slow": "audio/all/3337_these_pickup_trucks_are_old.mp3",
+     "audio": "audio/all/8737_these_pickup_trucks_are_old.mp3",
+     "slow": "audio/all/8737_these_pickup_trucks_are_old.mp3",
      "image": "img/raz-b-old_and_new-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "These pickup trucks are new.",
      "zh": "这些皮卡车是新的。",
-     "audio": "audio/all/3338_these_pickup_trucks_are_new.mp3",
-     "slow": "audio/all/3338_these_pickup_trucks_are_new.mp3",
+     "audio": "audio/all/8738_these_pickup_trucks_are_new.mp3",
+     "slow": "audio/all/8738_these_pickup_trucks_are_new.mp3",
      "image": "img/raz-b-old_and_new-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "These houses are old.",
      "zh": "这些房子是旧的。",
-     "audio": "audio/all/3339_these_houses_are_old.mp3",
-     "slow": "audio/all/3339_these_houses_are_old.mp3",
+     "audio": "audio/all/8739_these_houses_are_old.mp3",
+     "slow": "audio/all/8739_these_houses_are_old.mp3",
      "image": "img/raz-b-old_and_new-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "These houses are new.",
      "zh": "这些房子是新的。",
-     "audio": "audio/all/3340_these_houses_are_new.mp3",
-     "slow": "audio/all/3340_these_houses_are_new.mp3",
+     "audio": "audio/all/8740_these_houses_are_new.mp3",
+     "slow": "audio/all/8740_these_houses_are_new.mp3",
      "image": "img/raz-b-old_and_new-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "These bikes are old.",
      "zh": "这些自行车是旧的。",
-     "audio": "audio/all/3341_these_bikes_are_old.mp3",
-     "slow": "audio/all/3341_these_bikes_are_old.mp3",
+     "audio": "audio/all/8741_these_bikes_are_old.mp3",
+     "slow": "audio/all/8741_these_bikes_are_old.mp3",
      "image": "img/raz-b-old_and_new-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "These bikes are new.",
      "zh": "这些自行车是新的。",
-     "audio": "audio/all/3342_these_bikes_are_new.mp3",
-     "slow": "audio/all/3342_these_bikes_are_new.mp3",
+     "audio": "audio/all/8742_these_bikes_are_new.mp3",
+     "slow": "audio/all/8742_these_bikes_are_new.mp3",
      "image": "img/raz-b-old_and_new-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "These teddy bears are old.",
      "zh": "这些泰迪熊是旧的。",
-     "audio": "audio/all/3343_these_teddy_bears_are_old.mp3",
-     "slow": "audio/all/3343_these_teddy_bears_are_old.mp3",
+     "audio": "audio/all/8743_these_teddy_bears_are_old.mp3",
+     "slow": "audio/all/8743_these_teddy_bears_are_old.mp3",
      "image": "img/raz-b-old_and_new-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "These teddy bears are new.",
      "zh": "这些泰迪熊是新的。",
-     "audio": "audio/all/3344_these_teddy_bears_are_new.mp3",
-     "slow": "audio/all/3344_these_teddy_bears_are_new.mp3",
+     "audio": "audio/all/8744_these_teddy_bears_are_new.mp3",
+     "slow": "audio/all/8744_these_teddy_bears_are_new.mp3",
      "image": "img/raz-b-old_and_new-p08.jpg",
      "page": 8
     }

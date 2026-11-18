@@ -540,8 +540,519 @@
   {
    "level": "A",
    "desc": "完整短句 · 起步",
-   "status": "empty",
-   "books": []
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_a_a_fish_sees",
+     "title": "A Fish Sees",
+     "nameZh": "小鱼看见了",
+     "order": 1
+    },
+    {
+     "themeId": "raz_a_all_kinds_of_faces",
+     "title": "All Kinds of Faces",
+     "nameZh": "各种各样的脸",
+     "order": 2
+    },
+    {
+     "themeId": "raz_a_athletes",
+     "title": "Athletes",
+     "nameZh": "运动员",
+     "order": 3
+    },
+    {
+     "themeId": "raz_a_baby_animals",
+     "title": "Baby Animals",
+     "nameZh": "动物宝宝",
+     "order": 4
+    },
+    {
+     "themeId": "raz_a_bedtime_counting",
+     "title": "Bedtime Counting",
+     "nameZh": "睡前数数",
+     "order": 5
+    },
+    {
+     "themeId": "raz_a_bird_colors",
+     "title": "Bird Colors",
+     "nameZh": "鸟的颜色",
+     "order": 6
+    },
+    {
+     "themeId": "raz_a_bird_goes_home",
+     "title": "Bird Goes Home",
+     "nameZh": "小鸟回家",
+     "order": 7
+    },
+    {
+     "themeId": "raz_a_building_with_blocks",
+     "title": "Building with Blocks",
+     "nameZh": "搭积木",
+     "order": 8
+    },
+    {
+     "themeId": "raz_a_car_parts",
+     "title": "Car Parts",
+     "nameZh": "汽车部件",
+     "order": 9
+    },
+    {
+     "themeId": "raz_a_carlos_counts_kittens",
+     "title": "Carlos Counts Kittens",
+     "nameZh": "卡洛斯数小猫",
+     "order": 10
+    },
+    {
+     "themeId": "raz_a_carlos_goes_to_school",
+     "title": "Carlos Goes to School",
+     "nameZh": "卡洛斯去上学",
+     "order": 11
+    },
+    {
+     "themeId": "raz_a_christmas_cookies",
+     "title": "Christmas Cookies",
+     "nameZh": "圣诞饼干",
+     "order": 12
+    },
+    {
+     "themeId": "raz_a_clean_not_clean",
+     "title": "Clean, Not Clean",
+     "nameZh": "干净，不干净",
+     "order": 13
+    },
+    {
+     "themeId": "raz_a_dad_and_i",
+     "title": "Dad and I",
+     "nameZh": "爸爸和我",
+     "order": 14
+    },
+    {
+     "themeId": "raz_a_for_mom",
+     "title": "For Mom",
+     "nameZh": "给妈妈",
+     "order": 15
+    },
+    {
+     "themeId": "raz_a_fruit_colors",
+     "title": "Fruit Colors",
+     "nameZh": "水果的颜色",
+     "order": 16
+    },
+    {
+     "themeId": "raz_a_fun_in_the_water",
+     "title": "Fun in the Water",
+     "nameZh": "水中乐趣",
+     "order": 17
+    },
+    {
+     "themeId": "raz_a_getting_dressed",
+     "title": "Getting Dressed",
+     "nameZh": "穿衣服",
+     "order": 18
+    },
+    {
+     "themeId": "raz_a_go_fly_a_kite",
+     "title": "Go Fly a Kite",
+     "nameZh": "去放风筝",
+     "order": 19
+    },
+    {
+     "themeId": "raz_a_going_places",
+     "title": "Going Places",
+     "nameZh": "出行方式",
+     "order": 20
+    },
+    {
+     "themeId": "raz_a_grandparents_are_great",
+     "title": "Grandparents Are Great!",
+     "nameZh": "祖父母真棒",
+     "order": 21
+    },
+    {
+     "themeId": "raz_a_halloween_houses",
+     "title": "Halloween Houses",
+     "nameZh": "万圣节的房子",
+     "order": 22
+    },
+    {
+     "themeId": "raz_a_hamster_home",
+     "title": "Hamster Home",
+     "nameZh": "仓鼠的家",
+     "order": 23
+    },
+    {
+     "themeId": "raz_a_he_runs",
+     "title": "He Runs",
+     "nameZh": "他跑啊跑",
+     "order": 24
+    },
+    {
+     "themeId": "raz_a_hello_butterfly",
+     "title": "Hello, Butterfly",
+     "nameZh": "你好，蝴蝶",
+     "order": 25
+    },
+    {
+     "themeId": "raz_a_hot_and_cold",
+     "title": "Hot and Cold",
+     "nameZh": "热和冷",
+     "order": 26
+    },
+    {
+     "themeId": "raz_a_i_can",
+     "title": "I Can",
+     "nameZh": "我能行",
+     "order": 27
+    },
+    {
+     "themeId": "raz_a_i_can_skate",
+     "title": "I Can Skate",
+     "nameZh": "我会滑冰",
+     "order": 28
+    },
+    {
+     "themeId": "raz_a_i_draw_a_bunny",
+     "title": "I Draw a Bunny",
+     "nameZh": "我画一只兔子",
+     "order": 29
+    },
+    {
+     "themeId": "raz_a_i_dream",
+     "title": "I Dream",
+     "nameZh": "我的梦",
+     "order": 30
+    },
+    {
+     "themeId": "raz_a_i_love_flowers",
+     "title": "I Love Flowers",
+     "nameZh": "我爱花",
+     "order": 31
+    },
+    {
+     "themeId": "raz_a_i_love_pirates",
+     "title": "I Love Pirates",
+     "nameZh": "我爱海盗",
+     "order": 32
+    },
+    {
+     "themeId": "raz_a_i_save_money",
+     "title": "I Save Money",
+     "nameZh": "我存钱",
+     "order": 33
+    },
+    {
+     "themeId": "raz_a_i_see_my_colors",
+     "title": "I See My Colors",
+     "nameZh": "我看见颜色",
+     "order": 34
+    },
+    {
+     "themeId": "raz_a_i_set_the_table",
+     "title": "I Set the Table",
+     "nameZh": "我摆餐具",
+     "order": 35
+    },
+    {
+     "themeId": "raz_a_in_and_out",
+     "title": "In and Out",
+     "nameZh": "进和出",
+     "order": 36
+    },
+    {
+     "themeId": "raz_a_maria_counts_pumpkins",
+     "title": "Maria Counts Pumpkins",
+     "nameZh": "玛丽亚数南瓜",
+     "order": 37
+    },
+    {
+     "themeId": "raz_a_maria_goes_to_school",
+     "title": "Maria Goes to School",
+     "nameZh": "玛丽亚去上学",
+     "order": 38
+    },
+    {
+     "themeId": "raz_a_mom_and_i",
+     "title": "Mom and I",
+     "nameZh": "妈妈和我",
+     "order": 39
+    },
+    {
+     "themeId": "raz_a_muscles",
+     "title": "Muscles",
+     "nameZh": "肌肉",
+     "order": 40
+    },
+    {
+     "themeId": "raz_a_my_body",
+     "title": "My Body",
+     "nameZh": "我的身体",
+     "order": 41
+    },
+    {
+     "themeId": "raz_a_my_dog",
+     "title": "My Dog",
+     "nameZh": "我的狗",
+     "order": 42
+    },
+    {
+     "themeId": "raz_a_my_easter_eggs",
+     "title": "My Easter Eggs",
+     "nameZh": "我的复活节彩蛋",
+     "order": 43
+    },
+    {
+     "themeId": "raz_a_my_face",
+     "title": "My Face",
+     "nameZh": "我的脸",
+     "order": 44
+    },
+    {
+     "themeId": "raz_a_my_hair",
+     "title": "My Hair",
+     "nameZh": "我的头发",
+     "order": 45
+    },
+    {
+     "themeId": "raz_a_my_house",
+     "title": "My House",
+     "nameZh": "我的房子",
+     "order": 46
+    },
+    {
+     "themeId": "raz_a_my_little_brother",
+     "title": "My Little Brother",
+     "nameZh": "我的小弟弟",
+     "order": 47
+    },
+    {
+     "themeId": "raz_a_my_room",
+     "title": "My Room",
+     "nameZh": "我的房间",
+     "order": 48
+    },
+    {
+     "themeId": "raz_a_nice_not_nice",
+     "title": "Nice, Not Nice",
+     "nameZh": "友好，不友好",
+     "order": 49
+    },
+    {
+     "themeId": "raz_a_now_we_bake",
+     "title": "Now We Bake!",
+     "nameZh": "现在我们来烤蛋糕",
+     "order": 50
+    },
+    {
+     "themeId": "raz_a_oh_raccoon",
+     "title": "Oh, Raccoon",
+     "nameZh": "哦，浣熊",
+     "order": 51
+    },
+    {
+     "themeId": "raz_a_opposites",
+     "title": "Opposites",
+     "nameZh": "反义词",
+     "order": 52
+    },
+    {
+     "themeId": "raz_a_pond_animals",
+     "title": "Pond Animals",
+     "nameZh": "池塘动物",
+     "order": 53
+    },
+    {
+     "themeId": "raz_a_rabbits",
+     "title": "Rabbits",
+     "nameZh": "兔子",
+     "order": 54
+    },
+    {
+     "themeId": "raz_a_safe_not_safe",
+     "title": "Safe, Not Safe",
+     "nameZh": "安全，不安全",
+     "order": 55
+    },
+    {
+     "themeId": "raz_a_shapes_in_nature",
+     "title": "Shapes in Nature",
+     "nameZh": "自然界中的形状",
+     "order": 56
+    },
+    {
+     "themeId": "raz_a_smells_like_thanksgiving",
+     "title": "Smells Like Thanksgiving",
+     "nameZh": "闻起来像感恩节",
+     "order": 57
+    },
+    {
+     "themeId": "raz_a_smile",
+     "title": "Smile",
+     "nameZh": "微笑",
+     "order": 58
+    },
+    {
+     "themeId": "raz_a_snake_colors",
+     "title": "Snake Colors",
+     "nameZh": "蛇的颜色",
+     "order": 59
+    },
+    {
+     "themeId": "raz_a_spring_and_fall",
+     "title": "Spring and Fall",
+     "nameZh": "春天和秋天",
+     "order": 60
+    },
+    {
+     "themeId": "raz_a_spring_weather",
+     "title": "Spring Weather",
+     "nameZh": "春天的天气",
+     "order": 61
+    },
+    {
+     "themeId": "raz_a_sundae_time",
+     "title": "Sundae Time",
+     "nameZh": "圣代时光",
+     "order": 62
+    },
+    {
+     "themeId": "raz_a_the_big_cat",
+     "title": "The Big Cat",
+     "nameZh": "大猫",
+     "order": 63
+    },
+    {
+     "themeId": "raz_a_the_forest",
+     "title": "The Forest",
+     "nameZh": "森林",
+     "order": 64
+    },
+    {
+     "themeId": "raz_a_the_mall",
+     "title": "The Mall",
+     "nameZh": "购物中心",
+     "order": 65
+    },
+    {
+     "themeId": "raz_a_the_parade",
+     "title": "The Parade",
+     "nameZh": "游行",
+     "order": 66
+    },
+    {
+     "themeId": "raz_a_the_rainstorm",
+     "title": "The Rainstorm",
+     "nameZh": "暴风雨",
+     "order": 67
+    },
+    {
+     "themeId": "raz_a_these_shoes",
+     "title": "These Shoes",
+     "nameZh": "这些鞋",
+     "order": 68
+    },
+    {
+     "themeId": "raz_a_this_feels",
+     "title": "This Feels",
+     "nameZh": "摸起来的感觉",
+     "order": 69
+    },
+    {
+     "themeId": "raz_a_this_insect",
+     "title": "This Insect",
+     "nameZh": "这只昆虫",
+     "order": 70
+    },
+    {
+     "themeId": "raz_a_this_is_my_bear",
+     "title": "This Is My Bear",
+     "nameZh": "这是我的熊",
+     "order": 71
+    },
+    {
+     "themeId": "raz_a_this_is_my_halloween",
+     "title": "This Is My Halloween",
+     "nameZh": "这是我的万圣节",
+     "order": 72
+    },
+    {
+     "themeId": "raz_a_this_smells",
+     "title": "This Smells!",
+     "nameZh": "闻起来的味道",
+     "order": 73
+    },
+    {
+     "themeId": "raz_a_this_tastes",
+     "title": "This Tastes",
+     "nameZh": "尝起来的味道",
+     "order": 74
+    },
+    {
+     "themeId": "raz_a_up_and_down",
+     "title": "Up and Down",
+     "nameZh": "上和下",
+     "order": 75
+    },
+    {
+     "themeId": "raz_a_vegetables",
+     "title": "Vegetables",
+     "nameZh": "蔬菜",
+     "order": 76
+    },
+    {
+     "themeId": "raz_a_we_can_make_sounds",
+     "title": "We Can Make Sounds",
+     "nameZh": "我们能发出声音",
+     "order": 77
+    },
+    {
+     "themeId": "raz_a_what_do_i_hear",
+     "title": "What Do I Hear?",
+     "nameZh": "我听见什么",
+     "order": 78
+    },
+    {
+     "themeId": "raz_a_what_i_like",
+     "title": "What I Like",
+     "nameZh": "我喜欢什么",
+     "order": 79
+    },
+    {
+     "themeId": "raz_a_what_lives_here",
+     "title": "What Lives Here?",
+     "nameZh": "谁住在这里",
+     "order": 80
+    },
+    {
+     "themeId": "raz_a_what_makes_me_happy",
+     "title": "What Makes Me Happy?",
+     "nameZh": "什么让我开心",
+     "order": 81
+    },
+    {
+     "themeId": "raz_a_where_they_hid",
+     "title": "Where They Hid",
+     "nameZh": "他们藏哪儿",
+     "order": 82
+    },
+    {
+     "themeId": "raz_a_where_to_go",
+     "title": "Where to Go?",
+     "nameZh": "去哪里",
+     "order": 83
+    },
+    {
+     "themeId": "raz_a_who_has_it",
+     "title": "Who Has It?",
+     "nameZh": "谁拿着它",
+     "order": 84
+    },
+    {
+     "themeId": "raz_a_you_can_dance",
+     "title": "You Can Dance",
+     "nameZh": "你会跳舞",
+     "order": 85
+    }
+   ]
   },
   {
    "level": "B",
@@ -1075,14 +1586,1036 @@
   {
    "level": "C",
    "desc": "句式变化 · 进阶",
-   "status": "empty",
-   "books": []
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_c_a_place_called_home",
+     "title": "A Place Called Home",
+     "nameZh": "一个叫家的地方",
+     "order": 1
+    },
+    {
+     "themeId": "raz_c_all_about_earthworms",
+     "title": "All About Earthworms",
+     "nameZh": "关于蚯蚓",
+     "order": 2
+    },
+    {
+     "themeId": "raz_c_all_about_penguins",
+     "title": "All About Penguins",
+     "nameZh": "关于企鹅",
+     "order": 3
+    },
+    {
+     "themeId": "raz_c_all_about_spiders",
+     "title": "All About Spiders",
+     "nameZh": "关于蜘蛛",
+     "order": 4
+    },
+    {
+     "themeId": "raz_c_allie_and_ollie",
+     "title": "Allie and Ollie",
+     "nameZh": "艾莉和奥莉",
+     "order": 5
+    },
+    {
+     "themeId": "raz_c_apple_tree",
+     "title": "Apple Tree",
+     "nameZh": "苹果树",
+     "order": 6
+    },
+    {
+     "themeId": "raz_c_at_the_fair",
+     "title": "At the Fair",
+     "nameZh": "在游乐场",
+     "order": 7
+    },
+    {
+     "themeId": "raz_c_birthday_party",
+     "title": "The Birthday Party",
+     "nameZh": "生日聚会",
+     "order": 8
+    },
+    {
+     "themeId": "raz_c_building_a_road",
+     "title": "Building a Road",
+     "nameZh": "修一条路",
+     "order": 9
+    },
+    {
+     "themeId": "raz_c_busy_at_school",
+     "title": "Busy at School",
+     "nameZh": "学校里真忙",
+     "order": 10
+    },
+    {
+     "themeId": "raz_c_city_shapes",
+     "title": "City Shapes",
+     "nameZh": "城市里的形状",
+     "order": 11
+    },
+    {
+     "themeId": "raz_c_different_kinds_of_sharks",
+     "title": "Different Kinds of Sharks",
+     "nameZh": "各种各样的鲨鱼",
+     "order": 12
+    },
+    {
+     "themeId": "raz_c_fall_foods",
+     "title": "Fall Foods",
+     "nameZh": "秋天的食物",
+     "order": 13
+    },
+    {
+     "themeId": "raz_c_fall",
+     "title": "Fall",
+     "nameZh": "秋天",
+     "order": 14
+    },
+    {
+     "themeId": "raz_c_fall_fun",
+     "title": "Fall Fun",
+     "nameZh": "秋天的乐趣",
+     "order": 15
+    },
+    {
+     "themeId": "raz_c_feelings",
+     "title": "Feelings",
+     "nameZh": "情绪",
+     "order": 16
+    },
+    {
+     "themeId": "raz_c_get_in",
+     "title": "Get In",
+     "nameZh": "进去",
+     "order": 17
+    },
+    {
+     "themeId": "raz_c_go_away_lily",
+     "title": "Go Away, Lily!",
+     "nameZh": "走开，莉莉！",
+     "order": 18
+    },
+    {
+     "themeId": "raz_c_going_away",
+     "title": "Going Away",
+     "nameZh": "出行",
+     "order": 19
+    },
+    {
+     "themeId": "raz_c_how_frogs_grow",
+     "title": "How Frogs Grow",
+     "nameZh": "青蛙怎么长大",
+     "order": 20
+    },
+    {
+     "themeId": "raz_c_how_many",
+     "title": "How Many?",
+     "nameZh": "有多少？",
+     "order": 21
+    },
+    {
+     "themeId": "raz_c_how_many_wheels",
+     "title": "How Many Wheels?",
+     "nameZh": "有几个轮子？",
+     "order": 22
+    },
+    {
+     "themeId": "raz_c_i_can_be",
+     "title": "I Can Be",
+     "nameZh": "我可以像",
+     "order": 23
+    },
+    {
+     "themeId": "raz_c_i_looked_everywhere",
+     "title": "I Looked Everywhere",
+     "nameZh": "我到处都找了",
+     "order": 24
+    },
+    {
+     "themeId": "raz_c_i_wonder",
+     "title": "I Wonder",
+     "nameZh": "我很好奇",
+     "order": 25
+    },
+    {
+     "themeId": "raz_c_i_wont",
+     "title": "I Won't",
+     "nameZh": "我不要",
+     "order": 26
+    },
+    {
+     "themeId": "raz_c_jack_and_lilys_favorite_food",
+     "title": "Jack and Lily's Favorite Food",
+     "nameZh": "杰克和莉莉最爱的食物",
+     "order": 27
+    },
+    {
+     "themeId": "raz_c_ladybugs",
+     "title": "Ladybugs",
+     "nameZh": "瓢虫",
+     "order": 28
+    },
+    {
+     "themeId": "raz_c_lucy_did_it",
+     "title": "Lucy Did It",
+     "nameZh": "是露西干的",
+     "order": 29
+    },
+    {
+     "themeId": "raz_c_machines_at_home",
+     "title": "Machines at Home",
+     "nameZh": "家里的机器",
+     "order": 30
+    },
+    {
+     "themeId": "raz_c_making_salsa",
+     "title": "Making Salsa!",
+     "nameZh": "做莎莎酱",
+     "order": 31
+    },
+    {
+     "themeId": "raz_c_many_kinds_of_dinosaurs",
+     "title": "Many Kinds of Dinosaurs",
+     "nameZh": "各种各样的恐龙",
+     "order": 32
+    },
+    {
+     "themeId": "raz_c_mash_the_potatoes",
+     "title": "Mash the Potatoes",
+     "nameZh": "捣土豆泥",
+     "order": 33
+    },
+    {
+     "themeId": "raz_c_moms_do_so_much",
+     "title": "Moms Do So Much",
+     "nameZh": "妈妈做这么多",
+     "order": 34
+    },
+    {
+     "themeId": "raz_c_mongo_and_cutie",
+     "title": "Mongo and Cutie",
+     "nameZh": "蒙戈和卡蒂",
+     "order": 35
+    },
+    {
+     "themeId": "raz_c_more_baby_animals",
+     "title": "More Baby Animals",
+     "nameZh": "更多的动物宝宝",
+     "order": 36
+    },
+    {
+     "themeId": "raz_c_my_clothes_are_too_small",
+     "title": "My Clothes Are Too Small",
+     "nameZh": "我的衣服太小了",
+     "order": 37
+    },
+    {
+     "themeId": "raz_c_my_teacher",
+     "title": "My Teacher",
+     "nameZh": "我的老师",
+     "order": 38
+    },
+    {
+     "themeId": "raz_c_new_again",
+     "title": "New Again",
+     "nameZh": "变新",
+     "order": 39
+    },
+    {
+     "themeId": "raz_c_one_stubborn_horse",
+     "title": "One Stubborn Horse",
+     "nameZh": "一匹倔强的马",
+     "order": 40
+    },
+    {
+     "themeId": "raz_c_open_and_close",
+     "title": "Open and Close",
+     "nameZh": "打开和关上",
+     "order": 41
+    },
+    {
+     "themeId": "raz_c_pairs",
+     "title": "Pairs",
+     "nameZh": "成双成对",
+     "order": 42
+    },
+    {
+     "themeId": "raz_c_pick_me",
+     "title": "Pick Me!",
+     "nameZh": "选我吧",
+     "order": 43
+    },
+    {
+     "themeId": "raz_c_road_trip",
+     "title": "Road Trip",
+     "nameZh": "公路旅行",
+     "order": 44
+    },
+    {
+     "themeId": "raz_c_rocks",
+     "title": "Rocks",
+     "nameZh": "岩石",
+     "order": 45
+    },
+    {
+     "themeId": "raz_c_selfish_sasha",
+     "title": "Selfish Sasha",
+     "nameZh": "小气的萨莎",
+     "order": 46
+    },
+    {
+     "themeId": "raz_c_shadows",
+     "title": "Shadows",
+     "nameZh": "影子",
+     "order": 47
+    },
+    {
+     "themeId": "raz_c_sherman_sure_is_shy",
+     "title": "Sherman Sure Is Shy",
+     "nameZh": "谢曼真的害羞",
+     "order": 48
+    },
+    {
+     "themeId": "raz_c_snow_falls",
+     "title": "Snow Falls",
+     "nameZh": "下雪了",
+     "order": 49
+    },
+    {
+     "themeId": "raz_c_space",
+     "title": "Space",
+     "nameZh": "太空",
+     "order": 50
+    },
+    {
+     "themeId": "raz_c_spirals_spirals_everywhere",
+     "title": "Spirals, Spirals, Everywhere",
+     "nameZh": "螺旋，螺旋，到处都是",
+     "order": 51
+    },
+    {
+     "themeId": "raz_c_springcleaning",
+     "title": "Spring-Cleaning!",
+     "nameZh": "春季大扫除",
+     "order": 52
+    },
+    {
+     "themeId": "raz_c_strange_animals",
+     "title": "Strange Animals",
+     "nameZh": "奇怪的动物",
+     "order": 53
+    },
+    {
+     "themeId": "raz_c_take_a_bite",
+     "title": "Take a Bite",
+     "nameZh": "咬一口",
+     "order": 54
+    },
+    {
+     "themeId": "raz_c_taking_turns",
+     "title": "Taking Turns",
+     "nameZh": "轮流",
+     "order": 55
+    },
+    {
+     "themeId": "raz_c_teeth_brushing_fun",
+     "title": "Teeth Brushing Fun",
+     "nameZh": "刷牙真有趣",
+     "order": 56
+    },
+    {
+     "themeId": "raz_c_thats_a_fruit",
+     "title": "That's a Fruit?",
+     "nameZh": "那是水果？",
+     "order": 57
+    },
+    {
+     "themeId": "raz_c_the_animals_of_canada",
+     "title": "The Animals of Canada",
+     "nameZh": "加拿大的动物",
+     "order": 58
+    },
+    {
+     "themeId": "raz_c_the_easter_egg_hunt",
+     "title": "The Easter Egg Hunt",
+     "nameZh": "复活节寻蛋",
+     "order": 59
+    },
+    {
+     "themeId": "raz_c_the_festival_of_lights",
+     "title": "The Festival of Lights",
+     "nameZh": "光明节",
+     "order": 60
+    },
+    {
+     "themeId": "raz_c_the_moon",
+     "title": "The Moon",
+     "nameZh": "月亮",
+     "order": 61
+    },
+    {
+     "themeId": "raz_c_the_woodsy_band_jam",
+     "title": "The Woodsy Band Jam",
+     "nameZh": "森林乐队即兴演奏",
+     "order": 62
+    },
+    {
+     "themeId": "raz_c_then_and_now",
+     "title": "Then and Now",
+     "nameZh": "过去和现在",
+     "order": 63
+    },
+    {
+     "themeId": "raz_c_there_is_a_mouse_in_the_house",
+     "title": "There Is a Mouse in the House",
+     "nameZh": "房子里有只老鼠",
+     "order": 64
+    },
+    {
+     "themeId": "raz_c_tools",
+     "title": "Tools",
+     "nameZh": "工具",
+     "order": 65
+    },
+    {
+     "themeId": "raz_c_wash_your_hands",
+     "title": "Wash Your Hands",
+     "nameZh": "洗手",
+     "order": 66
+    },
+    {
+     "themeId": "raz_c_water_fight",
+     "title": "Water Fight!",
+     "nameZh": "打水仗",
+     "order": 67
+    },
+    {
+     "themeId": "raz_c_we_buy",
+     "title": "We Buy",
+     "nameZh": "我们去买东西",
+     "order": 68
+    },
+    {
+     "themeId": "raz_c_we_count",
+     "title": "We Count",
+     "nameZh": "我们来数数",
+     "order": 69
+    },
+    {
+     "themeId": "raz_c_we_learn_to_swim",
+     "title": "We Learn to Swim",
+     "nameZh": "我们学游泳",
+     "order": 70
+    },
+    {
+     "themeId": "raz_c_we_make_a_snowman",
+     "title": "We Make a Snowman",
+     "nameZh": "我们堆雪人",
+     "order": 71
+    },
+    {
+     "themeId": "raz_c_we_make_good_choices",
+     "title": "We Make Good Choices",
+     "nameZh": "我们做好选择",
+     "order": 72
+    },
+    {
+     "themeId": "raz_c_what_animals_eat",
+     "title": "What Animals Eat",
+     "nameZh": "动物吃什么",
+     "order": 73
+    },
+    {
+     "themeId": "raz_c_what_can_i_be",
+     "title": "What Can I Be?",
+     "nameZh": "我可以扮成什么",
+     "order": 74
+    },
+    {
+     "themeId": "raz_c_what_can_we_draw",
+     "title": "What Can We Draw?",
+     "nameZh": "我们能画什么",
+     "order": 75
+    },
+    {
+     "themeId": "raz_c_what_do_i_wear",
+     "title": "What Do I Wear?",
+     "nameZh": "我穿什么",
+     "order": 76
+    },
+    {
+     "themeId": "raz_c_what_i_want",
+     "title": "What I Want",
+     "nameZh": "我想要什么",
+     "order": 77
+    },
+    {
+     "themeId": "raz_c_what_is_at_the_zoo",
+     "title": "What Is at the Zoo?",
+     "nameZh": "动物园里有什么",
+     "order": 78
+    },
+    {
+     "themeId": "raz_c_what_season_is_it",
+     "title": "What Season Is It?",
+     "nameZh": "现在是什么季节",
+     "order": 79
+    },
+    {
+     "themeId": "raz_c_whats_for_breakfast",
+     "title": "What's for Breakfast?",
+     "nameZh": "早餐吃什么",
+     "order": 80
+    },
+    {
+     "themeId": "raz_c_whats_my_job",
+     "title": "What's My Job?",
+     "nameZh": "我的职业是什么",
+     "order": 81
+    },
+    {
+     "themeId": "raz_c_when_is_nighttime",
+     "title": "When Is Nighttime?",
+     "nameZh": "什么时候是夜晚",
+     "order": 82
+    },
+    {
+     "themeId": "raz_c_who_stole_the_north_pole",
+     "title": "Who Stole the North Pole?",
+     "nameZh": "谁偷了北极",
+     "order": 83
+    },
+    {
+     "themeId": "raz_c_who_who_who",
+     "title": "Who, Who, Who?",
+     "nameZh": "谁，谁，谁？",
+     "order": 84
+    },
+    {
+     "themeId": "raz_c_winter_hats",
+     "title": "Winter Hats",
+     "nameZh": "冬天的帽子",
+     "order": 85
+    },
+    {
+     "themeId": "raz_c_you_like_what",
+     "title": "You Like What?",
+     "nameZh": "你喜欢什么？",
+     "order": 86
+    },
+    {
+     "themeId": "raz_c_yummy_yummy",
+     "title": "Yummy, Yummy",
+     "nameZh": "好吃好吃",
+     "order": 87
+    }
+   ]
   },
   {
    "level": "D",
    "desc": "多样句型",
-   "status": "empty",
-   "books": []
+   "status": "ready",
+   "books": [
+    {
+     "themeId": "raz_d_a_day_for_dad",
+     "title": "A Day for Dad",
+     "nameZh": "爸爸的节日",
+     "order": 1
+    },
+    {
+     "themeId": "raz_d_all_about_foxes",
+     "title": "All About Foxes",
+     "nameZh": "关于狐狸",
+     "order": 2
+    },
+    {
+     "themeId": "raz_d_amazing_places_to_work",
+     "title": "Amazing Places to Work",
+     "nameZh": "神奇的工作地点",
+     "order": 3
+    },
+    {
+     "themeId": "raz_d_animal_costumes",
+     "title": "Animal Costumes",
+     "nameZh": "动物装扮",
+     "order": 4
+    },
+    {
+     "themeId": "raz_d_animal_horns",
+     "title": "Animal Horns",
+     "nameZh": "动物的角",
+     "order": 5
+    },
+    {
+     "themeId": "raz_d_animal_tongues",
+     "title": "Animal Tongues",
+     "nameZh": "动物的舌头",
+     "order": 6
+    },
+    {
+     "themeId": "raz_d_at_a_fall_fair",
+     "title": "At a Fall Fair",
+     "nameZh": "在秋季集市",
+     "order": 7
+    },
+    {
+     "themeId": "raz_d_at_the_library",
+     "title": "At the Library",
+     "nameZh": "在图书馆",
+     "order": 8
+    },
+    {
+     "themeId": "raz_d_backyard_camping",
+     "title": "Backyard Camping",
+     "nameZh": "后院露营",
+     "order": 9
+    },
+    {
+     "themeId": "raz_d_bats_day_and_night",
+     "title": "Bats Day and Night",
+     "nameZh": "蝙蝠的昼与夜",
+     "order": 10
+    },
+    {
+     "themeId": "raz_d_because_you_recycle",
+     "title": "Because You Recycle",
+     "nameZh": "因为你回收",
+     "order": 11
+    },
+    {
+     "themeId": "raz_d_bees_feed_me",
+     "title": "Bees Feed Me",
+     "nameZh": "蜜蜂喂养我",
+     "order": 12
+    },
+    {
+     "themeId": "raz_d_best_friends_q_and_u",
+     "title": "Best Friends Q and U",
+     "nameZh": "好朋友 Q 和 U",
+     "order": 13
+    },
+    {
+     "themeId": "raz_d_bubbles",
+     "title": "Bubbles",
+     "nameZh": "泡泡",
+     "order": 14
+    },
+    {
+     "themeId": "raz_d_buddy_the_bear",
+     "title": "Buddy the Bear",
+     "nameZh": "小熊巴迪",
+     "order": 15
+    },
+    {
+     "themeId": "raz_d_caretakers",
+     "title": "Caretakers",
+     "nameZh": "照护者",
+     "order": 16
+    },
+    {
+     "themeId": "raz_d_clouds",
+     "title": "Clouds",
+     "nameZh": "云",
+     "order": 17
+    },
+    {
+     "themeId": "raz_d_community_helpers",
+     "title": "Community Helpers",
+     "nameZh": "社区帮手",
+     "order": 18
+    },
+    {
+     "themeId": "raz_d_country_places",
+     "title": "Country Places",
+     "nameZh": "乡村的地方",
+     "order": 19
+    },
+    {
+     "themeId": "raz_d_cranberries",
+     "title": "Cranberries",
+     "nameZh": "蔓越莓",
+     "order": 20
+    },
+    {
+     "themeId": "raz_d_dollars_and_cents",
+     "title": "Dollars and Cents",
+     "nameZh": "美元和美分",
+     "order": 21
+    },
+    {
+     "themeId": "raz_d_fog",
+     "title": "Fog",
+     "nameZh": "雾",
+     "order": 22
+    },
+    {
+     "themeId": "raz_d_frog_is_hungry",
+     "title": "Frog Is Hungry",
+     "nameZh": "青蛙饿了",
+     "order": 23
+    },
+    {
+     "themeId": "raz_d_future_flowers",
+     "title": "Future Flowers",
+     "nameZh": "未来的花",
+     "order": 24
+    },
+    {
+     "themeId": "raz_d_getting_around_the_city",
+     "title": "Getting Around the City",
+     "nameZh": "城市出行",
+     "order": 25
+    },
+    {
+     "themeId": "raz_d_give_them_back",
+     "title": "Give Them Back!",
+     "nameZh": "还回来！",
+     "order": 26
+    },
+    {
+     "themeId": "raz_d_greater_than",
+     "title": "Greater Than",
+     "nameZh": "大于",
+     "order": 27
+    },
+    {
+     "themeId": "raz_d_grow_vegetables_grow",
+     "title": "Grow, Vegetables, Grow!",
+     "nameZh": "长吧，蔬菜，长吧",
+     "order": 28
+    },
+    {
+     "themeId": "raz_d_hobbies",
+     "title": "Hobbies",
+     "nameZh": "爱好",
+     "order": 29
+    },
+    {
+     "themeId": "raz_d_i_count_100_things",
+     "title": "I Count 100 Things",
+     "nameZh": "我数一百样东西",
+     "order": 30
+    },
+    {
+     "themeId": "raz_d_i_hide",
+     "title": "I Hide",
+     "nameZh": "我藏起来",
+     "order": 31
+    },
+    {
+     "themeId": "raz_d_i_like_my_hair",
+     "title": "I Like My Hair",
+     "nameZh": "我喜欢我的头发",
+     "order": 32
+    },
+    {
+     "themeId": "raz_d_i_need_an_eraser",
+     "title": "I Need an Eraser",
+     "nameZh": "我需要一块橡皮",
+     "order": 33
+    },
+    {
+     "themeId": "raz_d_imagine_the_beach",
+     "title": "Imagine the Beach",
+     "nameZh": "想象海滩",
+     "order": 34
+    },
+    {
+     "themeId": "raz_d_insect_wings",
+     "title": "Insect Wings",
+     "nameZh": "昆虫的翅膀",
+     "order": 35
+    },
+    {
+     "themeId": "raz_d_just_a_trim",
+     "title": "Just a Trim",
+     "nameZh": "只修一修",
+     "order": 36
+    },
+    {
+     "themeId": "raz_d_katie_and_katie",
+     "title": "Katie and Katie",
+     "nameZh": "凯蒂和凯蒂",
+     "order": 37
+    },
+    {
+     "themeId": "raz_d_less_than",
+     "title": "Less Than",
+     "nameZh": "小于",
+     "order": 38
+    },
+    {
+     "themeId": "raz_d_lets_make_a_bird_feeder",
+     "title": "Let's Make a Bird Feeder",
+     "nameZh": "我们来做喂鸟器",
+     "order": 39
+    },
+    {
+     "themeId": "raz_d_lily_the_cat",
+     "title": "Lily the Cat",
+     "nameZh": "猫咪莉莉",
+     "order": 40
+    },
+    {
+     "themeId": "raz_d_little_loon",
+     "title": "Little Loon",
+     "nameZh": "小潜鸟",
+     "order": 41
+    },
+    {
+     "themeId": "raz_d_marias_halloween",
+     "title": "Maria's Halloween",
+     "nameZh": "玛丽亚的万圣节",
+     "order": 42
+    },
+    {
+     "themeId": "raz_d_mud_balls",
+     "title": "Mud Balls!",
+     "nameZh": "泥球",
+     "order": 43
+    },
+    {
+     "themeId": "raz_d_my_first_class_play",
+     "title": "My First Class Play",
+     "nameZh": "我的第一场班级演出",
+     "order": 44
+    },
+    {
+     "themeId": "raz_d_my_neighborhood",
+     "title": "My Neighborhood",
+     "nameZh": "我的街区",
+     "order": 45
+    },
+    {
+     "themeId": "raz_d_my_new_city",
+     "title": "My New City",
+     "nameZh": "我的新城市",
+     "order": 46
+    },
+    {
+     "themeId": "raz_d_my_new_school",
+     "title": "My New School",
+     "nameZh": "我的新学校",
+     "order": 47
+    },
+    {
+     "themeId": "raz_d_no_lily_dont",
+     "title": "No, Lily, Don't!",
+     "nameZh": "不，莉莉，别这样！",
+     "order": 48
+    },
+    {
+     "themeId": "raz_d_nothing_scares_me",
+     "title": "Nothing Scares Me!",
+     "nameZh": "没什么吓得住我！",
+     "order": 49
+    },
+    {
+     "themeId": "raz_d_our_good_night_story",
+     "title": "Our Good Night Story",
+     "nameZh": "我们的晚安故事",
+     "order": 50
+    },
+    {
+     "themeId": "raz_d_pick_a_pie",
+     "title": "Pick a Pie",
+     "nameZh": "挑个派",
+     "order": 51
+    },
+    {
+     "themeId": "raz_d_pillow_fort_password",
+     "title": "Pillow Fort Password",
+     "nameZh": "枕头堡垒的暗号",
+     "order": 52
+    },
+    {
+     "themeId": "raz_d_polly_gets_out",
+     "title": "Polly Gets Out",
+     "nameZh": "波莉飞出去了",
+     "order": 53
+    },
+    {
+     "themeId": "raz_d_reindeer_are_real",
+     "title": "Reindeer Are Real",
+     "nameZh": "驯鹿是真的",
+     "order": 54
+    },
+    {
+     "themeId": "raz_d_river_otters",
+     "title": "River Otters",
+     "nameZh": "河獭",
+     "order": 55
+    },
+    {
+     "themeId": "raz_d_senses",
+     "title": "Senses",
+     "nameZh": "五种感官",
+     "order": 56
+    },
+    {
+     "themeId": "raz_d_shave_it_off",
+     "title": "Shave It Off!",
+     "nameZh": "剃掉它！",
+     "order": 57
+    },
+    {
+     "themeId": "raz_d_silent_e",
+     "title": "Silent e",
+     "nameZh": "不发音的e",
+     "order": 58
+    },
+    {
+     "themeId": "raz_d_sky_high",
+     "title": "Sky High!",
+     "nameZh": "飞上天啦！",
+     "order": 59
+    },
+    {
+     "themeId": "raz_d_stone_soup",
+     "title": "Stone Soup",
+     "nameZh": "石头汤",
+     "order": 60
+    },
+    {
+     "themeId": "raz_d_swamp_music",
+     "title": "Swamp Music",
+     "nameZh": "沼泽音乐会",
+     "order": 61
+    },
+    {
+     "themeId": "raz_d_swamps",
+     "title": "Swamps",
+     "nameZh": "沼泽",
+     "order": 62
+    },
+    {
+     "themeId": "raz_d_tadpole_teasing",
+     "title": "Tadpole Teasing",
+     "nameZh": "小蝌蚪的嘲笑",
+     "order": 63
+    },
+    {
+     "themeId": "raz_d_the_busy_pond",
+     "title": "The Busy Pond",
+     "nameZh": "热闹的池塘",
+     "order": 64
+    },
+    {
+     "themeId": "raz_d_the_mitten",
+     "title": "The Mitten",
+     "nameZh": "小手套",
+     "order": 65
+    },
+    {
+     "themeId": "raz_d_the_sky_is_falling",
+     "title": "The Sky Is Falling",
+     "nameZh": "天塌下来啦",
+     "order": 66
+    },
+    {
+     "themeId": "raz_d_the_team",
+     "title": "The Team",
+     "nameZh": "棒球队",
+     "order": 67
+    },
+    {
+     "themeId": "raz_d_tiger_sharks",
+     "title": "Tiger Sharks",
+     "nameZh": "虎鲨",
+     "order": 68
+    },
+    {
+     "themeId": "raz_d_to_the_store",
+     "title": "To the Store",
+     "nameZh": "去商店",
+     "order": 69
+    },
+    {
+     "themeId": "raz_d_to_the_woods",
+     "title": "To the Woods",
+     "nameZh": "去树林",
+     "order": 70
+    },
+    {
+     "themeId": "raz_d_tootsie_can_talk",
+     "title": "Tootsie Can Talk",
+     "nameZh": "图茜会说话",
+     "order": 71
+    },
+    {
+     "themeId": "raz_d_under_that_rock",
+     "title": "Under That Rock",
+     "nameZh": "岩石下面",
+     "order": 72
+    },
+    {
+     "themeId": "raz_d_we_give_away",
+     "title": "We Give Away",
+     "nameZh": "我们送出去",
+     "order": 73
+    },
+    {
+     "themeId": "raz_d_welcome_back_butterflies",
+     "title": "Welcome Back, Butterflies",
+     "nameZh": "欢迎回来，蝴蝶",
+     "order": 74
+    },
+    {
+     "themeId": "raz_d_whale_watching",
+     "title": "Whale Watching",
+     "nameZh": "观鲸",
+     "order": 75
+    },
+    {
+     "themeId": "raz_d_what_do_you_see",
+     "title": "What Do You See?",
+     "nameZh": "你看见了什么？",
+     "order": 76
+    },
+    {
+     "themeId": "raz_d_what",
+     "title": "What?",
+     "nameZh": "吃什么？",
+     "order": 77
+    },
+    {
+     "themeId": "raz_d_where_animals_live",
+     "title": "Where Animals Live",
+     "nameZh": "动物住在哪里",
+     "order": 78
+    },
+    {
+     "themeId": "raz_d_where_plants_grow",
+     "title": "Where Plants Grow",
+     "nameZh": "植物长在哪里",
+     "order": 79
+    },
+    {
+     "themeId": "raz_d_who_runs_faster",
+     "title": "Who Runs Faster?",
+     "nameZh": "谁跑得更快？",
+     "order": 80
+    },
+    {
+     "themeId": "raz_d_why_cant_i",
+     "title": "Why Can't I?",
+     "nameZh": "为什么我不能？",
+     "order": 81
+    },
+    {
+     "themeId": "raz_d_why_does_an_octopus_need_eight_arms",
+     "title": "Why Does an Octopus Need Eight Arms?",
+     "nameZh": "章鱼为什么需要八条腕",
+     "order": 82
+    },
+    {
+     "themeId": "raz_d_workers",
+     "title": "Workers",
+     "nameZh": "劳动者",
+     "order": 83
+    }
+   ]
   },
   {
    "level": "E",

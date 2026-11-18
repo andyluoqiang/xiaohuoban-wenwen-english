@@ -1,0 +1,187 @@
+{
+ "theme": "raz_d_silent_e",
+ "nameZh": "不发音的e",
+ "bookTitle": "Silent e",
+ "razLevel": "D",
+ "order": 58,
+ "cover": "img/raz-d-silent_e-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_silent_e-u1",
+   "band": 2,
+   "title": "Silent e · 不发音的e",
+   "cards": [
+    {
+     "id": "raz_d_silent_e-p1",
+     "type": "sentence",
+     "en": "No one hears me coming.",
+     "zh": "没有人听见我到来。",
+     "audio": "audio/all/7895_no_one_hears_me_coming.mp3",
+     "slow": "audio/all/7895_no_one_hears_me_coming.mp3",
+     "image": "img/raz-d-silent_e-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_silent_e-p2",
+     "type": "sentence",
+     "en": "Yet they know when I am there.",
+     "zh": "但大家知道我在场。",
+     "audio": "audio/all/7896_yet_they_know_when_i_am_there.mp3",
+     "slow": "audio/all/7896_yet_they_know_when_i_am_there.mp3",
+     "image": "img/raz-d-silent_e-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_silent_e-p3",
+     "type": "sentence",
+     "en": "I change what words mean.",
+     "zh": "我改变词语的意思。",
+     "audio": "audio/all/7897_i_change_what_words_mean.mp3",
+     "slow": "audio/all/7897_i_change_what_words_mean.mp3",
+     "image": "img/raz-d-silent_e-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_silent_e-p4",
+     "type": "sentence",
+     "en": "I change how words sound.",
+     "zh": "我改变词语的读音。",
+     "audio": "audio/all/7898_i_change_how_words_sound.mp3",
+     "slow": "audio/all/7898_i_change_how_words_sound.mp3",
+     "image": "img/raz-d-silent_e-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_silent_e-p5",
+     "type": "sentence",
+     "en": "Watch me work.",
+     "zh": "看我大显身手。",
+     "audio": "audio/all/7899_watch_me_work.mp3",
+     "slow": "audio/all/7899_watch_me_work.mp3",
+     "image": "img/raz-d-silent_e-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_silent_e-p6",
+     "type": "sentence",
+     "en": "I change cap into cape.",
+     "zh": "我把 cap 变成 cape（帽子变披风）。",
+     "audio": "audio/all/7900_i_change_cap_into_cape.mp3",
+     "slow": "audio/all/7900_i_change_cap_into_cape.mp3",
+     "image": "img/raz-d-silent_e-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_silent_e-p7",
+     "type": "sentence",
+     "en": "Watch me work.",
+     "zh": "看我大显身手。",
+     "audio": "audio/all/7901_watch_me_work.mp3",
+     "slow": "audio/all/7901_watch_me_work.mp3",
+     "image": "img/raz-d-silent_e-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_silent_e-p8",
+     "type": "sentence",
+     "en": "I change pin into pine.",
+     "zh": "我把 pin 变成 pine（别针变松树）。",
+     "audio": "audio/all/7902_i_change_pin_into_pine.mp3",
+     "slow": "audio/all/7902_i_change_pin_into_pine.mp3",
+     "image": "img/raz-d-silent_e-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_silent_e-p9",
+     "type": "sentence",
+     "en": "Watch me work.",
+     "zh": "看我大显身手。",
+     "audio": "audio/all/7903_watch_me_work.mp3",
+     "slow": "audio/all/7903_watch_me_work.mp3",
+     "image": "img/raz-d-silent_e-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_silent_e-p10",
+     "type": "sentence",
+     "en": "I change tub into tube.",
+     "zh": "我把 tub 变成 tube（澡盆变管子）。",
+     "audio": "audio/all/7904_i_change_tub_into_tube.mp3",
+     "slow": "audio/all/7904_i_change_tub_into_tube.mp3",
+     "image": "img/raz-d-silent_e-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_silent_e-p11",
+     "type": "sentence",
+     "en": "Watch me work.",
+     "zh": "看我大显身手。",
+     "audio": "audio/all/7905_watch_me_work.mp3",
+     "slow": "audio/all/7905_watch_me_work.mp3",
+     "image": "img/raz-d-silent_e-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_silent_e-p12",
+     "type": "sentence",
+     "en": "I change can into cane.",
+     "zh": "我把 can 变成 cane（罐子变拐杖）。",
+     "audio": "audio/all/7906_i_change_can_into_cane.mp3",
+     "slow": "audio/all/7906_i_change_can_into_cane.mp3",
+     "image": "img/raz-d-silent_e-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_silent_e-p13",
+     "type": "sentence",
+     "en": "Watch me work.",
+     "zh": "看我大显身手。",
+     "audio": "audio/all/7907_watch_me_work.mp3",
+     "slow": "audio/all/7907_watch_me_work.mp3",
+     "image": "img/raz-d-silent_e-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_silent_e-p14",
+     "type": "sentence",
+     "en": "I change twin into twine.",
+     "zh": "我把 twin 变成 twine（双胞胎变细绳）。",
+     "audio": "audio/all/7908_i_change_twin_into_twine.mp3",
+     "slow": "audio/all/7908_i_change_twin_into_twine.mp3",
+     "image": "img/raz-d-silent_e-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_silent_e-p15",
+     "type": "sentence",
+     "en": "I change what words mean.",
+     "zh": "我改变词语的意思。",
+     "audio": "audio/all/7909_i_change_what_words_mean.mp3",
+     "slow": "audio/all/7909_i_change_what_words_mean.mp3",
+     "image": "img/raz-d-silent_e-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_silent_e-p16",
+     "type": "sentence",
+     "en": "I change how words sound.",
+     "zh": "我改变词语的读音。",
+     "audio": "audio/all/7910_i_change_how_words_sound.mp3",
+     "slow": "audio/all/7910_i_change_how_words_sound.mp3",
+     "image": "img/raz-d-silent_e-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_silent_e-p17",
+     "type": "sentence",
+     "en": "I am silent e.",
+     "zh": "我就是不发音的 e。",
+     "audio": "audio/all/7911_i_am_silent_e.mp3",
+     "slow": "audio/all/7911_i_am_silent_e.mp3",
+     "image": "img/raz-d-silent_e-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

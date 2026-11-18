@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_buddy_the_bear",
+ "nameZh": "小熊巴迪",
+ "bookTitle": "Buddy the Bear",
+ "razLevel": "D",
+ "order": 15,
+ "cover": "img/raz-d-buddy_the_bear-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_buddy_the_bear-u1",
+   "band": 2,
+   "title": "Buddy the Bear · 小熊巴迪",
+   "cards": [
+    {
+     "id": "raz_d_buddy_the_bear-p1",
+     "type": "sentence",
+     "en": "Buddy the Bear was an old teddy bear.",
+     "zh": "小熊巴迪是一只旧泰迪熊。",
+     "audio": "audio/all/7253_buddy_the_bear_was_an_old_teddy_bear.mp3",
+     "slow": "audio/all/7253_buddy_the_bear_was_an_old_teddy_bear.mp3",
+     "image": "img/raz-d-buddy_the_bear-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p2",
+     "type": "sentence",
+     "en": "Buddy the Bear began to fall apart.",
+     "zh": "小熊巴迪开始散架了。",
+     "audio": "audio/all/7254_buddy_the_bear_began_to_fall_apart.mp3",
+     "slow": "audio/all/7254_buddy_the_bear_began_to_fall_apart.mp3",
+     "image": "img/raz-d-buddy_the_bear-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p3",
+     "type": "sentence",
+     "en": "Buddy the Bear lost an arm.",
+     "zh": "小熊巴迪掉了一只手臂。",
+     "audio": "audio/all/7255_buddy_the_bear_lost_an_arm.mp3",
+     "slow": "audio/all/7255_buddy_the_bear_lost_an_arm.mp3",
+     "image": "img/raz-d-buddy_the_bear-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p4",
+     "type": "sentence",
+     "en": "We gave him a new one.",
+     "zh": "我们给它装了只新的。",
+     "audio": "audio/all/7256_we_gave_him_a_new_one.mp3",
+     "slow": "audio/all/7256_we_gave_him_a_new_one.mp3",
+     "image": "img/raz-d-buddy_the_bear-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p5",
+     "type": "sentence",
+     "en": "Buddy the Bear lost an ear.",
+     "zh": "小熊巴迪掉了一只耳朵。",
+     "audio": "audio/all/7257_buddy_the_bear_lost_an_ear.mp3",
+     "slow": "audio/all/7257_buddy_the_bear_lost_an_ear.mp3",
+     "image": "img/raz-d-buddy_the_bear-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p6",
+     "type": "sentence",
+     "en": "We gave him a new one.",
+     "zh": "我们给它装了只新的。",
+     "audio": "audio/all/7258_we_gave_him_a_new_one.mp3",
+     "slow": "audio/all/7258_we_gave_him_a_new_one.mp3",
+     "image": "img/raz-d-buddy_the_bear-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p7",
+     "type": "sentence",
+     "en": "Buddy the Bear lost an eye.",
+     "zh": "小熊巴迪掉了一只眼睛。",
+     "audio": "audio/all/7259_buddy_the_bear_lost_an_eye.mp3",
+     "slow": "audio/all/7259_buddy_the_bear_lost_an_eye.mp3",
+     "image": "img/raz-d-buddy_the_bear-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p8",
+     "type": "sentence",
+     "en": "We gave him a new one.",
+     "zh": "我们给它装了只新的。",
+     "audio": "audio/all/7260_we_gave_him_a_new_one.mp3",
+     "slow": "audio/all/7260_we_gave_him_a_new_one.mp3",
+     "image": "img/raz-d-buddy_the_bear-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p9",
+     "type": "sentence",
+     "en": "Buddy the Bear looked different than before.",
+     "zh": "小熊巴迪看起来和以前不一样了。",
+     "audio": "audio/all/7261_buddy_the_bear_looked_different_than_b.mp3",
+     "slow": "audio/all/7261_buddy_the_bear_looked_different_than_b.mp3",
+     "image": "img/raz-d-buddy_the_bear-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_buddy_the_bear-p10",
+     "type": "sentence",
+     "en": "We still loved Buddy the Bear just as much.",
+     "zh": "我们依然一样爱小熊巴迪。",
+     "audio": "audio/all/7262_we_still_loved_buddy_the_bear_just_as_.mp3",
+     "slow": "audio/all/7262_we_still_loved_buddy_the_bear_just_as_.mp3",
+     "image": "img/raz-d-buddy_the_bear-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

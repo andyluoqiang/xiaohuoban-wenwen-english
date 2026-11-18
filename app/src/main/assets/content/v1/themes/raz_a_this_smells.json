@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_this_smells",
+ "nameZh": "闻起来的味道",
+ "bookTitle": "This Smells!",
+ "razLevel": "A",
+ "order": 73,
+ "cover": "img/raz-a-this_smells-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_this_smells-u1",
+   "band": 2,
+   "title": "This Smells! · 闻起来的味道",
+   "cards": [
+    {
+     "id": "raz_a_this_smells-p1",
+     "type": "sentence",
+     "en": "This smells so sour.",
+     "zh": "这个闻起来好酸。",
+     "audio": "audio/all/5681_this_smells_so_sour.mp3",
+     "slow": "audio/all/5681_this_smells_so_sour.mp3",
+     "image": "img/raz-a-this_smells-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_this_smells-p2",
+     "type": "sentence",
+     "en": "This smells so sweet.",
+     "zh": "这个闻起来好甜。",
+     "audio": "audio/all/5682_this_smells_so_sweet.mp3",
+     "slow": "audio/all/5682_this_smells_so_sweet.mp3",
+     "image": "img/raz-a-this_smells-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_this_smells-p3",
+     "type": "sentence",
+     "en": "This smells so old.",
+     "zh": "这个闻起来好旧。",
+     "audio": "audio/all/5683_this_smells_so_old.mp3",
+     "slow": "audio/all/5683_this_smells_so_old.mp3",
+     "image": "img/raz-a-this_smells-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_this_smells-p4",
+     "type": "sentence",
+     "en": "This smells so new.",
+     "zh": "这个闻起来好新。",
+     "audio": "audio/all/5684_this_smells_so_new.mp3",
+     "slow": "audio/all/5684_this_smells_so_new.mp3",
+     "image": "img/raz-a-this_smells-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_this_smells-p5",
+     "type": "sentence",
+     "en": "This smells so dirty.",
+     "zh": "这个闻起来好脏。",
+     "audio": "audio/all/5685_this_smells_so_dirty.mp3",
+     "slow": "audio/all/5685_this_smells_so_dirty.mp3",
+     "image": "img/raz-a-this_smells-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_this_smells-p6",
+     "type": "sentence",
+     "en": "This smells so clean.",
+     "zh": "这个闻起来好干净。",
+     "audio": "audio/all/5686_this_smells_so_clean.mp3",
+     "slow": "audio/all/5686_this_smells_so_clean.mp3",
+     "image": "img/raz-a-this_smells-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_this_smells-p7",
+     "type": "sentence",
+     "en": "This smells so bad.",
+     "zh": "这个闻起来好臭。",
+     "audio": "audio/all/5687_this_smells_so_bad.mp3",
+     "slow": "audio/all/5687_this_smells_so_bad.mp3",
+     "image": "img/raz-a-this_smells-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_this_smells-p8",
+     "type": "sentence",
+     "en": "This smells so good.",
+     "zh": "这个闻起来好香。",
+     "audio": "audio/all/5688_this_smells_so_good.mp3",
+     "slow": "audio/all/5688_this_smells_so_good.mp3",
+     "image": "img/raz-a-this_smells-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

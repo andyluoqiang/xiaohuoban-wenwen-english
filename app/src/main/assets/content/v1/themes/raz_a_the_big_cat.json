@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_the_big_cat",
+ "nameZh": "大猫",
+ "bookTitle": "The Big Cat",
+ "razLevel": "A",
+ "order": 63,
+ "cover": "img/raz-a-the_big_cat-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_the_big_cat-u1",
+   "band": 2,
+   "title": "The Big Cat · 大猫",
+   "cards": [
+    {
+     "id": "raz_a_the_big_cat-p1",
+     "type": "sentence",
+     "en": "The big cat plays.",
+     "zh": "大猫玩耍。",
+     "audio": "audio/all/5601_the_big_cat_plays.mp3",
+     "slow": "audio/all/5601_the_big_cat_plays.mp3",
+     "image": "img/raz-a-the_big_cat-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_the_big_cat-p2",
+     "type": "sentence",
+     "en": "The big cat hides.",
+     "zh": "大猫躲藏。",
+     "audio": "audio/all/5602_the_big_cat_hides.mp3",
+     "slow": "audio/all/5602_the_big_cat_hides.mp3",
+     "image": "img/raz-a-the_big_cat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_the_big_cat-p3",
+     "type": "sentence",
+     "en": "The big cat eats.",
+     "zh": "大猫吃东西。",
+     "audio": "audio/all/5603_the_big_cat_eats.mp3",
+     "slow": "audio/all/5603_the_big_cat_eats.mp3",
+     "image": "img/raz-a-the_big_cat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_the_big_cat-p4",
+     "type": "sentence",
+     "en": "The big cat looks.",
+     "zh": "大猫看。",
+     "audio": "audio/all/5604_the_big_cat_looks.mp3",
+     "slow": "audio/all/5604_the_big_cat_looks.mp3",
+     "image": "img/raz-a-the_big_cat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_the_big_cat-p5",
+     "type": "sentence",
+     "en": "The big cat climbs.",
+     "zh": "大猫爬。",
+     "audio": "audio/all/5605_the_big_cat_climbs.mp3",
+     "slow": "audio/all/5605_the_big_cat_climbs.mp3",
+     "image": "img/raz-a-the_big_cat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_the_big_cat-p6",
+     "type": "sentence",
+     "en": "The big cat runs.",
+     "zh": "大猫跑。",
+     "audio": "audio/all/5606_the_big_cat_runs.mp3",
+     "slow": "audio/all/5606_the_big_cat_runs.mp3",
+     "image": "img/raz-a-the_big_cat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_the_big_cat-p7",
+     "type": "sentence",
+     "en": "The big cat cleans.",
+     "zh": "大猫清洁。",
+     "audio": "audio/all/5607_the_big_cat_cleans.mp3",
+     "slow": "audio/all/5607_the_big_cat_cleans.mp3",
+     "image": "img/raz-a-the_big_cat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_the_big_cat-p8",
+     "type": "sentence",
+     "en": "The big cat sleeps.",
+     "zh": "大猫睡觉。",
+     "audio": "audio/all/5608_the_big_cat_sleeps.mp3",
+     "slow": "audio/all/5608_the_big_cat_sleeps.mp3",
+     "image": "img/raz-a-the_big_cat-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

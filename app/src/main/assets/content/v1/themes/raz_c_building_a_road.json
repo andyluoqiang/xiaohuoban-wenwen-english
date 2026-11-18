@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_building_a_road",
+ "nameZh": "修一条路",
+ "bookTitle": "Building a Road",
+ "razLevel": "C",
+ "order": 9,
+ "cover": "img/raz-c-building_a_road-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_building_a_road-u1",
+   "band": 2,
+   "title": "Building a Road · 修一条路",
+   "cards": [
+    {
+     "id": "raz_c_building_a_road-p1",
+     "type": "sentence",
+     "en": "How is a road built?",
+     "zh": "路是怎么修的？",
+     "audio": "audio/all/6092_how_is_a_road_built.mp3",
+     "slow": "audio/all/6092_how_is_a_road_built.mp3",
+     "image": "img/raz-c-building_a_road-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_building_a_road-p2",
+     "type": "sentence",
+     "en": "First, the plan is made.",
+     "zh": "首先，制定计划。",
+     "audio": "audio/all/6093_first_the_plan_is_made.mp3",
+     "slow": "audio/all/6093_first_the_plan_is_made.mp3",
+     "image": "img/raz-c-building_a_road-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_building_a_road-p3",
+     "type": "sentence",
+     "en": "Next, the dirt is moved.",
+     "zh": "接着，运走泥土。",
+     "audio": "audio/all/6094_next_the_dirt_is_moved.mp3",
+     "slow": "audio/all/6094_next_the_dirt_is_moved.mp3",
+     "image": "img/raz-c-building_a_road-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_building_a_road-p4",
+     "type": "sentence",
+     "en": "Then, the gravel is spread.",
+     "zh": "然后，铺上碎石。",
+     "audio": "audio/all/6095_then_the_gravel_is_spread.mp3",
+     "slow": "audio/all/6095_then_the_gravel_is_spread.mp3",
+     "image": "img/raz-c-building_a_road-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_building_a_road-p5",
+     "type": "sentence",
+     "en": "Next, the road is paved.",
+     "zh": "接着，给路铺上路面。",
+     "audio": "audio/all/6096_next_the_road_is_paved.mp3",
+     "slow": "audio/all/6096_next_the_road_is_paved.mp3",
+     "image": "img/raz-c-building_a_road-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_building_a_road-p6",
+     "type": "sentence",
+     "en": "Then, the road is flattened.",
+     "zh": "然后，把路压平。",
+     "audio": "audio/all/6097_then_the_road_is_flattened.mp3",
+     "slow": "audio/all/6097_then_the_road_is_flattened.mp3",
+     "image": "img/raz-c-building_a_road-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_building_a_road-p7",
+     "type": "sentence",
+     "en": "Last, the road is painted.",
+     "zh": "最后，给路画线。",
+     "audio": "audio/all/6098_last_the_road_is_painted.mp3",
+     "slow": "audio/all/6098_last_the_road_is_painted.mp3",
+     "image": "img/raz-c-building_a_road-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_building_a_road-p8",
+     "type": "sentence",
+     "en": "Now it is time for a ride!",
+     "zh": "现在可以开车去兜风了！",
+     "audio": "audio/all/6099_now_it_is_time_for_a_ride.mp3",
+     "slow": "audio/all/6099_now_it_is_time_for_a_ride.mp3",
+     "image": "img/raz-c-building_a_road-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_building_a_road-p9",
+     "type": "sentence",
+     "en": "Where do you want to go?",
+     "zh": "你想去哪里呢？",
+     "audio": "audio/all/6100_where_do_you_want_to_go.mp3",
+     "slow": "audio/all/6100_where_do_you_want_to_go.mp3",
+     "image": "img/raz-c-building_a_road-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

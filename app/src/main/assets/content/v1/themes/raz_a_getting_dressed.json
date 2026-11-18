@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_getting_dressed",
+ "nameZh": "穿衣服",
+ "bookTitle": "Getting Dressed",
+ "razLevel": "A",
+ "order": 18,
+ "cover": "img/raz-a-getting_dressed-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_getting_dressed-u1",
+   "band": 2,
+   "title": "Getting Dressed · 穿衣服",
+   "cards": [
+    {
+     "id": "raz_a_getting_dressed-p1",
+     "type": "sentence",
+     "en": "I put on my shirt.",
+     "zh": "我穿上衬衫。",
+     "audio": "audio/all/5240_i_put_on_my_shirt.mp3",
+     "slow": "audio/all/5240_i_put_on_my_shirt.mp3",
+     "image": "img/raz-a-getting_dressed-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_getting_dressed-p2",
+     "type": "sentence",
+     "en": "I put on my pants.",
+     "zh": "我穿上裤子。",
+     "audio": "audio/all/5241_i_put_on_my_pants.mp3",
+     "slow": "audio/all/5241_i_put_on_my_pants.mp3",
+     "image": "img/raz-a-getting_dressed-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_getting_dressed-p3",
+     "type": "sentence",
+     "en": "I put on my belt.",
+     "zh": "我系上皮带。",
+     "audio": "audio/all/5242_i_put_on_my_belt.mp3",
+     "slow": "audio/all/5242_i_put_on_my_belt.mp3",
+     "image": "img/raz-a-getting_dressed-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_getting_dressed-p4",
+     "type": "sentence",
+     "en": "I put on my socks.",
+     "zh": "我穿上袜子。",
+     "audio": "audio/all/5243_i_put_on_my_socks.mp3",
+     "slow": "audio/all/5243_i_put_on_my_socks.mp3",
+     "image": "img/raz-a-getting_dressed-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_getting_dressed-p5",
+     "type": "sentence",
+     "en": "I put on my shoes.",
+     "zh": "我穿上鞋子。",
+     "audio": "audio/all/5244_i_put_on_my_shoes.mp3",
+     "slow": "audio/all/5244_i_put_on_my_shoes.mp3",
+     "image": "img/raz-a-getting_dressed-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_getting_dressed-p6",
+     "type": "sentence",
+     "en": "I put on my glasses.",
+     "zh": "我戴上眼镜。",
+     "audio": "audio/all/5245_i_put_on_my_glasses.mp3",
+     "slow": "audio/all/5245_i_put_on_my_glasses.mp3",
+     "image": "img/raz-a-getting_dressed-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_getting_dressed-p7",
+     "type": "sentence",
+     "en": "I put on my jacket.",
+     "zh": "我穿上夹克。",
+     "audio": "audio/all/5246_i_put_on_my_jacket.mp3",
+     "slow": "audio/all/5246_i_put_on_my_jacket.mp3",
+     "image": "img/raz-a-getting_dressed-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_getting_dressed-p8",
+     "type": "sentence",
+     "en": "I put on my backpack.",
+     "zh": "我背上书包。",
+     "audio": "audio/all/5247_i_put_on_my_backpack.mp3",
+     "slow": "audio/all/5247_i_put_on_my_backpack.mp3",
+     "image": "img/raz-a-getting_dressed-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_we_make_good_choices",
+ "nameZh": "我们做好选择",
+ "bookTitle": "We Make Good Choices",
+ "razLevel": "C",
+ "order": 72,
+ "cover": "img/raz-c-we_make_good_choices-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_we_make_good_choices-u1",
+   "band": 2,
+   "title": "We Make Good Choices · 我们做好选择",
+   "cards": [
+    {
+     "id": "raz_c_we_make_good_choices-p1",
+     "type": "sentence",
+     "en": "We try to make good choices every day.",
+     "zh": "我们每天努力做出好选择。",
+     "audio": "audio/all/6814_we_try_to_make_good_choices_every_day.mp3",
+     "slow": "audio/all/6814_we_try_to_make_good_choices_every_day.mp3",
+     "image": "img/raz-c-we_make_good_choices-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p2",
+     "type": "sentence",
+     "en": "Being kind is a good choice.",
+     "zh": "友善是好选择。",
+     "audio": "audio/all/6815_being_kind_is_a_good_choice.mp3",
+     "slow": "audio/all/6815_being_kind_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p3",
+     "type": "sentence",
+     "en": "Being helpful is a good choice.",
+     "zh": "乐于助人是好选择。",
+     "audio": "audio/all/6816_being_helpful_is_a_good_choice.mp3",
+     "slow": "audio/all/6816_being_helpful_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p4",
+     "type": "sentence",
+     "en": "Being quiet is a good choice.",
+     "zh": "保持安静是好选择。",
+     "audio": "audio/all/6817_being_quiet_is_a_good_choice.mp3",
+     "slow": "audio/all/6817_being_quiet_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p5",
+     "type": "sentence",
+     "en": "Being healthy is a good choice.",
+     "zh": "健康是好选择。",
+     "audio": "audio/all/6818_being_healthy_is_a_good_choice.mp3",
+     "slow": "audio/all/6818_being_healthy_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p6",
+     "type": "sentence",
+     "en": "Being fair is a good choice.",
+     "zh": "公平是好选择。",
+     "audio": "audio/all/6819_being_fair_is_a_good_choice.mp3",
+     "slow": "audio/all/6819_being_fair_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p7",
+     "type": "sentence",
+     "en": "Being safe is a good choice.",
+     "zh": "安全是好选择。",
+     "audio": "audio/all/6820_being_safe_is_a_good_choice.mp3",
+     "slow": "audio/all/6820_being_safe_is_a_good_choice.mp3",
+     "image": "img/raz-c-we_make_good_choices-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_we_make_good_choices-p8",
+     "type": "sentence",
+     "en": "The best choices are good choices.",
+     "zh": "最好的选择就是好选择。",
+     "audio": "audio/all/6821_the_best_choices_are_good_choices.mp3",
+     "slow": "audio/all/6821_the_best_choices_are_good_choices.mp3",
+     "image": "img/raz-c-we_make_good_choices-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

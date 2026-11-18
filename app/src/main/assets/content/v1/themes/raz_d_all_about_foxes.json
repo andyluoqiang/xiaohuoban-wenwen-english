@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_all_about_foxes",
+ "nameZh": "关于狐狸",
+ "bookTitle": "All About Foxes",
+ "razLevel": "D",
+ "order": 2,
+ "cover": "img/raz-d-all_about_foxes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_all_about_foxes-u1",
+   "band": 2,
+   "title": "All About Foxes · 关于狐狸",
+   "cards": [
+    {
+     "id": "raz_d_all_about_foxes-p1",
+     "type": "sentence",
+     "en": "Foxes are mammals.",
+     "zh": "狐狸是哺乳动物。",
+     "audio": "audio/all/7108_foxes_are_mammals.mp3",
+     "slow": "audio/all/7108_foxes_are_mammals.mp3",
+     "image": "img/raz-d-all_about_foxes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_all_about_foxes-p2",
+     "type": "sentence",
+     "en": "They have pointy faces.",
+     "zh": "它们有尖尖的脸。",
+     "audio": "audio/all/7109_they_have_pointy_faces.mp3",
+     "slow": "audio/all/7109_they_have_pointy_faces.mp3",
+     "image": "img/raz-d-all_about_foxes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_all_about_foxes-p3",
+     "type": "sentence",
+     "en": "Foxes are mammals.",
+     "zh": "狐狸是哺乳动物。",
+     "audio": "audio/all/7110_foxes_are_mammals.mp3",
+     "slow": "audio/all/7110_foxes_are_mammals.mp3",
+     "image": "img/raz-d-all_about_foxes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_all_about_foxes-p4",
+     "type": "sentence",
+     "en": "They have thin legs and bushy tails.",
+     "zh": "它们有细腿和毛茸茸的大尾巴。",
+     "audio": "audio/all/7111_they_have_thin_legs_and_bushy_tails.mp3",
+     "slow": "audio/all/7111_they_have_thin_legs_and_bushy_tails.mp3",
+     "image": "img/raz-d-all_about_foxes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_all_about_foxes-p5",
+     "type": "sentence",
+     "en": "Foxes have fur.",
+     "zh": "狐狸有毛。",
+     "audio": "audio/all/7112_foxes_have_fur.mp3",
+     "slow": "audio/all/7112_foxes_have_fur.mp3",
+     "image": "img/raz-d-all_about_foxes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_all_about_foxes-p6",
+     "type": "sentence",
+     "en": "Their fur can be different colors.",
+     "zh": "它们的毛可以有不同颜色。",
+     "audio": "audio/all/7113_their_fur_can_be_different_colors.mp3",
+     "slow": "audio/all/7113_their_fur_can_be_different_colors.mp3",
+     "image": "img/raz-d-all_about_foxes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_all_about_foxes-p7",
+     "type": "sentence",
+     "en": "Foxes have fur.",
+     "zh": "狐狸有毛。",
+     "audio": "audio/all/7114_foxes_have_fur.mp3",
+     "slow": "audio/all/7114_foxes_have_fur.mp3",
+     "image": "img/raz-d-all_about_foxes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_all_about_foxes-p8",
+     "type": "sentence",
+     "en": "They have short fur in summer.",
+     "zh": "夏天它们的毛短。",
+     "audio": "audio/all/7115_they_have_short_fur_in_summer.mp3",
+     "slow": "audio/all/7115_they_have_short_fur_in_summer.mp3",
+     "image": "img/raz-d-all_about_foxes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_all_about_foxes-p9",
+     "type": "sentence",
+     "en": "Foxes have fur.",
+     "zh": "狐狸有毛。",
+     "audio": "audio/all/7116_foxes_have_fur.mp3",
+     "slow": "audio/all/7116_foxes_have_fur.mp3",
+     "image": "img/raz-d-all_about_foxes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_all_about_foxes-p10",
+     "type": "sentence",
+     "en": "They have long fur in winter.",
+     "zh": "冬天它们的毛长。",
+     "audio": "audio/all/7117_they_have_long_fur_in_winter.mp3",
+     "slow": "audio/all/7117_they_have_long_fur_in_winter.mp3",
+     "image": "img/raz-d-all_about_foxes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_all_about_foxes-p11",
+     "type": "sentence",
+     "en": "Foxes have fur.",
+     "zh": "狐狸有毛。",
+     "audio": "audio/all/7118_foxes_have_fur.mp3",
+     "slow": "audio/all/7118_foxes_have_fur.mp3",
+     "image": "img/raz-d-all_about_foxes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_all_about_foxes-p12",
+     "type": "sentence",
+     "en": "They lose their old fur each spring.",
+     "zh": "每年春天它们换掉旧毛。",
+     "audio": "audio/all/7119_they_lose_their_old_fur_each_spring.mp3",
+     "slow": "audio/all/7119_they_lose_their_old_fur_each_spring.mp3",
+     "image": "img/raz-d-all_about_foxes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_all_about_foxes-p13",
+     "type": "sentence",
+     "en": "Foxes are hunters.",
+     "zh": "狐狸是猎手。",
+     "audio": "audio/all/7120_foxes_are_hunters.mp3",
+     "slow": "audio/all/7120_foxes_are_hunters.mp3",
+     "image": "img/raz-d-all_about_foxes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_all_about_foxes-p14",
+     "type": "sentence",
+     "en": "They hunt small animals.",
+     "zh": "它们捕猎小动物。",
+     "audio": "audio/all/7121_they_hunt_small_animals.mp3",
+     "slow": "audio/all/7121_they_hunt_small_animals.mp3",
+     "image": "img/raz-d-all_about_foxes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_all_about_foxes-p15",
+     "type": "sentence",
+     "en": "Foxes are hunters.",
+     "zh": "狐狸是猎手。",
+     "audio": "audio/all/7122_foxes_are_hunters.mp3",
+     "slow": "audio/all/7122_foxes_are_hunters.mp3",
+     "image": "img/raz-d-all_about_foxes-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_all_about_foxes-p16",
+     "type": "sentence",
+     "en": "They hunt mostly at night.",
+     "zh": "它们大多在夜间捕猎。",
+     "audio": "audio/all/7123_they_hunt_mostly_at_night.mp3",
+     "slow": "audio/all/7123_they_hunt_mostly_at_night.mp3",
+     "image": "img/raz-d-all_about_foxes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

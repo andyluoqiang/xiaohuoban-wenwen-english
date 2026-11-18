@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_thats_a_fruit",
+ "nameZh": "那是水果？",
+ "bookTitle": "That's a Fruit?",
+ "razLevel": "C",
+ "order": 57,
+ "cover": "img/raz-c-thats_a_fruit-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_thats_a_fruit-u1",
+   "band": 2,
+   "title": "That's a Fruit? · 那是水果？",
+   "cards": [
+    {
+     "id": "raz_c_thats_a_fruit-p1",
+     "type": "sentence",
+     "en": "All fruits have seeds.",
+     "zh": "所有水果都有籽。",
+     "audio": "audio/all/6630_all_fruits_have_seeds.mp3",
+     "slow": "audio/all/6630_all_fruits_have_seeds.mp3",
+     "image": "img/raz-c-thats_a_fruit-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p2",
+     "type": "sentence",
+     "en": "Some fruits may surprise you.",
+     "zh": "有些水果可能让你意外。",
+     "audio": "audio/all/6631_some_fruits_may_surprise_you.mp3",
+     "slow": "audio/all/6631_some_fruits_may_surprise_you.mp3",
+     "image": "img/raz-c-thats_a_fruit-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p3",
+     "type": "sentence",
+     "en": "An avocado is a fruit.",
+     "zh": "牛油果是水果。",
+     "audio": "audio/all/6632_an_avocado_is_a_fruit.mp3",
+     "slow": "audio/all/6632_an_avocado_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p4",
+     "type": "sentence",
+     "en": "A tomato is a fruit.",
+     "zh": "番茄是水果。",
+     "audio": "audio/all/6633_a_tomato_is_a_fruit.mp3",
+     "slow": "audio/all/6633_a_tomato_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p5",
+     "type": "sentence",
+     "en": "A cucumber is a fruit.",
+     "zh": "黄瓜是水果。",
+     "audio": "audio/all/6634_a_cucumber_is_a_fruit.mp3",
+     "slow": "audio/all/6634_a_cucumber_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p6",
+     "type": "sentence",
+     "en": "A pepper is a fruit.",
+     "zh": "辣椒是水果。",
+     "audio": "audio/all/6635_a_pepper_is_a_fruit.mp3",
+     "slow": "audio/all/6635_a_pepper_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p7",
+     "type": "sentence",
+     "en": "A pumpkin is a fruit.",
+     "zh": "南瓜是水果。",
+     "audio": "audio/all/6636_a_pumpkin_is_a_fruit.mp3",
+     "slow": "audio/all/6636_a_pumpkin_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p8",
+     "type": "sentence",
+     "en": "An eggplant is a fruit.",
+     "zh": "茄子是水果。",
+     "audio": "audio/all/6637_an_eggplant_is_a_fruit.mp3",
+     "slow": "audio/all/6637_an_eggplant_is_a_fruit.mp3",
+     "image": "img/raz-c-thats_a_fruit-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_thats_a_fruit-p9",
+     "type": "sentence",
+     "en": "Can you name some other surprising fruits?",
+     "zh": "你还能说出其他让人意外的水果吗？",
+     "audio": "audio/all/6638_can_you_name_some_other_surprising_fru.mp3",
+     "slow": "audio/all/6638_can_you_name_some_other_surprising_fru.mp3",
+     "image": "img/raz-c-thats_a_fruit-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

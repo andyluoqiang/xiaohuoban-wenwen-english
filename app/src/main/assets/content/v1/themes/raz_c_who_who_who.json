@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_who_who_who",
+ "nameZh": "谁，谁，谁？",
+ "bookTitle": "Who, Who, Who?",
+ "razLevel": "C",
+ "order": 84,
+ "cover": "img/raz-c-who_who_who-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_who_who_who-u1",
+   "band": 2,
+   "title": "Who, Who, Who? · 谁，谁，谁？",
+   "cards": [
+    {
+     "id": "raz_c_who_who_who-p1",
+     "type": "sentence",
+     "en": "Who? said the little owl.",
+     "zh": "谁？小猫头鹰说。",
+     "audio": "audio/all/6941_who_said_the_little_owl.mp3",
+     "slow": "audio/all/6941_who_said_the_little_owl.mp3",
+     "image": "img/raz-c-who_who_who-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_who_who-p2",
+     "type": "sentence",
+     "en": "Who wants to fly with me?",
+     "zh": "谁想和我一起飞？",
+     "audio": "audio/all/6942_who_wants_to_fly_with_me.mp3",
+     "slow": "audio/all/6942_who_wants_to_fly_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_who_who-p3",
+     "type": "sentence",
+     "en": "Who wants to hunt with me?",
+     "zh": "谁想和我一起捕猎？",
+     "audio": "audio/all/6943_who_wants_to_hunt_with_me.mp3",
+     "slow": "audio/all/6943_who_wants_to_hunt_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_who_who-p4",
+     "type": "sentence",
+     "en": "Who wants to play with me?",
+     "zh": "谁想和我一起玩？",
+     "audio": "audio/all/6944_who_wants_to_play_with_me.mp3",
+     "slow": "audio/all/6944_who_wants_to_play_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_who_who_who-p5",
+     "type": "sentence",
+     "en": "Who wants to read with me?",
+     "zh": "谁想和我一起读书？",
+     "audio": "audio/all/6945_who_wants_to_read_with_me.mp3",
+     "slow": "audio/all/6945_who_wants_to_read_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_who_who_who-p6",
+     "type": "sentence",
+     "en": "Who wants to sing with me?",
+     "zh": "谁想和我一起唱歌？",
+     "audio": "audio/all/6946_who_wants_to_sing_with_me.mp3",
+     "slow": "audio/all/6946_who_wants_to_sing_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_who_who_who-p7",
+     "type": "sentence",
+     "en": "Who wants to eat with me?",
+     "zh": "谁想和我一起吃饭？",
+     "audio": "audio/all/6947_who_wants_to_eat_with_me.mp3",
+     "slow": "audio/all/6947_who_wants_to_eat_with_me.mp3",
+     "image": "img/raz-c-who_who_who-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_who_who_who-p8",
+     "type": "sentence",
+     "en": "I do, said the big alligator.",
+     "zh": "我，大鳄鱼说。",
+     "audio": "audio/all/6948_i_do_said_the_big_alligator.mp3",
+     "slow": "audio/all/6948_i_do_said_the_big_alligator.mp3",
+     "image": "img/raz-c-who_who_who-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_who_who_who-p9",
+     "type": "sentence",
+     "en": "No way, said the little owl.",
+     "zh": "不行，小猫头鹰说。",
+     "audio": "audio/all/6949_no_way_said_the_little_owl.mp3",
+     "slow": "audio/all/6949_no_way_said_the_little_owl.mp3",
+     "image": "img/raz-c-who_who_who-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

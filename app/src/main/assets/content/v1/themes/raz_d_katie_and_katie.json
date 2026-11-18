@@ -1,0 +1,167 @@
+{
+ "theme": "raz_d_katie_and_katie",
+ "nameZh": "凯蒂和凯蒂",
+ "bookTitle": "Katie and Katie",
+ "razLevel": "D",
+ "order": 37,
+ "cover": "img/raz-d-katie_and_katie-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_katie_and_katie-u1",
+   "band": 2,
+   "title": "Katie and Katie · 凯蒂和凯蒂",
+   "cards": [
+    {
+     "id": "raz_d_katie_and_katie-p1",
+     "type": "sentence",
+     "en": "Katie loved school!",
+     "zh": "凯蒂热爱学校！",
+     "audio": "audio/all/7596_katie_loved_school.mp3",
+     "slow": "audio/all/7596_katie_loved_school.mp3",
+     "image": "img/raz-d-katie_and_katie-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_katie_and_katie-p2",
+     "type": "sentence",
+     "en": "Then a new student joined Katie's class.",
+     "zh": "后来一个新同学加入了凯蒂的班。",
+     "audio": "audio/all/7597_then_a_new_student_joined_katie_s_clas.mp3",
+     "slow": "audio/all/7597_then_a_new_student_joined_katie_s_clas.mp3",
+     "image": "img/raz-d-katie_and_katie-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_katie_and_katie-p3",
+     "type": "sentence",
+     "en": "Her name was Katie, too!",
+     "zh": "她的名字也叫凯蒂！",
+     "audio": "audio/all/7598_her_name_was_katie_too.mp3",
+     "slow": "audio/all/7598_her_name_was_katie_too.mp3",
+     "image": "img/raz-d-katie_and_katie-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_katie_and_katie-p4",
+     "type": "sentence",
+     "en": "The teacher said, Katie, your turn to read.",
+     "zh": "老师说，凯蒂，轮到你读了。",
+     "audio": "audio/all/7599_the_teacher_said_katie_your_turn_to_re.mp3",
+     "slow": "audio/all/7599_the_teacher_said_katie_your_turn_to_re.mp3",
+     "image": "img/raz-d-katie_and_katie-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_katie_and_katie-p5",
+     "type": "sentence",
+     "en": "Both Katies read.",
+     "zh": "两个凯蒂都读了。",
+     "audio": "audio/all/7600_both_katies_read.mp3",
+     "slow": "audio/all/7600_both_katies_read.mp3",
+     "image": "img/raz-d-katie_and_katie-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_katie_and_katie-p6",
+     "type": "sentence",
+     "en": "Melissa said, Katie, your turn to jump.",
+     "zh": "梅丽莎说，凯蒂，轮到你跳了。",
+     "audio": "audio/all/7601_melissa_said_katie_your_turn_to_jump.mp3",
+     "slow": "audio/all/7601_melissa_said_katie_your_turn_to_jump.mp3",
+     "image": "img/raz-d-katie_and_katie-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_katie_and_katie-p7",
+     "type": "sentence",
+     "en": "Both Katies jumped.",
+     "zh": "两个凯蒂都跳了。",
+     "audio": "audio/all/7602_both_katies_jumped.mp3",
+     "slow": "audio/all/7602_both_katies_jumped.mp3",
+     "image": "img/raz-d-katie_and_katie-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_katie_and_katie-p8",
+     "type": "sentence",
+     "en": "Billy said, Katie, your turn to lead.",
+     "zh": "比利说，凯蒂，轮到你领队了。",
+     "audio": "audio/all/7603_billy_said_katie_your_turn_to_lead.mp3",
+     "slow": "audio/all/7603_billy_said_katie_your_turn_to_lead.mp3",
+     "image": "img/raz-d-katie_and_katie-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_katie_and_katie-p9",
+     "type": "sentence",
+     "en": "Both Katies led.",
+     "zh": "两个凯蒂都领队了。",
+     "audio": "audio/all/7604_both_katies_led.mp3",
+     "slow": "audio/all/7604_both_katies_led.mp3",
+     "image": "img/raz-d-katie_and_katie-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_katie_and_katie-p10",
+     "type": "sentence",
+     "en": "I'm Katie, said Katie.",
+     "zh": "我是凯蒂，一个凯蒂说。",
+     "audio": "audio/all/7605_i_m_katie_said_katie.mp3",
+     "slow": "audio/all/7605_i_m_katie_said_katie.mp3",
+     "image": "img/raz-d-katie_and_katie-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_katie_and_katie-p11",
+     "type": "sentence",
+     "en": "No, I'm Katie, said Katie.",
+     "zh": "不，我才是凯蒂，另一个凯蒂说。",
+     "audio": "audio/all/7606_no_i_m_katie_said_katie.mp3",
+     "slow": "audio/all/7606_no_i_m_katie_said_katie.mp3",
+     "image": "img/raz-d-katie_and_katie-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_katie_and_katie-p12",
+     "type": "sentence",
+     "en": "The class asked, What are you going to do?",
+     "zh": "全班问，你们打算怎么办呢？",
+     "audio": "audio/all/7607_the_class_asked_what_are_you_going_to_.mp3",
+     "slow": "audio/all/7607_the_class_asked_what_are_you_going_to_.mp3",
+     "image": "img/raz-d-katie_and_katie-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_katie_and_katie-p13",
+     "type": "sentence",
+     "en": "I'll be Kate! said Kate.",
+     "zh": "我叫凯特！凯特说。",
+     "audio": "audio/all/7608_i_ll_be_kate_said_kate.mp3",
+     "slow": "audio/all/7608_i_ll_be_kate_said_kate.mp3",
+     "image": "img/raz-d-katie_and_katie-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_katie_and_katie-p14",
+     "type": "sentence",
+     "en": "I'll be Kat! said Kat.",
+     "zh": "我叫凯特（Kat）！凯特说。",
+     "audio": "audio/all/7609_i_ll_be_kat_said_kat.mp3",
+     "slow": "audio/all/7609_i_ll_be_kat_said_kat.mp3",
+     "image": "img/raz-d-katie_and_katie-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_katie_and_katie-p15",
+     "type": "sentence",
+     "en": "That's a great idea! the class said.",
+     "zh": "这主意真棒！全班说。",
+     "audio": "audio/all/7610_that_s_a_great_idea_the_class_said.mp3",
+     "slow": "audio/all/7610_that_s_a_great_idea_the_class_said.mp3",
+     "image": "img/raz-d-katie_and_katie-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

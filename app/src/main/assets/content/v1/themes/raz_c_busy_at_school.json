@@ -1,0 +1,127 @@
+{
+ "theme": "raz_c_busy_at_school",
+ "nameZh": "学校里真忙",
+ "bookTitle": "Busy at School",
+ "razLevel": "C",
+ "order": 10,
+ "cover": "img/raz-c-busy_at_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_busy_at_school-u1",
+   "band": 2,
+   "title": "Busy at School · 学校里真忙",
+   "cards": [
+    {
+     "id": "raz_c_busy_at_school-p1",
+     "type": "sentence",
+     "en": "The children are busy at school.",
+     "zh": "孩子们在学校里真忙。",
+     "audio": "audio/all/6101_the_children_are_busy_at_school.mp3",
+     "slow": "audio/all/6101_the_children_are_busy_at_school.mp3",
+     "image": "img/raz-c-busy_at_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_busy_at_school-p2",
+     "type": "sentence",
+     "en": "They sing a song.",
+     "zh": "他们唱歌。",
+     "audio": "audio/all/6102_they_sing_a_song.mp3",
+     "slow": "audio/all/6102_they_sing_a_song.mp3",
+     "image": "img/raz-c-busy_at_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_busy_at_school-p3",
+     "type": "sentence",
+     "en": "They paint a picture.",
+     "zh": "他们画画。",
+     "audio": "audio/all/6103_they_paint_a_picture.mp3",
+     "slow": "audio/all/6103_they_paint_a_picture.mp3",
+     "image": "img/raz-c-busy_at_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_busy_at_school-p4",
+     "type": "sentence",
+     "en": "They play a game.",
+     "zh": "他们玩游戏。",
+     "audio": "audio/all/6104_they_play_a_game.mp3",
+     "slow": "audio/all/6104_they_play_a_game.mp3",
+     "image": "img/raz-c-busy_at_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_busy_at_school-p5",
+     "type": "sentence",
+     "en": "They listen to a story.",
+     "zh": "他们听故事。",
+     "audio": "audio/all/6105_they_listen_to_a_story.mp3",
+     "slow": "audio/all/6105_they_listen_to_a_story.mp3",
+     "image": "img/raz-c-busy_at_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_busy_at_school-p6",
+     "type": "sentence",
+     "en": "They eat snacks.",
+     "zh": "他们吃点心。",
+     "audio": "audio/all/6106_they_eat_snacks.mp3",
+     "slow": "audio/all/6106_they_eat_snacks.mp3",
+     "image": "img/raz-c-busy_at_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_busy_at_school-p7",
+     "type": "sentence",
+     "en": "They share toys.",
+     "zh": "他们分享玩具。",
+     "audio": "audio/all/6107_they_share_toys.mp3",
+     "slow": "audio/all/6107_they_share_toys.mp3",
+     "image": "img/raz-c-busy_at_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_busy_at_school-p8",
+     "type": "sentence",
+     "en": "They count numbers.",
+     "zh": "他们数数。",
+     "audio": "audio/all/6108_they_count_numbers.mp3",
+     "slow": "audio/all/6108_they_count_numbers.mp3",
+     "image": "img/raz-c-busy_at_school-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_busy_at_school-p9",
+     "type": "sentence",
+     "en": "They write the ABCs.",
+     "zh": "他们写字母。",
+     "audio": "audio/all/6109_they_write_the_abcs.mp3",
+     "slow": "audio/all/6109_they_write_the_abcs.mp3",
+     "image": "img/raz-c-busy_at_school-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_c_busy_at_school-p10",
+     "type": "sentence",
+     "en": "The children are busy at school.",
+     "zh": "孩子们在学校里真忙。",
+     "audio": "audio/all/6110_the_children_are_busy_at_school.mp3",
+     "slow": "audio/all/6110_the_children_are_busy_at_school.mp3",
+     "image": "img/raz-c-busy_at_school-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_c_busy_at_school-p11",
+     "type": "sentence",
+     "en": "What other things do they do?",
+     "zh": "他们还做些什么呢？",
+     "audio": "audio/all/6111_what_other_things_do_they_do.mp3",
+     "slow": "audio/all/6111_what_other_things_do_they_do.mp3",
+     "image": "img/raz-c-busy_at_school-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

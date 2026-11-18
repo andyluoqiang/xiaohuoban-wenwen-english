@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_going_places",
+ "nameZh": "出行方式",
+ "bookTitle": "Going Places",
+ "razLevel": "A",
+ "order": 20,
+ "cover": "img/raz-a-going_places-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_going_places-u1",
+   "band": 2,
+   "title": "Going Places · 出行方式",
+   "cards": [
+    {
+     "id": "raz_a_going_places-p1",
+     "type": "sentence",
+     "en": "You can go on a plane.",
+     "zh": "你可以坐飞机去。",
+     "audio": "audio/all/5256_you_can_go_on_a_plane.mp3",
+     "slow": "audio/all/5256_you_can_go_on_a_plane.mp3",
+     "image": "img/raz-a-going_places-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_going_places-p2",
+     "type": "sentence",
+     "en": "You can go on a train.",
+     "zh": "你可以坐火车去。",
+     "audio": "audio/all/5257_you_can_go_on_a_train.mp3",
+     "slow": "audio/all/5257_you_can_go_on_a_train.mp3",
+     "image": "img/raz-a-going_places-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_going_places-p3",
+     "type": "sentence",
+     "en": "You can go on a boat.",
+     "zh": "你可以坐船去。",
+     "audio": "audio/all/5258_you_can_go_on_a_boat.mp3",
+     "slow": "audio/all/5258_you_can_go_on_a_boat.mp3",
+     "image": "img/raz-a-going_places-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_going_places-p4",
+     "type": "sentence",
+     "en": "You can go in a car.",
+     "zh": "你可以坐汽车去。",
+     "audio": "audio/all/5259_you_can_go_in_a_car.mp3",
+     "slow": "audio/all/5259_you_can_go_in_a_car.mp3",
+     "image": "img/raz-a-going_places-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_going_places-p5",
+     "type": "sentence",
+     "en": "You can go in a bus.",
+     "zh": "你可以坐公共汽车去。",
+     "audio": "audio/all/5260_you_can_go_in_a_bus.mp3",
+     "slow": "audio/all/5260_you_can_go_in_a_bus.mp3",
+     "image": "img/raz-a-going_places-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_going_places-p6",
+     "type": "sentence",
+     "en": "You can go on a bike.",
+     "zh": "你可以骑自行车去。",
+     "audio": "audio/all/5261_you_can_go_on_a_bike.mp3",
+     "slow": "audio/all/5261_you_can_go_on_a_bike.mp3",
+     "image": "img/raz-a-going_places-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_going_places-p7",
+     "type": "sentence",
+     "en": "You can go on a skateboard.",
+     "zh": "你可以踩滑板去。",
+     "audio": "audio/all/5262_you_can_go_on_a_skateboard.mp3",
+     "slow": "audio/all/5262_you_can_go_on_a_skateboard.mp3",
+     "image": "img/raz-a-going_places-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_going_places-p8",
+     "type": "sentence",
+     "en": "You can go on a horse.",
+     "zh": "你可以骑马去。",
+     "audio": "audio/all/5263_you_can_go_on_a_horse.mp3",
+     "slow": "audio/all/5263_you_can_go_on_a_horse.mp3",
+     "image": "img/raz-a-going_places-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

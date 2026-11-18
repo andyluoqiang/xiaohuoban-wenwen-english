@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_the_moon",
+ "nameZh": "月亮",
+ "bookTitle": "The Moon",
+ "razLevel": "C",
+ "order": 61,
+ "cover": "img/raz-c-the_moon-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_the_moon-u1",
+   "band": 2,
+   "title": "The Moon · 月亮",
+   "cards": [
+    {
+     "id": "raz_c_the_moon-p1",
+     "type": "sentence",
+     "en": "The Moon looks different over time.",
+     "zh": "月亮随时间看起来不同。",
+     "audio": "audio/all/6673_the_moon_looks_different_over_time.mp3",
+     "slow": "audio/all/6673_the_moon_looks_different_over_time.mp3",
+     "image": "img/raz-c-the_moon-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_moon-p2",
+     "type": "sentence",
+     "en": "The changes happen in a cycle.",
+     "zh": "这些变化循环发生。",
+     "audio": "audio/all/6674_the_changes_happen_in_a_cycle.mp3",
+     "slow": "audio/all/6674_the_changes_happen_in_a_cycle.mp3",
+     "image": "img/raz-c-the_moon-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_moon-p3",
+     "type": "sentence",
+     "en": "The Moon is dark tonight.",
+     "zh": "今晚月亮是暗的。",
+     "audio": "audio/all/6675_the_moon_is_dark_tonight.mp3",
+     "slow": "audio/all/6675_the_moon_is_dark_tonight.mp3",
+     "image": "img/raz-c-the_moon-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_moon-p4",
+     "type": "sentence",
+     "en": "The Moon is thin tonight.",
+     "zh": "今晚月亮是细细的。",
+     "audio": "audio/all/6676_the_moon_is_thin_tonight.mp3",
+     "slow": "audio/all/6676_the_moon_is_thin_tonight.mp3",
+     "image": "img/raz-c-the_moon-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_moon-p5",
+     "type": "sentence",
+     "en": "The Moon is half full tonight.",
+     "zh": "今晚月亮是半圆的。",
+     "audio": "audio/all/6677_the_moon_is_half_full_tonight.mp3",
+     "slow": "audio/all/6677_the_moon_is_half_full_tonight.mp3",
+     "image": "img/raz-c-the_moon-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_moon-p6",
+     "type": "sentence",
+     "en": "The Moon is full tonight.",
+     "zh": "今晚月亮是满圆的。",
+     "audio": "audio/all/6678_the_moon_is_full_tonight.mp3",
+     "slow": "audio/all/6678_the_moon_is_full_tonight.mp3",
+     "image": "img/raz-c-the_moon-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_moon-p7",
+     "type": "sentence",
+     "en": "The Moon is half full tonight.",
+     "zh": "今晚月亮是半圆的。",
+     "audio": "audio/all/6679_the_moon_is_half_full_tonight.mp3",
+     "slow": "audio/all/6679_the_moon_is_half_full_tonight.mp3",
+     "image": "img/raz-c-the_moon-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_moon-p8",
+     "type": "sentence",
+     "en": "The Moon is thin tonight.",
+     "zh": "今晚月亮是细细的。",
+     "audio": "audio/all/6680_the_moon_is_thin_tonight.mp3",
+     "slow": "audio/all/6680_the_moon_is_thin_tonight.mp3",
+     "image": "img/raz-c-the_moon-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_moon-p9",
+     "type": "sentence",
+     "en": "The Moon is dark tonight.",
+     "zh": "今晚月亮是暗的。",
+     "audio": "audio/all/6681_the_moon_is_dark_tonight.mp3",
+     "slow": "audio/all/6681_the_moon_is_dark_tonight.mp3",
+     "image": "img/raz-c-the_moon-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_the_moon-p10",
+     "type": "sentence",
+     "en": "The cycle starts over again.",
+     "zh": "循环又重新开始。",
+     "audio": "audio/all/6682_the_cycle_starts_over_again.mp3",
+     "slow": "audio/all/6682_the_cycle_starts_over_again.mp3",
+     "image": "img/raz-c-the_moon-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

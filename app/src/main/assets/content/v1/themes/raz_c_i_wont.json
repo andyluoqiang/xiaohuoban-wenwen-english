@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_i_wont",
+ "nameZh": "我不要",
+ "bookTitle": "I Won't",
+ "razLevel": "C",
+ "order": 26,
+ "cover": "img/raz-c-i_wont-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_i_wont-u1",
+   "band": 2,
+   "title": "I Won't · 我不要",
+   "cards": [
+    {
+     "id": "raz_c_i_wont-p1",
+     "type": "sentence",
+     "en": "Will you read me a scary book?",
+     "zh": "你给我读一本吓人的书好吗？",
+     "audio": "audio/all/6305_will_you_read_me_a_scary_book.mp3",
+     "slow": "audio/all/6305_will_you_read_me_a_scary_book.mp3",
+     "image": "img/raz-c-i_wont-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_wont-p2",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6306_no_i_won_t.mp3",
+     "slow": "audio/all/6306_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_i_wont-p3",
+     "type": "sentence",
+     "en": "Will you make me a scary mask?",
+     "zh": "你给我做一个吓人的面具好吗？",
+     "audio": "audio/all/6307_will_you_make_me_a_scary_mask.mp3",
+     "slow": "audio/all/6307_will_you_make_me_a_scary_mask.mp3",
+     "image": "img/raz-c-i_wont-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_wont-p4",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6308_no_i_won_t.mp3",
+     "slow": "audio/all/6308_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_i_wont-p5",
+     "type": "sentence",
+     "en": "Will you sing me a scary song?",
+     "zh": "你给我唱一首吓人的歌好吗？",
+     "audio": "audio/all/6309_will_you_sing_me_a_scary_song.mp3",
+     "slow": "audio/all/6309_will_you_sing_me_a_scary_song.mp3",
+     "image": "img/raz-c-i_wont-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_i_wont-p6",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6310_no_i_won_t.mp3",
+     "slow": "audio/all/6310_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_i_wont-p7",
+     "type": "sentence",
+     "en": "Will you draw me a scary picture?",
+     "zh": "你给我画一幅吓人的画好吗？",
+     "audio": "audio/all/6311_will_you_draw_me_a_scary_picture.mp3",
+     "slow": "audio/all/6311_will_you_draw_me_a_scary_picture.mp3",
+     "image": "img/raz-c-i_wont-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_wont-p8",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6312_no_i_won_t.mp3",
+     "slow": "audio/all/6312_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_i_wont-p9",
+     "type": "sentence",
+     "en": "Will you make scary sounds?",
+     "zh": "你发出吓人的声音好吗？",
+     "audio": "audio/all/6313_will_you_make_scary_sounds.mp3",
+     "slow": "audio/all/6313_will_you_make_scary_sounds.mp3",
+     "image": "img/raz-c-i_wont-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_i_wont-p10",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6314_no_i_won_t.mp3",
+     "slow": "audio/all/6314_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_i_wont-p11",
+     "type": "sentence",
+     "en": "Will you tell me a scary story?",
+     "zh": "你给我讲一个吓人的故事好吗？",
+     "audio": "audio/all/6315_will_you_tell_me_a_scary_story.mp3",
+     "slow": "audio/all/6315_will_you_tell_me_a_scary_story.mp3",
+     "image": "img/raz-c-i_wont-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_wont-p12",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6316_no_i_won_t.mp3",
+     "slow": "audio/all/6316_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_i_wont-p13",
+     "type": "sentence",
+     "en": "Will you watch a scary show with me?",
+     "zh": "你陪我看吓人的节目好吗？",
+     "audio": "audio/all/6317_will_you_watch_a_scary_show_with_me.mp3",
+     "slow": "audio/all/6317_will_you_watch_a_scary_show_with_me.mp3",
+     "image": "img/raz-c-i_wont-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_i_wont-p14",
+     "type": "sentence",
+     "en": "No, I won't.",
+     "zh": "不，我不要。",
+     "audio": "audio/all/6318_no_i_won_t.mp3",
+     "slow": "audio/all/6318_no_i_won_t.mp3",
+     "image": "img/raz-c-i_wont-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_i_wont-p15",
+     "type": "sentence",
+     "en": "Will you help me scare Mom?",
+     "zh": "你帮我吓唬妈妈好吗？",
+     "audio": "audio/all/6319_will_you_help_me_scare_mom.mp3",
+     "slow": "audio/all/6319_will_you_help_me_scare_mom.mp3",
+     "image": "img/raz-c-i_wont-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_i_wont-p16",
+     "type": "sentence",
+     "en": "Yes, I will!",
+     "zh": "好，我要！",
+     "audio": "audio/all/6320_yes_i_will.mp3",
+     "slow": "audio/all/6320_yes_i_will.mp3",
+     "image": "img/raz-c-i_wont-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_you_can_dance",
+ "nameZh": "你会跳舞",
+ "bookTitle": "You Can Dance",
+ "razLevel": "A",
+ "order": 85,
+ "cover": "img/raz-a-you_can_dance-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_you_can_dance-u1",
+   "band": 2,
+   "title": "You Can Dance · 你会跳舞",
+   "cards": [
+    {
+     "id": "raz_a_you_can_dance-p1",
+     "type": "sentence",
+     "en": "You can hop.",
+     "zh": "你会单脚跳。",
+     "audio": "audio/all/5777_you_can_hop.mp3",
+     "slow": "audio/all/5777_you_can_hop.mp3",
+     "image": "img/raz-a-you_can_dance-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_you_can_dance-p2",
+     "type": "sentence",
+     "en": "You can bend.",
+     "zh": "你会弯腰。",
+     "audio": "audio/all/5778_you_can_bend.mp3",
+     "slow": "audio/all/5778_you_can_bend.mp3",
+     "image": "img/raz-a-you_can_dance-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_you_can_dance-p3",
+     "type": "sentence",
+     "en": "You can step.",
+     "zh": "你会踏步。",
+     "audio": "audio/all/5779_you_can_step.mp3",
+     "slow": "audio/all/5779_you_can_step.mp3",
+     "image": "img/raz-a-you_can_dance-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_you_can_dance-p4",
+     "type": "sentence",
+     "en": "You can prance.",
+     "zh": "你会腾跃。",
+     "audio": "audio/all/5780_you_can_prance.mp3",
+     "slow": "audio/all/5780_you_can_prance.mp3",
+     "image": "img/raz-a-you_can_dance-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_you_can_dance-p5",
+     "type": "sentence",
+     "en": "You can skip.",
+     "zh": "你会蹦跳。",
+     "audio": "audio/all/5781_you_can_skip.mp3",
+     "slow": "audio/all/5781_you_can_skip.mp3",
+     "image": "img/raz-a-you_can_dance-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_you_can_dance-p6",
+     "type": "sentence",
+     "en": "You can leap.",
+     "zh": "你会飞跃。",
+     "audio": "audio/all/5782_you_can_leap.mp3",
+     "slow": "audio/all/5782_you_can_leap.mp3",
+     "image": "img/raz-a-you_can_dance-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_you_can_dance-p7",
+     "type": "sentence",
+     "en": "You can spin.",
+     "zh": "你会旋转。",
+     "audio": "audio/all/5783_you_can_spin.mp3",
+     "slow": "audio/all/5783_you_can_spin.mp3",
+     "image": "img/raz-a-you_can_dance-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_you_can_dance-p8",
+     "type": "sentence",
+     "en": "You can dance!",
+     "zh": "你会跳舞！",
+     "audio": "audio/all/5784_you_can_dance.mp3",
+     "slow": "audio/all/5784_you_can_dance.mp3",
+     "image": "img/raz-a-you_can_dance-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_space",
+ "nameZh": "太空",
+ "bookTitle": "Space",
+ "razLevel": "C",
+ "order": 50,
+ "cover": "img/raz-c-space-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_space-u1",
+   "band": 2,
+   "title": "Space · 太空",
+   "cards": [
+    {
+     "id": "raz_c_space-p1",
+     "type": "sentence",
+     "en": "In the day, you see the sky.",
+     "zh": "白天，你看到天空。",
+     "audio": "audio/all/6565_in_the_day_you_see_the_sky.mp3",
+     "slow": "audio/all/6565_in_the_day_you_see_the_sky.mp3",
+     "image": "img/raz-c-space-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_space-p2",
+     "type": "sentence",
+     "en": "In the night, you can see space.",
+     "zh": "夜晚，你能看到太空。",
+     "audio": "audio/all/6566_in_the_night_you_can_see_space.mp3",
+     "slow": "audio/all/6566_in_the_night_you_can_see_space.mp3",
+     "image": "img/raz-c-space-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_space-p3",
+     "type": "sentence",
+     "en": "The stars are in space.",
+     "zh": "星星在太空里。",
+     "audio": "audio/all/6567_the_stars_are_in_space.mp3",
+     "slow": "audio/all/6567_the_stars_are_in_space.mp3",
+     "image": "img/raz-c-space-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_space-p4",
+     "type": "sentence",
+     "en": "The Moon is in space.",
+     "zh": "月亮在太空里。",
+     "audio": "audio/all/6568_the_moon_is_in_space.mp3",
+     "slow": "audio/all/6568_the_moon_is_in_space.mp3",
+     "image": "img/raz-c-space-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_space-p5",
+     "type": "sentence",
+     "en": "Planets are in space.",
+     "zh": "行星在太空里。",
+     "audio": "audio/all/6569_planets_are_in_space.mp3",
+     "slow": "audio/all/6569_planets_are_in_space.mp3",
+     "image": "img/raz-c-space-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_space-p6",
+     "type": "sentence",
+     "en": "Comets are in space.",
+     "zh": "彗星在太空里。",
+     "audio": "audio/all/6570_comets_are_in_space.mp3",
+     "slow": "audio/all/6570_comets_are_in_space.mp3",
+     "image": "img/raz-c-space-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_space-p7",
+     "type": "sentence",
+     "en": "Satellites are in space.",
+     "zh": "卫星在太空里。",
+     "audio": "audio/all/6571_satellites_are_in_space.mp3",
+     "slow": "audio/all/6571_satellites_are_in_space.mp3",
+     "image": "img/raz-c-space-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_space-p8",
+     "type": "sentence",
+     "en": "What do you see in space?",
+     "zh": "你在太空里看到什么？",
+     "audio": "audio/all/6572_what_do_you_see_in_space.mp3",
+     "slow": "audio/all/6572_what_do_you_see_in_space.mp3",
+     "image": "img/raz-c-space-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

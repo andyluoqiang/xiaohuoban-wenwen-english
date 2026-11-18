@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_draw_a_bunny",
+ "nameZh": "我画一只兔子",
+ "bookTitle": "I Draw a Bunny",
+ "razLevel": "A",
+ "order": 29,
+ "cover": "img/raz-a-i_draw_a_bunny-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_draw_a_bunny-u1",
+   "band": 2,
+   "title": "I Draw a Bunny · 我画一只兔子",
+   "cards": [
+    {
+     "id": "raz_a_i_draw_a_bunny-p1",
+     "type": "sentence",
+     "en": "I draw the ears.",
+     "zh": "我画耳朵。",
+     "audio": "audio/all/5327_i_draw_the_ears.mp3",
+     "slow": "audio/all/5327_i_draw_the_ears.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p2",
+     "type": "sentence",
+     "en": "I draw the nose.",
+     "zh": "我画鼻子。",
+     "audio": "audio/all/5328_i_draw_the_nose.mp3",
+     "slow": "audio/all/5328_i_draw_the_nose.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p3",
+     "type": "sentence",
+     "en": "I draw the eyes.",
+     "zh": "我画眼睛。",
+     "audio": "audio/all/5329_i_draw_the_eyes.mp3",
+     "slow": "audio/all/5329_i_draw_the_eyes.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p4",
+     "type": "sentence",
+     "en": "I draw the body.",
+     "zh": "我画身体。",
+     "audio": "audio/all/5330_i_draw_the_body.mp3",
+     "slow": "audio/all/5330_i_draw_the_body.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p5",
+     "type": "sentence",
+     "en": "I draw the teeth.",
+     "zh": "我画牙齿。",
+     "audio": "audio/all/5331_i_draw_the_teeth.mp3",
+     "slow": "audio/all/5331_i_draw_the_teeth.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p6",
+     "type": "sentence",
+     "en": "I draw the feet.",
+     "zh": "我画脚。",
+     "audio": "audio/all/5332_i_draw_the_feet.mp3",
+     "slow": "audio/all/5332_i_draw_the_feet.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p7",
+     "type": "sentence",
+     "en": "I draw the tail.",
+     "zh": "我画尾巴。",
+     "audio": "audio/all/5333_i_draw_the_tail.mp3",
+     "slow": "audio/all/5333_i_draw_the_tail.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_draw_a_bunny-p8",
+     "type": "sentence",
+     "en": "I draw a bunny!",
+     "zh": "我画出一只兔子！",
+     "audio": "audio/all/5334_i_draw_a_bunny.mp3",
+     "slow": "audio/all/5334_i_draw_a_bunny.mp3",
+     "image": "img/raz-a-i_draw_a_bunny-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

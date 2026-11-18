@@ -1,0 +1,207 @@
+{
+ "theme": "raz_d_swamp_music",
+ "nameZh": "沼泽音乐会",
+ "bookTitle": "Swamp Music",
+ "razLevel": "D",
+ "order": 61,
+ "cover": "img/raz-d-swamp_music-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_swamp_music-u1",
+   "band": 2,
+   "title": "Swamp Music · 沼泽音乐会",
+   "cards": [
+    {
+     "id": "raz_d_swamp_music-p1",
+     "type": "sentence",
+     "en": "The swamp is too quiet, said Ben Bear.",
+     "zh": "“沼泽太安静了。”大熊本说。",
+     "audio": "audio/all/7938_the_swamp_is_too_quiet_said_ben_bear.mp3",
+     "slow": "audio/all/7938_the_swamp_is_too_quiet_said_ben_bear.mp3",
+     "image": "img/raz-d-swamp_music-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_swamp_music-p2",
+     "type": "sentence",
+     "en": "We need more fun.",
+     "zh": "“我们需要更多乐趣。”",
+     "audio": "audio/all/7939_we_need_more_fun.mp3",
+     "slow": "audio/all/7939_we_need_more_fun.mp3",
+     "image": "img/raz-d-swamp_music-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_swamp_music-p3",
+     "type": "sentence",
+     "en": "A band would be fun, said Snap the crayfish.",
+     "zh": "“组个乐队会很有意思。”小龙虾斯纳普说。",
+     "audio": "audio/all/7940_a_band_would_be_fun_said_snap_the_cray.mp3",
+     "slow": "audio/all/7940_a_band_would_be_fun_said_snap_the_cray.mp3",
+     "image": "img/raz-d-swamp_music-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_swamp_music-p4",
+     "type": "sentence",
+     "en": "A band! Gabby Grasshopper said.",
+     "zh": "“乐队！”蚱蜢加比说。",
+     "audio": "audio/all/7941_a_band_gabby_grasshopper_said.mp3",
+     "slow": "audio/all/7941_a_band_gabby_grasshopper_said.mp3",
+     "image": "img/raz-d-swamp_music-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_swamp_music-p5",
+     "type": "sentence",
+     "en": "What can we play?",
+     "zh": "“我们能演奏什么呢？”",
+     "audio": "audio/all/7942_what_can_we_play.mp3",
+     "slow": "audio/all/7942_what_can_we_play.mp3",
+     "image": "img/raz-d-swamp_music-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_swamp_music-p6",
+     "type": "sentence",
+     "en": "I could snap my claws like this, said Snap.",
+     "zh": "“我可以这样夹我的钳子。”斯纳普说。",
+     "audio": "audio/all/7943_i_could_snap_my_claws_like_this_said_s.mp3",
+     "slow": "audio/all/7943_i_could_snap_my_claws_like_this_said_s.mp3",
+     "image": "img/raz-d-swamp_music-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_swamp_music-p7",
+     "type": "sentence",
+     "en": "Snap-snap, snap-snap.",
+     "zh": "咔咔，咔咔。",
+     "audio": "audio/all/7944_snap_snap_snap_snap.mp3",
+     "slow": "audio/all/7944_snap_snap_snap_snap.mp3",
+     "image": "img/raz-d-swamp_music-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_swamp_music-p8",
+     "type": "sentence",
+     "en": "I can play my belly. said Ben.",
+     "zh": "“我可以敲我的肚子。”本说。",
+     "audio": "audio/all/7945_i_can_play_my_belly_said_ben.mp3",
+     "slow": "audio/all/7945_i_can_play_my_belly_said_ben.mp3",
+     "image": "img/raz-d-swamp_music-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_swamp_music-p9",
+     "type": "sentence",
+     "en": "It can go boom-boom.",
+     "zh": "“它会咚咚响。”",
+     "audio": "audio/all/7946_it_can_go_boom_boom.mp3",
+     "slow": "audio/all/7946_it_can_go_boom_boom.mp3",
+     "image": "img/raz-d-swamp_music-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_swamp_music-p10",
+     "type": "sentence",
+     "en": "I can play my legs. said Gabby.",
+     "zh": "“我可以弹奏我的腿。”加比说。",
+     "audio": "audio/all/7947_i_can_play_my_legs_said_gabby.mp3",
+     "slow": "audio/all/7947_i_can_play_my_legs_said_gabby.mp3",
+     "image": "img/raz-d-swamp_music-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_swamp_music-p11",
+     "type": "sentence",
+     "en": "They can zing-zing-zing.",
+     "zh": "“它们能发出叮叮叮。”",
+     "audio": "audio/all/7948_they_can_zing_zing_zing.mp3",
+     "slow": "audio/all/7948_they_can_zing_zing_zing.mp3",
+     "image": "img/raz-d-swamp_music-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_swamp_music-p12",
+     "type": "sentence",
+     "en": "I can go sisssss with my tongue! said Sissy Snake.",
+     "zh": "“我可以用舌头发出嘶嘶声！”小蛇茜茜说。",
+     "audio": "audio/all/7949_i_can_go_sisssss_with_my_tongue_said_s.mp3",
+     "slow": "audio/all/7949_i_can_go_sisssss_with_my_tongue_said_s.mp3",
+     "image": "img/raz-d-swamp_music-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_swamp_music-p13",
+     "type": "sentence",
+     "en": "Then we can make music! said Gabby.",
+     "zh": "“那我们就能演奏音乐了！”加比说。",
+     "audio": "audio/all/7950_then_we_can_make_music_said_gabby.mp3",
+     "slow": "audio/all/7950_then_we_can_make_music_said_gabby.mp3",
+     "image": "img/raz-d-swamp_music-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_swamp_music-p14",
+     "type": "sentence",
+     "en": "It will be fun!",
+     "zh": "“一定会很好玩！”",
+     "audio": "audio/all/7951_it_will_be_fun.mp3",
+     "slow": "audio/all/7951_it_will_be_fun.mp3",
+     "image": "img/raz-d-swamp_music-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_swamp_music-p15",
+     "type": "sentence",
+     "en": "What is that sound?",
+     "zh": "那是什么声音？",
+     "audio": "audio/all/7952_what_is_that_sound.mp3",
+     "slow": "audio/all/7952_what_is_that_sound.mp3",
+     "image": "img/raz-d-swamp_music-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_swamp_music-p16",
+     "type": "sentence",
+     "en": "Where is it coming from?",
+     "zh": "它是从哪里来的？",
+     "audio": "audio/all/7953_where_is_it_coming_from.mp3",
+     "slow": "audio/all/7953_where_is_it_coming_from.mp3",
+     "image": "img/raz-d-swamp_music-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_swamp_music-p17",
+     "type": "sentence",
+     "en": "It's swamp music!",
+     "zh": "是沼泽音乐会！",
+     "audio": "audio/all/7954_it_s_swamp_music.mp3",
+     "slow": "audio/all/7954_it_s_swamp_music.mp3",
+     "image": "img/raz-d-swamp_music-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_swamp_music-p18",
+     "type": "sentence",
+     "en": "Snap-snap, boom-boom, sissssss, and zing-zing-zing.",
+     "zh": "咔咔、咚咚、嘶嘶，还有叮叮叮。",
+     "audio": "audio/all/7955_snap_snap_boom_boom_sissssss_and_zing_.mp3",
+     "slow": "audio/all/7955_snap_snap_boom_boom_sissssss_and_zing_.mp3",
+     "image": "img/raz-d-swamp_music-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_swamp_music-p19",
+     "type": "sentence",
+     "en": "The whole swamp came to dance and sing.",
+     "zh": "整个沼泽的动物都来唱歌跳舞。",
+     "audio": "audio/all/7956_the_whole_swamp_came_to_dance_and_sing.mp3",
+     "slow": "audio/all/7956_the_whole_swamp_came_to_dance_and_sing.mp3",
+     "image": "img/raz-d-swamp_music-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

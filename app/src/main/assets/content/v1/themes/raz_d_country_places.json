@@ -1,0 +1,307 @@
+{
+ "theme": "raz_d_country_places",
+ "nameZh": "乡村的地方",
+ "bookTitle": "Country Places",
+ "razLevel": "D",
+ "order": 19,
+ "cover": "img/raz-d-country_places-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_country_places-u1",
+   "band": 2,
+   "title": "Country Places · 乡村的地方",
+   "cards": [
+    {
+     "id": "raz_d_country_places-p1",
+     "type": "sentence",
+     "en": "The country is outside the city.",
+     "zh": "乡村在城外。",
+     "audio": "audio/all/7323_the_country_is_outside_the_city.mp3",
+     "slow": "audio/all/7323_the_country_is_outside_the_city.mp3",
+     "image": "img/raz-d-country_places-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_country_places-p2",
+     "type": "sentence",
+     "en": "There are many places in the country.",
+     "zh": "乡村有很多地方。",
+     "audio": "audio/all/7324_there_are_many_places_in_the_country.mp3",
+     "slow": "audio/all/7324_there_are_many_places_in_the_country.mp3",
+     "image": "img/raz-d-country_places-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_country_places-p3",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7325_what_is_this_place.mp3",
+     "slow": "audio/all/7325_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_country_places-p4",
+     "type": "sentence",
+     "en": "It is a barn.",
+     "zh": "这是谷仓。",
+     "audio": "audio/all/7326_it_is_a_barn.mp3",
+     "slow": "audio/all/7326_it_is_a_barn.mp3",
+     "image": "img/raz-d-country_places-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_country_places-p5",
+     "type": "sentence",
+     "en": "Animals live in a barn.",
+     "zh": "动物住在谷仓里。",
+     "audio": "audio/all/7327_animals_live_in_a_barn.mp3",
+     "slow": "audio/all/7327_animals_live_in_a_barn.mp3",
+     "image": "img/raz-d-country_places-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_country_places-p6",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7328_what_is_this_place.mp3",
+     "slow": "audio/all/7328_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_country_places-p7",
+     "type": "sentence",
+     "en": "It is a farmhouse.",
+     "zh": "这是农舍。",
+     "audio": "audio/all/7329_it_is_a_farmhouse.mp3",
+     "slow": "audio/all/7329_it_is_a_farmhouse.mp3",
+     "image": "img/raz-d-country_places-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_country_places-p8",
+     "type": "sentence",
+     "en": "A family lives in the farmhouse.",
+     "zh": "一家人住在农舍里。",
+     "audio": "audio/all/7330_a_family_lives_in_the_farmhouse.mp3",
+     "slow": "audio/all/7330_a_family_lives_in_the_farmhouse.mp3",
+     "image": "img/raz-d-country_places-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_country_places-p9",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7331_what_is_this_place.mp3",
+     "slow": "audio/all/7331_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_country_places-p10",
+     "type": "sentence",
+     "en": "It is a field.",
+     "zh": "这是田地。",
+     "audio": "audio/all/7332_it_is_a_field.mp3",
+     "slow": "audio/all/7332_it_is_a_field.mp3",
+     "image": "img/raz-d-country_places-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_country_places-p11",
+     "type": "sentence",
+     "en": "Corn grows in a field.",
+     "zh": "田里种玉米。",
+     "audio": "audio/all/7333_corn_grows_in_a_field.mp3",
+     "slow": "audio/all/7333_corn_grows_in_a_field.mp3",
+     "image": "img/raz-d-country_places-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_country_places-p12",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7334_what_is_this_place.mp3",
+     "slow": "audio/all/7334_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_country_places-p13",
+     "type": "sentence",
+     "en": "It is a shed.",
+     "zh": "这是小棚屋。",
+     "audio": "audio/all/7335_it_is_a_shed.mp3",
+     "slow": "audio/all/7335_it_is_a_shed.mp3",
+     "image": "img/raz-d-country_places-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_country_places-p14",
+     "type": "sentence",
+     "en": "Tools are kept in a shed.",
+     "zh": "工具放在棚屋里。",
+     "audio": "audio/all/7336_tools_are_kept_in_a_shed.mp3",
+     "slow": "audio/all/7336_tools_are_kept_in_a_shed.mp3",
+     "image": "img/raz-d-country_places-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_country_places-p15",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7337_what_is_this_place.mp3",
+     "slow": "audio/all/7337_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_country_places-p16",
+     "type": "sentence",
+     "en": "It is a pen.",
+     "zh": "这是猪圈。",
+     "audio": "audio/all/7338_it_is_a_pen.mp3",
+     "slow": "audio/all/7338_it_is_a_pen.mp3",
+     "image": "img/raz-d-country_places-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_country_places-p17",
+     "type": "sentence",
+     "en": "Pigs live in a pen.",
+     "zh": "猪住在猪圈里。",
+     "audio": "audio/all/7339_pigs_live_in_a_pen.mp3",
+     "slow": "audio/all/7339_pigs_live_in_a_pen.mp3",
+     "image": "img/raz-d-country_places-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_country_places-p18",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7340_what_is_this_place.mp3",
+     "slow": "audio/all/7340_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_country_places-p19",
+     "type": "sentence",
+     "en": "It is a corral.",
+     "zh": "这是畜栏。",
+     "audio": "audio/all/7341_it_is_a_corral.mp3",
+     "slow": "audio/all/7341_it_is_a_corral.mp3",
+     "image": "img/raz-d-country_places-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_country_places-p20",
+     "type": "sentence",
+     "en": "Horses run in the corral.",
+     "zh": "马在畜栏里跑。",
+     "audio": "audio/all/7342_horses_run_in_the_corral.mp3",
+     "slow": "audio/all/7342_horses_run_in_the_corral.mp3",
+     "image": "img/raz-d-country_places-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_country_places-p21",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7343_what_is_this_place.mp3",
+     "slow": "audio/all/7343_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_country_places-p22",
+     "type": "sentence",
+     "en": "It is a garden.",
+     "zh": "这是菜园。",
+     "audio": "audio/all/7344_it_is_a_garden.mp3",
+     "slow": "audio/all/7344_it_is_a_garden.mp3",
+     "image": "img/raz-d-country_places-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_country_places-p23",
+     "type": "sentence",
+     "en": "Vegetables grow in the garden.",
+     "zh": "菜园里种蔬菜。",
+     "audio": "audio/all/7345_vegetables_grow_in_the_garden.mp3",
+     "slow": "audio/all/7345_vegetables_grow_in_the_garden.mp3",
+     "image": "img/raz-d-country_places-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_country_places-p24",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7346_what_is_this_place.mp3",
+     "slow": "audio/all/7346_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_country_places-p25",
+     "type": "sentence",
+     "en": "It is an orchard.",
+     "zh": "这是果园。",
+     "audio": "audio/all/7347_it_is_an_orchard.mp3",
+     "slow": "audio/all/7347_it_is_an_orchard.mp3",
+     "image": "img/raz-d-country_places-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_country_places-p26",
+     "type": "sentence",
+     "en": "Apples grow in the orchard.",
+     "zh": "果园里长苹果。",
+     "audio": "audio/all/7348_apples_grow_in_the_orchard.mp3",
+     "slow": "audio/all/7348_apples_grow_in_the_orchard.mp3",
+     "image": "img/raz-d-country_places-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_country_places-p27",
+     "type": "sentence",
+     "en": "What is this place?",
+     "zh": "这是什么地方？",
+     "audio": "audio/all/7349_what_is_this_place.mp3",
+     "slow": "audio/all/7349_what_is_this_place.mp3",
+     "image": "img/raz-d-country_places-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_country_places-p28",
+     "type": "sentence",
+     "en": "It is a farm.",
+     "zh": "这是农场。",
+     "audio": "audio/all/7350_it_is_a_farm.mp3",
+     "slow": "audio/all/7350_it_is_a_farm.mp3",
+     "image": "img/raz-d-country_places-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_country_places-p29",
+     "type": "sentence",
+     "en": "It is in the country.",
+     "zh": "它在乡村里。",
+     "audio": "audio/all/7351_it_is_in_the_country.mp3",
+     "slow": "audio/all/7351_it_is_in_the_country.mp3",
+     "image": "img/raz-d-country_places-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

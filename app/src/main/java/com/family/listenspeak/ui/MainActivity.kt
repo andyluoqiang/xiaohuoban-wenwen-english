@@ -837,7 +837,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun cleanKey(s: String): String {
         var k = s.lowercase(Locale.ROOT)
-        k = k.trim(' ', '.', ',', '!', '?', ';', ':', '(', ')', '"', '\'', '–', '’')
+        k = k.trim(' ', '.', ',', '!', '?', ';', ':', '(', ')', '"', '\'', '–', '’', '“', '”', '—')
         return k
     }
 

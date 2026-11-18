@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_my_new_school",
+ "nameZh": "我的新学校",
+ "bookTitle": "My New School",
+ "razLevel": "D",
+ "order": 47,
+ "cover": "img/raz-d-my_new_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_my_new_school-u1",
+   "band": 2,
+   "title": "My New School · 我的新学校",
+   "cards": [
+    {
+     "id": "raz_d_my_new_school-p1",
+     "type": "sentence",
+     "en": "I go to preschool now.",
+     "zh": "我现在上幼儿园。",
+     "audio": "audio/all/7732_i_go_to_preschool_now.mp3",
+     "slow": "audio/all/7732_i_go_to_preschool_now.mp3",
+     "image": "img/raz-d-my_new_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_new_school-p2",
+     "type": "sentence",
+     "en": "Soon I will go to a new school.",
+     "zh": "很快我要上一所新学校。",
+     "audio": "audio/all/7733_soon_i_will_go_to_a_new_school.mp3",
+     "slow": "audio/all/7733_soon_i_will_go_to_a_new_school.mp3",
+     "image": "img/raz-d-my_new_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_new_school-p3",
+     "type": "sentence",
+     "en": "My preschool is in the country.",
+     "zh": "我的幼儿园在乡下。",
+     "audio": "audio/all/7734_my_preschool_is_in_the_country.mp3",
+     "slow": "audio/all/7734_my_preschool_is_in_the_country.mp3",
+     "image": "img/raz-d-my_new_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_my_new_school-p4",
+     "type": "sentence",
+     "en": "My new school is in the city.",
+     "zh": "我的新学校在城里。",
+     "audio": "audio/all/7735_my_new_school_is_in_the_city.mp3",
+     "slow": "audio/all/7735_my_new_school_is_in_the_city.mp3",
+     "image": "img/raz-d-my_new_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_my_new_school-p5",
+     "type": "sentence",
+     "en": "I ride in a car to preschool.",
+     "zh": "我坐汽车上幼儿园。",
+     "audio": "audio/all/7736_i_ride_in_a_car_to_preschool.mp3",
+     "slow": "audio/all/7736_i_ride_in_a_car_to_preschool.mp3",
+     "image": "img/raz-d-my_new_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_my_new_school-p6",
+     "type": "sentence",
+     "en": "I will ride the bus to my new school.",
+     "zh": "我要坐公交车上新学校。",
+     "audio": "audio/all/7737_i_will_ride_the_bus_to_my_new_school.mp3",
+     "slow": "audio/all/7737_i_will_ride_the_bus_to_my_new_school.mp3",
+     "image": "img/raz-d-my_new_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_my_new_school-p7",
+     "type": "sentence",
+     "en": "I am at preschool in the morning.",
+     "zh": "我上午在幼儿园。",
+     "audio": "audio/all/7738_i_am_at_preschool_in_the_morning.mp3",
+     "slow": "audio/all/7738_i_am_at_preschool_in_the_morning.mp3",
+     "image": "img/raz-d-my_new_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_my_new_school-p8",
+     "type": "sentence",
+     "en": "I will be at my new school all day.",
+     "zh": "我要在新学校待一整天。",
+     "audio": "audio/all/7739_i_will_be_at_my_new_school_all_day.mp3",
+     "slow": "audio/all/7739_i_will_be_at_my_new_school_all_day.mp3",
+     "image": "img/raz-d-my_new_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_my_new_school-p9",
+     "type": "sentence",
+     "en": "My teacher reads stories at preschool.",
+     "zh": "幼儿园老师读故事。",
+     "audio": "audio/all/7740_my_teacher_reads_stories_at_preschool.mp3",
+     "slow": "audio/all/7740_my_teacher_reads_stories_at_preschool.mp3",
+     "image": "img/raz-d-my_new_school-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_my_new_school-p10",
+     "type": "sentence",
+     "en": "I will learn to read at my new school.",
+     "zh": "我要在新学校学认字。",
+     "audio": "audio/all/7741_i_will_learn_to_read_at_my_new_school.mp3",
+     "slow": "audio/all/7741_i_will_learn_to_read_at_my_new_school.mp3",
+     "image": "img/raz-d-my_new_school-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_my_new_school-p11",
+     "type": "sentence",
+     "en": "I have friends at my preschool.",
+     "zh": "我在幼儿园有朋友。",
+     "audio": "audio/all/7742_i_have_friends_at_my_preschool.mp3",
+     "slow": "audio/all/7742_i_have_friends_at_my_preschool.mp3",
+     "image": "img/raz-d-my_new_school-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_my_new_school-p12",
+     "type": "sentence",
+     "en": "I will have friends at my new school, too!",
+     "zh": "我在新学校也会有朋友！",
+     "audio": "audio/all/7743_i_will_have_friends_at_my_new_school_t.mp3",
+     "slow": "audio/all/7743_i_will_have_friends_at_my_new_school_t.mp3",
+     "image": "img/raz-d-my_new_school-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

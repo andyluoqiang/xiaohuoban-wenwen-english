@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_to_the_store",
+ "nameZh": "去商店",
+ "bookTitle": "To the Store",
+ "razLevel": "D",
+ "order": 69,
+ "cover": "img/raz-d-to_the_store-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_to_the_store-u1",
+   "band": 2,
+   "title": "To the Store · 去商店",
+   "cards": [
+    {
+     "id": "raz_d_to_the_store-p1",
+     "type": "sentence",
+     "en": "Katie likes to go to the store.",
+     "zh": "凯蒂喜欢去商店。",
+     "audio": "audio/all/8057_katie_likes_to_go_to_the_store.mp3",
+     "slow": "audio/all/8057_katie_likes_to_go_to_the_store.mp3",
+     "image": "img/raz-d-to_the_store-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_to_the_store-p2",
+     "type": "sentence",
+     "en": "She likes to shop.",
+     "zh": "她喜欢购物。",
+     "audio": "audio/all/8058_she_likes_to_shop.mp3",
+     "slow": "audio/all/8058_she_likes_to_shop.mp3",
+     "image": "img/raz-d-to_the_store-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_to_the_store-p3",
+     "type": "sentence",
+     "en": "She goes to the bookstore with her mom.",
+     "zh": "她和妈妈一起去书店。",
+     "audio": "audio/all/8059_she_goes_to_the_bookstore_with_her_mom.mp3",
+     "slow": "audio/all/8059_she_goes_to_the_bookstore_with_her_mom.mp3",
+     "image": "img/raz-d-to_the_store-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_to_the_store-p4",
+     "type": "sentence",
+     "en": "She shops for a book.",
+     "zh": "她挑了一本书。",
+     "audio": "audio/all/8060_she_shops_for_a_book.mp3",
+     "slow": "audio/all/8060_she_shops_for_a_book.mp3",
+     "image": "img/raz-d-to_the_store-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_to_the_store-p5",
+     "type": "sentence",
+     "en": "She likes going to the food store with her dad.",
+     "zh": "她喜欢和爸爸一起去食品店。",
+     "audio": "audio/all/8061_she_likes_going_to_the_food_store_with.mp3",
+     "slow": "audio/all/8061_she_likes_going_to_the_food_store_with.mp3",
+     "image": "img/raz-d-to_the_store-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_to_the_store-p6",
+     "type": "sentence",
+     "en": "She likes shopping for food.",
+     "zh": "她喜欢买吃的。",
+     "audio": "audio/all/8062_she_likes_shopping_for_food.mp3",
+     "slow": "audio/all/8062_she_likes_shopping_for_food.mp3",
+     "image": "img/raz-d-to_the_store-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_to_the_store-p7",
+     "type": "sentence",
+     "en": "She goes to the toy store with her grandfather.",
+     "zh": "她和爷爷一起去玩具店。",
+     "audio": "audio/all/8063_she_goes_to_the_toy_store_with_her_gra.mp3",
+     "slow": "audio/all/8063_she_goes_to_the_toy_store_with_her_gra.mp3",
+     "image": "img/raz-d-to_the_store-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_to_the_store-p8",
+     "type": "sentence",
+     "en": "She buys a toy.",
+     "zh": "她买了一个玩具。",
+     "audio": "audio/all/8064_she_buys_a_toy.mp3",
+     "slow": "audio/all/8064_she_buys_a_toy.mp3",
+     "image": "img/raz-d-to_the_store-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_to_the_store-p9",
+     "type": "sentence",
+     "en": "She goes to the clothing store with her mom.",
+     "zh": "她和妈妈一起去服装店。",
+     "audio": "audio/all/8065_she_goes_to_the_clothing_store_with_he.mp3",
+     "slow": "audio/all/8065_she_goes_to_the_clothing_store_with_he.mp3",
+     "image": "img/raz-d-to_the_store-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_to_the_store-p10",
+     "type": "sentence",
+     "en": "She looks for a coat.",
+     "zh": "她挑了一件外套。",
+     "audio": "audio/all/8066_she_looks_for_a_coat.mp3",
+     "slow": "audio/all/8066_she_looks_for_a_coat.mp3",
+     "image": "img/raz-d-to_the_store-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_to_the_store-p11",
+     "type": "sentence",
+     "en": "She likes going to the shoe store with her grandmother.",
+     "zh": "她喜欢和奶奶一起去鞋店。",
+     "audio": "audio/all/8067_she_likes_going_to_the_shoe_store_with.mp3",
+     "slow": "audio/all/8067_she_likes_going_to_the_shoe_store_with.mp3",
+     "image": "img/raz-d-to_the_store-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_to_the_store-p12",
+     "type": "sentence",
+     "en": "She buys new shoes.",
+     "zh": "她买了新鞋子。",
+     "audio": "audio/all/8068_she_buys_new_shoes.mp3",
+     "slow": "audio/all/8068_she_buys_new_shoes.mp3",
+     "image": "img/raz-d-to_the_store-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_to_the_store-p13",
+     "type": "sentence",
+     "en": "She goes to the pet store.",
+     "zh": "她去了宠物店。",
+     "audio": "audio/all/8069_she_goes_to_the_pet_store.mp3",
+     "slow": "audio/all/8069_she_goes_to_the_pet_store.mp3",
+     "image": "img/raz-d-to_the_store-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_to_the_store-p14",
+     "type": "sentence",
+     "en": "She looks for a pet.",
+     "zh": "她挑选一只宠物。",
+     "audio": "audio/all/8070_she_looks_for_a_pet.mp3",
+     "slow": "audio/all/8070_she_looks_for_a_pet.mp3",
+     "image": "img/raz-d-to_the_store-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_to_the_store-p15",
+     "type": "sentence",
+     "en": "Katie likes the pet store best.",
+     "zh": "凯蒂最喜欢宠物店。",
+     "audio": "audio/all/8071_katie_likes_the_pet_store_best.mp3",
+     "slow": "audio/all/8071_katie_likes_the_pet_store_best.mp3",
+     "image": "img/raz-d-to_the_store-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_to_the_store-p16",
+     "type": "sentence",
+     "en": "She buys a puppy.",
+     "zh": "她买了一只小狗。",
+     "audio": "audio/all/8072_she_buys_a_puppy.mp3",
+     "slow": "audio/all/8072_she_buys_a_puppy.mp3",
+     "image": "img/raz-d-to_the_store-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

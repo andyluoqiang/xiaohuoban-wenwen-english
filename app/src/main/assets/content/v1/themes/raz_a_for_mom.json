@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_for_mom",
+ "nameZh": "给妈妈",
+ "bookTitle": "For Mom",
+ "razLevel": "A",
+ "order": 15,
+ "cover": "img/raz-a-for_mom-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_for_mom-u1",
+   "band": 2,
+   "title": "For Mom · 给妈妈",
+   "cards": [
+    {
+     "id": "raz_a_for_mom-p1",
+     "type": "sentence",
+     "en": "I draw for Mom.",
+     "zh": "我为妈妈画画。",
+     "audio": "audio/all/5216_i_draw_for_mom.mp3",
+     "slow": "audio/all/5216_i_draw_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_for_mom-p2",
+     "type": "sentence",
+     "en": "I cook for Mom.",
+     "zh": "我为妈妈做饭。",
+     "audio": "audio/all/5217_i_cook_for_mom.mp3",
+     "slow": "audio/all/5217_i_cook_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_for_mom-p3",
+     "type": "sentence",
+     "en": "I sing for Mom.",
+     "zh": "我为妈妈唱歌。",
+     "audio": "audio/all/5218_i_sing_for_mom.mp3",
+     "slow": "audio/all/5218_i_sing_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_for_mom-p4",
+     "type": "sentence",
+     "en": "I clean for Mom.",
+     "zh": "我为妈妈打扫。",
+     "audio": "audio/all/5219_i_clean_for_mom.mp3",
+     "slow": "audio/all/5219_i_clean_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_for_mom-p5",
+     "type": "sentence",
+     "en": "I carry for Mom.",
+     "zh": "我为妈妈拎东西。",
+     "audio": "audio/all/5220_i_carry_for_mom.mp3",
+     "slow": "audio/all/5220_i_carry_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_for_mom-p6",
+     "type": "sentence",
+     "en": "I smile for Mom.",
+     "zh": "我为妈妈微笑。",
+     "audio": "audio/all/5221_i_smile_for_mom.mp3",
+     "slow": "audio/all/5221_i_smile_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_for_mom-p7",
+     "type": "sentence",
+     "en": "I read for Mom.",
+     "zh": "我为妈妈读书。",
+     "audio": "audio/all/5222_i_read_for_mom.mp3",
+     "slow": "audio/all/5222_i_read_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_for_mom-p8",
+     "type": "sentence",
+     "en": "I sleep for Mom.",
+     "zh": "我为妈妈睡觉（陪妈妈入睡）。",
+     "audio": "audio/all/5223_i_sleep_for_mom.mp3",
+     "slow": "audio/all/5223_i_sleep_for_mom.mp3",
+     "image": "img/raz-a-for_mom-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

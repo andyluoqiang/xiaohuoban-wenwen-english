@@ -1,0 +1,147 @@
+{
+ "theme": "raz_d_greater_than",
+ "nameZh": "大于",
+ "bookTitle": "Greater Than",
+ "razLevel": "D",
+ "order": 27,
+ "cover": "img/raz-d-greater_than-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_greater_than-u1",
+   "band": 2,
+   "title": "Greater Than · 大于",
+   "cards": [
+    {
+     "id": "raz_d_greater_than-p1",
+     "type": "sentence",
+     "en": "Many vegetables grow in the garden.",
+     "zh": "菜园里种着很多蔬菜。",
+     "audio": "audio/all/7444_many_vegetables_grow_in_the_garden.mp3",
+     "slow": "audio/all/7444_many_vegetables_grow_in_the_garden.mp3",
+     "image": "img/raz-d-greater_than-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_greater_than-p2",
+     "type": "sentence",
+     "en": "Compare the numbers to find which one is greater.",
+     "zh": "比较数字，找出哪个更大。",
+     "audio": "audio/all/7445_compare_the_numbers_to_find_which_one_.mp3",
+     "slow": "audio/all/7445_compare_the_numbers_to_find_which_one_.mp3",
+     "image": "img/raz-d-greater_than-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_greater_than-p3",
+     "type": "sentence",
+     "en": "There are two beets.",
+     "zh": "这里有两棵甜菜。",
+     "audio": "audio/all/7446_there_are_two_beets.mp3",
+     "slow": "audio/all/7446_there_are_two_beets.mp3",
+     "image": "img/raz-d-greater_than-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_greater_than-p4",
+     "type": "sentence",
+     "en": "There are five carrots.",
+     "zh": "这里有五根胡萝卜。",
+     "audio": "audio/all/7447_there_are_five_carrots.mp3",
+     "slow": "audio/all/7447_there_are_five_carrots.mp3",
+     "image": "img/raz-d-greater_than-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_greater_than-p5",
+     "type": "sentence",
+     "en": "Five is greater than two.",
+     "zh": "五大于二。",
+     "audio": "audio/all/7448_five_is_greater_than_two.mp3",
+     "slow": "audio/all/7448_five_is_greater_than_two.mp3",
+     "image": "img/raz-d-greater_than-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_greater_than-p6",
+     "type": "sentence",
+     "en": "There are three yams.",
+     "zh": "这里有三颗山药。",
+     "audio": "audio/all/7449_there_are_three_yams.mp3",
+     "slow": "audio/all/7449_there_are_three_yams.mp3",
+     "image": "img/raz-d-greater_than-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_greater_than-p7",
+     "type": "sentence",
+     "en": "There are four onions.",
+     "zh": "这里有四个洋葱。",
+     "audio": "audio/all/7450_there_are_four_onions.mp3",
+     "slow": "audio/all/7450_there_are_four_onions.mp3",
+     "image": "img/raz-d-greater_than-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_greater_than-p8",
+     "type": "sentence",
+     "en": "Four is greater than three.",
+     "zh": "四大于三。",
+     "audio": "audio/all/7451_four_is_greater_than_three.mp3",
+     "slow": "audio/all/7451_four_is_greater_than_three.mp3",
+     "image": "img/raz-d-greater_than-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_greater_than-p9",
+     "type": "sentence",
+     "en": "There are six beans.",
+     "zh": "这里有六颗豆子。",
+     "audio": "audio/all/7452_there_are_six_beans.mp3",
+     "slow": "audio/all/7452_there_are_six_beans.mp3",
+     "image": "img/raz-d-greater_than-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_greater_than-p10",
+     "type": "sentence",
+     "en": "There is one pepper.",
+     "zh": "这里有一个辣椒。",
+     "audio": "audio/all/7453_there_is_one_pepper.mp3",
+     "slow": "audio/all/7453_there_is_one_pepper.mp3",
+     "image": "img/raz-d-greater_than-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_greater_than-p11",
+     "type": "sentence",
+     "en": "Six is greater than one.",
+     "zh": "六大于一。",
+     "audio": "audio/all/7454_six_is_greater_than_one.mp3",
+     "slow": "audio/all/7454_six_is_greater_than_one.mp3",
+     "image": "img/raz-d-greater_than-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_greater_than-p12",
+     "type": "sentence",
+     "en": "Which group of vegetables has more than any other?",
+     "zh": "哪组蔬菜比其他组都多呢？",
+     "audio": "audio/all/7455_which_group_of_vegetables_has_more_tha.mp3",
+     "slow": "audio/all/7455_which_group_of_vegetables_has_more_tha.mp3",
+     "image": "img/raz-d-greater_than-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_greater_than-p13",
+     "type": "sentence",
+     "en": "Which number is the greatest?",
+     "zh": "哪个数字最大呢？",
+     "audio": "audio/all/7456_which_number_is_the_greatest.mp3",
+     "slow": "audio/all/7456_which_number_is_the_greatest.mp3",
+     "image": "img/raz-d-greater_than-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

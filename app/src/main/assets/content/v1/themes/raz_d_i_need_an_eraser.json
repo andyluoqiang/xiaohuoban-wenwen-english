@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_i_need_an_eraser",
+ "nameZh": "我需要一块橡皮",
+ "bookTitle": "I Need an Eraser",
+ "razLevel": "D",
+ "order": 33,
+ "cover": "img/raz-d-i_need_an_eraser-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_i_need_an_eraser-u1",
+   "band": 2,
+   "title": "I Need an Eraser · 我需要一块橡皮",
+   "cards": [
+    {
+     "id": "raz_d_i_need_an_eraser-p1",
+     "type": "sentence",
+     "en": "I made a mistake.",
+     "zh": "我犯了个错误。",
+     "audio": "audio/all/7535_i_made_a_mistake.mp3",
+     "slow": "audio/all/7535_i_made_a_mistake.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p2",
+     "type": "sentence",
+     "en": "I need an eraser.",
+     "zh": "我需要一块橡皮。",
+     "audio": "audio/all/7536_i_need_an_eraser.mp3",
+     "slow": "audio/all/7536_i_need_an_eraser.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p3",
+     "type": "sentence",
+     "en": "I need an eraser.",
+     "zh": "我需要一块橡皮。",
+     "audio": "audio/all/7537_i_need_an_eraser.mp3",
+     "slow": "audio/all/7537_i_need_an_eraser.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p4",
+     "type": "sentence",
+     "en": "This eraser is no good.",
+     "zh": "这块橡皮不好用。",
+     "audio": "audio/all/7538_this_eraser_is_no_good.mp3",
+     "slow": "audio/all/7538_this_eraser_is_no_good.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p5",
+     "type": "sentence",
+     "en": "I made a mistake.",
+     "zh": "我犯了个错误。",
+     "audio": "audio/all/7539_i_made_a_mistake.mp3",
+     "slow": "audio/all/7539_i_made_a_mistake.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p6",
+     "type": "sentence",
+     "en": "I need an eraser.",
+     "zh": "我需要一块橡皮。",
+     "audio": "audio/all/7540_i_need_an_eraser.mp3",
+     "slow": "audio/all/7540_i_need_an_eraser.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p7",
+     "type": "sentence",
+     "en": "Look in your pencil box.",
+     "zh": "看看你的铅笔盒。",
+     "audio": "audio/all/7541_look_in_your_pencil_box.mp3",
+     "slow": "audio/all/7541_look_in_your_pencil_box.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p8",
+     "type": "sentence",
+     "en": "You might find one there.",
+     "zh": "也许能找到一块。",
+     "audio": "audio/all/7542_you_might_find_one_there.mp3",
+     "slow": "audio/all/7542_you_might_find_one_there.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p9",
+     "type": "sentence",
+     "en": "I still need an eraser.",
+     "zh": "我还是需要一块橡皮。",
+     "audio": "audio/all/7543_i_still_need_an_eraser.mp3",
+     "slow": "audio/all/7543_i_still_need_an_eraser.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p10",
+     "type": "sentence",
+     "en": "This eraser is no good.",
+     "zh": "这块橡皮不好用。",
+     "audio": "audio/all/7544_this_eraser_is_no_good.mp3",
+     "slow": "audio/all/7544_this_eraser_is_no_good.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p11",
+     "type": "sentence",
+     "en": "Look in my pencil drawer.",
+     "zh": "看看我的抽屉。",
+     "audio": "audio/all/7545_look_in_my_pencil_drawer.mp3",
+     "slow": "audio/all/7545_look_in_my_pencil_drawer.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p12",
+     "type": "sentence",
+     "en": "You might find one there.",
+     "zh": "也许能找到一块。",
+     "audio": "audio/all/7546_you_might_find_one_there.mp3",
+     "slow": "audio/all/7546_you_might_find_one_there.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p13",
+     "type": "sentence",
+     "en": "I found an eraser.",
+     "zh": "我找到一块橡皮。",
+     "audio": "audio/all/7547_i_found_an_eraser.mp3",
+     "slow": "audio/all/7547_i_found_an_eraser.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p14",
+     "type": "sentence",
+     "en": "I fixed my mistake.",
+     "zh": "我改好了错误。",
+     "audio": "audio/all/7548_i_fixed_my_mistake.mp3",
+     "slow": "audio/all/7548_i_fixed_my_mistake.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p15",
+     "type": "sentence",
+     "en": "I made a mistake.",
+     "zh": "我犯了个错误。",
+     "audio": "audio/all/7549_i_made_a_mistake.mp3",
+     "slow": "audio/all/7549_i_made_a_mistake.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_need_an_eraser-p16",
+     "type": "sentence",
+     "en": "I need some tape.",
+     "zh": "我需要一些胶带。",
+     "audio": "audio/all/7550_i_need_some_tape.mp3",
+     "slow": "audio/all/7550_i_need_some_tape.mp3",
+     "image": "img/raz-d-i_need_an_eraser-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_wash_your_hands",
+ "nameZh": "洗手",
+ "bookTitle": "Wash Your Hands",
+ "razLevel": "C",
+ "order": 66,
+ "cover": "img/raz-c-wash_your_hands-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_wash_your_hands-u1",
+   "band": 2,
+   "title": "Wash Your Hands · 洗手",
+   "cards": [
+    {
+     "id": "raz_c_wash_your_hands-p1",
+     "type": "sentence",
+     "en": "Wash your hands before you eat.",
+     "zh": "吃饭前要洗手。",
+     "audio": "audio/all/6744_wash_your_hands_before_you_eat.mp3",
+     "slow": "audio/all/6744_wash_your_hands_before_you_eat.mp3",
+     "image": "img/raz-c-wash_your_hands-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_wash_your_hands-p2",
+     "type": "sentence",
+     "en": "Wash your hands after you sneeze.",
+     "zh": "打喷嚏后要洗手。",
+     "audio": "audio/all/6745_wash_your_hands_after_you_sneeze.mp3",
+     "slow": "audio/all/6745_wash_your_hands_after_you_sneeze.mp3",
+     "image": "img/raz-c-wash_your_hands-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_wash_your_hands-p3",
+     "type": "sentence",
+     "en": "Wash your hands after you use the bathroom.",
+     "zh": "上完洗手间要洗手。",
+     "audio": "audio/all/6746_wash_your_hands_after_you_use_the_bath.mp3",
+     "slow": "audio/all/6746_wash_your_hands_after_you_use_the_bath.mp3",
+     "image": "img/raz-c-wash_your_hands-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_wash_your_hands-p4",
+     "type": "sentence",
+     "en": "Wash your hands after you dig.",
+     "zh": "挖完土要洗手。",
+     "audio": "audio/all/6747_wash_your_hands_after_you_dig.mp3",
+     "slow": "audio/all/6747_wash_your_hands_after_you_dig.mp3",
+     "image": "img/raz-c-wash_your_hands-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_wash_your_hands-p5",
+     "type": "sentence",
+     "en": "Wash your hands after you paint.",
+     "zh": "画完画要洗手。",
+     "audio": "audio/all/6748_wash_your_hands_after_you_paint.mp3",
+     "slow": "audio/all/6748_wash_your_hands_after_you_paint.mp3",
+     "image": "img/raz-c-wash_your_hands-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_wash_your_hands-p6",
+     "type": "sentence",
+     "en": "Wash your hands after you pet a dog.",
+     "zh": "摸完狗要洗手。",
+     "audio": "audio/all/6749_wash_your_hands_after_you_pet_a_dog.mp3",
+     "slow": "audio/all/6749_wash_your_hands_after_you_pet_a_dog.mp3",
+     "image": "img/raz-c-wash_your_hands-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_wash_your_hands-p7",
+     "type": "sentence",
+     "en": "Wash your hands after you play.",
+     "zh": "玩完要洗手。",
+     "audio": "audio/all/6750_wash_your_hands_after_you_play.mp3",
+     "slow": "audio/all/6750_wash_your_hands_after_you_play.mp3",
+     "image": "img/raz-c-wash_your_hands-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_wash_your_hands-p8",
+     "type": "sentence",
+     "en": "Wash front and back.",
+     "zh": "洗洗正面和背面。",
+     "audio": "audio/all/6751_wash_front_and_back.mp3",
+     "slow": "audio/all/6751_wash_front_and_back.mp3",
+     "image": "img/raz-c-wash_your_hands-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_wash_your_hands-p9",
+     "type": "sentence",
+     "en": "Wash between your fingers, too!",
+     "zh": "手指缝也要洗！",
+     "audio": "audio/all/6752_wash_between_your_fingers_too.mp3",
+     "slow": "audio/all/6752_wash_between_your_fingers_too.mp3",
+     "image": "img/raz-c-wash_your_hands-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

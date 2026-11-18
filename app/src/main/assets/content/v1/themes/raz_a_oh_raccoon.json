@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_oh_raccoon",
+ "nameZh": "哦，浣熊",
+ "bookTitle": "Oh, Raccoon",
+ "razLevel": "A",
+ "order": 51,
+ "cover": "img/raz-a-oh_raccoon-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_oh_raccoon-u1",
+   "band": 2,
+   "title": "Oh, Raccoon · 哦，浣熊",
+   "cards": [
+    {
+     "id": "raz_a_oh_raccoon-p1",
+     "type": "sentence",
+     "en": "Raccoon is awake.",
+     "zh": "浣熊醒着。",
+     "audio": "audio/all/5505_raccoon_is_awake.mp3",
+     "slow": "audio/all/5505_raccoon_is_awake.mp3",
+     "image": "img/raz-a-oh_raccoon-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_oh_raccoon-p2",
+     "type": "sentence",
+     "en": "Raccoon is hungry.",
+     "zh": "浣熊饿了。",
+     "audio": "audio/all/5506_raccoon_is_hungry.mp3",
+     "slow": "audio/all/5506_raccoon_is_hungry.mp3",
+     "image": "img/raz-a-oh_raccoon-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_oh_raccoon-p3",
+     "type": "sentence",
+     "en": "Raccoon is smart.",
+     "zh": "浣熊聪明。",
+     "audio": "audio/all/5507_raccoon_is_smart.mp3",
+     "slow": "audio/all/5507_raccoon_is_smart.mp3",
+     "image": "img/raz-a-oh_raccoon-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_oh_raccoon-p4",
+     "type": "sentence",
+     "en": "Raccoon is messy.",
+     "zh": "浣熊邋遢。",
+     "audio": "audio/all/5508_raccoon_is_messy.mp3",
+     "slow": "audio/all/5508_raccoon_is_messy.mp3",
+     "image": "img/raz-a-oh_raccoon-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_oh_raccoon-p5",
+     "type": "sentence",
+     "en": "Raccoon is sneaky.",
+     "zh": "浣熊鬼鬼祟祟。",
+     "audio": "audio/all/5509_raccoon_is_sneaky.mp3",
+     "slow": "audio/all/5509_raccoon_is_sneaky.mp3",
+     "image": "img/raz-a-oh_raccoon-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_oh_raccoon-p6",
+     "type": "sentence",
+     "en": "Raccoon is full.",
+     "zh": "浣熊吃饱了。",
+     "audio": "audio/all/5510_raccoon_is_full.mp3",
+     "slow": "audio/all/5510_raccoon_is_full.mp3",
+     "image": "img/raz-a-oh_raccoon-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_oh_raccoon-p7",
+     "type": "sentence",
+     "en": "Raccoon is sleepy.",
+     "zh": "浣熊困了。",
+     "audio": "audio/all/5511_raccoon_is_sleepy.mp3",
+     "slow": "audio/all/5511_raccoon_is_sleepy.mp3",
+     "image": "img/raz-a-oh_raccoon-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_oh_raccoon-p8",
+     "type": "sentence",
+     "en": "Raccoon is cute.",
+     "zh": "浣熊真可爱。",
+     "audio": "audio/all/5512_raccoon_is_cute.mp3",
+     "slow": "audio/all/5512_raccoon_is_cute.mp3",
+     "image": "img/raz-a-oh_raccoon-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

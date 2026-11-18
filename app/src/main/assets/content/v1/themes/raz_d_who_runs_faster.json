@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_who_runs_faster",
+ "nameZh": "谁跑得更快？",
+ "bookTitle": "Who Runs Faster?",
+ "razLevel": "D",
+ "order": 80,
+ "cover": "img/raz-d-who_runs_faster-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_who_runs_faster-u1",
+   "band": 2,
+   "title": "Who Runs Faster? · 谁跑得更快？",
+   "cards": [
+    {
+     "id": "raz_d_who_runs_faster-p1",
+     "type": "sentence",
+     "en": "This is a tortoise.",
+     "zh": "这是一只乌龟。",
+     "audio": "audio/all/8223_this_is_a_tortoise.mp3",
+     "slow": "audio/all/8223_this_is_a_tortoise.mp3",
+     "image": "img/raz-d-who_runs_faster-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_who_runs_faster-p2",
+     "type": "sentence",
+     "en": "A squirrel can run faster than a tortoise.",
+     "zh": "松鼠跑得比乌龟快。",
+     "audio": "audio/all/8224_a_squirrel_can_run_faster_than_a_torto.mp3",
+     "slow": "audio/all/8224_a_squirrel_can_run_faster_than_a_torto.mp3",
+     "image": "img/raz-d-who_runs_faster-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_who_runs_faster-p3",
+     "type": "sentence",
+     "en": "This is a squirrel.",
+     "zh": "这是一只松鼠。",
+     "audio": "audio/all/8225_this_is_a_squirrel.mp3",
+     "slow": "audio/all/8225_this_is_a_squirrel.mp3",
+     "image": "img/raz-d-who_runs_faster-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_who_runs_faster-p4",
+     "type": "sentence",
+     "en": "A girl can run faster than a squirrel.",
+     "zh": "女孩跑得比松鼠快。",
+     "audio": "audio/all/8226_a_girl_can_run_faster_than_a_squirrel.mp3",
+     "slow": "audio/all/8226_a_girl_can_run_faster_than_a_squirrel.mp3",
+     "image": "img/raz-d-who_runs_faster-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_who_runs_faster-p5",
+     "type": "sentence",
+     "en": "This is a girl.",
+     "zh": "这是一个女孩。",
+     "audio": "audio/all/8227_this_is_a_girl.mp3",
+     "slow": "audio/all/8227_this_is_a_girl.mp3",
+     "image": "img/raz-d-who_runs_faster-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_who_runs_faster-p6",
+     "type": "sentence",
+     "en": "A giraffe can run faster than a girl.",
+     "zh": "长颈鹿跑得比女孩快。",
+     "audio": "audio/all/8228_a_giraffe_can_run_faster_than_a_girl.mp3",
+     "slow": "audio/all/8228_a_giraffe_can_run_faster_than_a_girl.mp3",
+     "image": "img/raz-d-who_runs_faster-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_who_runs_faster-p7",
+     "type": "sentence",
+     "en": "This is a giraffe.",
+     "zh": "这是一只长颈鹿。",
+     "audio": "audio/all/8229_this_is_a_giraffe.mp3",
+     "slow": "audio/all/8229_this_is_a_giraffe.mp3",
+     "image": "img/raz-d-who_runs_faster-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_who_runs_faster-p8",
+     "type": "sentence",
+     "en": "A zebra can run faster than a giraffe.",
+     "zh": "斑马跑得比长颈鹿快。",
+     "audio": "audio/all/8230_a_zebra_can_run_faster_than_a_giraffe.mp3",
+     "slow": "audio/all/8230_a_zebra_can_run_faster_than_a_giraffe.mp3",
+     "image": "img/raz-d-who_runs_faster-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_who_runs_faster-p9",
+     "type": "sentence",
+     "en": "This is a zebra.",
+     "zh": "这是一匹斑马。",
+     "audio": "audio/all/8231_this_is_a_zebra.mp3",
+     "slow": "audio/all/8231_this_is_a_zebra.mp3",
+     "image": "img/raz-d-who_runs_faster-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_who_runs_faster-p10",
+     "type": "sentence",
+     "en": "A lion can run faster than a zebra.",
+     "zh": "狮子跑得比斑马快。",
+     "audio": "audio/all/8232_a_lion_can_run_faster_than_a_zebra.mp3",
+     "slow": "audio/all/8232_a_lion_can_run_faster_than_a_zebra.mp3",
+     "image": "img/raz-d-who_runs_faster-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_who_runs_faster-p11",
+     "type": "sentence",
+     "en": "This is a lion.",
+     "zh": "这是一头狮子。",
+     "audio": "audio/all/8233_this_is_a_lion.mp3",
+     "slow": "audio/all/8233_this_is_a_lion.mp3",
+     "image": "img/raz-d-who_runs_faster-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_who_runs_faster-p12",
+     "type": "sentence",
+     "en": "An antelope can run faster than a lion.",
+     "zh": "羚羊跑得比狮子快。",
+     "audio": "audio/all/8234_an_antelope_can_run_faster_than_a_lion.mp3",
+     "slow": "audio/all/8234_an_antelope_can_run_faster_than_a_lion.mp3",
+     "image": "img/raz-d-who_runs_faster-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_who_runs_faster-p13",
+     "type": "sentence",
+     "en": "This is an antelope.",
+     "zh": "这是一只羚羊。",
+     "audio": "audio/all/8235_this_is_an_antelope.mp3",
+     "slow": "audio/all/8235_this_is_an_antelope.mp3",
+     "image": "img/raz-d-who_runs_faster-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_who_runs_faster-p14",
+     "type": "sentence",
+     "en": "A cheetah can run faster than an antelope.",
+     "zh": "猎豹跑得比羚羊快。",
+     "audio": "audio/all/8236_a_cheetah_can_run_faster_than_an_antel.mp3",
+     "slow": "audio/all/8236_a_cheetah_can_run_faster_than_an_antel.mp3",
+     "image": "img/raz-d-who_runs_faster-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_who_runs_faster-p15",
+     "type": "sentence",
+     "en": "This is a cheetah.",
+     "zh": "这是一只猎豹。",
+     "audio": "audio/all/8237_this_is_a_cheetah.mp3",
+     "slow": "audio/all/8237_this_is_a_cheetah.mp3",
+     "image": "img/raz-d-who_runs_faster-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_who_runs_faster-p16",
+     "type": "sentence",
+     "en": "Nothing can run faster than a cheetah.",
+     "zh": "没有什么跑得比猎豹更快。",
+     "audio": "audio/all/8238_nothing_can_run_faster_than_a_cheetah.mp3",
+     "slow": "audio/all/8238_nothing_can_run_faster_than_a_cheetah.mp3",
+     "image": "img/raz-d-who_runs_faster-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_this_feels",
+ "nameZh": "摸起来的感觉",
+ "bookTitle": "This Feels",
+ "razLevel": "A",
+ "order": 69,
+ "cover": "img/raz-a-this_feels-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_this_feels-u1",
+   "band": 2,
+   "title": "This Feels · 摸起来的感觉",
+   "cards": [
+    {
+     "id": "raz_a_this_feels-p1",
+     "type": "sentence",
+     "en": "This feels so hard.",
+     "zh": "这个摸起来好硬。",
+     "audio": "audio/all/5649_this_feels_so_hard.mp3",
+     "slow": "audio/all/5649_this_feels_so_hard.mp3",
+     "image": "img/raz-a-this_feels-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_this_feels-p2",
+     "type": "sentence",
+     "en": "This feels so soft.",
+     "zh": "这个摸起来好软。",
+     "audio": "audio/all/5650_this_feels_so_soft.mp3",
+     "slow": "audio/all/5650_this_feels_so_soft.mp3",
+     "image": "img/raz-a-this_feels-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_this_feels-p3",
+     "type": "sentence",
+     "en": "This feels so dry.",
+     "zh": "这个摸起来好干。",
+     "audio": "audio/all/5651_this_feels_so_dry.mp3",
+     "slow": "audio/all/5651_this_feels_so_dry.mp3",
+     "image": "img/raz-a-this_feels-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_this_feels-p4",
+     "type": "sentence",
+     "en": "This feels so wet.",
+     "zh": "这个摸起来好湿。",
+     "audio": "audio/all/5652_this_feels_so_wet.mp3",
+     "slow": "audio/all/5652_this_feels_so_wet.mp3",
+     "image": "img/raz-a-this_feels-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_this_feels-p5",
+     "type": "sentence",
+     "en": "This feels so rough.",
+     "zh": "这个摸起来好粗糙。",
+     "audio": "audio/all/5653_this_feels_so_rough.mp3",
+     "slow": "audio/all/5653_this_feels_so_rough.mp3",
+     "image": "img/raz-a-this_feels-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_this_feels-p6",
+     "type": "sentence",
+     "en": "This feels so smooth.",
+     "zh": "这个摸起来好光滑。",
+     "audio": "audio/all/5654_this_feels_so_smooth.mp3",
+     "slow": "audio/all/5654_this_feels_so_smooth.mp3",
+     "image": "img/raz-a-this_feels-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_this_feels-p7",
+     "type": "sentence",
+     "en": "This feels so cold.",
+     "zh": "这个摸起来好冷。",
+     "audio": "audio/all/5655_this_feels_so_cold.mp3",
+     "slow": "audio/all/5655_this_feels_so_cold.mp3",
+     "image": "img/raz-a-this_feels-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_this_feels-p8",
+     "type": "sentence",
+     "en": "This feels so warm.",
+     "zh": "这个摸起来好暖。",
+     "audio": "audio/all/5656_this_feels_so_warm.mp3",
+     "slow": "audio/all/5656_this_feels_so_warm.mp3",
+     "image": "img/raz-a-this_feels-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

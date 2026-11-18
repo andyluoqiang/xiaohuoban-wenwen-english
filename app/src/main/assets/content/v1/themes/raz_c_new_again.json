@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_new_again",
+ "nameZh": "变新",
+ "bookTitle": "New Again",
+ "razLevel": "C",
+ "order": 39,
+ "cover": "img/raz-c-new_again-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_new_again-u1",
+   "band": 2,
+   "title": "New Again · 变新",
+   "cards": [
+    {
+     "id": "raz_c_new_again-p1",
+     "type": "sentence",
+     "en": "We can make old things into new things.",
+     "zh": "我们可以把旧东西变成新东西。",
+     "audio": "audio/all/6439_we_can_make_old_things_into_new_things.mp3",
+     "slow": "audio/all/6439_we_can_make_old_things_into_new_things.mp3",
+     "image": "img/raz-c-new_again-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_new_again-p2",
+     "type": "sentence",
+     "en": "We can make a sock into a puppet.",
+     "zh": "我们可以把袜子做成手偶。",
+     "audio": "audio/all/6440_we_can_make_a_sock_into_a_puppet.mp3",
+     "slow": "audio/all/6440_we_can_make_a_sock_into_a_puppet.mp3",
+     "image": "img/raz-c-new_again-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_new_again-p3",
+     "type": "sentence",
+     "en": "We can make a bucket into a drum.",
+     "zh": "我们可以把桶做成鼓。",
+     "audio": "audio/all/6441_we_can_make_a_bucket_into_a_drum.mp3",
+     "slow": "audio/all/6441_we_can_make_a_bucket_into_a_drum.mp3",
+     "image": "img/raz-c-new_again-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_new_again-p4",
+     "type": "sentence",
+     "en": "We can make two cans into a telephone.",
+     "zh": "我们可以把两个罐子做成电话。",
+     "audio": "audio/all/6442_we_can_make_two_cans_into_a_telephone.mp3",
+     "slow": "audio/all/6442_we_can_make_two_cans_into_a_telephone.mp3",
+     "image": "img/raz-c-new_again-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_new_again-p5",
+     "type": "sentence",
+     "en": "We can make paper into an airplane.",
+     "zh": "我们可以把纸做成纸飞机。",
+     "audio": "audio/all/6443_we_can_make_paper_into_an_airplane.mp3",
+     "slow": "audio/all/6443_we_can_make_paper_into_an_airplane.mp3",
+     "image": "img/raz-c-new_again-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_new_again-p6",
+     "type": "sentence",
+     "en": "We can make a bottle into a sprinkler.",
+     "zh": "我们可以把瓶子做成洒水器。",
+     "audio": "audio/all/6444_we_can_make_a_bottle_into_a_sprinkler.mp3",
+     "slow": "audio/all/6444_we_can_make_a_bottle_into_a_sprinkler.mp3",
+     "image": "img/raz-c-new_again-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_new_again-p7",
+     "type": "sentence",
+     "en": "We can make a box into a fort.",
+     "zh": "我们可以把箱子做成城堡。",
+     "audio": "audio/all/6445_we_can_make_a_box_into_a_fort.mp3",
+     "slow": "audio/all/6445_we_can_make_a_box_into_a_fort.mp3",
+     "image": "img/raz-c-new_again-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_new_again-p8",
+     "type": "sentence",
+     "en": "What can you make with old things?",
+     "zh": "你能用旧东西做什么呢？",
+     "audio": "audio/all/6446_what_can_you_make_with_old_things.mp3",
+     "slow": "audio/all/6446_what_can_you_make_with_old_things.mp3",
+     "image": "img/raz-c-new_again-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

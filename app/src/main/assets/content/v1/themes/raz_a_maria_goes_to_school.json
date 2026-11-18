@@ -1,0 +1,117 @@
+{
+ "theme": "raz_a_maria_goes_to_school",
+ "nameZh": "玛丽亚去上学",
+ "bookTitle": "Maria Goes to School",
+ "razLevel": "A",
+ "order": 38,
+ "cover": "img/raz-a-maria_goes_to_school-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_maria_goes_to_school-u1",
+   "band": 2,
+   "title": "Maria Goes to School · 玛丽亚去上学",
+   "cards": [
+    {
+     "id": "raz_a_maria_goes_to_school-p1",
+     "type": "sentence",
+     "en": "I get my backpack.",
+     "zh": "我拿上书包。",
+     "audio": "audio/all/5399_i_get_my_backpack.mp3",
+     "slow": "audio/all/5399_i_get_my_backpack.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p2",
+     "type": "sentence",
+     "en": "I get my pencils.",
+     "zh": "我拿上铅笔。",
+     "audio": "audio/all/5400_i_get_my_pencils.mp3",
+     "slow": "audio/all/5400_i_get_my_pencils.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p3",
+     "type": "sentence",
+     "en": "I get my ruler.",
+     "zh": "我拿上尺子。",
+     "audio": "audio/all/5401_i_get_my_ruler.mp3",
+     "slow": "audio/all/5401_i_get_my_ruler.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p4",
+     "type": "sentence",
+     "en": "I get my eraser.",
+     "zh": "我拿上橡皮。",
+     "audio": "audio/all/5402_i_get_my_eraser.mp3",
+     "slow": "audio/all/5402_i_get_my_eraser.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p5",
+     "type": "sentence",
+     "en": "I get my crayons.",
+     "zh": "我拿上蜡笔。",
+     "audio": "audio/all/5403_i_get_my_crayons.mp3",
+     "slow": "audio/all/5403_i_get_my_crayons.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p6",
+     "type": "sentence",
+     "en": "I get my sweater.",
+     "zh": "我穿上毛衣。",
+     "audio": "audio/all/5404_i_get_my_sweater.mp3",
+     "slow": "audio/all/5404_i_get_my_sweater.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p7",
+     "type": "sentence",
+     "en": "I get my brother.",
+     "zh": "我带上弟弟。",
+     "audio": "audio/all/5405_i_get_my_brother.mp3",
+     "slow": "audio/all/5405_i_get_my_brother.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p8",
+     "type": "sentence",
+     "en": "I get my lunch.",
+     "zh": "我拿上午餐。",
+     "audio": "audio/all/5406_i_get_my_lunch.mp3",
+     "slow": "audio/all/5406_i_get_my_lunch.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p9",
+     "type": "sentence",
+     "en": "I get my hug.",
+     "zh": "我得到一个拥抱。",
+     "audio": "audio/all/5407_i_get_my_hug.mp3",
+     "slow": "audio/all/5407_i_get_my_hug.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_a_maria_goes_to_school-p10",
+     "type": "sentence",
+     "en": "I get my ride.",
+     "zh": "我去坐车了。",
+     "audio": "audio/all/5408_i_get_my_ride.mp3",
+     "slow": "audio/all/5408_i_get_my_ride.mp3",
+     "image": "img/raz-a-maria_goes_to_school-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

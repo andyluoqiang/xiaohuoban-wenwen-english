@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_workers",
+ "nameZh": "劳动者",
+ "bookTitle": "Workers",
+ "razLevel": "D",
+ "order": 83,
+ "cover": "img/raz-d-workers-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_workers-u1",
+   "band": 2,
+   "title": "Workers · 劳动者",
+   "cards": [
+    {
+     "id": "raz_d_workers-p1",
+     "type": "sentence",
+     "en": "There are many kinds of workers.",
+     "zh": "世界上有很多种劳动者。",
+     "audio": "audio/all/8261_there_are_many_kinds_of_workers.mp3",
+     "slow": "audio/all/8261_there_are_many_kinds_of_workers.mp3",
+     "image": "img/raz-d-workers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_workers-p2",
+     "type": "sentence",
+     "en": "Workers do many kinds of work.",
+     "zh": "劳动者做着各种各样的工作。",
+     "audio": "audio/all/8262_workers_do_many_kinds_of_work.mp3",
+     "slow": "audio/all/8262_workers_do_many_kinds_of_work.mp3",
+     "image": "img/raz-d-workers-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_workers-p3",
+     "type": "sentence",
+     "en": "This farmer is a worker.",
+     "zh": "这位农民是劳动者。",
+     "audio": "audio/all/8263_this_farmer_is_a_worker.mp3",
+     "slow": "audio/all/8263_this_farmer_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_workers-p4",
+     "type": "sentence",
+     "en": "He farms wheat for bread.",
+     "zh": "他种麦子来做面包。",
+     "audio": "audio/all/8264_he_farms_wheat_for_bread.mp3",
+     "slow": "audio/all/8264_he_farms_wheat_for_bread.mp3",
+     "image": "img/raz-d-workers-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_workers-p5",
+     "type": "sentence",
+     "en": "This trucker is a worker.",
+     "zh": "这位卡车司机是劳动者。",
+     "audio": "audio/all/8265_this_trucker_is_a_worker.mp3",
+     "slow": "audio/all/8265_this_trucker_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_workers-p6",
+     "type": "sentence",
+     "en": "She trucks wheat to the mill.",
+     "zh": "她把麦子运到磨坊。",
+     "audio": "audio/all/8266_she_trucks_wheat_to_the_mill.mp3",
+     "slow": "audio/all/8266_she_trucks_wheat_to_the_mill.mp3",
+     "image": "img/raz-d-workers-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_workers-p7",
+     "type": "sentence",
+     "en": "This miller is a worker.",
+     "zh": "这位磨坊工人是劳动者。",
+     "audio": "audio/all/8267_this_miller_is_a_worker.mp3",
+     "slow": "audio/all/8267_this_miller_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_workers-p8",
+     "type": "sentence",
+     "en": "She grinds wheat into flour.",
+     "zh": "她把麦子磨成面粉。",
+     "audio": "audio/all/8268_she_grinds_wheat_into_flour.mp3",
+     "slow": "audio/all/8268_she_grinds_wheat_into_flour.mp3",
+     "image": "img/raz-d-workers-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_workers-p9",
+     "type": "sentence",
+     "en": "This baker is a worker.",
+     "zh": "这位面包师是劳动者。",
+     "audio": "audio/all/8269_this_baker_is_a_worker.mp3",
+     "slow": "audio/all/8269_this_baker_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_workers-p10",
+     "type": "sentence",
+     "en": "He uses flour to bake bread.",
+     "zh": "他用面粉烤面包。",
+     "audio": "audio/all/8270_he_uses_flour_to_bake_bread.mp3",
+     "slow": "audio/all/8270_he_uses_flour_to_bake_bread.mp3",
+     "image": "img/raz-d-workers-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_workers-p11",
+     "type": "sentence",
+     "en": "This grocer is a worker.",
+     "zh": "这位杂货店老板是劳动者。",
+     "audio": "audio/all/8271_this_grocer_is_a_worker.mp3",
+     "slow": "audio/all/8271_this_grocer_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_workers-p12",
+     "type": "sentence",
+     "en": "He sells bread to the dad.",
+     "zh": "他把面包卖给这位爸爸。",
+     "audio": "audio/all/8272_he_sells_bread_to_the_dad.mp3",
+     "slow": "audio/all/8272_he_sells_bread_to_the_dad.mp3",
+     "image": "img/raz-d-workers-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_workers-p13",
+     "type": "sentence",
+     "en": "This dad is a worker.",
+     "zh": "这位爸爸也是劳动者。",
+     "audio": "audio/all/8273_this_dad_is_a_worker.mp3",
+     "slow": "audio/all/8273_this_dad_is_a_worker.mp3",
+     "image": "img/raz-d-workers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_workers-p14",
+     "type": "sentence",
+     "en": "He makes dinner for his family.",
+     "zh": "他给家人做晚饭。",
+     "audio": "audio/all/8274_he_makes_dinner_for_his_family.mp3",
+     "slow": "audio/all/8274_he_makes_dinner_for_his_family.mp3",
+     "image": "img/raz-d-workers-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_workers-p15",
+     "type": "sentence",
+     "en": "What kinds of workers do you know?",
+     "zh": "你知道哪些劳动者呢？",
+     "audio": "audio/all/8275_what_kinds_of_workers_do_you_know.mp3",
+     "slow": "audio/all/8275_what_kinds_of_workers_do_you_know.mp3",
+     "image": "img/raz-d-workers-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_workers-p16",
+     "type": "sentence",
+     "en": "What kinds of work do they do?",
+     "zh": "他们都做什么工作呢？",
+     "audio": "audio/all/8276_what_kinds_of_work_do_they_do.mp3",
+     "slow": "audio/all/8276_what_kinds_of_work_do_they_do.mp3",
+     "image": "img/raz-d-workers-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

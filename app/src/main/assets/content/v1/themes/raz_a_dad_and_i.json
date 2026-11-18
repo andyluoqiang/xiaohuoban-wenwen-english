@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_dad_and_i",
+ "nameZh": "爸爸和我",
+ "bookTitle": "Dad and I",
+ "razLevel": "A",
+ "order": 14,
+ "cover": "img/raz-a-dad_and_i-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_dad_and_i-u1",
+   "band": 2,
+   "title": "Dad and I · 爸爸和我",
+   "cards": [
+    {
+     "id": "raz_a_dad_and_i-p1",
+     "type": "sentence",
+     "en": "Dad and I bake.",
+     "zh": "爸爸和我烤面包。",
+     "audio": "audio/all/5208_dad_and_i_bake.mp3",
+     "slow": "audio/all/5208_dad_and_i_bake.mp3",
+     "image": "img/raz-a-dad_and_i-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_dad_and_i-p2",
+     "type": "sentence",
+     "en": "Dad and I swim.",
+     "zh": "爸爸和我游泳。",
+     "audio": "audio/all/5209_dad_and_i_swim.mp3",
+     "slow": "audio/all/5209_dad_and_i_swim.mp3",
+     "image": "img/raz-a-dad_and_i-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_dad_and_i-p3",
+     "type": "sentence",
+     "en": "Dad and I garden.",
+     "zh": "爸爸和我打理花园。",
+     "audio": "audio/all/5210_dad_and_i_garden.mp3",
+     "slow": "audio/all/5210_dad_and_i_garden.mp3",
+     "image": "img/raz-a-dad_and_i-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_dad_and_i-p4",
+     "type": "sentence",
+     "en": "Dad and I play.",
+     "zh": "爸爸和我玩耍。",
+     "audio": "audio/all/5211_dad_and_i_play.mp3",
+     "slow": "audio/all/5211_dad_and_i_play.mp3",
+     "image": "img/raz-a-dad_and_i-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_dad_and_i-p5",
+     "type": "sentence",
+     "en": "Dad and I bike.",
+     "zh": "爸爸和我骑车。",
+     "audio": "audio/all/5212_dad_and_i_bike.mp3",
+     "slow": "audio/all/5212_dad_and_i_bike.mp3",
+     "image": "img/raz-a-dad_and_i-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_dad_and_i-p6",
+     "type": "sentence",
+     "en": "Dad and I walk.",
+     "zh": "爸爸和我散步。",
+     "audio": "audio/all/5213_dad_and_i_walk.mp3",
+     "slow": "audio/all/5213_dad_and_i_walk.mp3",
+     "image": "img/raz-a-dad_and_i-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_dad_and_i-p7",
+     "type": "sentence",
+     "en": "Dad and I write.",
+     "zh": "爸爸和我写字。",
+     "audio": "audio/all/5214_dad_and_i_write.mp3",
+     "slow": "audio/all/5214_dad_and_i_write.mp3",
+     "image": "img/raz-a-dad_and_i-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_dad_and_i-p8",
+     "type": "sentence",
+     "en": "Dad and I hug.",
+     "zh": "爸爸和我拥抱。",
+     "audio": "audio/all/5215_dad_and_i_hug.mp3",
+     "slow": "audio/all/5215_dad_and_i_hug.mp3",
+     "image": "img/raz-a-dad_and_i-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

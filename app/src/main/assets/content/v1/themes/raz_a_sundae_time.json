@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_sundae_time",
+ "nameZh": "圣代时光",
+ "bookTitle": "Sundae Time",
+ "razLevel": "A",
+ "order": 62,
+ "cover": "img/raz-a-sundae_time-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_sundae_time-u1",
+   "band": 2,
+   "title": "Sundae Time · 圣代时光",
+   "cards": [
+    {
+     "id": "raz_a_sundae_time-p1",
+     "type": "sentence",
+     "en": "I add the brownie.",
+     "zh": "我加一块布朗尼。",
+     "audio": "audio/all/5593_i_add_the_brownie.mp3",
+     "slow": "audio/all/5593_i_add_the_brownie.mp3",
+     "image": "img/raz-a-sundae_time-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_sundae_time-p2",
+     "type": "sentence",
+     "en": "I add the ice cream.",
+     "zh": "我加冰淇淋。",
+     "audio": "audio/all/5594_i_add_the_ice_cream.mp3",
+     "slow": "audio/all/5594_i_add_the_ice_cream.mp3",
+     "image": "img/raz-a-sundae_time-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_sundae_time-p3",
+     "type": "sentence",
+     "en": "I add the banana.",
+     "zh": "我加一根香蕉。",
+     "audio": "audio/all/5595_i_add_the_banana.mp3",
+     "slow": "audio/all/5595_i_add_the_banana.mp3",
+     "image": "img/raz-a-sundae_time-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_sundae_time-p4",
+     "type": "sentence",
+     "en": "I add the hot fudge.",
+     "zh": "我加热巧克力酱。",
+     "audio": "audio/all/5596_i_add_the_hot_fudge.mp3",
+     "slow": "audio/all/5596_i_add_the_hot_fudge.mp3",
+     "image": "img/raz-a-sundae_time-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_sundae_time-p5",
+     "type": "sentence",
+     "en": "I add the nuts.",
+     "zh": "我加坚果。",
+     "audio": "audio/all/5597_i_add_the_nuts.mp3",
+     "slow": "audio/all/5597_i_add_the_nuts.mp3",
+     "image": "img/raz-a-sundae_time-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_sundae_time-p6",
+     "type": "sentence",
+     "en": "I add the candy.",
+     "zh": "我加糖果。",
+     "audio": "audio/all/5598_i_add_the_candy.mp3",
+     "slow": "audio/all/5598_i_add_the_candy.mp3",
+     "image": "img/raz-a-sundae_time-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_sundae_time-p7",
+     "type": "sentence",
+     "en": "I add the berries.",
+     "zh": "我加莓果。",
+     "audio": "audio/all/5599_i_add_the_berries.mp3",
+     "slow": "audio/all/5599_i_add_the_berries.mp3",
+     "image": "img/raz-a-sundae_time-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_sundae_time-p8",
+     "type": "sentence",
+     "en": "I add the spoons.",
+     "zh": "我摆上勺子。",
+     "audio": "audio/all/5600_i_add_the_spoons.mp3",
+     "slow": "audio/all/5600_i_add_the_spoons.mp3",
+     "image": "img/raz-a-sundae_time-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

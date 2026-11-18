@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_dog",
+ "nameZh": "我的狗",
+ "bookTitle": "My Dog",
+ "razLevel": "A",
+ "order": 42,
+ "cover": "img/raz-a-my_dog-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_dog-u1",
+   "band": 2,
+   "title": "My Dog · 我的狗",
+   "cards": [
+    {
+     "id": "raz_a_my_dog-p1",
+     "type": "sentence",
+     "en": "My dog can jump.",
+     "zh": "我的狗会跳。",
+     "audio": "audio/all/5433_my_dog_can_jump.mp3",
+     "slow": "audio/all/5433_my_dog_can_jump.mp3",
+     "image": "img/raz-a-my_dog-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_dog-p2",
+     "type": "sentence",
+     "en": "My dog can run.",
+     "zh": "我的狗会跑。",
+     "audio": "audio/all/5434_my_dog_can_run.mp3",
+     "slow": "audio/all/5434_my_dog_can_run.mp3",
+     "image": "img/raz-a-my_dog-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_dog-p3",
+     "type": "sentence",
+     "en": "My dog can swim.",
+     "zh": "我的狗会游泳。",
+     "audio": "audio/all/5435_my_dog_can_swim.mp3",
+     "slow": "audio/all/5435_my_dog_can_swim.mp3",
+     "image": "img/raz-a-my_dog-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_dog-p4",
+     "type": "sentence",
+     "en": "My dog can dig.",
+     "zh": "我的狗会挖洞。",
+     "audio": "audio/all/5436_my_dog_can_dig.mp3",
+     "slow": "audio/all/5436_my_dog_can_dig.mp3",
+     "image": "img/raz-a-my_dog-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_dog-p5",
+     "type": "sentence",
+     "en": "My dog can climb.",
+     "zh": "我的狗会爬。",
+     "audio": "audio/all/5437_my_dog_can_climb.mp3",
+     "slow": "audio/all/5437_my_dog_can_climb.mp3",
+     "image": "img/raz-a-my_dog-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_dog-p6",
+     "type": "sentence",
+     "en": "My dog can sit.",
+     "zh": "我的狗会坐。",
+     "audio": "audio/all/5438_my_dog_can_sit.mp3",
+     "slow": "audio/all/5438_my_dog_can_sit.mp3",
+     "image": "img/raz-a-my_dog-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_dog-p7",
+     "type": "sentence",
+     "en": "My dog can roll over.",
+     "zh": "我的狗会打滚。",
+     "audio": "audio/all/5439_my_dog_can_roll_over.mp3",
+     "slow": "audio/all/5439_my_dog_can_roll_over.mp3",
+     "image": "img/raz-a-my_dog-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_dog-p8",
+     "type": "sentence",
+     "en": "My dog can hug.",
+     "zh": "我的狗会拥抱。",
+     "audio": "audio/all/5440_my_dog_can_hug.mp3",
+     "slow": "audio/all/5440_my_dog_can_hug.mp3",
+     "image": "img/raz-a-my_dog-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

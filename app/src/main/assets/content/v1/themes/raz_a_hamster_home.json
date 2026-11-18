@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_hamster_home",
+ "nameZh": "仓鼠的家",
+ "bookTitle": "Hamster Home",
+ "razLevel": "A",
+ "order": 23,
+ "cover": "img/raz-a-hamster_home-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_hamster_home-u1",
+   "band": 2,
+   "title": "Hamster Home · 仓鼠的家",
+   "cards": [
+    {
+     "id": "raz_a_hamster_home-p1",
+     "type": "sentence",
+     "en": "The hamster has a ball.",
+     "zh": "仓鼠有一个球。",
+     "audio": "audio/all/5280_the_hamster_has_a_ball.mp3",
+     "slow": "audio/all/5280_the_hamster_has_a_ball.mp3",
+     "image": "img/raz-a-hamster_home-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_hamster_home-p2",
+     "type": "sentence",
+     "en": "The hamster has a cage.",
+     "zh": "仓鼠有一个笼子。",
+     "audio": "audio/all/5281_the_hamster_has_a_cage.mp3",
+     "slow": "audio/all/5281_the_hamster_has_a_cage.mp3",
+     "image": "img/raz-a-hamster_home-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_hamster_home-p3",
+     "type": "sentence",
+     "en": "The hamster has food.",
+     "zh": "仓鼠有食物。",
+     "audio": "audio/all/5282_the_hamster_has_food.mp3",
+     "slow": "audio/all/5282_the_hamster_has_food.mp3",
+     "image": "img/raz-a-hamster_home-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_hamster_home-p4",
+     "type": "sentence",
+     "en": "The hamster has water.",
+     "zh": "仓鼠有水。",
+     "audio": "audio/all/5283_the_hamster_has_water.mp3",
+     "slow": "audio/all/5283_the_hamster_has_water.mp3",
+     "image": "img/raz-a-hamster_home-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_hamster_home-p5",
+     "type": "sentence",
+     "en": "The hamster has a nest.",
+     "zh": "仓鼠有一个窝。",
+     "audio": "audio/all/5284_the_hamster_has_a_nest.mp3",
+     "slow": "audio/all/5284_the_hamster_has_a_nest.mp3",
+     "image": "img/raz-a-hamster_home-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_hamster_home-p6",
+     "type": "sentence",
+     "en": "The hamster has a tube.",
+     "zh": "仓鼠有一根管道。",
+     "audio": "audio/all/5285_the_hamster_has_a_tube.mp3",
+     "slow": "audio/all/5285_the_hamster_has_a_tube.mp3",
+     "image": "img/raz-a-hamster_home-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_hamster_home-p7",
+     "type": "sentence",
+     "en": "The hamster has a wheel.",
+     "zh": "仓鼠有一个转轮。",
+     "audio": "audio/all/5286_the_hamster_has_a_wheel.mp3",
+     "slow": "audio/all/5286_the_hamster_has_a_wheel.mp3",
+     "image": "img/raz-a-hamster_home-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_hamster_home-p8",
+     "type": "sentence",
+     "en": "The hamster has a home.",
+     "zh": "仓鼠有一个家。",
+     "audio": "audio/all/5287_the_hamster_has_a_home.mp3",
+     "slow": "audio/all/5287_the_hamster_has_a_home.mp3",
+     "image": "img/raz-a-hamster_home-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

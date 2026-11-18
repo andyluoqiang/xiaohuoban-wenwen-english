@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_then_and_now",
+ "nameZh": "过去和现在",
+ "bookTitle": "Then and Now",
+ "razLevel": "C",
+ "order": 63,
+ "cover": "img/raz-c-then_and_now-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_then_and_now-u1",
+   "band": 2,
+   "title": "Then and Now · 过去和现在",
+   "cards": [
+    {
+     "id": "raz_c_then_and_now-p1",
+     "type": "sentence",
+     "en": "This is an old light bulb.",
+     "zh": "这是旧灯泡。",
+     "audio": "audio/all/6704_this_is_an_old_light_bulb.mp3",
+     "slow": "audio/all/6704_this_is_an_old_light_bulb.mp3",
+     "image": "img/raz-c-then_and_now-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_then_and_now-p2",
+     "type": "sentence",
+     "en": "This is a new light bulb.",
+     "zh": "这是新灯泡。",
+     "audio": "audio/all/6705_this_is_a_new_light_bulb.mp3",
+     "slow": "audio/all/6705_this_is_a_new_light_bulb.mp3",
+     "image": "img/raz-c-then_and_now-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_then_and_now-p3",
+     "type": "sentence",
+     "en": "This is an old camera.",
+     "zh": "这是旧相机。",
+     "audio": "audio/all/6706_this_is_an_old_camera.mp3",
+     "slow": "audio/all/6706_this_is_an_old_camera.mp3",
+     "image": "img/raz-c-then_and_now-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_then_and_now-p4",
+     "type": "sentence",
+     "en": "This is a new camera.",
+     "zh": "这是新相机。",
+     "audio": "audio/all/6707_this_is_a_new_camera.mp3",
+     "slow": "audio/all/6707_this_is_a_new_camera.mp3",
+     "image": "img/raz-c-then_and_now-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_then_and_now-p5",
+     "type": "sentence",
+     "en": "This is an old cell phone.",
+     "zh": "这是旧手机。",
+     "audio": "audio/all/6708_this_is_an_old_cell_phone.mp3",
+     "slow": "audio/all/6708_this_is_an_old_cell_phone.mp3",
+     "image": "img/raz-c-then_and_now-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_then_and_now-p6",
+     "type": "sentence",
+     "en": "This is a new cell phone.",
+     "zh": "这是新手机。",
+     "audio": "audio/all/6709_this_is_a_new_cell_phone.mp3",
+     "slow": "audio/all/6709_this_is_a_new_cell_phone.mp3",
+     "image": "img/raz-c-then_and_now-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_then_and_now-p7",
+     "type": "sentence",
+     "en": "This is an old television.",
+     "zh": "这是旧电视。",
+     "audio": "audio/all/6710_this_is_an_old_television.mp3",
+     "slow": "audio/all/6710_this_is_an_old_television.mp3",
+     "image": "img/raz-c-then_and_now-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_then_and_now-p8",
+     "type": "sentence",
+     "en": "This is a new television.",
+     "zh": "这是新电视。",
+     "audio": "audio/all/6711_this_is_a_new_television.mp3",
+     "slow": "audio/all/6711_this_is_a_new_television.mp3",
+     "image": "img/raz-c-then_and_now-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_then_and_now-p9",
+     "type": "sentence",
+     "en": "This is an old computer.",
+     "zh": "这是旧电脑。",
+     "audio": "audio/all/6712_this_is_an_old_computer.mp3",
+     "slow": "audio/all/6712_this_is_an_old_computer.mp3",
+     "image": "img/raz-c-then_and_now-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_then_and_now-p10",
+     "type": "sentence",
+     "en": "This is a new computer.",
+     "zh": "这是新电脑。",
+     "audio": "audio/all/6713_this_is_a_new_computer.mp3",
+     "slow": "audio/all/6713_this_is_a_new_computer.mp3",
+     "image": "img/raz-c-then_and_now-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_then_and_now-p11",
+     "type": "sentence",
+     "en": "This is an old car.",
+     "zh": "这是旧汽车。",
+     "audio": "audio/all/6714_this_is_an_old_car.mp3",
+     "slow": "audio/all/6714_this_is_an_old_car.mp3",
+     "image": "img/raz-c-then_and_now-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_then_and_now-p12",
+     "type": "sentence",
+     "en": "This is a new car.",
+     "zh": "这是新汽车。",
+     "audio": "audio/all/6715_this_is_a_new_car.mp3",
+     "slow": "audio/all/6715_this_is_a_new_car.mp3",
+     "image": "img/raz-c-then_and_now-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_then_and_now-p13",
+     "type": "sentence",
+     "en": "This is an old train.",
+     "zh": "这是旧火车。",
+     "audio": "audio/all/6716_this_is_an_old_train.mp3",
+     "slow": "audio/all/6716_this_is_an_old_train.mp3",
+     "image": "img/raz-c-then_and_now-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_then_and_now-p14",
+     "type": "sentence",
+     "en": "This is a new train.",
+     "zh": "这是新火车。",
+     "audio": "audio/all/6717_this_is_a_new_train.mp3",
+     "slow": "audio/all/6717_this_is_a_new_train.mp3",
+     "image": "img/raz-c-then_and_now-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_then_and_now-p15",
+     "type": "sentence",
+     "en": "This is an old plane.",
+     "zh": "这是旧飞机。",
+     "audio": "audio/all/6718_this_is_an_old_plane.mp3",
+     "slow": "audio/all/6718_this_is_an_old_plane.mp3",
+     "image": "img/raz-c-then_and_now-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_then_and_now-p16",
+     "type": "sentence",
+     "en": "This is a new plane.",
+     "zh": "这是新飞机。",
+     "audio": "audio/all/6719_this_is_a_new_plane.mp3",
+     "slow": "audio/all/6719_this_is_a_new_plane.mp3",
+     "image": "img/raz-c-then_and_now-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

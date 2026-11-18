@@ -1,0 +1,147 @@
+{
+ "theme": "raz_c_what_can_we_draw",
+ "nameZh": "我们能画什么",
+ "bookTitle": "What Can We Draw?",
+ "razLevel": "C",
+ "order": 75,
+ "cover": "img/raz-c-what_can_we_draw-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_what_can_we_draw-u1",
+   "band": 2,
+   "title": "What Can We Draw? · 我们能画什么",
+   "cards": [
+    {
+     "id": "raz_c_what_can_we_draw-p1",
+     "type": "sentence",
+     "en": "What can we draw?",
+     "zh": "我们能画什么？",
+     "audio": "audio/all/6850_what_can_we_draw.mp3",
+     "slow": "audio/all/6850_what_can_we_draw.mp3",
+     "image": "img/raz-c-what_can_we_draw-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p2",
+     "type": "sentence",
+     "en": "I draw a fat rat.",
+     "zh": "我画一只胖老鼠。",
+     "audio": "audio/all/6851_i_draw_a_fat_rat.mp3",
+     "slow": "audio/all/6851_i_draw_a_fat_rat.mp3",
+     "image": "img/raz-c-what_can_we_draw-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p3",
+     "type": "sentence",
+     "en": "You draw a hungry cat.",
+     "zh": "你画一只饿猫。",
+     "audio": "audio/all/6852_you_draw_a_hungry_cat.mp3",
+     "slow": "audio/all/6852_you_draw_a_hungry_cat.mp3",
+     "image": "img/raz-c-what_can_we_draw-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p4",
+     "type": "sentence",
+     "en": "What can we draw?",
+     "zh": "我们能画什么？",
+     "audio": "audio/all/6853_what_can_we_draw.mp3",
+     "slow": "audio/all/6853_what_can_we_draw.mp3",
+     "image": "img/raz-c-what_can_we_draw-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p5",
+     "type": "sentence",
+     "en": "I draw a tall tree.",
+     "zh": "我画一棵大树。",
+     "audio": "audio/all/6854_i_draw_a_tall_tree.mp3",
+     "slow": "audio/all/6854_i_draw_a_tall_tree.mp3",
+     "image": "img/raz-c-what_can_we_draw-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p6",
+     "type": "sentence",
+     "en": "You draw a small monkey.",
+     "zh": "你画一只小猴子。",
+     "audio": "audio/all/6855_you_draw_a_small_monkey.mp3",
+     "slow": "audio/all/6855_you_draw_a_small_monkey.mp3",
+     "image": "img/raz-c-what_can_we_draw-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p7",
+     "type": "sentence",
+     "en": "What can we draw?",
+     "zh": "我们能画什么？",
+     "audio": "audio/all/6856_what_can_we_draw.mp3",
+     "slow": "audio/all/6856_what_can_we_draw.mp3",
+     "image": "img/raz-c-what_can_we_draw-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p8",
+     "type": "sentence",
+     "en": "I draw a fluffy sheep.",
+     "zh": "我画一只毛茸茸的羊。",
+     "audio": "audio/all/6857_i_draw_a_fluffy_sheep.mp3",
+     "slow": "audio/all/6857_i_draw_a_fluffy_sheep.mp3",
+     "image": "img/raz-c-what_can_we_draw-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p9",
+     "type": "sentence",
+     "en": "You draw a hairy heap.",
+     "zh": "你画一个毛茸茸的堆。",
+     "audio": "audio/all/6858_you_draw_a_hairy_heap.mp3",
+     "slow": "audio/all/6858_you_draw_a_hairy_heap.mp3",
+     "image": "img/raz-c-what_can_we_draw-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p10",
+     "type": "sentence",
+     "en": "What can we draw?",
+     "zh": "我们能画什么？",
+     "audio": "audio/all/6859_what_can_we_draw.mp3",
+     "slow": "audio/all/6859_what_can_we_draw.mp3",
+     "image": "img/raz-c-what_can_we_draw-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p11",
+     "type": "sentence",
+     "en": "I draw a rain shower.",
+     "zh": "我画一场阵雨。",
+     "audio": "audio/all/6860_i_draw_a_rain_shower.mp3",
+     "slow": "audio/all/6860_i_draw_a_rain_shower.mp3",
+     "image": "img/raz-c-what_can_we_draw-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p12",
+     "type": "sentence",
+     "en": "You draw a new flower.",
+     "zh": "你画一朵新花。",
+     "audio": "audio/all/6861_you_draw_a_new_flower.mp3",
+     "slow": "audio/all/6861_you_draw_a_new_flower.mp3",
+     "image": "img/raz-c-what_can_we_draw-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_what_can_we_draw-p13",
+     "type": "sentence",
+     "en": "Together we draw twice as nice!",
+     "zh": "我们一起画加倍漂亮！",
+     "audio": "audio/all/6862_together_we_draw_twice_as_nice.mp3",
+     "slow": "audio/all/6862_together_we_draw_twice_as_nice.mp3",
+     "image": "img/raz-c-what_can_we_draw-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

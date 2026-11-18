@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "I see the clouds.",
      "zh": "我看见乌云。",
-     "audio": "audio/all/3392_i_see_the_clouds.mp3",
-     "slow": "audio/all/3392_i_see_the_clouds.mp3",
+     "audio": "audio/all/8792_i_see_the_clouds.mp3",
+     "slow": "audio/all/8792_i_see_the_clouds.mp3",
      "image": "img/raz-b-rain_in_the_city-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "I see the rain.",
      "zh": "我看见雨。",
-     "audio": "audio/all/3393_i_see_the_rain.mp3",
-     "slow": "audio/all/3393_i_see_the_rain.mp3",
+     "audio": "audio/all/8793_i_see_the_rain.mp3",
+     "slow": "audio/all/8793_i_see_the_rain.mp3",
      "image": "img/raz-b-rain_in_the_city-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "I see the lightning.",
      "zh": "我看见闪电。",
-     "audio": "audio/all/3394_i_see_the_lightning.mp3",
-     "slow": "audio/all/3394_i_see_the_lightning.mp3",
+     "audio": "audio/all/8794_i_see_the_lightning.mp3",
+     "slow": "audio/all/8794_i_see_the_lightning.mp3",
      "image": "img/raz-b-rain_in_the_city-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "I see the umbrellas.",
      "zh": "我看见雨伞。",
-     "audio": "audio/all/3395_i_see_the_umbrellas.mp3",
-     "slow": "audio/all/3395_i_see_the_umbrellas.mp3",
+     "audio": "audio/all/8795_i_see_the_umbrellas.mp3",
+     "slow": "audio/all/8795_i_see_the_umbrellas.mp3",
      "image": "img/raz-b-rain_in_the_city-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "I see the puddle.",
      "zh": "我看见水坑。",
-     "audio": "audio/all/3396_i_see_the_puddle.mp3",
-     "slow": "audio/all/3396_i_see_the_puddle.mp3",
+     "audio": "audio/all/8796_i_see_the_puddle.mp3",
+     "slow": "audio/all/8796_i_see_the_puddle.mp3",
      "image": "img/raz-b-rain_in_the_city-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "I see the drain.",
      "zh": "我看见下水道。",
-     "audio": "audio/all/3397_i_see_the_drain.mp3",
-     "slow": "audio/all/3397_i_see_the_drain.mp3",
+     "audio": "audio/all/8797_i_see_the_drain.mp3",
+     "slow": "audio/all/8797_i_see_the_drain.mp3",
      "image": "img/raz-b-rain_in_the_city-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "I see the rainbow.",
      "zh": "我看见彩虹。",
-     "audio": "audio/all/3398_i_see_the_rainbow.mp3",
-     "slow": "audio/all/3398_i_see_the_rainbow.mp3",
+     "audio": "audio/all/8798_i_see_the_rainbow.mp3",
+     "slow": "audio/all/8798_i_see_the_rainbow.mp3",
      "image": "img/raz-b-rain_in_the_city-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "I see the Sun.",
      "zh": "我看见太阳。",
-     "audio": "audio/all/3399_i_see_the_sun.mp3",
-     "slow": "audio/all/3399_i_see_the_sun.mp3",
+     "audio": "audio/all/8799_i_see_the_sun.mp3",
+     "slow": "audio/all/8799_i_see_the_sun.mp3",
      "image": "img/raz-b-rain_in_the_city-p08.jpg",
      "page": 8
     }

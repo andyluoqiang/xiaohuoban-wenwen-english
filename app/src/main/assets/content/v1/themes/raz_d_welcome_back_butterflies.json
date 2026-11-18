@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_welcome_back_butterflies",
+ "nameZh": "欢迎回来，蝴蝶",
+ "bookTitle": "Welcome Back, Butterflies",
+ "razLevel": "D",
+ "order": 74,
+ "cover": "img/raz-d-welcome_back_butterflies-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_welcome_back_butterflies-u1",
+   "band": 2,
+   "title": "Welcome Back, Butterflies · 欢迎回来，蝴蝶",
+   "cards": [
+    {
+     "id": "raz_d_welcome_back_butterflies-p1",
+     "type": "sentence",
+     "en": "I love butterflies.",
+     "zh": "我爱蝴蝶。",
+     "audio": "audio/all/8123_i_love_butterflies.mp3",
+     "slow": "audio/all/8123_i_love_butterflies.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p2",
+     "type": "sentence",
+     "en": "I love the orange and black ones.",
+     "zh": "我爱橙黑色相间的那种。",
+     "audio": "audio/all/8124_i_love_the_orange_and_black_ones.mp3",
+     "slow": "audio/all/8124_i_love_the_orange_and_black_ones.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p3",
+     "type": "sentence",
+     "en": "In the fall, they fly south.",
+     "zh": "秋天，它们往南飞。",
+     "audio": "audio/all/8125_in_the_fall_they_fly_south.mp3",
+     "slow": "audio/all/8125_in_the_fall_they_fly_south.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p4",
+     "type": "sentence",
+     "en": "They fly away from me.",
+     "zh": "它们从我身边飞走了。",
+     "audio": "audio/all/8126_they_fly_away_from_me.mp3",
+     "slow": "audio/all/8126_they_fly_away_from_me.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p5",
+     "type": "sentence",
+     "en": "In the spring, they fly north.",
+     "zh": "春天，它们往北飞。",
+     "audio": "audio/all/8127_in_the_spring_they_fly_north.mp3",
+     "slow": "audio/all/8127_in_the_spring_they_fly_north.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p6",
+     "type": "sentence",
+     "en": "They fly back to me.",
+     "zh": "它们飞回到我身边。",
+     "audio": "audio/all/8128_they_fly_back_to_me.mp3",
+     "slow": "audio/all/8128_they_fly_back_to_me.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p7",
+     "type": "sentence",
+     "en": "They fly back to lay their eggs.",
+     "zh": "它们飞回来产卵。",
+     "audio": "audio/all/8129_they_fly_back_to_lay_their_eggs.mp3",
+     "slow": "audio/all/8129_they_fly_back_to_lay_their_eggs.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p8",
+     "type": "sentence",
+     "en": "They need the right plants for their eggs.",
+     "zh": "它们的卵需要合适的植物。",
+     "audio": "audio/all/8130_they_need_the_right_plants_for_their_e.mp3",
+     "slow": "audio/all/8130_they_need_the_right_plants_for_their_e.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p9",
+     "type": "sentence",
+     "en": "I plant seeds in my yard.",
+     "zh": "我在院子里种下种子。",
+     "audio": "audio/all/8131_i_plant_seeds_in_my_yard.mp3",
+     "slow": "audio/all/8131_i_plant_seeds_in_my_yard.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p10",
+     "type": "sentence",
+     "en": "I water the seeds.",
+     "zh": "我给种子浇水。",
+     "audio": "audio/all/8132_i_water_the_seeds.mp3",
+     "slow": "audio/all/8132_i_water_the_seeds.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p11",
+     "type": "sentence",
+     "en": "I watch the seeds sprout.",
+     "zh": "我看着种子发芽。",
+     "audio": "audio/all/8133_i_watch_the_seeds_sprout.mp3",
+     "slow": "audio/all/8133_i_watch_the_seeds_sprout.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p12",
+     "type": "sentence",
+     "en": "I watch the plants grow.",
+     "zh": "我看着植物长大。",
+     "audio": "audio/all/8134_i_watch_the_plants_grow.mp3",
+     "slow": "audio/all/8134_i_watch_the_plants_grow.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p13",
+     "type": "sentence",
+     "en": "My yard has the right plants now.",
+     "zh": "现在我的院子里有了合适的植物。",
+     "audio": "audio/all/8135_my_yard_has_the_right_plants_now.mp3",
+     "slow": "audio/all/8135_my_yard_has_the_right_plants_now.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_welcome_back_butterflies-p14",
+     "type": "sentence",
+     "en": "Welcome back, butterflies!",
+     "zh": "欢迎回来，蝴蝶！",
+     "audio": "audio/all/8136_welcome_back_butterflies.mp3",
+     "slow": "audio/all/8136_welcome_back_butterflies.mp3",
+     "image": "img/raz-d-welcome_back_butterflies-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

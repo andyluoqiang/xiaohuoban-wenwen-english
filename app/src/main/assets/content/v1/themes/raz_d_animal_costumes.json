@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_animal_costumes",
+ "nameZh": "动物装扮",
+ "bookTitle": "Animal Costumes",
+ "razLevel": "D",
+ "order": 4,
+ "cover": "img/raz-d-animal_costumes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_animal_costumes-u1",
+   "band": 2,
+   "title": "Animal Costumes · 动物装扮",
+   "cards": [
+    {
+     "id": "raz_d_animal_costumes-p1",
+     "type": "sentence",
+     "en": "People wear costumes.",
+     "zh": "人们会穿装扮服装。",
+     "audio": "audio/all/7134_people_wear_costumes.mp3",
+     "slow": "audio/all/7134_people_wear_costumes.mp3",
+     "image": "img/raz-d-animal_costumes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_costumes-p2",
+     "type": "sentence",
+     "en": "Animals can wear costumes too.",
+     "zh": "动物也可以穿装扮服装。",
+     "audio": "audio/all/7135_animals_can_wear_costumes_too.mp3",
+     "slow": "audio/all/7135_animals_can_wear_costumes_too.mp3",
+     "image": "img/raz-d-animal_costumes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_costumes-p3",
+     "type": "sentence",
+     "en": "A dog can wear the wings of a butterfly.",
+     "zh": "狗可以扮蝴蝶的翅膀。",
+     "audio": "audio/all/7136_a_dog_can_wear_the_wings_of_a_butterfl.mp3",
+     "slow": "audio/all/7136_a_dog_can_wear_the_wings_of_a_butterfl.mp3",
+     "image": "img/raz-d-animal_costumes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_animal_costumes-p4",
+     "type": "sentence",
+     "en": "A dog can wear the mane of a lion.",
+     "zh": "狗可以扮狮子的鬃毛。",
+     "audio": "audio/all/7137_a_dog_can_wear_the_mane_of_a_lion.mp3",
+     "slow": "audio/all/7137_a_dog_can_wear_the_mane_of_a_lion.mp3",
+     "image": "img/raz-d-animal_costumes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_animal_costumes-p5",
+     "type": "sentence",
+     "en": "A goat can wear the crown of a princess.",
+     "zh": "山羊可以扮公主的王冠。",
+     "audio": "audio/all/7138_a_goat_can_wear_the_crown_of_a_princes.mp3",
+     "slow": "audio/all/7138_a_goat_can_wear_the_crown_of_a_princes.mp3",
+     "image": "img/raz-d-animal_costumes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_animal_costumes-p6",
+     "type": "sentence",
+     "en": "A cat can wear the bandanna of a cowboy.",
+     "zh": "猫可以扮牛仔的头巾。",
+     "audio": "audio/all/7139_a_cat_can_wear_the_bandanna_of_a_cowbo.mp3",
+     "slow": "audio/all/7139_a_cat_can_wear_the_bandanna_of_a_cowbo.mp3",
+     "image": "img/raz-d-animal_costumes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_animal_costumes-p7",
+     "type": "sentence",
+     "en": "A dog can wear the mask of a superhero.",
+     "zh": "狗可以扮超级英雄的面具。",
+     "audio": "audio/all/7140_a_dog_can_wear_the_mask_of_a_superhero.mp3",
+     "slow": "audio/all/7140_a_dog_can_wear_the_mask_of_a_superhero.mp3",
+     "image": "img/raz-d-animal_costumes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_animal_costumes-p8",
+     "type": "sentence",
+     "en": "A dog can wear the fins of a shark.",
+     "zh": "狗可以扮鲨鱼的鳍。",
+     "audio": "audio/all/7141_a_dog_can_wear_the_fins_of_a_shark.mp3",
+     "slow": "audio/all/7141_a_dog_can_wear_the_fins_of_a_shark.mp3",
+     "image": "img/raz-d-animal_costumes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_animal_costumes-p9",
+     "type": "sentence",
+     "en": "A rabbit can wear the hat of a nurse.",
+     "zh": "兔子可以扮护士的帽子。",
+     "audio": "audio/all/7142_a_rabbit_can_wear_the_hat_of_a_nurse.mp3",
+     "slow": "audio/all/7142_a_rabbit_can_wear_the_hat_of_a_nurse.mp3",
+     "image": "img/raz-d-animal_costumes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_animal_costumes-p10",
+     "type": "sentence",
+     "en": "A dog can wear the snout of a pig.",
+     "zh": "狗可以扮猪的鼻子。",
+     "audio": "audio/all/7143_a_dog_can_wear_the_snout_of_a_pig.mp3",
+     "slow": "audio/all/7143_a_dog_can_wear_the_snout_of_a_pig.mp3",
+     "image": "img/raz-d-animal_costumes-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_animal_costumes-p11",
+     "type": "sentence",
+     "en": "What costume is this dog wearing?",
+     "zh": "这只狗穿的是什么装扮呢？",
+     "audio": "audio/all/7144_what_costume_is_this_dog_wearing.mp3",
+     "slow": "audio/all/7144_what_costume_is_this_dog_wearing.mp3",
+     "image": "img/raz-d-animal_costumes-p09.jpg",
+     "page": 9
+    }
+   ]
+  }
+ ]
+}

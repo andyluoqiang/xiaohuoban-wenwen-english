@@ -1,0 +1,187 @@
+{
+ "theme": "raz_d_the_sky_is_falling",
+ "nameZh": "天塌下来啦",
+ "bookTitle": "The Sky Is Falling",
+ "razLevel": "D",
+ "order": 66,
+ "cover": "img/raz-d-the_sky_is_falling-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_the_sky_is_falling-u1",
+   "band": 2,
+   "title": "The Sky Is Falling · 天塌下来啦",
+   "cards": [
+    {
+     "id": "raz_d_the_sky_is_falling-p1",
+     "type": "sentence",
+     "en": "A nut falls from a tree.",
+     "zh": "一颗坚果从树上掉下来。",
+     "audio": "audio/all/8013_a_nut_falls_from_a_tree.mp3",
+     "slow": "audio/all/8013_a_nut_falls_from_a_tree.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p2",
+     "type": "sentence",
+     "en": "The nut hits Rabbit.",
+     "zh": "坚果砸到了兔子。",
+     "audio": "audio/all/8014_the_nut_hits_rabbit.mp3",
+     "slow": "audio/all/8014_the_nut_hits_rabbit.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p3",
+     "type": "sentence",
+     "en": "Rabbit runs to tell Fox.",
+     "zh": "兔子跑去告诉狐狸。",
+     "audio": "audio/all/8015_rabbit_runs_to_tell_fox.mp3",
+     "slow": "audio/all/8015_rabbit_runs_to_tell_fox.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p4",
+     "type": "sentence",
+     "en": "The sky is falling, says Rabbit.",
+     "zh": "“天塌下来啦！”兔子说。",
+     "audio": "audio/all/8016_the_sky_is_falling_says_rabbit.mp3",
+     "slow": "audio/all/8016_the_sky_is_falling_says_rabbit.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p5",
+     "type": "sentence",
+     "en": "Fox runs to tell Bear.",
+     "zh": "狐狸跑去告诉熊。",
+     "audio": "audio/all/8017_fox_runs_to_tell_bear.mp3",
+     "slow": "audio/all/8017_fox_runs_to_tell_bear.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p6",
+     "type": "sentence",
+     "en": "The sky is falling, says Fox.",
+     "zh": "“天塌下来啦！”狐狸说。",
+     "audio": "audio/all/8018_the_sky_is_falling_says_fox.mp3",
+     "slow": "audio/all/8018_the_sky_is_falling_says_fox.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p7",
+     "type": "sentence",
+     "en": "Bear runs to tell Squirrel.",
+     "zh": "熊跑去告诉松鼠。",
+     "audio": "audio/all/8019_bear_runs_to_tell_squirrel.mp3",
+     "slow": "audio/all/8019_bear_runs_to_tell_squirrel.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p8",
+     "type": "sentence",
+     "en": "The sky is falling, says Bear.",
+     "zh": "“天塌下来啦！”熊说。",
+     "audio": "audio/all/8020_the_sky_is_falling_says_bear.mp3",
+     "slow": "audio/all/8020_the_sky_is_falling_says_bear.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p9",
+     "type": "sentence",
+     "en": "Squirrel runs to tell Deer.",
+     "zh": "松鼠跑去告诉鹿。",
+     "audio": "audio/all/8021_squirrel_runs_to_tell_deer.mp3",
+     "slow": "audio/all/8021_squirrel_runs_to_tell_deer.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p10",
+     "type": "sentence",
+     "en": "The sky is falling, says Squirrel.",
+     "zh": "“天塌下来啦！”松鼠说。",
+     "audio": "audio/all/8022_the_sky_is_falling_says_squirrel.mp3",
+     "slow": "audio/all/8022_the_sky_is_falling_says_squirrel.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p11",
+     "type": "sentence",
+     "en": "Deer runs to tell Mouse.",
+     "zh": "鹿跑去告诉老鼠。",
+     "audio": "audio/all/8023_deer_runs_to_tell_mouse.mp3",
+     "slow": "audio/all/8023_deer_runs_to_tell_mouse.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p12",
+     "type": "sentence",
+     "en": "The sky is falling, says Deer.",
+     "zh": "“天塌下来啦！”鹿说。",
+     "audio": "audio/all/8024_the_sky_is_falling_says_deer.mp3",
+     "slow": "audio/all/8024_the_sky_is_falling_says_deer.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p13",
+     "type": "sentence",
+     "en": "Mouse runs to tell Wise Old Owl.",
+     "zh": "老鼠跑去告诉聪明的老猫头鹰。",
+     "audio": "audio/all/8025_mouse_runs_to_tell_wise_old_owl.mp3",
+     "slow": "audio/all/8025_mouse_runs_to_tell_wise_old_owl.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p14",
+     "type": "sentence",
+     "en": "The sky is falling, says Mouse.",
+     "zh": "“天塌下来啦！”老鼠说。",
+     "audio": "audio/all/8026_the_sky_is_falling_says_mouse.mp3",
+     "slow": "audio/all/8026_the_sky_is_falling_says_mouse.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p15",
+     "type": "sentence",
+     "en": "No, it is not, says Wise Old Owl.",
+     "zh": "“不，天没有塌。”老猫头鹰说。",
+     "audio": "audio/all/8027_no_it_is_not_says_wise_old_owl.mp3",
+     "slow": "audio/all/8027_no_it_is_not_says_wise_old_owl.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p16",
+     "type": "sentence",
+     "en": "A nut fell, says Wise Old Owl.",
+     "zh": "“是一颗坚果掉下来了。”老猫头鹰说。",
+     "audio": "audio/all/8028_a_nut_fell_says_wise_old_owl.mp3",
+     "slow": "audio/all/8028_a_nut_fell_says_wise_old_owl.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_the_sky_is_falling-p17",
+     "type": "sentence",
+     "en": "It hit Rabbit on the head.",
+     "zh": "“它砸到了兔子的头。”",
+     "audio": "audio/all/8029_it_hit_rabbit_on_the_head.mp3",
+     "slow": "audio/all/8029_it_hit_rabbit_on_the_head.mp3",
+     "image": "img/raz-d-the_sky_is_falling-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

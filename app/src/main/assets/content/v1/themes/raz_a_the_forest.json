@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_the_forest",
+ "nameZh": "森林",
+ "bookTitle": "The Forest",
+ "razLevel": "A",
+ "order": 64,
+ "cover": "img/raz-a-the_forest-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_the_forest-u1",
+   "band": 2,
+   "title": "The Forest · 森林",
+   "cards": [
+    {
+     "id": "raz_a_the_forest-p1",
+     "type": "sentence",
+     "en": "This is a tree.",
+     "zh": "这是一棵树。",
+     "audio": "audio/all/5609_this_is_a_tree.mp3",
+     "slow": "audio/all/5609_this_is_a_tree.mp3",
+     "image": "img/raz-a-the_forest-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_the_forest-p2",
+     "type": "sentence",
+     "en": "This is a squirrel.",
+     "zh": "这是一只松鼠。",
+     "audio": "audio/all/5610_this_is_a_squirrel.mp3",
+     "slow": "audio/all/5610_this_is_a_squirrel.mp3",
+     "image": "img/raz-a-the_forest-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_the_forest-p3",
+     "type": "sentence",
+     "en": "This is a rabbit.",
+     "zh": "这是一只兔子。",
+     "audio": "audio/all/5611_this_is_a_rabbit.mp3",
+     "slow": "audio/all/5611_this_is_a_rabbit.mp3",
+     "image": "img/raz-a-the_forest-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_the_forest-p4",
+     "type": "sentence",
+     "en": "This is a deer.",
+     "zh": "这是一头鹿。",
+     "audio": "audio/all/5612_this_is_a_deer.mp3",
+     "slow": "audio/all/5612_this_is_a_deer.mp3",
+     "image": "img/raz-a-the_forest-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_the_forest-p5",
+     "type": "sentence",
+     "en": "This is a fox.",
+     "zh": "这是一只狐狸。",
+     "audio": "audio/all/5613_this_is_a_fox.mp3",
+     "slow": "audio/all/5613_this_is_a_fox.mp3",
+     "image": "img/raz-a-the_forest-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_the_forest-p6",
+     "type": "sentence",
+     "en": "This is a mushroom.",
+     "zh": "这是一朵蘑菇。",
+     "audio": "audio/all/5614_this_is_a_mushroom.mp3",
+     "slow": "audio/all/5614_this_is_a_mushroom.mp3",
+     "image": "img/raz-a-the_forest-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_the_forest-p7",
+     "type": "sentence",
+     "en": "This is a stream.",
+     "zh": "这是一条小溪。",
+     "audio": "audio/all/5615_this_is_a_stream.mp3",
+     "slow": "audio/all/5615_this_is_a_stream.mp3",
+     "image": "img/raz-a-the_forest-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_the_forest-p8",
+     "type": "sentence",
+     "en": "This is a forest.",
+     "zh": "这是一片森林。",
+     "audio": "audio/all/5616_this_is_a_forest.mp3",
+     "slow": "audio/all/5616_this_is_a_forest.mp3",
+     "image": "img/raz-a-the_forest-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

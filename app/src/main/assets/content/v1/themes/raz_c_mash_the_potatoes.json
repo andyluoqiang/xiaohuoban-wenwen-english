@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_mash_the_potatoes",
+ "nameZh": "捣土豆泥",
+ "bookTitle": "Mash the Potatoes",
+ "razLevel": "C",
+ "order": 33,
+ "cover": "img/raz-c-mash_the_potatoes-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_mash_the_potatoes-u1",
+   "band": 2,
+   "title": "Mash the Potatoes · 捣土豆泥",
+   "cards": [
+    {
+     "id": "raz_c_mash_the_potatoes-p1",
+     "type": "sentence",
+     "en": "Dad loves the turkey.",
+     "zh": "爸爸最爱火鸡。",
+     "audio": "audio/all/6386_dad_loves_the_turkey.mp3",
+     "slow": "audio/all/6386_dad_loves_the_turkey.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p2",
+     "type": "sentence",
+     "en": "Mom loves the pie.",
+     "zh": "妈妈最爱派。",
+     "audio": "audio/all/6387_mom_loves_the_pie.mp3",
+     "slow": "audio/all/6387_mom_loves_the_pie.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p3",
+     "type": "sentence",
+     "en": "I love the potatoes.",
+     "zh": "我爱土豆。",
+     "audio": "audio/all/6388_i_love_the_potatoes.mp3",
+     "slow": "audio/all/6388_i_love_the_potatoes.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p4",
+     "type": "sentence",
+     "en": "I count out the potatoes.",
+     "zh": "我数出土豆。",
+     "audio": "audio/all/6389_i_count_out_the_potatoes.mp3",
+     "slow": "audio/all/6389_i_count_out_the_potatoes.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p5",
+     "type": "sentence",
+     "en": "Dad peels the potatoes in the sink.",
+     "zh": "爸爸在水槽里削土豆皮。",
+     "audio": "audio/all/6390_dad_peels_the_potatoes_in_the_sink.mp3",
+     "slow": "audio/all/6390_dad_peels_the_potatoes_in_the_sink.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p6",
+     "type": "sentence",
+     "en": "We boil the potatoes to make them soft.",
+     "zh": "我们把土豆煮软。",
+     "audio": "audio/all/6391_we_boil_the_potatoes_to_make_them_soft.mp3",
+     "slow": "audio/all/6391_we_boil_the_potatoes_to_make_them_soft.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p7",
+     "type": "sentence",
+     "en": "We mash the potatoes.",
+     "zh": "我们捣土豆泥。",
+     "audio": "audio/all/6392_we_mash_the_potatoes.mp3",
+     "slow": "audio/all/6392_we_mash_the_potatoes.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_mash_the_potatoes-p8",
+     "type": "sentence",
+     "en": "We eat the mashed potatoes!",
+     "zh": "我们吃土豆泥！",
+     "audio": "audio/all/6393_we_eat_the_mashed_potatoes.mp3",
+     "slow": "audio/all/6393_we_eat_the_mashed_potatoes.mp3",
+     "image": "img/raz-c-mash_the_potatoes-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

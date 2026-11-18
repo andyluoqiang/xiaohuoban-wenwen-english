@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_carlos_counts_kittens",
+ "nameZh": "卡洛斯数小猫",
+ "bookTitle": "Carlos Counts Kittens",
+ "razLevel": "A",
+ "order": 10,
+ "cover": "img/raz-a-carlos_counts_kittens-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_carlos_counts_kittens-u1",
+   "band": 2,
+   "title": "Carlos Counts Kittens · 卡洛斯数小猫",
+   "cards": [
+    {
+     "id": "raz_a_carlos_counts_kittens-p1",
+     "type": "sentence",
+     "en": "Carlos has one kitten.",
+     "zh": "卡洛斯有一只小猫。",
+     "audio": "audio/all/5174_carlos_has_one_kitten.mp3",
+     "slow": "audio/all/5174_carlos_has_one_kitten.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p2",
+     "type": "sentence",
+     "en": "Carlos has two kittens.",
+     "zh": "卡洛斯有两只小猫。",
+     "audio": "audio/all/5175_carlos_has_two_kittens.mp3",
+     "slow": "audio/all/5175_carlos_has_two_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p3",
+     "type": "sentence",
+     "en": "Carlos has three kittens.",
+     "zh": "卡洛斯有三只小猫。",
+     "audio": "audio/all/5176_carlos_has_three_kittens.mp3",
+     "slow": "audio/all/5176_carlos_has_three_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p4",
+     "type": "sentence",
+     "en": "Carlos has four kittens.",
+     "zh": "卡洛斯有四只小猫。",
+     "audio": "audio/all/5177_carlos_has_four_kittens.mp3",
+     "slow": "audio/all/5177_carlos_has_four_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p5",
+     "type": "sentence",
+     "en": "Carlos has five kittens.",
+     "zh": "卡洛斯有五只小猫。",
+     "audio": "audio/all/5178_carlos_has_five_kittens.mp3",
+     "slow": "audio/all/5178_carlos_has_five_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p6",
+     "type": "sentence",
+     "en": "Carlos has six kittens.",
+     "zh": "卡洛斯有六只小猫。",
+     "audio": "audio/all/5179_carlos_has_six_kittens.mp3",
+     "slow": "audio/all/5179_carlos_has_six_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p7",
+     "type": "sentence",
+     "en": "Carlos has seven kittens.",
+     "zh": "卡洛斯有七只小猫。",
+     "audio": "audio/all/5180_carlos_has_seven_kittens.mp3",
+     "slow": "audio/all/5180_carlos_has_seven_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_carlos_counts_kittens-p8",
+     "type": "sentence",
+     "en": "Carlos has too many kittens!",
+     "zh": "卡洛斯有太多小猫啦！",
+     "audio": "audio/all/5181_carlos_has_too_many_kittens.mp3",
+     "slow": "audio/all/5181_carlos_has_too_many_kittens.mp3",
+     "image": "img/raz-a-carlos_counts_kittens-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

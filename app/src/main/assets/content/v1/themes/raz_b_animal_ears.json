@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "This elephant has big ears.",
      "zh": "这只大象有大大的耳朵。",
-     "audio": "audio/all/3050_this_elephant_has_big_ears.mp3",
-     "slow": "audio/all/3050_this_elephant_has_big_ears.mp3",
+     "audio": "audio/all/8450_this_elephant_has_big_ears.mp3",
+     "slow": "audio/all/8450_this_elephant_has_big_ears.mp3",
      "image": "img/raz-b-animal_ears-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "This beaver has small ears.",
      "zh": "这只海狸有小巧的耳朵。",
-     "audio": "audio/all/3051_this_beaver_has_small_ears.mp3",
-     "slow": "audio/all/3051_this_beaver_has_small_ears.mp3",
+     "audio": "audio/all/8451_this_beaver_has_small_ears.mp3",
+     "slow": "audio/all/8451_this_beaver_has_small_ears.mp3",
      "image": "img/raz-b-animal_ears-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "This fox has pointed ears.",
      "zh": "这只狐狸有尖尖的耳朵。",
-     "audio": "audio/all/3052_this_fox_has_pointed_ears.mp3",
-     "slow": "audio/all/3052_this_fox_has_pointed_ears.mp3",
+     "audio": "audio/all/8452_this_fox_has_pointed_ears.mp3",
+     "slow": "audio/all/8452_this_fox_has_pointed_ears.mp3",
      "image": "img/raz-b-animal_ears-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "This bear has round ears.",
      "zh": "这只熊有圆圆的耳朵。",
-     "audio": "audio/all/3053_this_bear_has_round_ears.mp3",
-     "slow": "audio/all/3053_this_bear_has_round_ears.mp3",
+     "audio": "audio/all/8453_this_bear_has_round_ears.mp3",
+     "slow": "audio/all/8453_this_bear_has_round_ears.mp3",
      "image": "img/raz-b-animal_ears-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "This cat has striped ears.",
      "zh": "这只猫有条纹耳朵。",
-     "audio": "audio/all/3054_this_cat_has_striped_ears.mp3",
-     "slow": "audio/all/3054_this_cat_has_striped_ears.mp3",
+     "audio": "audio/all/8454_this_cat_has_striped_ears.mp3",
+     "slow": "audio/all/8454_this_cat_has_striped_ears.mp3",
      "image": "img/raz-b-animal_ears-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "This puppy has spotted ears.",
      "zh": "这只小狗有斑点耳朵。",
-     "audio": "audio/all/3055_this_puppy_has_spotted_ears.mp3",
-     "slow": "audio/all/3055_this_puppy_has_spotted_ears.mp3",
+     "audio": "audio/all/8455_this_puppy_has_spotted_ears.mp3",
+     "slow": "audio/all/8455_this_puppy_has_spotted_ears.mp3",
      "image": "img/raz-b-animal_ears-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "This rabbit has long ears.",
      "zh": "这只兔子有长长的耳朵。",
-     "audio": "audio/all/3056_this_rabbit_has_long_ears.mp3",
-     "slow": "audio/all/3056_this_rabbit_has_long_ears.mp3",
+     "audio": "audio/all/8456_this_rabbit_has_long_ears.mp3",
+     "slow": "audio/all/8456_this_rabbit_has_long_ears.mp3",
      "image": "img/raz-b-animal_ears-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "Does this seal have ears?",
      "zh": "这只海豹有耳朵吗？",
-     "audio": "audio/all/3057_does_this_seal_have_ears.mp3",
-     "slow": "audio/all/3057_does_this_seal_have_ears.mp3",
+     "audio": "audio/all/8457_does_this_seal_have_ears.mp3",
+     "slow": "audio/all/8457_does_this_seal_have_ears.mp3",
      "image": "img/raz-b-animal_ears-p08.jpg",
      "page": 8
     }

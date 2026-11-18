@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_tadpole_teasing",
+ "nameZh": "小蝌蚪的嘲笑",
+ "bookTitle": "Tadpole Teasing",
+ "razLevel": "D",
+ "order": 63,
+ "cover": "img/raz-d-tadpole_teasing-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_tadpole_teasing-u1",
+   "band": 2,
+   "title": "Tadpole Teasing · 小蝌蚪的嘲笑",
+   "cards": [
+    {
+     "id": "raz_d_tadpole_teasing-p1",
+     "type": "sentence",
+     "en": "Taddy was like all the other tadpoles.",
+     "zh": "塔迪和其他小蝌蚪长得一样。",
+     "audio": "audio/all/7967_taddy_was_like_all_the_other_tadpoles.mp3",
+     "slow": "audio/all/7967_taddy_was_like_all_the_other_tadpoles.mp3",
+     "image": "img/raz-d-tadpole_teasing-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p2",
+     "type": "sentence",
+     "en": "Then, Taddy grew back legs.",
+     "zh": "后来，塔迪长出了后腿。",
+     "audio": "audio/all/7968_then_taddy_grew_back_legs.mp3",
+     "slow": "audio/all/7968_then_taddy_grew_back_legs.mp3",
+     "image": "img/raz-d-tadpole_teasing-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p3",
+     "type": "sentence",
+     "en": "You are strange, the other tadpoles said.",
+     "zh": "“你好奇怪。”其他小蝌蚪说。",
+     "audio": "audio/all/7969_you_are_strange_the_other_tadpoles_sai.mp3",
+     "slow": "audio/all/7969_you_are_strange_the_other_tadpoles_sai.mp3",
+     "image": "img/raz-d-tadpole_teasing-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p4",
+     "type": "sentence",
+     "en": "Next, Taddy grew front legs.",
+     "zh": "接着，塔迪长出了前腿。",
+     "audio": "audio/all/7970_next_taddy_grew_front_legs.mp3",
+     "slow": "audio/all/7970_next_taddy_grew_front_legs.mp3",
+     "image": "img/raz-d-tadpole_teasing-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p5",
+     "type": "sentence",
+     "en": "You are odd, the other tadpoles said.",
+     "zh": "“你好怪。”其他小蝌蚪说。",
+     "audio": "audio/all/7971_you_are_odd_the_other_tadpoles_said.mp3",
+     "slow": "audio/all/7971_you_are_odd_the_other_tadpoles_said.mp3",
+     "image": "img/raz-d-tadpole_teasing-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p6",
+     "type": "sentence",
+     "en": "Next, Taddy's tail became smaller and smaller.",
+     "zh": "接着，塔迪的尾巴变得越来越小。",
+     "audio": "audio/all/7972_next_taddy_s_tail_became_smaller_and_s.mp3",
+     "slow": "audio/all/7972_next_taddy_s_tail_became_smaller_and_s.mp3",
+     "image": "img/raz-d-tadpole_teasing-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p7",
+     "type": "sentence",
+     "en": "You are strange, the other tadpoles said.",
+     "zh": "“你好奇怪。”其他小蝌蚪说。",
+     "audio": "audio/all/7973_you_are_strange_the_other_tadpoles_sai.mp3",
+     "slow": "audio/all/7973_you_are_strange_the_other_tadpoles_sai.mp3",
+     "image": "img/raz-d-tadpole_teasing-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p8",
+     "type": "sentence",
+     "en": "Then, the other tadpoles grew back legs, too.",
+     "zh": "后来，其他小蝌蚪也长出了后腿。",
+     "audio": "audio/all/7974_then_the_other_tadpoles_grew_back_legs.mp3",
+     "slow": "audio/all/7974_then_the_other_tadpoles_grew_back_legs.mp3",
+     "image": "img/raz-d-tadpole_teasing-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p9",
+     "type": "sentence",
+     "en": "You are not odd, the other tadpoles said.",
+     "zh": "“你一点也不怪。”其他小蝌蚪说。",
+     "audio": "audio/all/7975_you_are_not_odd_the_other_tadpoles_sai.mp3",
+     "slow": "audio/all/7975_you_are_not_odd_the_other_tadpoles_sai.mp3",
+     "image": "img/raz-d-tadpole_teasing-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p10",
+     "type": "sentence",
+     "en": "You are just growing faster.",
+     "zh": "“你只是长得快一些。”",
+     "audio": "audio/all/7976_you_are_just_growing_faster.mp3",
+     "slow": "audio/all/7976_you_are_just_growing_faster.mp3",
+     "image": "img/raz-d-tadpole_teasing-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p11",
+     "type": "sentence",
+     "en": "We are excited, the other tadpoles said.",
+     "zh": "“我们好期待。”其他小蝌蚪说。",
+     "audio": "audio/all/7977_we_are_excited_the_other_tadpoles_said.mp3",
+     "slow": "audio/all/7977_we_are_excited_the_other_tadpoles_said.mp3",
+     "image": "img/raz-d-tadpole_teasing-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_tadpole_teasing-p12",
+     "type": "sentence",
+     "en": "We will be frogs like you soon.",
+     "zh": "“我们很快也会像你一样变成青蛙。”",
+     "audio": "audio/all/7978_we_will_be_frogs_like_you_soon.mp3",
+     "slow": "audio/all/7978_we_will_be_frogs_like_you_soon.mp3",
+     "image": "img/raz-d-tadpole_teasing-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

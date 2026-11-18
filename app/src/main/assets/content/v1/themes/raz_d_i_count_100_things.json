@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_i_count_100_things",
+ "nameZh": "我数一百样东西",
+ "bookTitle": "I Count 100 Things",
+ "razLevel": "D",
+ "order": 30,
+ "cover": "img/raz-d-i_count_100_things-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_i_count_100_things-u1",
+   "band": 2,
+   "title": "I Count 100 Things · 我数一百样东西",
+   "cards": [
+    {
+     "id": "raz_d_i_count_100_things-p1",
+     "type": "sentence",
+     "en": "Look at all these things!",
+     "zh": "看这么多东西！",
+     "audio": "audio/all/7489_look_at_all_these_things.mp3",
+     "slow": "audio/all/7489_look_at_all_these_things.mp3",
+     "image": "img/raz-d-i_count_100_things-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_i_count_100_things-p2",
+     "type": "sentence",
+     "en": "I count 100 paper clips.",
+     "zh": "我数出一百枚回形针。",
+     "audio": "audio/all/7490_i_count_100_paper_clips.mp3",
+     "slow": "audio/all/7490_i_count_100_paper_clips.mp3",
+     "image": "img/raz-d-i_count_100_things-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_count_100_things-p3",
+     "type": "sentence",
+     "en": "What can I make?",
+     "zh": "我能做什么呢？",
+     "audio": "audio/all/7491_what_can_i_make.mp3",
+     "slow": "audio/all/7491_what_can_i_make.mp3",
+     "image": "img/raz-d-i_count_100_things-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_i_count_100_things-p4",
+     "type": "sentence",
+     "en": "I can make a maze!",
+     "zh": "我能做一个迷宫！",
+     "audio": "audio/all/7492_i_can_make_a_maze.mp3",
+     "slow": "audio/all/7492_i_can_make_a_maze.mp3",
+     "image": "img/raz-d-i_count_100_things-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_i_count_100_things-p5",
+     "type": "sentence",
+     "en": "I count 100 gumdrops.",
+     "zh": "我数出一百颗小糖。",
+     "audio": "audio/all/7493_i_count_100_gumdrops.mp3",
+     "slow": "audio/all/7493_i_count_100_gumdrops.mp3",
+     "image": "img/raz-d-i_count_100_things-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_count_100_things-p6",
+     "type": "sentence",
+     "en": "What can I make?",
+     "zh": "我能做什么呢？",
+     "audio": "audio/all/7494_what_can_i_make.mp3",
+     "slow": "audio/all/7494_what_can_i_make.mp3",
+     "image": "img/raz-d-i_count_100_things-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_i_count_100_things-p7",
+     "type": "sentence",
+     "en": "I can make a rainbow!",
+     "zh": "我能做一道彩虹！",
+     "audio": "audio/all/7495_i_can_make_a_rainbow.mp3",
+     "slow": "audio/all/7495_i_can_make_a_rainbow.mp3",
+     "image": "img/raz-d-i_count_100_things-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_i_count_100_things-p8",
+     "type": "sentence",
+     "en": "I count 100 marshmallows.",
+     "zh": "我数出一百颗棉花糖。",
+     "audio": "audio/all/7496_i_count_100_marshmallows.mp3",
+     "slow": "audio/all/7496_i_count_100_marshmallows.mp3",
+     "image": "img/raz-d-i_count_100_things-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_count_100_things-p9",
+     "type": "sentence",
+     "en": "What can I make?",
+     "zh": "我能做什么呢？",
+     "audio": "audio/all/7497_what_can_i_make.mp3",
+     "slow": "audio/all/7497_what_can_i_make.mp3",
+     "image": "img/raz-d-i_count_100_things-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_i_count_100_things-p10",
+     "type": "sentence",
+     "en": "I can make an igloo!",
+     "zh": "我能做一座冰屋！",
+     "audio": "audio/all/7498_i_can_make_an_igloo.mp3",
+     "slow": "audio/all/7498_i_can_make_an_igloo.mp3",
+     "image": "img/raz-d-i_count_100_things-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_i_count_100_things-p11",
+     "type": "sentence",
+     "en": "I count 100 blocks.",
+     "zh": "我数出一百块积木。",
+     "audio": "audio/all/7499_i_count_100_blocks.mp3",
+     "slow": "audio/all/7499_i_count_100_blocks.mp3",
+     "image": "img/raz-d-i_count_100_things-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_count_100_things-p12",
+     "type": "sentence",
+     "en": "What can I make?",
+     "zh": "我能做什么呢？",
+     "audio": "audio/all/7500_what_can_i_make.mp3",
+     "slow": "audio/all/7500_what_can_i_make.mp3",
+     "image": "img/raz-d-i_count_100_things-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_i_count_100_things-p13",
+     "type": "sentence",
+     "en": "I can make a house!",
+     "zh": "我能做一座房子！",
+     "audio": "audio/all/7501_i_can_make_a_house.mp3",
+     "slow": "audio/all/7501_i_can_make_a_house.mp3",
+     "image": "img/raz-d-i_count_100_things-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_i_count_100_things-p14",
+     "type": "sentence",
+     "en": "What can you make with 100 things?",
+     "zh": "你能用一百样东西做什么呢？",
+     "audio": "audio/all/7502_what_can_you_make_with_100_things.mp3",
+     "slow": "audio/all/7502_what_can_you_make_with_100_things.mp3",
+     "image": "img/raz-d-i_count_100_things-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_yummy_yummy",
+ "nameZh": "好吃好吃",
+ "bookTitle": "Yummy, Yummy",
+ "razLevel": "C",
+ "order": 87,
+ "cover": "img/raz-c-yummy_yummy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_yummy_yummy-u1",
+   "band": 2,
+   "title": "Yummy, Yummy · 好吃好吃",
+   "cards": [
+    {
+     "id": "raz_c_yummy_yummy-p1",
+     "type": "sentence",
+     "en": "I like popcorn.",
+     "zh": "我喜欢爆米花。",
+     "audio": "audio/all/6975_i_like_popcorn.mp3",
+     "slow": "audio/all/6975_i_like_popcorn.mp3",
+     "image": "img/raz-c-yummy_yummy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_yummy_yummy-p2",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6976_yummy_yummy.mp3",
+     "slow": "audio/all/6976_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_yummy_yummy-p3",
+     "type": "sentence",
+     "en": "I like pizza.",
+     "zh": "我喜欢披萨。",
+     "audio": "audio/all/6977_i_like_pizza.mp3",
+     "slow": "audio/all/6977_i_like_pizza.mp3",
+     "image": "img/raz-c-yummy_yummy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_yummy_yummy-p4",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6978_yummy_yummy.mp3",
+     "slow": "audio/all/6978_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_yummy_yummy-p5",
+     "type": "sentence",
+     "en": "I like bread and jam.",
+     "zh": "我喜欢面包加果酱。",
+     "audio": "audio/all/6979_i_like_bread_and_jam.mp3",
+     "slow": "audio/all/6979_i_like_bread_and_jam.mp3",
+     "image": "img/raz-c-yummy_yummy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_yummy_yummy-p6",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6980_yummy_yummy.mp3",
+     "slow": "audio/all/6980_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_yummy_yummy-p7",
+     "type": "sentence",
+     "en": "I like apples and bananas.",
+     "zh": "我喜欢苹果和香蕉。",
+     "audio": "audio/all/6981_i_like_apples_and_bananas.mp3",
+     "slow": "audio/all/6981_i_like_apples_and_bananas.mp3",
+     "image": "img/raz-c-yummy_yummy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_yummy_yummy-p8",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6982_yummy_yummy.mp3",
+     "slow": "audio/all/6982_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_yummy_yummy-p9",
+     "type": "sentence",
+     "en": "I like corn on the cob.",
+     "zh": "我喜欢玉米棒。",
+     "audio": "audio/all/6983_i_like_corn_on_the_cob.mp3",
+     "slow": "audio/all/6983_i_like_corn_on_the_cob.mp3",
+     "image": "img/raz-c-yummy_yummy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_yummy_yummy-p10",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6984_yummy_yummy.mp3",
+     "slow": "audio/all/6984_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_yummy_yummy-p11",
+     "type": "sentence",
+     "en": "I like carrots and peas.",
+     "zh": "我喜欢胡萝卜和豌豆。",
+     "audio": "audio/all/6985_i_like_carrots_and_peas.mp3",
+     "slow": "audio/all/6985_i_like_carrots_and_peas.mp3",
+     "image": "img/raz-c-yummy_yummy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_yummy_yummy-p12",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6986_yummy_yummy.mp3",
+     "slow": "audio/all/6986_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_yummy_yummy-p13",
+     "type": "sentence",
+     "en": "I like cookies and milk.",
+     "zh": "我喜欢饼干加牛奶。",
+     "audio": "audio/all/6987_i_like_cookies_and_milk.mp3",
+     "slow": "audio/all/6987_i_like_cookies_and_milk.mp3",
+     "image": "img/raz-c-yummy_yummy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_yummy_yummy-p14",
+     "type": "sentence",
+     "en": "Yummy, yummy.",
+     "zh": "好吃好吃。",
+     "audio": "audio/all/6988_yummy_yummy.mp3",
+     "slow": "audio/all/6988_yummy_yummy.mp3",
+     "image": "img/raz-c-yummy_yummy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_yummy_yummy-p15",
+     "type": "sentence",
+     "en": "I don't like lima beans.",
+     "zh": "我不喜欢利马豆。",
+     "audio": "audio/all/6989_i_don_t_like_lima_beans.mp3",
+     "slow": "audio/all/6989_i_don_t_like_lima_beans.mp3",
+     "image": "img/raz-c-yummy_yummy-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_yummy_yummy-p16",
+     "type": "sentence",
+     "en": "Yucky, yucky.",
+     "zh": "难吃难吃。",
+     "audio": "audio/all/6990_yucky_yucky.mp3",
+     "slow": "audio/all/6990_yucky_yucky.mp3",
+     "image": "img/raz-c-yummy_yummy-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

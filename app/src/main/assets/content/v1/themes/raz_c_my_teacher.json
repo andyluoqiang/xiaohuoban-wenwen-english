@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_my_teacher",
+ "nameZh": "我的老师",
+ "bookTitle": "My Teacher",
+ "razLevel": "C",
+ "order": 38,
+ "cover": "img/raz-c-my_teacher-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_my_teacher-u1",
+   "band": 2,
+   "title": "My Teacher · 我的老师",
+   "cards": [
+    {
+     "id": "raz_c_my_teacher-p1",
+     "type": "sentence",
+     "en": "My teacher is the best.",
+     "zh": "我的老师最棒了。",
+     "audio": "audio/all/6429_my_teacher_is_the_best.mp3",
+     "slow": "audio/all/6429_my_teacher_is_the_best.mp3",
+     "image": "img/raz-c-my_teacher-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_my_teacher-p2",
+     "type": "sentence",
+     "en": "My teacher is helpful.",
+     "zh": "我的老师乐于助人。",
+     "audio": "audio/all/6430_my_teacher_is_helpful.mp3",
+     "slow": "audio/all/6430_my_teacher_is_helpful.mp3",
+     "image": "img/raz-c-my_teacher-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_my_teacher-p3",
+     "type": "sentence",
+     "en": "My teacher is caring.",
+     "zh": "我的老师有爱心。",
+     "audio": "audio/all/6431_my_teacher_is_caring.mp3",
+     "slow": "audio/all/6431_my_teacher_is_caring.mp3",
+     "image": "img/raz-c-my_teacher-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_my_teacher-p4",
+     "type": "sentence",
+     "en": "My teacher is creative.",
+     "zh": "我的老师有创意。",
+     "audio": "audio/all/6432_my_teacher_is_creative.mp3",
+     "slow": "audio/all/6432_my_teacher_is_creative.mp3",
+     "image": "img/raz-c-my_teacher-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_my_teacher-p5",
+     "type": "sentence",
+     "en": "My teacher is funny.",
+     "zh": "我的老师风趣。",
+     "audio": "audio/all/6433_my_teacher_is_funny.mp3",
+     "slow": "audio/all/6433_my_teacher_is_funny.mp3",
+     "image": "img/raz-c-my_teacher-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_my_teacher-p6",
+     "type": "sentence",
+     "en": "My teacher is smart.",
+     "zh": "我的老师聪明。",
+     "audio": "audio/all/6434_my_teacher_is_smart.mp3",
+     "slow": "audio/all/6434_my_teacher_is_smart.mp3",
+     "image": "img/raz-c-my_teacher-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_my_teacher-p7",
+     "type": "sentence",
+     "en": "My teacher is talented.",
+     "zh": "我的老师有才华。",
+     "audio": "audio/all/6435_my_teacher_is_talented.mp3",
+     "slow": "audio/all/6435_my_teacher_is_talented.mp3",
+     "image": "img/raz-c-my_teacher-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_my_teacher-p8",
+     "type": "sentence",
+     "en": "My teacher is interesting.",
+     "zh": "我的老师有趣。",
+     "audio": "audio/all/6436_my_teacher_is_interesting.mp3",
+     "slow": "audio/all/6436_my_teacher_is_interesting.mp3",
+     "image": "img/raz-c-my_teacher-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_my_teacher-p9",
+     "type": "sentence",
+     "en": "I learn so much from my teacher.",
+     "zh": "我从老师那里学到好多。",
+     "audio": "audio/all/6437_i_learn_so_much_from_my_teacher.mp3",
+     "slow": "audio/all/6437_i_learn_so_much_from_my_teacher.mp3",
+     "image": "img/raz-c-my_teacher-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_my_teacher-p10",
+     "type": "sentence",
+     "en": "My teacher is the best.",
+     "zh": "我的老师最棒了。",
+     "audio": "audio/all/6438_my_teacher_is_the_best.mp3",
+     "slow": "audio/all/6438_my_teacher_is_the_best.mp3",
+     "image": "img/raz-c-my_teacher-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

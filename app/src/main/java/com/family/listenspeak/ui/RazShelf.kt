@@ -7,6 +7,13 @@ import android.graphics.BitmapFactory
 import android.graphics.Color
 import android.graphics.Typeface
 import android.graphics.drawable.GradientDrawable
+import android.text.SpannableStringBuilder
+import android.text.Spanned
+import android.text.TextPaint
+import android.text.method.LinkMovementMethod
+import android.text.style.ClickableSpan
+import com.family.listenspeak.data.VocabDef
+import java.util.Locale
 import android.view.Gravity
 import android.view.View
 import android.widget.Button
@@ -25,7 +32,6 @@ import com.family.listenspeak.data.RazCatalog
 import com.family.listenspeak.eval.ScoreOutcome
 import com.family.listenspeak.eval.StarMapper
 import kotlinx.coroutines.launch
-import java.util.Locale
 
 /**
  * RAZ 分级阅读馆（v0.2.22）：级别列表 → 书架 → 一本书三步精读
@@ -260,11 +266,13 @@ class RazShelf(
     }
 
     private fun coverPath(themeId: String): String {
-        // B 级：img/raz-b-<slug>-cover.jpg；aa/A 级官方书：img/raz-aa-<slug>-cover.jpg（slug 保留下划线）；自编书 slug 无下划线同样适用
+        // B 级：img/raz-b-<slug>-cover.jpg；aa/A/C/D 级官方书：img/raz-<level>-<slug>-cover.jpg（slug 保留下划线）；自编书 slug 无下划线同样适用
         return when {
             themeId.startsWith("raz_b_") -> "content/v1/img/raz-b-${themeId.removePrefix("raz_b_")}-cover.jpg"
             themeId.startsWith("raz_aa_") -> "content/v1/img/raz-aa-${themeId.removePrefix("raz_aa_")}-cover.jpg"
             themeId.startsWith("raz_a_") -> "content/v1/img/raz-a-${themeId.removePrefix("raz_a_")}-cover.jpg"
+            themeId.startsWith("raz_c_") -> "content/v1/img/raz-c-${themeId.removePrefix("raz_c_")}-cover.jpg"
+            themeId.startsWith("raz_d_") -> "content/v1/img/raz-d-${themeId.removePrefix("raz_d_")}-cover.jpg"
             else -> "content/v1/img/${themeId.replace("raz_", "raz-").replace('_', '-')}-cover.jpg"
         }
     }
@@ -486,7 +494,8 @@ class RazShelf(
         val iv = ImageView(act).apply { scaleType = ImageView.ScaleType.FIT_CENTER; setPadding(dp(4), dp(4), dp(4), dp(4)) }
         setupImage("content/v1/${cur.img}", iv)
         card.addView(iv, LinearLayout.LayoutParams(mp(), dp(140)))
-        val en = textTv(cur.en, 24f, brown()).also { it.gravity = Gravity.CENTER }
+        // 跟读句：单词可点击，弹卡看释义+发音（与主流程点词查义同款）
+        val en = buildTapTextView(cur.en, 24f, brown()).also { it.gravity = Gravity.CENTER }
         en.maxLines = 3
         card.addView(en)
         cur.zh?.let { card.addView(textTv(it, 14f, hintColor()).also { t -> t.gravity = Gravity.CENTER },
@@ -521,6 +530,79 @@ class RazShelf(
         scoreLine = textTv("", 15f, hintColor()).also { it.gravity = Gravity.CENTER; it.minHeight = dp(44) }
         card.addView(scoreLine, LinearLayout.LayoutParams(mp(), wrap()).also { it.topMargin = dp(8) })
         return card
+    }
+
+    // =============== 点词查义：跟读句的单词可点击，弹卡看释义+发音 ===============
+    private fun cleanKey(s: String): String {
+        var k = s.lowercase(Locale.ROOT)
+        k = k.trim(' ', '.', ',', '!', '?', ';', ':', '(', ')', '"', '\'', '–', '’', '“', '”', '—')
+        return k
+    }
+
+    private fun buildTapTextView(s: String, size: Float, color: Int) = TextView(act).apply {
+        text = buildTapSpan(s, color)
+        textSize = size; setTextColor(color); typeface = Typeface.DEFAULT_BOLD
+        movementMethod = LinkMovementMethod.getInstance()
+    }
+
+    private fun buildTapSpan(s: String, color: Int): SpannableStringBuilder {
+        val sb = SpannableStringBuilder()
+        val parts = s.split(" ")
+        parts.forEachIndexed { i, raw ->
+            val start = sb.length
+            sb.append(raw)
+            val key = cleanKey(raw)
+            if (key.isNotEmpty()) {
+                val display = raw
+                sb.setSpan(object : ClickableSpan() {
+                    override fun onClick(widget: View) { showWordPopup(display, key) }
+                    override fun updateDrawState(ds: TextPaint) {
+                        ds.color = color; ds.isUnderlineText = false
+                    }
+                }, start, start + raw.length, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+            }
+            if (i < parts.size - 1) sb.append(" ")
+        }
+        return sb
+    }
+
+    private fun showWordPopup(display: String, key: String) {
+        val e = app.content.vocab(key)
+        val overlay = FrameLayout(act).apply {
+            setBackgroundColor(Color.argb(150, 0, 0, 0))
+            setOnClickListener { container.removeView(this) }
+        }
+        val card = vBox().apply {
+            gravity = Gravity.CENTER
+            background = rounded(Color.WHITE, dp(30))
+            setPadding(dp(28), dp(22), dp(28), dp(22))
+            setOnClickListener { }   // 点击卡片本身不关闭
+        }
+        card.addView(textTv(display, 30f, brown()).also { it.gravity = Gravity.CENTER })
+        val imgP = e?.img?.takeIf { it.startsWith("img/") }
+        if (imgP != null) {
+            val iv = ImageView(act).apply {
+                scaleType = ImageView.ScaleType.FIT_CENTER; setPadding(dp(6), dp(6), dp(6), dp(6))
+            }
+            setupImage("content/v1/$imgP", iv)
+            card.addView(iv, LinearLayout.LayoutParams(dp(96), dp(96)))
+        }
+        card.addView(textTv(e?.zh ?: "…", 18f, hintColor()).also { it.gravity = Gravity.CENTER },
+            LinearLayout.LayoutParams(mp(), wrap()).also { it.topMargin = dp(6) })
+        e?.pos?.let { card.addView(textTv(it, 12f, hintColor()).also { t -> t.gravity = Gravity.CENTER }) }
+        val sound = cartoonBtnIcon("发音", R.drawable.ic_speaker, 0xFF4FA3D1.toInt(), Color.WHITE) { playWordSound(key, display, e) }
+        card.addView(sound, LinearLayout.LayoutParams(wrap(), wrap()).also { it.topMargin = dp(12) })
+        val wrap = FrameLayout(act)
+        wrap.addView(card, FrameLayout.LayoutParams(FrameLayout.LayoutParams.WRAP_CONTENT, FrameLayout.LayoutParams.WRAP_CONTENT).apply { gravity = Gravity.CENTER })
+        overlay.addView(wrap, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
+        container.addView(overlay, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
+        // 弹卡即自动读一遍；孩子可再点「发音」重复听
+        playWordSound(key, display, e)
+    }
+
+    private fun playWordSound(key: String, display: String, e: VocabDef?) {
+        if (e?.aud != null) act.lifecycleScope.launch { app.player.play("content/v1/${e.aud}", fallbackText = display, slow = false) }
+        else app.tts.speak(display, false)
     }
 
     private fun footForStep(): View {

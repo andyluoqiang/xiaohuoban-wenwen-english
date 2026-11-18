@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_body",
+ "nameZh": "我的身体",
+ "bookTitle": "My Body",
+ "razLevel": "A",
+ "order": 41,
+ "cover": "img/raz-a-my_body-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_body-u1",
+   "band": 2,
+   "title": "My Body · 我的身体",
+   "cards": [
+    {
+     "id": "raz_a_my_body-p1",
+     "type": "sentence",
+     "en": "This is my foot.",
+     "zh": "这是我的脚。",
+     "audio": "audio/all/5425_this_is_my_foot.mp3",
+     "slow": "audio/all/5425_this_is_my_foot.mp3",
+     "image": "img/raz-a-my_body-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_body-p2",
+     "type": "sentence",
+     "en": "This is my leg.",
+     "zh": "这是我的腿。",
+     "audio": "audio/all/5426_this_is_my_leg.mp3",
+     "slow": "audio/all/5426_this_is_my_leg.mp3",
+     "image": "img/raz-a-my_body-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_body-p3",
+     "type": "sentence",
+     "en": "This is my belly.",
+     "zh": "这是我的肚子。",
+     "audio": "audio/all/5427_this_is_my_belly.mp3",
+     "slow": "audio/all/5427_this_is_my_belly.mp3",
+     "image": "img/raz-a-my_body-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_body-p4",
+     "type": "sentence",
+     "en": "This is my chest.",
+     "zh": "这是我的胸口。",
+     "audio": "audio/all/5428_this_is_my_chest.mp3",
+     "slow": "audio/all/5428_this_is_my_chest.mp3",
+     "image": "img/raz-a-my_body-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_body-p5",
+     "type": "sentence",
+     "en": "This is my hand.",
+     "zh": "这是我的手。",
+     "audio": "audio/all/5429_this_is_my_hand.mp3",
+     "slow": "audio/all/5429_this_is_my_hand.mp3",
+     "image": "img/raz-a-my_body-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_body-p6",
+     "type": "sentence",
+     "en": "This is my arm.",
+     "zh": "这是我的手臂。",
+     "audio": "audio/all/5430_this_is_my_arm.mp3",
+     "slow": "audio/all/5430_this_is_my_arm.mp3",
+     "image": "img/raz-a-my_body-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_body-p7",
+     "type": "sentence",
+     "en": "This is my head.",
+     "zh": "这是我的头。",
+     "audio": "audio/all/5431_this_is_my_head.mp3",
+     "slow": "audio/all/5431_this_is_my_head.mp3",
+     "image": "img/raz-a-my_body-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_body-p8",
+     "type": "sentence",
+     "en": "This is my body.",
+     "zh": "这是我的身体。",
+     "audio": "audio/all/5432_this_is_my_body.mp3",
+     "slow": "audio/all/5432_this_is_my_body.mp3",
+     "image": "img/raz-a-my_body-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

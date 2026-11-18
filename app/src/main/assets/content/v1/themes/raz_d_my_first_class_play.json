@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_my_first_class_play",
+ "nameZh": "我的第一场班级演出",
+ "bookTitle": "My First Class Play",
+ "razLevel": "D",
+ "order": 44,
+ "cover": "img/raz-d-my_first_class_play-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_my_first_class_play-u1",
+   "band": 2,
+   "title": "My First Class Play · 我的第一场班级演出",
+   "cards": [
+    {
+     "id": "raz_d_my_first_class_play-p1",
+     "type": "sentence",
+     "en": "Today is my first class play.",
+     "zh": "今天是我的第一场班级演出。",
+     "audio": "audio/all/7694_today_is_my_first_class_play.mp3",
+     "slow": "audio/all/7694_today_is_my_first_class_play.mp3",
+     "image": "img/raz-d-my_first_class_play-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_first_class_play-p2",
+     "type": "sentence",
+     "en": "I have stage fright!",
+     "zh": "我怯场了！",
+     "audio": "audio/all/7695_i_have_stage_fright.mp3",
+     "slow": "audio/all/7695_i_have_stage_fright.mp3",
+     "image": "img/raz-d-my_first_class_play-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_first_class_play-p3",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7696_i_am_nervous.mp3",
+     "slow": "audio/all/7696_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_my_first_class_play-p4",
+     "type": "sentence",
+     "en": "What if I fall off the stage?",
+     "zh": "要是我从舞台上摔下来怎么办？",
+     "audio": "audio/all/7697_what_if_i_fall_off_the_stage.mp3",
+     "slow": "audio/all/7697_what_if_i_fall_off_the_stage.mp3",
+     "image": "img/raz-d-my_first_class_play-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_my_first_class_play-p5",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7698_i_am_nervous.mp3",
+     "slow": "audio/all/7698_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_my_first_class_play-p6",
+     "type": "sentence",
+     "en": "What if I forget my lines?",
+     "zh": "要是我忘词了怎么办？",
+     "audio": "audio/all/7699_what_if_i_forget_my_lines.mp3",
+     "slow": "audio/all/7699_what_if_i_forget_my_lines.mp3",
+     "image": "img/raz-d-my_first_class_play-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_my_first_class_play-p7",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7700_i_am_nervous.mp3",
+     "slow": "audio/all/7700_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_my_first_class_play-p8",
+     "type": "sentence",
+     "en": "What if I get the giggles?",
+     "zh": "要是我笑场了怎么办？",
+     "audio": "audio/all/7701_what_if_i_get_the_giggles.mp3",
+     "slow": "audio/all/7701_what_if_i_get_the_giggles.mp3",
+     "image": "img/raz-d-my_first_class_play-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_my_first_class_play-p9",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7702_i_am_nervous.mp3",
+     "slow": "audio/all/7702_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_my_first_class_play-p10",
+     "type": "sentence",
+     "en": "What if I ruin my costume?",
+     "zh": "要是我弄坏戏服怎么办？",
+     "audio": "audio/all/7703_what_if_i_ruin_my_costume.mp3",
+     "slow": "audio/all/7703_what_if_i_ruin_my_costume.mp3",
+     "image": "img/raz-d-my_first_class_play-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_my_first_class_play-p11",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7704_i_am_nervous.mp3",
+     "slow": "audio/all/7704_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_my_first_class_play-p12",
+     "type": "sentence",
+     "en": "What if I drop my prop?",
+     "zh": "要是我掉了道具怎么办？",
+     "audio": "audio/all/7705_what_if_i_drop_my_prop.mp3",
+     "slow": "audio/all/7705_what_if_i_drop_my_prop.mp3",
+     "image": "img/raz-d-my_first_class_play-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_my_first_class_play-p13",
+     "type": "sentence",
+     "en": "I am nervous.",
+     "zh": "我好紧张。",
+     "audio": "audio/all/7706_i_am_nervous.mp3",
+     "slow": "audio/all/7706_i_am_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_my_first_class_play-p14",
+     "type": "sentence",
+     "en": "But I have to go onstage.",
+     "zh": "可我必须上台。",
+     "audio": "audio/all/7707_but_i_have_to_go_onstage.mp3",
+     "slow": "audio/all/7707_but_i_have_to_go_onstage.mp3",
+     "image": "img/raz-d-my_first_class_play-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_my_first_class_play-p15",
+     "type": "sentence",
+     "en": "Acting is fun!",
+     "zh": "演戏真好玩！",
+     "audio": "audio/all/7708_acting_is_fun.mp3",
+     "slow": "audio/all/7708_acting_is_fun.mp3",
+     "image": "img/raz-d-my_first_class_play-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_my_first_class_play-p16",
+     "type": "sentence",
+     "en": "Why was I so nervous?",
+     "zh": "我刚才干嘛那么紧张呀？",
+     "audio": "audio/all/7709_why_was_i_so_nervous.mp3",
+     "slow": "audio/all/7709_why_was_i_so_nervous.mp3",
+     "image": "img/raz-d-my_first_class_play-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

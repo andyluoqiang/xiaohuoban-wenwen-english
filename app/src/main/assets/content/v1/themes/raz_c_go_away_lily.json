@@ -1,0 +1,277 @@
+{
+ "theme": "raz_c_go_away_lily",
+ "nameZh": "走开，莉莉！",
+ "bookTitle": "Go Away, Lily!",
+ "razLevel": "C",
+ "order": 18,
+ "cover": "img/raz-c-go_away_lily-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_go_away_lily-u1",
+   "band": 2,
+   "title": "Go Away, Lily! · 走开，莉莉！",
+   "cards": [
+    {
+     "id": "raz_c_go_away_lily-p1",
+     "type": "sentence",
+     "en": "Lily upset Jack.",
+     "zh": "莉莉惹恼了杰克。",
+     "audio": "audio/all/6194_lily_upset_jack.mp3",
+     "slow": "audio/all/6194_lily_upset_jack.mp3",
+     "image": "img/raz-c-go_away_lily-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_go_away_lily-p2",
+     "type": "sentence",
+     "en": "When Jack sat down,",
+     "zh": "杰克坐下时，",
+     "audio": "audio/all/6195_when_jack_sat_down.mp3",
+     "slow": "audio/all/6195_when_jack_sat_down.mp3",
+     "image": "img/raz-c-go_away_lily-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_go_away_lily-p3",
+     "type": "sentence",
+     "en": "Lily sat down.",
+     "zh": "莉莉也坐下。",
+     "audio": "audio/all/6196_lily_sat_down.mp3",
+     "slow": "audio/all/6196_lily_sat_down.mp3",
+     "image": "img/raz-c-go_away_lily-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_go_away_lily-p4",
+     "type": "sentence",
+     "en": "Go away, Lily!",
+     "zh": "走开，莉莉！",
+     "audio": "audio/all/6197_go_away_lily.mp3",
+     "slow": "audio/all/6197_go_away_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_go_away_lily-p5",
+     "type": "sentence",
+     "en": "Go away.",
+     "zh": "走开。",
+     "audio": "audio/all/6198_go_away.mp3",
+     "slow": "audio/all/6198_go_away.mp3",
+     "image": "img/raz-c-go_away_lily-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_go_away_lily-p6",
+     "type": "sentence",
+     "en": "When Jack read,",
+     "zh": "杰克看书时，",
+     "audio": "audio/all/6199_when_jack_read.mp3",
+     "slow": "audio/all/6199_when_jack_read.mp3",
+     "image": "img/raz-c-go_away_lily-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_go_away_lily-p7",
+     "type": "sentence",
+     "en": "Lily read.",
+     "zh": "莉莉也看书。",
+     "audio": "audio/all/6200_lily_read.mp3",
+     "slow": "audio/all/6200_lily_read.mp3",
+     "image": "img/raz-c-go_away_lily-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_go_away_lily-p8",
+     "type": "sentence",
+     "en": "Go away, Lily!",
+     "zh": "走开，莉莉！",
+     "audio": "audio/all/6201_go_away_lily.mp3",
+     "slow": "audio/all/6201_go_away_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_go_away_lily-p9",
+     "type": "sentence",
+     "en": "Go away.",
+     "zh": "走开。",
+     "audio": "audio/all/6202_go_away.mp3",
+     "slow": "audio/all/6202_go_away.mp3",
+     "image": "img/raz-c-go_away_lily-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_go_away_lily-p10",
+     "type": "sentence",
+     "en": "When Jack played,",
+     "zh": "杰克玩的时候，",
+     "audio": "audio/all/6203_when_jack_played.mp3",
+     "slow": "audio/all/6203_when_jack_played.mp3",
+     "image": "img/raz-c-go_away_lily-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_go_away_lily-p11",
+     "type": "sentence",
+     "en": "Lily played.",
+     "zh": "莉莉也玩。",
+     "audio": "audio/all/6204_lily_played.mp3",
+     "slow": "audio/all/6204_lily_played.mp3",
+     "image": "img/raz-c-go_away_lily-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_go_away_lily-p12",
+     "type": "sentence",
+     "en": "Go away, Lily!",
+     "zh": "走开，莉莉！",
+     "audio": "audio/all/6205_go_away_lily.mp3",
+     "slow": "audio/all/6205_go_away_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_go_away_lily-p13",
+     "type": "sentence",
+     "en": "Go away.",
+     "zh": "走开。",
+     "audio": "audio/all/6206_go_away.mp3",
+     "slow": "audio/all/6206_go_away.mp3",
+     "image": "img/raz-c-go_away_lily-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_go_away_lily-p14",
+     "type": "sentence",
+     "en": "When Jack ate,",
+     "zh": "杰克吃东西时，",
+     "audio": "audio/all/6207_when_jack_ate.mp3",
+     "slow": "audio/all/6207_when_jack_ate.mp3",
+     "image": "img/raz-c-go_away_lily-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_go_away_lily-p15",
+     "type": "sentence",
+     "en": "Lily ate.",
+     "zh": "莉莉也吃。",
+     "audio": "audio/all/6208_lily_ate.mp3",
+     "slow": "audio/all/6208_lily_ate.mp3",
+     "image": "img/raz-c-go_away_lily-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_go_away_lily-p16",
+     "type": "sentence",
+     "en": "Go away, Lily!",
+     "zh": "走开，莉莉！",
+     "audio": "audio/all/6209_go_away_lily.mp3",
+     "slow": "audio/all/6209_go_away_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_go_away_lily-p17",
+     "type": "sentence",
+     "en": "Go away.",
+     "zh": "走开。",
+     "audio": "audio/all/6210_go_away.mp3",
+     "slow": "audio/all/6210_go_away.mp3",
+     "image": "img/raz-c-go_away_lily-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_go_away_lily-p18",
+     "type": "sentence",
+     "en": "When Jack ran,",
+     "zh": "杰克跑步时，",
+     "audio": "audio/all/6211_when_jack_ran.mp3",
+     "slow": "audio/all/6211_when_jack_ran.mp3",
+     "image": "img/raz-c-go_away_lily-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_go_away_lily-p19",
+     "type": "sentence",
+     "en": "Lily ran.",
+     "zh": "莉莉也跑。",
+     "audio": "audio/all/6212_lily_ran.mp3",
+     "slow": "audio/all/6212_lily_ran.mp3",
+     "image": "img/raz-c-go_away_lily-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_go_away_lily-p20",
+     "type": "sentence",
+     "en": "Go away, Lily!",
+     "zh": "走开，莉莉！",
+     "audio": "audio/all/6213_go_away_lily.mp3",
+     "slow": "audio/all/6213_go_away_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_go_away_lily-p21",
+     "type": "sentence",
+     "en": "Go away.",
+     "zh": "走开。",
+     "audio": "audio/all/6214_go_away.mp3",
+     "slow": "audio/all/6214_go_away.mp3",
+     "image": "img/raz-c-go_away_lily-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_go_away_lily-p22",
+     "type": "sentence",
+     "en": "When Jack slept,",
+     "zh": "杰克睡觉时，",
+     "audio": "audio/all/6215_when_jack_slept.mp3",
+     "slow": "audio/all/6215_when_jack_slept.mp3",
+     "image": "img/raz-c-go_away_lily-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_go_away_lily-p23",
+     "type": "sentence",
+     "en": "Lily slept, too.",
+     "zh": "莉莉也睡了。",
+     "audio": "audio/all/6216_lily_slept_too.mp3",
+     "slow": "audio/all/6216_lily_slept_too.mp3",
+     "image": "img/raz-c-go_away_lily-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_go_away_lily-p24",
+     "type": "sentence",
+     "en": "Shhh.",
+     "zh": "嘘。",
+     "audio": "audio/all/6217_shhh.mp3",
+     "slow": "audio/all/6217_shhh.mp3",
+     "image": "img/raz-c-go_away_lily-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_go_away_lily-p25",
+     "type": "sentence",
+     "en": "Stay, Lily.",
+     "zh": "留下吧，莉莉。",
+     "audio": "audio/all/6218_stay_lily.mp3",
+     "slow": "audio/all/6218_stay_lily.mp3",
+     "image": "img/raz-c-go_away_lily-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_go_away_lily-p26",
+     "type": "sentence",
+     "en": "Stay.",
+     "zh": "留下。",
+     "audio": "audio/all/6219_stay.mp3",
+     "slow": "audio/all/6219_stay.mp3",
+     "image": "img/raz-c-go_away_lily-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

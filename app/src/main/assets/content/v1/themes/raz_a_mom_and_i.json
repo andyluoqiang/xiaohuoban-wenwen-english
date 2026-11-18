@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_mom_and_i",
+ "nameZh": "妈妈和我",
+ "bookTitle": "Mom and I",
+ "razLevel": "A",
+ "order": 39,
+ "cover": "img/raz-a-mom_and_i-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_mom_and_i-u1",
+   "band": 2,
+   "title": "Mom and I · 妈妈和我",
+   "cards": [
+    {
+     "id": "raz_a_mom_and_i-p1",
+     "type": "sentence",
+     "en": "Mom and I are lions.",
+     "zh": "妈妈和我是狮子。",
+     "audio": "audio/all/5409_mom_and_i_are_lions.mp3",
+     "slow": "audio/all/5409_mom_and_i_are_lions.mp3",
+     "image": "img/raz-a-mom_and_i-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_mom_and_i-p2",
+     "type": "sentence",
+     "en": "Mom and I are elephants.",
+     "zh": "妈妈和我是大象。",
+     "audio": "audio/all/5410_mom_and_i_are_elephants.mp3",
+     "slow": "audio/all/5410_mom_and_i_are_elephants.mp3",
+     "image": "img/raz-a-mom_and_i-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_mom_and_i-p3",
+     "type": "sentence",
+     "en": "Mom and I are giraffes.",
+     "zh": "妈妈和我是长颈鹿。",
+     "audio": "audio/all/5411_mom_and_i_are_giraffes.mp3",
+     "slow": "audio/all/5411_mom_and_i_are_giraffes.mp3",
+     "image": "img/raz-a-mom_and_i-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_mom_and_i-p4",
+     "type": "sentence",
+     "en": "Mom and I are zebras.",
+     "zh": "妈妈和我是斑马。",
+     "audio": "audio/all/5412_mom_and_i_are_zebras.mp3",
+     "slow": "audio/all/5412_mom_and_i_are_zebras.mp3",
+     "image": "img/raz-a-mom_and_i-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_mom_and_i-p5",
+     "type": "sentence",
+     "en": "Mom and I are bears.",
+     "zh": "妈妈和我是熊。",
+     "audio": "audio/all/5413_mom_and_i_are_bears.mp3",
+     "slow": "audio/all/5413_mom_and_i_are_bears.mp3",
+     "image": "img/raz-a-mom_and_i-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_mom_and_i-p6",
+     "type": "sentence",
+     "en": "Mom and I are apes.",
+     "zh": "妈妈和我是猿。",
+     "audio": "audio/all/5414_mom_and_i_are_apes.mp3",
+     "slow": "audio/all/5414_mom_and_i_are_apes.mp3",
+     "image": "img/raz-a-mom_and_i-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_mom_and_i-p7",
+     "type": "sentence",
+     "en": "Mom and I are kangaroos.",
+     "zh": "妈妈和我是袋鼠。",
+     "audio": "audio/all/5415_mom_and_i_are_kangaroos.mp3",
+     "slow": "audio/all/5415_mom_and_i_are_kangaroos.mp3",
+     "image": "img/raz-a-mom_and_i-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_mom_and_i-p8",
+     "type": "sentence",
+     "en": "Mom and I are dolphins.",
+     "zh": "妈妈和我是海豚。",
+     "audio": "audio/all/5416_mom_and_i_are_dolphins.mp3",
+     "slow": "audio/all/5416_mom_and_i_are_dolphins.mp3",
+     "image": "img/raz-a-mom_and_i-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

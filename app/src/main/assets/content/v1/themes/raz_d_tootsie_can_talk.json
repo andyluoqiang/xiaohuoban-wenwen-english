@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_tootsie_can_talk",
+ "nameZh": "图茜会说话",
+ "bookTitle": "Tootsie Can Talk",
+ "razLevel": "D",
+ "order": 71,
+ "cover": "img/raz-d-tootsie_can_talk-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_tootsie_can_talk-u1",
+   "band": 2,
+   "title": "Tootsie Can Talk · 图茜会说话",
+   "cards": [
+    {
+     "id": "raz_d_tootsie_can_talk-p1",
+     "type": "sentence",
+     "en": "Happy birthday, Tootsie. said Chuck.",
+     "zh": "“生日快乐，图茜。”查克说。",
+     "audio": "audio/all/8091_happy_birthday_tootsie_said_chuck.mp3",
+     "slow": "audio/all/8091_happy_birthday_tootsie_said_chuck.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p2",
+     "type": "sentence",
+     "en": "Tootsie said nothing.",
+     "zh": "图茜什么也没说。",
+     "audio": "audio/all/8092_tootsie_said_nothing.mp3",
+     "slow": "audio/all/8092_tootsie_said_nothing.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p3",
+     "type": "sentence",
+     "en": "Lulu said, I am going out.",
+     "zh": "露露说：“我要出门啦。”",
+     "audio": "audio/all/8093_lulu_said_i_am_going_out.mp3",
+     "slow": "audio/all/8093_lulu_said_i_am_going_out.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p4",
+     "type": "sentence",
+     "en": "I am, I am, said Tootsie.",
+     "zh": "“我要、我要。”图茜说。",
+     "audio": "audio/all/8094_i_am_i_am_said_tootsie.mp3",
+     "slow": "audio/all/8094_i_am_i_am_said_tootsie.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p5",
+     "type": "sentence",
+     "en": "Dad said, Get a good cake!",
+     "zh": "爸爸说：“买个好吃的蛋糕！”",
+     "audio": "audio/all/8095_dad_said_get_a_good_cake.mp3",
+     "slow": "audio/all/8095_dad_said_get_a_good_cake.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p6",
+     "type": "sentence",
+     "en": "A good, a good, said Tootsie.",
+     "zh": "“好吃、好吃。”图茜说。",
+     "audio": "audio/all/8096_a_good_a_good_said_tootsie.mp3",
+     "slow": "audio/all/8096_a_good_a_good_said_tootsie.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p7",
+     "type": "sentence",
+     "en": "Joe said, Make it sweet!",
+     "zh": "乔说：“要做甜一点的！”",
+     "audio": "audio/all/8097_joe_said_make_it_sweet.mp3",
+     "slow": "audio/all/8097_joe_said_make_it_sweet.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p8",
+     "type": "sentence",
+     "en": "Sweet, sweet, said Tootsie.",
+     "zh": "“甜甜、甜甜。”图茜说。",
+     "audio": "audio/all/8098_sweet_sweet_said_tootsie.mp3",
+     "slow": "audio/all/8098_sweet_sweet_said_tootsie.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p9",
+     "type": "sentence",
+     "en": "Mom said, You go, girl!",
+     "zh": "妈妈说：“加油，姑娘！”",
+     "audio": "audio/all/8099_mom_said_you_go_girl.mp3",
+     "slow": "audio/all/8099_mom_said_you_go_girl.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p10",
+     "type": "sentence",
+     "en": "Girl, girl, said Tootsie.",
+     "zh": "“姑娘、姑娘。”图茜说。",
+     "audio": "audio/all/8100_girl_girl_said_tootsie.mp3",
+     "slow": "audio/all/8100_girl_girl_said_tootsie.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p11",
+     "type": "sentence",
+     "en": "Happy birthday, Tootsie, said Chuck.",
+     "zh": "“生日快乐，图茜。”查克说。",
+     "audio": "audio/all/8101_happy_birthday_tootsie_said_chuck.mp3",
+     "slow": "audio/all/8101_happy_birthday_tootsie_said_chuck.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_tootsie_can_talk-p12",
+     "type": "sentence",
+     "en": "I am a good, sweet girl! said Tootsie.",
+     "zh": "“我是个甜甜的好姑娘！”图茜说。",
+     "audio": "audio/all/8102_i_am_a_good_sweet_girl_said_tootsie.mp3",
+     "slow": "audio/all/8102_i_am_a_good_sweet_girl_said_tootsie.mp3",
+     "image": "img/raz-d-tootsie_can_talk-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

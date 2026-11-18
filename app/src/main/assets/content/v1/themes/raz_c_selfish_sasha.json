@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_selfish_sasha",
+ "nameZh": "小气的萨莎",
+ "bookTitle": "Selfish Sasha",
+ "razLevel": "C",
+ "order": 46,
+ "cover": "img/raz-c-selfish_sasha-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_selfish_sasha-u1",
+   "band": 2,
+   "title": "Selfish Sasha · 小气的萨莎",
+   "cards": [
+    {
+     "id": "raz_c_selfish_sasha-p1",
+     "type": "sentence",
+     "en": "Sasha is selfish.",
+     "zh": "萨莎很小气。",
+     "audio": "audio/all/6526_sasha_is_selfish.mp3",
+     "slow": "audio/all/6526_sasha_is_selfish.mp3",
+     "image": "img/raz-c-selfish_sasha-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_selfish_sasha-p2",
+     "type": "sentence",
+     "en": "She does not like to share almost anything.",
+     "zh": "她几乎什么都不喜欢分享。",
+     "audio": "audio/all/6527_she_does_not_like_to_share_almost_anyt.mp3",
+     "slow": "audio/all/6527_she_does_not_like_to_share_almost_anyt.mp3",
+     "image": "img/raz-c-selfish_sasha-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_selfish_sasha-p3",
+     "type": "sentence",
+     "en": "Sasha does not share her pencils.",
+     "zh": "萨莎不分享她的铅笔。",
+     "audio": "audio/all/6528_sasha_does_not_share_her_pencils.mp3",
+     "slow": "audio/all/6528_sasha_does_not_share_her_pencils.mp3",
+     "image": "img/raz-c-selfish_sasha-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_selfish_sasha-p4",
+     "type": "sentence",
+     "en": "Sasha does not share her toys.",
+     "zh": "萨莎不分享她的玩具。",
+     "audio": "audio/all/6529_sasha_does_not_share_her_toys.mp3",
+     "slow": "audio/all/6529_sasha_does_not_share_her_toys.mp3",
+     "image": "img/raz-c-selfish_sasha-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_selfish_sasha-p5",
+     "type": "sentence",
+     "en": "Sasha does not share her eraser.",
+     "zh": "萨莎不分享她的橡皮。",
+     "audio": "audio/all/6530_sasha_does_not_share_her_eraser.mp3",
+     "slow": "audio/all/6530_sasha_does_not_share_her_eraser.mp3",
+     "image": "img/raz-c-selfish_sasha-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_selfish_sasha-p6",
+     "type": "sentence",
+     "en": "Sasha does not share her cookies.",
+     "zh": "萨莎不分享她的饼干。",
+     "audio": "audio/all/6531_sasha_does_not_share_her_cookies.mp3",
+     "slow": "audio/all/6531_sasha_does_not_share_her_cookies.mp3",
+     "image": "img/raz-c-selfish_sasha-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_selfish_sasha-p7",
+     "type": "sentence",
+     "en": "Sasha does not share her help.",
+     "zh": "萨莎不分享她的帮助。",
+     "audio": "audio/all/6532_sasha_does_not_share_her_help.mp3",
+     "slow": "audio/all/6532_sasha_does_not_share_her_help.mp3",
+     "image": "img/raz-c-selfish_sasha-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_selfish_sasha-p8",
+     "type": "sentence",
+     "en": "Sasha does not share her time.",
+     "zh": "萨莎不分享她的时间。",
+     "audio": "audio/all/6533_sasha_does_not_share_her_time.mp3",
+     "slow": "audio/all/6533_sasha_does_not_share_her_time.mp3",
+     "image": "img/raz-c-selfish_sasha-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_selfish_sasha-p9",
+     "type": "sentence",
+     "en": "Sasha would like to share Seth's umbrella.",
+     "zh": "萨莎倒是想分享塞斯的伞。",
+     "audio": "audio/all/6534_sasha_would_like_to_share_seth_s_umbre.mp3",
+     "slow": "audio/all/6534_sasha_would_like_to_share_seth_s_umbre.mp3",
+     "image": "img/raz-c-selfish_sasha-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_selfish_sasha-p10",
+     "type": "sentence",
+     "en": "No such luck!",
+     "zh": "没那么好运气！",
+     "audio": "audio/all/6535_no_such_luck.mp3",
+     "slow": "audio/all/6535_no_such_luck.mp3",
+     "image": "img/raz-c-selfish_sasha-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_spirals_spirals_everywhere",
+ "nameZh": "螺旋，螺旋，到处都是",
+ "bookTitle": "Spirals, Spirals, Everywhere",
+ "razLevel": "C",
+ "order": 51,
+ "cover": "img/raz-c-spirals_spirals_everywhere-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_spirals_spirals_everywhere-u1",
+   "band": 2,
+   "title": "Spirals, Spirals, Everywhere · 螺旋，螺旋，到处都是",
+   "cards": [
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p1",
+     "type": "sentence",
+     "en": "A spiral is a shape.",
+     "zh": "螺旋是一种形状。",
+     "audio": "audio/all/6573_a_spiral_is_a_shape.mp3",
+     "slow": "audio/all/6573_a_spiral_is_a_shape.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p2",
+     "type": "sentence",
+     "en": "A spiral can be found in many things.",
+     "zh": "很多东西上都能找到螺旋。",
+     "audio": "audio/all/6574_a_spiral_can_be_found_in_many_things.mp3",
+     "slow": "audio/all/6574_a_spiral_can_be_found_in_many_things.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p3",
+     "type": "sentence",
+     "en": "This horn has a spiral.",
+     "zh": "这个角上有螺旋。",
+     "audio": "audio/all/6575_this_horn_has_a_spiral.mp3",
+     "slow": "audio/all/6575_this_horn_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p4",
+     "type": "sentence",
+     "en": "This shell has a spiral.",
+     "zh": "这个贝壳上有螺旋。",
+     "audio": "audio/all/6576_this_shell_has_a_spiral.mp3",
+     "slow": "audio/all/6576_this_shell_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p5",
+     "type": "sentence",
+     "en": "This plant has a spiral.",
+     "zh": "这株植物上有螺旋。",
+     "audio": "audio/all/6577_this_plant_has_a_spiral.mp3",
+     "slow": "audio/all/6577_this_plant_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p6",
+     "type": "sentence",
+     "en": "This finger has a spiral.",
+     "zh": "这根手指上有螺旋。",
+     "audio": "audio/all/6578_this_finger_has_a_spiral.mp3",
+     "slow": "audio/all/6578_this_finger_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p7",
+     "type": "sentence",
+     "en": "This cloud has a spiral.",
+     "zh": "这朵云里有螺旋。",
+     "audio": "audio/all/6579_this_cloud_has_a_spiral.mp3",
+     "slow": "audio/all/6579_this_cloud_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p8",
+     "type": "sentence",
+     "en": "This hair has a spiral.",
+     "zh": "这绺头发是螺旋。",
+     "audio": "audio/all/6580_this_hair_has_a_spiral.mp3",
+     "slow": "audio/all/6580_this_hair_has_a_spiral.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p9",
+     "type": "sentence",
+     "en": "A spiral is a shape.",
+     "zh": "螺旋是一种形状。",
+     "audio": "audio/all/6581_a_spiral_is_a_shape.mp3",
+     "slow": "audio/all/6581_a_spiral_is_a_shape.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_spirals_spirals_everywhere-p10",
+     "type": "sentence",
+     "en": "Can you find the spirals?",
+     "zh": "你能找到这些螺旋吗？",
+     "audio": "audio/all/6582_can_you_find_the_spirals.mp3",
+     "slow": "audio/all/6582_can_you_find_the_spirals.mp3",
+     "image": "img/raz-c-spirals_spirals_everywhere-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

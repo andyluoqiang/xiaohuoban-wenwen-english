@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_how_many",
+ "nameZh": "有多少？",
+ "bookTitle": "How Many?",
+ "razLevel": "C",
+ "order": 21,
+ "cover": "img/raz-c-how_many-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_how_many-u1",
+   "band": 2,
+   "title": "How Many? · 有多少？",
+   "cards": [
+    {
+     "id": "raz_c_how_many-p1",
+     "type": "sentence",
+     "en": "How many eyes do you see?",
+     "zh": "你看到几只眼睛？",
+     "audio": "audio/all/6245_how_many_eyes_do_you_see.mp3",
+     "slow": "audio/all/6245_how_many_eyes_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_how_many-p2",
+     "type": "sentence",
+     "en": "I see two.",
+     "zh": "我看到两只。",
+     "audio": "audio/all/6246_i_see_two.mp3",
+     "slow": "audio/all/6246_i_see_two.mp3",
+     "image": "img/raz-c-how_many-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_how_many-p3",
+     "type": "sentence",
+     "en": "How many wheels do you see?",
+     "zh": "你看到几个轮子？",
+     "audio": "audio/all/6247_how_many_wheels_do_you_see.mp3",
+     "slow": "audio/all/6247_how_many_wheels_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_how_many-p4",
+     "type": "sentence",
+     "en": "I see three.",
+     "zh": "我看到三个。",
+     "audio": "audio/all/6248_i_see_three.mp3",
+     "slow": "audio/all/6248_i_see_three.mp3",
+     "image": "img/raz-c-how_many-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_how_many-p5",
+     "type": "sentence",
+     "en": "How many wings do you see?",
+     "zh": "你看到几对翅膀？",
+     "audio": "audio/all/6249_how_many_wings_do_you_see.mp3",
+     "slow": "audio/all/6249_how_many_wings_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_how_many-p6",
+     "type": "sentence",
+     "en": "I see four.",
+     "zh": "我看到四对。",
+     "audio": "audio/all/6250_i_see_four.mp3",
+     "slow": "audio/all/6250_i_see_four.mp3",
+     "image": "img/raz-c-how_many-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_how_many-p7",
+     "type": "sentence",
+     "en": "How many candles do you see?",
+     "zh": "你看到几根蜡烛？",
+     "audio": "audio/all/6251_how_many_candles_do_you_see.mp3",
+     "slow": "audio/all/6251_how_many_candles_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_how_many-p8",
+     "type": "sentence",
+     "en": "I see five.",
+     "zh": "我看到五根。",
+     "audio": "audio/all/6252_i_see_five.mp3",
+     "slow": "audio/all/6252_i_see_five.mp3",
+     "image": "img/raz-c-how_many-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_how_many-p9",
+     "type": "sentence",
+     "en": "How many kites do you see?",
+     "zh": "你看到几只风筝？",
+     "audio": "audio/all/6253_how_many_kites_do_you_see.mp3",
+     "slow": "audio/all/6253_how_many_kites_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_how_many-p10",
+     "type": "sentence",
+     "en": "I see six.",
+     "zh": "我看到六只。",
+     "audio": "audio/all/6254_i_see_six.mp3",
+     "slow": "audio/all/6254_i_see_six.mp3",
+     "image": "img/raz-c-how_many-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_how_many-p11",
+     "type": "sentence",
+     "en": "How many windows do you see?",
+     "zh": "你看到几扇窗？",
+     "audio": "audio/all/6255_how_many_windows_do_you_see.mp3",
+     "slow": "audio/all/6255_how_many_windows_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_how_many-p12",
+     "type": "sentence",
+     "en": "I see seven.",
+     "zh": "我看到七扇。",
+     "audio": "audio/all/6256_i_see_seven.mp3",
+     "slow": "audio/all/6256_i_see_seven.mp3",
+     "image": "img/raz-c-how_many-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_how_many-p13",
+     "type": "sentence",
+     "en": "How many arms do you see?",
+     "zh": "你看到几只手臂？",
+     "audio": "audio/all/6257_how_many_arms_do_you_see.mp3",
+     "slow": "audio/all/6257_how_many_arms_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_how_many-p14",
+     "type": "sentence",
+     "en": "I see eight.",
+     "zh": "我看到八只。",
+     "audio": "audio/all/6258_i_see_eight.mp3",
+     "slow": "audio/all/6258_i_see_eight.mp3",
+     "image": "img/raz-c-how_many-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_how_many-p15",
+     "type": "sentence",
+     "en": "How many smiles do you see?",
+     "zh": "你看到几张笑脸？",
+     "audio": "audio/all/6259_how_many_smiles_do_you_see.mp3",
+     "slow": "audio/all/6259_how_many_smiles_do_you_see.mp3",
+     "image": "img/raz-c-how_many-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_how_many-p16",
+     "type": "sentence",
+     "en": "I see nine.",
+     "zh": "我看到九张。",
+     "audio": "audio/all/6260_i_see_nine.mp3",
+     "slow": "audio/all/6260_i_see_nine.mp3",
+     "image": "img/raz-c-how_many-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

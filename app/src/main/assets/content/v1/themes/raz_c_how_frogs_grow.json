@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_how_frogs_grow",
+ "nameZh": "青蛙怎么长大",
+ "bookTitle": "How Frogs Grow",
+ "razLevel": "C",
+ "order": 20,
+ "cover": "img/raz-c-how_frogs_grow-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_how_frogs_grow-u1",
+   "band": 2,
+   "title": "How Frogs Grow · 青蛙怎么长大",
+   "cards": [
+    {
+     "id": "raz_c_how_frogs_grow-p1",
+     "type": "sentence",
+     "en": "A frog lays eggs in water.",
+     "zh": "青蛙在水里产卵。",
+     "audio": "audio/all/6236_a_frog_lays_eggs_in_water.mp3",
+     "slow": "audio/all/6236_a_frog_lays_eggs_in_water.mp3",
+     "image": "img/raz-c-how_frogs_grow-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p2",
+     "type": "sentence",
+     "en": "Tadpoles come out of the eggs.",
+     "zh": "蝌蚪从卵里出来。",
+     "audio": "audio/all/6237_tadpoles_come_out_of_the_eggs.mp3",
+     "slow": "audio/all/6237_tadpoles_come_out_of_the_eggs.mp3",
+     "image": "img/raz-c-how_frogs_grow-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p3",
+     "type": "sentence",
+     "en": "The tadpoles have long tails.",
+     "zh": "蝌蚪有长长的尾巴。",
+     "audio": "audio/all/6238_the_tadpoles_have_long_tails.mp3",
+     "slow": "audio/all/6238_the_tadpoles_have_long_tails.mp3",
+     "image": "img/raz-c-how_frogs_grow-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p4",
+     "type": "sentence",
+     "en": "The tadpoles grow back legs.",
+     "zh": "蝌蚪长出后腿。",
+     "audio": "audio/all/6239_the_tadpoles_grow_back_legs.mp3",
+     "slow": "audio/all/6239_the_tadpoles_grow_back_legs.mp3",
+     "image": "img/raz-c-how_frogs_grow-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p5",
+     "type": "sentence",
+     "en": "The tadpoles grow front legs.",
+     "zh": "蝌蚪长出前腿。",
+     "audio": "audio/all/6240_the_tadpoles_grow_front_legs.mp3",
+     "slow": "audio/all/6240_the_tadpoles_grow_front_legs.mp3",
+     "image": "img/raz-c-how_frogs_grow-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p6",
+     "type": "sentence",
+     "en": "The tadpoles are now froglets.",
+     "zh": "蝌蚪现在成了幼蛙。",
+     "audio": "audio/all/6241_the_tadpoles_are_now_froglets.mp3",
+     "slow": "audio/all/6241_the_tadpoles_are_now_froglets.mp3",
+     "image": "img/raz-c-how_frogs_grow-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p7",
+     "type": "sentence",
+     "en": "The froglets grow and grow.",
+     "zh": "幼蛙越长越大。",
+     "audio": "audio/all/6242_the_froglets_grow_and_grow.mp3",
+     "slow": "audio/all/6242_the_froglets_grow_and_grow.mp3",
+     "image": "img/raz-c-how_frogs_grow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p8",
+     "type": "sentence",
+     "en": "Their tails get smaller and smaller.",
+     "zh": "它们的尾巴越来越短。",
+     "audio": "audio/all/6243_their_tails_get_smaller_and_smaller.mp3",
+     "slow": "audio/all/6243_their_tails_get_smaller_and_smaller.mp3",
+     "image": "img/raz-c-how_frogs_grow-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_how_frogs_grow-p9",
+     "type": "sentence",
+     "en": "The froglets are now frogs.",
+     "zh": "幼蛙现在是青蛙了。",
+     "audio": "audio/all/6244_the_froglets_are_now_frogs.mp3",
+     "slow": "audio/all/6244_the_froglets_are_now_frogs.mp3",
+     "image": "img/raz-c-how_frogs_grow-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

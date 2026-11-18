@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_who_has_it",
+ "nameZh": "谁拿着它",
+ "bookTitle": "Who Has It?",
+ "razLevel": "A",
+ "order": 84,
+ "cover": "img/raz-a-who_has_it-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_who_has_it-u1",
+   "band": 2,
+   "title": "Who Has It? · 谁拿着它",
+   "cards": [
+    {
+     "id": "raz_a_who_has_it-p1",
+     "type": "sentence",
+     "en": "Who has it?",
+     "zh": "谁拿着它？",
+     "audio": "audio/all/5769_who_has_it.mp3",
+     "slow": "audio/all/5769_who_has_it.mp3",
+     "image": "img/raz-a-who_has_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_who_has_it-p2",
+     "type": "sentence",
+     "en": "I have it.",
+     "zh": "我拿着它。",
+     "audio": "audio/all/5770_i_have_it.mp3",
+     "slow": "audio/all/5770_i_have_it.mp3",
+     "image": "img/raz-a-who_has_it-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_who_has_it-p3",
+     "type": "sentence",
+     "en": "You have it.",
+     "zh": "你拿着它。",
+     "audio": "audio/all/5771_you_have_it.mp3",
+     "slow": "audio/all/5771_you_have_it.mp3",
+     "image": "img/raz-a-who_has_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_who_has_it-p4",
+     "type": "sentence",
+     "en": "He has it.",
+     "zh": "他拿着它。",
+     "audio": "audio/all/5772_he_has_it.mp3",
+     "slow": "audio/all/5772_he_has_it.mp3",
+     "image": "img/raz-a-who_has_it-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_who_has_it-p5",
+     "type": "sentence",
+     "en": "She has it.",
+     "zh": "她拿着它。",
+     "audio": "audio/all/5773_she_has_it.mp3",
+     "slow": "audio/all/5773_she_has_it.mp3",
+     "image": "img/raz-a-who_has_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_who_has_it-p6",
+     "type": "sentence",
+     "en": "They have it.",
+     "zh": "他们拿着它。",
+     "audio": "audio/all/5774_they_have_it.mp3",
+     "slow": "audio/all/5774_they_have_it.mp3",
+     "image": "img/raz-a-who_has_it-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_who_has_it-p7",
+     "type": "sentence",
+     "en": "We have it.",
+     "zh": "我们拿着它。",
+     "audio": "audio/all/5775_we_have_it.mp3",
+     "slow": "audio/all/5775_we_have_it.mp3",
+     "image": "img/raz-a-who_has_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_who_has_it-p8",
+     "type": "sentence",
+     "en": "The dog has it.",
+     "zh": "狗拿着它。",
+     "audio": "audio/all/5776_the_dog_has_it.mp3",
+     "slow": "audio/all/5776_the_dog_has_it.mp3",
+     "image": "img/raz-a-who_has_it-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

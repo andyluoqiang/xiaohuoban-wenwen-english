@@ -1,0 +1,187 @@
+{
+ "theme": "raz_d_whale_watching",
+ "nameZh": "观鲸",
+ "bookTitle": "Whale Watching",
+ "razLevel": "D",
+ "order": 75,
+ "cover": "img/raz-d-whale_watching-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_whale_watching-u1",
+   "band": 2,
+   "title": "Whale Watching · 观鲸",
+   "cards": [
+    {
+     "id": "raz_d_whale_watching-p1",
+     "type": "sentence",
+     "en": "Watching for whales is tricky.",
+     "zh": "观察鲸鱼可不容易。",
+     "audio": "audio/all/8137_watching_for_whales_is_tricky.mp3",
+     "slow": "audio/all/8137_watching_for_whales_is_tricky.mp3",
+     "image": "img/raz-d-whale_watching-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_whale_watching-p2",
+     "type": "sentence",
+     "en": "I look carefully to spot them.",
+     "zh": "我仔细寻找它们的踪影。",
+     "audio": "audio/all/8138_i_look_carefully_to_spot_them.mp3",
+     "slow": "audio/all/8138_i_look_carefully_to_spot_them.mp3",
+     "image": "img/raz-d-whale_watching-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_whale_watching-p3",
+     "type": "sentence",
+     "en": "I look for a long time.",
+     "zh": "我找了很长时间。",
+     "audio": "audio/all/8139_i_look_for_a_long_time.mp3",
+     "slow": "audio/all/8139_i_look_for_a_long_time.mp3",
+     "image": "img/raz-d-whale_watching-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_whale_watching-p4",
+     "type": "sentence",
+     "en": "I watch for whales near the boat.",
+     "zh": "我在船附近找鲸鱼。",
+     "audio": "audio/all/8140_i_watch_for_whales_near_the_boat.mp3",
+     "slow": "audio/all/8140_i_watch_for_whales_near_the_boat.mp3",
+     "image": "img/raz-d-whale_watching-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_whale_watching-p5",
+     "type": "sentence",
+     "en": "No luck.",
+     "zh": "没找到。",
+     "audio": "audio/all/8141_no_luck.mp3",
+     "slow": "audio/all/8141_no_luck.mp3",
+     "image": "img/raz-d-whale_watching-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_whale_watching-p6",
+     "type": "sentence",
+     "en": "I watch for whales out at sea.",
+     "zh": "我到远处的海面上找鲸鱼。",
+     "audio": "audio/all/8142_i_watch_for_whales_out_at_sea.mp3",
+     "slow": "audio/all/8142_i_watch_for_whales_out_at_sea.mp3",
+     "image": "img/raz-d-whale_watching-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_whale_watching-p7",
+     "type": "sentence",
+     "en": "No luck.",
+     "zh": "没找到。",
+     "audio": "audio/all/8143_no_luck.mp3",
+     "slow": "audio/all/8143_no_luck.mp3",
+     "image": "img/raz-d-whale_watching-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_whale_watching-p8",
+     "type": "sentence",
+     "en": "I watch for whales by the docks.",
+     "zh": "我在码头边找鲸鱼。",
+     "audio": "audio/all/8144_i_watch_for_whales_by_the_docks.mp3",
+     "slow": "audio/all/8144_i_watch_for_whales_by_the_docks.mp3",
+     "image": "img/raz-d-whale_watching-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_whale_watching-p9",
+     "type": "sentence",
+     "en": "No luck.",
+     "zh": "没找到。",
+     "audio": "audio/all/8145_no_luck.mp3",
+     "slow": "audio/all/8145_no_luck.mp3",
+     "image": "img/raz-d-whale_watching-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_whale_watching-p10",
+     "type": "sentence",
+     "en": "I watch for whales near the surface.",
+     "zh": "我在靠近水面的地方找鲸鱼。",
+     "audio": "audio/all/8146_i_watch_for_whales_near_the_surface.mp3",
+     "slow": "audio/all/8146_i_watch_for_whales_near_the_surface.mp3",
+     "image": "img/raz-d-whale_watching-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_whale_watching-p11",
+     "type": "sentence",
+     "en": "No luck.",
+     "zh": "没找到。",
+     "audio": "audio/all/8147_no_luck.mp3",
+     "slow": "audio/all/8147_no_luck.mp3",
+     "image": "img/raz-d-whale_watching-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_whale_watching-p12",
+     "type": "sentence",
+     "en": "I watch for whales in the waves.",
+     "zh": "我在浪花里找鲸鱼。",
+     "audio": "audio/all/8148_i_watch_for_whales_in_the_waves.mp3",
+     "slow": "audio/all/8148_i_watch_for_whales_in_the_waves.mp3",
+     "image": "img/raz-d-whale_watching-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_whale_watching-p13",
+     "type": "sentence",
+     "en": "No luck.",
+     "zh": "没找到。",
+     "audio": "audio/all/8149_no_luck.mp3",
+     "slow": "audio/all/8149_no_luck.mp3",
+     "image": "img/raz-d-whale_watching-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_whale_watching-p14",
+     "type": "sentence",
+     "en": "I watch for whales near the fish.",
+     "zh": "我在鱼群附近找鲸鱼。",
+     "audio": "audio/all/8150_i_watch_for_whales_near_the_fish.mp3",
+     "slow": "audio/all/8150_i_watch_for_whales_near_the_fish.mp3",
+     "image": "img/raz-d-whale_watching-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_whale_watching-p15",
+     "type": "sentence",
+     "en": "I spot three big shapes.",
+     "zh": "我发现了三个巨大的影子。",
+     "audio": "audio/all/8151_i_spot_three_big_shapes.mp3",
+     "slow": "audio/all/8151_i_spot_three_big_shapes.mp3",
+     "image": "img/raz-d-whale_watching-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_whale_watching-p16",
+     "type": "sentence",
+     "en": "I watch three whales follow the fish.",
+     "zh": "我看见三头鲸鱼跟着鱼群游。",
+     "audio": "audio/all/8152_i_watch_three_whales_follow_the_fish.mp3",
+     "slow": "audio/all/8152_i_watch_three_whales_follow_the_fish.mp3",
+     "image": "img/raz-d-whale_watching-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_whale_watching-p17",
+     "type": "sentence",
+     "en": "To spot whales, first spot their dinner!",
+     "zh": "想找到鲸鱼，先找到它们的晚餐！",
+     "audio": "audio/all/8153_to_spot_whales_first_spot_their_dinner.mp3",
+     "slow": "audio/all/8153_to_spot_whales_first_spot_their_dinner.mp3",
+     "image": "img/raz-d-whale_watching-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_my_hair",
+ "nameZh": "我的头发",
+ "bookTitle": "My Hair",
+ "razLevel": "A",
+ "order": 45,
+ "cover": "img/raz-a-my_hair-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_my_hair-u1",
+   "band": 2,
+   "title": "My Hair · 我的头发",
+   "cards": [
+    {
+     "id": "raz_a_my_hair-p1",
+     "type": "sentence",
+     "en": "My hair is curly.",
+     "zh": "我的头发是卷的。",
+     "audio": "audio/all/5457_my_hair_is_curly.mp3",
+     "slow": "audio/all/5457_my_hair_is_curly.mp3",
+     "image": "img/raz-a-my_hair-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_my_hair-p2",
+     "type": "sentence",
+     "en": "My hair is straight.",
+     "zh": "我的头发是直的。",
+     "audio": "audio/all/5458_my_hair_is_straight.mp3",
+     "slow": "audio/all/5458_my_hair_is_straight.mp3",
+     "image": "img/raz-a-my_hair-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_my_hair-p3",
+     "type": "sentence",
+     "en": "My hair is black.",
+     "zh": "我的头发是黑的。",
+     "audio": "audio/all/5459_my_hair_is_black.mp3",
+     "slow": "audio/all/5459_my_hair_is_black.mp3",
+     "image": "img/raz-a-my_hair-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_my_hair-p4",
+     "type": "sentence",
+     "en": "My hair is blond.",
+     "zh": "我的头发是金色的。",
+     "audio": "audio/all/5460_my_hair_is_blond.mp3",
+     "slow": "audio/all/5460_my_hair_is_blond.mp3",
+     "image": "img/raz-a-my_hair-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_my_hair-p5",
+     "type": "sentence",
+     "en": "My hair is braided.",
+     "zh": "我的头发编了辫子。",
+     "audio": "audio/all/5461_my_hair_is_braided.mp3",
+     "slow": "audio/all/5461_my_hair_is_braided.mp3",
+     "image": "img/raz-a-my_hair-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_my_hair-p6",
+     "type": "sentence",
+     "en": "My hair is short.",
+     "zh": "我的头发是短的。",
+     "audio": "audio/all/5462_my_hair_is_short.mp3",
+     "slow": "audio/all/5462_my_hair_is_short.mp3",
+     "image": "img/raz-a-my_hair-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_my_hair-p7",
+     "type": "sentence",
+     "en": "My hair is long.",
+     "zh": "我的头发是长的。",
+     "audio": "audio/all/5463_my_hair_is_long.mp3",
+     "slow": "audio/all/5463_my_hair_is_long.mp3",
+     "image": "img/raz-a-my_hair-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_my_hair-p8",
+     "type": "sentence",
+     "en": "What is your hair like?",
+     "zh": "你的头发是什么样的？",
+     "audio": "audio/all/5464_what_is_your_hair_like.mp3",
+     "slow": "audio/all/5464_what_is_your_hair_like.mp3",
+     "image": "img/raz-a-my_hair-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_all_kinds_of_faces",
+ "nameZh": "各种各样的脸",
+ "bookTitle": "All Kinds of Faces",
+ "razLevel": "A",
+ "order": 2,
+ "cover": "img/raz-a-all_kinds_of_faces-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_all_kinds_of_faces-u1",
+   "band": 2,
+   "title": "All Kinds of Faces · 各种各样的脸",
+   "cards": [
+    {
+     "id": "raz_a_all_kinds_of_faces-p1",
+     "type": "sentence",
+     "en": "This face is happy.",
+     "zh": "这张脸是开心的。",
+     "audio": "audio/all/5108_this_face_is_happy.mp3",
+     "slow": "audio/all/5108_this_face_is_happy.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p2",
+     "type": "sentence",
+     "en": "This face is sad.",
+     "zh": "这张脸是难过的。",
+     "audio": "audio/all/5109_this_face_is_sad.mp3",
+     "slow": "audio/all/5109_this_face_is_sad.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p3",
+     "type": "sentence",
+     "en": "This face is sorry.",
+     "zh": "这张脸是抱歉的。",
+     "audio": "audio/all/5110_this_face_is_sorry.mp3",
+     "slow": "audio/all/5110_this_face_is_sorry.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p4",
+     "type": "sentence",
+     "en": "This face is excited.",
+     "zh": "这张脸是兴奋的。",
+     "audio": "audio/all/5111_this_face_is_excited.mp3",
+     "slow": "audio/all/5111_this_face_is_excited.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p5",
+     "type": "sentence",
+     "en": "This face is scared.",
+     "zh": "这张脸是害怕的。",
+     "audio": "audio/all/5112_this_face_is_scared.mp3",
+     "slow": "audio/all/5112_this_face_is_scared.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p6",
+     "type": "sentence",
+     "en": "This face is shy.",
+     "zh": "这张脸是害羞的。",
+     "audio": "audio/all/5113_this_face_is_shy.mp3",
+     "slow": "audio/all/5113_this_face_is_shy.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p7",
+     "type": "sentence",
+     "en": "This face is mad.",
+     "zh": "这张脸是生气的。",
+     "audio": "audio/all/5114_this_face_is_mad.mp3",
+     "slow": "audio/all/5114_this_face_is_mad.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_all_kinds_of_faces-p8",
+     "type": "sentence",
+     "en": "This face is sleepy.",
+     "zh": "这张脸是困倦的。",
+     "audio": "audio/all/5115_this_face_is_sleepy.mp3",
+     "slow": "audio/all/5115_this_face_is_sleepy.mp3",
+     "image": "img/raz-a-all_kinds_of_faces-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

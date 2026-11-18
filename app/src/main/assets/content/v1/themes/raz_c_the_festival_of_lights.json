@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_the_festival_of_lights",
+ "nameZh": "光明节",
+ "bookTitle": "The Festival of Lights",
+ "razLevel": "C",
+ "order": 60,
+ "cover": "img/raz-c-the_festival_of_lights-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_the_festival_of_lights-u1",
+   "band": 2,
+   "title": "The Festival of Lights · 光明节",
+   "cards": [
+    {
+     "id": "raz_c_the_festival_of_lights-p1",
+     "type": "sentence",
+     "en": "A middle candle lights the others on Hanukkah.",
+     "zh": "光明节中间的蜡烛点亮其他的蜡烛。",
+     "audio": "audio/all/6663_a_middle_candle_lights_the_others_on_h.mp3",
+     "slow": "audio/all/6663_a_middle_candle_lights_the_others_on_h.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p2",
+     "type": "sentence",
+     "en": "Light one candle on night one.",
+     "zh": "第一晚点燃一支蜡烛。",
+     "audio": "audio/all/6664_light_one_candle_on_night_one.mp3",
+     "slow": "audio/all/6664_light_one_candle_on_night_one.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p3",
+     "type": "sentence",
+     "en": "Light two candles on night two.",
+     "zh": "第二晚点燃两支蜡烛。",
+     "audio": "audio/all/6665_light_two_candles_on_night_two.mp3",
+     "slow": "audio/all/6665_light_two_candles_on_night_two.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p4",
+     "type": "sentence",
+     "en": "Light three candles on night three.",
+     "zh": "第三晚点燃三支蜡烛。",
+     "audio": "audio/all/6666_light_three_candles_on_night_three.mp3",
+     "slow": "audio/all/6666_light_three_candles_on_night_three.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p5",
+     "type": "sentence",
+     "en": "Light four candles on night four.",
+     "zh": "第四晚点燃四支蜡烛。",
+     "audio": "audio/all/6667_light_four_candles_on_night_four.mp3",
+     "slow": "audio/all/6667_light_four_candles_on_night_four.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p6",
+     "type": "sentence",
+     "en": "Light five candles on night five.",
+     "zh": "第五晚点燃五支蜡烛。",
+     "audio": "audio/all/6668_light_five_candles_on_night_five.mp3",
+     "slow": "audio/all/6668_light_five_candles_on_night_five.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p7",
+     "type": "sentence",
+     "en": "Light six candles on night six.",
+     "zh": "第六晚点燃六支蜡烛。",
+     "audio": "audio/all/6669_light_six_candles_on_night_six.mp3",
+     "slow": "audio/all/6669_light_six_candles_on_night_six.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p8",
+     "type": "sentence",
+     "en": "Light seven candles on night seven.",
+     "zh": "第七晚点燃七支蜡烛。",
+     "audio": "audio/all/6670_light_seven_candles_on_night_seven.mp3",
+     "slow": "audio/all/6670_light_seven_candles_on_night_seven.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p9",
+     "type": "sentence",
+     "en": "Light eight candles on night eight.",
+     "zh": "第八晚点燃八支蜡烛。",
+     "audio": "audio/all/6671_light_eight_candles_on_night_eight.mp3",
+     "slow": "audio/all/6671_light_eight_candles_on_night_eight.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_the_festival_of_lights-p10",
+     "type": "sentence",
+     "en": "Hanukkah is the Festival of Lights!",
+     "zh": "光明节就是灯的节日！",
+     "audio": "audio/all/6672_hanukkah_is_the_festival_of_lights.mp3",
+     "slow": "audio/all/6672_hanukkah_is_the_festival_of_lights.mp3",
+     "image": "img/raz-c-the_festival_of_lights-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

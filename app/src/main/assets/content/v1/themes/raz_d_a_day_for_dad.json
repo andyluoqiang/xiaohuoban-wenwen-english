@@ -1,0 +1,97 @@
+{
+ "theme": "raz_d_a_day_for_dad",
+ "nameZh": "爸爸的节日",
+ "bookTitle": "A Day for Dad",
+ "razLevel": "D",
+ "order": 1,
+ "cover": "img/raz-d-a_day_for_dad-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_a_day_for_dad-u1",
+   "band": 2,
+   "title": "A Day for Dad · 爸爸的节日",
+   "cards": [
+    {
+     "id": "raz_d_a_day_for_dad-p1",
+     "type": "sentence",
+     "en": "Dad and I do things together on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起做很多事。",
+     "audio": "audio/all/7100_dad_and_i_do_things_together_on_father.mp3",
+     "slow": "audio/all/7100_dad_and_i_do_things_together_on_father.mp3",
+     "image": "img/raz-d-a_day_for_dad-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p2",
+     "type": "sentence",
+     "en": "Dad and I eat breakfast on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起吃早餐。",
+     "audio": "audio/all/7101_dad_and_i_eat_breakfast_on_father_s_da.mp3",
+     "slow": "audio/all/7101_dad_and_i_eat_breakfast_on_father_s_da.mp3",
+     "image": "img/raz-d-a_day_for_dad-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p3",
+     "type": "sentence",
+     "en": "Dad and I plan a trip on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起计划旅行。",
+     "audio": "audio/all/7102_dad_and_i_plan_a_trip_on_father_s_day.mp3",
+     "slow": "audio/all/7102_dad_and_i_plan_a_trip_on_father_s_day.mp3",
+     "image": "img/raz-d-a_day_for_dad-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p4",
+     "type": "sentence",
+     "en": "Dad and I ride bikes on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起骑自行车。",
+     "audio": "audio/all/7103_dad_and_i_ride_bikes_on_father_s_day.mp3",
+     "slow": "audio/all/7103_dad_and_i_ride_bikes_on_father_s_day.mp3",
+     "image": "img/raz-d-a_day_for_dad-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p5",
+     "type": "sentence",
+     "en": "Dad and I play catch on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起玩接球。",
+     "audio": "audio/all/7104_dad_and_i_play_catch_on_father_s_day.mp3",
+     "slow": "audio/all/7104_dad_and_i_play_catch_on_father_s_day.mp3",
+     "image": "img/raz-d-a_day_for_dad-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p6",
+     "type": "sentence",
+     "en": "Dad and I have a picnic on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起野餐。",
+     "audio": "audio/all/7105_dad_and_i_have_a_picnic_on_father_s_da.mp3",
+     "slow": "audio/all/7105_dad_and_i_have_a_picnic_on_father_s_da.mp3",
+     "image": "img/raz-d-a_day_for_dad-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p7",
+     "type": "sentence",
+     "en": "Dad and I buy caps on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起买帽子。",
+     "audio": "audio/all/7106_dad_and_i_buy_caps_on_father_s_day.mp3",
+     "slow": "audio/all/7106_dad_and_i_buy_caps_on_father_s_day.mp3",
+     "image": "img/raz-d-a_day_for_dad-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_a_day_for_dad-p8",
+     "type": "sentence",
+     "en": "Dad and I take naps on Father's Day.",
+     "zh": "父亲节那天，爸爸和我一起午睡。",
+     "audio": "audio/all/7107_dad_and_i_take_naps_on_father_s_day.mp3",
+     "slow": "audio/all/7107_dad_and_i_take_naps_on_father_s_day.mp3",
+     "image": "img/raz-d-a_day_for_dad-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

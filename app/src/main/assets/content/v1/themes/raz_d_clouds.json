@@ -1,0 +1,237 @@
+{
+ "theme": "raz_d_clouds",
+ "nameZh": "云",
+ "bookTitle": "Clouds",
+ "razLevel": "D",
+ "order": 17,
+ "cover": "img/raz-d-clouds-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_clouds-u1",
+   "band": 2,
+   "title": "Clouds · 云",
+   "cards": [
+    {
+     "id": "raz_d_clouds-p1",
+     "type": "sentence",
+     "en": "Big white clouds fill the blue sky.",
+     "zh": "大朵白云铺满蓝天。",
+     "audio": "audio/all/7279_big_white_clouds_fill_the_blue_sky.mp3",
+     "slow": "audio/all/7279_big_white_clouds_fill_the_blue_sky.mp3",
+     "image": "img/raz-d-clouds-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_clouds-p2",
+     "type": "sentence",
+     "en": "What do you see in the clouds?",
+     "zh": "你在云里看到了什么？",
+     "audio": "audio/all/7280_what_do_you_see_in_the_clouds.mp3",
+     "slow": "audio/all/7280_what_do_you_see_in_the_clouds.mp3",
+     "image": "img/raz-d-clouds-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_clouds-p3",
+     "type": "sentence",
+     "en": "Look at the puffy clouds.",
+     "zh": "看那些蓬蓬的云。",
+     "audio": "audio/all/7281_look_at_the_puffy_clouds.mp3",
+     "slow": "audio/all/7281_look_at_the_puffy_clouds.mp3",
+     "image": "img/raz-d-clouds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_clouds-p4",
+     "type": "sentence",
+     "en": "I see a snowman.",
+     "zh": "我看到一个雪人。",
+     "audio": "audio/all/7282_i_see_a_snowman.mp3",
+     "slow": "audio/all/7282_i_see_a_snowman.mp3",
+     "image": "img/raz-d-clouds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_clouds-p5",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看到了什么？",
+     "audio": "audio/all/7283_what_do_you_see.mp3",
+     "slow": "audio/all/7283_what_do_you_see.mp3",
+     "image": "img/raz-d-clouds-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_clouds-p6",
+     "type": "sentence",
+     "en": "Look at the jumbo clouds.",
+     "zh": "看那些巨大的云。",
+     "audio": "audio/all/7284_look_at_the_jumbo_clouds.mp3",
+     "slow": "audio/all/7284_look_at_the_jumbo_clouds.mp3",
+     "image": "img/raz-d-clouds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_clouds-p7",
+     "type": "sentence",
+     "en": "A whale is what I see.",
+     "zh": "我看到一头鲸鱼。",
+     "audio": "audio/all/7285_a_whale_is_what_i_see.mp3",
+     "slow": "audio/all/7285_a_whale_is_what_i_see.mp3",
+     "image": "img/raz-d-clouds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_clouds-p8",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看到了什么？",
+     "audio": "audio/all/7286_what_do_you_see.mp3",
+     "slow": "audio/all/7286_what_do_you_see.mp3",
+     "image": "img/raz-d-clouds-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_clouds-p9",
+     "type": "sentence",
+     "en": "Look at the round clouds.",
+     "zh": "看那些圆圆的云。",
+     "audio": "audio/all/7287_look_at_the_round_clouds.mp3",
+     "slow": "audio/all/7287_look_at_the_round_clouds.mp3",
+     "image": "img/raz-d-clouds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_clouds-p10",
+     "type": "sentence",
+     "en": "I see a creamy pie.",
+     "zh": "我看到一块奶油派。",
+     "audio": "audio/all/7288_i_see_a_creamy_pie.mp3",
+     "slow": "audio/all/7288_i_see_a_creamy_pie.mp3",
+     "image": "img/raz-d-clouds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_clouds-p11",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看到了什么？",
+     "audio": "audio/all/7289_what_do_you_see.mp3",
+     "slow": "audio/all/7289_what_do_you_see.mp3",
+     "image": "img/raz-d-clouds-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_clouds-p12",
+     "type": "sentence",
+     "en": "Do you see the fuzzy clouds?",
+     "zh": "你看到那些毛茸茸的云了吗？",
+     "audio": "audio/all/7290_do_you_see_the_fuzzy_clouds.mp3",
+     "slow": "audio/all/7290_do_you_see_the_fuzzy_clouds.mp3",
+     "image": "img/raz-d-clouds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_clouds-p13",
+     "type": "sentence",
+     "en": "A sheep is what I see.",
+     "zh": "我看到一只绵羊。",
+     "audio": "audio/all/7291_a_sheep_is_what_i_see.mp3",
+     "slow": "audio/all/7291_a_sheep_is_what_i_see.mp3",
+     "image": "img/raz-d-clouds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_clouds-p14",
+     "type": "sentence",
+     "en": "Do you see it, too?",
+     "zh": "你也看到了吗？",
+     "audio": "audio/all/7292_do_you_see_it_too.mp3",
+     "slow": "audio/all/7292_do_you_see_it_too.mp3",
+     "image": "img/raz-d-clouds-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_clouds-p15",
+     "type": "sentence",
+     "en": "Look at the very tall clouds.",
+     "zh": "看那些高高的云。",
+     "audio": "audio/all/7293_look_at_the_very_tall_clouds.mp3",
+     "slow": "audio/all/7293_look_at_the_very_tall_clouds.mp3",
+     "image": "img/raz-d-clouds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_clouds-p16",
+     "type": "sentence",
+     "en": "I see a mountain.",
+     "zh": "我看到一座山。",
+     "audio": "audio/all/7294_i_see_a_mountain.mp3",
+     "slow": "audio/all/7294_i_see_a_mountain.mp3",
+     "image": "img/raz-d-clouds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_clouds-p17",
+     "type": "sentence",
+     "en": "Can you see the mountain?",
+     "zh": "你能看到那座山吗？",
+     "audio": "audio/all/7295_can_you_see_the_mountain.mp3",
+     "slow": "audio/all/7295_can_you_see_the_mountain.mp3",
+     "image": "img/raz-d-clouds-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_clouds-p18",
+     "type": "sentence",
+     "en": "Look at the darker clouds.",
+     "zh": "看那些颜色更深的云。",
+     "audio": "audio/all/7296_look_at_the_darker_clouds.mp3",
+     "slow": "audio/all/7296_look_at_the_darker_clouds.mp3",
+     "image": "img/raz-d-clouds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_clouds-p19",
+     "type": "sentence",
+     "en": "I see a thick blanket.",
+     "zh": "我看到一床厚毯子。",
+     "audio": "audio/all/7297_i_see_a_thick_blanket.mp3",
+     "slow": "audio/all/7297_i_see_a_thick_blanket.mp3",
+     "image": "img/raz-d-clouds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_clouds-p20",
+     "type": "sentence",
+     "en": "What do you see?",
+     "zh": "你看到了什么？",
+     "audio": "audio/all/7298_what_do_you_see.mp3",
+     "slow": "audio/all/7298_what_do_you_see.mp3",
+     "image": "img/raz-d-clouds-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_clouds-p21",
+     "type": "sentence",
+     "en": "It's starting to rain.",
+     "zh": "开始下雨了。",
+     "audio": "audio/all/7299_it_s_starting_to_rain.mp3",
+     "slow": "audio/all/7299_it_s_starting_to_rain.mp3",
+     "image": "img/raz-d-clouds-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_clouds-p22",
+     "type": "sentence",
+     "en": "Let's go inside.",
+     "zh": "我们进屋吧。",
+     "audio": "audio/all/7300_let_s_go_inside.mp3",
+     "slow": "audio/all/7300_let_s_go_inside.mp3",
+     "image": "img/raz-d-clouds-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

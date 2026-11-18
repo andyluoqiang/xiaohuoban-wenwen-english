@@ -1,0 +1,147 @@
+{
+ "theme": "raz_d_sky_high",
+ "nameZh": "飞上天啦！",
+ "bookTitle": "Sky High!",
+ "razLevel": "D",
+ "order": 59,
+ "cover": "img/raz-d-sky_high-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_sky_high-u1",
+   "band": 2,
+   "title": "Sky High! · 飞上天啦！",
+   "cards": [
+    {
+     "id": "raz_d_sky_high-p1",
+     "type": "sentence",
+     "en": "One little monkey finds a log.",
+     "zh": "一只小猴子发现一根圆木。",
+     "audio": "audio/all/7912_one_little_monkey_finds_a_log.mp3",
+     "slow": "audio/all/7912_one_little_monkey_finds_a_log.mp3",
+     "image": "img/raz-d-sky_high-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_sky_high-p2",
+     "type": "sentence",
+     "en": "She climbs onto the bumpy end.",
+     "zh": "她爬上凹凸不平的那一端。",
+     "audio": "audio/all/7913_she_climbs_onto_the_bumpy_end.mp3",
+     "slow": "audio/all/7913_she_climbs_onto_the_bumpy_end.mp3",
+     "image": "img/raz-d-sky_high-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_sky_high-p3",
+     "type": "sentence",
+     "en": "The mossy end goes up.",
+     "zh": "长青苔的那一端翘了起来。",
+     "audio": "audio/all/7914_the_mossy_end_goes_up.mp3",
+     "slow": "audio/all/7914_the_mossy_end_goes_up.mp3",
+     "image": "img/raz-d-sky_high-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_sky_high-p4",
+     "type": "sentence",
+     "en": "Two monkeys climb on the mossy end.",
+     "zh": "两只猴子爬上长青苔的那一端。",
+     "audio": "audio/all/7915_two_monkeys_climb_on_the_mossy_end.mp3",
+     "slow": "audio/all/7915_two_monkeys_climb_on_the_mossy_end.mp3",
+     "image": "img/raz-d-sky_high-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_sky_high-p5",
+     "type": "sentence",
+     "en": "The bumpy end goes up.",
+     "zh": "凹凸不平的那一端翘了起来。",
+     "audio": "audio/all/7916_the_bumpy_end_goes_up.mp3",
+     "slow": "audio/all/7916_the_bumpy_end_goes_up.mp3",
+     "image": "img/raz-d-sky_high-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_sky_high-p6",
+     "type": "sentence",
+     "en": "Three monkeys climb on the bumpy end.",
+     "zh": "三只猴子爬上凹凸不平的那一端。",
+     "audio": "audio/all/7917_three_monkeys_climb_on_the_bumpy_end.mp3",
+     "slow": "audio/all/7917_three_monkeys_climb_on_the_bumpy_end.mp3",
+     "image": "img/raz-d-sky_high-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_sky_high-p7",
+     "type": "sentence",
+     "en": "The mossy end goes up.",
+     "zh": "长青苔的那一端翘了起来。",
+     "audio": "audio/all/7918_the_mossy_end_goes_up.mp3",
+     "slow": "audio/all/7918_the_mossy_end_goes_up.mp3",
+     "image": "img/raz-d-sky_high-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_sky_high-p8",
+     "type": "sentence",
+     "en": "Two monkeys climb on the mossy end.",
+     "zh": "两只猴子爬上长青苔的那一端。",
+     "audio": "audio/all/7919_two_monkeys_climb_on_the_mossy_end.mp3",
+     "slow": "audio/all/7919_two_monkeys_climb_on_the_mossy_end.mp3",
+     "image": "img/raz-d-sky_high-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_sky_high-p9",
+     "type": "sentence",
+     "en": "Both ends are up.",
+     "zh": "两端都翘了起来。",
+     "audio": "audio/all/7920_both_ends_are_up.mp3",
+     "slow": "audio/all/7920_both_ends_are_up.mp3",
+     "image": "img/raz-d-sky_high-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_sky_high-p10",
+     "type": "sentence",
+     "en": "All the monkeys climb on the mossy end.",
+     "zh": "所有猴子都爬上长青苔的那一端。",
+     "audio": "audio/all/7921_all_the_monkeys_climb_on_the_mossy_end.mp3",
+     "slow": "audio/all/7921_all_the_monkeys_climb_on_the_mossy_end.mp3",
+     "image": "img/raz-d-sky_high-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_sky_high-p11",
+     "type": "sentence",
+     "en": "The bumpy end goes up.",
+     "zh": "凹凸不平的那一端翘了起来。",
+     "audio": "audio/all/7922_the_bumpy_end_goes_up.mp3",
+     "slow": "audio/all/7922_the_bumpy_end_goes_up.mp3",
+     "image": "img/raz-d-sky_high-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_sky_high-p12",
+     "type": "sentence",
+     "en": "A big gorilla jumps on the bumpy end.",
+     "zh": "一只大猩猩跳上凹凸不平的那一端。",
+     "audio": "audio/all/7923_a_big_gorilla_jumps_on_the_bumpy_end.mp3",
+     "slow": "audio/all/7923_a_big_gorilla_jumps_on_the_bumpy_end.mp3",
+     "image": "img/raz-d-sky_high-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_sky_high-p13",
+     "type": "sentence",
+     "en": "All the monkeys go sky high!",
+     "zh": "所有猴子都飞上了天！",
+     "audio": "audio/all/7924_all_the_monkeys_go_sky_high.mp3",
+     "slow": "audio/all/7924_all_the_monkeys_go_sky_high.mp3",
+     "image": "img/raz-d-sky_high-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

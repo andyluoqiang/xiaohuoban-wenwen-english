@@ -1,0 +1,157 @@
+{
+ "theme": "raz_c_all_about_earthworms",
+ "nameZh": "关于蚯蚓",
+ "bookTitle": "All About Earthworms",
+ "razLevel": "C",
+ "order": 2,
+ "cover": "img/raz-c-all_about_earthworms-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_all_about_earthworms-u1",
+   "band": 2,
+   "title": "All About Earthworms · 关于蚯蚓",
+   "cards": [
+    {
+     "id": "raz_c_all_about_earthworms-p1",
+     "type": "sentence",
+     "en": "Earthworms are amazing!",
+     "zh": "蚯蚓真神奇！",
+     "audio": "audio/all/6008_earthworms_are_amazing.mp3",
+     "slow": "audio/all/6008_earthworms_are_amazing.mp3",
+     "image": "img/raz-c-all_about_earthworms-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p2",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6009_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6009_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p3",
+     "type": "sentence",
+     "en": "Most earthworms are small.",
+     "zh": "大多数蚯蚓很小。",
+     "audio": "audio/all/6010_most_earthworms_are_small.mp3",
+     "slow": "audio/all/6010_most_earthworms_are_small.mp3",
+     "image": "img/raz-c-all_about_earthworms-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p4",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6011_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6011_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p5",
+     "type": "sentence",
+     "en": "Some earthworms are big.",
+     "zh": "有些蚯蚓很大。",
+     "audio": "audio/all/6012_some_earthworms_are_big.mp3",
+     "slow": "audio/all/6012_some_earthworms_are_big.mp3",
+     "image": "img/raz-c-all_about_earthworms-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p6",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6013_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6013_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p7",
+     "type": "sentence",
+     "en": "Most earthworms are brown.",
+     "zh": "大多数蚯蚓是棕色的。",
+     "audio": "audio/all/6014_most_earthworms_are_brown.mp3",
+     "slow": "audio/all/6014_most_earthworms_are_brown.mp3",
+     "image": "img/raz-c-all_about_earthworms-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p8",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6015_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6015_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p9",
+     "type": "sentence",
+     "en": "Some earthworms are red.",
+     "zh": "有些蚯蚓是红色的。",
+     "audio": "audio/all/6016_some_earthworms_are_red.mp3",
+     "slow": "audio/all/6016_some_earthworms_are_red.mp3",
+     "image": "img/raz-c-all_about_earthworms-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p10",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6017_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6017_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p11",
+     "type": "sentence",
+     "en": "A few earthworms are blue.",
+     "zh": "少数蚯蚓是蓝色的。",
+     "audio": "audio/all/6018_a_few_earthworms_are_blue.mp3",
+     "slow": "audio/all/6018_a_few_earthworms_are_blue.mp3",
+     "image": "img/raz-c-all_about_earthworms-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p12",
+     "type": "sentence",
+     "en": "Earthworms live in soil.",
+     "zh": "蚯蚓生活在土壤里。",
+     "audio": "audio/all/6019_earthworms_live_in_soil.mp3",
+     "slow": "audio/all/6019_earthworms_live_in_soil.mp3",
+     "image": "img/raz-c-all_about_earthworms-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p13",
+     "type": "sentence",
+     "en": "All earthworms have rings.",
+     "zh": "所有蚯蚓都有环节。",
+     "audio": "audio/all/6020_all_earthworms_have_rings.mp3",
+     "slow": "audio/all/6020_all_earthworms_have_rings.mp3",
+     "image": "img/raz-c-all_about_earthworms-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_all_about_earthworms-p14",
+     "type": "sentence",
+     "en": "Earthworms make the soil good for growing plants.",
+     "zh": "蚯蚓让土壤适合种植物。",
+     "audio": "audio/all/6021_earthworms_make_the_soil_good_for_grow.mp3",
+     "slow": "audio/all/6021_earthworms_make_the_soil_good_for_grow.mp3",
+     "image": "img/raz-c-all_about_earthworms-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

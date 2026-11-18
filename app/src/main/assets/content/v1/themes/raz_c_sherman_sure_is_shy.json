@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_sherman_sure_is_shy",
+ "nameZh": "谢曼真的害羞",
+ "bookTitle": "Sherman Sure Is Shy",
+ "razLevel": "C",
+ "order": 48,
+ "cover": "img/raz-c-sherman_sure_is_shy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_sherman_sure_is_shy-u1",
+   "band": 2,
+   "title": "Sherman Sure Is Shy · 谢曼真的害羞",
+   "cards": [
+    {
+     "id": "raz_c_sherman_sure_is_shy-p1",
+     "type": "sentence",
+     "en": "Wally sure is wonderful.",
+     "zh": "沃利真的很出色。",
+     "audio": "audio/all/6546_wally_sure_is_wonderful.mp3",
+     "slow": "audio/all/6546_wally_sure_is_wonderful.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p2",
+     "type": "sentence",
+     "en": "Sherman sure is shy.",
+     "zh": "谢曼真的很害羞。",
+     "audio": "audio/all/6547_sherman_sure_is_shy.mp3",
+     "slow": "audio/all/6547_sherman_sure_is_shy.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p3",
+     "type": "sentence",
+     "en": "Preston sure is proud.",
+     "zh": "普雷斯顿真的很骄傲。",
+     "audio": "audio/all/6548_preston_sure_is_proud.mp3",
+     "slow": "audio/all/6548_preston_sure_is_proud.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p4",
+     "type": "sentence",
+     "en": "Sherman sure is shy.",
+     "zh": "谢曼真的很害羞。",
+     "audio": "audio/all/6549_sherman_sure_is_shy.mp3",
+     "slow": "audio/all/6549_sherman_sure_is_shy.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p5",
+     "type": "sentence",
+     "en": "Fred sure is fancy.",
+     "zh": "弗雷德真的很花哨。",
+     "audio": "audio/all/6550_fred_sure_is_fancy.mp3",
+     "slow": "audio/all/6550_fred_sure_is_fancy.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p6",
+     "type": "sentence",
+     "en": "Sherman sure is shy.",
+     "zh": "谢曼真的很害羞。",
+     "audio": "audio/all/6551_sherman_sure_is_shy.mp3",
+     "slow": "audio/all/6551_sherman_sure_is_shy.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p7",
+     "type": "sentence",
+     "en": "Greg sure is grand.",
+     "zh": "格雷格真的很气派。",
+     "audio": "audio/all/6552_greg_sure_is_grand.mp3",
+     "slow": "audio/all/6552_greg_sure_is_grand.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p8",
+     "type": "sentence",
+     "en": "Sherman sure is shy.",
+     "zh": "谢曼真的很害羞。",
+     "audio": "audio/all/6553_sherman_sure_is_shy.mp3",
+     "slow": "audio/all/6553_sherman_sure_is_shy.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p9",
+     "type": "sentence",
+     "en": "Shirley sure likes Sherman.",
+     "zh": "雪莉真的很喜欢谢曼。",
+     "audio": "audio/all/6554_shirley_sure_likes_sherman.mp3",
+     "slow": "audio/all/6554_shirley_sure_likes_sherman.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_c_sherman_sure_is_shy-p10",
+     "type": "sentence",
+     "en": "Shirley is shy, too.",
+     "zh": "雪莉也害羞。",
+     "audio": "audio/all/6555_shirley_is_shy_too.mp3",
+     "slow": "audio/all/6555_shirley_is_shy_too.mp3",
+     "image": "img/raz-c-sherman_sure_is_shy-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

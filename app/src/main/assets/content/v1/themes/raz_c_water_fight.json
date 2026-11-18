@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_water_fight",
+ "nameZh": "打水仗",
+ "bookTitle": "Water Fight!",
+ "razLevel": "C",
+ "order": 67,
+ "cover": "img/raz-c-water_fight-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_water_fight-u1",
+   "band": 2,
+   "title": "Water Fight! · 打水仗",
+   "cards": [
+    {
+     "id": "raz_c_water_fight-p1",
+     "type": "sentence",
+     "en": "Jasmine got soaked with a bath toy.",
+     "zh": "贾斯敏被洗澡玩具浇湿了。",
+     "audio": "audio/all/6753_jasmine_got_soaked_with_a_bath_toy.mp3",
+     "slow": "audio/all/6753_jasmine_got_soaked_with_a_bath_toy.mp3",
+     "image": "img/raz-c-water_fight-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_water_fight-p2",
+     "type": "sentence",
+     "en": "Pancho got soaked with a sponge.",
+     "zh": "潘乔被海绵浇湿了。",
+     "audio": "audio/all/6754_pancho_got_soaked_with_a_sponge.mp3",
+     "slow": "audio/all/6754_pancho_got_soaked_with_a_sponge.mp3",
+     "image": "img/raz-c-water_fight-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_water_fight-p3",
+     "type": "sentence",
+     "en": "Emma got soaked with a squirt gun.",
+     "zh": "艾玛被水枪浇湿了。",
+     "audio": "audio/all/6755_emma_got_soaked_with_a_squirt_gun.mp3",
+     "slow": "audio/all/6755_emma_got_soaked_with_a_squirt_gun.mp3",
+     "image": "img/raz-c-water_fight-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_water_fight-p4",
+     "type": "sentence",
+     "en": "Luis got soaked with a noodle.",
+     "zh": "路易斯被浮条浇湿了。",
+     "audio": "audio/all/6756_luis_got_soaked_with_a_noodle.mp3",
+     "slow": "audio/all/6756_luis_got_soaked_with_a_noodle.mp3",
+     "image": "img/raz-c-water_fight-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_water_fight-p5",
+     "type": "sentence",
+     "en": "Jacob got soaked with a water balloon.",
+     "zh": "雅各布被水气球浇湿了。",
+     "audio": "audio/all/6757_jacob_got_soaked_with_a_water_balloon.mp3",
+     "slow": "audio/all/6757_jacob_got_soaked_with_a_water_balloon.mp3",
+     "image": "img/raz-c-water_fight-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_water_fight-p6",
+     "type": "sentence",
+     "en": "William got soaked with a bucket.",
+     "zh": "威廉被水桶浇湿了。",
+     "audio": "audio/all/6758_william_got_soaked_with_a_bucket.mp3",
+     "slow": "audio/all/6758_william_got_soaked_with_a_bucket.mp3",
+     "image": "img/raz-c-water_fight-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_water_fight-p7",
+     "type": "sentence",
+     "en": "Nora got soaked with a hose.",
+     "zh": "诺拉被水管浇湿了。",
+     "audio": "audio/all/6759_nora_got_soaked_with_a_hose.mp3",
+     "slow": "audio/all/6759_nora_got_soaked_with_a_hose.mp3",
+     "image": "img/raz-c-water_fight-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_water_fight-p8",
+     "type": "sentence",
+     "en": "Madison got soaked by everyone!",
+     "zh": "麦迪逊被大家浇湿了！",
+     "audio": "audio/all/6760_madison_got_soaked_by_everyone.mp3",
+     "slow": "audio/all/6760_madison_got_soaked_by_everyone.mp3",
+     "image": "img/raz-c-water_fight-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_spring_and_fall",
+ "nameZh": "春天和秋天",
+ "bookTitle": "Spring and Fall",
+ "razLevel": "A",
+ "order": 60,
+ "cover": "img/raz-a-spring_and_fall-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_spring_and_fall-u1",
+   "band": 2,
+   "title": "Spring and Fall · 春天和秋天",
+   "cards": [
+    {
+     "id": "raz_a_spring_and_fall-p1",
+     "type": "sentence",
+     "en": "See leaves in spring.",
+     "zh": "看春天的叶子。",
+     "audio": "audio/all/5577_see_leaves_in_spring.mp3",
+     "slow": "audio/all/5577_see_leaves_in_spring.mp3",
+     "image": "img/raz-a-spring_and_fall-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_spring_and_fall-p2",
+     "type": "sentence",
+     "en": "See leaves in fall.",
+     "zh": "看秋天的叶子。",
+     "audio": "audio/all/5578_see_leaves_in_fall.mp3",
+     "slow": "audio/all/5578_see_leaves_in_fall.mp3",
+     "image": "img/raz-a-spring_and_fall-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_spring_and_fall-p3",
+     "type": "sentence",
+     "en": "See birds in spring.",
+     "zh": "看春天的鸟。",
+     "audio": "audio/all/5579_see_birds_in_spring.mp3",
+     "slow": "audio/all/5579_see_birds_in_spring.mp3",
+     "image": "img/raz-a-spring_and_fall-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_spring_and_fall-p4",
+     "type": "sentence",
+     "en": "See birds in fall.",
+     "zh": "看秋天的鸟。",
+     "audio": "audio/all/5580_see_birds_in_fall.mp3",
+     "slow": "audio/all/5580_see_birds_in_fall.mp3",
+     "image": "img/raz-a-spring_and_fall-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_spring_and_fall-p5",
+     "type": "sentence",
+     "en": "See corn in spring.",
+     "zh": "看春天的玉米。",
+     "audio": "audio/all/5581_see_corn_in_spring.mp3",
+     "slow": "audio/all/5581_see_corn_in_spring.mp3",
+     "image": "img/raz-a-spring_and_fall-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_spring_and_fall-p6",
+     "type": "sentence",
+     "en": "See corn in fall.",
+     "zh": "看秋天的玉米。",
+     "audio": "audio/all/5582_see_corn_in_fall.mp3",
+     "slow": "audio/all/5582_see_corn_in_fall.mp3",
+     "image": "img/raz-a-spring_and_fall-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_spring_and_fall-p7",
+     "type": "sentence",
+     "en": "See me in spring.",
+     "zh": "看春天的我。",
+     "audio": "audio/all/5583_see_me_in_spring.mp3",
+     "slow": "audio/all/5583_see_me_in_spring.mp3",
+     "image": "img/raz-a-spring_and_fall-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_spring_and_fall-p8",
+     "type": "sentence",
+     "en": "See me in fall!",
+     "zh": "看秋天的我！",
+     "audio": "audio/all/5584_see_me_in_fall.mp3",
+     "slow": "audio/all/5584_see_me_in_fall.mp3",
+     "image": "img/raz-a-spring_and_fall-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

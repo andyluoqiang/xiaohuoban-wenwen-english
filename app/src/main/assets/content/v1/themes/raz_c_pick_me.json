@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_pick_me",
+ "nameZh": "选我吧",
+ "bookTitle": "Pick Me!",
+ "razLevel": "C",
+ "order": 43,
+ "cover": "img/raz-c-pick_me-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_pick_me-u1",
+   "band": 2,
+   "title": "Pick Me! · 选我吧",
+   "cards": [
+    {
+     "id": "raz_c_pick_me-p1",
+     "type": "sentence",
+     "en": "I always get picked last for kickball.",
+     "zh": "踢球游戏我总是最后被选中。",
+     "audio": "audio/all/6486_i_always_get_picked_last_for_kickball.mp3",
+     "slow": "audio/all/6486_i_always_get_picked_last_for_kickball.mp3",
+     "image": "img/raz-c-pick_me-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_pick_me-p2",
+     "type": "sentence",
+     "en": "David picked me last on Monday.",
+     "zh": "星期一大卫最后选我。",
+     "audio": "audio/all/6487_david_picked_me_last_on_monday.mp3",
+     "slow": "audio/all/6487_david_picked_me_last_on_monday.mp3",
+     "image": "img/raz-c-pick_me-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_pick_me-p3",
+     "type": "sentence",
+     "en": "Olivia picked me last on Tuesday.",
+     "zh": "星期二奥利维亚最后选我。",
+     "audio": "audio/all/6488_olivia_picked_me_last_on_tuesday.mp3",
+     "slow": "audio/all/6488_olivia_picked_me_last_on_tuesday.mp3",
+     "image": "img/raz-c-pick_me-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_pick_me-p4",
+     "type": "sentence",
+     "en": "Carter picked me last on Wednesday.",
+     "zh": "星期三卡特最后选我。",
+     "audio": "audio/all/6489_carter_picked_me_last_on_wednesday.mp3",
+     "slow": "audio/all/6489_carter_picked_me_last_on_wednesday.mp3",
+     "image": "img/raz-c-pick_me-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_pick_me-p5",
+     "type": "sentence",
+     "en": "Anya picked me last on Thursday.",
+     "zh": "星期四安雅最后选我。",
+     "audio": "audio/all/6490_anya_picked_me_last_on_thursday.mp3",
+     "slow": "audio/all/6490_anya_picked_me_last_on_thursday.mp3",
+     "image": "img/raz-c-pick_me-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_pick_me-p6",
+     "type": "sentence",
+     "en": "Louie picked me last on Friday.",
+     "zh": "星期五路易最后选我。",
+     "audio": "audio/all/6491_louie_picked_me_last_on_friday.mp3",
+     "slow": "audio/all/6491_louie_picked_me_last_on_friday.mp3",
+     "image": "img/raz-c-pick_me-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_pick_me-p7",
+     "type": "sentence",
+     "en": "Jean picked me last on Saturday.",
+     "zh": "星期六珍最后选我。",
+     "audio": "audio/all/6492_jean_picked_me_last_on_saturday.mp3",
+     "slow": "audio/all/6492_jean_picked_me_last_on_saturday.mp3",
+     "image": "img/raz-c-pick_me-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_pick_me-p8",
+     "type": "sentence",
+     "en": "I asked to pick on Sunday.",
+     "zh": "星期天我要求由我来选。",
+     "audio": "audio/all/6493_i_asked_to_pick_on_sunday.mp3",
+     "slow": "audio/all/6493_i_asked_to_pick_on_sunday.mp3",
+     "image": "img/raz-c-pick_me-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_pick_me-p9",
+     "type": "sentence",
+     "en": "Everyone agreed.",
+     "zh": "大家都同意。",
+     "audio": "audio/all/6494_everyone_agreed.mp3",
+     "slow": "audio/all/6494_everyone_agreed.mp3",
+     "image": "img/raz-c-pick_me-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_pick_me-p10",
+     "type": "sentence",
+     "en": "Now I get to pick!",
+     "zh": "现在轮到我选人啦！",
+     "audio": "audio/all/6495_now_i_get_to_pick.mp3",
+     "slow": "audio/all/6495_now_i_get_to_pick.mp3",
+     "image": "img/raz-c-pick_me-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

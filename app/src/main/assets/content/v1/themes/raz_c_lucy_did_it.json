@@ -1,0 +1,167 @@
+{
+ "theme": "raz_c_lucy_did_it",
+ "nameZh": "是露西干的",
+ "bookTitle": "Lucy Did It",
+ "razLevel": "C",
+ "order": 29,
+ "cover": "img/raz-c-lucy_did_it-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_lucy_did_it-u1",
+   "band": 2,
+   "title": "Lucy Did It · 是露西干的",
+   "cards": [
+    {
+     "id": "raz_c_lucy_did_it-p1",
+     "type": "sentence",
+     "en": "Rip went the bag.",
+     "zh": "哗啦一声，袋子破了。",
+     "audio": "audio/all/6346_rip_went_the_bag.mp3",
+     "slow": "audio/all/6346_rip_went_the_bag.mp3",
+     "image": "img/raz-c-lucy_did_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_lucy_did_it-p2",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6347_lucy_did_it.mp3",
+     "slow": "audio/all/6347_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_lucy_did_it-p3",
+     "type": "sentence",
+     "en": "Crash went the book.",
+     "zh": "哐当一声，书掉了。",
+     "audio": "audio/all/6348_crash_went_the_book.mp3",
+     "slow": "audio/all/6348_crash_went_the_book.mp3",
+     "image": "img/raz-c-lucy_did_it-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_lucy_did_it-p4",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6349_lucy_did_it.mp3",
+     "slow": "audio/all/6349_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_lucy_did_it-p5",
+     "type": "sentence",
+     "en": "Plop went the paint.",
+     "zh": "啪嗒一声，油漆洒了。",
+     "audio": "audio/all/6350_plop_went_the_paint.mp3",
+     "slow": "audio/all/6350_plop_went_the_paint.mp3",
+     "image": "img/raz-c-lucy_did_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_lucy_did_it-p6",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6351_lucy_did_it.mp3",
+     "slow": "audio/all/6351_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_lucy_did_it-p7",
+     "type": "sentence",
+     "en": "Clang went the pan.",
+     "zh": "当啷一声，锅掉了。",
+     "audio": "audio/all/6352_clang_went_the_pan.mp3",
+     "slow": "audio/all/6352_clang_went_the_pan.mp3",
+     "image": "img/raz-c-lucy_did_it-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_lucy_did_it-p8",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6353_lucy_did_it.mp3",
+     "slow": "audio/all/6353_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_lucy_did_it-p9",
+     "type": "sentence",
+     "en": "Ding went the bell.",
+     "zh": "叮的一声，铃响了。",
+     "audio": "audio/all/6354_ding_went_the_bell.mp3",
+     "slow": "audio/all/6354_ding_went_the_bell.mp3",
+     "image": "img/raz-c-lucy_did_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_lucy_did_it-p10",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6355_lucy_did_it.mp3",
+     "slow": "audio/all/6355_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_lucy_did_it-p11",
+     "type": "sentence",
+     "en": "Woof went the dog.",
+     "zh": "汪的一声，狗叫了。",
+     "audio": "audio/all/6356_woof_went_the_dog.mp3",
+     "slow": "audio/all/6356_woof_went_the_dog.mp3",
+     "image": "img/raz-c-lucy_did_it-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_lucy_did_it-p12",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6357_lucy_did_it.mp3",
+     "slow": "audio/all/6357_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_lucy_did_it-p13",
+     "type": "sentence",
+     "en": "Whoosh went the cat.",
+     "zh": "嗖的一声，猫窜了。",
+     "audio": "audio/all/6358_whoosh_went_the_cat.mp3",
+     "slow": "audio/all/6358_whoosh_went_the_cat.mp3",
+     "image": "img/raz-c-lucy_did_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_lucy_did_it-p14",
+     "type": "sentence",
+     "en": "Lucy did it!",
+     "zh": "是露西干的！",
+     "audio": "audio/all/6359_lucy_did_it.mp3",
+     "slow": "audio/all/6359_lucy_did_it.mp3",
+     "image": "img/raz-c-lucy_did_it-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_lucy_did_it-p15",
+     "type": "sentence",
+     "en": "Or did she?",
+     "zh": "真是她干的吗？",
+     "audio": "audio/all/6360_or_did_she.mp3",
+     "slow": "audio/all/6360_or_did_she.mp3",
+     "image": "img/raz-c-lucy_did_it-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

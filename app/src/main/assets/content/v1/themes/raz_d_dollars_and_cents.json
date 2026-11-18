@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_dollars_and_cents",
+ "nameZh": "美元和美分",
+ "bookTitle": "Dollars and Cents",
+ "razLevel": "D",
+ "order": 21,
+ "cover": "img/raz-d-dollars_and_cents-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_dollars_and_cents-u1",
+   "band": 2,
+   "title": "Dollars and Cents · 美元和美分",
+   "cards": [
+    {
+     "id": "raz_d_dollars_and_cents-p1",
+     "type": "sentence",
+     "en": "How many cents is a penny?",
+     "zh": "一便士是多少美分？",
+     "audio": "audio/all/7368_how_many_cents_is_a_penny.mp3",
+     "slow": "audio/all/7368_how_many_cents_is_a_penny.mp3",
+     "image": "img/raz-d-dollars_and_cents-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p2",
+     "type": "sentence",
+     "en": "A penny is one cent.",
+     "zh": "一便士是一美分。",
+     "audio": "audio/all/7369_a_penny_is_one_cent.mp3",
+     "slow": "audio/all/7369_a_penny_is_one_cent.mp3",
+     "image": "img/raz-d-dollars_and_cents-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p3",
+     "type": "sentence",
+     "en": "How many cents is a nickel?",
+     "zh": "一镍币是多少美分？",
+     "audio": "audio/all/7370_how_many_cents_is_a_nickel.mp3",
+     "slow": "audio/all/7370_how_many_cents_is_a_nickel.mp3",
+     "image": "img/raz-d-dollars_and_cents-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p4",
+     "type": "sentence",
+     "en": "A nickel is five cents.",
+     "zh": "一镍币是五美分。",
+     "audio": "audio/all/7371_a_nickel_is_five_cents.mp3",
+     "slow": "audio/all/7371_a_nickel_is_five_cents.mp3",
+     "image": "img/raz-d-dollars_and_cents-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p5",
+     "type": "sentence",
+     "en": "How many cents is a dime?",
+     "zh": "一角硬币是多少美分？",
+     "audio": "audio/all/7372_how_many_cents_is_a_dime.mp3",
+     "slow": "audio/all/7372_how_many_cents_is_a_dime.mp3",
+     "image": "img/raz-d-dollars_and_cents-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p6",
+     "type": "sentence",
+     "en": "A dime is ten cents.",
+     "zh": "一角硬币是十美分。",
+     "audio": "audio/all/7373_a_dime_is_ten_cents.mp3",
+     "slow": "audio/all/7373_a_dime_is_ten_cents.mp3",
+     "image": "img/raz-d-dollars_and_cents-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p7",
+     "type": "sentence",
+     "en": "How many cents is a quarter?",
+     "zh": "两角五分硬币是多少美分？",
+     "audio": "audio/all/7374_how_many_cents_is_a_quarter.mp3",
+     "slow": "audio/all/7374_how_many_cents_is_a_quarter.mp3",
+     "image": "img/raz-d-dollars_and_cents-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p8",
+     "type": "sentence",
+     "en": "A quarter is twenty-five cents.",
+     "zh": "两角五分硬币是二十五美分。",
+     "audio": "audio/all/7375_a_quarter_is_twenty_five_cents.mp3",
+     "slow": "audio/all/7375_a_quarter_is_twenty_five_cents.mp3",
+     "image": "img/raz-d-dollars_and_cents-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p9",
+     "type": "sentence",
+     "en": "How many cents is a half dollar?",
+     "zh": "半美元是多少美分？",
+     "audio": "audio/all/7376_how_many_cents_is_a_half_dollar.mp3",
+     "slow": "audio/all/7376_how_many_cents_is_a_half_dollar.mp3",
+     "image": "img/raz-d-dollars_and_cents-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p10",
+     "type": "sentence",
+     "en": "A half dollar is fifty cents.",
+     "zh": "半美元是五十美分。",
+     "audio": "audio/all/7377_a_half_dollar_is_fifty_cents.mp3",
+     "slow": "audio/all/7377_a_half_dollar_is_fifty_cents.mp3",
+     "image": "img/raz-d-dollars_and_cents-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p11",
+     "type": "sentence",
+     "en": "How many cents is a dollar?",
+     "zh": "一美元是多少美分？",
+     "audio": "audio/all/7378_how_many_cents_is_a_dollar.mp3",
+     "slow": "audio/all/7378_how_many_cents_is_a_dollar.mp3",
+     "image": "img/raz-d-dollars_and_cents-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p12",
+     "type": "sentence",
+     "en": "A dollar is one hundred cents.",
+     "zh": "一美元是一百美分。",
+     "audio": "audio/all/7379_a_dollar_is_one_hundred_cents.mp3",
+     "slow": "audio/all/7379_a_dollar_is_one_hundred_cents.mp3",
+     "image": "img/raz-d-dollars_and_cents-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p13",
+     "type": "sentence",
+     "en": "A dollar bill is easy to carry.",
+     "zh": "一美元纸币容易携带。",
+     "audio": "audio/all/7380_a_dollar_bill_is_easy_to_carry.mp3",
+     "slow": "audio/all/7380_a_dollar_bill_is_easy_to_carry.mp3",
+     "image": "img/raz-d-dollars_and_cents-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_dollars_and_cents-p14",
+     "type": "sentence",
+     "en": "One hundred pennies are hard to carry!",
+     "zh": "一百个便士可就难带啦！",
+     "audio": "audio/all/7381_one_hundred_pennies_are_hard_to_carry.mp3",
+     "slow": "audio/all/7381_one_hundred_pennies_are_hard_to_carry.mp3",
+     "image": "img/raz-d-dollars_and_cents-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

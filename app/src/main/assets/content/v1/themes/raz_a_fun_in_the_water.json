@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_fun_in_the_water",
+ "nameZh": "水中乐趣",
+ "bookTitle": "Fun in the Water",
+ "razLevel": "A",
+ "order": 17,
+ "cover": "img/raz-a-fun_in_the_water-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_fun_in_the_water-u1",
+   "band": 2,
+   "title": "Fun in the Water · 水中乐趣",
+   "cards": [
+    {
+     "id": "raz_a_fun_in_the_water-p1",
+     "type": "sentence",
+     "en": "You float on the water.",
+     "zh": "你在水上漂。",
+     "audio": "audio/all/5232_you_float_on_the_water.mp3",
+     "slow": "audio/all/5232_you_float_on_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p2",
+     "type": "sentence",
+     "en": "You sail on the water.",
+     "zh": "你在水上航行。",
+     "audio": "audio/all/5233_you_sail_on_the_water.mp3",
+     "slow": "audio/all/5233_you_sail_on_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p3",
+     "type": "sentence",
+     "en": "You paddle on the water.",
+     "zh": "你在水上划船。",
+     "audio": "audio/all/5234_you_paddle_on_the_water.mp3",
+     "slow": "audio/all/5234_you_paddle_on_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p4",
+     "type": "sentence",
+     "en": "You fish in the water.",
+     "zh": "你在水里钓鱼。",
+     "audio": "audio/all/5235_you_fish_in_the_water.mp3",
+     "slow": "audio/all/5235_you_fish_in_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p5",
+     "type": "sentence",
+     "en": "You dive in the water.",
+     "zh": "你在水里跳水。",
+     "audio": "audio/all/5236_you_dive_in_the_water.mp3",
+     "slow": "audio/all/5236_you_dive_in_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p6",
+     "type": "sentence",
+     "en": "You swim in the water.",
+     "zh": "你在水里游泳。",
+     "audio": "audio/all/5237_you_swim_in_the_water.mp3",
+     "slow": "audio/all/5237_you_swim_in_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p7",
+     "type": "sentence",
+     "en": "You splash in the water.",
+     "zh": "你在水里泼水。",
+     "audio": "audio/all/5238_you_splash_in_the_water.mp3",
+     "slow": "audio/all/5238_you_splash_in_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_fun_in_the_water-p8",
+     "type": "sentence",
+     "en": "You play in the water.",
+     "zh": "你在水里玩耍。",
+     "audio": "audio/all/5239_you_play_in_the_water.mp3",
+     "slow": "audio/all/5239_you_play_in_the_water.mp3",
+     "image": "img/raz-a-fun_in_the_water-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

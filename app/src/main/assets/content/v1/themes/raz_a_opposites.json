@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_opposites",
+ "nameZh": "反义词",
+ "bookTitle": "Opposites",
+ "razLevel": "A",
+ "order": 52,
+ "cover": "img/raz-a-opposites-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_opposites-u1",
+   "band": 2,
+   "title": "Opposites · 反义词",
+   "cards": [
+    {
+     "id": "raz_a_opposites-p1",
+     "type": "sentence",
+     "en": "This is up.",
+     "zh": "这是上面。",
+     "audio": "audio/all/5513_this_is_up.mp3",
+     "slow": "audio/all/5513_this_is_up.mp3",
+     "image": "img/raz-a-opposites-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_opposites-p2",
+     "type": "sentence",
+     "en": "This is down.",
+     "zh": "这是下面。",
+     "audio": "audio/all/5514_this_is_down.mp3",
+     "slow": "audio/all/5514_this_is_down.mp3",
+     "image": "img/raz-a-opposites-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_opposites-p3",
+     "type": "sentence",
+     "en": "This is on.",
+     "zh": "这是开着。",
+     "audio": "audio/all/5515_this_is_on.mp3",
+     "slow": "audio/all/5515_this_is_on.mp3",
+     "image": "img/raz-a-opposites-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_opposites-p4",
+     "type": "sentence",
+     "en": "This is off.",
+     "zh": "这是关着。",
+     "audio": "audio/all/5516_this_is_off.mp3",
+     "slow": "audio/all/5516_this_is_off.mp3",
+     "image": "img/raz-a-opposites-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_opposites-p5",
+     "type": "sentence",
+     "en": "This is open.",
+     "zh": "这是打开。",
+     "audio": "audio/all/5517_this_is_open.mp3",
+     "slow": "audio/all/5517_this_is_open.mp3",
+     "image": "img/raz-a-opposites-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_opposites-p6",
+     "type": "sentence",
+     "en": "This is closed.",
+     "zh": "这是关闭。",
+     "audio": "audio/all/5518_this_is_closed.mp3",
+     "slow": "audio/all/5518_this_is_closed.mp3",
+     "image": "img/raz-a-opposites-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_opposites-p7",
+     "type": "sentence",
+     "en": "This is fast.",
+     "zh": "这是快。",
+     "audio": "audio/all/5519_this_is_fast.mp3",
+     "slow": "audio/all/5519_this_is_fast.mp3",
+     "image": "img/raz-a-opposites-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_opposites-p8",
+     "type": "sentence",
+     "en": "This is slow.",
+     "zh": "这是慢。",
+     "audio": "audio/all/5520_this_is_slow.mp3",
+     "slow": "audio/all/5520_this_is_slow.mp3",
+     "image": "img/raz-a-opposites-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

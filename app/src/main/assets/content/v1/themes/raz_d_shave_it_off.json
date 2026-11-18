@@ -1,0 +1,207 @@
+{
+ "theme": "raz_d_shave_it_off",
+ "nameZh": "剃掉它！",
+ "bookTitle": "Shave It Off!",
+ "razLevel": "D",
+ "order": 57,
+ "cover": "img/raz-d-shave_it_off-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_shave_it_off-u1",
+   "band": 2,
+   "title": "Shave It Off! · 剃掉它！",
+   "cards": [
+    {
+     "id": "raz_d_shave_it_off-p1",
+     "type": "sentence",
+     "en": "Daddy grew a beard.",
+     "zh": "爸爸留起了胡子。",
+     "audio": "audio/all/7876_daddy_grew_a_beard.mp3",
+     "slow": "audio/all/7876_daddy_grew_a_beard.mp3",
+     "image": "img/raz-d-shave_it_off-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_shave_it_off-p2",
+     "type": "sentence",
+     "en": "He grew it long.",
+     "zh": "他把胡子留得很长。",
+     "audio": "audio/all/7877_he_grew_it_long.mp3",
+     "slow": "audio/all/7877_he_grew_it_long.mp3",
+     "image": "img/raz-d-shave_it_off-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_shave_it_off-p3",
+     "type": "sentence",
+     "en": "We all said,",
+     "zh": "我们大家都说：",
+     "audio": "audio/all/7878_we_all_said.mp3",
+     "slow": "audio/all/7878_we_all_said.mp3",
+     "image": "img/raz-d-shave_it_off-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_shave_it_off-p4",
+     "type": "sentence",
+     "en": "Shave it off!",
+     "zh": "“剃掉它！”",
+     "audio": "audio/all/7879_shave_it_off.mp3",
+     "slow": "audio/all/7879_shave_it_off.mp3",
+     "image": "img/raz-d-shave_it_off-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_shave_it_off-p5",
+     "type": "sentence",
+     "en": "Silly Daddy!",
+     "zh": "傻爸爸！",
+     "audio": "audio/all/7880_silly_daddy.mp3",
+     "slow": "audio/all/7880_silly_daddy.mp3",
+     "image": "img/raz-d-shave_it_off-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_shave_it_off-p6",
+     "type": "sentence",
+     "en": "He looked like a goat with a hairy chin.",
+     "zh": "他看起来像一只下巴毛茸茸的山羊。",
+     "audio": "audio/all/7881_he_looked_like_a_goat_with_a_hairy_chi.mp3",
+     "slow": "audio/all/7881_he_looked_like_a_goat_with_a_hairy_chi.mp3",
+     "image": "img/raz-d-shave_it_off-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_shave_it_off-p7",
+     "type": "sentence",
+     "en": "We all said,",
+     "zh": "我们大家都说：",
+     "audio": "audio/all/7882_we_all_said.mp3",
+     "slow": "audio/all/7882_we_all_said.mp3",
+     "image": "img/raz-d-shave_it_off-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_shave_it_off-p8",
+     "type": "sentence",
+     "en": "Shave it off!",
+     "zh": "“剃掉它！”",
+     "audio": "audio/all/7883_shave_it_off.mp3",
+     "slow": "audio/all/7883_shave_it_off.mp3",
+     "image": "img/raz-d-shave_it_off-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_shave_it_off-p9",
+     "type": "sentence",
+     "en": "Silly Daddy!",
+     "zh": "傻爸爸！",
+     "audio": "audio/all/7884_silly_daddy.mp3",
+     "slow": "audio/all/7884_silly_daddy.mp3",
+     "image": "img/raz-d-shave_it_off-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_shave_it_off-p10",
+     "type": "sentence",
+     "en": "He looked like a wild pirate.",
+     "zh": "他看起来像个狂野的海盗。",
+     "audio": "audio/all/7885_he_looked_like_a_wild_pirate.mp3",
+     "slow": "audio/all/7885_he_looked_like_a_wild_pirate.mp3",
+     "image": "img/raz-d-shave_it_off-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_shave_it_off-p11",
+     "type": "sentence",
+     "en": "We all said,",
+     "zh": "我们大家都说：",
+     "audio": "audio/all/7886_we_all_said.mp3",
+     "slow": "audio/all/7886_we_all_said.mp3",
+     "image": "img/raz-d-shave_it_off-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_shave_it_off-p12",
+     "type": "sentence",
+     "en": "Shave it off!",
+     "zh": "“剃掉它！”",
+     "audio": "audio/all/7887_shave_it_off.mp3",
+     "slow": "audio/all/7887_shave_it_off.mp3",
+     "image": "img/raz-d-shave_it_off-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_shave_it_off-p13",
+     "type": "sentence",
+     "en": "Silly Daddy!",
+     "zh": "傻爸爸！",
+     "audio": "audio/all/7888_silly_daddy.mp3",
+     "slow": "audio/all/7888_silly_daddy.mp3",
+     "image": "img/raz-d-shave_it_off-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_shave_it_off-p14",
+     "type": "sentence",
+     "en": "He looked like a photo from long ago.",
+     "zh": "他看起来像很久以前老照片里的人。",
+     "audio": "audio/all/7889_he_looked_like_a_photo_from_long_ago.mp3",
+     "slow": "audio/all/7889_he_looked_like_a_photo_from_long_ago.mp3",
+     "image": "img/raz-d-shave_it_off-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_shave_it_off-p15",
+     "type": "sentence",
+     "en": "We all said,",
+     "zh": "我们大家都说：",
+     "audio": "audio/all/7890_we_all_said.mp3",
+     "slow": "audio/all/7890_we_all_said.mp3",
+     "image": "img/raz-d-shave_it_off-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_shave_it_off-p16",
+     "type": "sentence",
+     "en": "Shave it off!",
+     "zh": "“剃掉它！”",
+     "audio": "audio/all/7891_shave_it_off.mp3",
+     "slow": "audio/all/7891_shave_it_off.mp3",
+     "image": "img/raz-d-shave_it_off-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_shave_it_off-p17",
+     "type": "sentence",
+     "en": "Daddy shaved one more time.",
+     "zh": "爸爸又刮了一次脸。",
+     "audio": "audio/all/7892_daddy_shaved_one_more_time.mp3",
+     "slow": "audio/all/7892_daddy_shaved_one_more_time.mp3",
+     "image": "img/raz-d-shave_it_off-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_shave_it_off-p18",
+     "type": "sentence",
+     "en": "We felt his face.",
+     "zh": "我们摸了摸他的脸。",
+     "audio": "audio/all/7893_we_felt_his_face.mp3",
+     "slow": "audio/all/7893_we_felt_his_face.mp3",
+     "image": "img/raz-d-shave_it_off-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_shave_it_off-p19",
+     "type": "sentence",
+     "en": "It was so smooth!",
+     "zh": "好光滑呀！",
+     "audio": "audio/all/7894_it_was_so_smooth.mp3",
+     "slow": "audio/all/7894_it_was_so_smooth.mp3",
+     "image": "img/raz-d-shave_it_off-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

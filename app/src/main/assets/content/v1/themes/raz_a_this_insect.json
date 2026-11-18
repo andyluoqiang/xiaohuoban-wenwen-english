@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_this_insect",
+ "nameZh": "这只昆虫",
+ "bookTitle": "This Insect",
+ "razLevel": "A",
+ "order": 70,
+ "cover": "img/raz-a-this_insect-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_this_insect-u1",
+   "band": 2,
+   "title": "This Insect · 这只昆虫",
+   "cards": [
+    {
+     "id": "raz_a_this_insect-p1",
+     "type": "sentence",
+     "en": "This insect is strong.",
+     "zh": "这只昆虫强壮。",
+     "audio": "audio/all/5657_this_insect_is_strong.mp3",
+     "slow": "audio/all/5657_this_insect_is_strong.mp3",
+     "image": "img/raz-a-this_insect-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_this_insect-p2",
+     "type": "sentence",
+     "en": "This insect is fast.",
+     "zh": "这只昆虫快。",
+     "audio": "audio/all/5658_this_insect_is_fast.mp3",
+     "slow": "audio/all/5658_this_insect_is_fast.mp3",
+     "image": "img/raz-a-this_insect-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_this_insect-p3",
+     "type": "sentence",
+     "en": "This insect is furry.",
+     "zh": "这只昆虫毛茸茸。",
+     "audio": "audio/all/5659_this_insect_is_furry.mp3",
+     "slow": "audio/all/5659_this_insect_is_furry.mp3",
+     "image": "img/raz-a-this_insect-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_this_insect-p4",
+     "type": "sentence",
+     "en": "This insect is skinny.",
+     "zh": "这只昆虫瘦。",
+     "audio": "audio/all/5660_this_insect_is_skinny.mp3",
+     "slow": "audio/all/5660_this_insect_is_skinny.mp3",
+     "image": "img/raz-a-this_insect-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_this_insect-p5",
+     "type": "sentence",
+     "en": "This insect is shiny.",
+     "zh": "这只昆虫闪亮。",
+     "audio": "audio/all/5661_this_insect_is_shiny.mp3",
+     "slow": "audio/all/5661_this_insect_is_shiny.mp3",
+     "image": "img/raz-a-this_insect-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_this_insect-p6",
+     "type": "sentence",
+     "en": "This insect is spotted.",
+     "zh": "这只昆虫有斑点。",
+     "audio": "audio/all/5662_this_insect_is_spotted.mp3",
+     "slow": "audio/all/5662_this_insect_is_spotted.mp3",
+     "image": "img/raz-a-this_insect-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_this_insect-p7",
+     "type": "sentence",
+     "en": "This insect is striped.",
+     "zh": "这只昆虫有条纹。",
+     "audio": "audio/all/5663_this_insect_is_striped.mp3",
+     "slow": "audio/all/5663_this_insect_is_striped.mp3",
+     "image": "img/raz-a-this_insect-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_this_insect-p8",
+     "type": "sentence",
+     "en": "This insect is beautiful.",
+     "zh": "这只昆虫美丽。",
+     "audio": "audio/all/5664_this_insect_is_beautiful.mp3",
+     "slow": "audio/all/5664_this_insect_is_beautiful.mp3",
+     "image": "img/raz-a-this_insect-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

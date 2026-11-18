@@ -1,0 +1,167 @@
+{
+ "theme": "raz_d_little_loon",
+ "nameZh": "小潜鸟",
+ "bookTitle": "Little Loon",
+ "razLevel": "D",
+ "order": 41,
+ "cover": "img/raz-d-little_loon-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_little_loon-u1",
+   "band": 2,
+   "title": "Little Loon · 小潜鸟",
+   "cards": [
+    {
+     "id": "raz_d_little_loon-p1",
+     "type": "sentence",
+     "en": "Little Loon went swimming with Papa.",
+     "zh": "小潜鸟和爸爸去游泳。",
+     "audio": "audio/all/7650_little_loon_went_swimming_with_papa.mp3",
+     "slow": "audio/all/7650_little_loon_went_swimming_with_papa.mp3",
+     "image": "img/raz-d-little_loon-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_little_loon-p2",
+     "type": "sentence",
+     "en": "Little Loon got so cold.",
+     "zh": "小潜鸟好冷。",
+     "audio": "audio/all/7651_little_loon_got_so_cold.mp3",
+     "slow": "audio/all/7651_little_loon_got_so_cold.mp3",
+     "image": "img/raz-d-little_loon-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_little_loon-p3",
+     "type": "sentence",
+     "en": "Hop on and get warm, said Papa.",
+     "zh": "跳上来暖和暖和，爸爸说。",
+     "audio": "audio/all/7652_hop_on_and_get_warm_said_papa.mp3",
+     "slow": "audio/all/7652_hop_on_and_get_warm_said_papa.mp3",
+     "image": "img/raz-d-little_loon-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_little_loon-p4",
+     "type": "sentence",
+     "en": "Little Loon did.",
+     "zh": "小潜鸟跳了上去。",
+     "audio": "audio/all/7653_little_loon_did.mp3",
+     "slow": "audio/all/7653_little_loon_did.mp3",
+     "image": "img/raz-d-little_loon-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_little_loon-p5",
+     "type": "sentence",
+     "en": "Little Loon went swimming with Mama.",
+     "zh": "小潜鸟和妈妈去游泳。",
+     "audio": "audio/all/7654_little_loon_went_swimming_with_mama.mp3",
+     "slow": "audio/all/7654_little_loon_went_swimming_with_mama.mp3",
+     "image": "img/raz-d-little_loon-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_little_loon-p6",
+     "type": "sentence",
+     "en": "Little Loon got so sleepy.",
+     "zh": "小潜鸟好困。",
+     "audio": "audio/all/7655_little_loon_got_so_sleepy.mp3",
+     "slow": "audio/all/7655_little_loon_got_so_sleepy.mp3",
+     "image": "img/raz-d-little_loon-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_little_loon-p7",
+     "type": "sentence",
+     "en": "Hop on and sleep, said Mama.",
+     "zh": "跳上来睡一觉，妈妈说。",
+     "audio": "audio/all/7656_hop_on_and_sleep_said_mama.mp3",
+     "slow": "audio/all/7656_hop_on_and_sleep_said_mama.mp3",
+     "image": "img/raz-d-little_loon-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_little_loon-p8",
+     "type": "sentence",
+     "en": "Little Loon did.",
+     "zh": "小潜鸟跳了上去。",
+     "audio": "audio/all/7657_little_loon_did.mp3",
+     "slow": "audio/all/7657_little_loon_did.mp3",
+     "image": "img/raz-d-little_loon-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_little_loon-p9",
+     "type": "sentence",
+     "en": "Little Loon swam all alone.",
+     "zh": "小潜鸟独自游着。",
+     "audio": "audio/all/7658_little_loon_swam_all_alone.mp3",
+     "slow": "audio/all/7658_little_loon_swam_all_alone.mp3",
+     "image": "img/raz-d-little_loon-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_little_loon-p10",
+     "type": "sentence",
+     "en": "Where is he? said Mama.",
+     "zh": "他在哪儿？妈妈说。",
+     "audio": "audio/all/7659_where_is_he_said_mama.mp3",
+     "slow": "audio/all/7659_where_is_he_said_mama.mp3",
+     "image": "img/raz-d-little_loon-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_little_loon-p11",
+     "type": "sentence",
+     "en": "Where is he? said Papa.",
+     "zh": "他在哪儿？爸爸说。",
+     "audio": "audio/all/7660_where_is_he_said_papa.mp3",
+     "slow": "audio/all/7660_where_is_he_said_papa.mp3",
+     "image": "img/raz-d-little_loon-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_little_loon-p12",
+     "type": "sentence",
+     "en": "There he is! they said.",
+     "zh": "他在那儿！他们说。",
+     "audio": "audio/all/7661_there_he_is_they_said.mp3",
+     "slow": "audio/all/7661_there_he_is_they_said.mp3",
+     "image": "img/raz-d-little_loon-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_little_loon-p13",
+     "type": "sentence",
+     "en": "Did you get sleepy? said Mama.",
+     "zh": "你困了吗？妈妈说。",
+     "audio": "audio/all/7662_did_you_get_sleepy_said_mama.mp3",
+     "slow": "audio/all/7662_did_you_get_sleepy_said_mama.mp3",
+     "image": "img/raz-d-little_loon-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_little_loon-p14",
+     "type": "sentence",
+     "en": "Did you get cold? said Papa.",
+     "zh": "你冷吗？爸爸说。",
+     "audio": "audio/all/7663_did_you_get_cold_said_papa.mp3",
+     "slow": "audio/all/7663_did_you_get_cold_said_papa.mp3",
+     "image": "img/raz-d-little_loon-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_little_loon-p15",
+     "type": "sentence",
+     "en": "I got lonely, said Little Loon.",
+     "zh": "我孤单了，小潜鸟说。",
+     "audio": "audio/all/7664_i_got_lonely_said_little_loon.mp3",
+     "slow": "audio/all/7664_i_got_lonely_said_little_loon.mp3",
+     "image": "img/raz-d-little_loon-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_the_busy_pond",
+ "nameZh": "热闹的池塘",
+ "bookTitle": "The Busy Pond",
+ "razLevel": "D",
+ "order": 64,
+ "cover": "img/raz-d-the_busy_pond-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_the_busy_pond-u1",
+   "band": 2,
+   "title": "The Busy Pond · 热闹的池塘",
+   "cards": [
+    {
+     "id": "raz_d_the_busy_pond-p1",
+     "type": "sentence",
+     "en": "I see water when I go to the pond.",
+     "zh": "我去池塘时看见水。",
+     "audio": "audio/all/7979_i_see_water_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7979_i_see_water_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_busy_pond-p2",
+     "type": "sentence",
+     "en": "I can see land all around the water.",
+     "zh": "我看见水的四周都是陆地。",
+     "audio": "audio/all/7980_i_can_see_land_all_around_the_water.mp3",
+     "slow": "audio/all/7980_i_can_see_land_all_around_the_water.mp3",
+     "image": "img/raz-d-the_busy_pond-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_the_busy_pond-p3",
+     "type": "sentence",
+     "en": "I see cattails when I go to the pond.",
+     "zh": "我去池塘时看见香蒲。",
+     "audio": "audio/all/7981_i_see_cattails_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7981_i_see_cattails_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_busy_pond-p4",
+     "type": "sentence",
+     "en": "They are very tall.",
+     "zh": "它们长得很高。",
+     "audio": "audio/all/7982_they_are_very_tall.mp3",
+     "slow": "audio/all/7982_they_are_very_tall.mp3",
+     "image": "img/raz-d-the_busy_pond-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_the_busy_pond-p5",
+     "type": "sentence",
+     "en": "I see lily pads when I go to the pond.",
+     "zh": "我去池塘时看见睡莲叶。",
+     "audio": "audio/all/7983_i_see_lily_pads_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7983_i_see_lily_pads_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_busy_pond-p6",
+     "type": "sentence",
+     "en": "They are very round.",
+     "zh": "它们长得很圆。",
+     "audio": "audio/all/7984_they_are_very_round.mp3",
+     "slow": "audio/all/7984_they_are_very_round.mp3",
+     "image": "img/raz-d-the_busy_pond-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_the_busy_pond-p7",
+     "type": "sentence",
+     "en": "I see frogs when I go to the pond.",
+     "zh": "我去池塘时看见青蛙。",
+     "audio": "audio/all/7985_i_see_frogs_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7985_i_see_frogs_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_busy_pond-p8",
+     "type": "sentence",
+     "en": "They sit on the lily pads.",
+     "zh": "它们坐在睡莲叶上。",
+     "audio": "audio/all/7986_they_sit_on_the_lily_pads.mp3",
+     "slow": "audio/all/7986_they_sit_on_the_lily_pads.mp3",
+     "image": "img/raz-d-the_busy_pond-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_the_busy_pond-p9",
+     "type": "sentence",
+     "en": "I see turtles when I go to the pond.",
+     "zh": "我去池塘时看见乌龟。",
+     "audio": "audio/all/7987_i_see_turtles_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7987_i_see_turtles_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_busy_pond-p10",
+     "type": "sentence",
+     "en": "They sit on a log.",
+     "zh": "它们坐在一根木头上。",
+     "audio": "audio/all/7988_they_sit_on_a_log.mp3",
+     "slow": "audio/all/7988_they_sit_on_a_log.mp3",
+     "image": "img/raz-d-the_busy_pond-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_the_busy_pond-p11",
+     "type": "sentence",
+     "en": "I see ducks when I go to the pond.",
+     "zh": "我去池塘时看见鸭子。",
+     "audio": "audio/all/7989_i_see_ducks_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7989_i_see_ducks_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_busy_pond-p12",
+     "type": "sentence",
+     "en": "They swim on the water.",
+     "zh": "它们在水面上游。",
+     "audio": "audio/all/7990_they_swim_on_the_water.mp3",
+     "slow": "audio/all/7990_they_swim_on_the_water.mp3",
+     "image": "img/raz-d-the_busy_pond-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_the_busy_pond-p13",
+     "type": "sentence",
+     "en": "I see fish when I go to the pond.",
+     "zh": "我去池塘时看见鱼。",
+     "audio": "audio/all/7991_i_see_fish_when_i_go_to_the_pond.mp3",
+     "slow": "audio/all/7991_i_see_fish_when_i_go_to_the_pond.mp3",
+     "image": "img/raz-d-the_busy_pond-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_busy_pond-p14",
+     "type": "sentence",
+     "en": "They swim in the water.",
+     "zh": "它们在水里游。",
+     "audio": "audio/all/7992_they_swim_in_the_water.mp3",
+     "slow": "audio/all/7992_they_swim_in_the_water.mp3",
+     "image": "img/raz-d-the_busy_pond-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_the_busy_pond-p15",
+     "type": "sentence",
+     "en": "I see many things when I go to the pond.",
+     "zh": "我去池塘时看见很多东西。",
+     "audio": "audio/all/7993_i_see_many_things_when_i_go_to_the_pon.mp3",
+     "slow": "audio/all/7993_i_see_many_things_when_i_go_to_the_pon.mp3",
+     "image": "img/raz-d-the_busy_pond-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_the_busy_pond-p16",
+     "type": "sentence",
+     "en": "The pond is a busy place.",
+     "zh": "池塘是个热闹的地方。",
+     "audio": "audio/all/7994_the_pond_is_a_busy_place.mp3",
+     "slow": "audio/all/7994_the_pond_is_a_busy_place.mp3",
+     "image": "img/raz-d-the_busy_pond-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

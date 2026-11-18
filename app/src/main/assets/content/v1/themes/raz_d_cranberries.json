@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_cranberries",
+ "nameZh": "蔓越莓",
+ "bookTitle": "Cranberries",
+ "razLevel": "D",
+ "order": 20,
+ "cover": "img/raz-d-cranberries-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_cranberries-u1",
+   "band": 2,
+   "title": "Cranberries · 蔓越莓",
+   "cards": [
+    {
+     "id": "raz_d_cranberries-p1",
+     "type": "sentence",
+     "en": "Cranberries are fruits.",
+     "zh": "蔓越莓是水果。",
+     "audio": "audio/all/7352_cranberries_are_fruits.mp3",
+     "slow": "audio/all/7352_cranberries_are_fruits.mp3",
+     "image": "img/raz-d-cranberries-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_cranberries-p2",
+     "type": "sentence",
+     "en": "They grow in bogs.",
+     "zh": "它们长在沼泽里。",
+     "audio": "audio/all/7353_they_grow_in_bogs.mp3",
+     "slow": "audio/all/7353_they_grow_in_bogs.mp3",
+     "image": "img/raz-d-cranberries-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_cranberries-p3",
+     "type": "sentence",
+     "en": "Cranberries are fruits.",
+     "zh": "蔓越莓是水果。",
+     "audio": "audio/all/7354_cranberries_are_fruits.mp3",
+     "slow": "audio/all/7354_cranberries_are_fruits.mp3",
+     "image": "img/raz-d-cranberries-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_cranberries-p4",
+     "type": "sentence",
+     "en": "They grow on vines.",
+     "zh": "它们长在藤上。",
+     "audio": "audio/all/7355_they_grow_on_vines.mp3",
+     "slow": "audio/all/7355_they_grow_on_vines.mp3",
+     "image": "img/raz-d-cranberries-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_cranberries-p5",
+     "type": "sentence",
+     "en": "Cranberries are fruits.",
+     "zh": "蔓越莓是水果。",
+     "audio": "audio/all/7356_cranberries_are_fruits.mp3",
+     "slow": "audio/all/7356_cranberries_are_fruits.mp3",
+     "image": "img/raz-d-cranberries-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_cranberries-p6",
+     "type": "sentence",
+     "en": "They grow pink flowers.",
+     "zh": "它们开出粉色的花。",
+     "audio": "audio/all/7357_they_grow_pink_flowers.mp3",
+     "slow": "audio/all/7357_they_grow_pink_flowers.mp3",
+     "image": "img/raz-d-cranberries-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_cranberries-p7",
+     "type": "sentence",
+     "en": "Cranberries are fruits.",
+     "zh": "蔓越莓是水果。",
+     "audio": "audio/all/7358_cranberries_are_fruits.mp3",
+     "slow": "audio/all/7358_cranberries_are_fruits.mp3",
+     "image": "img/raz-d-cranberries-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_cranberries-p8",
+     "type": "sentence",
+     "en": "They grow slowly.",
+     "zh": "它们慢慢生长。",
+     "audio": "audio/all/7359_they_grow_slowly.mp3",
+     "slow": "audio/all/7359_they_grow_slowly.mp3",
+     "image": "img/raz-d-cranberries-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_cranberries-p9",
+     "type": "sentence",
+     "en": "Cranberries taste tart.",
+     "zh": "蔓越莓尝起来酸酸的。",
+     "audio": "audio/all/7360_cranberries_taste_tart.mp3",
+     "slow": "audio/all/7360_cranberries_taste_tart.mp3",
+     "image": "img/raz-d-cranberries-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_cranberries-p10",
+     "type": "sentence",
+     "en": "People eat them fresh.",
+     "zh": "人们吃新鲜的。",
+     "audio": "audio/all/7361_people_eat_them_fresh.mp3",
+     "slow": "audio/all/7361_people_eat_them_fresh.mp3",
+     "image": "img/raz-d-cranberries-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_cranberries-p11",
+     "type": "sentence",
+     "en": "Cranberries taste tart.",
+     "zh": "蔓越莓尝起来酸酸的。",
+     "audio": "audio/all/7362_cranberries_taste_tart.mp3",
+     "slow": "audio/all/7362_cranberries_taste_tart.mp3",
+     "image": "img/raz-d-cranberries-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_cranberries-p12",
+     "type": "sentence",
+     "en": "People eat them dried.",
+     "zh": "人们吃果干。",
+     "audio": "audio/all/7363_people_eat_them_dried.mp3",
+     "slow": "audio/all/7363_people_eat_them_dried.mp3",
+     "image": "img/raz-d-cranberries-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_cranberries-p13",
+     "type": "sentence",
+     "en": "Cranberries taste tart.",
+     "zh": "蔓越莓尝起来酸酸的。",
+     "audio": "audio/all/7364_cranberries_taste_tart.mp3",
+     "slow": "audio/all/7364_cranberries_taste_tart.mp3",
+     "image": "img/raz-d-cranberries-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_cranberries-p14",
+     "type": "sentence",
+     "en": "People eat them as jam.",
+     "zh": "人们把它做成果酱。",
+     "audio": "audio/all/7365_people_eat_them_as_jam.mp3",
+     "slow": "audio/all/7365_people_eat_them_as_jam.mp3",
+     "image": "img/raz-d-cranberries-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_cranberries-p15",
+     "type": "sentence",
+     "en": "Cranberries taste tart.",
+     "zh": "蔓越莓尝起来酸酸的。",
+     "audio": "audio/all/7366_cranberries_taste_tart.mp3",
+     "slow": "audio/all/7366_cranberries_taste_tart.mp3",
+     "image": "img/raz-d-cranberries-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_cranberries-p16",
+     "type": "sentence",
+     "en": "People eat them as sauce.",
+     "zh": "人们把它做成酱汁。",
+     "audio": "audio/all/7367_people_eat_them_as_sauce.mp3",
+     "slow": "audio/all/7367_people_eat_them_as_sauce.mp3",
+     "image": "img/raz-d-cranberries-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

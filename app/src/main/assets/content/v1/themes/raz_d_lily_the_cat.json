@@ -1,0 +1,157 @@
+{
+ "theme": "raz_d_lily_the_cat",
+ "nameZh": "猫咪莉莉",
+ "bookTitle": "Lily the Cat",
+ "razLevel": "D",
+ "order": 40,
+ "cover": "img/raz-d-lily_the_cat-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_lily_the_cat-u1",
+   "band": 2,
+   "title": "Lily the Cat · 猫咪莉莉",
+   "cards": [
+    {
+     "id": "raz_d_lily_the_cat-p1",
+     "type": "sentence",
+     "en": "Lily the cat woke up from her nap.",
+     "zh": "猫咪莉莉从小睡中醒来。",
+     "audio": "audio/all/7636_lily_the_cat_woke_up_from_her_nap.mp3",
+     "slow": "audio/all/7636_lily_the_cat_woke_up_from_her_nap.mp3",
+     "image": "img/raz-d-lily_the_cat-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_lily_the_cat-p2",
+     "type": "sentence",
+     "en": "She jumped down from the bed.",
+     "zh": "她从床上跳下来。",
+     "audio": "audio/all/7637_she_jumped_down_from_the_bed.mp3",
+     "slow": "audio/all/7637_she_jumped_down_from_the_bed.mp3",
+     "image": "img/raz-d-lily_the_cat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_lily_the_cat-p3",
+     "type": "sentence",
+     "en": "She saw a door.",
+     "zh": "她看到一扇门。",
+     "audio": "audio/all/7638_she_saw_a_door.mp3",
+     "slow": "audio/all/7638_she_saw_a_door.mp3",
+     "image": "img/raz-d-lily_the_cat-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_lily_the_cat-p4",
+     "type": "sentence",
+     "en": "She walked through the door.",
+     "zh": "她穿过那扇门。",
+     "audio": "audio/all/7639_she_walked_through_the_door.mp3",
+     "slow": "audio/all/7639_she_walked_through_the_door.mp3",
+     "image": "img/raz-d-lily_the_cat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_lily_the_cat-p5",
+     "type": "sentence",
+     "en": "She saw a room.",
+     "zh": "她看到一个房间。",
+     "audio": "audio/all/7640_she_saw_a_room.mp3",
+     "slow": "audio/all/7640_she_saw_a_room.mp3",
+     "image": "img/raz-d-lily_the_cat-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_lily_the_cat-p6",
+     "type": "sentence",
+     "en": "She crossed the room.",
+     "zh": "她穿过那个房间。",
+     "audio": "audio/all/7641_she_crossed_the_room.mp3",
+     "slow": "audio/all/7641_she_crossed_the_room.mp3",
+     "image": "img/raz-d-lily_the_cat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_lily_the_cat-p7",
+     "type": "sentence",
+     "en": "She saw a chair.",
+     "zh": "她看到一把椅子。",
+     "audio": "audio/all/7642_she_saw_a_chair.mp3",
+     "slow": "audio/all/7642_she_saw_a_chair.mp3",
+     "image": "img/raz-d-lily_the_cat-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_lily_the_cat-p8",
+     "type": "sentence",
+     "en": "She circled the chair.",
+     "zh": "她绕着椅子转圈。",
+     "audio": "audio/all/7643_she_circled_the_chair.mp3",
+     "slow": "audio/all/7643_she_circled_the_chair.mp3",
+     "image": "img/raz-d-lily_the_cat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_lily_the_cat-p9",
+     "type": "sentence",
+     "en": "She saw a table.",
+     "zh": "她看到一张桌子。",
+     "audio": "audio/all/7644_she_saw_a_table.mp3",
+     "slow": "audio/all/7644_she_saw_a_table.mp3",
+     "image": "img/raz-d-lily_the_cat-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_lily_the_cat-p10",
+     "type": "sentence",
+     "en": "She strolled under the table.",
+     "zh": "她从桌子下溜达过去。",
+     "audio": "audio/all/7645_she_strolled_under_the_table.mp3",
+     "slow": "audio/all/7645_she_strolled_under_the_table.mp3",
+     "image": "img/raz-d-lily_the_cat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_lily_the_cat-p11",
+     "type": "sentence",
+     "en": "She saw the couch.",
+     "zh": "她看到沙发。",
+     "audio": "audio/all/7646_she_saw_the_couch.mp3",
+     "slow": "audio/all/7646_she_saw_the_couch.mp3",
+     "image": "img/raz-d-lily_the_cat-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_lily_the_cat-p12",
+     "type": "sentence",
+     "en": "She jumped up on the couch.",
+     "zh": "她跳上沙发。",
+     "audio": "audio/all/7647_she_jumped_up_on_the_couch.mp3",
+     "slow": "audio/all/7647_she_jumped_up_on_the_couch.mp3",
+     "image": "img/raz-d-lily_the_cat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_lily_the_cat-p13",
+     "type": "sentence",
+     "en": "She saw Jack's lap.",
+     "zh": "她看到杰克的腿。",
+     "audio": "audio/all/7648_she_saw_jack_s_lap.mp3",
+     "slow": "audio/all/7648_she_saw_jack_s_lap.mp3",
+     "image": "img/raz-d-lily_the_cat-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_lily_the_cat-p14",
+     "type": "sentence",
+     "en": "Lily curled up on Jack's lap to nap.",
+     "zh": "莉莉蜷在杰克的腿上睡着了。",
+     "audio": "audio/all/7649_lily_curled_up_on_jack_s_lap_to_nap.mp3",
+     "slow": "audio/all/7649_lily_curled_up_on_jack_s_lap_to_nap.mp3",
+     "image": "img/raz-d-lily_the_cat-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

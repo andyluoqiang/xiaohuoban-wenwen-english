@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_snow_falls",
+ "nameZh": "下雪了",
+ "bookTitle": "Snow Falls",
+ "razLevel": "C",
+ "order": 49,
+ "cover": "img/raz-c-snow_falls-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_snow_falls-u1",
+   "band": 2,
+   "title": "Snow Falls · 下雪了",
+   "cards": [
+    {
+     "id": "raz_c_snow_falls-p1",
+     "type": "sentence",
+     "en": "Snow falls in the mountains.",
+     "zh": "雪落在山上。",
+     "audio": "audio/all/6556_snow_falls_in_the_mountains.mp3",
+     "slow": "audio/all/6556_snow_falls_in_the_mountains.mp3",
+     "image": "img/raz-c-snow_falls-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_snow_falls-p2",
+     "type": "sentence",
+     "en": "Snow falls on the plains.",
+     "zh": "雪落在平原上。",
+     "audio": "audio/all/6557_snow_falls_on_the_plains.mp3",
+     "slow": "audio/all/6557_snow_falls_on_the_plains.mp3",
+     "image": "img/raz-c-snow_falls-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_snow_falls-p3",
+     "type": "sentence",
+     "en": "Snow falls in the forest.",
+     "zh": "雪落在森林里。",
+     "audio": "audio/all/6558_snow_falls_in_the_forest.mp3",
+     "slow": "audio/all/6558_snow_falls_in_the_forest.mp3",
+     "image": "img/raz-c-snow_falls-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_snow_falls-p4",
+     "type": "sentence",
+     "en": "Snow falls on the ocean.",
+     "zh": "雪落在海面上。",
+     "audio": "audio/all/6559_snow_falls_on_the_ocean.mp3",
+     "slow": "audio/all/6559_snow_falls_on_the_ocean.mp3",
+     "image": "img/raz-c-snow_falls-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_snow_falls-p5",
+     "type": "sentence",
+     "en": "Snow falls in the desert.",
+     "zh": "雪落在沙漠里。",
+     "audio": "audio/all/6560_snow_falls_in_the_desert.mp3",
+     "slow": "audio/all/6560_snow_falls_in_the_desert.mp3",
+     "image": "img/raz-c-snow_falls-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_snow_falls-p6",
+     "type": "sentence",
+     "en": "Snow falls in the winter.",
+     "zh": "雪在冬天落。",
+     "audio": "audio/all/6561_snow_falls_in_the_winter.mp3",
+     "slow": "audio/all/6561_snow_falls_in_the_winter.mp3",
+     "image": "img/raz-c-snow_falls-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_snow_falls-p7",
+     "type": "sentence",
+     "en": "Snow falls in the spring.",
+     "zh": "雪在春天落。",
+     "audio": "audio/all/6562_snow_falls_in_the_spring.mp3",
+     "slow": "audio/all/6562_snow_falls_in_the_spring.mp3",
+     "image": "img/raz-c-snow_falls-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_snow_falls-p8",
+     "type": "sentence",
+     "en": "Snow falls from the clouds.",
+     "zh": "雪从云端落。",
+     "audio": "audio/all/6563_snow_falls_from_the_clouds.mp3",
+     "slow": "audio/all/6563_snow_falls_from_the_clouds.mp3",
+     "image": "img/raz-c-snow_falls-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_snow_falls-p9",
+     "type": "sentence",
+     "en": "We fall in the snow!",
+     "zh": "我们倒在雪里！",
+     "audio": "audio/all/6564_we_fall_in_the_snow.mp3",
+     "slow": "audio/all/6564_we_fall_in_the_snow.mp3",
+     "image": "img/raz-c-snow_falls-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

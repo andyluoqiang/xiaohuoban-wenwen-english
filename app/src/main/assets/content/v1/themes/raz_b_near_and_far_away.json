@@ -16,8 +16,8 @@
      "type": "sentence",
      "en": "This lion is near.",
      "zh": "这头狮子很近。",
-     "audio": "audio/all/3329_this_lion_is_near.mp3",
-     "slow": "audio/all/3329_this_lion_is_near.mp3",
+     "audio": "audio/all/8729_this_lion_is_near.mp3",
+     "slow": "audio/all/8729_this_lion_is_near.mp3",
      "image": "img/raz-b-near_and_far_away-p01.jpg",
      "page": 1
     },
@@ -26,8 +26,8 @@
      "type": "sentence",
      "en": "That lion is far away.",
      "zh": "那头狮子很远。",
-     "audio": "audio/all/3330_that_lion_is_far_away.mp3",
-     "slow": "audio/all/3330_that_lion_is_far_away.mp3",
+     "audio": "audio/all/8730_that_lion_is_far_away.mp3",
+     "slow": "audio/all/8730_that_lion_is_far_away.mp3",
      "image": "img/raz-b-near_and_far_away-p02.jpg",
      "page": 2
     },
@@ -36,8 +36,8 @@
      "type": "sentence",
      "en": "This owl is near.",
      "zh": "这只猫头鹰很近。",
-     "audio": "audio/all/3331_this_owl_is_near.mp3",
-     "slow": "audio/all/3331_this_owl_is_near.mp3",
+     "audio": "audio/all/8731_this_owl_is_near.mp3",
+     "slow": "audio/all/8731_this_owl_is_near.mp3",
      "image": "img/raz-b-near_and_far_away-p03.jpg",
      "page": 3
     },
@@ -46,8 +46,8 @@
      "type": "sentence",
      "en": "That owl is far away.",
      "zh": "那只猫头鹰很远。",
-     "audio": "audio/all/3332_that_owl_is_far_away.mp3",
-     "slow": "audio/all/3332_that_owl_is_far_away.mp3",
+     "audio": "audio/all/8732_that_owl_is_far_away.mp3",
+     "slow": "audio/all/8732_that_owl_is_far_away.mp3",
      "image": "img/raz-b-near_and_far_away-p04.jpg",
      "page": 4
     },
@@ -56,8 +56,8 @@
      "type": "sentence",
      "en": "This wolf is near.",
      "zh": "这匹狼很近。",
-     "audio": "audio/all/3333_this_wolf_is_near.mp3",
-     "slow": "audio/all/3333_this_wolf_is_near.mp3",
+     "audio": "audio/all/8733_this_wolf_is_near.mp3",
+     "slow": "audio/all/8733_this_wolf_is_near.mp3",
      "image": "img/raz-b-near_and_far_away-p05.jpg",
      "page": 5
     },
@@ -66,8 +66,8 @@
      "type": "sentence",
      "en": "That wolf is far away.",
      "zh": "那匹狼很远。",
-     "audio": "audio/all/3334_that_wolf_is_far_away.mp3",
-     "slow": "audio/all/3334_that_wolf_is_far_away.mp3",
+     "audio": "audio/all/8734_that_wolf_is_far_away.mp3",
+     "slow": "audio/all/8734_that_wolf_is_far_away.mp3",
      "image": "img/raz-b-near_and_far_away-p06.jpg",
      "page": 6
     },
@@ -76,8 +76,8 @@
      "type": "sentence",
      "en": "This deer is near.",
      "zh": "这头鹿很近。",
-     "audio": "audio/all/3335_this_deer_is_near.mp3",
-     "slow": "audio/all/3335_this_deer_is_near.mp3",
+     "audio": "audio/all/8735_this_deer_is_near.mp3",
+     "slow": "audio/all/8735_this_deer_is_near.mp3",
      "image": "img/raz-b-near_and_far_away-p07.jpg",
      "page": 7
     },
@@ -86,8 +86,8 @@
      "type": "sentence",
      "en": "That deer is far away.",
      "zh": "那头鹿很远。",
-     "audio": "audio/all/3336_that_deer_is_far_away.mp3",
-     "slow": "audio/all/3336_that_deer_is_far_away.mp3",
+     "audio": "audio/all/8736_that_deer_is_far_away.mp3",
+     "slow": "audio/all/8736_that_deer_is_far_away.mp3",
      "image": "img/raz-b-near_and_far_away-p08.jpg",
      "page": 8
     }

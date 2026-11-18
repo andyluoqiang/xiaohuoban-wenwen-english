@@ -1,0 +1,167 @@
+{
+ "theme": "raz_d_what",
+ "nameZh": "吃什么？",
+ "bookTitle": "What?",
+ "razLevel": "D",
+ "order": 77,
+ "cover": "img/raz-d-what-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_what-u1",
+   "band": 2,
+   "title": "What? · 吃什么？",
+   "cards": [
+    {
+     "id": "raz_d_what-p1",
+     "type": "sentence",
+     "en": "What? asked Curious Cat.",
+     "zh": "“吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8177_what_asked_curious_cat.mp3",
+     "slow": "audio/all/8177_what_asked_curious_cat.mp3",
+     "image": "img/raz-d-what-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_what-p2",
+     "type": "sentence",
+     "en": "What is for breakfast? asked Curious Cat.",
+     "zh": "“早餐吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8178_what_is_for_breakfast_asked_curious_ca.mp3",
+     "slow": "audio/all/8178_what_is_for_breakfast_asked_curious_ca.mp3",
+     "image": "img/raz-d-what-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_what-p3",
+     "type": "sentence",
+     "en": "Fish, said Mother Cat.",
+     "zh": "“鱼。”猫妈妈说。",
+     "audio": "audio/all/8179_fish_said_mother_cat.mp3",
+     "slow": "audio/all/8179_fish_said_mother_cat.mp3",
+     "image": "img/raz-d-what-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_what-p4",
+     "type": "sentence",
+     "en": "What is for morning snack? asked Curious Cat.",
+     "zh": "“上午加餐吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8180_what_is_for_morning_snack_asked_curiou.mp3",
+     "slow": "audio/all/8180_what_is_for_morning_snack_asked_curiou.mp3",
+     "image": "img/raz-d-what-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_what-p5",
+     "type": "sentence",
+     "en": "Mother Cat said, Fish.",
+     "zh": "猫妈妈说：“鱼。”",
+     "audio": "audio/all/8181_mother_cat_said_fish.mp3",
+     "slow": "audio/all/8181_mother_cat_said_fish.mp3",
+     "image": "img/raz-d-what-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_what-p6",
+     "type": "sentence",
+     "en": "What can I have for lunch? asked Curious Cat.",
+     "zh": "“午餐能吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8182_what_can_i_have_for_lunch_asked_curiou.mp3",
+     "slow": "audio/all/8182_what_can_i_have_for_lunch_asked_curiou.mp3",
+     "image": "img/raz-d-what-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_what-p7",
+     "type": "sentence",
+     "en": "Fish is for lunch, said Mother Cat.",
+     "zh": "“午餐吃鱼。”猫妈妈说。",
+     "audio": "audio/all/8183_fish_is_for_lunch_said_mother_cat.mp3",
+     "slow": "audio/all/8183_fish_is_for_lunch_said_mother_cat.mp3",
+     "image": "img/raz-d-what-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_what-p8",
+     "type": "sentence",
+     "en": "What is for afternoon snack? asked Curious Cat.",
+     "zh": "“下午加餐吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8184_what_is_for_afternoon_snack_asked_curi.mp3",
+     "slow": "audio/all/8184_what_is_for_afternoon_snack_asked_curi.mp3",
+     "image": "img/raz-d-what-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_what-p9",
+     "type": "sentence",
+     "en": "Fish, said Mother Cat.",
+     "zh": "“鱼。”猫妈妈说。",
+     "audio": "audio/all/8185_fish_said_mother_cat.mp3",
+     "slow": "audio/all/8185_fish_said_mother_cat.mp3",
+     "image": "img/raz-d-what-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_what-p10",
+     "type": "sentence",
+     "en": "What are we having for dinner? asked Curious Cat.",
+     "zh": "“晚餐我们吃什么呀？”好奇猫问。",
+     "audio": "audio/all/8186_what_are_we_having_for_dinner_asked_cu.mp3",
+     "slow": "audio/all/8186_what_are_we_having_for_dinner_asked_cu.mp3",
+     "image": "img/raz-d-what-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_what-p11",
+     "type": "sentence",
+     "en": "For dinner we are having fish, said Mother Cat.",
+     "zh": "“晚餐我们吃鱼。”猫妈妈说。",
+     "audio": "audio/all/8187_for_dinner_we_are_having_fish_said_mot.mp3",
+     "slow": "audio/all/8187_for_dinner_we_are_having_fish_said_mot.mp3",
+     "image": "img/raz-d-what-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_what-p12",
+     "type": "sentence",
+     "en": "Fish, fish, fish, said Curious Cat.",
+     "zh": "“鱼、鱼、鱼。”好奇猫说。",
+     "audio": "audio/all/8188_fish_fish_fish_said_curious_cat.mp3",
+     "slow": "audio/all/8188_fish_fish_fish_said_curious_cat.mp3",
+     "image": "img/raz-d-what-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_what-p13",
+     "type": "sentence",
+     "en": "All we have is fish.",
+     "zh": "“我们只有鱼。”",
+     "audio": "audio/all/8189_all_we_have_is_fish.mp3",
+     "slow": "audio/all/8189_all_we_have_is_fish.mp3",
+     "image": "img/raz-d-what-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_what-p14",
+     "type": "sentence",
+     "en": "Please, please can I have pizza?",
+     "zh": "“求求你，我能吃披萨吗？”",
+     "audio": "audio/all/8190_please_please_can_i_have_pizza.mp3",
+     "slow": "audio/all/8190_please_please_can_i_have_pizza.mp3",
+     "image": "img/raz-d-what-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_what-p15",
+     "type": "sentence",
+     "en": "No more fish, please, said Curious Cat.",
+     "zh": "“别再吃鱼了，拜托。”好奇猫说。",
+     "audio": "audio/all/8191_no_more_fish_please_said_curious_cat.mp3",
+     "slow": "audio/all/8191_no_more_fish_please_said_curious_cat.mp3",
+     "image": "img/raz-d-what-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

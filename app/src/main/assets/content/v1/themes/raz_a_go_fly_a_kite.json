@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_go_fly_a_kite",
+ "nameZh": "去放风筝",
+ "bookTitle": "Go Fly a Kite",
+ "razLevel": "A",
+ "order": 19,
+ "cover": "img/raz-a-go_fly_a_kite-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_go_fly_a_kite-u1",
+   "band": 2,
+   "title": "Go Fly a Kite · 去放风筝",
+   "cards": [
+    {
+     "id": "raz_a_go_fly_a_kite-p1",
+     "type": "sentence",
+     "en": "Fly a fish kite.",
+     "zh": "放一条鱼形风筝。",
+     "audio": "audio/all/5248_fly_a_fish_kite.mp3",
+     "slow": "audio/all/5248_fly_a_fish_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p2",
+     "type": "sentence",
+     "en": "Fly a plane kite.",
+     "zh": "放一架飞机风筝。",
+     "audio": "audio/all/5249_fly_a_plane_kite.mp3",
+     "slow": "audio/all/5249_fly_a_plane_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p3",
+     "type": "sentence",
+     "en": "Fly a shark kite.",
+     "zh": "放一条鲨鱼风筝。",
+     "audio": "audio/all/5250_fly_a_shark_kite.mp3",
+     "slow": "audio/all/5250_fly_a_shark_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p4",
+     "type": "sentence",
+     "en": "Fly a bird kite.",
+     "zh": "放一只鸟形风筝。",
+     "audio": "audio/all/5251_fly_a_bird_kite.mp3",
+     "slow": "audio/all/5251_fly_a_bird_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p5",
+     "type": "sentence",
+     "en": "Fly a boat kite.",
+     "zh": "放一条小船风筝。",
+     "audio": "audio/all/5252_fly_a_boat_kite.mp3",
+     "slow": "audio/all/5252_fly_a_boat_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p6",
+     "type": "sentence",
+     "en": "Fly a butterfly kite.",
+     "zh": "放一只蝴蝶风筝。",
+     "audio": "audio/all/5253_fly_a_butterfly_kite.mp3",
+     "slow": "audio/all/5253_fly_a_butterfly_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p7",
+     "type": "sentence",
+     "en": "Fly a dragon kite.",
+     "zh": "放一条龙形风筝。",
+     "audio": "audio/all/5254_fly_a_dragon_kite.mp3",
+     "slow": "audio/all/5254_fly_a_dragon_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_go_fly_a_kite-p8",
+     "type": "sentence",
+     "en": "Fly a rainbow kite.",
+     "zh": "放一道彩虹风筝。",
+     "audio": "audio/all/5255_fly_a_rainbow_kite.mp3",
+     "slow": "audio/all/5255_fly_a_rainbow_kite.mp3",
+     "image": "img/raz-a-go_fly_a_kite-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

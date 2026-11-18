@@ -1,0 +1,117 @@
+{
+ "theme": "raz_d_amazing_places_to_work",
+ "nameZh": "神奇的工作地点",
+ "bookTitle": "Amazing Places to Work",
+ "razLevel": "D",
+ "order": 3,
+ "cover": "img/raz-d-amazing_places_to_work-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_amazing_places_to_work-u1",
+   "band": 2,
+   "title": "Amazing Places to Work · 神奇的工作地点",
+   "cards": [
+    {
+     "id": "raz_d_amazing_places_to_work-p1",
+     "type": "sentence",
+     "en": "People work in many different kinds of places.",
+     "zh": "人们在许多不同的地方工作。",
+     "audio": "audio/all/7124_people_work_in_many_different_kinds_of.mp3",
+     "slow": "audio/all/7124_people_work_in_many_different_kinds_of.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p2",
+     "type": "sentence",
+     "en": "Some people work in amazing places.",
+     "zh": "有些人在神奇的地方工作。",
+     "audio": "audio/all/7125_some_people_work_in_amazing_places.mp3",
+     "slow": "audio/all/7125_some_people_work_in_amazing_places.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p3",
+     "type": "sentence",
+     "en": "This coal miner works underground.",
+     "zh": "这位煤矿工人在地下工作。",
+     "audio": "audio/all/7126_this_coal_miner_works_underground.mp3",
+     "slow": "audio/all/7126_this_coal_miner_works_underground.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p4",
+     "type": "sentence",
+     "en": "This ranger works in forests.",
+     "zh": "这位护林员在森林里工作。",
+     "audio": "audio/all/7127_this_ranger_works_in_forests.mp3",
+     "slow": "audio/all/7127_this_ranger_works_in_forests.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p5",
+     "type": "sentence",
+     "en": "This captain works on ships.",
+     "zh": "这位船长在船上工作。",
+     "audio": "audio/all/7128_this_captain_works_on_ships.mp3",
+     "slow": "audio/all/7128_this_captain_works_on_ships.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p6",
+     "type": "sentence",
+     "en": "This painter works on bridges.",
+     "zh": "这位油漆工在桥上工作。",
+     "audio": "audio/all/7129_this_painter_works_on_bridges.mp3",
+     "slow": "audio/all/7129_this_painter_works_on_bridges.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p7",
+     "type": "sentence",
+     "en": "This pilot works on airplanes.",
+     "zh": "这位飞行员在飞机上工作。",
+     "audio": "audio/all/7130_this_pilot_works_on_airplanes.mp3",
+     "slow": "audio/all/7130_this_pilot_works_on_airplanes.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p8",
+     "type": "sentence",
+     "en": "This singer works on stage.",
+     "zh": "这位歌手在舞台上工作。",
+     "audio": "audio/all/7131_this_singer_works_on_stage.mp3",
+     "slow": "audio/all/7131_this_singer_works_on_stage.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p9",
+     "type": "sentence",
+     "en": "Some people work in amazing places.",
+     "zh": "有些人在神奇的地方工作。",
+     "audio": "audio/all/7132_some_people_work_in_amazing_places.mp3",
+     "slow": "audio/all/7132_some_people_work_in_amazing_places.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_amazing_places_to_work-p10",
+     "type": "sentence",
+     "en": "Where do these people work?",
+     "zh": "这些人在哪里工作呢？",
+     "audio": "audio/all/7133_where_do_these_people_work.mp3",
+     "slow": "audio/all/7133_where_do_these_people_work.mp3",
+     "image": "img/raz-d-amazing_places_to_work-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

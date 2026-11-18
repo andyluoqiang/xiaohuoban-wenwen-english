@@ -1,0 +1,227 @@
+{
+ "theme": "raz_c_the_woodsy_band_jam",
+ "nameZh": "森林乐队即兴演奏",
+ "bookTitle": "The Woodsy Band Jam",
+ "razLevel": "C",
+ "order": 62,
+ "cover": "img/raz-c-the_woodsy_band_jam-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_the_woodsy_band_jam-u1",
+   "band": 2,
+   "title": "The Woodsy Band Jam · 森林乐队即兴演奏",
+   "cards": [
+    {
+     "id": "raz_c_the_woodsy_band_jam-p1",
+     "type": "sentence",
+     "en": "Spring is here,",
+     "zh": "春天来了，",
+     "audio": "audio/all/6683_spring_is_here.mp3",
+     "slow": "audio/all/6683_spring_is_here.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p2",
+     "type": "sentence",
+     "en": "said Woodchuck.",
+     "zh": "土拨鼠说。",
+     "audio": "audio/all/6684_said_woodchuck.mp3",
+     "slow": "audio/all/6684_said_woodchuck.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p3",
+     "type": "sentence",
+     "en": "Let's jam! he said.",
+     "zh": "我们来演奏吧！它说。",
+     "audio": "audio/all/6685_let_s_jam_he_said.mp3",
+     "slow": "audio/all/6685_let_s_jam_he_said.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p4",
+     "type": "sentence",
+     "en": "Out came Elk.",
+     "zh": "麋鹿出来了。",
+     "audio": "audio/all/6686_out_came_elk.mp3",
+     "slow": "audio/all/6686_out_came_elk.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p5",
+     "type": "sentence",
+     "en": "I'll play my horn,",
+     "zh": "我来吹我的号角，",
+     "audio": "audio/all/6687_i_ll_play_my_horn.mp3",
+     "slow": "audio/all/6687_i_ll_play_my_horn.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p6",
+     "type": "sentence",
+     "en": "said Elk.",
+     "zh": "麋鹿说。",
+     "audio": "audio/all/6688_said_elk.mp3",
+     "slow": "audio/all/6688_said_elk.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p7",
+     "type": "sentence",
+     "en": "Out came Bear.",
+     "zh": "熊出来了。",
+     "audio": "audio/all/6689_out_came_bear.mp3",
+     "slow": "audio/all/6689_out_came_bear.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p8",
+     "type": "sentence",
+     "en": "I'll play my banjo,",
+     "zh": "我来弹我的班卓琴，",
+     "audio": "audio/all/6690_i_ll_play_my_banjo.mp3",
+     "slow": "audio/all/6690_i_ll_play_my_banjo.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p9",
+     "type": "sentence",
+     "en": "said Bear.",
+     "zh": "熊说。",
+     "audio": "audio/all/6691_said_bear.mp3",
+     "slow": "audio/all/6691_said_bear.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p10",
+     "type": "sentence",
+     "en": "Out came Owl.",
+     "zh": "猫头鹰出来了。",
+     "audio": "audio/all/6692_out_came_owl.mp3",
+     "slow": "audio/all/6692_out_came_owl.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p11",
+     "type": "sentence",
+     "en": "I'll play my fiddle,",
+     "zh": "我来拉我的提琴，",
+     "audio": "audio/all/6693_i_ll_play_my_fiddle.mp3",
+     "slow": "audio/all/6693_i_ll_play_my_fiddle.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p12",
+     "type": "sentence",
+     "en": "said Owl.",
+     "zh": "猫头鹰说。",
+     "audio": "audio/all/6694_said_owl.mp3",
+     "slow": "audio/all/6694_said_owl.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p13",
+     "type": "sentence",
+     "en": "Out came Rabbit.",
+     "zh": "兔子出来了。",
+     "audio": "audio/all/6695_out_came_rabbit.mp3",
+     "slow": "audio/all/6695_out_came_rabbit.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p14",
+     "type": "sentence",
+     "en": "I'll play my fife,",
+     "zh": "我来吹我的横笛，",
+     "audio": "audio/all/6696_i_ll_play_my_fife.mp3",
+     "slow": "audio/all/6696_i_ll_play_my_fife.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p15",
+     "type": "sentence",
+     "en": "said Rabbit.",
+     "zh": "兔子说。",
+     "audio": "audio/all/6697_said_rabbit.mp3",
+     "slow": "audio/all/6697_said_rabbit.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p16",
+     "type": "sentence",
+     "en": "Out came Raccoon.",
+     "zh": "浣熊出来了。",
+     "audio": "audio/all/6698_out_came_raccoon.mp3",
+     "slow": "audio/all/6698_out_came_raccoon.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p17",
+     "type": "sentence",
+     "en": "I'll play my drum,",
+     "zh": "我来敲我的鼓，",
+     "audio": "audio/all/6699_i_ll_play_my_drum.mp3",
+     "slow": "audio/all/6699_i_ll_play_my_drum.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p18",
+     "type": "sentence",
+     "en": "said Raccoon.",
+     "zh": "浣熊说。",
+     "audio": "audio/all/6700_said_raccoon.mp3",
+     "slow": "audio/all/6700_said_raccoon.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p19",
+     "type": "sentence",
+     "en": "Out came Fox.",
+     "zh": "狐狸出来了。",
+     "audio": "audio/all/6701_out_came_fox.mp3",
+     "slow": "audio/all/6701_out_came_fox.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p20",
+     "type": "sentence",
+     "en": "I'll sing, said Fox.",
+     "zh": "我来唱歌，狐狸说。",
+     "audio": "audio/all/6702_i_ll_sing_said_fox.mp3",
+     "slow": "audio/all/6702_i_ll_sing_said_fox.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_the_woodsy_band_jam-p21",
+     "type": "sentence",
+     "en": "Let's jam!",
+     "zh": "我们演奏吧！",
+     "audio": "audio/all/6703_let_s_jam.mp3",
+     "slow": "audio/all/6703_let_s_jam.mp3",
+     "image": "img/raz-c-the_woodsy_band_jam-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

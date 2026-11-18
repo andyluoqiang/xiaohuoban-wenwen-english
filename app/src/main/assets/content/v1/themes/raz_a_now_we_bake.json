@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_now_we_bake",
+ "nameZh": "现在我们来烤蛋糕",
+ "bookTitle": "Now We Bake!",
+ "razLevel": "A",
+ "order": 50,
+ "cover": "img/raz-a-now_we_bake-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_now_we_bake-u1",
+   "band": 2,
+   "title": "Now We Bake! · 现在我们来烤蛋糕",
+   "cards": [
+    {
+     "id": "raz_a_now_we_bake-p1",
+     "type": "sentence",
+     "en": "Now we shop.",
+     "zh": "现在我们去采购。",
+     "audio": "audio/all/5497_now_we_shop.mp3",
+     "slow": "audio/all/5497_now_we_shop.mp3",
+     "image": "img/raz-a-now_we_bake-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_now_we_bake-p2",
+     "type": "sentence",
+     "en": "Now we mix.",
+     "zh": "现在我们来搅拌。",
+     "audio": "audio/all/5498_now_we_mix.mp3",
+     "slow": "audio/all/5498_now_we_mix.mp3",
+     "image": "img/raz-a-now_we_bake-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_now_we_bake-p3",
+     "type": "sentence",
+     "en": "Now we pour.",
+     "zh": "现在我们来倒糊。",
+     "audio": "audio/all/5499_now_we_pour.mp3",
+     "slow": "audio/all/5499_now_we_pour.mp3",
+     "image": "img/raz-a-now_we_bake-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_now_we_bake-p4",
+     "type": "sentence",
+     "en": "Now we bake.",
+     "zh": "现在我们来烤。",
+     "audio": "audio/all/5500_now_we_bake.mp3",
+     "slow": "audio/all/5500_now_we_bake.mp3",
+     "image": "img/raz-a-now_we_bake-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_now_we_bake-p5",
+     "type": "sentence",
+     "en": "Now we wait.",
+     "zh": "现在我们来等待。",
+     "audio": "audio/all/5501_now_we_wait.mp3",
+     "slow": "audio/all/5501_now_we_wait.mp3",
+     "image": "img/raz-a-now_we_bake-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_now_we_bake-p6",
+     "type": "sentence",
+     "en": "Now we frost.",
+     "zh": "现在我们来涂糖霜。",
+     "audio": "audio/all/5502_now_we_frost.mp3",
+     "slow": "audio/all/5502_now_we_frost.mp3",
+     "image": "img/raz-a-now_we_bake-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_now_we_bake-p7",
+     "type": "sentence",
+     "en": "Now we serve.",
+     "zh": "现在我们来上桌。",
+     "audio": "audio/all/5503_now_we_serve.mp3",
+     "slow": "audio/all/5503_now_we_serve.mp3",
+     "image": "img/raz-a-now_we_bake-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_now_we_bake-p8",
+     "type": "sentence",
+     "en": "Now we eat!",
+     "zh": "现在我们来吃！",
+     "audio": "audio/all/5504_now_we_eat.mp3",
+     "slow": "audio/all/5504_now_we_eat.mp3",
+     "image": "img/raz-a-now_we_bake-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

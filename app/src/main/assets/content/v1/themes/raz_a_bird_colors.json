@@ -1,0 +1,117 @@
+{
+ "theme": "raz_a_bird_colors",
+ "nameZh": "鸟的颜色",
+ "bookTitle": "Bird Colors",
+ "razLevel": "A",
+ "order": 6,
+ "cover": "img/raz-a-bird_colors-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_bird_colors-u1",
+   "band": 2,
+   "title": "Bird Colors · 鸟的颜色",
+   "cards": [
+    {
+     "id": "raz_a_bird_colors-p1",
+     "type": "sentence",
+     "en": "This bird is green.",
+     "zh": "这只鸟是绿色的。",
+     "audio": "audio/all/5140_this_bird_is_green.mp3",
+     "slow": "audio/all/5140_this_bird_is_green.mp3",
+     "image": "img/raz-a-bird_colors-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_bird_colors-p2",
+     "type": "sentence",
+     "en": "This bird is yellow.",
+     "zh": "这只鸟是黄色的。",
+     "audio": "audio/all/5141_this_bird_is_yellow.mp3",
+     "slow": "audio/all/5141_this_bird_is_yellow.mp3",
+     "image": "img/raz-a-bird_colors-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_bird_colors-p3",
+     "type": "sentence",
+     "en": "This bird is red.",
+     "zh": "这只鸟是红色的。",
+     "audio": "audio/all/5142_this_bird_is_red.mp3",
+     "slow": "audio/all/5142_this_bird_is_red.mp3",
+     "image": "img/raz-a-bird_colors-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_bird_colors-p4",
+     "type": "sentence",
+     "en": "This bird is blue.",
+     "zh": "这只鸟是蓝色的。",
+     "audio": "audio/all/5143_this_bird_is_blue.mp3",
+     "slow": "audio/all/5143_this_bird_is_blue.mp3",
+     "image": "img/raz-a-bird_colors-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_bird_colors-p5",
+     "type": "sentence",
+     "en": "This bird is purple.",
+     "zh": "这只鸟是紫色的。",
+     "audio": "audio/all/5144_this_bird_is_purple.mp3",
+     "slow": "audio/all/5144_this_bird_is_purple.mp3",
+     "image": "img/raz-a-bird_colors-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_bird_colors-p6",
+     "type": "sentence",
+     "en": "This bird is pink.",
+     "zh": "这只鸟是粉色的。",
+     "audio": "audio/all/5145_this_bird_is_pink.mp3",
+     "slow": "audio/all/5145_this_bird_is_pink.mp3",
+     "image": "img/raz-a-bird_colors-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_bird_colors-p7",
+     "type": "sentence",
+     "en": "This bird is brown.",
+     "zh": "这只鸟是棕色的。",
+     "audio": "audio/all/5146_this_bird_is_brown.mp3",
+     "slow": "audio/all/5146_this_bird_is_brown.mp3",
+     "image": "img/raz-a-bird_colors-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_bird_colors-p8",
+     "type": "sentence",
+     "en": "This bird is orange.",
+     "zh": "这只鸟是橙色的。",
+     "audio": "audio/all/5147_this_bird_is_orange.mp3",
+     "slow": "audio/all/5147_this_bird_is_orange.mp3",
+     "image": "img/raz-a-bird_colors-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_a_bird_colors-p9",
+     "type": "sentence",
+     "en": "This bird is gray.",
+     "zh": "这只鸟是灰色的。",
+     "audio": "audio/all/5148_this_bird_is_gray.mp3",
+     "slow": "audio/all/5148_this_bird_is_gray.mp3",
+     "image": "img/raz-a-bird_colors-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_a_bird_colors-p10",
+     "type": "sentence",
+     "en": "This bird is many colors.",
+     "zh": "这只鸟有好多颜色。",
+     "audio": "audio/all/5149_this_bird_is_many_colors.mp3",
+     "slow": "audio/all/5149_this_bird_is_many_colors.mp3",
+     "image": "img/raz-a-bird_colors-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

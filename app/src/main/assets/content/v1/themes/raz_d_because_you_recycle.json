@@ -1,0 +1,127 @@
+{
+ "theme": "raz_d_because_you_recycle",
+ "nameZh": "因为你回收",
+ "bookTitle": "Because You Recycle",
+ "razLevel": "D",
+ "order": 11,
+ "cover": "img/raz-d-because_you_recycle-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_because_you_recycle-u1",
+   "band": 2,
+   "title": "Because You Recycle · 因为你回收",
+   "cards": [
+    {
+     "id": "raz_d_because_you_recycle-p1",
+     "type": "sentence",
+     "en": "Sometimes the things you recycle become the same things.",
+     "zh": "有时你回收的东西会变成同样的东西。",
+     "audio": "audio/all/7208_sometimes_the_things_you_recycle_becom.mp3",
+     "slow": "audio/all/7208_sometimes_the_things_you_recycle_becom.mp3",
+     "image": "img/raz-d-because_you_recycle-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_because_you_recycle-p2",
+     "type": "sentence",
+     "en": "Sometimes the things you recycle become new things.",
+     "zh": "有时你回收的东西会变成新东西。",
+     "audio": "audio/all/7209_sometimes_the_things_you_recycle_becom.mp3",
+     "slow": "audio/all/7209_sometimes_the_things_you_recycle_becom.mp3",
+     "image": "img/raz-d-because_you_recycle-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_because_you_recycle-p3",
+     "type": "sentence",
+     "en": "Like what?",
+     "zh": "比如什么呢？",
+     "audio": "audio/all/7210_like_what.mp3",
+     "slow": "audio/all/7210_like_what.mp3",
+     "image": "img/raz-d-because_you_recycle-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_because_you_recycle-p4",
+     "type": "sentence",
+     "en": "Newspaper can become kitty litter.",
+     "zh": "报纸可以变成猫砂。",
+     "audio": "audio/all/7211_newspaper_can_become_kitty_litter.mp3",
+     "slow": "audio/all/7211_newspaper_can_become_kitty_litter.mp3",
+     "image": "img/raz-d-because_you_recycle-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_because_you_recycle-p5",
+     "type": "sentence",
+     "en": "Paper can become toilet paper.",
+     "zh": "纸张可以变成卫生纸。",
+     "audio": "audio/all/7212_paper_can_become_toilet_paper.mp3",
+     "slow": "audio/all/7212_paper_can_become_toilet_paper.mp3",
+     "image": "img/raz-d-because_you_recycle-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_because_you_recycle-p6",
+     "type": "sentence",
+     "en": "Steel can become bicycle parts.",
+     "zh": "钢铁可以变成自行车零件。",
+     "audio": "audio/all/7213_steel_can_become_bicycle_parts.mp3",
+     "slow": "audio/all/7213_steel_can_become_bicycle_parts.mp3",
+     "image": "img/raz-d-because_you_recycle-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_because_you_recycle-p7",
+     "type": "sentence",
+     "en": "Plastic bottles can become jackets.",
+     "zh": "塑料瓶可以变成夹克。",
+     "audio": "audio/all/7214_plastic_bottles_can_become_jackets.mp3",
+     "slow": "audio/all/7214_plastic_bottles_can_become_jackets.mp3",
+     "image": "img/raz-d-because_you_recycle-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_because_you_recycle-p8",
+     "type": "sentence",
+     "en": "Plastic jugs can become tables.",
+     "zh": "塑料壶可以变成桌子。",
+     "audio": "audio/all/7215_plastic_jugs_can_become_tables.mp3",
+     "slow": "audio/all/7215_plastic_jugs_can_become_tables.mp3",
+     "image": "img/raz-d-because_you_recycle-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_because_you_recycle-p9",
+     "type": "sentence",
+     "en": "Glass can become kitchen counters.",
+     "zh": "玻璃可以变成厨房台面。",
+     "audio": "audio/all/7216_glass_can_become_kitchen_counters.mp3",
+     "slow": "audio/all/7216_glass_can_become_kitchen_counters.mp3",
+     "image": "img/raz-d-because_you_recycle-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_because_you_recycle-p10",
+     "type": "sentence",
+     "en": "Cardboard can become paper bags.",
+     "zh": "纸板可以变成纸袋。",
+     "audio": "audio/all/7217_cardboard_can_become_paper_bags.mp3",
+     "slow": "audio/all/7217_cardboard_can_become_paper_bags.mp3",
+     "image": "img/raz-d-because_you_recycle-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_because_you_recycle-p11",
+     "type": "sentence",
+     "en": "All because you recycle.",
+     "zh": "这一切都是因为你回收。",
+     "audio": "audio/all/7218_all_because_you_recycle.mp3",
+     "slow": "audio/all/7218_all_because_you_recycle.mp3",
+     "image": "img/raz-d-because_you_recycle-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

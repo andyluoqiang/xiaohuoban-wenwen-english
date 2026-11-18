@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_save_money",
+ "nameZh": "我存钱",
+ "bookTitle": "I Save Money",
+ "razLevel": "A",
+ "order": 33,
+ "cover": "img/raz-a-i_save_money-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_save_money-u1",
+   "band": 2,
+   "title": "I Save Money · 我存钱",
+   "cards": [
+    {
+     "id": "raz_a_i_save_money-p1",
+     "type": "sentence",
+     "en": "I save a penny.",
+     "zh": "我存一枚一美分硬币。",
+     "audio": "audio/all/5359_i_save_a_penny.mp3",
+     "slow": "audio/all/5359_i_save_a_penny.mp3",
+     "image": "img/raz-a-i_save_money-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_save_money-p2",
+     "type": "sentence",
+     "en": "I save a nickel.",
+     "zh": "我存一枚五美分硬币。",
+     "audio": "audio/all/5360_i_save_a_nickel.mp3",
+     "slow": "audio/all/5360_i_save_a_nickel.mp3",
+     "image": "img/raz-a-i_save_money-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_save_money-p3",
+     "type": "sentence",
+     "en": "I save a dime.",
+     "zh": "我存一枚十美分硬币。",
+     "audio": "audio/all/5361_i_save_a_dime.mp3",
+     "slow": "audio/all/5361_i_save_a_dime.mp3",
+     "image": "img/raz-a-i_save_money-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_save_money-p4",
+     "type": "sentence",
+     "en": "I save a quarter.",
+     "zh": "我存一枚二十五美分硬币。",
+     "audio": "audio/all/5362_i_save_a_quarter.mp3",
+     "slow": "audio/all/5362_i_save_a_quarter.mp3",
+     "image": "img/raz-a-i_save_money-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_save_money-p5",
+     "type": "sentence",
+     "en": "I save a dollar.",
+     "zh": "我存一美元。",
+     "audio": "audio/all/5363_i_save_a_dollar.mp3",
+     "slow": "audio/all/5363_i_save_a_dollar.mp3",
+     "image": "img/raz-a-i_save_money-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_save_money-p6",
+     "type": "sentence",
+     "en": "I save five dollars.",
+     "zh": "我存五美元。",
+     "audio": "audio/all/5364_i_save_five_dollars.mp3",
+     "slow": "audio/all/5364_i_save_five_dollars.mp3",
+     "image": "img/raz-a-i_save_money-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_save_money-p7",
+     "type": "sentence",
+     "en": "I save ten dollars.",
+     "zh": "我存十美元。",
+     "audio": "audio/all/5365_i_save_ten_dollars.mp3",
+     "slow": "audio/all/5365_i_save_ten_dollars.mp3",
+     "image": "img/raz-a-i_save_money-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_save_money-p8",
+     "type": "sentence",
+     "en": "I save money.",
+     "zh": "我在存钱。",
+     "audio": "audio/all/5366_i_save_money.mp3",
+     "slow": "audio/all/5366_i_save_money.mp3",
+     "image": "img/raz-a-i_save_money-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

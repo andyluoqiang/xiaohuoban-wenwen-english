@@ -1,0 +1,187 @@
+{
+ "theme": "raz_c_road_trip",
+ "nameZh": "公路旅行",
+ "bookTitle": "Road Trip",
+ "razLevel": "C",
+ "order": 44,
+ "cover": "img/raz-c-road_trip-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_road_trip-u1",
+   "band": 2,
+   "title": "Road Trip · 公路旅行",
+   "cards": [
+    {
+     "id": "raz_c_road_trip-p1",
+     "type": "sentence",
+     "en": "We are on a road trip.",
+     "zh": "我们在公路旅行。",
+     "audio": "audio/all/6496_we_are_on_a_road_trip.mp3",
+     "slow": "audio/all/6496_we_are_on_a_road_trip.mp3",
+     "image": "img/raz-c-road_trip-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_road_trip-p2",
+     "type": "sentence",
+     "en": "Our last stop is the Grand Canyon.",
+     "zh": "我们的终点站是大峡谷。",
+     "audio": "audio/all/6497_our_last_stop_is_the_grand_canyon.mp3",
+     "slow": "audio/all/6497_our_last_stop_is_the_grand_canyon.mp3",
+     "image": "img/raz-c-road_trip-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_road_trip-p3",
+     "type": "sentence",
+     "en": "We pass a farm.",
+     "zh": "我们经过一个农场。",
+     "audio": "audio/all/6498_we_pass_a_farm.mp3",
+     "slow": "audio/all/6498_we_pass_a_farm.mp3",
+     "image": "img/raz-c-road_trip-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_road_trip-p4",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6499_jon_yawns.mp3",
+     "slow": "audio/all/6499_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_road_trip-p5",
+     "type": "sentence",
+     "en": "We pass a tree.",
+     "zh": "我们经过一棵树。",
+     "audio": "audio/all/6500_we_pass_a_tree.mp3",
+     "slow": "audio/all/6500_we_pass_a_tree.mp3",
+     "image": "img/raz-c-road_trip-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_road_trip-p6",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6501_jon_yawns.mp3",
+     "slow": "audio/all/6501_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_road_trip-p7",
+     "type": "sentence",
+     "en": "We pass a bridge.",
+     "zh": "我们经过一座桥。",
+     "audio": "audio/all/6502_we_pass_a_bridge.mp3",
+     "slow": "audio/all/6502_we_pass_a_bridge.mp3",
+     "image": "img/raz-c-road_trip-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_road_trip-p8",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6503_jon_yawns.mp3",
+     "slow": "audio/all/6503_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_road_trip-p9",
+     "type": "sentence",
+     "en": "We pass a mountain.",
+     "zh": "我们经过一座山。",
+     "audio": "audio/all/6504_we_pass_a_mountain.mp3",
+     "slow": "audio/all/6504_we_pass_a_mountain.mp3",
+     "image": "img/raz-c-road_trip-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_road_trip-p10",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6505_jon_yawns.mp3",
+     "slow": "audio/all/6505_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_road_trip-p11",
+     "type": "sentence",
+     "en": "We pass a city.",
+     "zh": "我们经过一座城市。",
+     "audio": "audio/all/6506_we_pass_a_city.mp3",
+     "slow": "audio/all/6506_we_pass_a_city.mp3",
+     "image": "img/raz-c-road_trip-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_road_trip-p12",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6507_jon_yawns.mp3",
+     "slow": "audio/all/6507_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_road_trip-p13",
+     "type": "sentence",
+     "en": "We pass a dam.",
+     "zh": "我们经过一座水坝。",
+     "audio": "audio/all/6508_we_pass_a_dam.mp3",
+     "slow": "audio/all/6508_we_pass_a_dam.mp3",
+     "image": "img/raz-c-road_trip-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_road_trip-p14",
+     "type": "sentence",
+     "en": "Jon yawns.",
+     "zh": "乔恩打哈欠。",
+     "audio": "audio/all/6509_jon_yawns.mp3",
+     "slow": "audio/all/6509_jon_yawns.mp3",
+     "image": "img/raz-c-road_trip-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_road_trip-p15",
+     "type": "sentence",
+     "en": "At last, we see the Grand Canyon.",
+     "zh": "终于，我们看到大峡谷了。",
+     "audio": "audio/all/6510_at_last_we_see_the_grand_canyon.mp3",
+     "slow": "audio/all/6510_at_last_we_see_the_grand_canyon.mp3",
+     "image": "img/raz-c-road_trip-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_road_trip-p16",
+     "type": "sentence",
+     "en": "Wow, look at this!",
+     "zh": "哇，快看这个！",
+     "audio": "audio/all/6511_wow_look_at_this.mp3",
+     "slow": "audio/all/6511_wow_look_at_this.mp3",
+     "image": "img/raz-c-road_trip-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_road_trip-p17",
+     "type": "sentence",
+     "en": "shouts Jon.",
+     "zh": "乔恩喊道。",
+     "audio": "audio/all/6512_shouts_jon.mp3",
+     "slow": "audio/all/6512_shouts_jon.mp3",
+     "image": "img/raz-c-road_trip-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

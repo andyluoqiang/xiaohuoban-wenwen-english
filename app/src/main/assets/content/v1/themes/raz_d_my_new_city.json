@@ -1,0 +1,137 @@
+{
+ "theme": "raz_d_my_new_city",
+ "nameZh": "我的新城市",
+ "bookTitle": "My New City",
+ "razLevel": "D",
+ "order": 46,
+ "cover": "img/raz-d-my_new_city-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_my_new_city-u1",
+   "band": 2,
+   "title": "My New City · 我的新城市",
+   "cards": [
+    {
+     "id": "raz_d_my_new_city-p1",
+     "type": "sentence",
+     "en": "I moved to a new city.",
+     "zh": "我搬到了新城市。",
+     "audio": "audio/all/7720_i_moved_to_a_new_city.mp3",
+     "slow": "audio/all/7720_i_moved_to_a_new_city.mp3",
+     "image": "img/raz-d-my_new_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_new_city-p2",
+     "type": "sentence",
+     "en": "My old city was really different.",
+     "zh": "我的旧城市真的很不一样。",
+     "audio": "audio/all/7721_my_old_city_was_really_different.mp3",
+     "slow": "audio/all/7721_my_old_city_was_really_different.mp3",
+     "image": "img/raz-d-my_new_city-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_my_new_city-p3",
+     "type": "sentence",
+     "en": "I used to live high up.",
+     "zh": "我以前住得很高。",
+     "audio": "audio/all/7722_i_used_to_live_high_up.mp3",
+     "slow": "audio/all/7722_i_used_to_live_high_up.mp3",
+     "image": "img/raz-d-my_new_city-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_my_new_city-p4",
+     "type": "sentence",
+     "en": "I used to walk to stores.",
+     "zh": "我以前走路去商店。",
+     "audio": "audio/all/7723_i_used_to_walk_to_stores.mp3",
+     "slow": "audio/all/7723_i_used_to_walk_to_stores.mp3",
+     "image": "img/raz-d-my_new_city-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_my_new_city-p5",
+     "type": "sentence",
+     "en": "I used to ride the subway.",
+     "zh": "我以前坐地铁。",
+     "audio": "audio/all/7724_i_used_to_ride_the_subway.mp3",
+     "slow": "audio/all/7724_i_used_to_ride_the_subway.mp3",
+     "image": "img/raz-d-my_new_city-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_my_new_city-p6",
+     "type": "sentence",
+     "en": "I used to smell different foods.",
+     "zh": "我以前闻到各种食物的味道。",
+     "audio": "audio/all/7725_i_used_to_smell_different_foods.mp3",
+     "slow": "audio/all/7725_i_used_to_smell_different_foods.mp3",
+     "image": "img/raz-d-my_new_city-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_my_new_city-p7",
+     "type": "sentence",
+     "en": "Now I live down low.",
+     "zh": "现在我住得低了。",
+     "audio": "audio/all/7726_now_i_live_down_low.mp3",
+     "slow": "audio/all/7726_now_i_live_down_low.mp3",
+     "image": "img/raz-d-my_new_city-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_my_new_city-p8",
+     "type": "sentence",
+     "en": "Now I walk to parks.",
+     "zh": "现在我走路去公园。",
+     "audio": "audio/all/7727_now_i_walk_to_parks.mp3",
+     "slow": "audio/all/7727_now_i_walk_to_parks.mp3",
+     "image": "img/raz-d-my_new_city-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_my_new_city-p9",
+     "type": "sentence",
+     "en": "Now I ride the freeway.",
+     "zh": "现在我走高速路。",
+     "audio": "audio/all/7728_now_i_ride_the_freeway.mp3",
+     "slow": "audio/all/7728_now_i_ride_the_freeway.mp3",
+     "image": "img/raz-d-my_new_city-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_d_my_new_city-p10",
+     "type": "sentence",
+     "en": "Now I smell the ocean.",
+     "zh": "现在我闻到大海的味道。",
+     "audio": "audio/all/7729_now_i_smell_the_ocean.mp3",
+     "slow": "audio/all/7729_now_i_smell_the_ocean.mp3",
+     "image": "img/raz-d-my_new_city-p09.jpg",
+     "page": 9
+    },
+    {
+     "id": "raz_d_my_new_city-p11",
+     "type": "sentence",
+     "en": "Sometimes I miss my old city.",
+     "zh": "有时我想念旧城市。",
+     "audio": "audio/all/7730_sometimes_i_miss_my_old_city.mp3",
+     "slow": "audio/all/7730_sometimes_i_miss_my_old_city.mp3",
+     "image": "img/raz-d-my_new_city-p10.jpg",
+     "page": 10
+    },
+    {
+     "id": "raz_d_my_new_city-p12",
+     "type": "sentence",
+     "en": "I like my new city just as much.",
+     "zh": "我也一样爱我的新城市。",
+     "audio": "audio/all/7731_i_like_my_new_city_just_as_much.mp3",
+     "slow": "audio/all/7731_i_like_my_new_city_just_as_much.mp3",
+     "image": "img/raz-d-my_new_city-p10.jpg",
+     "page": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "theme": "raz_d_our_good_night_story",
+ "nameZh": "我们的晚安故事",
+ "bookTitle": "Our Good Night Story",
+ "razLevel": "D",
+ "order": 50,
+ "cover": "img/raz-d-our_good_night_story-cover.jpg",
+ "units": [
+  {
+   "id": "raz_d_our_good_night_story-u1",
+   "band": 2,
+   "title": "Our Good Night Story · 我们的晚安故事",
+   "cards": [
+    {
+     "id": "raz_d_our_good_night_story-p1",
+     "type": "sentence",
+     "en": "I choose a book.",
+     "zh": "我挑一本书。",
+     "audio": "audio/all/7775_i_choose_a_book.mp3",
+     "slow": "audio/all/7775_i_choose_a_book.mp3",
+     "image": "img/raz-d-our_good_night_story-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_our_good_night_story-p2",
+     "type": "sentence",
+     "en": "Mom chooses a book.",
+     "zh": "妈妈挑一本书。",
+     "audio": "audio/all/7776_mom_chooses_a_book.mp3",
+     "slow": "audio/all/7776_mom_chooses_a_book.mp3",
+     "image": "img/raz-d-our_good_night_story-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_d_our_good_night_story-p3",
+     "type": "sentence",
+     "en": "I choose a book buddy.",
+     "zh": "我挑一个读书伙伴。",
+     "audio": "audio/all/7777_i_choose_a_book_buddy.mp3",
+     "slow": "audio/all/7777_i_choose_a_book_buddy.mp3",
+     "image": "img/raz-d-our_good_night_story-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_our_good_night_story-p4",
+     "type": "sentence",
+     "en": "Mom chooses a book buddy.",
+     "zh": "妈妈挑一个读书伙伴。",
+     "audio": "audio/all/7778_mom_chooses_a_book_buddy.mp3",
+     "slow": "audio/all/7778_mom_chooses_a_book_buddy.mp3",
+     "image": "img/raz-d-our_good_night_story-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_d_our_good_night_story-p5",
+     "type": "sentence",
+     "en": "I choose a chair.",
+     "zh": "我挑一把椅子。",
+     "audio": "audio/all/7779_i_choose_a_chair.mp3",
+     "slow": "audio/all/7779_i_choose_a_chair.mp3",
+     "image": "img/raz-d-our_good_night_story-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_our_good_night_story-p6",
+     "type": "sentence",
+     "en": "Mom chooses a chair.",
+     "zh": "妈妈挑一把椅子。",
+     "audio": "audio/all/7780_mom_chooses_a_chair.mp3",
+     "slow": "audio/all/7780_mom_chooses_a_chair.mp3",
+     "image": "img/raz-d-our_good_night_story-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_d_our_good_night_story-p7",
+     "type": "sentence",
+     "en": "We read our books.",
+     "zh": "我们读各自的书。",
+     "audio": "audio/all/7781_we_read_our_books.mp3",
+     "slow": "audio/all/7781_we_read_our_books.mp3",
+     "image": "img/raz-d-our_good_night_story-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_our_good_night_story-p8",
+     "type": "sentence",
+     "en": "Woof! Woof! says Lucky.",
+     "zh": "汪！汪！拉奇叫。",
+     "audio": "audio/all/7782_woof_woof_says_lucky.mp3",
+     "slow": "audio/all/7782_woof_woof_says_lucky.mp3",
+     "image": "img/raz-d-our_good_night_story-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_our_good_night_story-p9",
+     "type": "sentence",
+     "en": "Not now, Lucky, I say.",
+     "zh": "现在不行，拉奇，我说。",
+     "audio": "audio/all/7783_not_now_lucky_i_say.mp3",
+     "slow": "audio/all/7783_not_now_lucky_i_say.mp3",
+     "image": "img/raz-d-our_good_night_story-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_our_good_night_story-p10",
+     "type": "sentence",
+     "en": "We're reading.",
+     "zh": "我们在读书呢。",
+     "audio": "audio/all/7784_we_re_reading.mp3",
+     "slow": "audio/all/7784_we_re_reading.mp3",
+     "image": "img/raz-d-our_good_night_story-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_d_our_good_night_story-p11",
+     "type": "sentence",
+     "en": "Lucky brings a book.",
+     "zh": "拉奇衔来一本书。",
+     "audio": "audio/all/7785_lucky_brings_a_book.mp3",
+     "slow": "audio/all/7785_lucky_brings_a_book.mp3",
+     "image": "img/raz-d-our_good_night_story-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_our_good_night_story-p12",
+     "type": "sentence",
+     "en": "Lucky brings a book buddy.",
+     "zh": "拉奇衔来一个读书伙伴。",
+     "audio": "audio/all/7786_lucky_brings_a_book_buddy.mp3",
+     "slow": "audio/all/7786_lucky_brings_a_book_buddy.mp3",
+     "image": "img/raz-d-our_good_night_story-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_d_our_good_night_story-p13",
+     "type": "sentence",
+     "en": "Lucky climbs up on the chair.",
+     "zh": "拉奇爬上椅子。",
+     "audio": "audio/all/7787_lucky_climbs_up_on_the_chair.mp3",
+     "slow": "audio/all/7787_lucky_climbs_up_on_the_chair.mp3",
+     "image": "img/raz-d-our_good_night_story-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_our_good_night_story-p14",
+     "type": "sentence",
+     "en": "I think Lucky wants to read, too, I say.",
+     "zh": "我想拉奇也想读书，我说。",
+     "audio": "audio/all/7788_i_think_lucky_wants_to_read_too_i_say.mp3",
+     "slow": "audio/all/7788_i_think_lucky_wants_to_read_too_i_say.mp3",
+     "image": "img/raz-d-our_good_night_story-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_d_our_good_night_story-p15",
+     "type": "sentence",
+     "en": "We read to Lucky.",
+     "zh": "我们读书给拉奇听。",
+     "audio": "audio/all/7789_we_read_to_lucky.mp3",
+     "slow": "audio/all/7789_we_read_to_lucky.mp3",
+     "image": "img/raz-d-our_good_night_story-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_d_our_good_night_story-p16",
+     "type": "sentence",
+     "en": "Good night, Lucky.",
+     "zh": "晚安，拉奇。",
+     "audio": "audio/all/7790_good_night_lucky.mp3",
+     "slow": "audio/all/7790_good_night_lucky.mp3",
+     "image": "img/raz-d-our_good_night_story-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

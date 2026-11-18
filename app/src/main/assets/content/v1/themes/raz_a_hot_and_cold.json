@@ -1,0 +1,87 @@
+{
+ "theme": "raz_a_hot_and_cold",
+ "nameZh": "热和冷",
+ "bookTitle": "Hot and Cold",
+ "razLevel": "A",
+ "order": 26,
+ "cover": "img/raz-a-hot_and_cold-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_hot_and_cold-u1",
+   "band": 2,
+   "title": "Hot and Cold · 热和冷",
+   "cards": [
+    {
+     "id": "raz_a_hot_and_cold-p1",
+     "type": "sentence",
+     "en": "Things can be hot or cold.",
+     "zh": "东西有热也有冷。",
+     "audio": "audio/all/5304_things_can_be_hot_or_cold.mp3",
+     "slow": "audio/all/5304_things_can_be_hot_or_cold.mp3",
+     "image": "img/raz-a-hot_and_cold-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_hot_and_cold-p2",
+     "type": "sentence",
+     "en": "A place can be hot.",
+     "zh": "地方可以是热的。",
+     "audio": "audio/all/5305_a_place_can_be_hot.mp3",
+     "slow": "audio/all/5305_a_place_can_be_hot.mp3",
+     "image": "img/raz-a-hot_and_cold-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_hot_and_cold-p3",
+     "type": "sentence",
+     "en": "A place can be cold.",
+     "zh": "地方可以是冷的。",
+     "audio": "audio/all/5306_a_place_can_be_cold.mp3",
+     "slow": "audio/all/5306_a_place_can_be_cold.mp3",
+     "image": "img/raz-a-hot_and_cold-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_hot_and_cold-p4",
+     "type": "sentence",
+     "en": "Food can be hot.",
+     "zh": "食物可以是热的。",
+     "audio": "audio/all/5307_food_can_be_hot.mp3",
+     "slow": "audio/all/5307_food_can_be_hot.mp3",
+     "image": "img/raz-a-hot_and_cold-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_hot_and_cold-p5",
+     "type": "sentence",
+     "en": "Food can be cold.",
+     "zh": "食物可以是冷的。",
+     "audio": "audio/all/5308_food_can_be_cold.mp3",
+     "slow": "audio/all/5308_food_can_be_cold.mp3",
+     "image": "img/raz-a-hot_and_cold-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_hot_and_cold-p6",
+     "type": "sentence",
+     "en": "People can be hot.",
+     "zh": "人可以是热的。",
+     "audio": "audio/all/5309_people_can_be_hot.mp3",
+     "slow": "audio/all/5309_people_can_be_hot.mp3",
+     "image": "img/raz-a-hot_and_cold-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_hot_and_cold-p7",
+     "type": "sentence",
+     "en": "People can be cold.",
+     "zh": "人可以是冷的。",
+     "audio": "audio/all/5310_people_can_be_cold.mp3",
+     "slow": "audio/all/5310_people_can_be_cold.mp3",
+     "image": "img/raz-a-hot_and_cold-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

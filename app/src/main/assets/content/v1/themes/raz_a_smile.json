@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_smile",
+ "nameZh": "微笑",
+ "bookTitle": "Smile",
+ "razLevel": "A",
+ "order": 58,
+ "cover": "img/raz-a-smile-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_smile-u1",
+   "band": 2,
+   "title": "Smile · 微笑",
+   "cards": [
+    {
+     "id": "raz_a_smile-p1",
+     "type": "sentence",
+     "en": "Smile at your dog.",
+     "zh": "对你的狗微笑。",
+     "audio": "audio/all/5561_smile_at_your_dog.mp3",
+     "slow": "audio/all/5561_smile_at_your_dog.mp3",
+     "image": "img/raz-a-smile-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_smile-p2",
+     "type": "sentence",
+     "en": "Smile at your brother.",
+     "zh": "对你的弟弟微笑。",
+     "audio": "audio/all/5562_smile_at_your_brother.mp3",
+     "slow": "audio/all/5562_smile_at_your_brother.mp3",
+     "image": "img/raz-a-smile-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_smile-p3",
+     "type": "sentence",
+     "en": "Smile at your sister.",
+     "zh": "对你的妹妹微笑。",
+     "audio": "audio/all/5563_smile_at_your_sister.mp3",
+     "slow": "audio/all/5563_smile_at_your_sister.mp3",
+     "image": "img/raz-a-smile-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_smile-p4",
+     "type": "sentence",
+     "en": "Smile at your mom.",
+     "zh": "对你的妈妈微笑。",
+     "audio": "audio/all/5564_smile_at_your_mom.mp3",
+     "slow": "audio/all/5564_smile_at_your_mom.mp3",
+     "image": "img/raz-a-smile-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_smile-p5",
+     "type": "sentence",
+     "en": "Smile at your dad.",
+     "zh": "对你的爸爸微笑。",
+     "audio": "audio/all/5565_smile_at_your_dad.mp3",
+     "slow": "audio/all/5565_smile_at_your_dad.mp3",
+     "image": "img/raz-a-smile-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_smile-p6",
+     "type": "sentence",
+     "en": "Smile at your friend.",
+     "zh": "对你的朋友微笑。",
+     "audio": "audio/all/5566_smile_at_your_friend.mp3",
+     "slow": "audio/all/5566_smile_at_your_friend.mp3",
+     "image": "img/raz-a-smile-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_smile-p7",
+     "type": "sentence",
+     "en": "Smile at your teacher.",
+     "zh": "对你的老师微笑。",
+     "audio": "audio/all/5567_smile_at_your_teacher.mp3",
+     "slow": "audio/all/5567_smile_at_your_teacher.mp3",
+     "image": "img/raz-a-smile-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_smile-p8",
+     "type": "sentence",
+     "en": "Smile at yourself.",
+     "zh": "对自己微笑。",
+     "audio": "audio/all/5568_smile_at_yourself.mp3",
+     "slow": "audio/all/5568_smile_at_yourself.mp3",
+     "image": "img/raz-a-smile-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

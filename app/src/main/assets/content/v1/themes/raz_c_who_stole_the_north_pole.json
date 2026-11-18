@@ -1,0 +1,107 @@
+{
+ "theme": "raz_c_who_stole_the_north_pole",
+ "nameZh": "谁偷了北极",
+ "bookTitle": "Who Stole the North Pole?",
+ "razLevel": "C",
+ "order": 83,
+ "cover": "img/raz-c-who_stole_the_north_pole-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_who_stole_the_north_pole-u1",
+   "band": 2,
+   "title": "Who Stole the North Pole? · 谁偷了北极",
+   "cards": [
+    {
+     "id": "raz_c_who_stole_the_north_pole-p1",
+     "type": "sentence",
+     "en": "The North Pole is missing!",
+     "zh": "北极不见了！",
+     "audio": "audio/all/6932_the_north_pole_is_missing.mp3",
+     "slow": "audio/all/6932_the_north_pole_is_missing.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p2",
+     "type": "sentence",
+     "en": "Who could have taken it?",
+     "zh": "会是谁拿走的呢？",
+     "audio": "audio/all/6933_who_could_have_taken_it.mp3",
+     "slow": "audio/all/6933_who_could_have_taken_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p3",
+     "type": "sentence",
+     "en": "Polar Bear did not take it.",
+     "zh": "北极熊没有拿。",
+     "audio": "audio/all/6934_polar_bear_did_not_take_it.mp3",
+     "slow": "audio/all/6934_polar_bear_did_not_take_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p4",
+     "type": "sentence",
+     "en": "Santa did not take it.",
+     "zh": "圣诞老人没有拿。",
+     "audio": "audio/all/6935_santa_did_not_take_it.mp3",
+     "slow": "audio/all/6935_santa_did_not_take_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p5",
+     "type": "sentence",
+     "en": "Walrus did not take it.",
+     "zh": "海象没有拿。",
+     "audio": "audio/all/6936_walrus_did_not_take_it.mp3",
+     "slow": "audio/all/6936_walrus_did_not_take_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p6",
+     "type": "sentence",
+     "en": "Seal did not take it.",
+     "zh": "海豹没有拿。",
+     "audio": "audio/all/6937_seal_did_not_take_it.mp3",
+     "slow": "audio/all/6937_seal_did_not_take_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p7",
+     "type": "sentence",
+     "en": "Reindeer did not take it.",
+     "zh": "驯鹿没有拿。",
+     "audio": "audio/all/6938_reindeer_did_not_take_it.mp3",
+     "slow": "audio/all/6938_reindeer_did_not_take_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p8",
+     "type": "sentence",
+     "en": "Whale took it!",
+     "zh": "是鲸鱼拿的！",
+     "audio": "audio/all/6939_whale_took_it.mp3",
+     "slow": "audio/all/6939_whale_took_it.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_who_stole_the_north_pole-p9",
+     "type": "sentence",
+     "en": "He thought it was a candy cane!",
+     "zh": "它以为那是糖果棒！",
+     "audio": "audio/all/6940_he_thought_it_was_a_candy_cane.mp3",
+     "slow": "audio/all/6940_he_thought_it_was_a_candy_cane.mp3",
+     "image": "img/raz-c-who_stole_the_north_pole-p07.jpg",
+     "page": 7
+    }
+   ]
+  }
+ ]
+}

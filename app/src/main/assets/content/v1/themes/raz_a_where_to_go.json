@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_where_to_go",
+ "nameZh": "去哪里",
+ "bookTitle": "Where to Go?",
+ "razLevel": "A",
+ "order": 83,
+ "cover": "img/raz-a-where_to_go-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_where_to_go-u1",
+   "band": 2,
+   "title": "Where to Go? · 去哪里",
+   "cards": [
+    {
+     "id": "raz_a_where_to_go-p1",
+     "type": "sentence",
+     "en": "Go to the playground.",
+     "zh": "去游乐场。",
+     "audio": "audio/all/5761_go_to_the_playground.mp3",
+     "slow": "audio/all/5761_go_to_the_playground.mp3",
+     "image": "img/raz-a-where_to_go-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_where_to_go-p2",
+     "type": "sentence",
+     "en": "Go to the pool.",
+     "zh": "去游泳池。",
+     "audio": "audio/all/5762_go_to_the_pool.mp3",
+     "slow": "audio/all/5762_go_to_the_pool.mp3",
+     "image": "img/raz-a-where_to_go-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_where_to_go-p3",
+     "type": "sentence",
+     "en": "Go to the woods.",
+     "zh": "去树林。",
+     "audio": "audio/all/5763_go_to_the_woods.mp3",
+     "slow": "audio/all/5763_go_to_the_woods.mp3",
+     "image": "img/raz-a-where_to_go-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_where_to_go-p4",
+     "type": "sentence",
+     "en": "Go to the museum.",
+     "zh": "去博物馆。",
+     "audio": "audio/all/5764_go_to_the_museum.mp3",
+     "slow": "audio/all/5764_go_to_the_museum.mp3",
+     "image": "img/raz-a-where_to_go-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_where_to_go-p5",
+     "type": "sentence",
+     "en": "Go to the beach.",
+     "zh": "去海滩。",
+     "audio": "audio/all/5765_go_to_the_beach.mp3",
+     "slow": "audio/all/5765_go_to_the_beach.mp3",
+     "image": "img/raz-a-where_to_go-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_where_to_go-p6",
+     "type": "sentence",
+     "en": "Go to the game.",
+     "zh": "去看比赛。",
+     "audio": "audio/all/5766_go_to_the_game.mp3",
+     "slow": "audio/all/5766_go_to_the_game.mp3",
+     "image": "img/raz-a-where_to_go-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_where_to_go-p7",
+     "type": "sentence",
+     "en": "Go to the parade.",
+     "zh": "去看游行。",
+     "audio": "audio/all/5767_go_to_the_parade.mp3",
+     "slow": "audio/all/5767_go_to_the_parade.mp3",
+     "image": "img/raz-a-where_to_go-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_where_to_go-p8",
+     "type": "sentence",
+     "en": "Go to bed.",
+     "zh": "去睡觉。",
+     "audio": "audio/all/5768_go_to_bed.mp3",
+     "slow": "audio/all/5768_go_to_bed.mp3",
+     "image": "img/raz-a-where_to_go-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

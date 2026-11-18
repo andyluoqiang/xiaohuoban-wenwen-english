@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_i_see_my_colors",
+ "nameZh": "我看见颜色",
+ "bookTitle": "I See My Colors",
+ "razLevel": "A",
+ "order": 34,
+ "cover": "img/raz-a-i_see_my_colors-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_i_see_my_colors-u1",
+   "band": 2,
+   "title": "I See My Colors · 我看见颜色",
+   "cards": [
+    {
+     "id": "raz_a_i_see_my_colors-p1",
+     "type": "sentence",
+     "en": "I see blue.",
+     "zh": "我看见蓝色。",
+     "audio": "audio/all/5367_i_see_blue.mp3",
+     "slow": "audio/all/5367_i_see_blue.mp3",
+     "image": "img/raz-a-i_see_my_colors-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p2",
+     "type": "sentence",
+     "en": "I see green.",
+     "zh": "我看见绿色。",
+     "audio": "audio/all/5368_i_see_green.mp3",
+     "slow": "audio/all/5368_i_see_green.mp3",
+     "image": "img/raz-a-i_see_my_colors-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p3",
+     "type": "sentence",
+     "en": "I see purple.",
+     "zh": "我看见紫色。",
+     "audio": "audio/all/5369_i_see_purple.mp3",
+     "slow": "audio/all/5369_i_see_purple.mp3",
+     "image": "img/raz-a-i_see_my_colors-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p4",
+     "type": "sentence",
+     "en": "I see brown.",
+     "zh": "我看见棕色。",
+     "audio": "audio/all/5370_i_see_brown.mp3",
+     "slow": "audio/all/5370_i_see_brown.mp3",
+     "image": "img/raz-a-i_see_my_colors-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p5",
+     "type": "sentence",
+     "en": "I see pink.",
+     "zh": "我看见粉色。",
+     "audio": "audio/all/5371_i_see_pink.mp3",
+     "slow": "audio/all/5371_i_see_pink.mp3",
+     "image": "img/raz-a-i_see_my_colors-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p6",
+     "type": "sentence",
+     "en": "I see red.",
+     "zh": "我看见红色。",
+     "audio": "audio/all/5372_i_see_red.mp3",
+     "slow": "audio/all/5372_i_see_red.mp3",
+     "image": "img/raz-a-i_see_my_colors-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p7",
+     "type": "sentence",
+     "en": "I see orange.",
+     "zh": "我看见橙色。",
+     "audio": "audio/all/5373_i_see_orange.mp3",
+     "slow": "audio/all/5373_i_see_orange.mp3",
+     "image": "img/raz-a-i_see_my_colors-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_i_see_my_colors-p8",
+     "type": "sentence",
+     "en": "I see gold.",
+     "zh": "我看见金色。",
+     "audio": "audio/all/5374_i_see_gold.mp3",
+     "slow": "audio/all/5374_i_see_gold.mp3",
+     "image": "img/raz-a-i_see_my_colors-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

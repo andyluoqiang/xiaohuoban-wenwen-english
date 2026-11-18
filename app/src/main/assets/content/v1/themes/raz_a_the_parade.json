@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_the_parade",
+ "nameZh": "游行",
+ "bookTitle": "The Parade",
+ "razLevel": "A",
+ "order": 66,
+ "cover": "img/raz-a-the_parade-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_the_parade-u1",
+   "band": 2,
+   "title": "The Parade · 游行",
+   "cards": [
+    {
+     "id": "raz_a_the_parade-p1",
+     "type": "sentence",
+     "en": "I see flags.",
+     "zh": "我看见旗子。",
+     "audio": "audio/all/5625_i_see_flags.mp3",
+     "slow": "audio/all/5625_i_see_flags.mp3",
+     "image": "img/raz-a-the_parade-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_the_parade-p2",
+     "type": "sentence",
+     "en": "I see balloons.",
+     "zh": "我看见气球。",
+     "audio": "audio/all/5626_i_see_balloons.mp3",
+     "slow": "audio/all/5626_i_see_balloons.mp3",
+     "image": "img/raz-a-the_parade-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_the_parade-p3",
+     "type": "sentence",
+     "en": "I see hats.",
+     "zh": "我看见帽子。",
+     "audio": "audio/all/5627_i_see_hats.mp3",
+     "slow": "audio/all/5627_i_see_hats.mp3",
+     "image": "img/raz-a-the_parade-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_the_parade-p4",
+     "type": "sentence",
+     "en": "I see clowns.",
+     "zh": "我看见小丑。",
+     "audio": "audio/all/5628_i_see_clowns.mp3",
+     "slow": "audio/all/5628_i_see_clowns.mp3",
+     "image": "img/raz-a-the_parade-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_the_parade-p5",
+     "type": "sentence",
+     "en": "I see drums.",
+     "zh": "我看见鼓。",
+     "audio": "audio/all/5629_i_see_drums.mp3",
+     "slow": "audio/all/5629_i_see_drums.mp3",
+     "image": "img/raz-a-the_parade-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_the_parade-p6",
+     "type": "sentence",
+     "en": "I see horses.",
+     "zh": "我看见马。",
+     "audio": "audio/all/5630_i_see_horses.mp3",
+     "slow": "audio/all/5630_i_see_horses.mp3",
+     "image": "img/raz-a-the_parade-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_the_parade-p7",
+     "type": "sentence",
+     "en": "I see floats.",
+     "zh": "我看见花车。",
+     "audio": "audio/all/5631_i_see_floats.mp3",
+     "slow": "audio/all/5631_i_see_floats.mp3",
+     "image": "img/raz-a-the_parade-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_the_parade-p8",
+     "type": "sentence",
+     "en": "I see the parade.",
+     "zh": "我看见游行队伍。",
+     "audio": "audio/all/5632_i_see_the_parade.mp3",
+     "slow": "audio/all/5632_i_see_the_parade.mp3",
+     "image": "img/raz-a-the_parade-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

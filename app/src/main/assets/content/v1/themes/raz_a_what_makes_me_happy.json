@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_what_makes_me_happy",
+ "nameZh": "什么让我开心",
+ "bookTitle": "What Makes Me Happy?",
+ "razLevel": "A",
+ "order": 81,
+ "cover": "img/raz-a-what_makes_me_happy-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_what_makes_me_happy-u1",
+   "band": 2,
+   "title": "What Makes Me Happy? · 什么让我开心",
+   "cards": [
+    {
+     "id": "raz_a_what_makes_me_happy-p1",
+     "type": "sentence",
+     "en": "Dogs make me happy.",
+     "zh": "狗让我开心。",
+     "audio": "audio/all/5745_dogs_make_me_happy.mp3",
+     "slow": "audio/all/5745_dogs_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p2",
+     "type": "sentence",
+     "en": "Cats make me happy.",
+     "zh": "猫让我开心。",
+     "audio": "audio/all/5746_cats_make_me_happy.mp3",
+     "slow": "audio/all/5746_cats_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p3",
+     "type": "sentence",
+     "en": "Bubbles make me happy.",
+     "zh": "泡泡让我开心。",
+     "audio": "audio/all/5747_bubbles_make_me_happy.mp3",
+     "slow": "audio/all/5747_bubbles_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p4",
+     "type": "sentence",
+     "en": "Trains make me happy.",
+     "zh": "火车让我开心。",
+     "audio": "audio/all/5748_trains_make_me_happy.mp3",
+     "slow": "audio/all/5748_trains_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p5",
+     "type": "sentence",
+     "en": "Swings make me happy.",
+     "zh": "秋千让我开心。",
+     "audio": "audio/all/5749_swings_make_me_happy.mp3",
+     "slow": "audio/all/5749_swings_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p6",
+     "type": "sentence",
+     "en": "Flowers make me happy.",
+     "zh": "花让我开心。",
+     "audio": "audio/all/5750_flowers_make_me_happy.mp3",
+     "slow": "audio/all/5750_flowers_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p7",
+     "type": "sentence",
+     "en": "Books make me happy.",
+     "zh": "书让我开心。",
+     "audio": "audio/all/5751_books_make_me_happy.mp3",
+     "slow": "audio/all/5751_books_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_what_makes_me_happy-p8",
+     "type": "sentence",
+     "en": "Friends make me happy!",
+     "zh": "朋友让我开心！",
+     "audio": "audio/all/5752_friends_make_me_happy.mp3",
+     "slow": "audio/all/5752_friends_make_me_happy.mp3",
+     "image": "img/raz-a-what_makes_me_happy-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

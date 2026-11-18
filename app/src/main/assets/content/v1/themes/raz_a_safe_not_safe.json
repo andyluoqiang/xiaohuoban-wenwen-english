@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_safe_not_safe",
+ "nameZh": "安全，不安全",
+ "bookTitle": "Safe, Not Safe",
+ "razLevel": "A",
+ "order": 55,
+ "cover": "img/raz-a-safe_not_safe-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_safe_not_safe-u1",
+   "band": 2,
+   "title": "Safe, Not Safe · 安全，不安全",
+   "cards": [
+    {
+     "id": "raz_a_safe_not_safe-p1",
+     "type": "sentence",
+     "en": "This street is safe.",
+     "zh": "这条街是安全的。",
+     "audio": "audio/all/5537_this_street_is_safe.mp3",
+     "slow": "audio/all/5537_this_street_is_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_safe_not_safe-p2",
+     "type": "sentence",
+     "en": "This street is not safe.",
+     "zh": "这条街不安全。",
+     "audio": "audio/all/5538_this_street_is_not_safe.mp3",
+     "slow": "audio/all/5538_this_street_is_not_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_safe_not_safe-p3",
+     "type": "sentence",
+     "en": "This ice is safe.",
+     "zh": "这片冰是安全的。",
+     "audio": "audio/all/5539_this_ice_is_safe.mp3",
+     "slow": "audio/all/5539_this_ice_is_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_safe_not_safe-p4",
+     "type": "sentence",
+     "en": "This ice is not safe.",
+     "zh": "这片冰不安全。",
+     "audio": "audio/all/5540_this_ice_is_not_safe.mp3",
+     "slow": "audio/all/5540_this_ice_is_not_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_safe_not_safe-p5",
+     "type": "sentence",
+     "en": "This water is safe.",
+     "zh": "这片水是安全的。",
+     "audio": "audio/all/5541_this_water_is_safe.mp3",
+     "slow": "audio/all/5541_this_water_is_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_safe_not_safe-p6",
+     "type": "sentence",
+     "en": "This water is not safe.",
+     "zh": "这片水不安全。",
+     "audio": "audio/all/5542_this_water_is_not_safe.mp3",
+     "slow": "audio/all/5542_this_water_is_not_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_safe_not_safe-p7",
+     "type": "sentence",
+     "en": "This fire is safe.",
+     "zh": "这堆火是安全的。",
+     "audio": "audio/all/5543_this_fire_is_safe.mp3",
+     "slow": "audio/all/5543_this_fire_is_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_safe_not_safe-p8",
+     "type": "sentence",
+     "en": "This fire is not safe.",
+     "zh": "这堆火不安全。",
+     "audio": "audio/all/5544_this_fire_is_not_safe.mp3",
+     "slow": "audio/all/5544_this_fire_is_not_safe.mp3",
+     "image": "img/raz-a-safe_not_safe-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

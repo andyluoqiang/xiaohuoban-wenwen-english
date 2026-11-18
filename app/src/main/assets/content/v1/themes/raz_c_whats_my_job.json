@@ -1,0 +1,97 @@
+{
+ "theme": "raz_c_whats_my_job",
+ "nameZh": "我的职业是什么",
+ "bookTitle": "What's My Job?",
+ "razLevel": "C",
+ "order": 81,
+ "cover": "img/raz-c-whats_my_job-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_whats_my_job-u1",
+   "band": 2,
+   "title": "What's My Job? · 我的职业是什么",
+   "cards": [
+    {
+     "id": "raz_c_whats_my_job-p1",
+     "type": "sentence",
+     "en": "Women I know do many jobs.",
+     "zh": "我认识的女性从事很多职业。",
+     "audio": "audio/all/6916_women_i_know_do_many_jobs.mp3",
+     "slow": "audio/all/6916_women_i_know_do_many_jobs.mp3",
+     "image": "img/raz-c-whats_my_job-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_whats_my_job-p2",
+     "type": "sentence",
+     "en": "A woman I know makes art.",
+     "zh": "我认识的一位女性做艺术。",
+     "audio": "audio/all/6917_a_woman_i_know_makes_art.mp3",
+     "slow": "audio/all/6917_a_woman_i_know_makes_art.mp3",
+     "image": "img/raz-c-whats_my_job-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_whats_my_job-p3",
+     "type": "sentence",
+     "en": "A woman I know is a boss.",
+     "zh": "我认识的一位女性是老板。",
+     "audio": "audio/all/6918_a_woman_i_know_is_a_boss.mp3",
+     "slow": "audio/all/6918_a_woman_i_know_is_a_boss.mp3",
+     "image": "img/raz-c-whats_my_job-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_whats_my_job-p4",
+     "type": "sentence",
+     "en": "A woman I know drives a truck.",
+     "zh": "我认识的一位女性开卡车。",
+     "audio": "audio/all/6919_a_woman_i_know_drives_a_truck.mp3",
+     "slow": "audio/all/6919_a_woman_i_know_drives_a_truck.mp3",
+     "image": "img/raz-c-whats_my_job-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_whats_my_job-p5",
+     "type": "sentence",
+     "en": "A woman I know is a teacher.",
+     "zh": "我认识的一位女性是老师。",
+     "audio": "audio/all/6920_a_woman_i_know_is_a_teacher.mp3",
+     "slow": "audio/all/6920_a_woman_i_know_is_a_teacher.mp3",
+     "image": "img/raz-c-whats_my_job-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_whats_my_job-p6",
+     "type": "sentence",
+     "en": "A woman I know works in a zoo.",
+     "zh": "我认识的一位女性在动物园工作。",
+     "audio": "audio/all/6921_a_woman_i_know_works_in_a_zoo.mp3",
+     "slow": "audio/all/6921_a_woman_i_know_works_in_a_zoo.mp3",
+     "image": "img/raz-c-whats_my_job-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_whats_my_job-p7",
+     "type": "sentence",
+     "en": "I will do a job one day.",
+     "zh": "我总有一天也会工作。",
+     "audio": "audio/all/6922_i_will_do_a_job_one_day.mp3",
+     "slow": "audio/all/6922_i_will_do_a_job_one_day.mp3",
+     "image": "img/raz-c-whats_my_job-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_whats_my_job-p8",
+     "type": "sentence",
+     "en": "Now my job is to play!",
+     "zh": "现在我的工作就是玩！",
+     "audio": "audio/all/6923_now_my_job_is_to_play.mp3",
+     "slow": "audio/all/6923_now_my_job_is_to_play.mp3",
+     "image": "img/raz-c-whats_my_job-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

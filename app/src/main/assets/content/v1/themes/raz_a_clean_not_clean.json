@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_clean_not_clean",
+ "nameZh": "干净，不干净",
+ "bookTitle": "Clean, Not Clean",
+ "razLevel": "A",
+ "order": 13,
+ "cover": "img/raz-a-clean_not_clean-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_clean_not_clean-u1",
+   "band": 2,
+   "title": "Clean, Not Clean · 干净，不干净",
+   "cards": [
+    {
+     "id": "raz_a_clean_not_clean-p1",
+     "type": "sentence",
+     "en": "This room is clean.",
+     "zh": "这个房间是干净的。",
+     "audio": "audio/all/5200_this_room_is_clean.mp3",
+     "slow": "audio/all/5200_this_room_is_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_clean_not_clean-p2",
+     "type": "sentence",
+     "en": "This room is not clean.",
+     "zh": "这个房间不干净。",
+     "audio": "audio/all/5201_this_room_is_not_clean.mp3",
+     "slow": "audio/all/5201_this_room_is_not_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_clean_not_clean-p3",
+     "type": "sentence",
+     "en": "This shoe is clean.",
+     "zh": "这只鞋是干净的。",
+     "audio": "audio/all/5202_this_shoe_is_clean.mp3",
+     "slow": "audio/all/5202_this_shoe_is_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_clean_not_clean-p4",
+     "type": "sentence",
+     "en": "This shoe is not clean.",
+     "zh": "这只鞋不干净。",
+     "audio": "audio/all/5203_this_shoe_is_not_clean.mp3",
+     "slow": "audio/all/5203_this_shoe_is_not_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_clean_not_clean-p5",
+     "type": "sentence",
+     "en": "This hand is clean.",
+     "zh": "这只手是干净的。",
+     "audio": "audio/all/5204_this_hand_is_clean.mp3",
+     "slow": "audio/all/5204_this_hand_is_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_clean_not_clean-p6",
+     "type": "sentence",
+     "en": "This hand is not clean.",
+     "zh": "这只手不干净。",
+     "audio": "audio/all/5205_this_hand_is_not_clean.mp3",
+     "slow": "audio/all/5205_this_hand_is_not_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_clean_not_clean-p7",
+     "type": "sentence",
+     "en": "This food is clean.",
+     "zh": "这个食物是干净的。",
+     "audio": "audio/all/5206_this_food_is_clean.mp3",
+     "slow": "audio/all/5206_this_food_is_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_clean_not_clean-p8",
+     "type": "sentence",
+     "en": "This food is not clean.",
+     "zh": "这个食物不干净。",
+     "audio": "audio/all/5207_this_food_is_not_clean.mp3",
+     "slow": "audio/all/5207_this_food_is_not_clean.mp3",
+     "image": "img/raz-a-clean_not_clean-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

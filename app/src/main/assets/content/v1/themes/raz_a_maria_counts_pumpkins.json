@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_maria_counts_pumpkins",
+ "nameZh": "玛丽亚数南瓜",
+ "bookTitle": "Maria Counts Pumpkins",
+ "razLevel": "A",
+ "order": 37,
+ "cover": "img/raz-a-maria_counts_pumpkins-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_maria_counts_pumpkins-u1",
+   "band": 2,
+   "title": "Maria Counts Pumpkins · 玛丽亚数南瓜",
+   "cards": [
+    {
+     "id": "raz_a_maria_counts_pumpkins-p1",
+     "type": "sentence",
+     "en": "Maria has one pumpkin.",
+     "zh": "玛丽亚有一个南瓜。",
+     "audio": "audio/all/5391_maria_has_one_pumpkin.mp3",
+     "slow": "audio/all/5391_maria_has_one_pumpkin.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p2",
+     "type": "sentence",
+     "en": "Maria has two pumpkins.",
+     "zh": "玛丽亚有两个南瓜。",
+     "audio": "audio/all/5392_maria_has_two_pumpkins.mp3",
+     "slow": "audio/all/5392_maria_has_two_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p3",
+     "type": "sentence",
+     "en": "Maria has three pumpkins.",
+     "zh": "玛丽亚有三个南瓜。",
+     "audio": "audio/all/5393_maria_has_three_pumpkins.mp3",
+     "slow": "audio/all/5393_maria_has_three_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p4",
+     "type": "sentence",
+     "en": "Maria has four pumpkins.",
+     "zh": "玛丽亚有四个南瓜。",
+     "audio": "audio/all/5394_maria_has_four_pumpkins.mp3",
+     "slow": "audio/all/5394_maria_has_four_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p5",
+     "type": "sentence",
+     "en": "Maria has five pumpkins.",
+     "zh": "玛丽亚有五个南瓜。",
+     "audio": "audio/all/5395_maria_has_five_pumpkins.mp3",
+     "slow": "audio/all/5395_maria_has_five_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p6",
+     "type": "sentence",
+     "en": "Maria has six pumpkins.",
+     "zh": "玛丽亚有六个南瓜。",
+     "audio": "audio/all/5396_maria_has_six_pumpkins.mp3",
+     "slow": "audio/all/5396_maria_has_six_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p7",
+     "type": "sentence",
+     "en": "Maria has seven pumpkins.",
+     "zh": "玛丽亚有七个南瓜。",
+     "audio": "audio/all/5397_maria_has_seven_pumpkins.mp3",
+     "slow": "audio/all/5397_maria_has_seven_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_maria_counts_pumpkins-p8",
+     "type": "sentence",
+     "en": "Maria has too many pumpkins!",
+     "zh": "玛丽亚有太多南瓜啦！",
+     "audio": "audio/all/5398_maria_has_too_many_pumpkins.mp3",
+     "slow": "audio/all/5398_maria_has_too_many_pumpkins.mp3",
+     "image": "img/raz-a-maria_counts_pumpkins-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

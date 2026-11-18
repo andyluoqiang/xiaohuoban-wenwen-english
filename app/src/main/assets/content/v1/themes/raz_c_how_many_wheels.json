@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_how_many_wheels",
+ "nameZh": "有几个轮子？",
+ "bookTitle": "How Many Wheels?",
+ "razLevel": "C",
+ "order": 22,
+ "cover": "img/raz-c-how_many_wheels-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_how_many_wheels-u1",
+   "band": 2,
+   "title": "How Many Wheels? · 有几个轮子？",
+   "cards": [
+    {
+     "id": "raz_c_how_many_wheels-p1",
+     "type": "sentence",
+     "en": "Many things have wheels.",
+     "zh": "很多东西有轮子。",
+     "audio": "audio/all/6261_many_things_have_wheels.mp3",
+     "slow": "audio/all/6261_many_things_have_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_how_many_wheels-p2",
+     "type": "sentence",
+     "en": "Wheels help things move.",
+     "zh": "轮子帮助东西移动。",
+     "audio": "audio/all/6262_wheels_help_things_move.mp3",
+     "slow": "audio/all/6262_wheels_help_things_move.mp3",
+     "image": "img/raz-c-how_many_wheels-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_how_many_wheels-p3",
+     "type": "sentence",
+     "en": "Some things have one wheel.",
+     "zh": "有些东西有一个轮子。",
+     "audio": "audio/all/6263_some_things_have_one_wheel.mp3",
+     "slow": "audio/all/6263_some_things_have_one_wheel.mp3",
+     "image": "img/raz-c-how_many_wheels-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_how_many_wheels-p4",
+     "type": "sentence",
+     "en": "Some things have two wheels.",
+     "zh": "有些东西有两个轮子。",
+     "audio": "audio/all/6264_some_things_have_two_wheels.mp3",
+     "slow": "audio/all/6264_some_things_have_two_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_how_many_wheels-p5",
+     "type": "sentence",
+     "en": "Some things have three wheels.",
+     "zh": "有些东西有三个轮子。",
+     "audio": "audio/all/6265_some_things_have_three_wheels.mp3",
+     "slow": "audio/all/6265_some_things_have_three_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_how_many_wheels-p6",
+     "type": "sentence",
+     "en": "Some things have four wheels.",
+     "zh": "有些东西有四个轮子。",
+     "audio": "audio/all/6266_some_things_have_four_wheels.mp3",
+     "slow": "audio/all/6266_some_things_have_four_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_how_many_wheels-p7",
+     "type": "sentence",
+     "en": "Some things have many wheels.",
+     "zh": "有些东西有很多轮子。",
+     "audio": "audio/all/6267_some_things_have_many_wheels.mp3",
+     "slow": "audio/all/6267_some_things_have_many_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_how_many_wheels-p8",
+     "type": "sentence",
+     "en": "These things have many wheels, too.",
+     "zh": "这些东西也有很多轮子。",
+     "audio": "audio/all/6268_these_things_have_many_wheels_too.mp3",
+     "slow": "audio/all/6268_these_things_have_many_wheels_too.mp3",
+     "image": "img/raz-c-how_many_wheels-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_how_many_wheels-p9",
+     "type": "sentence",
+     "en": "Some things have no wheels.",
+     "zh": "有些东西没有轮子。",
+     "audio": "audio/all/6269_some_things_have_no_wheels.mp3",
+     "slow": "audio/all/6269_some_things_have_no_wheels.mp3",
+     "image": "img/raz-c-how_many_wheels-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_how_many_wheels-p10",
+     "type": "sentence",
+     "en": "How do these things move?",
+     "zh": "这些东西怎么移动呢？",
+     "audio": "audio/all/6270_how_do_these_things_move.mp3",
+     "slow": "audio/all/6270_how_do_these_things_move.mp3",
+     "image": "img/raz-c-how_many_wheels-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

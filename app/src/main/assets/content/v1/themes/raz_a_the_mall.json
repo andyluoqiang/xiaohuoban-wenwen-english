@@ -1,0 +1,97 @@
+{
+ "theme": "raz_a_the_mall",
+ "nameZh": "购物中心",
+ "bookTitle": "The Mall",
+ "razLevel": "A",
+ "order": 65,
+ "cover": "img/raz-a-the_mall-cover.jpg",
+ "units": [
+  {
+   "id": "raz_a_the_mall-u1",
+   "band": 2,
+   "title": "The Mall · 购物中心",
+   "cards": [
+    {
+     "id": "raz_a_the_mall-p1",
+     "type": "sentence",
+     "en": "We see the mall.",
+     "zh": "我们看见购物中心。",
+     "audio": "audio/all/5617_we_see_the_mall.mp3",
+     "slow": "audio/all/5617_we_see_the_mall.mp3",
+     "image": "img/raz-a-the_mall-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_a_the_mall-p2",
+     "type": "sentence",
+     "en": "We see the doors.",
+     "zh": "我们看见大门。",
+     "audio": "audio/all/5618_we_see_the_doors.mp3",
+     "slow": "audio/all/5618_we_see_the_doors.mp3",
+     "image": "img/raz-a-the_mall-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_a_the_mall-p3",
+     "type": "sentence",
+     "en": "We see the stores.",
+     "zh": "我们看见商店。",
+     "audio": "audio/all/5619_we_see_the_stores.mp3",
+     "slow": "audio/all/5619_we_see_the_stores.mp3",
+     "image": "img/raz-a-the_mall-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_a_the_mall-p4",
+     "type": "sentence",
+     "en": "We see the people.",
+     "zh": "我们看见人们。",
+     "audio": "audio/all/5620_we_see_the_people.mp3",
+     "slow": "audio/all/5620_we_see_the_people.mp3",
+     "image": "img/raz-a-the_mall-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_a_the_mall-p5",
+     "type": "sentence",
+     "en": "We see the workers.",
+     "zh": "我们看见工作人员。",
+     "audio": "audio/all/5621_we_see_the_workers.mp3",
+     "slow": "audio/all/5621_we_see_the_workers.mp3",
+     "image": "img/raz-a-the_mall-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_a_the_mall-p6",
+     "type": "sentence",
+     "en": "We see the bags.",
+     "zh": "我们看见袋子。",
+     "audio": "audio/all/5622_we_see_the_bags.mp3",
+     "slow": "audio/all/5622_we_see_the_bags.mp3",
+     "image": "img/raz-a-the_mall-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_a_the_mall-p7",
+     "type": "sentence",
+     "en": "We see the food.",
+     "zh": "我们看见食物。",
+     "audio": "audio/all/5623_we_see_the_food.mp3",
+     "slow": "audio/all/5623_we_see_the_food.mp3",
+     "image": "img/raz-a-the_mall-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_a_the_mall-p8",
+     "type": "sentence",
+     "en": "We see the toys!",
+     "zh": "我们看见玩具！",
+     "audio": "audio/all/5624_we_see_the_toys.mp3",
+     "slow": "audio/all/5624_we_see_the_toys.mp3",
+     "image": "img/raz-a-the_mall-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

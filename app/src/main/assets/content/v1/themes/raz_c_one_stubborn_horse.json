@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_one_stubborn_horse",
+ "nameZh": "一匹倔强的马",
+ "bookTitle": "One Stubborn Horse",
+ "razLevel": "C",
+ "order": 40,
+ "cover": "img/raz-c-one_stubborn_horse-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_one_stubborn_horse-u1",
+   "band": 2,
+   "title": "One Stubborn Horse · 一匹倔强的马",
+   "cards": [
+    {
+     "id": "raz_c_one_stubborn_horse-p1",
+     "type": "sentence",
+     "en": "I pushed the horse.",
+     "zh": "我推这匹马。",
+     "audio": "audio/all/6447_i_pushed_the_horse.mp3",
+     "slow": "audio/all/6447_i_pushed_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p2",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6448_she_would_not_move.mp3",
+     "slow": "audio/all/6448_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p3",
+     "type": "sentence",
+     "en": "I pulled the horse.",
+     "zh": "我拉这匹马。",
+     "audio": "audio/all/6449_i_pulled_the_horse.mp3",
+     "slow": "audio/all/6449_i_pulled_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p4",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6450_she_would_not_move.mp3",
+     "slow": "audio/all/6450_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p5",
+     "type": "sentence",
+     "en": "I fed the horse.",
+     "zh": "我喂这匹马。",
+     "audio": "audio/all/6451_i_fed_the_horse.mp3",
+     "slow": "audio/all/6451_i_fed_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p6",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6452_she_would_not_move.mp3",
+     "slow": "audio/all/6452_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p7",
+     "type": "sentence",
+     "en": "I tickled the horse.",
+     "zh": "我挠这匹马痒痒。",
+     "audio": "audio/all/6453_i_tickled_the_horse.mp3",
+     "slow": "audio/all/6453_i_tickled_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p8",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6454_she_would_not_move.mp3",
+     "slow": "audio/all/6454_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p9",
+     "type": "sentence",
+     "en": "I washed the horse.",
+     "zh": "我给这匹马洗澡。",
+     "audio": "audio/all/6455_i_washed_the_horse.mp3",
+     "slow": "audio/all/6455_i_washed_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p10",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6456_she_would_not_move.mp3",
+     "slow": "audio/all/6456_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p11",
+     "type": "sentence",
+     "en": "I brushed the horse.",
+     "zh": "我给这匹马刷毛。",
+     "audio": "audio/all/6457_i_brushed_the_horse.mp3",
+     "slow": "audio/all/6457_i_brushed_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p12",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6458_she_would_not_move.mp3",
+     "slow": "audio/all/6458_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p13",
+     "type": "sentence",
+     "en": "I begged the horse.",
+     "zh": "我求这匹马。",
+     "audio": "audio/all/6459_i_begged_the_horse.mp3",
+     "slow": "audio/all/6459_i_begged_the_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p14",
+     "type": "sentence",
+     "en": "She would not move.",
+     "zh": "它不动。",
+     "audio": "audio/all/6460_she_would_not_move.mp3",
+     "slow": "audio/all/6460_she_would_not_move.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p15",
+     "type": "sentence",
+     "en": "I give up.",
+     "zh": "我放弃。",
+     "audio": "audio/all/6461_i_give_up.mp3",
+     "slow": "audio/all/6461_i_give_up.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_one_stubborn_horse-p16",
+     "type": "sentence",
+     "en": "She is one stubborn horse!",
+     "zh": "它真是一匹倔强的马！",
+     "audio": "audio/all/6462_she_is_one_stubborn_horse.mp3",
+     "slow": "audio/all/6462_she_is_one_stubborn_horse.mp3",
+     "image": "img/raz-c-one_stubborn_horse-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "theme": "raz_c_you_like_what",
+ "nameZh": "你喜欢什么？",
+ "bookTitle": "You Like What?",
+ "razLevel": "C",
+ "order": 86,
+ "cover": "img/raz-c-you_like_what-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_you_like_what-u1",
+   "band": 2,
+   "title": "You Like What? · 你喜欢什么？",
+   "cards": [
+    {
+     "id": "raz_c_you_like_what-p1",
+     "type": "sentence",
+     "en": "Some children eat surprising foods.",
+     "zh": "有些孩子吃让人意外的食物。",
+     "audio": "audio/all/6960_some_children_eat_surprising_foods.mp3",
+     "slow": "audio/all/6960_some_children_eat_surprising_foods.mp3",
+     "image": "img/raz-c-you_like_what-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_you_like_what-p2",
+     "type": "sentence",
+     "en": "This girl likes crickets.",
+     "zh": "这个女孩喜欢蟋蟀。",
+     "audio": "audio/all/6961_this_girl_likes_crickets.mp3",
+     "slow": "audio/all/6961_this_girl_likes_crickets.mp3",
+     "image": "img/raz-c-you_like_what-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_you_like_what-p3",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6962_do_you.mp3",
+     "slow": "audio/all/6962_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_you_like_what-p4",
+     "type": "sentence",
+     "en": "This girl likes fish eggs.",
+     "zh": "这个女孩喜欢鱼籽。",
+     "audio": "audio/all/6963_this_girl_likes_fish_eggs.mp3",
+     "slow": "audio/all/6963_this_girl_likes_fish_eggs.mp3",
+     "image": "img/raz-c-you_like_what-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_you_like_what-p5",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6964_do_you.mp3",
+     "slow": "audio/all/6964_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_you_like_what-p6",
+     "type": "sentence",
+     "en": "This boy likes water bugs.",
+     "zh": "这个男孩喜欢水虫。",
+     "audio": "audio/all/6965_this_boy_likes_water_bugs.mp3",
+     "slow": "audio/all/6965_this_boy_likes_water_bugs.mp3",
+     "image": "img/raz-c-you_like_what-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_you_like_what-p7",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6966_do_you.mp3",
+     "slow": "audio/all/6966_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_you_like_what-p8",
+     "type": "sentence",
+     "en": "This boy likes mealworms.",
+     "zh": "这个男孩喜欢面包虫。",
+     "audio": "audio/all/6967_this_boy_likes_mealworms.mp3",
+     "slow": "audio/all/6967_this_boy_likes_mealworms.mp3",
+     "image": "img/raz-c-you_like_what-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_you_like_what-p9",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6968_do_you.mp3",
+     "slow": "audio/all/6968_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_you_like_what-p10",
+     "type": "sentence",
+     "en": "This girl likes flowers.",
+     "zh": "这个女孩喜欢花。",
+     "audio": "audio/all/6969_this_girl_likes_flowers.mp3",
+     "slow": "audio/all/6969_this_girl_likes_flowers.mp3",
+     "image": "img/raz-c-you_like_what-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_you_like_what-p11",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6970_do_you.mp3",
+     "slow": "audio/all/6970_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_you_like_what-p12",
+     "type": "sentence",
+     "en": "This boy likes spiders.",
+     "zh": "这个男孩喜欢蜘蛛。",
+     "audio": "audio/all/6971_this_boy_likes_spiders.mp3",
+     "slow": "audio/all/6971_this_boy_likes_spiders.mp3",
+     "image": "img/raz-c-you_like_what-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_you_like_what-p13",
+     "type": "sentence",
+     "en": "Do you?",
+     "zh": "你呢？",
+     "audio": "audio/all/6972_do_you.mp3",
+     "slow": "audio/all/6972_do_you.mp3",
+     "image": "img/raz-c-you_like_what-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_you_like_what-p14",
+     "type": "sentence",
+     "en": "This girl likes squid.",
+     "zh": "这个女孩喜欢鱿鱼。",
+     "audio": "audio/all/6973_this_girl_likes_squid.mp3",
+     "slow": "audio/all/6973_this_girl_likes_squid.mp3",
+     "image": "img/raz-c-you_like_what-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_you_like_what-p15",
+     "type": "sentence",
+     "en": "Well, maybe not.",
+     "zh": "呃，也许还是算了。",
+     "audio": "audio/all/6974_well_maybe_not.mp3",
+     "slow": "audio/all/6974_well_maybe_not.mp3",
+     "image": "img/raz-c-you_like_what-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

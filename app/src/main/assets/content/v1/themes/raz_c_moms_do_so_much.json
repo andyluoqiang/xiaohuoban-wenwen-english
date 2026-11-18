@@ -1,0 +1,117 @@
+{
+ "theme": "raz_c_moms_do_so_much",
+ "nameZh": "妈妈做这么多",
+ "bookTitle": "Moms Do So Much",
+ "razLevel": "C",
+ "order": 34,
+ "cover": "img/raz-c-moms_do_so_much-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_moms_do_so_much-u1",
+   "band": 2,
+   "title": "Moms Do So Much · 妈妈做这么多",
+   "cards": [
+    {
+     "id": "raz_c_moms_do_so_much-p1",
+     "type": "sentence",
+     "en": "What do moms do?",
+     "zh": "妈妈们都做什么呢？",
+     "audio": "audio/all/6394_what_do_moms_do.mp3",
+     "slow": "audio/all/6394_what_do_moms_do.mp3",
+     "image": "img/raz-c-moms_do_so_much-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p2",
+     "type": "sentence",
+     "en": "Moms do so much!",
+     "zh": "妈妈做的真多！",
+     "audio": "audio/all/6395_moms_do_so_much.mp3",
+     "slow": "audio/all/6395_moms_do_so_much.mp3",
+     "image": "img/raz-c-moms_do_so_much-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p3",
+     "type": "sentence",
+     "en": "This mom is feeding her baby.",
+     "zh": "这位妈妈在喂宝宝。",
+     "audio": "audio/all/6396_this_mom_is_feeding_her_baby.mp3",
+     "slow": "audio/all/6396_this_mom_is_feeding_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p4",
+     "type": "sentence",
+     "en": "This mom is washing her baby.",
+     "zh": "这位妈妈在给宝宝洗澡。",
+     "audio": "audio/all/6397_this_mom_is_washing_her_baby.mp3",
+     "slow": "audio/all/6397_this_mom_is_washing_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p5",
+     "type": "sentence",
+     "en": "This mom is teaching her baby.",
+     "zh": "这位妈妈在教宝宝。",
+     "audio": "audio/all/6398_this_mom_is_teaching_her_baby.mp3",
+     "slow": "audio/all/6398_this_mom_is_teaching_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p6",
+     "type": "sentence",
+     "en": "This mom is singing to her baby.",
+     "zh": "这位妈妈在给宝宝唱歌。",
+     "audio": "audio/all/6399_this_mom_is_singing_to_her_baby.mp3",
+     "slow": "audio/all/6399_this_mom_is_singing_to_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p7",
+     "type": "sentence",
+     "en": "This mom is cuddling her baby.",
+     "zh": "这位妈妈在抱着宝宝。",
+     "audio": "audio/all/6400_this_mom_is_cuddling_her_baby.mp3",
+     "slow": "audio/all/6400_this_mom_is_cuddling_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p8",
+     "type": "sentence",
+     "en": "This mom is protecting her baby.",
+     "zh": "这位妈妈在保护宝宝。",
+     "audio": "audio/all/6401_this_mom_is_protecting_her_baby.mp3",
+     "slow": "audio/all/6401_this_mom_is_protecting_her_baby.mp3",
+     "image": "img/raz-c-moms_do_so_much-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p9",
+     "type": "sentence",
+     "en": "Moms do so much!",
+     "zh": "妈妈做的真多！",
+     "audio": "audio/all/6402_moms_do_so_much.mp3",
+     "slow": "audio/all/6402_moms_do_so_much.mp3",
+     "image": "img/raz-c-moms_do_so_much-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_moms_do_so_much-p10",
+     "type": "sentence",
+     "en": "What does your mom do?",
+     "zh": "你的妈妈做什么呢？",
+     "audio": "audio/all/6403_what_does_your_mom_do.mp3",
+     "slow": "audio/all/6403_what_does_your_mom_do.mp3",
+     "image": "img/raz-c-moms_do_so_much-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}

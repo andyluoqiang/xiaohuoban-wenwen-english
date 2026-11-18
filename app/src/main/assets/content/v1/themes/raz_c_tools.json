@@ -1,0 +1,177 @@
+{
+ "theme": "raz_c_tools",
+ "nameZh": "工具",
+ "bookTitle": "Tools",
+ "razLevel": "C",
+ "order": 65,
+ "cover": "img/raz-c-tools-cover.jpg",
+ "units": [
+  {
+   "id": "raz_c_tools-u1",
+   "band": 2,
+   "title": "Tools · 工具",
+   "cards": [
+    {
+     "id": "raz_c_tools-p1",
+     "type": "sentence",
+     "en": "I see tools everywhere.",
+     "zh": "我到处都能看到工具。",
+     "audio": "audio/all/6728_i_see_tools_everywhere.mp3",
+     "slow": "audio/all/6728_i_see_tools_everywhere.mp3",
+     "image": "img/raz-c-tools-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_tools-p2",
+     "type": "sentence",
+     "en": "Tools help us work.",
+     "zh": "工具帮我们干活。",
+     "audio": "audio/all/6729_tools_help_us_work.mp3",
+     "slow": "audio/all/6729_tools_help_us_work.mp3",
+     "image": "img/raz-c-tools-p01.jpg",
+     "page": 1
+    },
+    {
+     "id": "raz_c_tools-p3",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6730_here_is_a_tool.mp3",
+     "slow": "audio/all/6730_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_tools-p4",
+     "type": "sentence",
+     "en": "It is a pencil for writing.",
+     "zh": "它是用来写字的铅笔。",
+     "audio": "audio/all/6731_it_is_a_pencil_for_writing.mp3",
+     "slow": "audio/all/6731_it_is_a_pencil_for_writing.mp3",
+     "image": "img/raz-c-tools-p02.jpg",
+     "page": 2
+    },
+    {
+     "id": "raz_c_tools-p5",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6732_here_is_a_tool.mp3",
+     "slow": "audio/all/6732_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_tools-p6",
+     "type": "sentence",
+     "en": "It is a rake for raking.",
+     "zh": "它是用来耙东西的耙子。",
+     "audio": "audio/all/6733_it_is_a_rake_for_raking.mp3",
+     "slow": "audio/all/6733_it_is_a_rake_for_raking.mp3",
+     "image": "img/raz-c-tools-p03.jpg",
+     "page": 3
+    },
+    {
+     "id": "raz_c_tools-p7",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6734_here_is_a_tool.mp3",
+     "slow": "audio/all/6734_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_tools-p8",
+     "type": "sentence",
+     "en": "It is a hammer for pounding.",
+     "zh": "它是用来敲打的锤子。",
+     "audio": "audio/all/6735_it_is_a_hammer_for_pounding.mp3",
+     "slow": "audio/all/6735_it_is_a_hammer_for_pounding.mp3",
+     "image": "img/raz-c-tools-p04.jpg",
+     "page": 4
+    },
+    {
+     "id": "raz_c_tools-p9",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6736_here_is_a_tool.mp3",
+     "slow": "audio/all/6736_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_tools-p10",
+     "type": "sentence",
+     "en": "It is a shovel for digging.",
+     "zh": "它是用来挖土的铲子。",
+     "audio": "audio/all/6737_it_is_a_shovel_for_digging.mp3",
+     "slow": "audio/all/6737_it_is_a_shovel_for_digging.mp3",
+     "image": "img/raz-c-tools-p05.jpg",
+     "page": 5
+    },
+    {
+     "id": "raz_c_tools-p11",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6738_here_is_a_tool.mp3",
+     "slow": "audio/all/6738_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_tools-p12",
+     "type": "sentence",
+     "en": "It is a knife for cutting.",
+     "zh": "它是用来切东西的刀。",
+     "audio": "audio/all/6739_it_is_a_knife_for_cutting.mp3",
+     "slow": "audio/all/6739_it_is_a_knife_for_cutting.mp3",
+     "image": "img/raz-c-tools-p06.jpg",
+     "page": 6
+    },
+    {
+     "id": "raz_c_tools-p13",
+     "type": "sentence",
+     "en": "Here is a tool.",
+     "zh": "这是一个工具。",
+     "audio": "audio/all/6740_here_is_a_tool.mp3",
+     "slow": "audio/all/6740_here_is_a_tool.mp3",
+     "image": "img/raz-c-tools-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_tools-p14",
+     "type": "sentence",
+     "en": "It is a wheelbarrow for carrying.",
+     "zh": "它是用来搬运的独轮车。",
+     "audio": "audio/all/6741_it_is_a_wheelbarrow_for_carrying.mp3",
+     "slow": "audio/all/6741_it_is_a_wheelbarrow_for_carrying.mp3",
+     "image": "img/raz-c-tools-p07.jpg",
+     "page": 7
+    },
+    {
+     "id": "raz_c_tools-p15",
+     "type": "sentence",
+     "en": "I see tools everywhere.",
+     "zh": "我到处都能看到工具。",
+     "audio": "audio/all/6742_i_see_tools_everywhere.mp3",
+     "slow": "audio/all/6742_i_see_tools_everywhere.mp3",
+     "image": "img/raz-c-tools-p08.jpg",
+     "page": 8
+    },
+    {
+     "id": "raz_c_tools-p16",
+     "type": "sentence",
+     "en": "What tools do you see?",
+     "zh": "你看到什么工具呢？",
+     "audio": "audio/all/6743_what_tools_do_you_see.mp3",
+     "slow": "audio/all/6743_what_tools_do_you_see.mp3",
+     "image": "img/raz-c-tools-p08.jpg",
+     "page": 8
+    }
+   ]
+  }
+ ]
+}
