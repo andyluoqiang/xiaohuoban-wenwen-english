@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>稳稳学英语 · RAZ 资源 MediaCache 验证（混合模式）</title>
+<style>
+  :root { --bg:#FFF6EA; --brown:#4E342E; --hint:#A1887F; --green:#3E9D80; --bad:#C62828; --blue:#4FA3D1; }
+  *{box-sizing:border-box}
+  body{font-family:"Microsoft YaHei",sans-serif;background:var(--bg);margin:0;padding:18px;color:var(--brown)}
+  h1{font-size:21px;margin:0 0 4px}
+  .muted{color:var(--hint);font-size:12px}
+  h2{font-size:16px;color:var(--green);border-bottom:2px solid #AED581;padding-bottom:5px;margin:26px 0 10px}
+  .panel{background:#fff;border-radius:16px;padding:14px;box-shadow:0 3px 10px rgba(0,0,0,.07);margin-top:10px}
+  table{border-collapse:collapse;font-size:12.5px;background:#fff;width:100%}
+  td,th{border:1px solid #E0D5C8;padding:5px 9px;text-align:left;word-break:break-all}
+  .ok{color:#2E7D32;font-weight:700}
+  .bad{color:var(--bad);font-weight:700}
+  .img-box img{height:70px;max-width:120px;object-fit:contain}
+  .btn{background:var(--green);color:#fff;border:none;border-radius:18px;padding:9px 20px;font-size:14px;cursor:pointer;margin:3px;font-weight:700}
+  #verdict{font-size:14px;font-weight:700}
+</style>
+</head>
+<body>
+<h1>🧪 稳稳学英语 · RAZ MediaCache 网页验证</h1>
+<div class="muted">验证目标：App 内 A/B/C/D 级资源改走 VPS（混合模式）后，MediaCache 的 <b>jpg→webp 映射 + VPS URL 拼接</b> 是否正确，webp 图能否被浏览器解码显示、64k mp3 能否正常播放。测试直接用真实书 JSON 引用走同一映射逻辑。</div>
+<div id="verdict">准备中…</div>
+
+<h2>① 资源引用 → VPS URL 映射（MediaCache 逻辑复刻）</h2>
+<div class="panel" id="p1"></div>
+
+<h2>② 实测加载（<img>/<audio> 拉取 VPS）</h2>
+<div class="panel" id="p2"></div>
+
+<script>
+const BASE = "https://www.jxonline.top/raz/";
+// 与 MediaCache 相同的映射逻辑（Kotlin 复刻）
+function levelOf(ref){
+  const m = ref.match(/raz-(aa|[A-Za-z0-9]+)-/);
+  if(m) return m[1].toLowerCase();
+  const n = ref.match(/\/(\d+)_/);
+  if(!n) return null;
+  const v=+n[1];
+  if(v<=909)return"aa"; if(v>=5100&&v<=5784)return"a";
+  if(v>=6000&&v<=6990)return"b"; if(v>=7100&&v<=8276)return"c";
+  if(v>=8400&&v<=9104)return"d"; return null;
+}
+function isOffline(lv){return lv==null||lv==="aa";}
+function imagePath(ref){return ref.toLowerCase().includes("raz-")&&ref.toLowerCase().endsWith(".jpg")?ref.slice(0,-4)+".webp":ref;}
+function vpsUrl(ref){
+  const rel=ref.replace(/^content\/v1\//,"");
+  if(rel.startsWith("img/")) return BASE+"img/"+imagePath(rel.slice(4));
+  if(rel.startsWith("audio/all/")) return BASE+"audio/all/"+rel.slice("audio/all/".length);
+  return BASE+rel;
+}
+// 各级抽样：真实书 JSON 引用（cover + 首页图 + 首页音频）
+const samples = [
+  {lv:"A", desc:"raz-a-all_kinds_of_faces", cover:"content/v1/img/raz-a-all_kinds_of_faces-cover.jpg", img:"content/v1/img/raz-a-all_kinds_of_faces-p01.jpg", aud:"content/v1/audio/all/5108_this_face_is_happy.mp3"},
+  {lv:"B", desc:"raz-b-after_school", cover:"content/v1/img/raz-b-after_school-cover.jpg", img:"content/v1/img/raz-b-after_school-p01.jpg", aud:"content/v1/audio/all/8408_i_like_to_study_after_school.mp3"},
+  {lv:"C", desc:"raz-c-allie_and_ollie", cover:"content/v1/img/raz-c-allie_and_ollie-cover.jpg", img:"content/v1/img/raz-c-allie_and_ollie-p01.jpg", aud:"content/v1/audio/all/6050_allie_and_ollie_are_dogs.mp3"},
+  {lv:"D", desc:"raz-d-all_about_foxes", cover:"content/v1/img/raz-d-all_about_foxes-cover.jpg", img:"content/v1/img/raz-d-all_about_foxes-p01.jpg", aud:"content/v1/audio/all/7108_foxes_are_mammals.mp3"}
+];
+function allOf(ref){
+  const lv=levelOf(ref);
+  const isImg=ref.includes("img/");
+  const mapped=isImg?imagePath(ref):ref;
+  const url=vpsUrl(ref);
+  return {ref,lv,isImg,mapped,url};
+}
+// ---- 渲染映射表 ----
+const p1=document.getElementById("p1");
+let t1="<table><tr><th>来源引用</th><th>识别级别</th><th>是否离线</th><th>映射后</th><th>VPS URL</th></tr>";
+samples.forEach(s=>{
+  [s.cover,s.img].forEach(ref=>{const r=allOf(ref); t1+=`<tr><td>${r.ref}</td><td>${r.lv}</td><td>${isOffline(r.lv)?"✅离线":"VPS"}</td><td>${r.mapped}</td><td class="muted">${r.url}</td></tr>`});
+  const r=allOf(s.aud); t1+=`<tr><td>${r.ref}</td><td>${r.lv}</td><td>${isOffline(r.lv)?"✅离线":"VPS"}</td><td>${r.mapped}</td><td class="muted">${r.url}</td></tr>`;
+});
+p1.innerHTML=t1+"</table>";
+
+// ---- 实测 ----
+const p2=document.getElementById("p2");
+let html="<table><tr><th>等级</th><th>类型</th><th>URL</th><th>结果</th></tr>";
+let total=0, pass=0;
+const rows=[];
+samples.forEach(s=>{
+  // 封面图
+  rows.push({lv:s.lv, type:"封面图(webp)", url:vpsUrl(s.cover)});
+  rows.push({lv:s.lv, type:"正文图(webp)", url:vpsUrl(s.img)});
+  rows.push({lv:s.lv, type:"句音(mp3 64k)", url:vpsUrl(s.aud)});
+});
+// ---- 实测：纯 async 串行（fetch HEAD 判定可达 + 图片实解码），消除事件竞态 ----
+async function testAll(){
+  for(const row of rows){
+    const tr=document.createElement("tr");
+    const tdLv=document.createElement("td");tdLv.textContent=row.lv;
+    const tdTy=document.createElement("td");tdTy.textContent=row.type;
+    const tdUrl=document.createElement("td");tdUrl.textContent=row.url;tdUrl.className="muted";
+    const tdRes=document.createElement("td");tdRes.textContent="…";
+    tr.appendChild(tdLv);tr.appendChild(tdTy);tr.appendChild(tdUrl);tr.appendChild(tdRes);
+    document.querySelector("#p2 table").appendChild(tr);
+    total++;
+    let ok=false, msg="";
+    try{
+      const r=await fetch(row.url,{method:"HEAD"});
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      const ct=r.headers.get("content-type")||"";
+      if(row.type.includes("mp3")){
+        ok=true; msg=r.status+" audio/mpeg("+ct.split("/")[1]+")";
+      } else {
+        // 图片：HEAD 通过后再实解码确认 webp
+        const r2=await fetch(row.url); const buf=await r2.arrayBuffer();
+        const b64="data:"+ct+";base64,"+toBase64(buf);
+        await new Promise(res=>{const im=new Image();im.onload=()=>res(true);im.onerror=()=>res(false);im.src=b64;}).then(v=>{if(v){ok=true;msg="webp 解码成功 "+Math.round(buf.byteLength/1024)+"KB";}else throw new Error("解码失败");});
+      }
+    }catch(e){ ok=false; msg=e.message; }
+    tdRes.innerHTML=ok?`<span class="ok">✅ ${msg}</span>`:`<span class="bad">❌ ${msg}</span>`;
+    if(ok)pass++;
+  }
+  finish();
+}
+function toBase64(buf){let b="";const u=new Uint8Array(buf);for(let i=0;i<u.length;i++)b+=String.fromCharCode(u[i]);return btoa(b);}
+function finish(){
+  const v=document.getElementById("verdict");
+  v.innerHTML=total===pass?`<span class="ok">✅ 全部通过 ${pass}/${total}</span>`:`<span class="bad">❌ ${pass}/${total} 通过，见下方详情</span>`;
+}
+let t2="<table><tr><th>等级</th><th>类型</th><th>URL</th><th>结果</th></tr></table>";
+p2.innerHTML=t2;
+setTimeout(testAll,200);
+</script>
+</body>
+</html>

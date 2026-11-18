@@ -7,6 +7,7 @@ import com.family.listenspeak.audio.SoundFx
 import com.family.listenspeak.audio.TtsSpeaker
 import com.family.listenspeak.data.ContentLoader
 import com.family.listenspeak.data.LsDb
+import com.family.listenspeak.data.MediaCache
 import com.family.listenspeak.eval.XfScorer
 import com.family.listenspeak.learn.ReviewEngine
 import com.family.listenspeak.learn.SessionEngine
@@ -34,6 +35,7 @@ class App : Application() {
         db = LsDb.get(this)
         content = ContentLoader(this)
         player = PlayerManager(this, this)
+        MediaCache.init(this)
         reviewEngine = ReviewEngine(db.reviewDao())
         sessionEngine = SessionEngine(db, content, reviewEngine)
         // TTS 预热（兜底发音）
@@ -51,7 +53,7 @@ class App : Application() {
                 val dir = getExternalFilesDir(null) ?: filesDir
                 val f = File(dir, "crash_${System.currentTimeMillis()}.log")
                 f.writeText(
-                    "time=${System.currentTimeMillis()}\nthread=${thread.name}\nversion=0.2.0\n\n" +
+                    "time=${System.currentTimeMillis()}\nthread=${thread.name}\nversion=0.2.25\n\n" +
                         Log.getStackTraceString(throwable)
                 )
             }

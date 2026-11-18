@@ -22,13 +22,50 @@ class PlayerManager(
      * @param fallbackText 音频缺失时用 TTS 读的英文
      */
     suspend fun play(assetPath: String, fallbackText: String? = null, slow: Boolean = false) {
-        if (assetExists(assetPath)) {
+        val cache = com.family.listenspeak.data.MediaCache.ensureCached(assetPath)
+        if (cache != null) {
+            playFile(cache.absolutePath)
+        } else if (assetExists(assetPath)) {
             playAsset(assetPath)
         } else {
             fallbackText?.let { text ->
                 (app as? com.family.listenspeak.App)?.tts?.speak(text, slow)
             }
         }
+    }
+
+    private suspend fun playFile(path: String) = suspendCancellableCoroutine<Unit> { cont ->
+        stop()
+        val mp = MediaPlayer()
+        player = mp
+        try {
+            mp.setAudioAttributes(
+                AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
+                    .build()
+            )
+            mp.setDataSource(path)
+            mp.isLooping = false
+            mp.setOnCompletionListener {
+                runCatching { it.release() }
+                if (player === it) player = null
+                if (cont.isActive) cont.resume(Unit)
+            }
+            mp.setOnErrorListener { p, _, _ ->
+                runCatching { runCatching { p.stop() }; p.release() }
+                if (player === p) player = null
+                if (cont.isActive) cont.resume(Unit)
+                true
+            }
+            mp.prepare()
+            mp.start()
+        } catch (e: Exception) {
+            runCatching { mp.release() }
+            if (player === mp) player = null
+            if (cont.isActive) cont.resume(Unit)
+        }
+        cont.invokeOnCancellation { runCatching { mp.stop(); mp.release() } }
     }
 
     private fun assetExists(path: String): Boolean = runCatching {

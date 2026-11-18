@@ -720,7 +720,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupImage(path: String, iv: ImageView) {
         lifecycleScope.launch {
-            val bmp = runCatching { assets.open(path).use { BitmapFactory.decodeStream(it) } }.getOrNull()
+            val cached = runCatching { com.family.listenspeak.data.MediaCache.cachedBitmap(path) }.getOrNull()
+            val bmp = cached ?: runCatching {
+                assets.open(com.family.listenspeak.data.MediaCache.assetPath(path)).use { BitmapFactory.decodeStream(it) }
+            }.getOrNull()
             if (bmp != null) iv.setImageBitmap(bmp)
         }
     }

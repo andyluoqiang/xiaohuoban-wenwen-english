@@ -31,7 +31,9 @@ import com.family.listenspeak.audio.SoundFx
 import com.family.listenspeak.data.RazCatalog
 import com.family.listenspeak.eval.ScoreOutcome
 import com.family.listenspeak.eval.StarMapper
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 /**
  * RAZ 分级阅读馆（v0.2.22）：级别列表 → 书架 → 一本书三步精读
@@ -131,7 +133,11 @@ class RazShelf(
 
     private fun setupImage(path: String, iv: ImageView) {
         act.lifecycleScope.launch {
-            val bmp = runCatching { act.assets.open(path).use { BitmapFactory.decodeStream(it) } }.getOrNull()
+            // 在线级（A/B/C/D）：缓存优先；离线级（aa）/下载失败：assets 兜底（RAZ 图为 webp）
+            val cached = runCatching { com.family.listenspeak.data.MediaCache.cachedBitmap(path) }.getOrNull()
+            val bmp = cached ?: runCatching {
+                act.assets.open(com.family.listenspeak.data.MediaCache.assetPath(path)).use { BitmapFactory.decodeStream(it) }
+            }.getOrNull()
             if (bmp != null) iv.setImageBitmap(bmp) else iv.setImageResource(android.R.drawable.ic_menu_gallery)
         }
     }
@@ -227,6 +233,24 @@ class RazShelf(
         curLevel = lv
         inSession = false
         setBackAction { onBack() }
+        // 在线级（A/B/C/D）：进书架即预取该级全部图+音频到本地缓存
+        if (!com.family.listenspeak.data.MediaCache.isOffline(lv.level)) {
+            act.lifecycleScope.launch {
+                val refs = withContext(kotlinx.coroutines.Dispatchers.IO) {
+                    lv.bookIds.mapNotNull { id ->
+                        val tc = RazCatalog.loadBookCards(act, id) ?: return@mapNotNull null
+                        val refsList = mutableListOf<String>()
+                        refsList.add(coverPath(id))
+                        tc.units.forEach { u -> u.cards.forEach { c ->
+                            c.image?.let { refsList.add("content/v1/$it") }
+                            c.audio?.let { refsList.add("content/v1/$it") }
+                        } }
+                        refsList
+                    }.flatten()
+                }
+                com.family.listenspeak.data.MediaCache.preloadLevel(lv.level, refs)
+            }
+        }
         val sc = ScrollView(act).apply { setBackgroundColor(bg()) }
         val col = vBox().apply { setPadding(dp(18), dp(18), dp(18), dp(64)) }
         val levelName = if (lv.level == "aa") "aa 级" else "${lv.level} 级"
